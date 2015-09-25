@@ -285,8 +285,8 @@ b. is artikel 4.5a van de Wet inkomstenbelasting 2001 van overeenkomstige toepas
 
 | Gedeelte van de belaste verkrijging tussen  | en  | I. indien verkregen door partner of afstammelingen in de rechte lijn<sup>1)</sup>   | II. in overige gevallen  |
 |:---|:---|:---|:---|
-| € 0  | € 117.214  | 10%  | 30%  |
-| € 117.214 en hoger  | --- | 20%  | 40%  |
+| € 0  | € 121.296  | 10%  | 30%  |
+| € 121.296 en hoger  | --- | 20%  | 40%  |
 
 <sup>1</sup> Voor afstammelingen in de tweede of verdere graad bedraagt de belasting het ingevolge deze kolom verschuldigde, vermeerderd met 80% daarvan.  
 2.  De overdrachtsbelasting, voor zover deze niet heeft geleid tot toepassing van artikel 13 van de Wet op belastingen van rechtsverkeer, betaald over het bedrag waarover schenkbelasting verschuldigd is, strekt in mindering van de schenkbelasting.  
@@ -342,17 +342,17 @@ De belasting, verschuldigd wegens de afstand van vermogen verkregen onder een in
 
 4°. door de hierna genoemde personen tot de daarachter vermelde bedragen: 
 
-a. partner: € 627.367;  
+a. partner: € 633.014;  
 
-b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 59.601;  
+b. kinderen die grotendeels op kosten van de overledene werden onderhouden en die ten gevolge van ziekte of gebreken vermoedelijk in de eerstkomende drie jaren buiten staat zullen zijn om met arbeid die voor hun kracht berekend is, de helft te verdienen van hetgeen lichamelijk en geestelijk gezonde personen van gelijke leeftijd in staat zijn aan inkomen uit arbeid te verwerven: € 60.138;  
 
-c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 19.868;  
+c. kinderen voor wie de onder b bedoelde vrijstelling niet van toepassing is: € 20.047;  
 
-d. kleinkinderen: € 19.868;  
+d. kleinkinderen: € 20.047;  
 
-e. ouders: € 47.053;  
+e. ouders: € 47.477;  
 
-f. overige verkrijgers: € 2.092;    
+f. overige verkrijgers: € 2.111;    
 
 5°. aan waarde van aanspraken ingevolge een pensioenregeling alsmede aan waarde van lijfrenten;   
 
@@ -367,9 +367,9 @@ f. overige verkrijgers: € 2.092;
 10°. door een werknemer van de erflater of zijn partner of door een nabestaande van zodanige werknemer, voor zover het verkregene kan worden beschouwd als de voldoening aan een ter zake van de verrichte arbeid bestaande natuurlijke verbintenis als is bedoeld in artikel 3 van Boek 6 van het Burgerlijk Wetboek.  Voor zover een verkrijging van een nabestaande van de werknemer aan periodieke uitkeringen ingevolge deze bepaling is vrijgesteld van erfbelasting, wordt zij, voor de toepassing van deze wet, beschouwd als een aan de werknemer toe te rekenen bevoordeling krachtens een ten behoeve van de verkrijger gemaakt beding;   
 
 11°. aan nog niet vorderbare termijnen van renten, van uitkeringen, van bezoldigingen en van andere inkomsten.    
-2.  De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de Algemene Ouderdomswet en de Algemene nabestaandenwet –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 162.071. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van artikel 13, wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.   
-3.  Onder pensioenregeling wordt voor de toepassing van deze wet verstaan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, van de Wet inkomstenbelasting 2001.  
-4. Onder lijfrenten worden verstaan lijfrenten als bedoeld in artikel 3.125 van de Wet inkomstenbelasting 2001, welke zijn verzekerd bij een verzekeraar als bedoeld in artikel 3.126 van die wet, alsmede aanspraken op tegoeden van lijfrentespaarrekeningen of waarden van lijfrentebeleggingsrechten als bedoeld in artikel 3.126a van die wet, voorzover de terzake voldane premies respectievelijk de overgemaakte bedragen voor de heffing van de inkomstenbelasting als uitgaven voor inkomensvoorzieningen in aftrek konden worden gebracht. 
+2.  De waarde van aanspraken ingevolge een pensioenregeling – andere dan die ingevolge de Algemene Ouderdomswet en de Algemene nabestaandenwet –, van lijfrenten alsmede van aanspraken op periodieke uitkeringen bij overlijden welke door een partner ten gevolge van het overlijden worden verkregen en hetzij van erfbelasting zijn vrijgesteld ingevolge het eerste lid, onder 5°, hetzij naar hun aard niet krachtens deze wet belastbaar zijn, strekt voor de helft in mindering van het in het eerste lid, onder 4°, onderdeel a, bedoelde bedrag, met dien verstande dat na deze korting de vrijstelling niet minder bedraagt dan € 163.530. Voor zover de omvang van de in de eerste volzin bedoelde aanspraken wordt bepaald met toepassing van artikel 13, wordt de verkrijging van deze aanspraken voor de toepassing van dit lid, geacht geheel te kunnen worden toegerekend aan een onttrekking aan het vermogen van de erflater.   
+3.  Onder pensioenregeling wordt voor de toepassing van deze wet verstaan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, van de Wet inkomstenbelasting 2001 of een nettopensioenregeling als bedoeld in artikel 5.17 van die wet.  
+4. Onder lijfrenten worden verstaan lijfrenten als bedoeld in artikel 3.125 van de Wet inkomstenbelasting 2001, welke zijn verzekerd bij een verzekeraar als bedoeld in artikel 3.126 van die wet, alsmede aanspraken op tegoeden van lijfrentespaarrekeningen of waarden van lijfrentebeleggingsrechten als bedoeld in artikel 3.126a van die wet, voorzover de terzake voldane premies respectievelijk de overgemaakte bedragen voor de heffing van de inkomstenbelasting als uitgaven voor inkomensvoorzieningen in aftrek konden worden gebracht, alsmede nettolijfrenten als bedoeld in artikel 5.16 van die wet. 
 
 ### Artikel  33  
 
@@ -391,9 +391,9 @@ d. de echtgenoot of echtgenote van de Koning, de echtgenoot of echtgenote van de
 
 4°. door een algemeen nut beogende instelling, voor zover aan de verkrijging niet een opdracht is verbonden, welke aan de verkrijging het karakter ontneemt van te zijn geschied in het algemeen belang;  
 
-5°. door een kind van de ouders, tot een bedrag van € 5.229, met dien verstande dat dit bedrag voor een kind tussen 18 en 40 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van € 25.096 dan wel, indien een eigen woning als bedoeld in artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001 is geschonken of een bedrag is geschonken ter zake van de verwerving van een zodanige eigen woning, ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in artikel 3.119a van die wet of de aflossing van een restschuld van een vervreemde eigen woning als bedoeld in artikel 3.120a van die wet waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 van die wet, of is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, onder bij ministeriële regeling te stellen voorwaarden tot een bedrag van € 52.281;  
+5°. door een kind van de ouders, tot een bedrag van € 5.277, met dien verstande dat dit bedrag voor een kind tussen 18 en 40 jaar voor één kalenderjaar wordt verhoogd, mits op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan, tot een bedrag van € 25.322 dan wel, indien een eigen woning als bedoeld in artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001 is geschonken of een bedrag is geschonken ter zake van de verwerving van een zodanige eigen woning, ter zake van de kosten voor verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in artikel 3.119a van die wet of de aflossing van een restschuld van een vervreemde eigen woning als bedoeld in artikel 3.120a van die wet waarvan de renten en kosten worden aangemerkt als aftrekbare kosten met betrekking tot een eigen woning als bedoeld in artikel 3.120 van die wet, of is bestemd voor de betaling van kosten van een studie of de opleiding voor een beroep ten behoeve van dat kind, welke kosten aanzienlijk hoger zijn dan gebruikelijk, onder bij ministeriële regeling te stellen voorwaarden tot een bedrag van € 52.752;  
 
-6°. door een kind tussen 18 en 40 jaar van de ouders, voor één kalenderjaar, onder bij ministeriële regeling te stellen voorwaarden, tot een bedrag van € 27.187, indien: 
+6°. door een kind tussen 18 en 40 jaar van de ouders, voor één kalenderjaar, onder bij ministeriële regeling te stellen voorwaarden, tot een bedrag van € 27.432, indien: 
 
 a. de verhoogde vrijstelling, bedoeld in artikel 33, eerste lid, onder 5°, zoals dat voor 1 januari 2010 luidde, door dat kind is toegepast;  
 
@@ -401,7 +401,7 @@ b. een eigen woning als bedoeld in artikel 3.111, eerste of derde lid, van de We
 
 c. op de in aanhef bedoelde vrijstelling in de aangifte een beroep wordt gedaan;    
 
-7°. in alle andere gevallen: € 2.092;  
+7°. in alle andere gevallen: € 2.111;  
 
 8°. door iemand, die niet in staat is zijn schulden te betalen, indien en voor zover het verkregene strekt om de begiftigde daartoe in staat te stellen;   
 
@@ -419,13 +419,7 @@ c. op de in aanhef bedoelde vrijstelling in de aangifte een beroep wordt gedaan;
 
 ### Artikel  33a  
 
-1.  Voor één kalenderjaar worden het ingevolge artikel 33, aanhef en onderdelen 5° of 6°, van schenkbelasting vrijgestelde bedrag en het ingevolge artikel 33, aanhef en onderdeel 7°, van schenkbelasting vrijgestelde bedrag onder bij ministeriële regeling te stellen voorwaarden verhoogd tot een bedrag van € 100.000, indien: 
-
-a. het een schenking betreft van een eigen woning als bedoeld in artikel 3.111, eerste of derde lid, van de Wet inkomstenbelasting 2001 of van een bedrag dat is geschonken ter zake van de verwerving van een zodanige eigen woning, voor de kosten van verbetering of onderhoud van die woning, ter zake van de afkoop van rechten van erfpacht, opstal of beklemming met betrekking tot die woning dan wel voor de aflossing van een eigenwoningschuld als bedoeld in artikel 3.119a van die wet of de aflossing van een schuld die de verkrijger had op het moment direct voorafgaand aan een vervreemding van een eigen woning voor zover deze schuld heeft geleid tot een negatief vervreemdingssaldo eigen woning als bedoeld in artikel 3.119aa van die wet, en  
-
-b. op deze verhoogde vrijstelling in de aangifte een beroep wordt gedaan.   Indien de woning of het bedrag, bedoeld in de eerste volzin, is verkregen van de ouders, wordt het ingevolge de eerste volzin van schenkbelasting vrijgestelde bedrag verminderd met de bedragen waarvoor de verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° en 6°, op enig moment door het kind is toegepast.   
-2.  De verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° en 6°, vindt geen toepassing indien door het kind in een eerder jaar reeds de verhoogde vrijstelling van het eerste lid is toegepast op een verkrijging van de ouders.   
-3.  Artikel 12, eerste lid, eerste volzin, is niet van toepassing op schenkingen als bedoeld in het eerste lid.  
+De verhoogde vrijstelling, bedoeld in artikel 33, onderdelen 5° en 6°, vindt geen toepassing indien door het kind in een eerder jaar reeds de verhoogde vrijstelling van artikel 33a, zoals dat op 31 december 2014 luidde, is toegepast op een verkrijging van de ouders. 
 
 ### Artikel  34  
 
@@ -444,15 +438,15 @@ Wij behouden Ons voor bij algemene maatregel van bestuur regelen te stellen, ten
 
 1.  Indien tot de verkrijging ondernemingsvermogen behoort als bedoeld in artikel 35c, dat wordt verkregen in het kader van een bedrijfsopvolging als bedoeld in het vijfde lid, wordt op verzoek van de verkrijger een voorwaardelijke vrijstelling verleend van: 
 
-a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.045.611 niet te boven gaat: 100%;  
+a. indien de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft € 1.055.022 niet te boven gaat: 100%;  
 
 b. in alle overige gevallen: 
 
 1°. indien de liquidatiewaarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft hoger is dan de waarde going concern: 100 percent van het verschil tussen liquidatiewaarde en lagere waarde going concern;  
 
-2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.045.611 niet te boven gaat: 100%, en  
+2°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.055.022 niet te boven gaat: 100%, en  
 
-3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.045.611 te boven gaat: 83%.     Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.   
+3°. voor zover de totale waarde van het ondernemingsvermogen van de objectieve onderneming waarop de verkrijging betrekking heeft, na toepassing van hetgeen is bepaald onder 1°, € 1.055.022 te boven gaat: 83%.     Bij ministeriële regeling worden regels gesteld met betrekking tot hetgeen voor de toepassing van dit artikel wordt verstaan onder een objectieve onderneming. Daarbij kan worden bepaald in hoeverre tot die objectieve onderneming tevens worden gerekend vermogensbestanddelen die worden ter beschikking gesteld aan een samenwerkingsverband en vermogensbestanddelen als bedoeld in artikel 35c, eerste lid, onderdeel d.   
 2.  Op verzoek van de verkrijger wordt voorts de waarde van het verkregen ondernemingsvermogen na aftrek van het bedrag van de voorwaardelijke vrijstelling aangemerkt als geconserveerde waarde, dit met het oog op de toepassing van artikel 25, twaalfde lid, van de Invorderingswet 1990.   
 3.  De belasting over de geconserveerde waarde wordt bepaald op het verschil tussen de belasting over de belaste verkrijging en de belasting over de belaste verkrijging verminderd met deze geconserveerde waarde.   
 4.  Indien het ondernemingsvermogen is verkregen onder een last of tegen een tegenprestatie, wordt voor de toepassing van dit artikel die last of tegenprestatie niet in mindering gebracht op de waarde van het verkregen ondernemingsvermogen.   

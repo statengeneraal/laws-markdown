@@ -9,16 +9,11 @@ BESLUIT:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Begripsomschrijvingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-07-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -36,20 +31,15 @@ In deze regeling wordt verstaan onder:
 
 ####Het aangaan van verbindingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  2  
-Treedt in werking per 01-07-2015 
 
 Het percentage, bedoeld in de artikelen 10, tweede lid, onderdeel a, en 79, tweede lid, onderdeel a, van het besluit, is 1,5. 
 
 ### Artikel  3  
-Treedt in werking per 01-07-2015 
 
 De ratingbureaus, bedoeld in de artikelen 13, eerste lid, onderdelen b en c, en 107, tweede lid, onderdeel a, van het besluit, zijn Moody’s, Standard and Poor’s en Fitch. 
 
 ### Artikel  4  
-Treedt in werking per 01-07-2015 
 
 De andere categorieën van instellingen, bedoeld in artikel 13, tweede lid, van het besluit, zijn instellingen als bedoeld in artikel 1, eerste lid, onderdelen b, c en d, van het besluit met ten minste een single B-rating of een daarmee vergelijkbare rating, afgegeven door ten minste twee van de ratingbureaus, genoemd in artikel 3. 
 
@@ -57,10 +47,7 @@ De andere categorieën van instellingen, bedoeld in artikel 13, tweede lid, van 
 
 ####Verdere algemene bepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  5  
-Treedt in werking per 01-07-2015 
 
 1.  De stukken, bedoeld in artikel 17 van het besluit, zijn: 
 
@@ -85,16 +72,11 @@ c. een schriftelijke overeenkomst waaruit blijkt dat een aanvang met de werkzaam
 
 ####Rechtsvorm en organisatie van toegelaten instellingen
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Voorschriften omtrent de geschiktheid van personen voor het lidmaatschap van het bestuur en de raad van toezicht, en de betrouwbaarheid van die personen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  6  
-Treedt in werking per 01-07-2015 
 
 1.  De toegelaten instelling stelt de minister in staat een zienswijze over een kandidaat uit te brengen voorafgaande aan de benoeming of herbenoeming. Daartoe meldt de toegelaten instelling hem een voorgenomen benoeming of herbenoeming van die kandidaat voorafgaand aan die benoeming of herbenoeming.   
 2.  De toegelaten instelling maakt bij de melding, bedoeld in het eerste lid, gebruik van een door de minister beschikbaar te stellen meldingsformulier.   
@@ -119,13 +101,11 @@ a. in geval van een voorgenomen eerste benoeming van een kandidaat:
 b. in geval van een voorgenomen herbenoeming van een kandidaat: de documenten, genoemd in onderdeel a, onder 1°, 2°, 4°, 5° en 6°.    
 
 ### Artikel  7  
-Treedt in werking per 01-07-2015 
 
 1.  De minister voorziet in de mogelijkheid om de melding langs elektronische weg in te dienen.   
 2.  De minister bevestigt de ontvangst van de melding binnen een week na die ontvangst aan de toegelaten instelling. Indien de melding onvolledig is, stelt hij de toegelaten instelling daarvan bij die bevestiging in kennis.  
 
 ### Artikel  8  
-Treedt in werking per 01-07-2015 
 
 1.  De minister start het opstellen van zijn zienswijze, indien de melding volledig is overeenkomstig artikel 6, derde lid, in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.   
 2.  Indien de toegelaten instelling verzuimt de bij de melding ontbrekende bescheiden te verstrekken, kan de minister besluiten de melding niet in behandeling te nemen. Hij stelt de toegelaten instelling onverwijld daarvan in kennis.   
@@ -135,10 +115,7 @@ Treedt in werking per 01-07-2015
 
 ####Goedkeuring door de minister van besluiten van het bestuur omtrent vervreemdingen van onroerende zaken
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  9  
-Treedt in werking per 01-07-2015 
 
 1.  Voor de toepassing van het bepaalde bij en krachtens de artikelen 22 tot en met 26 van het besluit: 
 
@@ -162,7 +139,6 @@ c. register van de Stichting Certificering VBO Makelaars; of
 d. register van de Stichting VastgoedCert.    
 
 ### Artikel  10  
-Treedt in werking per 01-07-2015 
 
 De combinatie van bedingen, bedoeld in artikel 23, eerste lid, onderdeel b, van het besluit, maakt deel uit van de ontwerpkoopovereenkomst en omvat: 
 
@@ -175,7 +151,6 @@ b. het beding dat de verkrijgende natuurlijke persoon die op het tijdstip van di
 2°. 50 is, indien de toepassing van onderdeel 1° tot een hoger percentage dan 50 zou leiden.     
 
 ### Artikel  11  
-Treedt in werking per 01-07-2015 
 
 1.  Ten behoeve van het vaststellen van het huishoudinkomen, bedoeld in artikel 23, tweede lid, onderdeel b, van het besluit, legt de beoogde verkrijger van de woongelegenheid aan de toegelaten instelling over: 
 
@@ -197,7 +172,6 @@ b. indien een van degenen die de betrokken woongelegenheid wensen te betrekken d
 6.  Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig bijlage 1 bij deze regeling.  
 
 ### Artikel  12  
-Treedt in werking per 01-07-2015 
 
 1.  In geval van vervreemding door een toegelaten instelling van een woongelegenheid als bedoeld in artikel 25, tweede lid, onderdeel b, aanhef, van het besluit aan een andere rechtspersoon dan een toegelaten instelling kan de prijs waartegen deze wordt vervreemd overeenkomstig artikel 26, eerste lid, onderdeel a, onder 2°, van het besluit lager zijn dan 75% van de getaxeerde leegwaarde of de WOZ-waarde.   
 2.  Indien de toegelaten instelling voornemens is een woongelegenheid overeenkomstig het eerste lid te vervreemden, gaat het verzoek om de goedkeuring, bedoeld in artikel 27, eerste lid, aanhef en onderdeel a, van de wet, van die vervreemding vergezeld van de huurprijs van die woongelegenheid.  
@@ -206,30 +180,23 @@ Treedt in werking per 01-07-2015
 
 ####De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  13  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  14  
-Treedt in werking per 01-07-2015 
 
 De nadere voorschriften, bedoeld in artikel 31, vierde lid, van het besluit, zijn opgenomen in bijlage 2 bij deze regeling. 
 
 ### Artikel  15  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  16  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  17  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -237,27 +204,19 @@ Treedt in werking per 01-07-2015
 
 ####Werkzaamheden van toegelaten instellingen
 
-Treedt in werking per 01-07-2015 
-
 ### Afdeling  1  
 
 ####Relatie met de gemeente
-
-Treedt in werking per 01-07-2015 
 
 ### §  1  
 
 ####Uitvoering van het gemeentelijke volkshuisvestingsbeleid
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  18  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  19  
-Treedt in werking per 01-07-2015 
 
 Het overzicht, bedoeld in artikel 44a, eerste lid, onderdeel a, van de wet, wordt ingericht overeenkomstig het in bijlage 5 bij deze regeling opgenomen model. 
 
@@ -265,10 +224,7 @@ Het overzicht, bedoeld in artikel 44a, eerste lid, onderdeel a, van de wet, word
 
 ####Goedkeuring van werkzaamheden die niet behoren tot de diensten van algemeen economisch belang
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  20  
-Treedt in werking per 01-07-2015 
 
 1.  Het rendement op de werkzaamheden, bedoeld in artikel 44c, eerste lid, aanhef en onderdeel f, van de wet, is ten minste: 
 
@@ -285,10 +241,7 @@ b. de schulden van de niet-daeb-tak niet hoger zijn dan 50% van de WOZ-waarde va
 
 ####Het gebied van de volkshuisvesting
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  21  
-Treedt in werking per 01-07-2015 
 
 Aan artikel 49, tweede lid, onderdeel a, van het besluit wordt voldaan, indien de huurprijs, herleid tot een bedrag per jaar, tegen welke de toegelaten instelling blijkens het verzoek, bedoeld in artikel 49, tweede lid, aanhef, van het besluit, voornemens is de basisschool of het centrum voor jeugd en gezin te verhuren ten minste 6,25% bedraagt van de blijkens dat verzoek geraamde kosten van het bouwen van die basisschool of dat centrum. 
 
@@ -296,10 +249,7 @@ Aan artikel 49, tweede lid, onderdeel a, van het besluit wordt voldaan, indien d
 
 ####Diensten van algemeen economisch belang
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  22  
-Treedt in werking per 01-07-2015 
 
 1.  De toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in artikel 48, tweede lid, van de wet gaat slechts overeenkomsten van huur en verhuur als bedoeld in artikel 48, eerste lid, van de wet aan, nadat degene die als huurder een woongelegenheid waarop dat lid van toepassing is wenst te betrekken aan haar heeft overgelegd: 
 
@@ -347,16 +297,11 @@ d. gegevens waaruit het huishoudinkomen van de huurder blijkt, of op grond waarv
 
 ####Administratieve scheiding en vermogensscheiding
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Voorschriften in geval van het niet verplicht zijn van de vermogensscheiding (gereserveerd)
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  23  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -364,10 +309,7 @@ Treedt in werking per 01-07-2015
 
 ####Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  24  
-Treedt in werking per 01-07-2015 
 
 Voor toepassing van het bepaalde in artikel 65, eerste tot en met derde lid, van het besluit, wordt als wijk of buurt elk deel van de gemeente beschouwd, waarvan de postcode dezelfde cijfers bevat. 
 
@@ -375,25 +317,19 @@ Voor toepassing van het bepaalde in artikel 65, eerste tot en met derde lid, van
 
 ####Inrichting van en geldstromen tussen de daeb-tak en de niet-daeb-tak (gereserveerd)
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  25  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  26  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  27  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  28  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -401,25 +337,19 @@ Treedt in werking per 01-07-2015
 
 ####Goedkeuring van de administratieve scheiding
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  29  
-Treedt in werking per 01-07-2015 
 
 Tot de inlichtingen, bedoeld in artikel 73, tweede lid, van het besluit, behoren in elk geval zo volledig mogelijke inlichtingen over hetgeen de toegelaten instelling voornemens is op te nemen in de toelichting, bedoeld in artikel 75, tweede lid, van het besluit. 
 
 ### Artikel  30  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  31  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  32  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -427,10 +357,7 @@ Treedt in werking per 01-07-2015
 
 ####Overdracht van daeb-werkzaamheden binnen de toegelaten instelling (gereserveerd)
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  33  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -438,21 +365,15 @@ Treedt in werking per 01-07-2015
 
 ####Juridische scheiding
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Inrichting van de woningvennootschap en geldstromen tussen de toegelaten instelling en de woningvennootschap (gereserveerd)
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  34  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  35  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -460,25 +381,19 @@ Treedt in werking per 01-07-2015
 
 ####Goedkeuring van de juridische scheiding
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  36  
-Treedt in werking per 01-07-2015 
 
 Tot de inlichtingen, bedoeld in artikel 84, tweede lid, van het besluit, behoren in elk geval zo volledig mogelijke inlichtingen over hetgeen de toegelaten instelling voornemens is op te nemen in de toelichting, bedoeld in artikel 86, tweede lid, van het besluit. 
 
 ### Artikel  37  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  38  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  39  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
@@ -486,16 +401,11 @@ Treedt in werking per 01-07-2015
 
 ####Verdere bepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Huursom
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  40  
-Treedt in werking per 01-07-2015 
 
 Het percentage, bedoeld in artikel 54, eerste lid, van de wet, is het basishuurverhogingspercentage, bedoeld in artikel 1, eerste lid, onderdeel a, van de Uitvoeringswet huurprijzen woonruimte. 
 
@@ -503,10 +413,7 @@ Het percentage, bedoeld in artikel 54, eerste lid, van de wet, is het basishuurv
 
 ####Financieel beheer
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  41  
-Treedt in werking per 01-07-2015 
 
 1.  Het reglement, bedoeld in artikel 55a, tweede lid, van de wet, omvat ten aanzien van beleggingen ten minste: 
 
@@ -522,7 +429,7 @@ e. de bepaling dat toegelaten instellingen en dochtermaatschappijen, al dan niet
 
 1°. gevestigd zijn in een lidstaat die ten minste beschikt over een AA-rating afgegeven door ten minste twee van de ratingbureaus Moody’s, Standard and Poor’s en Fitch en  
 
-2°. voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een AA-minusrating beschikken, afgegeven door ten minste twee van de in onderdeel 1° genoemde ratingbureaus, of, uitsluitend indien de middelen worden uitgezet voor een periode van minder dan drie maanden, voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een A-rating beschikken, afgegeven door ten minste twee van die ratingbureaus;    
+2°.  voor zichzelf en voor de door hen uitgegeven waardepapieren kunnen aantonen dat ze ten minste over een A-rating beschikken, afgegeven door ten minste twee van de in onderdeel 1° genoemde ratingbureaus;    
 
 f. de bepaling dat toegelaten instellingen en dochtermaatschappijen slechts middelen uitzetten in waardepapieren die een garantie bevatten dat op de einddatum de inleg of de hoofdsom beschikbaar komt;  
 
@@ -541,12 +448,10 @@ l. de bepaling dat toegelaten instellingen en dochtermaatschappijen geen beleggi
 3.  De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in het tweede lid, en de te hanteren termijn voor het in dat lid bedoelde beëindigen van beleggingen.  
 
 ### Artikel  42  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Artikel  43  
-Treedt in werking per 01-07-2015 
 
 De modellen, bedoeld in artikel 107, tweede lid, onderdelen b en c, van het besluit, zijn de modellen, opgenomen in de bijlagen 6 en 7 bij deze regeling. 
 
@@ -554,47 +459,36 @@ De modellen, bedoeld in artikel 107, tweede lid, onderdelen b en c, van het besl
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### §  1  
 
 ####Overgangsbepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  44  
-Treedt in werking per 01-07-2015 
 
 1. De Regeling vervreemdingen woongelegenheden wordt ingetrokken.
 2. De Tijdelijke regeling diensten van algemeen economisch belang toegelaten instellingen volkshuisvesting wordt ingetrokken. 
 
 ### Artikel  45  
-Treedt in werking per 01-07-2015 
 
 1.  De Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting worden ingetrokken.   
 2.  Een toegelaten instelling die op het tijdstip van inwerkingtreding van de in het eerste lid genoemde beleidsregels een derivatenportefeuille had die financiële derivaten bevat met clausules die de uitoefening van het toezicht op de toegelaten instelling kunnen belemmeren, heeft een plan van aanpak om haar derivatenportefeuille voor wat betreft die financiële derivaten binnen een redelijkerwijs haalbare termijn af te bouwen. De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in de eerste volzin, en de te hanteren termijn voor de in die volzin bedoelde afbouw.   
 3.  De in het eerste lid genoemde beleidsregels blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in artikel 55a, tweede lid, van de wet heeft goedgekeurd.  
 
 ### Artikel  46  
-Treedt in werking per 01-07-2015 
 
 1.  De Beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting worden ingetrokken.   
 2.  Een toegelaten instelling die op het tijdstip van inwerkingtreding van de in het eerste lid genoemde beleidsregels belegde in strijd met die beleidsregels stelt een plan van aanpak op om dat beleggen binnen een redelijkerwijs haalbare termijn te beëindigen. De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in de eerste volzin, en de te hanteren termijn voor de in die volzin bedoelde beëindiging.   
-3.  De in het eerste lid genoemde beleidsregels blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in artikel 55a, tweede lid, van de wet heeft goedgekeurd.  
+3.  De in het eerste lid genoemde beleidsregels blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in artikel 55a, tweede lid, van de wet heeft goedgekeurd met dien verstande dat in artikel 5 van de in het eerste lid genoemde beleidsregels voor ‘AAminus-rating’ gelezen wordt ‘A-rating’ en dat daarin artikel 5, tweede lid, vervalt.  
 
 ### §  2  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  47  
-Treedt in werking per 01-07-2015 
 
 Deze regeling treedt in werking met ingang van 1 juli 2015. 
 
 ### Artikel  48  
-Treedt in werking per 01-07-2015 
 
 Deze regeling wordt aangehaald als: Regeling toegelaten instellingen volkshuisvesting 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
@@ -609,8 +503,6 @@ S.A. Blok
 ### Bijlage 1 
 
 ####bij de artikelen 11, zesde lid , en 22, negende lid , van de Regeling toegelaten instellingen volkshuisvesting 2015
-
-Treedt in werking per 01-07-2015 
 
 *Toelichting:*  Aan de hand van de volgende twee stroomschema’s kan de toegelaten instelling het huishoudinkomen bepalen, zoals bedoeld in artikel 22, eerste lid, onder b van de Regeling toegelaten instellingen volkshuisvesting 2015 (woningtoewijzing in het kader van de DAEB). Schema A. betreft toetsing aan de hand van gegevens van de Belastingdienst. Schema B. moet worden toegepast indien Belastingdienst gegevens ontbreken. De inkomenstoets voor de DAEB-toewijzingen dient per 1 juli 2015 te worden toegepast. Per uiterlijk 1 januari 2016 zal ook de inkomenstoetsing voor de passende toewijzing voor de huurtoeslag moeten gaan plaatsvinden. Vanaf die laatste datum kunnen de beide inkomenstoetsen in één administratieve handeling worden uitgevoerd. De uitkomst van de inkomenstoetsing voor de DAEB bepaalt tot welk toewijzingssegment de toewijzing wordt gerekend: de 80% voor de doelgroep, de 10% voor de middeninkomens of de 10% vrije toewijzingsruimte. De eisen die gesteld worden aan de over te leggen documentatie zijn neergelegd in het hiervoor genoemde artikel en de toelichting daarop. Het vaststellen van het huishoudinkomen aan de hand van een IBRI (Inkomenverklaring o.b.v. de Basisregistratie Inkomens) of een (voorlopige) aanslag IB van de Belastingdienst is verplicht, tenzij de uitzonderingsgevallen zoals omschreven in de ministeriële regeling zich voordoen (zie ook hierna). Ter bepaling van het huishoudinkomen worden de verzamelinkomens uit het jaar 2014 respectievelijk 2013 geïndexeerd met index I1 (=1,0067) resp. index I2 (=1,0199). Deze indices betreffen de factor waarmee het verzamelinkomen zoals dat door de Belastingdienst wordt vastgesteld dient te worden vermenigvuldigd gelet op de gemiddelde inkomensstijging in 2014, respectievelijk 2013. De hoogten van I1 en I2 worden jaarlijks bij ministeriële regeling gepubliceerd. 
 ### *• Toetsing huishoudinkomen op basis van IBRI verklaring/aanslag IB* 
@@ -655,8 +547,6 @@ ii. woningzoekenden van wie het actuele inkomen dusdanig is gedaald ten opzichte
 ### Bijlage 2 
 
 ####bij artikel 14  van de Regeling toegelaten instellingen volkshuisvesting 2015
-
-Treedt in werking per 01-07-2015 
 
 ####Handboek modelmatig waarderen marktwaarde
 
@@ -1691,20 +1581,16 @@ In de basisvariant is voor de verschillende onderhoudscategorieën gewerkt met g
 De waardering op basis van de full versie met de genoemde vrijheidsgraden vereist de inschakeling van een externe taxateur. De taxateur handelt daarbij in overeenstemming met de gangbare beroeps- en gedragsregels. Ten aanzien van de aangegeven vrijheidsgraden heeft de taxateur de ruimte om op basis van het principe ‘pas toe of leg uit’tot aanpassingen over te gaan en daarmee tot een betere waardering te komen. De aanpassingen dienen te worden onderbouwd en in het taxatiedossier te worden vastgelegd. Dit taxatiedossier is op aanvraag beschikbaar voor de Autoriteit woningcorporaties. 
 
 ### Bijlage  3  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Bijlage  4  
-Treedt in werking per 01-07-2015 
 
 (gereserveerd) 
 
 ### Bijlage 5 
 
 ####bij artikel 19  van de Regeling toegelaten instellingen volkshuisvesting 2015
-
-Treedt in werking per 01-07-2015 
 
 ####Inhoudsopgave
 
@@ -1847,8 +1733,6 @@ overzicht aantallen huurwoongelegenheden en niet-woongelegenheden op corporatien
 
 ####bij art. 43  van de Regeling toegelaten instellingen volkshuisvesting 2015
 
-Treedt in werking per 01-07-2015 
-
 ####Model voor de raamovereenkomst inzake het aantrekken van financiële derivaten
 
 ####Raamomvereenkomst interest rate swaps
@@ -1896,8 +1780,6 @@ D. Alle aspecten van de IRS die tussen Partij A en Partij B wordt aangegaan zijn
 ### Bijlage  7  
 
 ####bij artikel 43  van de Regeling toegelaten instellingen volkshuisvesting 2015
-
-Treedt in werking per 01-07-2015 
 
 ###Onderdeel A: ISDA master agreement
 

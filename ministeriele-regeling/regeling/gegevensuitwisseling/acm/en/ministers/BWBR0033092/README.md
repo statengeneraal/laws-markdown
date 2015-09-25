@@ -23,6 +23,11 @@ b.  *Minister:* de Minister van Economische Zaken.
 2.  De Minister of de Minister van Infrastructuur en Milieu verstrekt uit eigen beweging of op verzoek van de ACM zo spoedig mogelijk de gegevens die nodig zijn voor de taakuitoefening van de ACM of waarvan hij redelijkerwijs kan aannemen dat zij voor de taakuitoefening van de ACM nodig zijn.   
 3.  De ACM en de Minister of de Minister van Infrastructuur en Milieu informeren elkaar tijdig over onderwerpen die in de publiciteit kunnen komen en waarvan redelijkerwijs kan worden aangenomen dat het voor de ander van belang is om daarvan op de hoogte te zijn.  
 
+### Artikel  2a  
+Treedt in werking per 01-10-2015 
+
+De ACM zendt de Minister jaarlijks voor 1 december een overzicht op hoofdlijnen van de verwachte werkzaamheden per sector voor het daaropvolgende jaar en een vergelijking van de verwachte werkzaamheden met de werkzaamheden van het lopende jaar. 
+
 ### Artikel  3  
 
 1.  De ACM doet de Minister of de Minister van Infrastructuur en Milieu desgevraagd of uit eigen beweging schriftelijk verslag van haar bevindingen bij het uitvoeren van haar opgedragen taken indien zij of de betrokken minister van oordeel is dat deze informatie noodzakelijk is voor de voorbereiding van besluiten van algemene strekking.   
@@ -124,6 +129,12 @@ d. mogelijk aan het voorstel verbonden gevoeligheden.
 
 1.  De ACM stelt de Minister ten minste vier weken voordat het jaarverslag overeenkomstig artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen aan de Minister wordt gezonden in de gelegenheid kennis te nemen van het ontwerpjaarverslag. De Minister stuurt het ontwerpjaarverslag door naar de Minister van Infrastructuur en Milieu.   
 2.  De Minister stelt de ACM ten minste twee weken voordat hij zijn bevindingen omtrent het jaarverslag aan de beide kamers der Staten-Generaal zendt, in de gelegenheid kennis te nemen van zijn ontwerpbevindingen en de ontwerpbevindingen van de Minister van Infrastructuur en Milieu omtrent het jaarverslag van de ACM.  
+
+### Artikel  14a  
+Treedt in werking per 01-10-2015 
+
+1.  Onverminderd artikel 30 van de Kaderwet zelfstandige bestuursorganen informeert de ACM de Minister onverwijld ingeval er gedurende het jaar een verschil van 10% of meer ontstaat of dreigt te ontstaan tussen de werkelijke en de begrote ontvangsten en uitgaven.   
+2.  Ingeval de ACM gedurende een jaar nieuwe wettelijke taken gaat uitvoeren, verstrekt de ACM de Minister voor 1 februari van dat jaar een inschatting van de hiermee gepaard gaande kosten op basis van een uitvoeringstoets overeenkomstig artikel 6, waarbij onderscheid wordt gemaakt tussen de kosten die aan marktorganisaties worden doorberekend en de kosten die ten laste van de algemene middelen komen.  
 
 ### Artikel  15  
 

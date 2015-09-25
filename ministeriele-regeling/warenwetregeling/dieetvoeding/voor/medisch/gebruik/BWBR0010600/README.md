@@ -3,7 +3,7 @@
 ##Warenwetregeling Dieetvoeding voor medisch gebruik
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
-Gelet op richtlijn 1999/21/EG van de Commissie van de Europese Gemeenschappen van 25 maart 1999 betreffende dieetvoeding voor medisch gebruik (PbEG L 91), alsmede op [artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding](../../../../../../../KB/warenwetbesluit/produkten/voor/bijzondere/voeding/BWBR0005489/README.md);
+Gelet op richtlijn 1999/21/EG van de Commissie van de Europese Gemeenschappen van 25 maart 1999 betreffende dieetvoeding voor medisch gebruik (PbEG L 91), alsmede op artikel 10, eerste lid, van het Warenwetbesluit Produkten voor bijzondere voeding;
 Besluit:    
 
 ### Artikel  1  
@@ -43,7 +43,7 @@ a.  de in artikel 3, eerste lid, onder a, bedoelde dieetvoeding voor medisch geb
 b.  de in artikel 3, eerste lid, onder b, bedoelde dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, voldoet aan bijlage 1, met dien verstande dat daarvan af mag worden geweken indien dat noodzakelijk is in verband met het gebruiksdoel van de waar;  
 
 c.  de in artikel 3, eerste lid, onder c, bedoelde dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, bevat niet meer vitaminen en mineralen dan bedoeld in bijlage 1, met dien verstande dat daarvan af mag worden geweken indien dat noodzakelijk is in verband met het gebruiksdoel van de waar.     
-2.  Onverminderd het voorgaande lid voldoet dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, aan de voor andere nutriënten dan vitaminen en mineralen geldende voorschriften voor volledige zuigelingenvoeding en opvolgzuigelingen in de [Warenwetregeling Zuigelingenvoeding](../../../../../../../ministeriele-regeling/warenwetregeling/zuigelingenvoeding/BWBR0006126/README.md), tenzij dit in strijd is met uit het gebruiksdoel voortvloeiende eisen.  
+2.  Onverminderd het voorgaande lid voldoet dieetvoeding voor medisch gebruik, speciaal bestemd voor zuigelingen, aan de voor andere nutriënten dan vitaminen en mineralen geldende voorschriften voor volledige zuigelingenvoeding en opvolgzuigelingen in de Warenwetregeling Zuigelingenvoeding, tenzij dit in strijd is met uit het gebruiksdoel voortvloeiende eisen.  
 
 ### Artikel  6  
 

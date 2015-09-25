@@ -17,7 +17,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Onze Minister kan besluiten dat experimenten plaatsvinden bij een stemming of stemopneming tijdens verkiezingen als bedoeld in de Kieswet en de Wet algemene regels herindeling met als doel de invoering van: 
+1.  Onze Minister kan besluiten dat experimenten plaatsvinden bij een stemming of stemopneming tijdens verkiezingen als bedoeld in de Kieswet en de Wet algemene regels herindeling of een referendum als bedoeld in de Wet raadgevend referendum met als doel de invoering van: 
 
 a. een stembiljet, waardoor de mogelijkheid voor kiezers buiten Nederland hun stem tijdig uit te brengen wordt bevorderd, doordat het stembiljet eerder kan worden toegezonden of van de elektronische weg gebruik kan worden gemaakt; of  
 
@@ -27,16 +27,16 @@ b. een centrale opzet van de stemopneming op gemeentelijk niveau op één of mee
 
 ### Artikel  3  
 
-1.  De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de Kieswet is bepaald.   
-2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de experimenten en de daarbij te gebruiken voorzieningen. Deze regels kunnen op het naastlagere niveau afwijken van het bepaalde bij en krachtens de volgende onderdelen van de Kieswet: 
+1.  De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de Kieswet dan wel de Wet raadgevend referendum is bepaald.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de experimenten en de daarbij te gebruiken voorzieningen. Deze regels kunnen op het naastlagere niveau afwijken van het bepaalde bij en krachtens de volgende onderdelen: 
 
-a. de artikelen E 4 tot en met E 10 en E 11, derde, vierde en vijfde lid, zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
+a. de artikelen E 4 tot en met E 10 en E 11, derde, vierde en vijfde lid, van de Kieswet en de artikelen 24 tot en met 27 van de Wet raadgevend referendum zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
 
-b. de artikelen J 20, M 2, M 6 tot en met M 12 en M 14 tot en met M 17, met betrekking tot het verzenden en retourneren van bescheiden, de wijze waarop de stem wordt uitgebracht, de werkwijze en samenstelling van het briefstembureau, de inrichting van het briefstembureaulokaal, en de gang van zaken bij de ontvangst en het openen van retourenveloppen;  
+b. de artikelen J 20, M 2, M 6 tot en met M 12 en M 14 tot en met M 17, van de Kieswet en de artikelen 58 en 62 van de Wet raadgevend referendum met betrekking tot het verzenden en retourneren van bescheiden, de wijze waarop de stem wordt uitgebracht, de werkwijze en samenstelling van het briefstembureau, de inrichting van het briefstembureaulokaal, en de gang van zaken bij de ontvangst en het openen van retourenveloppen;  
 
-c. de artikelen J 1, vierde lid, J 4a, derde lid, en J 35, de hoofdstukken N en O, en de artikelen P 1, P 21, derde lid, en P 22, met betrekking tot de stemopneming en de taken en werkwijze van het stembureau, het briefstembureau, de burgemeester, het hoofdstembureau en centraal stembureau bij de vaststelling van de verkiezingsuitslag;  
+c. de artikelen J 1, vierde lid, J 4a, derde lid, en J 35, de hoofdstukken N en O, en de artikelen P 1, P 21, derde lid, en P 22, van de Kieswet en de artikelen 56, tweede lid, en 59 en de hoofdstukken 9 en 10 van de Wet raadgevend referendum met betrekking tot de stemopneming en de taken en werkwijze van het stembureau, het briefstembureau, de burgemeester, het hoofdstembureau en centraal stembureau bij de vaststelling van de verkiezingsuitslag;  
 
-d. de artikelen Y 2, Y 22 tot en met Y 23, Y 24 en Y 39, zodat een experiment ook tijdens de verkiezing van de Nederlandse leden van het Europees Parlement kan worden gehouden.     
+d. de artikelen Y 2, Y 22 tot en met Y 23, Y 24 en Y 39, van de Kieswet zodat een experiment ook tijdens de verkiezing van de Nederlandse leden van het Europees Parlement kan worden gehouden.     
 3.  De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.   
 4.  Een voorziening als bedoeld in artikel 2, derde lid, wordt slechts aangewezen indien deze ten minste aan de volgende vereisten voldoet: 
 
