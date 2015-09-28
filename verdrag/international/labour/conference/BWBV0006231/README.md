@@ -56,14 +56,14 @@ At such times as it may consider necessary the Governing Body of the Internation
 
 1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides,
 
-(a)the ratification bij a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 9 above, if and when the new revising Convention shall have come into force;
+(a)the ratification by a Member of the new revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 9 above, if and when the new revising Convention shall have come into force;
 
 (b)as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.
 2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
 ###Article 12 
 
-The French ant English texts of this Convention shall both be authentic.
+The French and English texts of this Convention shall both be authentic.
 
 ####INTERNATIONALE ARBEIDSCONFERENTIE.
 

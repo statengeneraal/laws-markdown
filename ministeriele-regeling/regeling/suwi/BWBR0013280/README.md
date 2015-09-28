@@ -368,6 +368,16 @@ f. het kantooradres en telefoonnummer van de werkgever, bedoeld in het eerste li
 
 g. de resterende aanspraak op vakantie in uren.    
 
+### §  3.4  
+
+####Gegevensverstrekking doelgroepregistratie arbeidsbeperkten
+
+### Artikel  3.13  
+
+####Gegevensverstrekking aan de Minister van BZK
+
+Het UWV verstrekt periodiek de in bijlage IV vermelde gegevens uit de registratie arbeidsbeperkten, bedoeld in artikel 38d van de Wfsv, en uit de polisadministratie, bedoeld in artikel 33 van de Wet SUWI, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover die Minister deze gegevens nodig heeft voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten voor de sector overheid. 
+
 ### Hoofdstuk 4  
 
 ####Re-integratie
@@ -1016,6 +1026,20 @@ g. dat doorlevering van gegevens is niet toegestaan;
 h. dat het beoogde gegevensverkeer in het SUWI Gegevensregister wordt beschreven;  
 
 i. hoe met nieuwe deze eisen en wensen wordt omgegaan. Uitgangspunt is dat deze in de overeenkomst worden opgenomen; Indien gegevensleveranciers al (algemene) leveringsvoorwaarden hanteren, kunnen deze onderdeel uitmaken van de overeenkomst.   
+
+### Bijlage IV 
+
+####, behorende bij artikel 3.13  van de Regeling SUWI
+
+In deze bijlage zijn de gegevens uit de doelgroepregistratie arbeidsbeperkten en de polisadministratie gespecificeerd die het UWV periodiek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties dient te verstrekken op grond van artikel 3.13 van de Regeling SUWI. Het betreft de volgende gegevens: 
+
+a. het burgerservicenummer van de desbetreffende arbeidsbeperkten die werkzaam zijn in de sector overheid;  
+
+b. de aanduiding of de arbeidsbeperkte, bedoeld in onderdeel a, een arbeidsbeperkte is als bedoeld in artikel 38b, eerste lid, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c, van de Wfsv, of dat hij een arbeidsbeperkte is op grond van artikel 38f, vijfde lid, van de Wfsv;  
+
+c. het totaal aantal verloonde uren van arbeidsbeperkten werkzaam bij de desbetreffende overheidswerkgever;  
+
+d. naam inhoudingsplichtige overheidswerkgever en het loonheffingennummer van de desbetreffende overheidswerkgever.   
 
 ### Bijlage VI 
 

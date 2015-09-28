@@ -26,7 +26,9 @@ f.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het Besluit bijstan
 
 g.  *BBZ:* uitkering aan zelfstandigen op grond van het Besluit bijstandsverlening zelfstandigen 2004  
 
-h.  *SVB:* de Sociale verzekeringsbank.   
+h.*UWV: * het Uitvoeringsinstituut werknemersverzekeringen;
+
+i.  *SVB:* de Sociale verzekeringsbank.   
 
 ### Artikel  2  
 
@@ -62,6 +64,13 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 1.  Ten aanzien van de uitvoering van de taak, bedoeld in artikel 47a, eerste lid, van de Participatiewet ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
 2.  De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in artikel 5, eerste lid, of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.  
+
+### Artikel  6a  
+
+####Gegevens ten behoeve van de doelgroepregistratie
+
+1.  De gegevens, bedoeld in artikel 3.4, eerste lid, van het Besluit SUWI, betreffen het gegeven of een persoon werkzaam is op een ID-baan of WIW-baan en het burgerservicenummer van de betrokken persoon als bedoeld in bijlage 2 bij deze regeling.   
+2.  Het Centraal Bureau voor de Statistiek is gemachtigd de gegevens, bedoeld in het eerste lid, die het verkrijgt op grond van artikel 5, eerste lid, te verstrekken aan het UWV op een door de minister, na overleg met het Centraal Bureau voor de Statistiek en het UWV, te bepalen wijze.  
 
 ### Artikel  7  
 

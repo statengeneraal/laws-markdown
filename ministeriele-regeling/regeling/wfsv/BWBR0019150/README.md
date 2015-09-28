@@ -434,6 +434,147 @@ a. zijn de artikelen 3.19, 3.22 en 3.24, eerste en derde lid, van overeenkomstig
 
 b. is artikel 3.24a van overeenkomstige toepassing met dien verstande dat voor het kalenderjaar 2014 geldt dat de premiekorting, bedoeld in artikel 48a van de Wfsv, door de werkgever verrekend kan worden in de aangiftetijdvakken die betrekking hebben op de periode vanaf 1 juli 2014.   
 
+### Hoofdstuk  3a  
+
+####Monitoring arbeidsbeperkten en quotumheffing
+
+### Artikel  3.26*  
+
+####Gelijkgestelde arbeidsbeperkten
+
+De werknemer die werkzaam is in een dienstbetrekking of op basis van een arbeidsovereenkomst als bedoeld in artikel 78d, eerste lid, van de Participatiewet wordt mede beschouwd als een arbeidsbeperkte. 
+
+### Artikel  3.27*  
+
+####Indeling sectoren
+
+1.  Voor de toepassing van hoofdstuk 3, afdeling 4, paragraaf 4a van de Wfsv en artikel 122n van de Wfsv worden overheidswerkgevers gerekend tot de sector overheid, en werkgevers, met uitzondering van overheidswerkgevers, tot de sector niet-overheid.   
+2.  In afwijking van het eerste lid wordt een overheidswerkgever die tevens premieplichtig is ten gunste van een sectorfonds, aangemerkt als werkgever die behoort tot de sector niet-overheid indien van het totaal aantal verloonde uren ten minste de helft is onderworpen aan de premieplicht ten gunste van een sectorfonds.   
+3.  De indeling van overheidswerkgevers en werkgevers overeenkomstig het eerste en tweede lid wordt bepaald op basis van het laatste aangiftetijdvak in het kalenderjaar voorafgaand aan het kalenderjaar waarover het quotumtekort, bedoeld in artikel 38g van de Wfsv, wordt vastgesteld en geldt gedurende dat laatste kalenderjaar.  
+
+### Artikel  3.28*  
+
+####Gemiddeld aantal verloonde uren arbeidsbeperkten
+
+Voor de toepassing van artikel 38g, derde lid, van de Wfsv wordt het gemiddeld aantal verloonde uren van een werkzame arbeidsbeperkte op jaarbasis bepaald op 1.331 uren. 
+
+### Artikel  3.29*  
+
+####Monitoring banenafspraak
+
+1.  Het aantal banen in 2013 vervuld door arbeidsbeperkten als bedoeld in de artikelen 38b, eerste lid, van de Wfsv en artikel 3.26, uitgedrukt in verloonde uren in de maand december 2012, bedraagt voor: 
+
+a. de overheidssector: 1.055.474 uren;  
+
+b. de niet-overheidssector: 6.914.491 uren.     
+2.  Het cumulatief aantal extra te realiseren banen voor arbeidsbeperkten, bedoeld in het eerste lid, uitgedrukt in verloonde uren in de maand december in het desbetreffende kalenderjaar, bedraagt voor de overheidsector in: 
+
+1°. 2015: 332.760 uren;  
+
+2°. 2016: 720.980 uren;  
+
+3°. 2017: 1.109.200 uren;  
+
+4°. 2018: 1.386.500 uren;  
+
+5°. 2019: 1.663.800 uren;  
+
+6°. 2020: 1.941.100 uren;  
+
+7°. 2021: 2.218.400 uren;  
+
+8°. 2022: 2.495.700 uren;  
+
+9°. 2023 en verder: 2.773.000 uren.     
+3.  Het cumulatief aantal extra te realiseren banen voor arbeidsbeperkten, bedoeld in het eerste lid, uitgedrukt in verloonde uren in de maand december in het desbetreffende kalenderjaar, bedraagt voor de niet-overheidssector in: 
+
+1°. 2015: 665.520 uren;  
+
+2°. 2016: 1.552.880 uren;  
+
+3°. 2017: 2.551.160 uren;  
+
+4°. 2018: 3.438.520 uren;  
+
+5°. 2019: 4.436.800 uren;  
+
+6°. 2020: 5.546.000 uren;  
+
+7°. 2021: 6.655.200 uren;  
+
+8°. 2022: 7.764.400 uren;  
+
+9°. 2023: 8.873.600 uren;  
+
+10°. 2024: 9.982.800 uren.  
+
+11°. 2025 en verder: 11.092.000 uren.    
+
+### Artikel  3.30  
+
+####Ingeleende arbeidsbeperkten
+
+1.  Voor de toepassing van artikel 122n, tweede lid, van de Wfsv wordt als arbeidsbeperkte beschouwd de arbeidsbeperkte werknemer die aan de werkgever in de sector overheid onderscheidenlijk de sector niet-overheid ter beschikking is gesteld om voor hem onder zijn toezicht en leiding arbeid te verrichten.   
+2.  Het aantal banen, uitgedrukt in verloonde uren, bedoeld in artikel 3.29, eerste lid, wordt voor 2013 verminderd met het aantal banen, uitgedrukt in verloonde uren, van de ter beschikking gestelde arbeidsbeperkten, bedoeld in het eerste lid, door werkgevers in de overheidssector aan werkgevers in de niet-overheidssector onderscheidenlijk door werkgevers in de niet-overheidssector aan werkgevers in de overheidssector. De banen, uitgedrukt in verloonde uren, die in mindering zijn gebracht worden gerekend tot de niet-overheidssector onderscheidenlijk de overheidssector waartoe de werkgever behoort waaraan de arbeidsbeperkte ter beschikking is gesteld.  
+
+### Artikel  3.31  
+
+####Nadere bepaling variabelen quotumpercentages
+
+Voor de berekening van de quotumpercentages, bedoeld in artikel 38f, tweede lid, van de Wfsv, wordt voor de toepassing van de variabelen van de formule, bedoeld in dat lid, het volgende in acht genomen: 
+
+a. voor variabele A: 
+
+1°. onder een baan wordt verstaan het gemiddeld aantal verloonde uren van arbeidsbeperkten in de onderscheiden sectoren tezamen overeenkomstig variabele C als bedoeld in onderdeel c;  
+
+2°. het aantal banen in 2013 vervuld door arbeidsbeperkten werkzaam bij werkgevers die op grond van artikel 34, derde, vierde en zesde lid, van de Wfsv een quotumheffing zijn verschuldigd, gemeten over de maand december 2012 bedraagt op grond van artikel 3.29, eerste lid, met overeenkomstige toepassing van artikel 3.30, eerste en tweede lid, voor de overheidssector 12.196 banen en voor de niet-overheidssector 35.397 banen.    
+
+b. voor variabele B: 
+
+1°. het aantal extra banen voor arbeidsbeperkten dat voor de berekening van het quotumpercentage in het desbetreffende kalenderjaar wordt geteld, bedraagt voor de overheidsector in: 
+
+1°. 2017: 8.750;  
+
+2°. 2018: 11.250;  
+
+3°. 2019: 13.750;  
+
+4°. 2020: 16.250;  
+
+5°. 2021: 18.750;  
+
+6°. 2022: 21.250;  
+
+7°. 2023: 23.750.  
+
+8°. 2024 en verder: 25.000  
+
+2°. het aantal extra banen voor arbeidsbeperkten dat voor de berekening van het quotumpercentage in het desbetreffende kalenderjaar wordt geteld, bedraagt voor de niet-overheidssector in: 
+
+1°. 2017: 19.500;  
+
+2°. 2018: 27.000;  
+
+3°. 2019: 35.500;  
+
+4°. 2020: 45.000;  
+
+5°. 2021: 55.000;  
+
+6°. 2022: 65.000;  
+
+7°. 2023: 75.000;  
+
+8°. 2024: 85.000;  
+
+9°. 2025: 95.000;  
+
+10°. 2026 en verder: 100.000.    
+
+c. voor variabele C: het gemiddeld aantal verloonde uren van arbeidsbeperkten in de onderscheiden sectoren tezamen bedraagt 1.331 uren per jaar.  
+
+d. voor variabele E: het gemiddeld aantal verloonde uren van een werknemer in de onderscheiden sectoren tezamen bedraagt 1.623 uren per jaar.   
+
 ### Hoofdstuk  4  
 
 ####Gemoedsbezwaarden
