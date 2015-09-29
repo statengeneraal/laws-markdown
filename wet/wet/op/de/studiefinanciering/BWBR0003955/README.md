@@ -133,7 +133,7 @@ Op een studerende aan wie tot het tijdstip van inwerkingtreding van deze wet op 
 
 ####Verrekening kinderbijslag 
 
-1.  Indien over een tijdvak, waarover krachtens de [Algemene Kinderbijslagwet](../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) ten behoeve van een studerende kinderbijslag is verleend, naderhand voor die studerende recht op studiefinanciering op grond van hoofdstuk II van deze wet wordt vastgesteld, is de Informatie Beheer Groep bevoegd die studiefinanciering over dat tijdvak en over latere tijdvakken, in plaats van aan degene aan wie de studiefinanciering zou dienen te worden betaald, zonder diens machtiging tot het bedrag van de betaalde kinderbijslag over dat tijdvak te betalen aan de Sociale verzekeringsbank.    
+1.  Indien over een tijdvak, waarover krachtens de Algemene Kinderbijslagwet ten behoeve van een studerende kinderbijslag is verleend, naderhand voor die studerende recht op studiefinanciering op grond van hoofdstuk II van deze wet wordt vastgesteld, is de Informatie Beheer Groep bevoegd die studiefinanciering over dat tijdvak en over latere tijdvakken, in plaats van aan degene aan wie de studiefinanciering zou dienen te worden betaald, zonder diens machtiging tot het bedrag van de betaalde kinderbijslag over dat tijdvak te betalen aan de Sociale verzekeringsbank.    
 2.   Van de in het eerste lid bedoelde bevoegdheid kan de Informatie Beheer Groep gebruik maken tot en met twee kalenderjaren na de vaststelling van het recht op studiefinanciering.   
 
 ### Hoofdstuk  XIII  
@@ -149,7 +149,7 @@ Op een studerende aan wie tot het tijdstip van inwerkingtreding van deze wet op 
 3.   Vervallen.    
 4.   Vervallen.    
 5.   Vervallen.    
-6.   Op het moment waarop hoofdstuk III in werking treedt vervalt voor alle studerenden jonger dan 18 jaren de mogelijkheid om een tegemoetkoming in de studiekosten op grond van de artikelen 80 en 143*bis*, vierde lid, van de Wet op het wetenschappelijk onderwijs dan wel op grond van een regeling krachtens [artikel 121 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aan te vragen.   
+6.   Op het moment waarop hoofdstuk III in werking treedt vervalt voor alle studerenden jonger dan 18 jaren de mogelijkheid om een tegemoetkoming in de studiekosten op grond van de artikelen 80 en 143*bis*, vierde lid, van de Wet op het wetenschappelijk onderwijs dan wel op grond van een regeling krachtens artikel 121 van de Wet op het voortgezet onderwijs aan te vragen.   
 
 ### Artikel  152  
 

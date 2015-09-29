@@ -73,11 +73,15 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ### Artikel  3  
 
-De openbaar accountant en intern of overheidsaccountant draagt er zorg voor dat de accountantspraktijk of accountantsafdeling waarbij hij werkzaam is of waaraan hij is verbonden, beschikt over een stelsel van kwaliteitsbeheersing dat is afgestemd op de aard, omvang en het belang van de opdrachten en waarmee wordt voldaan aan het bepaalde bij en krachtens de Wet op het accountantsberoep. 
+De daartoe bij of krachtens de Wet op het accountantsberoep aangewezen accountant, draagt er zorg voor dat de accountantspraktijk of accountantsafdeling waarbij hij werkzaam is of waaraan hij is verbonden, voldoet aan het bepaalde bij en krachtens de Wet op het accountantsberoep. 
 
 ### Artikel  4  
 
-De accountant verleent medewerking aan een toetsing, een hertoetsing, een thematisch onderzoek of een incidentenonderzoek en stelt alle gegevens ter beschikking die nodig zijn voor een toetsing, een hertoetsing, een thematisch onderzoek of een incidentenonderzoek. 
+De accountant verleent medewerking aan een toetsing, een hertoetsing, een thematisch onderzoek, een incidentenonderzoek, een onderzoek als bedoeld in artikel 8, tweede lid, of een onderzoek als bedoeld in artikel 4a en stelt alle gegevens ter beschikking die nodig zijn voor vorenbedoelde toetsingen of onderzoeken en verschaft de nadere inlichtingen die worden verlangd in het kader van een periodiek bezoek als bedoeld in artikel 8, derde lid. 
+
+### Artikel  4a  
+
+Het bestuur kan een onderzoek instellen als sprake is van een redelijk vermoeden van niet-naleving van voor accountants geldende beroepsnormen. 
 
 ### Artikel  5  
 
@@ -175,6 +179,14 @@ b. het stelsel van kwaliteitsbeheersing voldoet in opzet en werking niet aan het
 1.  Na een eindoordeel als bedoeld in artikel 15, derde lid, onderdeel b, vindt een hertoetsing plaats.   
 2.  De hertoetsing vindt plaats na afloop van de termijn, bedoeld in artikel 15, zesde lid.   
 3.  In het geval aan een accountantspraktijk of een accountantsafdeling na een hertoetsing een eindoordeel is gegeven als bedoeld in artikel 15, vierde lid, onderdeel b, kan het bestuur een tuchtrechtelijke procedure aanhangig maken bij de Accountantskamer.  
+
+### Artikel  16a  
+
+Indien een eindoordeel als bedoeld in artikel 15, derde lid, onderdeel b, zijn grond vindt in het oordeel over de uitvoering van assurance-opdrachten door de accountantspraktijk of de accountantsafdeling en deze accountantspraktijk of accountantsafdeling naar aanleiding van het eindoordeel schriftelijk heeft verklaard geen assurance-opdrachten meer uit te voeren, dan blijven de volgende bepalingen buiten toepassing: 
+
+a. artikel 15, zesde lid; en  
+
+b. artikel 16.   
 
 ### Artikel  17  
 
@@ -278,7 +290,7 @@ d. tijdelijk niet kan worden voldaan aan de normen, bedoeld in artikel 3 doordat
 
 ### Artikel  27  
 
-De kosten van een accreditatie als bedoeld in artikel 26, derde lid, worden gevormd door het aantal aangevangen dagdelen dat de toetsers gezamenlijk bij de koepelorganisatie aan de toetsing hebben besteed, vermenigvuldigd met het geldende tarief. 
+De kosten van een accreditatie als bedoeld in artikel 26, derde lid, worden gevormd door het aantal aangevangen uren dat de toetsers gezamenlijk bij de koepelorganisatie aan de toetsing hebben besteed, vermenigvuldigd met het geldende tarief. 
 
 ### Hoofdstuk  8  
 
@@ -298,7 +310,7 @@ In situaties die procedureel van aard zijn en waarin deze verordening niet voorz
 
 ### Artikel  30  
 
-1.  De kosten van de werkzaamheden die worden verricht ter zake van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, komen voor rekening van de accountantspraktijk waarbij de accountant werkzaam is of waaraan de accountant is verbonden, of de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort waarbij de accountant werkzaam is of waaraan de accountant is verbonden.   
+1.  De kosten van de werkzaamheden die worden verricht ter zake van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, komen, met uitzondering van het tarief, bedoeld in artikel 4, tweede lid, van de Verordening op de kennistoets, voor rekening van de accountantspraktijk waarbij de accountant werkzaam is of waaraan de accountant is verbonden, of de onderneming, de instelling of de overheid en de daarmee gelijk te stellen dienst waartoe de accountantsafdeling behoort waarbij de accountant werkzaam is of waaraan de accountant is verbonden.   
 2.  De toerekening van de kosten van de werkzaamheden die worden verricht ter zake van de beoordeling van de kwaliteit van de beroepsuitoefening van een accountant, wordt bij verordening vastgesteld.  
 
 ### Hoofdstuk  10  

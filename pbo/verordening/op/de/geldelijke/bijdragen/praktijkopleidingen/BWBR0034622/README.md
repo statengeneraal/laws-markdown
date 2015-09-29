@@ -33,7 +33,7 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  Kandidaten die aan de praktijkopleiding AA willen deelnemen zijn eenmalig een deelnamebijdrage van € 645,– verschuldigd.   
+1.  Kandidaten die aan de praktijkopleiding AA willen deelnemen zijn eenmalig een deelnamebijdrage van € 730,– verschuldigd.   
 2.  Kandidaten die aan de praktijkopleiding RA willen deelnemen zijn eenmalig een deelnamebijdrage van € 819,– verschuldigd.   
 3.  Trainees zijn na verloop van vijf jaren na de aanvang van de praktijkopleiding een jaarlijkse bijdrage van € 230,– verschuldigd.  
 

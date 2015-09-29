@@ -3,7 +3,7 @@
 ##Regeling melding bijzondere voorvallen jeugdigen
 
 De Minister van Justitie,  
-Gelet op [artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 5, tweede lid van de Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van de Raad voor Strafrechtstoepassing en Jeugdbescherming van 28 juni 2001, kenmerk 5105565/TH/mk;
 Besluit:    

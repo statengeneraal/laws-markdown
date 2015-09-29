@@ -3,7 +3,7 @@
 ##Verordening op de Raad voor Toezicht
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [19, eerste lid, van de Wet op het accountantsberoep](../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid en 19, eerste lid, van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:     
 ### Hoofdstuk  1  
 
@@ -13,11 +13,11 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening wordt verstaan onder: 
 
-–  *accountant:* een accountant als bedoeld in [artikel 1 van de Wet op het accountantsberoep](../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *accountant:* een accountant als bedoeld in artikel 1 van de Wet op het accountantsberoep;  
 
-–  *accountantskamer:* de accountantskamer, bedoeld in [artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants](../../../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md);  
+–  *accountantskamer:* de accountantskamer, bedoeld in artikel 10, eerste lid, van de Wet tuchtrechtspraak accountants;  
 
-–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2, eerste lid, van de Wet op het accountantsberoep](../../../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+–  *beroepsorganisatie:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2, eerste lid, van de Wet op het accountantsberoep;  
 
 –  *bestuur:* het bestuur van de beroepsorganisatie;  
 
@@ -34,7 +34,7 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 a. het bij wege van mandaat of uit hoofde van volmacht namens het bestuur houden van toezicht op de beroepsuitoefening door accountants;  
 
-b. het gevraagd en ongevraagd adviseren van het bestuur ten aanzien van de indiening van een klacht als bedoeld in [artikel 22 van de Wet tuchtrechtspraak accountants](../../../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md).     
+b. het gevraagd en ongevraagd adviseren van het bestuur ten aanzien van de indiening van een klacht als bedoeld in artikel 22 van de Wet tuchtrechtspraak accountants.     
 3.  In de uitoefening van zijn taken wordt de Raad bijgestaan door een secretaris welke wordt aangewezen door het bestuur.   
 4.  De Raad kan in het kader van zijn taken externe deskundigen, waaronder accountants, inschakelen.  
 
@@ -89,7 +89,7 @@ f. bij overlijden.
 ### Artikel  6  
 
 1.  Een ieder die is betrokken bij de uitvoering van de taak van de Raad en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens geheimhouding geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.   
-2.  De Raad kan een externe deskundige, als bedoeld in artikel 2, vierde lid ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in [artikel 26 van de Verordening kwaliteitsbeoordelingen](../../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md).  
+2.  De Raad kan een externe deskundige, als bedoeld in artikel 2, vierde lid ontheffen van de verplichting, bedoeld in het eerste lid, indien dat noodzakelijk is voor het toezicht op de beroepsuitoefening of voor het verkrijgen dan wel behouden van een accreditatie als bedoeld in artikel 26 van de Verordening kwaliteitsbeoordelingen.  
 
 ### Artikel  7  
 
@@ -106,7 +106,7 @@ f. bij overlijden.
 ### Artikel  8  
 
 1.  De Raad bepaalt met inachtneming van het tweede lid van dit artikel en de grenzen van het mandaat en de volmacht welke aan hem door het bestuur zijn verleend, de invulling van de in artikel 2, tweede lid, bedoelde taak en de daarbij te hanteren werkwijze.   
-2.  De Raad voert de [Verordening op de kwaliteitsbeoordelingen](../../../../../../../../pbo/verordening/op/de/kwaliteitsbeoordelingen/BWBR0033786/README.md) uit.   
+2.  De Raad voert de Verordening op de kwaliteitsbeoordelingen uit.   
 3.  De Raad kan een onderzoek instellen indien sprake is van een redelijk vermoeden van niet-naleving van voor accountants geldende beroepsnormen.  
 
 ### Hoofdstuk  4  
@@ -127,7 +127,7 @@ Bij de inwerkingtreding van deze verordening, wordt de Raad gevormd door de lede
 
 ### Artikel  11  
 
-Beslissingen genomen door de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA op grond van de [Verordening op de Raad voor Toezicht](../../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032734/README.md) (Stcrt. 2013, 451) of de [Verordening op de Raad voor Toezicht](../../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032754/README.md) (Stcrt. 2013, 730) worden geacht te zijn genomen door de Raad op grond van deze verordening. 
+Beslissingen genomen door de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA op grond van de Verordening op de Raad voor Toezicht (Stcrt. 2013, 451) of de Verordening op de Raad voor Toezicht (Stcrt. 2013, 730) worden geacht te zijn genomen door de Raad op grond van deze verordening. 
 
 ### Hoofdstuk  6  
 
@@ -135,11 +135,11 @@ Beslissingen genomen door de gezamenlijke Raad voor Toezicht van NIVRA en NOvAA 
 
 ### Artikel  12  
 
-De [Verordening op de Raad voor Toezicht](../../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032734/README.md) (Stcrt. 2013, 451) wordt ingetrokken. 
+De Verordening op de Raad voor Toezicht (Stcrt. 2013, 451) wordt ingetrokken. 
 
 ### Artikel  13  
 
-De [Verordening op de Raad voor Toezicht](../../../../../../../../pbo/verordening/op/de/raad/voor/toezicht/BWBR0032754/README.md) (Stcrt. 2013, 730) wordt ingetrokken. 
+De Verordening op de Raad voor Toezicht (Stcrt. 2013, 730) wordt ingetrokken. 
 
 ### Artikel  14  
 

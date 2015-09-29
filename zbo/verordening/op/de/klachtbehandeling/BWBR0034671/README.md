@@ -3,7 +3,7 @@
 ##Verordening op de klachtbehandeling
 
 De ledenvergadering van de Nederlandse beroepsorganisatie van accountants;  
-Gelet op de [artikelen 5, eerste lid](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md) en [19, tweede lid, aanhef en onder c, van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);
+Gelet op de artikelen 5, eerste lid en 19, tweede lid, aanhef en onder c, van de Wet op het accountantsberoep;
 Stelt de volgende verordening vast:     
 ### Hoofdstuk  1  
 
@@ -13,9 +13,9 @@ Stelt de volgende verordening vast:
 
 Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt verstaan onder: 
 
-–  *accountantskantoor:* het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);  
+–  *accountantskantoor:* het accountantskantoor, bedoeld in artikel 1, van de Verordening op de ledengroepen;  
 
-–  *NBA:* de Nederlandse beroepsorganisatie van accountants, bedoeld in [artikel 2 van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+–  *NBA:* de Nederlandse beroepsorganisatie van accountants, bedoeld in artikel 2 van de Wet op het accountantsberoep.   
 
 ### Hoofdstuk  2  
 
@@ -27,7 +27,7 @@ Voor de toepassing van deze verordening en de daarop rustende bepalingen wordt v
 
 a. klachten die betrekking hebben op een accountant die niet werkzaam is bij of verbonden is aan een accountantsorganisatie of accountantskantoor waar een klachtenregeling van toepassing is;  
 
-b. klachten die ingevolge [artikel 38a, eerste lid, van de Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md) door de accountantskamer zijn doorgezonden aan de Klachtencommissie; of  
+b. klachten die ingevolge artikel 38a, eerste lid, van de Wet tuchtrechtspraak accountants door de accountantskamer zijn doorgezonden aan de Klachtencommissie; of  
 
 c. klachten die de klager aan de Klachtencommissie wenst voor te leggen.    
 2. Deze verordening is niet van toepassing op de klacht, bedoeld in het eerste lid onder b die de klager wenst voor te leggen aan de klachtinstantie van de accountantsorganisatie of het accountantskantoor waarbij de accountant werkzaam is of waaraan hij is verbonden.
@@ -66,7 +66,7 @@ b. bij het bereiken van de zeventigjarige leeftijd;
 
 c. bij het verstrijken van de zittingsduur;  
 
-d. bij doorhaling in het accountantsregister als bedoeld in [artikel 43 van de Wet op het accountantsberoep](../../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md);  
+d. bij doorhaling in het accountantsregister als bedoeld in artikel 43 van de Wet op het accountantsberoep;  
 
 e. bij overlijden.     
 2.  Het lid van de Klachtencommissie, dat ingevolge sub b of c van het eerste lid aftreedt, kan op verzoek van de voorzitter zijn functie behouden met betrekking tot die zaken aan welker behandeling hij heeft deelgenomen, doch die op het tijdstip van zijn aftreden nog niet zijn afgedaan.   
@@ -78,7 +78,7 @@ e. bij overlijden.
 
 ### Artikel  6  
 
-1.  Een ieder die wil klagen over de wijze waarop een accountant zich bij de uitoefening van zijn beroep jegens hem heeft gedragen, kan hierover schriftelijk een klacht indienen bij de Klachtencommissie.   
+1.  Een ieder die wil klagen over de wijze waarop een accountant zich ten aanzien van de uitoefening van zijn beroep jegens hem heeft gedragen, kan hierover schriftelijk een klacht indienen bij de Klachtencommissie.   
 2.  De accountant, bedoeld in artikel 2, eerste lid onder a, stuurt een door hem ontvangen klacht onverwijld door aan de Klachtencommissie.   
 3.  Een klacht kan niet over de hoogte van een declaratie gaan.  
 
@@ -103,11 +103,13 @@ d. een omschrijving van de gedraging waartegen de klacht is gericht alsmede de r
 
 a. indien zij betrekking heeft op een gedraging die door de indiening van een klacht aan het oordeel van de klachtencommissie of een klachtinstantie van een accountantsorganisatie of accountantskantoor is onderworpen, dan wel onderworpen is geweest;  
 
-b. indien zij betrekking heeft op een gedraging die langer dan drie jaar na constatering daarvan of langer dan zes jaar vóór indiening van de klacht, heeft plaatsgevonden;  
+b. indien tussen het moment van constateren of redelijkerwijs kunnen constateren van het handelen of nalaten en het moment van indiening een periode van drie jaar is verstreken;  
 
-c. indien zij betrekking heeft op een gedraging die door de indiening van een klacht aan het oordeel van de accountantskamer is onderworpen, dan wel onderworpen is geweest;  
+c.indien tussen het moment van handelen of nalaten en het moment van indiening een periode van zes jaar is verstreken;
 
-d. zolang ter zake van de gedraging waarop de klacht betrekking heeft een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en ter zake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.     
+d. indien zij betrekking heeft op een gedraging die door de indiening van een klacht aan het oordeel van de accountantskamer is onderworpen, dan wel onderworpen is geweest;  
+
+e. zolang ter zake van de gedraging waarop de klacht betrekking heeft een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is, dan wel indien de gedraging deel uitmaakt van de opsporing of vervolging van een strafbaar feit en ter zake van dat feit een opsporingsonderzoek op bevel van de officier van justitie of een vervolging gaande is.     
 2.  De Klachtencommissie neemt een klacht niet in behandeling indien niet is voldaan aan enig bij verordening gesteld vereiste voor het in behandeling nemen van klachten.   
 3.  De voorzitter van de Klachtencommissie beslist op voordracht van de secretaris omtrent het niet in behandeling nemen van een klacht.   
 4.  Van het niet in behandeling nemen van de klacht stelt de Klachtencommissie klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis.  
@@ -163,7 +165,7 @@ b. aanvullende gegevens of bescheiden te verstrekken, tot de dag waarop zij zijn
 a. gegrondverklaring van de klacht; of  
 
 b. ongegrondverklaring van de klacht.     
-3.  Indien de klacht betrekking heeft op een handelen of nalaten als bedoeld in [artikel 22, eerste lid, van de Wet tuchtrechtspraak accountants](../../../../../../wet/wet/tuchtrechtspraak/accountants/BWBR0024238/README.md) wordt in de beslissing gemeld dat alsnog een klacht kan worden ingediend bij de accountantskamer.   
+3.  Indien de klacht betrekking heeft op een handelen of nalaten als bedoeld in artikel 22, eerste lid, van de Wet tuchtrechtspraak accountants wordt in de beslissing gemeld dat alsnog een klacht kan worden ingediend bij de accountantskamer.   
 4.  De Klachtencommissie kan haar beslissing toezenden aan het bestuur van de NBA, de accountantskamer en het College van Beroep voor het bedrijfsleven.  
 
 ### Artikel  16  
@@ -178,23 +180,23 @@ b. ongegrondverklaring van de klacht.
 ### Artikel  17  
 
 1.  Bij de inwerkingtreding van deze verordening, wordt de Klachtencommissie gevormd door de leden van de Klachtencommissie zoals deze per 30 juni 2013 was samengesteld.   
-2.  Besluiten genomen op grond van de [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de/klachtbehandeling/BWBR0025093/README.md) (Stcrt. 2008, 253) en de [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de/klachtbehandeling/BWBR0024408/README.md) (Stcrt. 2008, 167) die gelden op het tijdstip van inwerkingtreding van deze verordening, worden geacht te zijn genomen op grond van deze verordening, onder dezelfde voorschriften, beperkingen en voorwaarden.  
+2.  Besluiten genomen op grond van de Verordening op de klachtbehandeling (Stcrt. 2008, 253) en de Verordening op de klachtbehandeling (Stcrt. 2008, 167) die gelden op het tijdstip van inwerkingtreding van deze verordening, worden geacht te zijn genomen op grond van deze verordening, onder dezelfde voorschriften, beperkingen en voorwaarden.  
 
 ### Artikel  18  
 
 In artikel 1 komt de definitie van accountantskantoor te luiden: 
 
-– accountantskantoor: het accountantskantoor, bedoeld in [artikel 1, van de Verordening op de ledengroepen](../../../../../../pbo/verordening/op/de/ledengroepen/BWBR0033813/README.md);   
+– accountantskantoor: het accountantskantoor, bedoeld in artikel 1, van de Verordening op de ledengroepen;   
 
 ### Artikel  19  
 
-De [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de/klachtbehandeling/BWBR0025093/README.md) (Stcrt. 2008, 253) wordt ingetrokken. 
+De Verordening op de klachtbehandeling (Stcrt. 2008, 253) wordt ingetrokken. 
 
 ### Artikel  20  
 
-De [Verordening op de klachtbehandeling](../../../../../../pbo/verordening/op/de/klachtbehandeling/BWBR0024408/README.md) (Stcrt. 2008, 167) wordt ingetrokken 
+De Verordening op de klachtbehandeling (Stcrt. 2008, 167) wordt ingetrokken 
 
 ### Artikel  21  
 
-1.  Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van artikel 18, dat in werking treedt op het tijdstip waarop de [Verordening gedrags- en beroepsregels accountants](../../../../../../pbo/verordening/gedrags-/en/beroepsregels/accountants/BWBR0034635/README.md) in werking treedt.   
+1.  Deze verordening treedt in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2014, met uitzondering van artikel 18, dat in werking treedt op het tijdstip waarop de Verordening gedrags- en beroepsregels accountants in werking treedt.   
 2.  Deze verordening wordt aangehaald als: Verordening op de klachtbehandeling.  
