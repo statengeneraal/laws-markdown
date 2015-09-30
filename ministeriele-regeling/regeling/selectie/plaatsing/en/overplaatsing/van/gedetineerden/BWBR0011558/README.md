@@ -27,7 +27,9 @@ d.risicoprofiel: de aanduiding van het vlucht- en maatschappelijk risico van een
 
 e.opgelegde vrijheidsstraf: de opgelegde vrijheidsstraf, dan wel het totaal van de opgelegde vrijheidsstraffen zonder aftrek van de vervroegde invrijheidstelling;
 
-f.sectordirecteur Gevangeniswezen: de sectordirecteur Gevangeniswezen van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;
+f.divisiedirecteur GW/VB: de directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;
+
+fa. divisiedirecteur IZ: de directeur van de divisie Individuele Zaken van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie; 
 
 g.Meldpunt-GRIP: het Gedetineerden Recherche Informatiepunt van de dienst Nationale recherche van de Landelijke eenheid;
 
@@ -356,15 +358,15 @@ c. eventueel overige beschikbare informatie waaronder de bevindingen van het mel
 4. De selectiefunctionaris plaatst een gedetineerde, zo mogelijk, in een inrichting of afdeling met de mate van beveiliging die op grond van het risicoprofiel voor betrokkene geïndiceerd is.
 5. Indien het regime dan wel de bijzondere opvang die voor de gedetineerde geïndiceerd is, niet wordt geboden in een inrichting of afdeling met het voor de gedetineerde geïndiceerde beveiligingsniveau, plaatst de selectiefunctionaris de gedetineerde in een inrichting of afdeling met een hoger beveiligingsniveau. 
 
-###Artikel 23 
+### Artikel  23  
 
 ####Selectie-adviescommissie
 
-De sectordirecteur Gevangeniswezen kan ten behoeve van de selectie van gedetineerden voor een bepaalde categorie inrichtingen of afdelingen een selectie-adviescommissie instellen.Er is in ieder geval:
+De divisiedirecteur IZ kan ten behoeve van de selectie van gedetineerden voor een bepaalde categorie inrichtingen of afdelingen een selectie-adviescommissie instellen. Er is in ieder geval: 
 
-een selectie-adviescommissie Extra Beveiligde Inrichting welke adviseert over de plaatsing in een extra beveiligde inrichting;
+een selectie-adviescommissie Extra Beveiligde Inrichting welke adviseert over de plaatsing in een extra beveiligde inrichting;  
 
-een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert over plaatsing krachtens artikel 41 van het besluit. 
+een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert over plaatsing krachtens artikel 41 van het besluit.    
 
 ### Artikel  24  
 
@@ -389,42 +391,42 @@ een selectie-adviescommissie geestelijk gestoorde gedetineerden welke adviseert 
 7.  Gedetineerden die zijn veroordeeld tot een gevangenisstraf, worden in een gevangenis in het arrondissement van vestiging geplaatst tenzij een belang als bedoeld in artikel 36, vierde lid, van de wet zich daartegen verzet. Indien in het arrondissement geen gevangenis is aangewezen, dan wel geen plaats in een gevangenis in het desbetreffende arrondissement beschikbaar is, dan wordt de gedetineerde in een gevangenis in een aanpalend arrondissement geplaatst. Ten aanzien van plaatsing in een gevangenis wordt een volgorde gehanteerd, waarbij gedetineerden die verblijven in het plusprogramma, voorrang krijgen boven gedetineerden die verblijven in het basisprogramma.   
 8.  Het zevende lid is niet van toepassing op de arrestanten, bedoeld in artikel 7, tweede lid. 
 
-###Artikel 26 
+### Artikel  26  
 
 ####Plaatsing in een extra beveiligde inrichting (EBI)
 
-1. In aanvulling op het gestelde in de artikelen 24 en 25 worden ten aanzien van een plaatsing in een Extra Beveiligde Inrichting de volgende voorwaarden in acht genomen:
+1.  In aanvulling op het gestelde in de artikelen 24 en 25 worden ten aanzien van een plaatsing in een Extra Beveiligde Inrichting de volgende voorwaarden in acht genomen: 
 
-a. Alvorens het selectievoorstel wordt voorgelegd aan de selectie-adviescommissie Extra Beveiligde Inrichting wordt dit voorzien van externe justitiële informatie, in ieder geval van het meldpunt-GRIP en het Openbaar Ministerie, omtrent het vlucht- en maatschappelijk risico van betrokkene.
+a. Alvorens het selectievoorstel wordt voorgelegd aan de selectie-adviescommissie Extra Beveiligde Inrichting wordt dit voorzien van externe justitiële informatie, in ieder geval van het meldpunt-GRIP en het Openbaar Ministerie, omtrent het vlucht- en maatschappelijk risico van betrokkene.  
 
-b. De selectiefunctionaris hoort de betrokken gedetineerde alvorens een beslissing omtrent de plaatsing te nemen. Eventueel door de gedetineerde tegen de plaatsing aangevoerde argumenten worden in het selectieadvies vastgelegd.
+b. De selectiefunctionaris hoort de betrokken gedetineerde alvorens een beslissing omtrent de plaatsing te nemen. Eventueel door de gedetineerde tegen de plaatsing aangevoerde argumenten worden in het selectieadvies vastgelegd.  
 
-c. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot plaatsing in een Extra Beveiligde Inrichting over met instemming van de sectordirecteur Gevangeniswezen. In alle andere gevallen wordt de sectordirecteur Gevangeniswezen door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.
-2. Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen, kan spoedshalve afgeweken worden van de in het eerste lid gestelde procedure. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.
-3. De selectiefunctionaris neemt ambtshalve elke zes maanden een besluit omtrent de verlenging van het verblijf in een Extra Beveiligde Inrichting. De eerste besluitvorming over verlenging of beëindiging van het verblijf in een Extra Beveiligde Inrichting vindt plaats zes maanden na de plaatsing van betrokkene in een Extra Beveiligde Inrichting.
-4. Bij het nemen van de beslissing, bedoeld in het derde lid, worden de volgende voorwaarden in acht genomen:
+c. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot plaatsing in een Extra Beveiligde Inrichting over met instemming van de divisiedirecteur IZ. In alle andere gevallen wordt de divisiedirecteur IZ door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.     
+2.  Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen, kan spoedshalve afgeweken worden van de in het eerste lid gestelde procedure. In dat geval spreekt de selectie-adviescommissie zich in de eerstvolgende vergadering alsnog uit over het plaatsingsbesluit.   
+3.  De selectiefunctionaris neemt ambtshalve elke zes maanden een besluit omtrent de verlenging van het verblijf in een Extra Beveiligde Inrichting. De eerste besluitvorming over verlenging of beëindiging van het verblijf in een Extra Beveiligde Inrichting vindt plaats zes maanden na de plaatsing van betrokkene in een Extra Beveiligde Inrichting.   
+4.  Bij het nemen van de beslissing, bedoeld in het derde lid, worden de volgende voorwaarden in acht genomen: 
 
-a. Ten behoeve van de besluitvorming stelt de directeur van de Extra Beveiligde Inrichting vijf maanden na de plaatsing dan wel laatste beslissing omtrent de verlenging van het verblijf in de Extra Beveiligde Inrichting, een schriftelijke (gedrags)rapportage over de gedetineerde op.
+a.  Ten behoeve van de besluitvorming stelt de directeur van de Extra Beveiligde Inrichting vijf maanden na de plaatsing dan wel laatste beslissing omtrent de verlenging van het verblijf in de Extra Beveiligde Inrichting, een schriftelijke (gedrags)rapportage over de gedetineerde op.  
 
-b. Alvorens hij het voorstel indient, wint de directeur beschikbare informatie over de betrokken gedetineerde in bij de secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting. De secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting wendt zich vervolgens ter verkrijging van externe justitiële informatie tot het meldpunt-GRIP en het Openbaar Ministerie, verzamelt en analyseert de beschikbare gegevens en informeert de directeur van de Extra Beveiligde Inrichting schriftelijk dan wel in spoedeisende gevallen telefonisch met schriftelijke bevestiging achteraf.
+b.  Alvorens hij het voorstel indient, wint de directeur beschikbare informatie over de betrokken gedetineerde in bij de secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting. De secretaris van de selectie-adviescommissie Extra Beveiligde Inrichting wendt zich vervolgens ter verkrijging van externe justitiële informatie tot het meldpunt-GRIP en het Openbaar Ministerie, verzamelt en analyseert de beschikbare gegevens en informeert de directeur van de Extra Beveiligde Inrichting schriftelijk dan wel in spoedeisende gevallen telefonisch met schriftelijke bevestiging achteraf.  
 
-c. De directeur bespreekt de rapportage met de gedetineerde alvorens deze naar de selectiefunctionaris te verzenden. Eventuele opmerkingen van de gedetineerde worden in de rapportage vastgelegd.
+c.  De directeur bespreekt de rapportage met de gedetineerde alvorens deze naar de selectiefunctionaris te verzenden. Eventuele opmerkingen van de gedetineerde worden in de rapportage vastgelegd.  
 
-d. Indien de selectiefunctionaris overweegt de plaatsing in een Extra Beveiligde Inrichting te verlengen hoort hij de gedetineerde. Eventueel door de gedetineerde aangevoerde bezwaren worden vastgelegd.
+d.  Indien de selectiefunctionaris overweegt de plaatsing in een Extra Beveiligde Inrichting te verlengen hoort hij de gedetineerde. Eventueel door de gedetineerde aangevoerde bezwaren worden vastgelegd.  
 
-e. Indien de gedragsdeskundige informatie daartoe aanleiding geeft, legt de selectiefunctionaris de beschikbare informatie ter advisering voor aan het Penitentiair Selectie Centrum.
+e.  Indien de gedragsdeskundige informatie daartoe aanleiding geeft, legt de selectiefunctionaris de beschikbare informatie ter advisering voor aan het Penitentiair Selectie Centrum.  
 
-f. De selectiefunctionaris legt, de onder a tot en met c bedoelde informatie, voorzien van zijn voorgenomen besluit ter advisering voor aan de selectie-adviescommissie Extra Beveiligde Inrichting. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot verlenging van de plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot verlenging van de plaatsing in een Extra Beveiligde Inrichting over met instemming van de sectordirecteur Gevangeniswezen. In alle andere gevallen wordt de hiervoor genoemde sectordirecteur Gevangeniswezen door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.
-5. Een in een Extra Beveiligde Inrichting verblijvende gedetineerde wiens strafrestant nog slechts anderhalf jaar of minder bedraagt wordt uit de Extra Beveiligde Inrichting geplaatst, tenzij:
+f.  De selectiefunctionaris legt, de onder a tot en met c bedoelde informatie, voorzien van zijn voorgenomen besluit ter advisering voor aan de selectie-adviescommissie Extra Beveiligde Inrichting. Indien binnen de selectie-adviescommissie Extra Beveiligde Inrichting geen consensus wordt bereikt over het advies tot verlenging van de plaatsing in een Extra Beveiligde Inrichting, gaat de selectiefunctionaris enkel tot verlenging van de plaatsing in een Extra Beveiligde Inrichting over met instemming van de divisiedirecteur IZ. In alle andere gevallen worden de divisiedirecteur IZ en de divisiedirecteur GW/VB door of namens de selectiefuntionaris geïnformeerd over de genomen beslissing.     
+5.  Een in een Extra Beveiligde Inrichting verblijvende gedetineerde wiens strafrestant nog slechts anderhalf jaar of minder bedraagt wordt uit de Extra Beveiligde Inrichting geplaatst, tenzij: 
 
-a. er sprake is van een uitlevering of dreigende uitlevering,
+a.  er sprake is van een uitlevering of dreigende uitlevering,  
 
-b. er nog immer sprake is van een onaanvaardbaar maatschappelijk risico bij ontvluchting,
+b.  er nog immer sprake is van een onaanvaardbaar maatschappelijk risico bij ontvluchting,  
 
-c. de betrokken gedetineerde in de voorafgaande periode van een jaar ontvlucht is, een ontvluchtingspoging heeft gedaan of op andere wijze de orde en veiligheid in de inrichting ernstig in gevaar heeft gebracht, of
+c.  de betrokken gedetineerde in de voorafgaande periode van een jaar ontvlucht is, een ontvluchtingspoging heeft gedaan of op andere wijze de orde en veiligheid in de inrichting ernstig in gevaar heeft gebracht, of  
 
-d. er nog steeds valide informatie van het meldpunt-GRIP dan wel het Openbaar Ministerie aanwezig is omtrent een reëel vluchtgevaar van de gedetineerde.
-6. De directeur van een Extra Beveiligde Inrichting kan in verband met nieuwe feiten de selectiefunctionaris tussentijds voorstellen de gedetineerde over te plaatsen. De selectiefunctionaris kan, na instemming van de sectordirecteur Gevangeniswezen, op basis van het vastgestelde feitenmateriaal tot overplaatsing van de betrokken gedetineerde besluiten. In dat geval wordt de selectie-adviescommissie Extra Beveiligde Inrichting achteraf geïnformeerd. 
+d.  er nog steeds valide informatie van het meldpunt-GRIP dan wel het Openbaar Ministerie aanwezig is omtrent een reëel vluchtgevaar van de gedetineerde.     
+6.  De directeur van een Extra Beveiligde Inrichting kan in verband met nieuwe feiten de selectiefunctionaris tussentijds voorstellen de gedetineerde over te plaatsen. De selectiefunctionaris kan, na instemming van de divisiedirecteur IZ en de divisiedirecteur GW/VB, op basis van het vastgestelde feitenmateriaal tot overplaatsing van de betrokken gedetineerde besluiten. In dat geval wordt de selectie-adviescommissie Extra Beveiligde Inrichting achteraf geïnformeerd.   
 
 ### Artikel 26a  
 

@@ -18,23 +18,15 @@ a. ongeoorloofde afwezigheid: het na aanvang van de tenuitvoerlegging van een vr
 
 b. de DJI: de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie;  
 
-c. de sectordirecteur GW: de sectordirecteur van de sector Gevangeniswezen van de DJI of diens plaatsvervanger;  
+c. de divisiedirecteur ForZo/JJI: de directeur van de divisie Forensische Zorg en Justitiële Jeugdinrichtingen van de DJI;  
 
-d. het BCL: het Bureau Capaciteitsbenutting en Logistiek van de afdeling Individuele Zaken van de sector GW;  
+d. de divisiedirecteur GW/VB: de directeur van de divisie Gevangeniswezen en Vreemdelingenbewaring van de DJI;  
 
-e. de sectordirecteur BV: de sectordirecteur van de sector Bijzondere Voorzieningen van de DJI of diens plaatsvervanger;  
+e. de divisiedirecteur IZ: de directeur van de divisie Individuele Zaken van de DJI;  
 
-f. het BCV: het Bureau Coördinatie Vreemdelingenzaken van de sector BV;  
+f. het Landelijk Meldpunt: het meldpunt bij de Groep Opsporing Onttrekkingen (GOO) ressorterend onder de dienst Operationele samenwerking van de Landelijke eenheid belast met de opsporing van ongeoorloofd afwezigen genoemd in de hoofdstukken 2, 3 en 4;  
 
-g. de directeur FZ: de directeur van de directie Forensische Zorg van de DJI of diens plaatsvervanger;  
-
-h. de afdeling Plaatsing: de afdeling Plaatsing van de directie FZ;  
-
-i. de sectordirecteur JJI: de sectordirecteur van de sector Justitiële Jeugdinrichtingen van de DJI of diens plaatsvervanger;  
-
-j. het Landelijk Meldpunt: het meldpunt bij de Groep Opsporing Onttrekkingen (GOO) ressorterend onder de dienst Operationele samenwerking van de Landelijke eenheid belast met de opsporing van ongeoorloofd afwezigen genoemd in de hoofdstukken 2, 3 en 4;  
-
-k. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.  
+g. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.  
 
 ### Artikel  1.2  
 
@@ -121,11 +113,11 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 a. het Landelijk Meldpunt;  
 
-b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.     
-2.  De directeur zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.   
-3.  De directeur zendt uiterlijk de eerstvolgende werkdag het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector.   
-4.  De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.   
-5.  De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.  
+b. de divisiedirecteur GW/VB; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.     
+2.  De directeur zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.   
+3.  De directeur zendt uiterlijk de eerstvolgende werkdag het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de divisiedirecteur GW/VB; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.   
+4.  De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het Centraal Register Onttrekkingen.   
+5.  De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar de divisiedirecteur IZ.  
 
 ### Artikel  2.7  
 
@@ -133,21 +125,21 @@ b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daart
 
 1.  De directeur meldt de ongeoorloofde afwezigheid behorend tot groep B, onder 1°, onmiddellijk na constatering ervan aan: 
 
-a. het CJIB, binnen kantooruren telefonisch, buiten kantooruren per elektronische post of per fax;  
+a. het CJIB, binnen kantooruren telefonisch, buiten kantooruren per elektronische post;  
 
-b. de sectordirecteur GW dan wel de sectordirecteur BV, indien de directeur van oordeel is dat de ongeoorloofde afwezigheid daartoe aanleiding geeft; de directeur meldt de ongeoorloofde afwezigheid alleen in dat geval telefonisch aan de accountmanager of piketambtenaar van de betreffende sector.     
+b. de divisiedirecteur GW/VB, indien de directeur van oordeel is dat de ongeoorloofde afwezigheid daartoe aanleiding geeft; de directeur meldt de ongeoorloofde afwezigheid alleen in dat geval telefonisch aan de door de divisiedirecteur aangewezen ambtenaar.     
 2.  De directeur meldt de ongeoorloofde afwezigheid van degene die zich heeft onttrokken aan vreemdelingenbewaring, behorend tot groep B, onder 2°, onmiddellijk na constatering ervan telefonisch aan: 
 
 a. de politie;  
 
-b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe de accountmanager of piketambtenaar van de betreffende sector telefonisch op de hoogte.     
-3.  De directeur zendt zo spoedig mogelijk na de meldingen, bedoeld in het eerste en tweede lid, het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan: 
+b. de divisiedirecteur GW/VB; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.     
+3.  De directeur zendt zo spoedig mogelijk na de meldingen, bedoeld in het eerste en tweede lid, het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan: 
 
 a. het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1°, dan wel de politie, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2°;  
 
-b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit formulier daartoe aan de accountmanager of piketambtenaar van de betreffende sector; in geval van onttrekkingen als bedoeld in artikel 2.2, onder f en g, blijft deze melding achterwege.     
-4.  De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van het BCL dan wel het hoofd van het BCV door middel van registratie in het Centraal Register Onttrekkingen.   
-5.  De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar het hoofd van het BCL dan wel het hoofd van het BCV.  
+b. de divisiedirecteur GW/VB; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar; in geval van onttrekkingen als bedoeld in artikel 2.2, onder f en g, blijft deze melding achterwege.     
+4.  De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het Centraal Register Onttrekkingen.   
+5.  De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar de divisiedirecteur IZ.  
 
 ### Paragraaf  3  
 
@@ -157,7 +149,7 @@ b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit f
 
 ####Overige inlichtingen
 
-1.  De directeur verstrekt aan de sectordirecteur GW dan wel de sectordirecteur BV, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
+1.  De directeur verstrekt aan de divisiedirecteur GW/VB, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
 2.  De directeur verstrekt aan het Landelijk Meldpunt, het CJIB, dan wel de politie, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.  
 
 ### Paragraaf  4  
@@ -172,12 +164,12 @@ b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur zendt dit f
 
 a. het Landelijk Meldpunt, onmiddellijk telefonisch;  
 
-b. de sectordirecteur GW dan wel de sectordirecteur BV; de directeur stelt daartoe het hoofd van het BCL respectievelijk de piketambtenaar van de sector BV uiterlijk de eerstvolgende werkdag telefonisch op de hoogte.     
-2.  Indien de ongeoorloofd afwezige behorend tot groep B zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk per elektronische post of per fax: 
+b. de divisiedirecteur GW/VB of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar uiterlijk de eerstvolgende werkdag telefonisch op de hoogte.     
+2.  Indien de ongeoorloofd afwezige behorend tot groep B zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk per elektronische post: 
 
 a. het CJIB, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 1°, dan wel de politie, in geval van ongeoorloofde afwezigheid behorend tot groep B, onder 2°;  
 
-b. het hoofd van het BCL dan wel het hoofd van het BCV.    
+b. de divisiedirecteur IZ.    
 
 ### Hoofdstuk  3  
 
@@ -238,10 +230,10 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 a. het Landelijk Meldpunt;  
 
-b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.     
-2.  Het hoofd zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.   
-3.  Het hoofd zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de directeur FZ; het hoofd zendt dit formulier daartoe aan het hoofd van de afdeling of de piketambtenaar van de directie FZ.   
-4.  Het hoofd meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan het hoofd van de afdeling Plaatsing ter registratie.  
+b. de divisiedirecteur ForZo/JJI; het hoofd stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.     
+2.  Het hoofd zendt binnen één uur na constatering van de ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.   
+3.  Het hoofd zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; het hoofd zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.   
+4.  Het hoofd meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het daartoe bestemde registatiesysteem.  
 
 ### Paragraaf  3  
 
@@ -251,7 +243,7 @@ b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing 
 
 ####Overige inlichtingen
 
-1.  Het hoofd verstrekt aan de directeur FZ, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
+1.  Het hoofd verstrekt aan de divisiedirecteur ForZo/JJI, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
 2.  Het hoofd verstrekt aan het Landelijk Meldpunt, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.  
 
 ### Paragraaf  4  
@@ -266,7 +258,7 @@ Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inri
 
 a. het Landelijk Meldpunt;  
 
-b. de directeur FZ; het hoofd stelt daartoe het hoofd van de afdeling Plaatsing of de piketambtenaar van de directie FZ telefonisch op de hoogte.   
+b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; het hoofd stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte.   
 
 ### Hoofdstuk  4  
 
@@ -344,21 +336,21 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 a. het Landelijk Meldpunt;  
 
-b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar telefonisch op de hoogte;  
+b. de divisiedirecteur ForZo/JJI; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar telefonisch op de hoogte;  
 
 c. de gezagdragers van de ongeoorloofd afwezige.     
-2.  De directeur zendt binnen één uur na constatering van de in het eerste lid bedoelde ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan het Landelijk Meldpunt.   
-3.  De directeur zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar.   
+2.  De directeur zendt binnen één uur na constatering van de in het eerste lid bedoelde ongeoorloofde afwezigheid het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan het Landelijk Meldpunt.   
+3.  De directeur zendt zo spoedig mogelijk na de in het eerste en tweede lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar.   
 4.  De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen bedoeld in artikel 4.4, onder a, onder 3°, onmiddellijk na constatering ervan telefonisch aan: 
 
 a. de politie;  
 
 b. de gezagdragers van de ongeoorloofd afwezige.     
-5.  De directeur zendt zo spoedig mogelijk na de in het vierde lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post of per fax aan: 
+5.  De directeur zendt zo spoedig mogelijk na de in het vierde lid bedoelde meldingen het door het hoofd van de DJI vastgestelde meldingsformulier per elektronische post aan: 
 
 a. de politie;  
 
-b. de sectordirecteur JJI; de directeur zendt dit formulier daartoe aan de door de sectordirecteur aangewezen ambtenaar of piketambtenaar;  
+b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur zendt dit formulier daartoe aan de door de divisiedirecteur aangewezen ambtenaar;  
 
 c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd.    
 
@@ -372,7 +364,7 @@ c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige ve
 a. de politie;  
 
 b. de gezagdragers van de ongeoorloofd afwezige.     
-3.  De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in artikel 4.4, onder b, zo spoedig mogelijk na constatering ervan aan de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte.  
+3.  De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in artikel 4.4, onder b, zo spoedig mogelijk na constatering ervan aan de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar per elektronische post op de hoogte.  
 
 ### Paragraaf  3  
 
@@ -382,14 +374,14 @@ b. de gezagdragers van de ongeoorloofd afwezige.
 
 ####Overige inlichtingen
 
-1.  De directeur verstrekt aan de sectordirecteur JJI, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
+1.  De directeur verstrekt aan de divisiedirecteur ForZo/JJI, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.   
 2.  De directeur verstrekt aan het Landelijk Meldpunt dan wel de politie, naast de in paragraaf 2 bedoelde informatie, te allen tijde alle benodigde inlichtingen.  
 
 ### Artikel  4.9  
 
 ####Registratie
 
-De directeur registreert de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag in het registratiesysteem van de sector JJI. 
+De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het daartoe bestemde registratiesysteem. 
 
 ### Paragraaf  4  
 
@@ -403,28 +395,28 @@ De directeur registreert de ongeoorloofde afwezigheid uiterlijk de eerstvolgende
 
 a. het Landelijk Meldpunt, onmiddellijk telefonisch;  
 
-b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar uiterlijk de eerstvolgende werkdag per elektronische post of per fax op de hoogte;  
+b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar uiterlijk de eerstvolgende werkdag per elektronische post op de hoogte;  
 
 c. de gezagdragers van de jeugdige.     
 2.  Indien de ongeoorloofd afwezige jeugdige bedoeld in artikel 4.4, onder a, onder 3°, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover: 
 
-a. de politie zo spoedig mogelijk per elektronische post of per fax;  
+a. de politie zo spoedig mogelijk per elektronische post;  
 
-b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;  
+b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar zo spoedig mogelijk per elektronische post op de hoogte;  
 
-c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd, zo spoedig mogelijk per elektronische post of per fax;  
+c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd, zo spoedig mogelijk per elektronische post;  
 
 d. de gezagdragers van de jeugdige.     
 3.  Indien de ongeoorloofd afwezige jeugdige bedoeld in artikel 4.4, onder b, onder 1°, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover zo spoedig mogelijk: 
 
-a. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar per elektronische post of per fax op de hoogte;  
+a. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar per elektronische post op de hoogte;  
 
 b. de betrokken gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet.     
 4.  Indien de ongeoorloofd afwezige jeugdige bedoeld in artikel 4.4, onder b, onder 2° en 3°, zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover: 
 
-a. de politie zo spoedig mogelijk per elektronische post of per fax;  
+a. de politie zo spoedig mogelijk per elektronische post;  
 
-b. de sectordirecteur JJI; de directeur stelt daartoe de door de sectordirecteur aangewezen ambtenaar of piketambtenaar zo spoedig mogelijk per elektronische post of per fax op de hoogte;  
+b. de divisiedirecteur ForZo/JJI of de divisiedirecteur IZ; de directeur stelt daartoe de door de divisiedirecteur aangewezen ambtenaar zo spoedig mogelijk per elektronische post op de hoogte;  
 
 c. de gezagdragers van de jeugdige.    
 

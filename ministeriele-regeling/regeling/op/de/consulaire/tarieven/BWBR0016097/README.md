@@ -104,69 +104,79 @@ s. het behandelen van een aanvraag tot het verlenen van een visum:
 
 6°. aanvragen voor Toegang en Verblijf niet betrekking hebbende op de openbare lichamen Bonaire, Sint Eustatius en Saba: 
 
-– voor verblijf als familie- of gezinslid: € 228,  
+– voor verblijf als familie- of gezinslid: € 230,  
 
-– voor minderjarigen op grond van de richtlijn 2003/86/EG van de Raad van de Europese Unie van 22 september 2003 inzake het recht op gezinshereniging (PB 2003 L 251, met rectificatie in PB 2012 L 71): € 53, 
+– voor minderjarigen op grond van de richtlijn 2003/86/EG van de Raad van de Europese Unie van 22 september 2003 inzake het recht op gezinshereniging (PB 2003 L 251, met rectificatie in PB 2012 L 71): € 53,  
 
-– voor arbeid als zelfstandige: € 1.266,  
+– voor arbeid als zelfstandige: € 1.279,  
 
-– als vermogende vreemdeling: € 2.026,  
+– voor arbeid als zelfstandige als bedoeld in artikel 3.30, zesde lid, van het Vreemdelingenbesluit 2000: € 307,  
 
-– als kennismigrant: € 861,  
+– als vermogende vreemdeling: € 2.046,  
 
-– als houder van de Europese blauwe kaart: € 861,  
+– als kennismigrant: € 870,  
 
-– voor seizoenarbeid: € 760,  
+– als houder van de Europese blauwe kaart: € 870,  
 
-– voor arbeid in loondienst: € 861,  
+– voor seizoenarbeid: € 768,  
 
-– voor grensoverschrijdende dienstverlening: € 861,  
+– voor arbeid in loondienst: € 870,  
 
-– voor wetenschappelijk onderzoek (Richtlijn 2005/71/EG): € 304,  
+– voor grensoverschrijdende dienstverlening: € 870,  
 
-– voor lerend werken: € 760,  
+– voor wetenschappelijk onderzoek (Richtlijn 2005/71/EG): € 307,  
 
-– voor studie: € 304,  
+– voor lerend werken: € 768,  
 
-– voor het zoeken naar en verrichten van arbeid al dan niet in loondienst: € 608,  
+– voor studie: € 307,  
 
-– voor uitwisseling (al dan niet in het kader van een verdrag): € 608,  
+– voor het zoeken naar en verrichten van arbeid al dan niet in loondienst: € 614,  
 
-– voor medische behandeling: € 962,  
+– voor uitwisseling (al dan niet in het kader van een verdrag): € 614,  
 
-– voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada, Nieuw-Zeeland en Zuid-Korea) en Young Workers Exchange Programme (Canada): € 53,  
+– voor medische behandeling: € 972,  
 
-– voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van artikel 8 van de Remigratiewet: € 962,  
+– voor deelname aan het Working Holiday Programme/Scheme (Australië, Canada, Nieuw Zeeland en Zuid-Korea) en Young Workers Exchange Programme (Canada): € 53,  
 
-– voor voortgezet verblijf om humanitaire redenen in verband met achterlating: € 228,  
+– voor wedertoelating, met uitzondering van wedertoelating door gebruikmaking van de terugkeeroptie op grond van artikel 8 van de Remigratiewet: € 972,  
 
-– voor alle overige verblijfsdoelen: € 962,  
+– voor voortgezet verblijf om humanitaire redenen in verband met achterlating: € 230,  
 
-– ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft, met het oog op het verrichten van de daarbedoelde werkzaamheden: € 61,  
+– voor alle overige verblijfsdoelen: € 972,  
 
-– ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 61,  
+– ten behoeve van personen op wie artikel 40, eerste lid, van het op 7 juni 2007 te ’s-Gravenhage tot stand gekomen Zetelverdrag tussen het Internationaal Strafhof en het Gastland (Trb. 2007, 125) betrekking heeft, met het oog op het verrichten van de daarbedoelde werkzaamheden: € 62,  
 
-– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen, verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 61,  
+– ten behoeve van de personen, bedoeld in de voorlaatste alinea van de brief van 21 december 2007 van de Permanente Vertegenwoordiging van het Koninkrijk der Nederlanden bij de Verenigde Naties, behorend bij het op 21 december 2007 te New York tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Naties betreffende de Zetel van het Speciale Tribunaal voor Libanon (Trb. 2007, 228), met het oog op het verrichten van de in die alinea bedoelde werkzaamheden: € 62,  
 
-– voor verblijf als familie- of gezinslid in de zin van de Associatieovereenkomst EG-Turkije van een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 61.   
+– ten behoeve van Turkse onderdanen, die met het oog op het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, met het oog op verblijf als stagiair of practicant, verblijf als kennismigrant als bedoeld in artikel 1d van het Besluit uitvoering Wet arbeid vreemdelingen, verblijf als onderzoeker in de zin van richtlijn 2005/71/EG, verblijf als onbezoldigde wetenschappelijk onderzoeker of verblijf als onbezoldigde gastdocent, en hun gezinsleden, verblijfsrecht hebben op grond van de Associatieovereenkomst EU-Turkije, alsmede Turkse onderdanen die als zelfstandige of dienstverrichter in Nederland verblijfsrecht hebben op grond van het Associatierecht EU-Turkije: € 62,  
+
+– voor verblijf als familie- of gezinslid in de zin van de Associatieovereenkomst EG-Turkije van een Turkse onderdaan die in Nederland toegang heeft tot de arbeidsmarkt: € 62.    
 
 7°. aanvragen tot het verlenen van een machtiging tot voorlopig verblijf voor verblijf in de openbare lichamen Bonaire, Sint Eustatius en Saba: 
 
 – met het oog op gezinshereniging of gezinsvorming: USD 712,  
 
-– met het oog op gezinshereniging of gezinsvorming als meereizend gezinslid: USD 161,  
+– met het oog op gezinshereniging of gezinsvorming als minderjarig kind: USD 161,  
 
-– met het oog op verblijf als adoptie- of pleegkind: USD 283,  
+– met het oog op verblijf ter adoptie- of als pleegkind: USD 49,  
 
-– met het oog op het verrichten van arbeid: USD 372,  
+– met het oog op het verrichten van arbeid in loondienst: USD 500,  
+
+– met het oog op het verrichten van arbeid als zelfstandige: USD 1159,  
 
 – met het oog op het volgen van een studie: USD 372,  
 
-– met het oog op verblijf als gepensioneerde of rentenier: USD 372,  
+– met het oog op verblijf als gepensioneerde of rentenier: USD 788,  
 
-– met het oog op verblijf als investeerder: USD 372,  
+– met het oog op verblijf als stagiair: USD 696,  
 
-– met het oog op wedertoelating: USD 283.   
+– met het oog op verblijf als praktikant: USD 696,  
+
+– met het oog op verblijf als vrijwilliger: USD 788,  
+
+– met het oog op verblijf als investeerder: USD 788,  
+
+– met het oog op wedertoelating: USD 882.    
 
 t. het bemiddelen bij het afleggen van een examen: € 157,– per afzonderlijk examen;  
 

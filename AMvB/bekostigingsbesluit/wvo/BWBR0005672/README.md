@@ -166,20 +166,6 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 4. Onze Minister kan op het in het eerste lid bedoelde bedrag in mindering brengen, verwachte bedragen als bedoeld in artikel 96m, tweede lid, onder a tot en met d, van de wet. 
 5. In geval van oprichting, verplaatsing of splitsing van een school kan Onze Minister afwijken van de teldatum en de op die afwijkende datum getelde leerlingen toerekenen aan de nieuwe scholen. Hij kan daarbij nadere voorschriften geven. 
 
-### Artikel  8b  
-
-####Vaststelling bedrag maatschappelijke stage
-
-1.  De hoogte van het bedrag, bedoeld in artikel 85, vierde lid, van de wet, dat per schooljaar in verband met de maatschappelijke stage, bedoeld in artikel 6f van de wet, wordt verstrekt is: 
-
-a. voor elke leerling die op de school in één van de eerste vier leerjaren is ingeschreven € 70;  
-
-b. voor elke leerling die op de school in het vijfde of zesde leerjaar is ingeschreven € 0.     
-2.  In afwijking van het eerste lid, onderdeel a, is de hoogte van het daar bedoelde bedrag in de schooljaren 2011–2012 tot en met 2014–2015 € 60.   
-3.  Het bedrag, bedoeld in het eerste lid, onderdeel a, en in het tweede lid wordt in twee termijnen betaald, in november en daaropvolgend in maart van het schooljaar waarop de bekostiging betrekking heeft.   
-4.  De bedragen, bedoeld in het eerste lid, onderdeel a, en in het tweede lid worden jaarlijks voor 1 augustus, telkens te rekenen met de laatstelijk aangepaste bedragen, bij ministeriële regeling aangepast aan de ontwikkeling van de gemiddelde personeelslasten in het voortgezet onderwijs.   
-5.  Het eerste lid is tevens van toepassing op het praktijkonderwijs, met dien verstande dat voor «leerjaren» wordt gelezen: inschrijvingsjaren.  
-
 ### Artikel  9  
 
 ####Vaststelling van de aanvullende bekostiging personeels- en exploitatiekosten 
@@ -227,11 +213,7 @@ c. een verklaring van een accountant omtrent de juistheid van de gegevens, bedoe
 
 ####Berekeningswijze rijksbijdrage voor taken kenniscentra beroepsonderwijs bedrijfsleven inzake leer-werktrajecten vmbo
 
-###Artikel 15e 
-
-####Berekeningswijze rijksbijdrage voor taken kenniscentra beroepsonderwijs bedrijfsleven inzake leer-werktrajecten vmbo
-
-De rijksbijdrage, bedoeld in artikel 10b5, tweede lid, van de wet omvat een bij ministeriële regeling vast te stellen bedrag per leer-werkovereenkomst als bedoeld in artikel 10b3 van de wet waarbij het desbetreffende kenniscentrum beroepsonderwijs bedrijfsleven partij is, welke overeenkomst is gesloten in het schooljaar voorafgaand aan het jaar waarop de rijksbijdrage betrekking heeft. Per leerling per leer-werkplek telt niet meer dan één leer-werkovereenkomst mee in de berekening van de rijksbijdrage op grond van de eerste volzin.
+Vervallen per 01-08-2015 
 
 ###Hoofdstuk 2b 
 
@@ -401,12 +383,12 @@ Met ingang van 1 augustus 2014:
 
 | Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO  | Bedrag overig VO  |
 |:---|:---|:---|
-| Lichamelijk gehandicapte kinderen  | € 1.643,24  | € 3.256,61  |
-| Langdurig zieke kinderen met lichamelijke handicap  | € 1.613,35  | € 3.256,61  |
-| Zeer moeilijk lerende kinderen  | € 1.613,35  | € 3.256,61  |
-| Zeer moeilijk lerende kinderen met het syndroom van Down  | € 5.067,04  | € 5.067,04  |
-| Cluster 4  | € 1.613,35  | € 3.256,61  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.613,35  | € 3.256,61  |
+| Lichamelijk gehandicapte kinderen  | € 1.647,92  | € 3.265,89  |
+| Langdurig zieke kinderen met lichamelijke handicap  | € 1.617,95  | € 3.265,89  |
+| Zeer moeilijk lerende kinderen  | € 1.617,95  | € 3.265,89  |
+| Zeer moeilijk lerende kinderen met het syndroom van Down  | € 5.058,50  | € 5.058,50  |
+| Cluster 4  | € 1.617,95  | € 3.265,89  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.617,95  | € 3.265,89  |
 
 b. naast de in onderdeel a bedoelde bekostiging ontvangt het samenwerkingsverband als overgangsbekostiging een bij ministeriële regeling te bepalen bedrag per leerling.    
 

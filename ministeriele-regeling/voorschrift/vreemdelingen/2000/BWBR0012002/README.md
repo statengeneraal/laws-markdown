@@ -101,11 +101,9 @@ Ten behoeve van het verblijf van een vreemdeling die in Nederland verblijft of w
 
 a. door de Internationale Baccalaureaat Organisatie geaccrediteerd is;  
 
-b. het Internationale Baccalaureaat diplomaprogramma aanbiedt;  
+b. het Internationale Baccalaureaat diplomaprogramma aanbiedt, en  
 
-c. op grond van de Wet op het voortgezet onderwijs bekostigd wordt, en  
-
-d. deel uitmaakt van een internationale organisatie, waarbij een uitwisseling van leerlingen over de wereld plaatsvindt en het land van plaatsing wordt bepaald door landelijke comités van deze internationale organisatie, of die zijn leerlingen in een internaat plaatst.   
+c. deel uitmaakt van een internationale organisatie, waarbij een uitwisseling van leerlingen over de wereld plaatsvindt en het land van plaatsing wordt bepaald door landelijke comités van deze internationale organisatie, of die zijn leerlingen in een internaat plaatst.   
 
 ### Artikel  1.10  
 
@@ -936,7 +934,7 @@ b. de ambtenaren van de Dienst Terugkeer en Vertrek die de functie hebben van se
 
 c. de ambtenaren van de Dienst Vervoer en Ondersteuning die tevens zijn aangewezen als buitengewoon opsporingsambtenaar in de zin van artikel 2 van het Besluit buitengewoon opsporingsambtenaar Dienst Vervoer en Ondersteuning 2014.     
 2.  De ambtenaren, bedoeld in het eerste lid, onder b, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in de artikelen 50, en 52 van de Wet en de artikelen 4.23 en 4.45 van het Besluit.   
-3.  De ambtenaren, bedoeld in het eerste lid, onder c, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in artikel 50 van de Wet.  
+3.  De ambtenaren, bedoeld in het eerste lid, onder c, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in artikel 50 en 106a, derde lid, van de Wet.  
 
 ### Artikel  4.1a  
 
@@ -1023,8 +1021,8 @@ b. de termijn van een week, genoemd in artikel 4.51, tweede lid, van het Besluit
 
 ### Artikel  4.15  
 
-1.  Indien met toepassing van artikel 54, tweede lid, van de Wet een individuele verplichting tot periodieke aanmelding is opgelegd, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens artikel 54, tweede lid, Vreemdelingenwet 2000', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
-2.  Indien de verplichting, bedoeld in 54, tweede lid, van de Wet, wordt opgeheven, wordt de aantekening gesteld: 'Verplichting tot periodieke aanmelding opgeheven op (datum)'.   
+1.  Indien met toepassing van artikel 54, derde lid, van de Wet een individuele verplichting tot periodieke aanmelding is opgelegd, wordt de aantekening gesteld 'Verplichting tot periodieke aanmelding krachtens artikel 54, derde lid, Vreemdelingenwet 2000', aangevuld met de periode van aanmelding en eventuele bijzonderheden.   
+2.  Indien de verplichting, bedoeld in artikel 54, derde lid, van de Wet, wordt opgeheven, wordt de aantekening gesteld: 'Verplichting tot periodieke aanmelding opgeheven op (datum)'.   
 
 ### Artikel  4.15a  
 
@@ -1888,90 +1886,146 @@ M.J. Cohen
 
 ####, behorend bij artikel 2.1, eerste lid, onder a , Voorschrift Vreemdelingen 2000
 
-| Luchthaven  |  Luchthavencode  |
+| Luchthaven  | Luchthavencode  |
 |:---|:---|
+| Accra International Airport  | ACC  |
 | Abu Dhabi International Airport  | AUH  |
 | Bahrein International Airport  | BAH  |
 | Beijing Capital International Airport  | PEK  |
 | Boryspil International Airport  | KBP  |
 | Kigali International Airport  | KGL  |
 | Cairo International Airport  | CAI  |
-| Damman-King Fahd International Airport  | DMM  |
+| Damman- King Fahd International Airport  | DMM  |
 | Dar Es Salaam International Airport  | DAR  |
 | Dubai International Airport  | DXB  |
 | Entebbe International Airport  | EBB  |
 | Guangzhou Baiyun International Airport  | CAN  |
-| Hong Kong International Airport  | HKG  |
 | Istanboel International Atatürk Airport  | IST  |
 | Istanboel Sabiha Gökçen International Airport  | SAW  |
 | Johannesburg International Airport  | JNB  |
 | Kilimanjaro International Airport  | JRO  |
-| Larnaca International Airport  | LCA  |
+| Kuala Lumpur International Airport  | KUL  |
+| Lagos International Airport  | LOS  |
 | Moskou Sheremetjevo International Airport  | SVO  |
 | Nairobi Jomo Kenyatta International Airport  | NBO  |
 | New Delhi Indira Gandhi International Airport  | DEL  |
 | Panama Stad-Tocumen International Airport  | PTY  |
+| Sao Paulo International Airport  | GRU  |
 | Singapore Changi International Airport  | SIN  |
 
 ###Bijlage 1a 
 
 ####, behorend bij artikel 2.1a, eerste lid , Voorschrift Vreemdelingen 2000
 
-| Luchthaven  | Internationale luchthavencode   |
+| Luchthaven  | Luchthavencode  |
 |:---|:---|
-| Abu Dhabi International Airport  | AUH  |
-| Aleppo International Airport  | ALP   |
+| Kotoka International Airport  | ACC  |
+| Izmir Adnan Menderes International Airport  | ADB  |
+| Agadir Al Massira Airport  | AGA  |
+| Cherif Al Idrissi Airport  | AHU  |
+| Almaty International Airport  | ALA  |
+| Aleppo International Airport  | ALP  |
 | Amman Queen Alia International Airport  | AMM  |
-| Ankara International Airport Esenboğa  | ESB  |
+| Kayseri Erkilet International Airport  | ASR  |
+| Reina Beatrix International Airport  | AUA  |
+| Abu Dhabi International Airport  | AUH  |
 | Antalya International Airport  | AYT  |
+| Ankara International Airport Esenboğa  | ESB  |
 | Bahrein International Airport  | BAH  |
-| Bangkok Suvarnabhumi International Airport  | BKK   |
-| Banjul International Airport  | BJL   |
+| Belgrade Nicola Tesla Airport  | BEG  |
+| Banjul International Airport  | BJL  |
 | Bodrum Milas International Airport  | BJV  |
-| Buenos Aires Ezeiza International Airport  | EZE  |
+| Bangkok Suvarnabhumi International Airport  | BKK  |
+| El Dorado International Airport  | BOG  |
+| Chhatrapati Shivaji Interantional Airport  | BOM  |
+| Flamingo International Airport  | BON  |
 | Caïro International Airport  | CAI  |
+| Guangzhou Baiyun International Airport  | CAN  |
+| Alfonso Bonilla Aragon International Airport  | CLO  |
+| Colombo Bandaranaike International Airport  | CMB  |
 | Casablanca Mohammed V International Airport  | CMN  |
+| Cape Town International Airport  | CPT  |
 | Chengdu Shuangliu International Airport  | CTU  |
-| Colombo Bandaranaike International Airport  | CMB   |
-| Dalaman International Airport  | DLM  |
+| Cancun International Airport  | CUN  |
+| Curacao International Airport  | CUR  |
 | Damascus International Airport  | DAM  |
-| Damman King Fahd International Airport  | DMM  |
 | Dar-es-Salaam Julius Nyerere International Airport  | DAR  |
+| Indira Ghandi International Airport  | DEL  |
+| Djerba-Zarzis International Airport  | DJE  |
+| Dalaman International Airport  | DLM  |
+| Damman King Fahd International Airport  | DMM  |
 | Doha International Airport  | DOH  |
+| Ngurah Rai International Airport  | DPS  |
+| Al Maktoum International Airport  | DWX  |
 | Dubai International Airport  | DXB  |
 | Entebbe International Airport  | EBB  |
 | Erbil International Airport  | EBL  |
-| Guangzhou Baiyun International Airport  | CAN  |
+| Jerevan Zvartnots International Airport  | EVN  |
+| Buenos Aires Ezeiza International Airport  | EZE  |
+| Fes-Saïss Airport  | FEZ  |
+| Fukuoka Airport  | FUK  |
+| Galeao-Antonio Carlos Jobim International Airport  | GIG  |
+| Sao Paulo Guarulhos International Airport  | GRU  |
+| Atyrau International Airport  | GUW  |
+| Jose Joaquin de Olmedo International Airport  | GYE  |
+| Gazipasa Airport  | GZP  |
+| Jose Marti International Airport  | HAV  |
 | Hangzhou Xiaoshan International Airport  | HGH  |
 | Hong Kong International Airport  | HKG  |
+| Hurghada International Airport  | HRG  |
+| Incheon International  | ICN  |
+| Teheran Imam Khomeini International Airport  | IKA  |
 | Islamabad International Airport  | ISB  |
 | Istanboel International Atatürk Airport  | IST  |
-| Istanboel Sabiha Airport  | SAW  |
-| Izmir Adnan Menderes International Airport  | ADB  |
-| Jerevan Zvartnots International Airport  | EVN   |
 | Johannesburg International Airport  | JNB  |
-| Kathmandu Tribhuvan International Airport  | KTM  |
-| Kayseri Erkilet International Airport  | ASR  |
-| Khartoum International Airport  | KRT  |
+| Kilimanjaro International Airport  | JRO  |
 | Kiev Boryspil International Airport  | KBP  |
+| Kigali International Airport  | KGL  |
+| Kathmandu Tribhuvan International Airport  | KTM  |
+| Kansai International Airport  | KIX  |
+| Khartoum International Airport  | KRT  |
 | Kuala Lumpur International Airport  | KUL  |
-| Lagos Murtala Muhammed International Airport  | LOS  |
-| Lahore Allama Iqbal International Airport  | LHE  |
 | Koeweit International Airport  | KWI  |
-| Moskou Sheremetyevo International Airport  | SVO  |
+| Konya Airport  | KYA  |
+| Quatro de Fevereiro Airport  | LAD  |
+| Sint Petersburg Pulkovo Airport  | LED  |
+| Lahore Allama Iqbal International Airport  | LHE  |
+| Jorge Chavez International Airport  | LIM  |
+| Lagos Murtala Muhammed International Airport  | LOS  |
+| Sangster International Airport  | MBJ  |
 | Muscat International Airport  | MCT  |
-| Nairobi Jomo Kenyatta International Airport   | NBO  |
-| Panama Stad Tocumen International Airport  | PTY   |
+| Benito Juarez International Aiprort  | MEX  |
+| Monastir Habib Bourguiba International Airport  | MIR  |
+| Ninoy Aquino International Airport  | MNL  |
+| Minsk International Airport  | MSQ  |
+| Greater Natal International Airport  | NAT  |
+| Enfidha Hammamet International Airport  | NBE  |
+| Nairobi Jomo Kenyatta International Airport  | NBO  |
+| Nador International Airport  | NDR  |
+| Narita International Airport  | NRT  |
+| Angads Airport  | OUD  |
+| Johan Adolf Pengel International Airport  | PBM  |
 | Peking Capital International Airport  | PEK  |
-| Quito Mariscal Sucre International Airport  | UIO  |
-| Sao Paulo Guarulhos International Airport   | GRU  |
+| Gregorio Luperon International Airport  | POP  |
+| Panama Stad Tocumen International Airport  | PTY  |
+| Punta Cana International Airport  | PUJ  |
 | Shanghai Pudong International Airport  | PVG  |
+| Marrakesh Menara Airport  | RAK  |
+| Marsa Alam International Airport  | RMF  |
+| Istanboel Sabiha Airport  | SAW  |
 | Sharjah International Airport  | SHJ  |
 | Singapore Changi International Airport  | SIN  |
-| Sint Petersburg Pulkovo Airport  | LED  |
-| Taipei Taiwan Taoyuan International Airport  | TPE  |
-| Teheran Imam Khomeini International Airport  | IKA  |
+| Alexander the Great Airport  | SKP  |
+| Sharm el-Sheikh International Airport  | SSH  |
+| Moskou Sheremetyevo International Airport  | SVO  |
+| Princess Juliana International Airport  | SXM  |
+| Tbilisi International Airport  | TBS  |
 | Tripoli International Airport  | TIP  |
+| Ben Gurion International Airport  | TLV  |
+| Tangier Ibn Battouta Airport  | TNG  |
+| Taipei Taiwan Taoyuan International Airport  | TPE  |
+| Tunis-Carthage International Airport  | TUN  |
+| Quito Mariscal Sucre International Airport  | UIO  |
 | Xiamen Gaoqi International Airport  | XMN  |
 
 ### Bijlage 2 
