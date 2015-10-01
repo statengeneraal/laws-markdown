@@ -37,8 +37,6 @@ Besluit:
 
 De staatscommissie wordt bijgestaan door het volgende secretariaat: 
 
-– mevrouw mr. M. Jongeneel-van Amerongen (secretaris);  
-
 – mevrouw mr. dr. E.C.C. Punselie (secretaris);  
 
 – de heer mr. J. van der Hoeven (adjunct-secretaris).   
