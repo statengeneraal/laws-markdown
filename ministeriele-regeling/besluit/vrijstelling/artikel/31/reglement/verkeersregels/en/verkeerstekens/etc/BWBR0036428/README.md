@@ -18,7 +18,7 @@ a. is in het bezit van het diploma, genoemd in artikel 14 respectievelijk artike
 
 b. is door een daartoe door een of meer van de diensten, genoemd in het tweede lid, aangewezen instantie, gecertificeerd volgens het competentieprofiel, bedoeld in het tweede lid.     
 2.  De politie, brandweer en diensten voor spoedeisende medische hulpverlening stellen gezamenlijk een competentieprofiel vast voor degene die op de openbare weg rijonderricht geeft in het besturen van een voorrangsvoertuig.   
-3.  Het eerste lid is tot 1 oktober 2015 niet van toepassing op degenen die op grond van het besluit van de Minister van Infrastructuur en Milieu van 25 maart 2013, kenmerk RWS-2013/393, houdende tijdelijke gelijkstelling met openbare diensten in de zin van artikel 147 van de Wegenverkeerswet 1994, en verlening van tijdelijke vrijstelling van bepalingen van het RVV 1990 ten behoeve van het trainen met optische en geluidssignalen op de weg (Stcrt. 2013, 8503) rijonderricht als bedoeld in artikel 1 hebben gegeven.  
+3.  Het eerste lid is tot 1 januari 2016 niet van toepassing op degenen die op grond van het besluit van de Minister van Infrastructuur en Milieu van 25 maart 2013, kenmerk RWS-2013/393, houdende tijdelijke gelijkstelling met openbare diensten in de zin van artikel 147 van de Wegenverkeerswet 1994, en verlening van tijdelijke vrijstelling van bepalingen van het RVV 1990 ten behoeve van het trainen met optische en geluidssignalen op de weg (Stcrt. 2013, 8503) rijonderricht als bedoeld in artikel 1 hebben gegeven.  
 
 ### Artikel  3  
 

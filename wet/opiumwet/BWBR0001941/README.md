@@ -349,10 +349,14 @@ J. DONNER.
 
 |  International Non-proprietary Name (INN) ¹  | andere benamingen   | nadere omschrijving  |
 |:---|:---|:---|
+|– |25I- NBOMe |4-jood-2,5-dimethoxy-N-(2-methoxybenzyl)fenethylamine |
+|– |4,4’-DMAR |4-methyl-5-(4-methylfenyl)-4,5-dihydrooxazol-2-amine |
+|– |5-IT |5-(2-aminopropyl)indool |
 | acetorfine  | –  | --- |
 | –  | acetyl-*alfa*-methylfentanyl  |  *N*-[1-(*alfa*-methylfenethyl)-4-piperidyl]-acetanilide  |
 | –  | acetyldihydrocodeïne  | 4,5-epoxy-3-methoxy-*N*-methylmorfinan-6-yl-acetaat  |
 | acetylmethadol  | –  | --- |
+|– |AH-7921 |3,4-dichloor-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide |
 | alfacetylmethadol  | –  | --- |
 | alfameprodine  | –  | --- |
 | alfamethadol  | –  | --- |
@@ -446,6 +450,7 @@ J. DONNER.
 | levomoramide  | –  | --- |
 | levorfanol  | –  | --- |
 | lysergide  |LSD | --- |
+|– |MDPV |3,4-methyleendioxypyrovaleron |
 | mecloqualon  | –  | --- |
 |– |mefedron |4-methylmethcathinon |
 | –  | mescaline  | 3,4,5-trimethoxyfenethylamine  |
@@ -459,6 +464,7 @@ J. DONNER.
 | –  | 2-methoxy-4,5-methyleendioxyamfetamine, MMDA  | 2-methoxy-*alfa*-methyl-4,5-(methyleendioxy)- fenethylamine  |
 |–  |4-methylamfetamine, 4-MA |–  |
 |– |4-methylaminorex |(±)-cis-2-amino-4-methyl-5-fenyl-2-oxazoline |
+|– |methoxetamine |2-(3-methoxyfenyl)-2-(ethylamino)cyclohexanon |
 | methyldesorfine  | –  | --- |
 | methyldihydromorfine  | –  | --- |
 | –  | 3,4-methyleendioxymethamfetamine, MDMA  | (±)-*N*,*alfa*-dimethyl-3,4-(methyleendioxy)-fenethylamine  |
@@ -473,6 +479,7 @@ J. DONNER.
 | –  | morfine  | 4,5-epoxy-*N*-methyl-7-morfineen-3,6-diol  |
 | –  | morfine-methobromide  | 4,5-epoxy-*N*-methyl-7-morfineen-3,6-diol methylbromide  |
 | –  | morfine-*N*-oxide  | 4,5-epoxy-3,6-dihydroxy-*N*-methyl-7-morfine  |
+|– |MT-45 |1-cyclohexyl-4-(1,2-difenylethyl)piperazine |
 | myrofine  | –  | --- |
 | nicocodine  | –  | --- |
 | nicodicodine  | –  | --- |

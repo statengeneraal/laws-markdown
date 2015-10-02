@@ -44,7 +44,6 @@ f. de resultaten van de analyses alsmede de daarop gebaseerde vaststelling dat d
 De in artikel 2a van het besluit bedoelde melding inzake het gebruik van compost bij wijze van eenmalige gift wordt gedaan bij de minister. 
 
 ### Artikel  3a  
-Treedt in werking per 01-01-2015 
 
 Als gewas als bedoeld in artikel 4, vierde lid, onderdeel c, onder 1°, van het besluit, worden groenbemesters aangewezen. 
 
@@ -94,4 +93,4 @@ Relatief stikstofbehoeftige gewassen: Aardbei Aardappelen Acidanthera Andijvie A
 
 ####, behorende bij artikel 5  van de Uitvoeringsregeling gebruik meststoffen
 
-Gewassen die op zand- en lössgronden direct aansluitend na de teelt van maïs worden geteeld: gras winterrogge bladkool bladrammenas wintertarwewintergersttriticale
+Gewassen die op zand- en lössgronden direct aansluitend na de teelt van maïs worden geteeld: gras winterrogge bladkool bladrammenas wintertarwewintergersttriticaleJapanse haver

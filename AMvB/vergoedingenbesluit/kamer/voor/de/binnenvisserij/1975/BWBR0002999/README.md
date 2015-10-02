@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 67,– per 1 januari 2014: € 78,– per uur. 
+Voor het leiden van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de plaatsvervangende voorzitter een vergoeding toegekend van € 67,– per 1 januari 2015: € 79,– per uur. 
 
 ### Artikel  2  
 
-Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2014: € 78,– per uur. 
+Voor het bijwonen van zittingen of andere bijeenkomsten van de Kamer voor de Binnenvisserij wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2015: € 79,– per uur. 
 
 ### Artikel  3  
 
-Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2014: € 78,– per uur. 
+Voor het houden van besprekingen, welke buiten de zittingen en andere bijeenkomsten van de Kamer voor de Binnenvisserij op voorstel van de voorzitter elders plaatsvinden, wordt aan de leden een vergoeding toegekend van € 67,– per 1 januari 2015: € 79,– per uur. 
 
 ### Artikel  3a  
 

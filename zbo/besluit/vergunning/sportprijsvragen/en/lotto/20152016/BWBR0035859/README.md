@@ -11,11 +11,11 @@ A.1 De vergunninghouder is verplicht de Kansspelautoriteit onmiddellijk te infor
 
 * de vergunninghouder ontplooit zijn activiteiten met inachtneming van de statuten d.d. 12 maart 2013.    
 
-A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van: 
+A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van 
 
-* het Deelnemersreglement Stichting de Nationale Sporttotalisator, d.d. 4 oktober 2014;  
+* het deelnemersreglement Stichting de Nationale Sporttotalisator, d.d. 4 oktober 2015;   
 
-* de trekkingsprocedure versie maart 2013.   Gebruik van andere reglementen of trekkingsprocedures is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de Kansspelautoriteit.  
+* de procedure vaststelling vervangende uitslagen, d.d. 8 april 2015.   Gebruik van andere reglementen of trekkingsprocedures is uitsluitend toegestaan na voorafgaande schriftelijke toestemming van de Kansspelautoriteit.  
 
 A.3 De Kansspelautoriteit kan in uitzonderlijke gevallen en na voorafgaand overleg met de vergunninghouder, de vergunninghouder aanwijzingen geven met betrekking tot de reglementen en de trekkingsprocedure. De vergunninghouder is verplicht deze aanwijzingen op te volgen.      
 ### B  

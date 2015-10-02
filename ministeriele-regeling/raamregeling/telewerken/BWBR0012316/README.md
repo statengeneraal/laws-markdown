@@ -88,7 +88,7 @@ h.  een vergoeding van de kosten voor gebruik privé-ruimte.
 
 1.  De telewerkvoorzieningen, bedoeld in artikel 6, onderdelen a tot en met h, worden aan de betrokkene, als bedoeld in artikel 2, onderdeel a, ter beschikking gesteld, verstrekt of vergoed voorzover deze voorzieningen voor betrokkene noodzakelijk zijn om te kunnen telewerken.   
 2.  Indien voor het telewerken gebruik wordt gemaakt van een eigen computer kan aan betrokkene een onbelaste vergoeding van € 25 (f 55,09) per maand worden verleend. Het bevoegd gezag kan deze vergoeding verlagen indien betrokkene van het bevoegd gezag een bijdrage in de aanschafkosten van de computer heeft ontvangen.   
-3.  De vergoeding, als bedoeld in artikel 6, onderdeel h, bedraagt voor betrokkene, als bedoeld in artikel 2, onderdeel a, € 64,19 bruto per maand.   
+3.  De vergoeding, als bedoeld in artikel 6, onderdeel h, bedraagt voor betrokkene, als bedoeld in artikel 2, onderdeel a, € 72,23 bruto per maand.   
 4.  Het in het derde lid genoemde bedrag wordt aangepast overeenkomstig een algemene wijziging van het salaris van het burgerlijk rijkspersoneel met ingang van de dag waarop de salariswijziging van kracht wordt.   
 5.  Onze Minister kan ten aanzien van de vergoeding, bedoeld in het derde lid, afwijkende regels vaststellen.   
 

@@ -44,17 +44,21 @@ g. intracommunautaire inbreuk: elke overtreding die een intracommunautaire inbre
 
 h. lidstaat: een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-i. Onze Minister: Onze Minister van Economische Zaken;  
+i. onlinemarktplaats: een onlineplatform dat ondernemers in staat stelt hun producten en diensten aan consumenten aan te bieden;  
 
-j.  bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
+j. Onze Minister: Onze Minister van Economische Zaken;  
 
-k.  zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften; 
+k.  bindende gedragslijn: een zelfstandige last die niet wegens een overtreding wordt opgelegd;  
 
-l. verbindingsbureau: verbindingsbureau als bedoeld in artikel 3, onderdeel d, van verordening 2006/2004;  
+l.  zelfstandige last: de enkele last tot het verrichten van bepaalde handelingen, bedoeld in artikel 5:2, tweede lid, van de Algemene wet bestuursrecht, ter bevordering van de naleving van wettelijke voorschriften; 
 
-m.  verordening 2006/2004: verordening (EG) nr. 2006/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 betreffende samenwerking tussen de nationale instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming (PbEU L 364);  
+m. verbindingsbureau: verbindingsbureau als bedoeld in artikel 3, onderdeel d, van verordening 2006/2004;  
 
-n. wettelijke bepalingen: de communautaire wetgeving ter bescherming van de belangen van de consument bedoeld in de bijlage bij deze wet, zoals geïmplementeerd in het Nederlands recht en het recht van de lidstaten.   
+n. Verordening (EU) nr. 524/2013: verordening (EU) nr. 524/2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L 165); 
+
+o.  verordening 2006/2004: verordening (EG) nr. 2006/2004 van het Europees Parlement en de Raad van de Europese Unie van 27 oktober 2004 betreffende samenwerking tussen de nationale instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming (PbEU L 364);  
+
+p. wettelijke bepalingen: de communautaire wetgeving ter bescherming van de belangen van de consument bedoeld in de bijlage bij deze wet, zoals geïmplementeerd in het Nederlands recht en het recht van de lidstaten.   
 
 ### Hoofdstuk  2  
 
@@ -434,12 +438,10 @@ Een pandhuis neemt de bepalingen van Titel 2D van Boek 7 van het Burgerlijk Wetb
 Het is de houder van een gedragscode, bedoeld in artikel 193a, eerste lid, onderdeel j, van Boek 6 van het Burgerlijk Wetboek, niet toegestaan met die gedragscode een handelen in strijd met de artikelen 193a tot en met 193i van dat boek te bevorderen. 
 
 ### Artikel  8.12  
-Treedt in werking per 09-07-2015 
 
 Bij een koopovereenkomst of een overeenkomst tot het verrichten van diensten als bedoeld in artikel 1, onderdeel c, respectievelijk onderdeel d, van de Implementatiewet richtlijn buitengerechtelijke geschillenbeslechting consumenten (Stb. 2015, 160) neemt de in Nederland gevestigde ondernemer, bedoeld in artikel 1, onderdeel b van die wet, artikel 12 van die wet in acht. 
 
 ### Artikel  8.13  
-Treedt in werking per 09-07-2015 
 
 De in Nederland gevestigde ondernemer, bedoeld in artikel 1, onderdeel b, van de Implementatiewet buitengerechtelijke geschillenbeslechting consumenten (Stb. 2015, 160), op wie artikel 14 eerste, tweede of zevende lid van verordening (EU) nr. 524/2013 van toepassing is, en de dienstverlener die een onlinemarktplaats aanbiedt en op wie artikel 14, eerste lid, van verordening (EU) nr. 524/2013 van toepassing is, nemen de verplichtingen uit artikel 14, eerste, tweede of zevende lid, van verordening (EU) nr. 524/2013 in acht. 
 
@@ -535,6 +537,8 @@ Onderdeel a; handhaving door de Autoriteit Consument en Markt en Stichting Autor
 | Artikel 23 van Verordening (EG) nr. 1008/2008 van het Europees Parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU 2008, L293)  | --- |
 | --- | Artikel 8.11  van deze wet  |
 |  Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PB L 201) (richtlijn betreffende privacy en elektronische communicatie)  | Artikel 11.7 van de Telecommunicatiewet  |
+| Richtlijn 2013/11/EU van het Europees parlement en de Raad van 22 mei 2013 betreffende alternatieve geschillenbeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L165).  | Artikel 8.12  van deze wet.  |
+| Verordening (EU) nr. 524/ 2013 van het Europees parlement en de Raad van 21 mei 2013 betreffende onlinebeslechting van consumentengeschillen en tot wijziging van Verordening (EG) nr. 2006/2004 en Richtlijn 2009/22/EG (PbEU 2013, L165).  | Artikel 8.13  van deze wet.  |
 
 Onderdeel b; handhaving door de Stichting Autoriteit Financiële Markten 
 

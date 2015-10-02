@@ -103,12 +103,12 @@ a. goedkeuring van een pachtovereenkomst of ontwerp-pachtovereenkomst,
 
 b. goedkeuring van een overeenkomst tot wijziging van een pachtovereenkomst, waarbij de tegenprestatie wordt gewijzigd, of een ontwerp van zodanige overeenkomst, of  
 
-c. herziening van de tegenprestatie,   wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 89,– per 1 januari 2014: € 100,– en een maximum van € 380,– per 1 januari 2014: € 421,–.   
+c. herziening van de tegenprestatie,   wordt een recht geheven van 5% van de jaarlijkse door de grondkamer goedgekeurde, gewijzigde of herziene tegenprestatie, met een minimum van € 250,– en een maximum van € 600,–.   
 2.  Onder «tegenprestatie» wordt in het eerste lid verstaan de tegenprestatie, bedoeld in artikel 333 van Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  13  
 
-Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst is goedgekeurd een overeenkomst wordt ingezonden, die gelijk is aan de reeds goedgekeurde ontwerp-overeenkomst, wordt voor de behandeling van een verzoek tot goedkeuring daarvan een recht geheven van € 89,– per 1 januari 2014: € 100,–. 
+Indien binnen twee maanden nadat een ontwerp-pachtovereenkomst of een ontwerp-overeenkomst tot wijziging van een pachtovereenkomst is goedgekeurd een overeenkomst wordt ingezonden, die gelijk is aan de reeds goedgekeurde ontwerp-overeenkomst, wordt voor de behandeling van een verzoek tot goedkeuring daarvan een recht geheven van € 126,–. 
 
 ### Artikel  14  
 
@@ -116,24 +116,28 @@ In geval van toetsing van een pachtovereenkomst of van een overeenkomst tot wijz
 
 ### Artikel  15  
 
-Voor de behandeling van een verzoek als bedoeld in artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 579,– per 1 januari 2014: € 642,–. 
+1.  Voor de behandeling van: 
+
+a. een verzoek als bedoeld in artikel 379, eerste lid, van Boek 7 van het Burgerlijk Wetboek, of  
+
+b. een verzoek tot goedkeuring van de overeenkomst als bedoeld in artikel 79, eerste lid, van de Wet inrichting landelijk gebied wordt een recht geheven van € 600,–.     
+2.  Voor een verrichting van de grondkamers als bedoeld in artikel 77 of 79, derde lid van de Wet inrichting landelijk gebied wordt een recht geheven van € 600,–.  
 
 ### Artikel  16  
 
-Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de artikelen 348, tweede lid, en 354, derde lid, van Boek 7 van het Burgerlijk Wetboek, van verzoeken als bedoeld in de artikelen 380, tweede lid, en 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek, alsmede van een verzoek tot goedkeuring als bedoeld in artikel 399e van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 133,– per 1 januari 2014: € 148,–. 
+Voor de behandeling van een aanvraag voor een machtiging als bedoeld in de artikelen 348, tweede lid, en 354, derde lid, van Boek 7 van het Burgerlijk Wetboek, van verzoeken als bedoeld in de artikelen 380, tweede lid, en 381, tweede lid, van Boek 7 van het Burgerlijk Wetboek, alsmede van een verzoek tot goedkeuring als bedoeld in artikel 399e van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 250,–. 
 
 ### Artikel  17  
 
-Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in artikel 323 van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 89,– per 1 januari 2014: € 100,–. 
+Voor de behandeling van een verzoek tot goedkeuring van een overeenkomst tot beëindiging van een pachtovereenkomst als bedoeld in artikel 323 van Boek 7 van het Burgerlijk Wetboek wordt een recht geheven van € 126,–. 
 
 ### Artikel  17a  
-Treedt in werking per 01-01-2015 
 
 Indien een verzoek tot goedkeuring van een overeenkomst als bedoeld in artikel 397, eerste lid, van Boek 7 van het Burgerlijk Wetboek, langs elektronische weg op de door de grondkamers aangegeven wijze wordt ingediend, wordt een recht geheven van € 100,–. 
 
 ### Artikel  18  
 
-Voor de behandeling van niet in deze paragraaf genoemde verzoeken wordt een recht geheven van € 89,– per 1 januari 2014: € 100,–. 
+Voor de behandeling van niet in deze paragraaf genoemde verzoeken wordt een recht geheven van € 126,–. 
 
 ### Artikel  19  
 
@@ -141,7 +145,7 @@ Worden met betrekking tot dezelfde pachtovereenkomst verscheidene verzoeken geli
 
 ### Artikel  20  
 
-1.  Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 100,– per 1 januari 2014: € 111,–.   
+1.  Voor het instellen van beroep bij de Centrale Grondkamer wordt een recht geheven van € 100,– per 1 januari 2015: € 113,–.   
 2.  Voor het instellen van beroep bij de Centrale Grondkamer op grond van artikel 40 van de Uitvoeringswet grondkamers wordt geen recht geheven.  
 
 ### Artikel  21  
@@ -276,22 +280,22 @@ De voorzitter, de leden en de secretaris van de grondkamer alsmede de voorzitter
 
 ### Artikel  44  
 
-1.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de grondkamer wordt aan de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretaris een vergoeding toegekend van € 67,– per 1 januari 2014: € 78,– per uur.   
+1.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de grondkamer wordt aan de plaatsvervangende voorzitter, de leden, de plaatsvervangende leden en de plaatsvervangende secretaris een vergoeding toegekend van € 67,– per 1 januari 2015: € 79,– per uur.   
 2.  De in het vorige lid bedoelde vergoedingen worden evenwel niet toegekend, indien de daar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Economische Zaken niet anders bepaalt.   
 3.  Aan een plaatsvervangende voorzitter die wegens afwezigheid, belet of ontstentenis van de voorzitter diens werkzaamheden volledig waarneemt, kan, indien hij niet bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleedt, door Onze Minister van Economische Zaken tot wederopzegging een bezoldiging worden toegekend overeenkomstig de voor de voorzitter vastgestelde bezoldiging.   
 4.  Het derde lid is van overeenkomstige toepassing ten aanzien van een plaatsvervangend secretaris.  
 
 ### Artikel  45  
 
-1.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de leden en de plaatsvervangende leden een vergoeding toegekend van € 79,– per 1 januari 2014: € 91,– per uur.   
-2.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de plaatsvervangende griffier een vergoeding toegekend van € 67,– per 1 januari 2014: € 78,– per uur.   
+1.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de leden en de plaatsvervangende leden een vergoeding toegekend van € 79,– per 1 januari 2015: € 92,– per uur.   
+2.  Voor het deelnemen aan een zitting en het bijwonen van een vergadering van de Centrale Grondkamer wordt aan de plaatsvervangende griffier een vergoeding toegekend van € 67,– per 1 januari 2015: € 79,– per uur.   
 3.  De in de vorige leden bedoelde vergoedingen worden evenwel niet toegekend indien de aldaar genoemde personen bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleden, voor zover Onze Minister van Economische Zaken niet anders bepaalt.   
 4.  Aan een plaatsvervangende griffier die wegens afwezigheid, belet of ontstentenis van de griffier diens werkzaamheden volledig waarneemt, kan, indien hij niet bij het Rijk of als rechterlijk ambtenaar een bezoldigd ambt bekleedt, door Onze Minister van Economische Zaken tot wederopzegging toe een bezoldiging worden toegekend overeenkomstig de voor de griffier vastgestelde bezoldiging.  
 
 ### Artikel  46  
 
-1.  Voor het deelnemen aan een bezichtiging ter plaatse wordt aan de leden en de plaatsvervangende leden van de grondkamer een vergoeding van € 67,– per 1 januari 2014: € 78,– per uur toegekend.   
-2.  Voor het deelnemen aan een bezichtiging ter plaatse wordt een vergoeding van € 79,– per 1 januari 2014: € 91,– per uur toegekend aan de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.   
+1.  Voor het deelnemen aan een bezichtiging ter plaatse wordt aan de leden en de plaatsvervangende leden van de grondkamer een vergoeding van € 67,– per 1 januari 2015: € 79,– per uur toegekend.   
+2.  Voor het deelnemen aan een bezichtiging ter plaatse wordt een vergoeding van € 79,– per 1 januari 2015: € 92,– per uur toegekend aan de leden en de plaatsvervangende leden van de Centrale Grondkamer, behalve als zij als rechterlijk ambtenaar een bezoldigd ambt bekleden.   
 3.  Bij de berekening van het totale aantal uren waarover een vergoeding volgens de voorgaande leden wordt toegekend, vindt afronding naar boven plaats tot een half uur.  
 
 ### Artikel  47  

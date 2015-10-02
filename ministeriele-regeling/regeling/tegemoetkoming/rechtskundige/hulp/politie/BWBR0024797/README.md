@@ -28,7 +28,7 @@ c. vergoeding van de kosten van rechtskundige hulp, aan de ambtenaar verleend op
 
 d. vergoeding van de eigen bijdrage, indien de ambtenaar aanspraak maakt op door de overheid gefinancierde rechtsbijstand op grond van de Wet op de rechtsbijstand.     
 2.  De vergoeding, bedoeld in het eerste lid, onderdeel b en c, bedraagt per uur niet meer dan het bedrag van de kosten, bedoeld in het eerste lid, onderdeel a, maar ten minste het basisbedrag zoals vastgesteld op grond van artikel 3, eerste lid, van het Besluit vergoedingen rechtsbijstand 2000, tenzij de werkelijke kosten per uur lager waren dan dat basisbedrag.   
-3.  Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 155,45, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.   
+3.  Indien het bevoegd gezag voor de tegemoetkoming bedoeld in het eerste lid, onderdeel a, een rechtsbijstandverzekering heeft afgesloten, geldt voor de berekening van de vergoeding bedoeld in het eerste lid, onderdeel b en c, een uurtarief van ten hoogste € 153,63, met uitzondering van de gevallen waarin naar oordeel van het bevoegd gezag bijzondere eisen worden gesteld aan de persoon die de rechtskundige hulp verleent en die alsdan leiden tot een hoger uurtarief.   
 4.  De toekenning van de tegemoetkoming kan betrekking hebben op: 
 
 a. de voorfase van een gerechtelijke procedure;  
