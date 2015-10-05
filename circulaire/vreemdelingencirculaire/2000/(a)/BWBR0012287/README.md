@@ -2889,9 +2889,9 @@ De identificatie en registratie van de vreemdeling met behulp van biometrische g
 
 ####Beschikking tot aanwijzing van een ruimte of plaats ingevolge artikel 6 eerste lid, of eerste en tweede lid, of derde lid of artikel 6a van de Vreemdelingenwet 2000 (Vw)
 
-![255834](http://wetten.overheid.nl/Illustration/255834)
-![255835](http://wetten.overheid.nl/Illustration/255835)
-![255836](http://wetten.overheid.nl/Illustration/255836)
+![256085](http://wetten.overheid.nl/Illustration/256085)
+![256086](http://wetten.overheid.nl/Illustration/256086)
+![256087](http://wetten.overheid.nl/Illustration/256087)
 
 ### Model  M20  
 

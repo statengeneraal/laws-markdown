@@ -776,7 +776,7 @@ De volgende categorieën vreemdelingen hebben op grond van artikel 3, eerste lid
 
 a. vreemdelingen die van overheidswege uitgezonden zijn, maar zolang zij in overheidsdienst zijn;  
 
-b. vreemdelingen die in dienst zijn geweest van een openbaar lichaam en uit dien hoofde pensioen of uitkering bij wijze van pensioen genieten, evenals de niet hertrouwde weduwen van zodanige vreemdelingen  
+b. vreemdelingen die in dienst zijn geweest van een openbaar lichaam en uit dien hoofde pensioen of uitkering bij wijze van pensioen genieten, evenals de niet hertrouwde weduwen van zodanige vreemdelingen;  
 
 c. in de openbare lichamen als zodanig toegelaten beroepsconsuls, beroepsconsulaire ambtenaren en ander consulair personeel;  
 
@@ -784,15 +784,24 @@ d. militairen gedurende de tijd dat zij in de openbare lichamen zijn gestationee
 
 e. opvarenden van tot de zee- of luchtmacht van enige mogendheid behorende schepen of luchtvaartuigen, gedurende de tijd dat de openbare lichamen met toestemming van de bevoegde autoriteit worden aangedaan;  
 
-f. de niet van tafel en bed gescheiden echtgenoot en minderjarige kinderen van onder de in a, b, c en d. genoemde vreemdelingen.   Zie verder hoofdstuk 2 CTU-BES. 
+f. de niet van tafel en bed gescheiden echtgenoot en minderjarige kinderen van onder de in a, b, c en d. genoemde vreemdelingen.   
 ### *Nederlanders* 
 
-Nederlanders hebben op grond van artikel 3, vijfde en zesde lid WTU-BES van rechtswege toelating tot verblijf (zie hoofdstuk 2 CTU-BES).    
+Nederlanders hebben op grond van artikel 3, vijfde en zesde lid, WTU-BES van rechtswege toelating tot verblijf. 
+### *Amerikanen* 
+
+Het Gemeenschappelijk Hof van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba heeft op 15 december 2014 uitspraak gedaan inzake de uitleg van artikel 3 van het Protocol bij het Nederlands-Amerikaans verdrag inzake vriendschap, handel en scheepvaart. De strekking van deze uitspraak is dat Amerikaanse onderdanen in het Caribisch Deel van het Koninkrijk de openbare lichamen aanspraak hebben op gelijke behandeling als Nederlanders die niet in het Caribisch Deel van het Koninkrijk zijn geboren. Dit betekent dat Amerikaanse onderdanen, net als die Nederlanders, op grond van artikel 3, vijfde en zesde lid WTU-BES op het grondgebied van de openbare lichamen van rechtswege toelating tot verblijf hebben. Zie verder hoofdstuk 2 CTU-BES.   
 ### 7.1.2  
 
 ####Toeristen
 
-Op grond van artikel 4.2 BTU-BES mogen toeristen de openbare lichamen binnenkomen zonder toelating tot verblijf. Zij mogen maximaal drie maanden op de openbare lichamen verblijven binnen een tijdsvak van zes maanden (zie hoofdstuk 2 CTU-BES).    
+Op grond van artikel 4.2, eerste lid, BTU-BES mogen toeristen het grondgebied van de openbare lichamen binnenkomen en er verblijven zonder toelating tot verblijf bij vergunning verleend. Zij mogen maximaal drie maanden op het grondgebied van de openbare lichamen verblijven binnen een tijdvak van zes maanden (zie hoofdstuk 2 CTU-BES). Mocht een toerist langer dan voornoemde drie maanden op het grondgebied van de openbare lichamen willen verblijven, dan is dit mogelijk. De vrije termijn van drie maanden kan verlengd worden met maximaal drie maanden. Er moet wel sprake zijn van bijzondere omstandigheden als bedoeld in artikel 4, vierde lid, onder c, BTU-BES. Dit wordt per individueel geval beoordeeld. Voor de aanvraag tot verlenging van de vrije termijn moet de toerist leges betalen. Bij inwilliging van een dergelijke aanvraag dient de IND-unit Caribisch Nederland de reden van inwilliging in de vreemdelingenadministratie te registeren. Van de verlengingstermijn wordt in het paspoort een aantekening gemaakt. 
+### *Nederlanders* 
+
+Nederlanders mogen maximaal zes maanden binnen een tijdvak van een jaar als toerist op het grondgebied van de openbare lichamen verblijven (artikel 4.2, derde lid, BTU-BES), zonder verblijf van rechtswege *toegekend*. Deze termijn kan niet worden verlengd. 
+### *Amerikanen* 
+
+Het Gemeenschappelijk Hof van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba heeft op 15 december 2014 uitspraak gedaan inzake de uitleg van artikel 3 van het Protocol bij het Nederlands-Amerikaans verdrag inzake vriendschap, handel en scheepvaart. In verband daarmee mogen ook Amerikaanse toeristen maximaal zes maanden binnen een tijdvak van een jaar op het grondgebied van de openbare lichamen verblijven, zonder verblijf van rechtswege *toegekend*. Ook voor Amerikaanse onderdanen geldt dat deze termijn niet kan worden verlengd.   
 ### 7.1.3  
 
 ####Piloten en andere bemanningsleden van luchtvaartuigen
@@ -823,16 +832,18 @@ Op grond van artikel 6.46 BTU-BES moet een vreemdeling die naar de openbare lich
 
 ####Inleiding
 
-In artikel 3, eerste lid, WTU-BES wordt bepaald wie van rechtswege toelating tot verblijf in de openbare lichamen hebben. Bij algemene maatregel van bestuur kan de categorie vreemdelingen die van rechtswege zijn toegelaten worden uitgebreid (zie artikel 3, tweede lid, WTU-BES). In artikel 5a WTU-BES wordt bepaald dat bij of krachtens algemene maatregel van bestuur regels kunnen worden gesteld over het verblijf zonder verblijfsvergunning voor bepaalde tijd voor verblijf in de vrije termijn (van niet langer dan zes maanden). In de artikelen 4.1 tot en met 4.4 BTU-BES is dit uitgewerkt. De toelating van rechtswege, bedoeld in de artikelen 3 en 5a WTU-BES, is tijdelijk. Een vreemdeling die toelating van rechtswege heeft kan na een ononderbroken periode van ten minste vijf jaren toelating van rechtswege wel in aanmerking komen voor een verblijfsvergunning voor onbepaalde tijd, als de vreemdeling aan de daarvoor geldende voorwaarden voldoet (zie artikel 5.45, tweede lid, BTU-BES). 
+In artikel 3, eerste lid, WTU-BES is bepaald wie van rechtswege toelating tot verblijf in de openbare lichamen hebben. Bij algemene maatregel van bestuur kan de categorie vreemdelingen die van rechtswege zijn toegelaten worden uitgebreid (zie artikel 3, tweede lid, WTU-BES). In artikel 5a WTU-BES is bepaald dat bij of krachtens algemene maatregel van bestuur regels kunnen worden gesteld over het verblijf zonder verblijfsvergunning voor bepaalde tijd voor verblijf in de vrije termijn (van niet langer dan zes maanden). In de artikelen 4.1 tot en met 4.4 BTU-BES is dit uitgewerkt. De toelating van rechtswege, bedoeld in de artikelen 3 en 5a WTU-BES, is tijdelijk. Een vreemdeling die toelating van rechtswege heeft kan na een ononderbroken periode van ten minste vijf jaren toelating van rechtswege wel in aanmerking komen voor een verblijfsvergunning voor onbepaalde tijd, als de vreemdeling aan de daarvoor geldende voorwaarden voldoet (zie artikel 5.45, tweede lid, BTU-BES). 
 ### *Aanmelding bij Korpschef na binnenkomst* 
 
-Voor de regels over de verplichting tot aanmelding na binnenkomst bij de Korpschef wordt verwezen naar hoofdstuk 1 ‘Toegang’, paragraaf 4.6 ‘Aanmelding na binnenkomst in de openbare lichamen’. Ten aanzien van toelating van rechtswege is in dit hoofdstuk het volgende onderscheid gemaakt: 
+Voor de regels over de verplichting tot aanmelding na binnenkomst bij de Korpschef wordt verwezen naar hoofdstuk 1 ‘Toegang’, paragraaf 4.6 ‘Aanmelding na binnenkomst in de openbare lichamen’. Ten aanzien van toelating van rechtswege is in dit hoofdstuk het volgende onderscheid gemaakt:
 
 – Nederlanders  
 
+– Amerikanen  
+
 – bijzondere categorieën  
 
-– verblijf in de vrije termijn   Deze categorieën zijn hieronder uitgewerkt.    
+– verblijf in de vrije termijn  Deze categorieën zijn hieronder uitgewerkt.   
 ### 2  
 
 ####Nederlanders
@@ -902,30 +913,29 @@ Voor het begrip ‘woonplaats’ is aangesloten bij de definitie zoals genoemd i
 De periode genoemd onder d wordt niet als onderbroken beschouwd door een verblijf buiten de openbare lichamen voor studiedoeleinden of wegens geneeskundige behandeling. In dat geval zijn de bepalingen van de WTU-BES niet van toepassing. Als de Nederlander niet binnen een jaar na de voltooiing van zijn studie of de beëindiging van de geneeskundige behandeling is teruggekeerd naar de openbare lichamen, dan wordt de vreemdeling geacht zijn hoofdverblijf te hebben verplaatst. De bepalingen van de WTU-BES zijn in dat geval wel op die vreemdeling van toepassing. Met het vorenstaande wordt aangesloten bij artikel 4 WTU-BES.   
 ### 2.3  
 
-####Toelating van rechtswege van Nederlanders
+####Toelating van rechtswege
 
 ### 2.3.1  
 
 ####Toepassing van artikel 5a WTU-BES
 
-Nederlanders mogen zonder toelating van rechtswege toegekend in de openbare lichamen verblijven gedurende een periode van maximaal zes maanden binnen een tijdvak van een jaar (zie artikel 5a WTU-BES en artikel 1 Regeling van de Minister van Justitie, houdende wijziging van het Besluit toelating en uitzetting BES). In dit geval is wel sprake van toelating van rechtswege, maar is deze alleen niet toegekend middels het verstrekken van een verklaring waaruit dat blijkt. 
-### *Verklaring* 
+### *Nederlanders* 
 
-Nederlanders hoeven pas na zes maanden verblijf in de openbare lichamen een verklaring aan te vragen waaruit blijkt dat zij toelating van rechtswege hebben, als bedoeld in artikel 3, derde lid, WTU-BES. Dit geldt ook als de Nederlander al bij binnenkomst langer dan zes maanden verblijf beoogt. Nederlanders dienen de termijn van zes maanden zelf in de gaten te houden. Als men binnen deze zes maanden in de openbare lichamen wil werken, dan zal men wel een verklaring aan moeten vragen. Voor de opsomming van vereisten en bescheiden wordt verwezen naar paragraaf 3.2.2 van dit hoofdstuk.    
+Nederlanders op wie de WTU-BES (grotendeels) van overeenkomstige toepassing is mogen zonder toelating van rechtswege toegekend op het grondgebied van de openbare lichamen verblijven gedurende een periode van maximaal zes maanden binnen een tijdvak van een jaar (zie de artikelen 1a en 5a WTU-BES. In dit geval is wel sprake van toelating van rechtswege, maar er wordt geen verklaring afgegeven waaruit de toekenning blijkt. Bedoelde Nederlanders behoeven pas na zes maanden verblijf op het grondgebied van de openbare lichamen een verklaring waaruit blijkt dat hen toelating van rechtswege is toegekend. Zij moeten dan wel voldoen aan de voorwaarden van artikel 3, vijfde of zesde lid, WTU-BES. Dit geldt ook als de Nederlander al bij binnenkomst langer dan zes maanden verblijf beoogt. Nederlanders dienen de termijn van zes maanden zelf in de gaten te houden. Als men binnen deze zes maanden op het grondgebied van de openbare lichamen wil werken, dan zal men wel een verklaring van rechtswege aan moeten vragen. Aan deze aanvraag zijn leges verbonden. Zie hiervoor de Regeling toelating en uitzetting BES. Voor de opsomming van vereisten en bescheiden wordt verwezen naar paragraaf 3.2.2 van dit hoofdstuk. 
+### *Amerikanen* 
+
+Het Gemeenschappelijk Hof van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba heeft op 15 december 2014 uitspraak gedaan inzake de uitleg van artikel 3 van het Protocol bij het Nederlands-Amerikaans verdrag inzake vriendschap, handel en scheepvaart. De strekking van deze uitspraak is dat Amerikaanse onderdanen in het Caribisch Deel van het Koninkrijk – en daarmee op het grondgebied van de openbare lichamen aanspraak hebben op gelijke behandeling als Nederlanders die niet in het Caribisch Deel van het Koninkrijk zijn geboren. Dit betekent dat Amerikaanse onderdanen, net als die Nederlanders, op wie de WTU-BES (grotendeels) van overeenkomstige toepassing is, een vrije termijn van maximaal zes maanden hebben in een tijdbestek van een jaar (in plaats van drie maanden binnen een periode van zes maanden). Voorts komen zij in aanmerking voor een verklaring inzake toelating van rechtswege als ze aan de voorwaarden voldoen, waaraan ook bedoelde Nederlanders moeten voldoen. Voor de rest geldt voor een Amerikaans onderdaan hetzelfde zoals hierboven is omschreven onder het kopje “Nederlanders”.   
 ### 2.3.2  
 
 ####Toelating van rechtswege op grond van artikel 3, vijfde en zesde lid, WTU-BES
 
-Meerderjarige Nederlanders op wie de WTU-BES van toepassing is hebben toelating van rechtswege als wordt voldaan aan de volgende voorwaarden: 
+Meerderjarige Nederlanders of Amerikanen op wie de WTU-BES van (al dan niet van overeenkomstige) toepassing is hebben recht op toelating van rechtswege als wordt voldaan aan de volgende voorwaarden: 
 
 a. beschikken over een verklaring van goed gedrag, gedurende de laatste vijf jaren, afgegeven door het bevoegde gezag binnen twee maanden voor hun aankomst in de openbare lichamen of een schriftelijke verklaring waaruit zulks genoegzaam blijkt;  
 
 b. beschikken over huisvesting;  
 
-c. beschikken over voldoende middelen van bestaan om in hun levensonderhoud te voorzien. Voor voldoende middelen van bestaan wordt verwezen naar hoofdstuk 3/1.9.3.3 CTU-BES.   De minderjarige Nederlandse kinderen van de bovengenoemde Nederlanders die toelating van rechtswege hebben op grond van artikel 3, vijfde lid, WTU-BES, hebben toelating van rechtswege als één van de ouders het ouderlijk gezag heeft. 
-###*Ad a*
-
-Dit betekent dat de aanvrager over een verklaring goed gedrag moet beschikken uit alle landen waar de Nederlander de afgelopen 5 jaar heeft verbleven.     
+c. beschikken over voldoende middelen van bestaan om in hun levensonderhoud te voorzien.   Voor voldoende middelen van bestaan wordt verwezen naar hoofdstuk 3/1.9.3.3 CTU-BES. De minderjarige Nederlandse of Amerikaanse kinderen van de bovengenoemde Nederlanders respectievelijk Amerikanen die toelating van rechtswege hebben op grond van artikel 3, vijfde lid, WTU-BES, hebben toelating van rechtswege als één van de ouders het ouderlijk gezag heeft.  *Ad a*  Dit betekent dat de aanvrager over een verklaring goed gedrag moet beschikken uit alle landen waar de Nederlander de afgelopen 5 jaar heeft verbleven. De verklaring dient uiterlijk twee maanden voor aankomst op het grondgebied van de openbare lichamen te zijn afgegeven door de bevoegde autoriteit. Indien de verklaring van goed gedrag recenter is afgegeven wordt deze aangemerkt als een schriftelijke verklaring als bedoeld in artikel 3, vijfde lid, van de WTU-BES.     
 ### 3  
 
 ####Bijzondere categorieën
@@ -934,7 +944,7 @@ Dit betekent dat de aanvrager over een verklaring goed gedrag moet beschikken ui
 
 ####Bijzondere categorieën
 
-Aan de volgende bijzondere categorieën personen (vreemdelingen of Nederlanders) wordt op aanvraag de toelating van rechtswege in de openbare lichamen toegekend (zie artikel 3, eerste lid, WTU-BES): 
+Aan de volgende bijzondere categorieën personen (vreemdelingen of Nederlanders) wordt op aanvraag de toelating van rechtswege op het grondgebied van de openbare lichamen toegekend (zie artikel 3, eerste lid, WTU-BES): 
 
 a. vreemdelingen van overheidswege uitgezonden, zolang zij in overheidsdienst zijn;  
 
@@ -948,30 +958,8 @@ e. opvarenden van tot de zee- of luchtmacht van enige mogendheid behorende schep
 
 f. de niet van tafel en bed gescheiden echtgenoot en minderjarige kinderen van de onder a, b, c en d genoemde vreemdelingen;  
 
-g. vreemdelingen, in een openbaar lichaam geboren, mits zij de leeftijd van zestien jaar hebben bereikt, en sinds hun geboorte onafgebroken in de openbare lichamen zijn toegelaten.   Voor vreemdelingen die vallen onder één van de bovengenoemde categorieën is het mvv-vereiste niet van toepassing. Het mvv-vereiste is alleen een afwijzingsgrond voor de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd en is geen voorwaarde voor toelating van rechtswege. 
-### *Ad a:* 
-
-Artikel 3, eerste lid, onder a, WTU-BES moet ruim worden uitgelegd. Hieronder vallen in ieder geval: 
-
-* door de overheid van een ander land uitgezonden vreemdelingen, voor de duur dat zij in overheidsdienst zijn;  
-
-* vreemdelingen op wie de WTU-BES van toepassing is en die in dienst van het land Nederland of in dienst van de openbare lichamen zijn aangesteld of die diensten verrichten ten behoeve van de Nederlandse overheid of de openbare lichamen, voor de duur van hun aanstelling, of voor de duur van de diensten verricht ten behoeve van de overheid. Een vreemdeling die al is toegelaten tot de openbare lichamen en in een later stadium bij de Nederlandse overheid of bij de openbare lichamen in dienst treedt, heeft eveneens toelating van rechtswege.   Als de vreemdeling niet meer in overheidsdienst werkzaam is, vervalt zijn toelating van rechtswege (zie artikel 5, aanhef en onder a, WTU-BES). Als hij in de openbare lichamen wil verblijven voor een ander doel, moet hij daartoe een aanvraag om verlening voor een verblijfsvergunning voor bepaalde tijd indienen. 
-### *Ad b:* 
-
-Zolang de vreemdeling pensioen of uitkering bij wijze van pensioen ontvangt, dan wel zolang de weduwe of weduwnaar niet is hertrouwd. 
-### *Ad c:* 
-
-Zolang de vreemdeling in consulaire dienst is. 
-### *Ad d:* 
-
-Zolang de vreemdeling militair is en is gestationeerd in de openbare lichamen. 
-### *Ad e:* 
-
-Gedurende de tijd dat de openbare lichamen met toestemming van de bevoegde autoriteit wordt aangedaan. 
-### *Ad f:* 
-
-Zolang de echtgenoot niet van tafel en bed is gescheiden. Zolang de kinderen minderjarig zijn. De ongehuwde partner, van vreemde nationaliteit, van een vreemdeling die van rechtswege toelating heeft, kan een verblijfsvergunning voor bepaalde tijd aanvragen voor een verblijfsdoel verband houdend met gezinshereniging bij partner. De geldigheidsduur van deze verblijfsvergunning is in beginsel een jaar. Als de hoofdpersoon korter dan een jaar van rechtswege is toegelaten, dan is de geldigheidsduur van de verblijfsvergunning van de ongehuwde partner daarop afgestemd. Dit geldt ook voor de minderjarige kinderen, als deze kinderen zelf niet de Nederlandse nationaliteit hebben. 
-### *Rijkswet Gemeenschappelijk Hof van Justitie*
+g. vreemdelingen, in een openbaar lichaam geboren, mits zij de leeftijd van zestien jaar hebben bereikt, en sinds hun geboorte onafgebroken in de openbare lichamen zijn toegelaten.   Voor vreemdelingen die vallen onder één van de bovengenoemde categorieën is het mvv-vereiste niet van toepassing. Het mvv-vereiste is alleen een afwijzingsgrond voor de aanvraag om verlening van een verblijfsvergunning voor bepaalde tijd en is geen voorwaarde voor toelating van rechtswege.  *Ad b:*  Zolang de vreemdeling pensioen of uitkering bij wijze van pensioen ontvangt, dan wel zolang de weduwe of weduwnaar niet is hertrouwd.  *Ad c:*  Zolang de vreemdeling in consulaire dienst is.  *Ad d:*  Zolang de vreemdeling militair is en is gestationeerd in de openbare lichamen.  *Ad e:*  Gedurende de tijd dat de openbare lichamen met toestemming van de bevoegde autoriteit wordt aangedaan.  *Ad f:*  Zolang de echtgenoot niet van tafel en bed is gescheiden en de kinderen nog minderjarig zijn. De ongehuwde partner, van vreemde nationaliteit, van een vreemdeling die van rechtswege toelating heeft, kan een verblijfsvergunning voor bepaalde tijd aanvragen voor een verblijfsdoel verband houdend met gezinshereniging bij partner. De geldigheidsduur van deze verblijfsvergunning is in beginsel een jaar. Als de hoofdpersoon korter dan een jaar van rechtswege is toegelaten, dan is de geldigheidsduur van de verblijfsvergunning van de ongehuwde partner daarop afgestemd. Dit geldt ook voor de minderjarige kinderen, als deze kinderen zelf niet de Nederlandse nationaliteit hebben. 
+### *Rijkswet Gemeenschappelijk Hof van Justitie* 
 
 Op grond van artikel 38 van de Rijkswet Gemeenschappelijk Hof van Justitie zijn leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistreerd partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren van rechtswege toegelaten tot de landen, en daarmee in voorkomend geval ook tot de openbare lichamen. Aan de leden en plaatsvervangend leden van het Hof en hun echtgenoten of geregistreerde partners worden geen nadere voorwaarden gesteld voor de uitoefening van een beroep of het verrichten van arbeid. Gelet op het bovenstaande wordt op aanvraag een verklaring inzake toelating van rechtswege in de openbare lichamen afgegeven aan de leden en plaatsvervangend leden alsmede hun echtgenoten of geregistreerd partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren.   
 ### 3.2  
@@ -982,7 +970,7 @@ Op grond van artikel 38 van de Rijkswet Gemeenschappelijk Hof van Justitie zijn 
 
 ####Indiening van de aanvraag
 
-Om voor een verklaring in aanmerking te komen waaruit blijkt dat de toelating van rechtswege is toegekend moet een daartoe strekkende aanvraag worden ingediend bij de IND unit Caribisch Nederland middels model MBES8 CTU-BES.    
+Om voor een verklaring in aanmerking te komen waaruit blijkt dat de toelating van rechtswege is toegekend moet een daartoe strekkende aanvraag worden ingediend bij de IND-unit Caribisch Nederland (model MBES8). Voor de aanvraag moeten leges worden betaald.    
 ### 3.2.2  
 
 ####Vereiste bescheiden
@@ -1005,7 +993,7 @@ d. door Nederlanders als bedoeld in artikel 3, vijfde en zesde lid, WTU-BES:
 
 * volledig ingevulde en ondertekende werkgeversverklaring en een kopie geldig document voor grensoverschrijding van de werkgever;  
 
-* recente verklaring van de Inspecteur der Belastingen van een vastgesteld belastbaar inkomen van ten minste USD 20,112 (als werkgever een eenmansbedrijf of particulier is) of  
+* recente verklaring van de Inspecteur der Belastingen van een vastgesteld belastbaar inkomen van ten minste USD 20,112 (als werkgever een eenmansbedrijf of particulier is) of  
 
 * een bankverklaring waaruit blijkt dat wordt beschikt over voldoende middelen van bestaan.    
 
@@ -1023,10 +1011,7 @@ e. door (plaatsvervangend) leden van het Gemeenschappelijk Hof van Justitie, hun
 
 * een geboorteakte van het kind;  
 
-* indien van toepassing: een bewijs waaruit blijkt dat een van de ouders (het lid van het Hof of zijn/haar echtgenoot/geregistreerd partner) het ouderlijk gezag heeft.     
-### *Bewijs ouderlijk gezag* 
-
-Dit geldt alleen als uit de geboorteakte blijkt dat het kind niet het biologisch kind is van beide ouders. In dat geval moet een rechterlijke uitspraak overgelegd worden waaruit blijkt dat het ouderlijk gezag / voogdij aan de in de openbare lichamen verblijvende ouder is toegewezen.    
+* indien van toepassing: een bewijs waaruit blijkt dat een van de ouders (het lid van het Hof of zijn/haar echtgenoot/geregistreerd partner) het ouderlijk gezag heeft.      *Ad d: verklaring goed gedrag*  De verklaring dient uiterlijk twee maanden voor aankomst in de openbare lichamen te zijn afgegeven door de bevoegde autoriteit. Indien de verklaring van goed gedrag recenter is afgegeven wordt deze aangemerkt als een schriftelijke verklaring als bedoeld in artikel 3, vijfde lid, van de WTU-BES.  *Ad e bewijs ouderlijk gezag*  Dit geldt alleen als uit de geboorteakte blijkt dat het kind niet het biologisch kind is van beide ouders. In dat geval moet een rechterlijke uitspraak overgelegd worden waaruit blijkt dat het ouderlijk gezag / voogdij aan de in de openbare lichamen verblijvende ouder is toegewezen.   
 ### 3.2.3  
 
 ####Verklaring
@@ -1040,16 +1025,10 @@ De toelating van rechtswege eindigt (zie artikel 5 WTU-BES):
 
 a. door het vervallen van de reden waarom zij is toegekend;  
 
-b. ten aanzien van degene, die op grond van artikel 3, eerste lid, onder g, WTU-BES van rechtswege is toegelaten, door een onafgebroken verblijf van drie jaar buiten de openbare lichamen, tenzij de vreemdeling buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling.   De toelating van rechtswege eindigt van rechtswege. Dat wil zeggen dat daarvoor geen intrekkingsbeschikking of beëindigingsbeschikking nodig is. Doet één van de onder a of b genoemde omstandigheden zich voor, dan eindigt de toelating van rechtswege. De vreemdeling ontvangt een mededeling dat zijn toelating van rechtswege is geëindigd. Deze mededeling is aan te merken als een beschikking in de zin van de WarBES, zodat daartegen rechtsmiddelen aangewend kunnen worden. De vreemdeling moet de openbare lichamen zelfstandig verlaten na bekendmaking van de beschikking. Als de toelating van rechtswege is geëindigd en er ook geen andere grond van toepassing is op grond waarvan toelating van rechtswege bestaat, maar men wel voor een ander doel in de openbare lichamen wil verblijven, kan daartoe een aanvraag om een verblijfsvergunning voor bepaalde tijd worden ingediend. In dat geval is bij vreemdelingen in beginsel het mvv-vereiste van toepassing. Als de vreemdeling of Nederlander toelating van rechtswege meent te hebben op een andere grond in art 3 WTU-BES, moet hij daarvoor een nieuwe verklaring vragen waaruit de toelating van rechtswege blijkt. Pas dan kan immers getoetst worden of hij toelating van rechtswege heeft op de nieuwe grond. 
-### *Ad a:* 
-
-Deze beëindigingsgrond geldt voor alle in artikel 3, eerste, vijfde en zesde lid, WTU-BES genoemde categorieën. Dit betekent dat als niet meer aan de daar genoemde beschrijving van de betreffende categorie wordt voldaan, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, eerste lid, onder a, WTU-BES genoemde categorie geldt dat als de vreemdeling niet meer in overheidsdienst werkzaam is, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, vijfde lid, WTU-BES genoemde categorie geldt dat als de Nederlander niet langer beschikt over huisvesting dan wel over voldoende middelen van bestaan, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, zesde lid, WTU-BES genoemde categorie geldt dat als één van de ouders niet langer voldoet aan de voorwaarden genoemd in artikel 3, vijfde lid, WTU-BES, de toelating van rechtswege van de minderjarige Nederlandse kinderen van die ouder eindigt. 
-### *Ad b:* 
-
-Onder onafgebroken verblijf als bedoeld in artikel 5, onder b, WTU-BES wordt verstaan onafgebroken toelating van rechtswege of verblijf grond van een verblijfsvergunning voor bepaalde of onbepaalde tijd. De periode, bedoeld in artikel 3, eerste lid, onder g, WTU-BES wordt niet onderbroken door een verblijf buiten de openbare lichamen voor studiedoeleinden of wegens geneeskundige behandeling, tenzij de vreemdeling aangeeft zijn toelating tot de openbare lichamen te willen opgeven (zie artikel 4, eerste lid, WTU-BES). De toelating van rechtswege van de in artikel 3, eerste lid, onder g, WTU-BES bedoelde vreemdeling wordt geacht te zijn vervallen als de vreemdeling niet binnen een jaar na de voltooiing van zijn studie of de beëindiging van de geneeskundige behandeling is teruggekeerd naar de openbare lichamen (zie artikel 4, tweede lid, WTU-BES). 
+b. ten aanzien van degene, die op grond van artikel 3, eerste lid, onder g, WTU-BES van rechtswege is toegelaten, door een onafgebroken verblijf van drie jaar buiten de openbare lichamen, tenzij de vreemdeling buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling.   De toelating van rechtswege eindigt van rechtswege. Dat wil zeggen dat daarvoor geen intrekkingsbeschikking of beëindigingsbeschikking nodig is. Doet één van de onder a of b genoemde omstandigheden zich voor, dan eindigt de toelating van rechtswege. De vreemdeling ontvangt een mededeling dat zijn toelating van rechtswege is geëindigd. Deze mededeling is aan te merken als een beschikking in de zin van de WarBES, zodat daartegen rechtsmiddelen aangewend kunnen worden. De vreemdeling moet de openbare lichamen zelfstandig verlaten na bekendmaking van de beschikking. Als de toelating van rechtswege is geëindigd en er ook geen andere grond van toepassing is op grond waarvan toelating van rechtswege bestaat, maar men wel voor een ander doel in de openbare lichamen wil verblijven, kan daartoe een aanvraag om een verblijfsvergunning voor bepaalde tijd worden ingediend. In dat geval is bij vreemdelingen in beginsel het mvv-vereiste van toepassing. Als de vreemdeling of Nederlander toelating van rechtswege meent te hebben op een andere grond in artikel 3 WTU-BES, moet hij daarvoor een nieuwe verklaring vragen waaruit de toelating van rechtswege blijkt. Pas dan kan immers getoetst worden of hij toelating van rechtswege heeft op de nieuwe grond.  *Ad a:*  Deze beëindigingsgrond geldt voor alle in artikel 3, eerste, vijfde en zesde lid, WTU-BES genoemde categorieën. Dit betekent dat als niet meer aan de daar genoemde beschrijving van de betreffende categorie wordt voldaan, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, eerste lid, onder a, WTU-BES genoemde categorie geldt dat als de vreemdeling niet meer in overheidsdienst werkzaam is, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, vijfde lid, WTU-BES genoemde categorie geldt dat als de Nederlander niet langer beschikt over huisvesting dan wel over voldoende middelen van bestaan, de toelating van rechtswege eindigt. Ten aanzien van de in artikel 3, zesde lid, WTU-BES genoemde categorie geldt dat als één van de ouders niet langer voldoet aan de voorwaarden genoemd in artikel 3, vijfde lid, WTU-BES, de toelating van rechtswege van de minderjarige Nederlandse kinderen van die ouder eindigt.  *Ad b:*  Onder onafgebroken verblijf als bedoeld in artikel 5, onder b, WTU-BES wordt verstaan onafgebroken toelating van rechtswege of verblijf grond van een verblijfsvergunning voor bepaalde of onbepaalde tijd. De periode, bedoeld in artikel 3, eerste lid, onder g, WTU-BES wordt niet onderbroken door een verblijf buiten de openbare lichamen voor studiedoeleinden of wegens geneeskundige behandeling, tenzij de vreemdeling aangeeft zijn toelating tot de openbare lichamen te willen opgeven (zie artikel 4, eerste lid, WTU-BES). De toelating van rechtswege van de in artikel 3, eerste lid, onder g, WTU-BES bedoelde vreemdeling wordt geacht te zijn vervallen als de vreemdeling niet binnen een jaar na de voltooiing van zijn studie of de beëindiging van de geneeskundige behandeling is teruggekeerd naar de openbare lichamen (zie artikel 4, tweede lid, WTU-BES). 
 ### *Einde toelating echtgenoot en minderjarige kinderen* 
 
-Als de toelating van rechtswege is geëindigd, betekent dit dat ook de afhankelijke toelating van de echtgeno(o)t(e) en minderjarige kinderen is geëindigd. Dit geldt echter niet voor echtgenoten die zelf op basis van artikel 3 WTU-BES van rechtswege zijn toegelaten (zie artikel 13 WTU-BES). Als een vreemdeling, van wie de toelating van rechtswege is geëindigd, een minderjarig kind heeft dat niet zelf toelating van rechtswege heeft op grond van artikel 3, eerste lid, onder g, WTU-BES, eindigt ook de toelating van dit minderjarige kind. Dat is ook het geval als dit kind buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling (zie artikel 4, derde lid, juncto artikel 13 WTU-BES).      
+Als de toelating van rechtswege is geëindigd, betekent dit dat ook de afhankelijke toelating van de echtgeno(o)t(e) en minderjarige kinderen is geëindigd. Dit geldt echter niet voor echtgenoten die zelf op basis van artikel 3 WTU-BES van rechtswege zijn toegelaten (zie artikel 13 WTU-BES). Als een vreemdeling, van wie de toelating van rechtswege is geëindigd, een minderjarig kind heeft dat niet zelf toelating van rechtswege heeft op grond van artikel 3, eerste lid, onder g, WTU-BES, eindigt ook de toelating van dit minderjarige kind. Dat is ook het geval als dit kind buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling (zie artikel 4, derde lid, juncto artikel 13 WTU-BES).     
 ### 4  
 
 ####Verblijf in de vrije termijn
@@ -2854,7 +2833,10 @@ De geldigheidsduur van de te verlenen verblijfsvergunning voor bepaalde tijd is 
 
 ####Inleiding
 
-Het Verdrag van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika met bijbehorend Protocol (Trb. 1956, 40) dat integrerend onderdeel uitmaakt van het verdrag (hierna: het Verdrag), heeft als doel de handel tussen Nederland en de Verenigde Staten van Amerika te vergemakkelijken. Het verdrag en Protocol zijn op 5 december 1957 inwerking getreden voor de alle toenmalige landen van het Koninkrijk. Het Verdrag is nog steeds van kracht, en dus ook van toepassing in de openbare lichamen. Het internationale recht, waaronder verdragen, gaat vóór het recht dat geldt in het Koninkrijk der Nederlanden en eist dat de verdragspartij zijn aangegane verplichtingen nakomt. De wijze waarop verdragsbepalingen in de rechtsorde van het Koninkrijk der Nederlanden doorwerken wordt echter niet geregeld door het internationale recht. Dit is een aangelegenheid van nationaal procedureel recht (zie artikel 9.3 BTU-BES).    
+Het Verdrag van vriendschap, handel en scheepvaart tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika met bijbehorend Protocol (Trb. 1956, 40) dat integrerend onderdeel uitmaakt van het verdrag (hierna: het Verdrag), heeft als doel de handel tussen Nederland en de Verenigde Staten van Amerika te vergemakkelijken. Het verdrag en Protocol zijn op 5 december 1957 inwerking getreden voor de alle toenmalige landen van het Koninkrijk. Het Verdrag is nog steeds van kracht, en dus ook van toepassing in de openbare lichamen. Het internationale recht, waaronder verdragen, gaat vóór het recht dat geldt in het Koninkrijk der Nederlanden en eist dat de verdragspartij zijn aangegane verplichtingen nakomt. De wijze waarop verdragsbepalingen in de rechtsorde van het Koninkrijk der Nederlanden doorwerken wordt echter niet geregeld door het internationale recht. Dit is een aangelegenheid van nationaal procedureel recht (zie artikel 9.3 BTU-BES). 
+### *Toelating van rechtswege toegekend* 
+
+Het Gemeenschappelijk Hof van Aruba, Curaçao en Sint Maarten en van Bonaire, Sint Eustatius en Saba heeft op 15 december 2014 uitspraak gedaan inzake de uitleg van artikel 3 van het Protocol bij het Nederlands-Amerikaans verdrag inzake vriendschap, handel en scheepvaart. De strekking van deze uitspraak is dat Amerikaanse onderdanen in het Caribisch Deel van het Koninkrijk – en daarmee op het grondgebied van de openbare lichamen – aanspraak hebben op gelijke behandeling als Nederlanders die niet in het Caribisch Deel van het Koninkrijk zijn geboren. Dit betekent dat Amerikaanse onderdanen, net als Nederlanders op wie de WTU-BES (grotendeels) van overeenkomstige toepassing is, een vrije termijn van maximaal zes maanden hebben in een tijdbestek van een jaar (in plaats van drie maanden binnen een periode van zes maanden). Voorts komen zij in aanmerking voor een verklaring inzake toelating van rechtswege als ze aan de voorwaarden voldoen, waaraan ook bedoelde Nederlanders moeten voldoen. De voorwaarden staan omschreven in hoofdstuk 2 van de CTU-BES. Mocht een Amerikaans onderdaan toch aanspraak willen maken op een verblijfsvergunning op grond van het Nederlands-Amerikaans vriendschapsverdrag, dan gelden de voorwaarden zoals omschreven in paragraaf 2 van dit hoofdstuk.   
 ### 2  
 
 ####Voorwaarden
@@ -2869,7 +2851,7 @@ a. om handel te drijven tussen de grondgebieden van de twee partijen en zich bez
 
 b. om de bedrijfsuitoefening van een onderneming waarin zij een aanzienlijk kapitaal hebben belegd of waarin zij daadwerkelijk bezig zijn dat te doen, te ontwikkelen en te leiden (zie artikel II, eerste lid, onder b, van het Verdrag); en  
 
-c. voor andere doeleinden met inachtneming van de wetten met betrekking tot de toelating en het verblijf van vreemdelingen (zie artikel II, eerste lid, onder c, van het Verdrag).   De voorwaarden van artikel II, eerste lid, onder a en b, van het Verdrag zijn niet cumulatief, maar alternatief. Dit betekent dat de Amerikaanse onderdaan als regel recht op toegang en verblijf heeft op grond van het Verdrag als hij voldoet aan de voorwaarden die zijn genoemd in één van die beide artikelonderdelen. Onderdeel c daarentegen verduidelijkt dat het recht op toegang en verblijf van Amerikaanse onderdanen die voor andere doeleinden op het grondgebied van het Koninkrijk wensen te verblijven niet wordt ontleend aan het Verdrag, maar dat daartoe de wetten met betrekking tot de toelating en het verblijf van vreemdelingen in acht moeten worden genomen. In punt 3 van het Protocol is, voor zover hier van belang, bepaald dat met betrekking tot artikel II, lid 1, onderdanen van de Verenigde Staten van Amerika in een Deel van het Koninkrijk der Nederlanden buiten Europa dezelfde behandeling genieten als Nederlandse onderdanen, die niet in dat Deel zijn geboren. Daarbij moet de toelatingsvraag worden onderscheiden van de vraag welke rechten of behandeling de toegelatene toekomen. Aanwijzing daarvoor is dat in de Memorie van Toelichting bij de goedkeuringswet (Kamerstukken II, 1955-56, nr. 4338 (R38), nr.3, p. 4, tweede kolom) is vermeld dat na binnenkomst de wettig toegelatene aan het leven in het gastland zal kunnen deelnemen en dat een en ander is geregeld in het derde lid. De behandeling die een toegelaten Amerikaanse onderdaan in de openbare lichamen toekomt, is als gevolg van artikel II, derde lid, gelijk aan die van Nederlanders, maar als gevolg van punt 3 van het Protocol niet gunstiger dan die van Nederlanders die niet in de openbare lichamen zijn geboren. 
+c. voor andere doeleinden met inachtneming van de wetten met betrekking tot de toelating en het verblijf van vreemdelingen (zie artikel II, eerste lid, onder c, van het Verdrag).   De voorwaarden van artikel II, eerste lid, onder a en b, van het Verdrag zijn niet cumulatief, maar alternatief. Dit betekent dat de Amerikaanse onderdaan als regel recht op toegang en verblijf heeft op grond van het Verdrag als hij voldoet aan de voorwaarden die zijn genoemd in één van die beide artikelonderdelen. De onderdelen a en b, moeten en met name ook onderdeel c moet in samenhang met artikel 3 van het Protocol, op grond van de uitspraak van het Gemeenschappelijk Hof van 15 december 2014, aldus worden uitgelegd, dat Amerikaanse onderdanen die aan de voorwaarden voldoen waaraan Nederlanders moeten voldoen voor een toelating van rechtswege eveneens aanspraak op toelating van rechtswege hebben. 
 ### *Middelen van bestaan* 
 
 Een onderdaan van de Verenigde Staten van Amerika die, op grond artikel II, eerste lid, onder a of b, van het Verdrag, voorzetting van het verblijf wenst in de openbare lichamen, hoeft niet te voldoen aan het middelenvereiste zoals neergelegd in artikel 9, eerste lid, aanhef en onder c, van de WTU-BES, als hij voldoet aan de overige voorwaarden zoals omschreven in dit hoofdstuk. Overigens zijn de onderdanen van de Verenigde Staten van Amerika in de openbare lichamen onderworpen aan de voor vreemdelingen in het algemeen geldende bepalingen van de WTU-BES. Dit geldt zowel op het gebied van toegang en verblijf als op het gebied van de gronden waarop hun verblijf of voortzetting van verblijf kan worden ontzegd (zie artikel II, vierde lid, van het Verdrag). Dit sluit de mogelijkheid niet uit om maatregelen toe te passen die noodzakelijk zijn voor de handhaving van de openbare orde en voor de bescherming van de volksgezondheid, de goede zeden en de veiligheid. Hiermee wordt, voor zover hier van belang, bedoeld maatregelen die zijn voorzien bij de WTU-BES, zoals: 
@@ -2882,10 +2864,7 @@ Een onderdaan van de Verenigde Staten van Amerika die, op grond artikel II, eers
 
 4. weigering van een verblijfsvergunning voor onbepaalde tijd of intrekking daarvan; en  
 
-5. ongewenstverklaring.   Op grond van artikel II, vierde lid, van het Verdrag laten de bepalingen van dat artikel namelijk het recht van ieder der Partijen onverlet om maatregelen toe te passen, welke noodzakelijk zijn ter handhaving van de openbare orde en ter bescherming van de volksgezondheid, de goede zeden en de veiligheid. Zoals blijkt uit de memorie van antwoord (Kamerstukken I, 1956-57, nr. 4338 (R38), nr. 140a, p2, rechter kolom) moet onderscheid worden gemaakt tussen het begrip ‘openbare orde’ in het Nederlandse staatsrecht en ditzelfde begrip in verdragen als het onderwerpelijke. Onder ‘maatregelen ter handhaving van de openbare orde’ in de zin van artikel II, vierde lid, van het Verdrag moeten niet alleen incidentele overheidsmaatregelen te voorkoming van onmiddellijk dreigende ordeverstoring worden begrepen, maar ook wettelijke bepalingen welke zijn geschreven met het oog op de handhaving van de openbare orde in de ruimste zin van het woord. 
-### *Ad b Bedrijfsuitoefening* 
-
-Onder het begrip ‘bedrijfsuitoefening van een onderneming’ moet ook worden verstaan een persoon die een Amerikaanse onderneming in de openbare lichamen vertegenwoordigt en in dienst van deze onderneming in een sleutelfunctie werkzaam is (zie punt 2 van het Protocol). Een vreemdeling die een vrij beroep uitoefent valt in het algemeen onder de werking van het Verdrag. Beroepsbeoefenaren met een zekere publieke taak, dan wel een functie in de gezondheidszorg of publieke veiligheidsector, worden van de werkingssfeer van het Verdrag uitgesloten. De werkzaamheden die iemand uitoefent, zijn daarom van belang bij de bepaling of de vreemdeling onder werking van het Verdrag valt. 
+5. ongewenstverklaring.   Op grond van artikel II, vierde lid, van het Verdrag laten de bepalingen van dat artikel namelijk het recht van ieder der Partijen onverlet om maatregelen toe te passen, welke noodzakelijk zijn ter handhaving van de openbare orde en ter bescherming van de volksgezondheid, de goede zeden en de veiligheid. Zoals blijkt uit de memorie van antwoord (Kamerstukken I, 1956–57, nr. 4338 (R38), nr. 140a, p2, rechter kolom) moet onderscheid worden gemaakt tussen het begrip ‘openbare orde’ in het Nederlandse staatsrecht en ditzelfde begrip in verdragen als het onderwerpelijke. Onder ‘maatregelen ter handhaving van de openbare orde’ in de zin van artikel II, vierde lid, van het Verdrag moeten niet alleen incidentele overheidsmaatregelen te voorkoming van onmiddellijk dreigende ordeverstoring worden begrepen, maar ook wettelijke bepalingen welke zijn geschreven met het oog op de handhaving van de openbare orde in de ruimste zin van het woord.  *Ad b Bedrijfsuitoefening*  Onder het begrip ‘bedrijfsuitoefening van een onderneming’ moet ook worden verstaan een persoon die een Amerikaanse onderneming in de openbare lichamen vertegenwoordigt en in dienst van deze onderneming in een sleutelfunctie werkzaam is (zie punt 2 van het Protocol). Een vreemdeling die een vrij beroep uitoefent valt in het algemeen onder de werking van het Verdrag. Beroepsbeoefenaren met een zekere publieke taak, dan wel een functie in de gezondheidszorg of publieke veiligheidsector, worden van de werkingssfeer van het Verdrag uitgesloten. De werkzaamheden die iemand uitoefent, zijn daarom van belang bij de bepaling of de vreemdeling onder werking van het Verdrag valt. 
 ### *Aanzienlijk kapitaal* 
 
 Hieronder volgt een uitleg van het begrip ‘aanzienlijk kapitaal’ ten aanzien van de diverse mogelijke ondernemingsvormen. 
@@ -2898,18 +2877,9 @@ c. Commanditaire vennootschap: voor de beherende vennoot geldt hetzelfde als bij
 
 d. Besloten vennootschap (BV): ten minste 25% van het gestorte kapitaal. Het gestorte kapitaal is in de openbare lichamen ten minste USD 18.000, zodat het ‘aanzienlijk kapitaal’ ten minste USD 4.500 zal beslaan.  
 
-e. Naamloze vennootschap (NV): ten minste 25% van het gestorte kapitaal. Het gestorte kapitaal is in de openbare lichamen ten minste USD 45.000, zodat het ‘aanzienlijk kapitaal’ ten minste USD 11.250 zal beslaan.  
+e. Naamloze vennootschap (NV): ten minste 25% van het gestorte kapitaal. Het gestorte kapitaal is in de openbare lichamen ten minste USD 45.000, zodat het ‘aanzienlijk kapitaal’ ten minste USD 11.250 zal beslaan.  
 
-f. Andere ondernemingsvormen: per geval bekijken.   Het moet gaan om eigen kapitaal, niet om geleend geld. Het belegde ‘aanzienlijk kapitaal’ moet op peil worden gehouden. Dit houdt in dat het kapitaal nooit lager mag zijn dan het voor de desbetreffende ondernemingsvorm geldende minimum. De vreemdeling moet ter onderbouwing van zijn aanvraag recente cijfers overleggen die zijn gecontroleerd door een daartoe bevoegde externe deskundige. De onderneming moet zijn ingeschreven in het handelsregister op het betreffende openbare lichaam met een omschrijving van het bedrijf of de bedrijven die in de onderneming worden uitgeoefend. 
-### *Ad a:* 
-
-Bij een eenmanszaak kan het aanzienlijk kapitaal worden aangetoond met enerzijds een bankafschrift van de onderneming waarop het geïnvesteerde geldbedrag staat én anderzijds de (openings)balans waarop het bedrag staat vermeld achter de rekening ‘Eigen vermogen’ (= de schuld van de zaak aan de eigenaar). 
-### *Ad b:* 
-
-Bij een VoF kan het aanzienlijk kapitaal worden aangetoond met enerzijds een oprichtingsakte (of contract) waarin staat hoe groot de financiële deelname is van iedere vennoot en anderzijds de (openings)balans waarin aan de rechterkant (credit) de rekeningen staan met de bedragen zoals die in de oprichtingsakte staan vermeld. Deze rekeningen heten ‘Vermogen’ en dan de eigen naam van de vennoot. Bij een VoF wordt het woord ‘Eigen’ weggelaten en wordt in plaats daarvan de naam van de vennoot eraan toegevoegd. Dus bijvoorbeeld *‘Vermogen Robinson 100.000 ’.* Er kan ook een bankafschrift van de onderneming worden gevraagd als bewijs dat het geld daadwerkelijk is overgemaakt. 
-### *Ad c. en d:* 
-
-Bij een BV en een NV kan het aanzienlijk kapitaal worden aangetoond met de oprichtingsakte.    
+f. Andere ondernemingsvormen: per geval bekijken.   Het moet gaan om eigen kapitaal, niet om geleend geld. Het belegde ‘aanzienlijk kapitaal’ moet op peil worden gehouden. Dit houdt in dat het kapitaal nooit lager mag zijn dan het voor de desbetreffende ondernemingsvorm geldende minimum. De vreemdeling moet ter onderbouwing van zijn aanvraag recente cijfers overleggen die zijn gecontroleerd door een daartoe bevoegde externe deskundige. De onderneming moet zijn ingeschreven in het handelsregister op het betreffende openbare lichaam met een omschrijving van het bedrijf of de bedrijven die in de onderneming worden uitgeoefend.  *Ad a:*  Bij een eenmanszaak kan het aanzienlijk kapitaal worden aangetoond met enerzijds een bankafschrift van de onderneming waarop het geïnvesteerde geldbedrag staat én anderzijds de (openings)balans waarop het bedrag staat vermeld achter de rekening ‘Eigen vermogen’ (= de schuld van de zaak aan de eigenaar).  *Ad b:*  Bij een VoF kan het aanzienlijk kapitaal worden aangetoond met enerzijds een oprichtingsakte (of contract) waarin staat hoe groot de financiële deelname is van iedere vennoot en anderzijds de (openings)balans waarin aan de rechterkant (credit) de rekeningen staan met de bedragen zoals die in de oprichtingsakte staan vermeld. Deze rekeningen heten ‘Vermogen’ en dan de eigen naam van de vennoot. Bij een VoF wordt het woord ‘Eigen’ weggelaten en wordt in plaats daarvan de naam van de vennoot eraan toegevoegd. Dus bijvoorbeeld ‘Vermogen Robinson 100.000 ’. Er kan ook een bankafschrift van de onderneming worden gevraagd als bewijs dat het geld daadwerkelijk is overgemaakt.  *Ad c. en d:*  Bij een BV en een NV kan het aanzienlijk kapitaal worden aangetoond met de oprichtingsakte.   
 ### 2.2  
 
 ####Vereiste bescheiden arbeid als zelfstandige op grond van het Verdrag
@@ -2920,7 +2890,7 @@ a. een ingevuld en ondertekend aanvraagformulier;
 
 b. kopie geldig document voor grensoverschrijding;  
 
-c. een recent en origineel uittreksel van de inschrijving van de onderneming/ het bedrijf in het handelsregister van de Kamer van Koophandel;  
+c. een recent en origineel uittreksel van de inschrijving van de onderneming/het bedrijf in het handelsregister van de Kamer van Koophandel;  
 
 d. bewijsstukken waar de ondernemingsvorm uit blijkt;  
 
@@ -2934,7 +2904,7 @@ h. bewijs van goed gedrag (niet ouder dan 3 maanden);
 
 i. bewijs onderzoek TBC;  
 
-j. bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).      
+j. bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).     
 ### 2.3  
 
 ####Vereiste bescheiden arbeid in loondienst als sleutelpersoneel op grond van het Verdrag
@@ -2947,7 +2917,7 @@ b. kopie geldig document voor grensoverschrijding;
 
 c. een kopie van de arbeidsovereenkomst;  
 
-d. een ingevulde en ondertekende werkgeversverklaring (zie model MBES29 CTU-BES) niet ouder dan 3 maanden  
+d. een ingevulde en ondertekende werkgeversverklaring (zie model MBES29 CTU-BES) niet ouder dan 3 maanden;  
 
 e. kopie paspoort werkgever;  
 
@@ -2963,7 +2933,7 @@ j. bewijs van goed gedrag (niet ouder dan 3 maanden);
 
 k. bewijs onderzoek TBC;  
 
-l. bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).       
+l. bewijs ziektekostenverzekering (geïntegreerd in het aanvraagformulier).      
 ### 3  
 
 ####Arbeid in loondienst
@@ -2973,7 +2943,7 @@ Als een Amerikaanse vreemdeling (hoofdpersoon) die op grond van het Verdrag in d
 
 ####Gezinshereniging
 
-Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationaliteit – van een persoon die op grond van artikel II, eerste lid, onder a of b, van het Verdrag is toegelaten (de hoofdpersoon), kan verblijf worden toegestaan, indien zij hem vergezellen of voor gezinshereniging nareizen. Het verblijf van de echtgeno(o)t(e) of ongehuwd minderjarig kind van de hoofdpersoon, ongeacht hun nationaliteit, kan met toepassing van artikel 9 WTU-BES worden geweigerd, met uitzondering van het middelenvereiste (artikel 9, eerste lid, aanhef en onder c, WTU-BES). Dit geldt, zolang de hoofdpersoon voldoet aan de voorwaarden van het Verdrag, zowel voor eerste toelating als ook voor de verlengingsaanvraag van de gezinsleden.    
+Aan de echtgeno(o)t(e) of ongehuwd minderjarig kind – ongeacht hun nationaliteit – van een persoon die op grond van artikel II, eerste lid, onder a of b, van het Verdrag is toegelaten (de hoofdpersoon), kan verblijf worden toegestaan, indien zij hem vergezellen of voor gezinshereniging nareizen. Het verblijf van de echtgeno(o)t(e) of ongehuwd minderjarig kind van de hoofdpersoon, ongeacht hun nationaliteit, kan met toepassing van artikel 9 WTU-BES worden geweigerd, met uitzondering van het middelenvereiste (artikel 9, eerste lid, aanhef en onder c, WTU-BES). Dit geldt, zolang de hoofdpersoon voldoet aan de voorwaarden van het Verdrag, zowel voor eerste toelating als ook voor de verlengingsaanvraag van de gezinsleden.   
 ### 5  
 
 ####Beperking, arbeidsmarktaantekening en voorschrift
@@ -2991,7 +2961,7 @@ a. ‘arbeid als zelfstandige voor (naam onderneming) op grond van het Nederland
 b. ‘arbeid in loondienst als vertegenwoordiger van (naam vertegenwoordigde) op grond van het Nederlands-Amerikaans Vriendschapsverdrag’.   
 ### *Afhankelijke gezinsleden* 
 
-De afhankelijke verblijfsvergunning voor bepaalde tijd aan echtgenoten en de minderjarige kinderen wordt verleend onder de beperking: ‘Verblijf bij .............. (naam hoofdpersoon).’    
+De afhankelijke verblijfsvergunning voor bepaalde tijd aan echtgenoten en de minderjarige kinderen wordt verleend onder de beperking: ‘Verblijf bij .............. (naam hoofdpersoon).’   
 ### 5.2  
 
 ####Voorschrift

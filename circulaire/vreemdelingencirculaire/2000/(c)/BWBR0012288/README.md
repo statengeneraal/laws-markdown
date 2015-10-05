@@ -1250,7 +1250,7 @@ In deze paragraaf zijn beleidsregels opgenomen die een uitwerking zijn van de vo
 
 * in dat land is eerstelijns of directe familie woonachtig van de vreemdeling, waarmee nog contact is; of  
 
-* de vreemdeling heeft eerder in dat land verbleven.   De IND neemt in ieder geval aan dat een derde land niet als veilig kan worden aangemerkt wanneer voor dat land een besluitmoratorium als bedoeld in artikel 43 Vw van toepassing is. De IND kan een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd alleen niet-ontvankelijk verklaren op grond van artikel 30a, eerste lid, onder c, Vw, als het land voorkomt op een lijst van landen die als bijlage bij het VV is opgenomen. De IND verklaart een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd alleen niet-ontvankelijk op grond van artikel 30a, eerste lid, onder c, Vw indien er redenen zijn om aan te nemen dat de vreemdeling daadwerkelijk wordt toegelaten tot het veilige derde land.
+* de vreemdeling heeft eerder in dat land verbleven.   De IND neemt in ieder geval aan dat een derde land niet als veilig kan worden aangemerkt wanneer voor dat land een besluitmoratorium als bedoeld in artikel 43 Vw van toepassing is. De IND verklaart een aanvraag om een verblijfsvergunning asiel voor bepaalde tijd alleen niet-ontvankelijk op grond van artikel 30a, eerste lid, onder c, Vw indien er redenen zijn om aan te nemen dat de vreemdeling wordt toegelaten tot het veilige derde land.
 ### 6.4  
 
 ####Opvolgende aanvraag zonder nieuwe elementen of bevindingen
@@ -1636,7 +1636,7 @@ Bij het beoordelen van de toerekenbaarheid betrekt de IND of de vreemdeling een 
 De IND vermeldt op de verblijfsvergunning asiel voor bepaalde tijd de arbeidsmarktbeperking: ‘Arbeid vrij toegestaan; TWV niet vereist’. 
 ###Geldigheidsduur
 
-Voor de bepalingen over de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd wordt verwezen naar artikel 3.105, eerste lid, Vb. De IND verlengt de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd met vijf jaar, tenzij zich één van de gronden van artikel 32 Vw voordoet, van de vreemdeling die vijf achtereenvolgende jaren rechtmatig verblijf heeft gehad op basis van artikel 8, onder c, Vw, maar niet in aanmerking komt voor een verblijfsvergunning asiel voor onbepaalde tijd. 
+Voor de bepalingen over de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd wordt verwezen naar artikel 3.105, eerste lid, Vb. De IND verlengt de geldigheidsduur van de verblijfsvergunning asiel voor bepaalde tijd met vijf jaar, tenzij zich één van de gronden van artikel 32 Vw voordoet, van de vreemdeling die vijf achtereenvolgende jaren rechtmatig verblijf heeft gehad op basis van artikel 8, onder c, Vw, maar niet in aanmerking komt voor een verblijfsvergunning asiel voor onbepaalde tijd. De verlenging van de geldigheidsduur van de vergunning asiel voor bepaalde tijd met vijf jaar geldt tevens als de aanvraag van de verblijfsvergunning voor onbepaalde tijd buiten behandeling wordt gesteld vanwege het niet voldoen van het legesbedrag. 
 ###Verblijfsdocument
 
 De IND reikt op grond van artikel 9 Vw het verblijfsdocument waaruit het rechtmatig verblijf blijkt uit aan het IND loket dat zich het dichtst bij de woon- of verblijfplaats van de vreemdeling bevindt. De vreemdeling kan een aanvraag indienen tot het vervangen of vernieuwen van het verblijfsdocument waaruit zijn rechtmatig verblijf blijkt om redenen als genoemd in artikel 4.22 Vb. De vreemdeling dient de aanvraag in bij een door de IND opgegeven postadres dat de IND via zijn website of het aanvraagformulier kenbaar maakt. De IND maakt op zijn website of op het aanvraagformulier eveneens kenbaar op welke wijze de vreemdeling de leges moet betalen. De vreemdeling dient de aanvraag in met het vereiste aanvraagformulier, dat bij de IND verkrijgbaar is.  
@@ -2050,7 +2050,7 @@ De IND verleent een verblijfsvergunning asiel voor bepaalde tijd op grond van ar
 
 1. zij heeft in Afghanistan geen echtgenoot (meer) met wie zij kan gaan samenleven; en,  
 
-2. zij kan bij terugkeer naar Afghanistan niet meer terug naar het ouderlijk gezin omdat de gezinsband als verbroken moet worden aangemerkt.   
+2. zij kan bij terugkeer naar Afghanistan niet meer terug naar het ouderlijk gezin omdat de gezinsband als verbroken moet worden aangemerkt of terugkeer naar het ouderlijk gezin niet mogelijk is.   
 ### *Ad. 2.* 
 
 De IND merkt de gezinsband in elk geval aan als verbroken, als: 
@@ -3053,7 +3053,7 @@ Geen bijzonderheden.
 Geen bijzonderheden.   
 ### 13.4.3  
 
-####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc
+####Kwetsbare minderheidsgroepen in de zin van paragraaf C2/3.3 Vc 
 
 De IND merkt uitsluitend de volgende groepen aan als kwetsbare minderheidsgroep: 
 
@@ -3078,14 +3078,14 @@ De IND merkt een Iraakse vrouw aan als alleenstaand als zij voldoet aan alle vol
 
 1. zij heeft in Irak geen echtgenoot (meer) met wie zij kan gaan samenleven; en  
 
-2. zij kan bij terugkeer naar Irak niet meer terug naar het ouderlijk gezin omdat de gezinsband als verbroken moet worden aangemerkt.   
+2. zij kan bij terugkeer naar Irak niet meer terug naar het ouderlijk gezin omdat de gezinsband als verbroken moet worden aangemerkt of terugkeer naar het ouderlijk gezin niet mogelijk is.   
 ### *Ad 2.* 
 
 De IND merkt de gezinsband in elk geval aan als verbroken, als: 
 
 * de Iraakse vrouw deel is gaan uitmaken van een ander gezin dan haar ouderlijk gezin; of  
 
-* de Iraakse vrouw zelfstandig is gaan wonen.      
+* de Iraakse vrouw zelfstandig is gaan wonen.   Uitzondering op de regel dat een alleenstaande vrouw bij terugkeer een reëel risico loopt, betreft vrouwen ten aanzien van wie het evident is dat bescherming op grond van haar alleenstaande status niet nodig is.    
 ### 13.5  
 
 ####Bescherming

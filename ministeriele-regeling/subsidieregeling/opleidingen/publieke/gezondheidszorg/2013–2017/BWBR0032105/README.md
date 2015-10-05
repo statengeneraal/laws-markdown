@@ -120,16 +120,16 @@ E.I. Schippers
 
 ### Bijlage  
 
-Subsidiebedrag per voltijdse opleidingsplaats 
+####Subsidiebedrag per voltijdse opleidingsplaats
 
 | nr.  | zorgopleiding  | Subsidiebedrag per voltijdse opleidingsplaats  |
 |:---|:---|:---|
-| 1.  | Arts infectieziektebestrijding 1<sup>e</sup> fase  | €79.500  |
-| 2.  | Arts infectieziektebestrijding 2<sup>e</sup> fase  | €79.500  |
-| 3.  | Arts tbc-bestrijding 1<sup>e</sup> fase  | €79.500  |
-| 4.  | Arts tbc-bestrijding 2<sup>e</sup> fase  | €79.500  |
-| 5.  | Jeugdarts 1<sup>e</sup> fase  | €69.000  |
-| 6.  | Jeugdarts 2<sup>e</sup> fase  | €69.000  |
-| 7.  | Medisch milieukundige 1<sup>e</sup> fase  | €79.500  |
-| 8.  | Medisch Milieukundige 2<sup>e</sup> fase  | €79.500  |
+| 1.  | Arts infectieziektebestrijding 1<sup>e</sup> fase  | € 79.540  |
+| 2.  | Arts infectieziektebestrijding 2<sup>e</sup> fase  | € 79.540  |
+| 3.  | Arts tbc-bestrijding 1<sup>e</sup> fase  | € 79.540  |
+| 4.  | Arts tbc-bestrijding 2<sup>e</sup> fase  | € 79.540  |
+| 5.  | Jeugdarts 1<sup>e</sup> fase  | € 69.040  |
+| 6.  | Jeugdarts 2<sup>e</sup> fase  | € 69.040  |
+| 7.  | Medisch milieukundige 1<sup>e</sup> fase  | € 79.540  |
+| 8.  | Medisch Milieukundige 2<sup>e</sup> fase  | € 79.540  |
 

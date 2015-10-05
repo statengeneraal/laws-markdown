@@ -68,7 +68,9 @@ J. P. H.Donner
 
 ####Ministerie van Veiligheid en Justitie:
 
-– Landelijk selectie- en opleidingsinstituut politie, Politie onderwijs- en kenniscentrum (LSOP/Politieacademie); 
+– Centraal orgaan opvang asielzoekers (COA); 
+
+– Politieacademie; 
 
 – Instituut Fysieke Veiligheid (IFV); 
 
@@ -92,10 +94,6 @@ J. P. H.Donner
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties:
 
-– Centraal Fonds voor de Volkshuisvesting;  
-
-– Centraal orgaan opvang asielzoekers (COA);  
-
 – Stichting Administratie Indonesische Pensioenen.   
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap:
@@ -106,21 +104,21 @@ J. P. H.Donner
 
 – Koninklijke Nederlandse Academie van Wetenschappen;  
 
-– Mondriaan Stichting;  
+– Stichting Mondriaan Fonds;  
 
 – Nederlandse Organisatie voor Wetenschappelijk Onderzoek en de daaraan geliëerde rechtspersoonlijkheid bezittende instellingen;  
 
 – Stichting fonds voor beeldende kunsten, vormgeving en bouwkunst;  
 
-– Stichting Fonds voor de Letteren;  
+– Nederlands Letterenfonds;  
 
 – Stichting Nederlands fonds voor de film;  
 
 – Stichting Participatiefonds voor het Onderwijs;  
 
-–Stichting Stimuleringsfonds Nederlandse Culturele Omroepproducties (Stifo);
+–Stichting Stimuleringsfonds Nederlandse culturele mediaproducties (Mediafonds);
 
-– Stichting stimuleringsfonds voor de architectuur;  
+– Stichting Stimuleringsfonds Creatieve Industrie;  
 
 – Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs.  
 
@@ -140,7 +138,9 @@ J. P. H.Donner
 
 – Stichting Beleggers Compensatiefonds; 
 
-– Stichting administratiekantoor beheer staatsdeelnemingen (NLFI).  
+– Stichting administratiekantoor beheer financiële instellingen (NLFI); 
+
+– Waarderingskamer.  
 
 ####Ministerie van Defensie
 
@@ -182,17 +182,19 @@ J. P. H.Donner
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport:
 
-– Centrum indicatiestelling zorg (CIZ); 
+– CIZ; 
 
 – Nederlandse Zorgautoriteit (NZA); 
 
-– Organisatie ZorgOnderzoek Nederland;  
+– ZorgOnderzoek Nederland (ZoN);  
 
 – Pensioen- en Uitkeringsraad;  
 
 – Stichting Uitvoering Omslagregelingen;  
 
-– Zorginstituut Nederland, uitsluitend voor de apparaatsgelden.  
+– Zorginstituut Nederland, uitsluitend voor de apparaatsgelden; 
+
+– CAK.  
 
 ####A2-lijst: Rechtspersonen met een publieke taak die verplicht zijn aangewezen op grond van artikel 45, derde lid, Comptabiliteitswet 2001
 
@@ -207,10 +209,6 @@ J. P. H.Donner
 – Stichting Nationaal Groenfonds.   
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport:
-
-– Centraal administratiekantoor bv (CAK);
-
-– Stichting Rechtsherstel Sinti en Roma.   
 
 ####A3-lijst: Rechtspersonen met een publieke, al dan niet wettelijke, taak die vrijwillig zijn aangewezen op grond van artikel 45, derde lid, Comptabiliteitswet 2001
 
@@ -242,9 +240,7 @@ J. P. H.Donner
 
 ####Ministerie van Onderwijs, Cultuur en Wetenschap en Ministerie van Economische Zaken:
 
-– bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd;  
-
-– kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in de Wet educatie en beroepsonderwijs, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd; 
+– bekostigde onderwijsinstellingen, bedoeld in de onderwijswetgeving, die bij Onze Minister van Financiën schriftelijk het verzoek indienen om voor de toepassing van artikel 45, eerste lid, van de Comptabiliteitswet 2001 in aanmerking te komen en waarvan Onze Minister van Financiën dit verzoek heeft gehonoreerd.  
 
 ### Bijlage B 
 
@@ -260,11 +256,11 @@ J. P. H.Donner
 
 * Stichting Frentrop Teylingereind (in Sassenheim); 
 
-* Stichting Rentray (in Eefde);  
+* Stichting LSG-Rentray (in Eefde);  
 
 * Stichting Spirit (in Amsterdam);  
 
-* Stichting Het Poortje Justitiële Jeugdinrichting (in Groningen);  
+* Stichting Het Poortje Jeugdinrichting (in Groningen);  
 
 * Stichting Jeugdzorg St. Jozeph (in Cadier en Keer);   tenzij de betrokken jeugdzorginstelling behoort tot de categorie gesloten jeugdzorginstellingen als bedoeld in de A2-lijst.  
 
@@ -272,21 +268,15 @@ J. P. H.Donner
 
 – Stichting Bureau Architectenregister (SBA).  
 
-####Ministerie van Financiën:
-
-– Waarderingskamer. 
-
 ####Ministerie van Infrastructuur en Milieu:
 
 – Stichting Advisering Bestuursrechtspraak voor Milieu en Ruimtelijke Ordening; 
 
 – Stichting VAM, Opleidingsinstituut voor het Motorvoertuig-, Tweewieler- en Aanverwant Bedrijf;  
 
-– Stichting inschrijving Eigen Vervoer;  
+– Stichting Afvalstoffen en Vaardocumenten Binnenvaart (SAB);  
 
-– Stichting Scheepsafvalstoffen Binnenvaart;  
-
-–Stichting Vaarbewijzen- en Marifoonexamens (Vamex). 
+–Stichting Vamex. 
 
 ####Ministerie van Economische Zaken:
 
@@ -304,9 +294,9 @@ J. P. H.Donner
 
 – Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten (CPE);  
 
-– Stichting Kwaliteitscontrolebureau voor Groenten en Fruit (KCB);  
+– Stichting Kwaliteits-Controle-Bureau (KCB);  
 
-– Stichting Nederlandse Algemene Keuringsdienst Tuinbouw (Naktuinbouw);  
+– Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw;  
 
 – Stichting Nederlandse Algemene Keuringsdienst voor Zaaizaad en Pootgoed voor Landbouwgewassen (NAK);  
 
@@ -316,25 +306,21 @@ J. P. H.Donner
 
 ####Ministerie van Volksgezondheid, Welzijn en Sport:
 
-–College bouw zorginstellingen (CBZ);
-
 –College sanering zorginstellingen (CSZ);
 
 –Nederlandse Zorgautoriteit;
 
 – De particuliere justitiële jeugdinrichtingen: 
 
-* Stichting Orthopedagogisch Centrum Ottho Gerhard Heldring (in Zetten);  
+* Stichting Ottho Gerhard Heldring en Ambulatorium;  
 
-* Stichting Horizon, Instituut voor Jeugdzorg en Onderwijs (in Rotterdam en Zutphen);  
+* Stichting Horizon, Instituut voor Jeugdzorg en Onderwijs;  
 
 * Stichting Tender (in Breda);  
 
 * Stichting BJ Brabant (in Deurne);  
 
 * Stichting de Hoenderloo Groep (in Hoenderloo);  
-
-* Stichting Jeugdformaat-De Jutters Combinatie (in Den Haag);  
 
 * Stichting PARLAN (in Alkmaar);   tenzij de betrokken jeugdzorginstelling behoort tot de categorie gesloten jeugdzorginstellingen als bedoeld in de A2-lijst  
 
@@ -375,4 +361,10 @@ J. P. H.Donner
 * Stichting Rijksmuseum voor Volkenkunde;  
 
 * Stichting Rijksmuseum het Zuiderzeemuseum;   tenzij het betrokken museum behoort tot de categorie musea als bedoeld in onderdeel 2 van bijlage A bij het *Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.* 
+
+####Ministerie van Defensie
+
+– Stichting Defensiemusea;  
+
+– Stichting Wetenschappelijk Onderwijs en Onderzoek NLDA (SWOON).  
 
