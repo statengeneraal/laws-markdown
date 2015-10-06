@@ -11,7 +11,7 @@ In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in artikel 
 ### Artikel  2  
 
 1.  Ingesteld wordt een Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties.   
-2.  De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) toegestaan.  
+2.  De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van artikel 149, eerste lid, van de Wegenverkeerswet 1994, ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de Regeling voertuigen toegestaan.  
 
 ### Artikel  3  
 
@@ -56,9 +56,9 @@ In deze toetsingscriteria wordt verstaan onder:
 
 a. vrachtautocombinatie: bepaald samenstel van een trekkend voertuig met een of meer aanhangwagens;  
 
-b. ondernemer: natuurlijke persoon, vennootschap zonder rechtspersoonlijkheid, maatschap of rechtspersoon, voor wiens rekening en risico beroepsvervoer of eigen vervoer in de zin van de [Wet goederenvervoer over de weg](../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md) wordt verricht;  
+b. ondernemer: natuurlijke persoon, vennootschap zonder rechtspersoonlijkheid, maatschap of rechtspersoon, voor wiens rekening en risico beroepsvervoer of eigen vervoer in de zin van de Wet goederenvervoer over de weg wordt verricht;  
 
-c. gevaarlijke stoffen: gevaarlijke stoffen, genoemd in [bijlage A van bijlage 1 van de Regeling vervoer over land van gevaarlijke stoffen](../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), in grotere hoeveelheden dan die genoemd in de randnummers eindigende op 1a van de betreffende klasse van gevaarlijke stoffen;  
+c. gevaarlijke stoffen: gevaarlijke stoffen, genoemd in bijlage A van bijlage 1 van de Regeling vervoer over land van gevaarlijke stoffen, in grotere hoeveelheden dan die genoemd in de randnummers eindigende op 1a van de betreffende klasse van gevaarlijke stoffen;  
 
 d. configuratie: type gevormd samenstel. Onderscheiden kunnen onder meer worden: trekker-oplegger-middenasaanhangwagen, vrachtauto-aanhangwagen, waaronder vrachtauto-dolly-oplegger, en trekker-oplegger-oplegger, een zogenaamde B.-double;  
 
@@ -69,16 +69,16 @@ f. 45 containers: ISO-genormeerde containers met een afmeting van 45 Engelse voe
 g. Minister: Minister van Verkeer en Waterstaat.   
 ### *§ 2. Algemene verplichtingen:* 
 
-In de periode van 1 maart 2004 tot 1 november 2006 wordt een proef met langere en langere en zwaardere vrachtautocombinaties gehouden waarvoor een beperkt aantal ontheffingen zullen worden afgegeven op basis van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). Deelname aan de proef is toegestaan met vrachtautocombinaties: 
+In de periode van 1 maart 2004 tot 1 november 2006 wordt een proef met langere en langere en zwaardere vrachtautocombinaties gehouden waarvoor een beperkt aantal ontheffingen zullen worden afgegeven op basis van artikel 149, eerste lid, van de Wegenverkeerswet 1994. Deelname aan de proef is toegestaan met vrachtautocombinaties: 
 
 1. die beschikken over ten hoogste twee draaipunten;  
 
 2. die een minimale lengte van de laadruimte, bedoeld in bijlage 1, onder 1.7, van richtlijn nr. 96/53/EEG, hebben van tenminste 18,00 m. Indien als laadeenheden containers worden gebruikt, dient de vrachtautocombinatie geschikt te zijn voor het vervoer van 3 TEU<sup>3TEU = Twenty Feet Equivalent Unit, de standaard maat van een ISO-container .</sup>; en   
 
 3. 
-a. die langer zijn dan de op grond van [artikel 5.18.11, tweede lid, van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), toegestane lengte van 18,75 m, met een maximum van 25,25 m; of  
+a. die langer zijn dan de op grond van artikel 5.18.11, tweede lid, van de Regeling voertuigen, toegestane lengte van 18,75 m, met een maximum van 25,25 m; of  
 
-b. die langer zijn dan de op grond van [artikel 5.18.11, tweede lid, van het Voertuigreglement](../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), toegestane lengte van 18,75 m, met een maximum van 25,25 m en zwaarder zijn dan de op grond van [artikel 5.18.17b, van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), toegestane totale massa van 50.000 kg, met een totale maximum massa van 60.000 kg. en waarvan de aslasten niet meer bedragen dan gesteld in [artikel 5.18.17d, van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).     Het rijden met vrachtautocombinaties die aan de praktijkproef deelnemen kan op elk tijdstip geschieden, maar is niet toegestaan tijdens buitengewone omstandigheden. De volgende zaken mogen niet met de vrachtautocombinaties worden vervoerd: 
+b. die langer zijn dan de op grond van artikel 5.18.11, tweede lid, van het Voertuigreglement, toegestane lengte van 18,75 m, met een maximum van 25,25 m en zwaarder zijn dan de op grond van artikel 5.18.17b, van de Regeling voertuigen, toegestane totale massa van 50.000 kg, met een totale maximum massa van 60.000 kg. en waarvan de aslasten niet meer bedragen dan gesteld in artikel 5.18.17d, van de Regeling voertuigen.     Het rijden met vrachtautocombinaties die aan de praktijkproef deelnemen kan op elk tijdstip geschieden, maar is niet toegestaan tijdens buitengewone omstandigheden. De volgende zaken mogen niet met de vrachtautocombinaties worden vervoerd: 
 
 * gevaarlijke stoffen;  
 
@@ -113,7 +113,7 @@ A. De ondernemer is verplicht om dagelijks een ritformulier te doen invullen. De
 
 ####CRITERIA AAN DE BESTUURDER
 
-1. De bestuurder van een vrachtautocombinatie dient in het bezit te zijn van een geldig rijbewijs voor het besturen van motorrijtuigen van de rijbewijscategorieën C en E, alsmede van een getuigschrift van vakbekwaamheid voor het besturen van een vrachtauto. 2. De bestuurder beschikt over een geldig certificaat van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, op grond van een met goed gevolg afgelegd aanvullend theorie-examen en aanvullend praktijkexamen voor het besturen van een betrokken vrachtautocombinatie. Daarbij wordt in het bijzonder gelet op het rekening houden met de belangen van andere weggebruikers, op de mentaliteit van de bestuurder en op de noodzaak van milieubewust en energiezuinig rijden. 3. Voorafgaand aan het afleggen van het examen dient een kandidaat schriftelijk te verklaren dat hij voldoet aan de navolgende eisen: 
+1. De bestuurder van een vrachtautocombinatie dient in het bezit te zijn van een geldig rijbewijs voor het besturen van motorrijtuigen van de rijbewijscategorieën C en E, alsmede van een getuigschrift van vakbekwaamheid voor het besturen van een vrachtauto. 2. De bestuurder beschikt over een geldig certificaat van de Centraal Bureau Rijvaardigheidsbewijzen, op grond van een met goed gevolg afgelegd aanvullend theorie-examen en aanvullend praktijkexamen voor het besturen van een betrokken vrachtautocombinatie. Daarbij wordt in het bijzonder gelet op het rekening houden met de belangen van andere weggebruikers, op de mentaliteit van de bestuurder en op de noodzaak van milieubewust en energiezuinig rijden. 3. Voorafgaand aan het afleggen van het examen dient een kandidaat schriftelijk te verklaren dat hij voldoet aan de navolgende eisen: 
 
 a. de bestuurder heeft ten minste vijf jaren ervaring met het besturen van een vrachtautocombinatie vallend onder rijbewijs C-E;  
 

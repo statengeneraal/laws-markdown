@@ -7,21 +7,21 @@ Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
 Gelet op:
 
-– [artikel 29, derde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), – [artikel 29a, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), 
+– artikel 29, derde lid, – artikel 29a, van de Wet op het voortgezet onderwijs, 
 
-– [artikel 10, zesde lid](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), 
+– artikel 10, zesde lid, 
 
-– [artikel 52, vierde lid](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), 
+– artikel 52, vierde lid, 
 
-– [artikel 52a, vierde lid](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en 
+– artikel 52a, vierde lid, en 
 
-– [artikel 53, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), 
+– artikel 53, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., 
 
-– [artikel 11, zesde lid](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), 
+– artikel 11, zesde lid, 
 
-– [artikel 30, vijfde lid](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), en 
+– artikel 30, vijfde lid, en 
 
-– [artikel 31, derde lid, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md). 
+– artikel 31, derde lid, van het Besluit staatsexamens vwo-havo-mavo 2000. 
 Besluit:    
 
 ### Artikel  1  
@@ -30,27 +30,27 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. WVO: [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  
+a. WVO: Wet op het voortgezet onderwijs  
 
-b. Eindexamenbesluit: [Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)  
+b. Eindexamenbesluit: Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.  
 
-c. Staatsexamenbesluit: [Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)  
+c. Staatsexamenbesluit: Besluit staatsexamens vwo-havo-mavo 2000  
 
-d. vmbo: voorbereidend middelbaar beroepsonderwijs als bedoeld in [artikel 21 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d. vmbo: voorbereidend middelbaar beroepsonderwijs als bedoeld in artikel 21 van de WVO;  
 
-e. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 van de WVO;  
 
-f. havo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f. havo: hoger algemeen voortgezet onderwijs als bedoeld in artikel 8 van de WVO;  
 
-g. instelling voor educatie en beroepsonderwijs: een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover het betreft door die instelling verzorgde opleidingen v.a.v.o.  
+g. instelling voor educatie en beroepsonderwijs: een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs, voor zover het betreft door die instelling verzorgde opleidingen v.a.v.o.  
 
-h. vavo: voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1., eerste lid, onderdeel a. van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md)  
+h. vavo: voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1., eerste lid, onderdeel a. van de Wet educatie en beroepsonderwijs  
 
 i. waardepapier: beveiligde papiersoort die wordt gebruikt voor de in deze regeling genoemde waardedocumenten  
 
 j. waardedocumenten: de volgende examendocumenten: diploma’s, (deel)cijferlijsten, voorlopige cijferlijsten, certificaten, getuigschriften en bewijs van ontheffing met bijbehorende verklaring  
 
-k.rekentoets: rekentoets als bedoeld in [artikel 29, vijfde lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), respectievelijk [artikel 60, zesde lid, van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+k.rekentoets: rekentoets als bedoeld in artikel 29, vijfde lid, respectievelijk artikel 60, zesde lid, van de WVO 
 
 ### Artikel  2  
 
@@ -128,20 +128,20 @@ Het model voor het bewijs van ontheffing ten behoeve van het voorbereidend weten
 
 ####Intrekking voorafgaande bepalingen
 
-1.   De [regeling Modellen diploma’s v.w.o.-h.a.v.o. profiel](../../../../../../ministeriele-regeling/regeling/modellen/diploma's/v.w.o.-/h.a.v.o./profiel/BWBR0012308/README.md) van 9 maart 2001, kenmerk VO/BOB/2001/10037, wordt ingetrokken.    
-2.  De [regeling Modellen diploma’s voorbereidend middelbaar beroepsonderwijs (vmbo)](../../../../../../ministeriele-regeling/regeling/modellen/diploma's/vmbo/BWBR0013631/README.md) van 23 april 2002, kenmerk VO/BOB-2002/8958, wordt ingetrokken.   
-3.  De in het eerste lid genoemde regeling blijft van toepassing op de volgens de bij of krachtens de [WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 afgelegde (deel)eindexamens en (deel)staatsexamens vwo en havo.   
+1.   De regeling Modellen diploma’s v.w.o.-h.a.v.o. profiel van 9 maart 2001, kenmerk VO/BOB/2001/10037, wordt ingetrokken.    
+2.  De regeling Modellen diploma’s voorbereidend middelbaar beroepsonderwijs (vmbo) van 23 april 2002, kenmerk VO/BOB-2002/8958, wordt ingetrokken.   
+3.  De in het eerste lid genoemde regeling blijft van toepassing op de volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend tot en met 31 juli 2007 afgelegde (deel)eindexamens en (deel)staatsexamens vwo en havo.   
 
 ### Artikel  13  
 
 ####Inwerkingtreding
 
 1.   Deze regeling treedt in werking met ingang van 1 januari 2009.   
-2.  Voor het vwo en havo is deze regeling van toepassing op de examendocumenten van de kandidaten die het eindexamen, staatsexamen of deeleindexamen/deelstaatsexamen vwo of havo hebben afgelegd volgens de bij en krachtens de [WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend vanaf 1 augustus 2007, met dien verstande dat: 
+2.  Voor het vwo en havo is deze regeling van toepassing op de examendocumenten van de kandidaten die het eindexamen, staatsexamen of deeleindexamen/deelstaatsexamen vwo of havo hebben afgelegd volgens de bij en krachtens de WVO gegeven voorschriften zoals luidend vanaf 1 augustus 2007, met dien verstande dat: 
 
 a) een diploma hoger algemeen voortgezet onderwijs volgens die voorschriften voor het eerst in 2009 en een diploma voorbereidend wetenschappelijk onderwijs volgens die voorschriften, voor het eerst in 2010 kan worden verstrekt;  
 
-b) artikel 5 tevens van toepassing is op de examens volgens de bij of krachtens de [WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007.     
+b) artikel 5 tevens van toepassing is op de examens volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend tot en met 31 juli 2007.     
 
 ### Artikel  14  
 
@@ -182,19 +182,19 @@ Op de examendocumenten wordt steeds – voor zover van toepassing – achter het
 
 ####Ondertekening
 
-Ingevolge [artikel 52 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) tekenen de directeur en de secretaris van het eindexamen de diploma’s en de cijferlijsten. De functionarissen die de examendocumenten moeten tekenen zijn en blijven onder alle omstandigheden verantwoordelijk voor de ondertekening. Tenzij anders bepaald door het bevoegd gezag, mogen zij, mits het bevoegd gezag hen die bevoegdheid heeft gegeven, een andere functionaris, die door hen daartoe schriftelijk gemandateerd is, laten tekenen, doch slechts met vermelding van ‘namens deze’ gevolgd door de handtekening, de naam en de functie van de ondertekenaar. De handtekening moet feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. Bovenstaande geldt ook in het geval een school geen directeur kent maar een centrale directie. Op het diploma dient dan voor directeur te worden gelezen de centrale directie. De centrale directie is in dat geval verantwoordelijk voor het ondertekenen van de diploma’s. Het is echter ook mogelijk dat de centrale directie de tekenbevoegdheid overdraagt. Het is vanzelfsprekend dat de mandatering in het examenreglement van de school wordt vermeld om kandidaten en ouders hiervan op de hoogte te stellen. 
+Ingevolge artikel 52 van het Eindexamenbesluit VO tekenen de directeur en de secretaris van het eindexamen de diploma’s en de cijferlijsten. De functionarissen die de examendocumenten moeten tekenen zijn en blijven onder alle omstandigheden verantwoordelijk voor de ondertekening. Tenzij anders bepaald door het bevoegd gezag, mogen zij, mits het bevoegd gezag hen die bevoegdheid heeft gegeven, een andere functionaris, die door hen daartoe schriftelijk gemandateerd is, laten tekenen, doch slechts met vermelding van ‘namens deze’ gevolgd door de handtekening, de naam en de functie van de ondertekenaar. De handtekening moet feitelijk (met pen) geschreven worden. Een gescande of gekopieerde handtekening is niet toegestaan. Bovenstaande geldt ook in het geval een school geen directeur kent maar een centrale directie. Op het diploma dient dan voor directeur te worden gelezen de centrale directie. De centrale directie is in dat geval verantwoordelijk voor het ondertekenen van de diploma’s. Het is echter ook mogelijk dat de centrale directie de tekenbevoegdheid overdraagt. Het is vanzelfsprekend dat de mandatering in het examenreglement van de school wordt vermeld om kandidaten en ouders hiervan op de hoogte te stellen. 
 
 ####Vaknamen
 
-De te hanteren wettelijke benamingen van de vakken staan opgenomen in een bijlage bij de jaarlijks te publiceren [Regeling elementcodetabel voortgezet onderwijs (VO), opleidingentabel volwasseneneducatie en vakcodetabel VO en volwasseneneducatie](../../../../../../ministeriele-regeling/regeling/elementcodetabel/vo/opleidingentabel/volwasseneneducatie/en/etc/BWBR0033587/README.md). De vakbenaming culturele en kunstzinnige vorming van de profielexamens mag worden afgekort tot ckv. 
+De te hanteren wettelijke benamingen van de vakken staan opgenomen in een bijlage bij de jaarlijks te publiceren Regeling elementcodetabel voortgezet onderwijs (VO), opleidingentabel volwasseneneducatie en vakcodetabel VO en volwasseneneducatie. De vakbenaming culturele en kunstzinnige vorming van de profielexamens mag worden afgekort tot ckv. 
 
 ####Cijferlijsten algemeen
 
-De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instellingen voor educatie en beroepsonderwijs, voor zover het betreft door die instellingen verzorgde opleidingen v.a.v.o., geregeld in [artikel 52, eerste lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en voor staatsexamens in [artikel 30, eerste en tweede lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md). Op de cijferlijst voor het (deel)eindexamen/staatsexamen wordt/worden in de cijfer-/beoordelingstabel voor zover van toepassing vermeld: 
+De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instellingen voor educatie en beroepsonderwijs, voor zover het betreft door die instellingen verzorgde opleidingen v.a.v.o., geregeld in artikel 52, eerste lid, van het Eindexamenbesluit VO en voor staatsexamens in artikel 30, eerste en tweede lid, van het Staatsexamenbesluit VO. Op de cijferlijst voor het (deel)eindexamen/staatsexamen wordt/worden in de cijfer-/beoordelingstabel voor zover van toepassing vermeld: 
 
-* de cijfers voor het schoolexamen respectievelijk college-examen en het centraal examen (op één decimaal nauwkeurig) en de eindcijfers (zonder decimalen): [artikel 35 van het Eindexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)/[artikel 15 Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), [artikel 42 Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 20 Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), [artikel 47 Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 24 Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md),  
+* de cijfers voor het schoolexamen respectievelijk college-examen en het centraal examen (op één decimaal nauwkeurig) en de eindcijfers (zonder decimalen): artikel 35 van het Eindexamenbesluit VO/artikel 15 Staatsexamenbesluit VO, artikel 42 Eindexamenbesluit VO/artikel 20 Staatsexamenbesluit VO, artikel 47 Eindexamenbesluit VO en artikel 24 Staatsexamenbesluit VO,  
 
-* het afgeronde cijfer bij ‘cijfers voor het schoolexamen respectievelijk college-examen’ welk cijfer herhaald wordt bij het ‘eindcijfer in cijfers en letters’ indien een vak geen centraal examen kent, maar wordt afgesloten met alleen een schoolexamen respectievelijk college-examen: [artikel 35, eerste lid](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 47, derde lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 15, eerste lid](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) en [artikel 24, derde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md),  
+* het afgeronde cijfer bij ‘cijfers voor het schoolexamen respectievelijk college-examen’ welk cijfer herhaald wordt bij het ‘eindcijfer in cijfers en letters’ indien een vak geen centraal examen kent, maar wordt afgesloten met alleen een schoolexamen respectievelijk college-examen: artikel 35, eerste lid en artikel 47, derde lid, Eindexamenbesluit VO/artikel 15, eerste lid en artikel 24, derde lid, Staatsexamenbesluit VO,  
 
 * het vak of de vakken en het onderwerp of de titel van het profielwerkstuk (zie profielen vwo en havo),  
 
@@ -204,33 +204,33 @@ De afgifte van cijferlijsten is voor scholen voor voortgezet onderwijs en instel
 
 * de beoordeling van het kunstvak en het vak lichamelijke opvoeding uit het gemeenschappelijk deel van de leerweg in het vmbo,  
 
-* volgens welke differentiatie, bedoeld in [artikel 7, derde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) is geëxamineerd in het vmbo,  
+* volgens welke differentiatie, bedoeld in artikel 7, derde lid, van het Eindexamenbesluit VO is geëxamineerd in het vmbo,  
 
 * de eindcijfers voor de examenvakken met inbegrip – voor zover het vwo en havo betreft – van de vakken die deel uitmaken van het combinatiecijfer en het eindcijfer bepaald voor het combinatiecijfer (inclusief het profielwerkstuk),  
 
 * de beoordeling van de maatschappelijke stage, en 
 
-* de uitslag van het eindexamen (zie voor de uitslagbepaling de [artikelen 49](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [50 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikelen 26](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) en [26a van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)).   In de schooljaren 2013–2014 en 2014–2015 wordt het resultaat van de rekentoets op een bijlage bij de cijferlijst vermeld. 
+* de uitslag van het eindexamen (zie voor de uitslagbepaling de artikelen 49 en 50 van het Eindexamenbesluit VO/artikelen 26 en 26a van het Staatsexamenbesluit VO).   In de schooljaren 2013–2014 en 2014–2015 wordt het resultaat van de rekentoets op een bijlage bij de cijferlijst vermeld. 
 
 ####Extra vakken
 
-Indien in meer examenvakken examen is afgelegd dan in de vakken die ten minste samen een eindexamen vormen, worden die vakken vermeld in het vrije deel. Extra vakken die niet bij de vaststelling van de uitslag zijn betrokken worden (op grond van [artikel 52, derde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 30, vierde lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)) in het vrije deel op de cijferlijst vermeld, tenzij de kandidaat daartegen bedenkingen heeft geuit. 
+Indien in meer examenvakken examen is afgelegd dan in de vakken die ten minste samen een eindexamen vormen, worden die vakken vermeld in het vrije deel. Extra vakken die niet bij de vaststelling van de uitslag zijn betrokken worden (op grond van artikel 52, derde lid, van het Eindexamenbesluit VO en artikel 30, vierde lid, van het Staatsexamenbesluit VO) in het vrije deel op de cijferlijst vermeld, tenzij de kandidaat daartegen bedenkingen heeft geuit. 
 
 ####Afronding onderdelen na aanvang van het eerste tijdvak van het centraal examen in het laatste leerjaar
 
-[Artikel 32, vierde en vijfde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) noemt uitzonderingen op de bepaling dat het schoolexamen wordt afgesloten voor de aanvang van het eerste tijdvak van het centraal examen. Hierdoor kan het voorkomen dat een kandidaat uit het laatste leerjaar in alle vakken die met een eindcijfer worden beoordeeld examen heeft afgelegd op grond waarvan de uitslag kan worden vastgesteld, maar niet voldoet aan de aanvullende bepalingen. Het betreft hier de aanvullende bepalingen ten aanzien van de vakken of het sectorwerkstuk waarvoor geen cijfer wordt vastgesteld, maar die ‘voldoende’ of ‘goed’ afgesloten moeten zijn. Deze kandidaat kan niet slagen, maar ontvangt wél een cijferlijst. De uitslag luidt: afgewezen. Voor de onderdelen die niet naar behoren zijn afgerond wordt de vermelding gegeven: ‘n.a.’ (niet afgerond). Betreft dit een vmbo-kandidaat, die de school verlaat, dan ontvangt hij tevens een certificaat. 
+Artikel 32, vierde en vijfde lid, van het Eindexamenbesluit VO noemt uitzonderingen op de bepaling dat het schoolexamen wordt afgesloten voor de aanvang van het eerste tijdvak van het centraal examen. Hierdoor kan het voorkomen dat een kandidaat uit het laatste leerjaar in alle vakken die met een eindcijfer worden beoordeeld examen heeft afgelegd op grond waarvan de uitslag kan worden vastgesteld, maar niet voldoet aan de aanvullende bepalingen. Het betreft hier de aanvullende bepalingen ten aanzien van de vakken of het sectorwerkstuk waarvoor geen cijfer wordt vastgesteld, maar die ‘voldoende’ of ‘goed’ afgesloten moeten zijn. Deze kandidaat kan niet slagen, maar ontvangt wél een cijferlijst. De uitslag luidt: afgewezen. Voor de onderdelen die niet naar behoren zijn afgerond wordt de vermelding gegeven: ‘n.a.’ (niet afgerond). Betreft dit een vmbo-kandidaat, die de school verlaat, dan ontvangt hij tevens een certificaat. 
 
 ####Vak aan andere school
 
-Indien een vak aan een andere school is afgesloten op grond van [artikel 8 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), dan wordt achter het betreffende vak tussen haakjes vermeld: (de naam van de andere school), zoals opgenomen in BRIN. 
+Indien een vak aan een andere school is afgesloten op grond van artikel 8 van het Eindexamenbesluit VO, dan wordt achter het betreffende vak tussen haakjes vermeld: (de naam van de andere school), zoals opgenomen in BRIN. 
 
 ####Vrijstelling of ontheffing
 
-[Artikel 52, vijfde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 30, zesde lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md), regelt de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling heeft of ontheffing is verleend bij het eind/staatsexamen. In alle gevallen waarbij er sprake is van ontheffing of vrijstelling en de vakken zonder vermelding van een cijfer op de cijferlijst worden vermeld, wordt op de plaats voor het cijfer ‘Vr’ vermeld. (Zie ook profielen vwo en havo). Het is ook toegestaan op de plaats voor het cijfer in plaats van ‘Vr’ het woord ‘Vrijstelling’ of ‘Ontheffing’ voluit te vermelden. 
+Artikel 52, vijfde lid, van het Eindexamenbesluit VO/artikel 30, zesde lid, van het Staatsexamenbesluit VO, regelt de vermelding op de cijferlijst van vakken waarvoor de kandidaat vrijstelling heeft of ontheffing is verleend bij het eind/staatsexamen. In alle gevallen waarbij er sprake is van ontheffing of vrijstelling en de vakken zonder vermelding van een cijfer op de cijferlijst worden vermeld, wordt op de plaats voor het cijfer ‘Vr’ vermeld. (Zie ook profielen vwo en havo). Het is ook toegestaan op de plaats voor het cijfer in plaats van ‘Vr’ het woord ‘Vrijstelling’ of ‘Ontheffing’ voluit te vermelden. 
 
 ####Vrijstelling of ontheffing van de rekentoets
 
-Bij een vrijstelling of ontheffing van de rekentoets wordt het eerder behaalde cijfer vermeld op de bijlage bij de cijferlijst ([artikel 52, zesde lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)). Vrijstelling of ontheffing is geregeld in de [artikelen 9 tot en met 13](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [22 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 10 van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md). Kandidaten die in het jaar voorafgaand aan het jaar van invoering van de rekentoets een pilot-rekentoets hebben afgelegd en daarvoor ten minste het cijfer 5 hebben behaald, zijn op grond van het overgangsrecht in [artikel VII, derde lid, van het Besluit van 23 april 2012 tot wijziging van het Eindexamenbesluit VO en het Staatsexamenbesluit VO](../../../../../../AMvB/wijzigingsbesluit/eindexamenbesluit/vo/enz./(examinering/referentieniveaus/etc/BWBR0031573/README.md) (Stb. 2012, 217) vrijgesteld van de rekentoets. 
+Bij een vrijstelling of ontheffing van de rekentoets wordt het eerder behaalde cijfer vermeld op de bijlage bij de cijferlijst (artikel 52, zesde lid, Eindexamenbesluit VO). Vrijstelling of ontheffing is geregeld in de artikelen 9 tot en met 13 of 22 van het Eindexamenbesluit VO en artikel 10 van het Staatsexamenbesluit VO. Kandidaten die in het jaar voorafgaand aan het jaar van invoering van de rekentoets een pilot-rekentoets hebben afgelegd en daarvoor ten minste het cijfer 5 hebben behaald, zijn op grond van het overgangsrecht in artikel VII, derde lid, van het Besluit van 23 april 2012 tot wijziging van het Eindexamenbesluit VO en het Staatsexamenbesluit VO (Stb. 2012, 217) vrijgesteld van de rekentoets. 
 
 ####Vermelding van vakken die niet met een eindcijfer beoordeeld worden
 
@@ -242,7 +242,7 @@ Vakken waarin het examen op een hoger niveau is afgelegd, worden op de cijferlij
 
 ####Uitslag
 
-Bij ‘uitslag’ voor het eindexamen of staatsexamen wordt ingevuld (zie [artikel 48, tweede lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 25, vijfde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)): 
+Bij ‘uitslag’ voor het eindexamen of staatsexamen wordt ingevuld (zie artikel 48, tweede lid, van het Eindexamenbesluit VO/artikel 25, vijfde lid, Staatsexamenbesluit VO): 
 
 * ‘geslaagd’ als de kandidaat geslaagd is en een diploma ontvangt,  
 
@@ -256,11 +256,11 @@ Op de bijlage bij de cijferlijst wordt over de rekentoets vermeld:
 
 * bij de schoolsoort voorbereidend middelbaar beroepsonderwijs in het vakje ‘schooltype’: tussen haakjes de leerweg (BB, KB, GL of TL); bij de overige schoolsoorten wordt dit vakje niet ingevuld,  
 
-* het eindcijfer van de rekentoets (zonder decimalen): [artikel 47, eerste en vierde lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 24, eerste en vierde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
+* het eindcijfer van de rekentoets (zonder decimalen): artikel 47, eerste en vierde lid, Eindexamenbesluit VO en artikel 24, eerste en vierde lid, Staatsexamenbesluit VO.   
 
 ####Voorlopige cijferlijst
 
-Indien de kandidaat een centraal examen, een afsluitend schoolexamen in een of meer vakken of de rekentoets heeft afgelegd in het voorlaatste leerjaar en vervolgens de school verlaat zonder het eindexamen te voltooien, ontvangt hij een ‘voorlopige cijferlijst’. De resultaten van die vakken of de rekentoets moeten zijn aangeleverd in BRON. Een voorlopige cijferlijst wordt dus uitgereikt voordat de uitslag van het betreffende eindexamen definitief kan worden vastgesteld ([artikel 52b van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)). Op basis van de voorlopige cijferlijst kan de nieuwe school het onderwijsprogramma van de kandidaat vaststellen. De resultaten op de voorlopige cijferlijst worden betrokken bij de vaststelling van de uitslag van het betreffende eindexamen en overgenomen op de cijferlijst die op grond van de definitieve uitslag wordt uitgereikt. De voorlopige cijferlijst komt dan te vervallen. Op de voorlopige cijferlijst wordt/worden (conform de cijferlijst) voor zover van toepassing vermeld: 
+Indien de kandidaat een centraal examen, een afsluitend schoolexamen in een of meer vakken of de rekentoets heeft afgelegd in het voorlaatste leerjaar en vervolgens de school verlaat zonder het eindexamen te voltooien, ontvangt hij een ‘voorlopige cijferlijst’. De resultaten van die vakken of de rekentoets moeten zijn aangeleverd in BRON. Een voorlopige cijferlijst wordt dus uitgereikt voordat de uitslag van het betreffende eindexamen definitief kan worden vastgesteld (artikel 52b van het Eindexamenbesluit VO). Op basis van de voorlopige cijferlijst kan de nieuwe school het onderwijsprogramma van de kandidaat vaststellen. De resultaten op de voorlopige cijferlijst worden betrokken bij de vaststelling van de uitslag van het betreffende eindexamen en overgenomen op de cijferlijst die op grond van de definitieve uitslag wordt uitgereikt. De voorlopige cijferlijst komt dan te vervallen. Op de voorlopige cijferlijst wordt/worden (conform de cijferlijst) voor zover van toepassing vermeld: 
 
 * de afgesloten vakken met de cijfers voor het schoolexamen en het centraal examen (op één decimaal nauwkeurig) en de eindcijfers zonder decimalen,  
 
@@ -274,7 +274,7 @@ Indien de kandidaat een centraal examen, een afsluitend schoolexamen in een of m
 
 * de beoordeling van het kunstvak en het vak lichamelijke opvoeding uit het gemeenschappelijk deel van de leerweg in vmbo,  
 
-* volgens welke differentiatie, bedoeld in [artikel 7, derde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) is geëxamineerd in het vmbo, en  
+* volgens welke differentiatie, bedoeld in artikel 7, derde lid, van het Eindexamenbesluit VO is geëxamineerd in het vmbo, en  
 
 * het vak waarin opnieuw centraal examen is afgelegd (waarbij het cijfer voor het schoolexamen wordt herhaald en het nieuwe cijfer voor het centraal examen en nieuwe eindcijfer wordt opgenomen). Indien er in het voorlaatste leerjaar geen herkansing heeft plaatsgevonden, wordt op de voorlopige cijferlijst achter ‘opnieuw centraal examen is afgelegd in’ niet van toepassing vermeld, als volgt: n.v.t.   Op de voorlopige cijferlijst wordt geen sector of profiel vermeld. 
 
@@ -286,7 +286,7 @@ Indien de rekentoets is afgelegd, wordt op de bijlage bij de voorlopige cijferli
 
 * bij de schoolsoort voorbereidend middelbaar beroepsonderwijs in het vakje ‘schooltype’: tussen haakjes de leerweg (BB, KB, GL of TL); bij de overige schoolsoorten wordt dit vakje niet ingevuld,  
 
-* het eindcijfer van de rekentoets (zonder decimalen): [artikel 47, eerste en vierde lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 24, eerste en vierde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
+* het eindcijfer van de rekentoets (zonder decimalen): artikel 47, eerste en vierde lid, Eindexamenbesluit VO en artikel 24, eerste en vierde lid, Staatsexamenbesluit VO.   
 
 ####Cijferlijst deeleindexamen vavo en deelstaatsexamen
 
@@ -296,7 +296,7 @@ Op de cijferlijst van de kandidaat die deeleindexamen of deelstaatsexamen heeft 
 
 * de eindcijfers voor de examenvakken,  
 
-* voor zover van toepassing: het profiel- of sectorwerkstuk.   De eisen aan de cijferlijst voor het deeleindexamen zijn geregeld in [artikel 53, eerste en tweede lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md); voor het deelstaatsexamen is dat gebeurd in [artikel 31, eerste lid en tweede lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md). 
+* voor zover van toepassing: het profiel- of sectorwerkstuk.   De eisen aan de cijferlijst voor het deeleindexamen zijn geregeld in artikel 53, eerste en tweede lid, van het Eindexamenbesluit VO; voor het deelstaatsexamen is dat gebeurd in artikel 31, eerste lid en tweede lid, van het Staatsexamenbesluit VO. 
 
 ####Bijlage bij de cijferlijst deeleindexamen vavo en deelstaatsexamen
 
@@ -306,11 +306,11 @@ Op de bijlage bij de cijferlijst (deel)examen vavo/staatsexamen wordt over de re
 
 * bij de schoolsoort voorbereidend middelbaar beroepsonderwijs in het vakje ‘schooltype’: tussen haakjes de leerweg (BB, KB, GL of TL); bij de overige schoolsoorten wordt dit vakje niet ingevuld,  
 
-* het eindcijfer van de rekentoets (zonder decimalen): [artikel 47, eerste en vierde lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 24, eerste en vierde lid, Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
+* het eindcijfer van de rekentoets (zonder decimalen): artikel 47, eerste en vierde lid, Eindexamenbesluit VO en artikel 24, eerste en vierde lid, Staatsexamenbesluit VO.   
 
 ####Certificaat
 
-De kandidaat die definitief voor het eindexamen vmbo, vavo of staatsexamen is afgewezen, ontvangt een certificaat ([artikel 53, tweede en derde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 31, tweede lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)). Op het certificaat wordt voor zover van toepassing vermeld: 
+De kandidaat die definitief voor het eindexamen vmbo, vavo of staatsexamen is afgewezen, ontvangt een certificaat (artikel 53, tweede en derde lid, van het Eindexamenbesluit VO en artikel 31, tweede lid, van het Staatsexamenbesluit VO). Op het certificaat wordt voor zover van toepassing vermeld: 
 
 * het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald; de school kan wanneer nodig meer regels toevoegen,  
 
@@ -324,7 +324,7 @@ Op het getuigschrift basisberoepsgerichte leerweg wordt vermeld:
 
 * het met goed gevolg afgesloten gedeelte van het examenpakket,  
 
-* voor zover van toepassing: de rekentoets ([artikel 23, zevende lid, Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)).   Op het getuigschrift praktijkonderwijs worden vermeld: 
+* voor zover van toepassing: de rekentoets (artikel 23, zevende lid, Eindexamenbesluit VO).   Op het getuigschrift praktijkonderwijs worden vermeld: 
 
 * de in dit onderwijs gevolgde vakken.   
 
@@ -354,7 +354,7 @@ b.meer cijferlijsten worden uitgereikt en het profielwerkstuk maar op één cijf
 
 ####Diploma vwo en havo
 
-Als de examenresultaten voor twee of meer profielen leiden tot de uitslag ‘geslaagd’, dan wordt de naam van de betreffende profielen vermeld op het diploma ingevolge [artikel 52, tweede lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 30, derde lid, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md). Op het diploma eindexamen vwo wordt achter eindexamen vermeld: gymnasium of atheneum. 
+Als de examenresultaten voor twee of meer profielen leiden tot de uitslag ‘geslaagd’, dan wordt de naam van de betreffende profielen vermeld op het diploma ingevolge artikel 52, tweede lid, van het Eindexamenbesluit VO en artikel 30, derde lid, van het Staatsexamenbesluit VO. Op het diploma eindexamen vwo wordt achter eindexamen vermeld: gymnasium of atheneum. 
 
 ####Cijferlijsten vwo en havo
 
@@ -368,15 +368,15 @@ Voor:
 
 * de vermelding (op de bijlage bij de cijferlijst) van de rekentoets,   wordt verwezen naar het Eindexamenbesluit VO:
 
-* [artikel 11](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vwo (atheneum),  
+* artikel 11 voor zover het betreft het eindexamen vwo (atheneum),  
 
-* [artikel 12](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vwo (gymnasium),  
+* artikel 12 voor zover het betreft het eindexamen vwo (gymnasium),  
 
-* [artikel 13](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen havo. Alle andere vermeldingen maken de cijferlijst ongeldig.
+* artikel 13 voor zover het betreft het eindexamen havo. Alle andere vermeldingen maken de cijferlijst ongeldig.
 
 ####Profielvermelding
 
-Op de cijferlijst voor het eindexamen wordt in het tekstgedeelte boven de cijfer-/beoordelingstabel achter de regel ‘heeft deelgenomen aan het eindexamen voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs conform het profiel’, de officiële benaming van het profiel vermeld (zoals genoemd in het derde lid van [artikel 12 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)). In het geval een kandidaat kan slagen voor twee of meer profielen, wordt voor elk profiel afzonderlijk een cijferlijst afgegeven. Om te kunnen slagen voor twee of meer profielen is het overigens voldoende om voor één profiel een profielwerkstuk te hebben gemaakt. Als dat profielwerkstuk ‘past’ in de betreffende profielen, wordt het op elk van de cijferlijsten vermeld. Als het in één profiel niet past, wordt in de desbetreffende ruimte vermeld: n.v.t.
+Op de cijferlijst voor het eindexamen wordt in het tekstgedeelte boven de cijfer-/beoordelingstabel achter de regel ‘heeft deelgenomen aan het eindexamen voorbereidend wetenschappelijk onderwijs of hoger algemeen voortgezet onderwijs conform het profiel’, de officiële benaming van het profiel vermeld (zoals genoemd in het derde lid van artikel 12 van de WVO). In het geval een kandidaat kan slagen voor twee of meer profielen, wordt voor elk profiel afzonderlijk een cijferlijst afgegeven. Om te kunnen slagen voor twee of meer profielen is het overigens voldoende om voor één profiel een profielwerkstuk te hebben gemaakt. Als dat profielwerkstuk ‘past’ in de betreffende profielen, wordt het op elk van de cijferlijsten vermeld. Als het in één profiel niet past, wordt in de desbetreffende ruimte vermeld: n.v.t.
 
 ####Aangepaste vakbenamingen
 
@@ -394,7 +394,7 @@ De volgende vakken uit de ‘nieuwe’ profielen die overeenkomen met vakken uit
 
 ####Combinatiecijfer
 
-Onder het gemeenschappelijk deel wordt achter ‘combinatiecijfer’ het rekenkundig gemiddelde van de afgeronde eindcijfers van de betreffende vakken/onderdelen, afgerond vermeld op de cijferlijst (in een cijfer en in letters). Deze afronding gebeurt overeenkomstig de vaststelling van het eindcijfer per vak, door het eerste cijfer achter de komma naar beneden af te ronden indien dat een 4 of lager is en naar boven, indien dat cijfer een 5 of hoger is (een 5,5 wordt dus een 6 en 5,45 een 5): [artikel 49, lid 8, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md). Achter het ‘combinatiecijfer’ (tot slot van het gemeenschappelijk deel) is een asterisk *) opgenomen die verwijst naar de vakken/onderdelen die deel uitmaken van het combinatiecijfer (zie [artikel 49, lid 6, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)), welke onder aan de cijferlijst worden genoemd. Onder ‘*) onderdelen van het combinatiecijfer’ worden de betreffende vakken/onderdelen opgenomen met vermelding van het afgeronde cijfer en het(zelfde) afgeronde eindcijfer (in een cijfer en in letters). Inclusief het profielwerkstuk, dat als laatste een plaats krijgt in de daarvoor bestemde kolom met vermelding van de titel of het onderwerp en het vak of de vakken waarop het betrekking heeft. Naast de relatief kleine (becijferde) vakken maakt ook het profielwerkstuk onderdeel uit van het combinatiecijfer. Het profielwerkstuk wordt nu ook met een cijfer gewaardeerd. De onderdelen/vakken die het combinatiecijfer samenstellen mogen om te slagen geen van alle lager zijn dan een 4: [artikel 49, lid 5, onderdeel b](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md). In de uitslagregel wordt het combinatiecijfer beschouwd als het eindcijfer van één vak. Vakken die in ieder geval tot het combinatiecijfer behoren zijn: In het havo: maatschappijleer en het profielwerkstuk; In het vwo: maatschappijleer, algemene natuurwetenschappen en het profielwerkstuk. Daarnaast kan het bevoegd gezag de volgende vakken toevoegen aan het combinatiecijfer (zie voorwaarde: [artikel 49, zevende lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)): 
+Onder het gemeenschappelijk deel wordt achter ‘combinatiecijfer’ het rekenkundig gemiddelde van de afgeronde eindcijfers van de betreffende vakken/onderdelen, afgerond vermeld op de cijferlijst (in een cijfer en in letters). Deze afronding gebeurt overeenkomstig de vaststelling van het eindcijfer per vak, door het eerste cijfer achter de komma naar beneden af te ronden indien dat een 4 of lager is en naar boven, indien dat cijfer een 5 of hoger is (een 5,5 wordt dus een 6 en 5,45 een 5): artikel 49, lid 8, van het Eindexamenbesluit VO. Achter het ‘combinatiecijfer’ (tot slot van het gemeenschappelijk deel) is een asterisk *) opgenomen die verwijst naar de vakken/onderdelen die deel uitmaken van het combinatiecijfer (zie artikel 49, lid 6, van het Eindexamenbesluit VO), welke onder aan de cijferlijst worden genoemd. Onder ‘*) onderdelen van het combinatiecijfer’ worden de betreffende vakken/onderdelen opgenomen met vermelding van het afgeronde cijfer en het(zelfde) afgeronde eindcijfer (in een cijfer en in letters). Inclusief het profielwerkstuk, dat als laatste een plaats krijgt in de daarvoor bestemde kolom met vermelding van de titel of het onderwerp en het vak of de vakken waarop het betrekking heeft. Naast de relatief kleine (becijferde) vakken maakt ook het profielwerkstuk onderdeel uit van het combinatiecijfer. Het profielwerkstuk wordt nu ook met een cijfer gewaardeerd. De onderdelen/vakken die het combinatiecijfer samenstellen mogen om te slagen geen van alle lager zijn dan een 4: artikel 49, lid 5, onderdeel b. In de uitslagregel wordt het combinatiecijfer beschouwd als het eindcijfer van één vak. Vakken die in ieder geval tot het combinatiecijfer behoren zijn: In het havo: maatschappijleer en het profielwerkstuk; In het vwo: maatschappijleer, algemene natuurwetenschappen en het profielwerkstuk. Daarnaast kan het bevoegd gezag de volgende vakken toevoegen aan het combinatiecijfer (zie voorwaarde: artikel 49, zevende lid, van het Eindexamenbesluit VO): 
 
 * Literatuur. Een school kan ervoor kiezen literatuur afzonderlijk te becijferen of dat dit onderdeel in het cijfer voor de talen wordt meegenomen. Als het apart wordt becijferd, dan moet het cijfer worden opgenomen in het combinatiecijfer. In dat geval dienen de namen van de talen (dus zonder literatuur) te worden vermeld op de cijferlijst.  
 
@@ -402,17 +402,17 @@ Onder het gemeenschappelijk deel wordt achter ‘combinatiecijfer’ het rekenku
 
 * Het vak Godsdienst of levensbeschouwelijk vormingsonderwijs kan door bijzondere scholen worden toegevoegd aan het combinatiecijfer. Het gaat hier om één vak, maar de school kiest welke van beide benamingen wordt gehanteerd: godsdienst óf levensbeschouwelijk vormingsonderwijs. Niet te verwarren met het ‘grote’ vak godsdienst: een schooleigen vak dat de school alleen met toestemming van de minister als examenvak kan aanbieden.  
 
-* Algemene natuurwetenschappen, dat bij het havo niet meer voorkomt in het gemeenschappelijke deel, kan bij die schoolsoort wel deel uitmaken van het vrije deel. De school kan dit ter keuze laten aan de leerling, maar kan ook besluiten om het vak verplicht te stellen voor alle leerlingen of voor leerlingen met een bepaald profiel. Het cijfer voor dit vak telt dan mee in het combinatiecijfer (volgens [artikel 49 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)).   
+* Algemene natuurwetenschappen, dat bij het havo niet meer voorkomt in het gemeenschappelijke deel, kan bij die schoolsoort wel deel uitmaken van het vrije deel. De school kan dit ter keuze laten aan de leerling, maar kan ook besluiten om het vak verplicht te stellen voor alle leerlingen of voor leerlingen met een bepaald profiel. Het cijfer voor dit vak telt dan mee in het combinatiecijfer (volgens artikel 49 van het Eindexamenbesluit VO).   
 
 ####Vrijstelling of ontheffing
 
 ####Ontheffing van een taal
 
-Indien in het atheneum ontheffing is verleend voor het volgen van een taal (op grond van [artikel 26e, lid 4, van het Inrichtingsbesluit W.V.O.](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md)), waarbij de taal moet worden vervangen door een ander examenvak (als bedoeld in het vijfde lid van dat artikel), dan wordt dat examenvak vermeld op de cijferlijst in plaats van de vervangen taal (dus in het gemeenschappelijke deel). 
+Indien in het atheneum ontheffing is verleend voor het volgen van een taal (op grond van artikel 26e, lid 4, van het Inrichtingsbesluit W.V.O.), waarbij de taal moet worden vervangen door een ander examenvak (als bedoeld in het vijfde lid van dat artikel), dan wordt dat examenvak vermeld op de cijferlijst in plaats van de vervangen taal (dus in het gemeenschappelijke deel). 
 
 ####Vermelding van vrijstelling aan vavo/staatsexamen voor profielwerkstuk oud naar nieuw
 
-Indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald, kan de kandidaat daar op grond van [artikel 9 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 10 van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) voor worden vrijgesteld. Vakken waarvoor de kandidaat is vrijgesteld op grond van deze artikelen worden op de cijferlijst opgenomen met vermelding van het eerder behaalde cijfer (zie [artikel 52, lid 5, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)/[artikel 30, lid 6, van het Staatsexamenbesluit VO](../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md)). Hierop bestaat een uitzondering indien de kandidaat zijn profielwerkstuk volgens de ‘oude profielen’ heeft gedaan, dat is beoordeeld als ‘voldoende’ of ‘goed’ en vervolgens het diploma volgens de ‘nieuwe profielen’ aan het vavo of met het staatsexamen wil behalen. Het volgende is dan mogelijk: 
+Indien reeds eerder een profielwerkstuk is gemaakt dat betrekking heeft op een of meer vakken van dezelfde schoolsoort, behorende tot het profiel van de kandidaat en waarvoor een eindcijfer 6 of hoger of een daarmee overeenkomende waardering is behaald, kan de kandidaat daar op grond van artikel 9 van het Eindexamenbesluit VO/artikel 10 van het Staatsexamenbesluit VO voor worden vrijgesteld. Vakken waarvoor de kandidaat is vrijgesteld op grond van deze artikelen worden op de cijferlijst opgenomen met vermelding van het eerder behaalde cijfer (zie artikel 52, lid 5, van het Eindexamenbesluit VO/artikel 30, lid 6, van het Staatsexamenbesluit VO). Hierop bestaat een uitzondering indien de kandidaat zijn profielwerkstuk volgens de ‘oude profielen’ heeft gedaan, dat is beoordeeld als ‘voldoende’ of ‘goed’ en vervolgens het diploma volgens de ‘nieuwe profielen’ aan het vavo of met het staatsexamen wil behalen. Het volgende is dan mogelijk: 
 
 * in plaats van de vermelding van het eerder behaalde cijfer wordt achter het profielwerkstuk: ‘vr’ vermeld,  
 
@@ -426,7 +426,7 @@ Indien achter het profielwerkstuk ‘vr’ wordt vermeld en de vakken anw en maa
 
 ####Vermelding van vwo-vak in plaats van havo-vak
 
-Op het havo kunnen een of meer vakken worden vervangen door de overeenkomstige vakken op vwo-niveau. Bij toepassing van deze mogelijkheid wordt achter het afgesloten overeenkomstige vwo-vak op de havo-cijferlijst tussen haakjes opgenomen: (vwo). [Artikel 52, vijfde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), regelt dat de vakken waarvoor de kandidaat (met diploma) in het havo of vwo is vrijgesteld op grond van eerder afgelegd examen worden vermeld op de cijferlijst met overname van de eerder behaalde resultaten. 
+Op het havo kunnen een of meer vakken worden vervangen door de overeenkomstige vakken op vwo-niveau. Bij toepassing van deze mogelijkheid wordt achter het afgesloten overeenkomstige vwo-vak op de havo-cijferlijst tussen haakjes opgenomen: (vwo). Artikel 52, vijfde lid, van het Eindexamenbesluit VO, regelt dat de vakken waarvoor de kandidaat (met diploma) in het havo of vwo is vrijgesteld op grond van eerder afgelegd examen worden vermeld op de cijferlijst met overname van de eerder behaalde resultaten. 
 
 ####Vermelding bij twee kunstvakken (die naast elkaar gekozen mogen worden)
 
@@ -438,13 +438,13 @@ Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen afleg
 
 Op het diploma wordt niet alleen de leerweg, maar ook de sector(en) vermeld. Dit houdt in dat op de regel die volgt na ‘aan het eindexamen’ de officiële naam van de betreffende leerweg wordt ingevuld met daar achter ‘conform de sector’ met vermelding van de officiële naam van de gevolgde sector, zoals genoemd in: 
 
-* [artikel 10b WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (basisberoepsgerichte leerweg),  
+* artikel 10b WVO (basisberoepsgerichte leerweg),  
 
-* [artikel 10b WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (kaderberoepsgerichte leerweg),  
+* artikel 10b WVO (kaderberoepsgerichte leerweg),  
 
-* [artikel 10d WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (gemengde leerweg),  
+* artikel 10d WVO (gemengde leerweg),  
 
-* [artikel 10 WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) (theoretische leerweg).   Indien de kandidaat kan slagen voor meer dan één sector, dan wordt ook de naam van die sector(en) vermeld. Een leerling die de gemengde leerweg met een extra algemeen vak heeft afgerond ontvangt op zijn verzoek een diploma vmbo theoretische leerweg en een bijbehorende cijferlijst; zie [artikel 52, lid 8, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md). Nieuw is dat het eindexamen van de theoretische leerweg, door wijziging van [artikel 22 van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), een vak dat behoort tot het eindexamen van de gemengde leerweg, als extra vak kan omvatten. Hierdoor kan het door de kandidaat afgelegde beroepsgerichte programma vermelding krijgen op de cijferlijst van de theoretische leerweg. 
+* artikel 10 WVO (theoretische leerweg).   Indien de kandidaat kan slagen voor meer dan één sector, dan wordt ook de naam van die sector(en) vermeld. Een leerling die de gemengde leerweg met een extra algemeen vak heeft afgerond ontvangt op zijn verzoek een diploma vmbo theoretische leerweg en een bijbehorende cijferlijst; zie artikel 52, lid 8, van het Eindexamenbesluit VO. Nieuw is dat het eindexamen van de theoretische leerweg, door wijziging van artikel 22 van het Eindexamenbesluit VO, een vak dat behoort tot het eindexamen van de gemengde leerweg, als extra vak kan omvatten. Hierdoor kan het door de kandidaat afgelegde beroepsgerichte programma vermelding krijgen op de cijferlijst van de theoretische leerweg. 
 
 ####Cijferlijsten
 
@@ -458,13 +458,13 @@ Voor:
 
 * de vermelding (op de bijlage bij de cijferlijst) van de rekentoets,   wordt verwezen naar het Eindexamenbesluit VO:
 
-* [artikel 22](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vmbo theoretische leerweg,  
+* artikel 22 voor zover het betreft het eindexamen vmbo theoretische leerweg,  
 
-* [artikel 23](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vmbo basisberoepsgerichte leerweg,  
+* artikel 23 voor zover het betreft het eindexamen vmbo basisberoepsgerichte leerweg,  
 
-* [artikel 24](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vmbo kaderberoepsgerichte leerweg,  
+* artikel 24 voor zover het betreft het eindexamen vmbo kaderberoepsgerichte leerweg,  
 
-* [artikel 25](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) voor zover het betreft het eindexamen vmbo gemengde leerweg.  Alle andere vermeldingen maken de cijferlijst ongeldig.
+* artikel 25 voor zover het betreft het eindexamen vmbo gemengde leerweg.  Alle andere vermeldingen maken de cijferlijst ongeldig.
 
 ####Vermelding leerweg én sector(en)
 
@@ -480,11 +480,11 @@ Binnen het examenprogramma voor de afdeling Landbouw en natuurlijke omgeving leg
 
 ####Vak of rekentoets op hoger niveau
 
-Indien toepassing is gegeven aan de mogelijkheid één of meer vakken op een hoger niveau af te sluiten, dan wordt achter de desbetreffende vaknaam (uit dat niveau) tussen haakjes de leerweg (KB, GL of TL) of schoolsoort (vwo of havo), afgekort vermeld op de cijferlijst. Indien bij de schoolsoort voorbereidend middelbaar beroepsonderwijs toepassing is gegeven aan de mogelijkheid om de rekentoets op een hoger niveau af te leggen, wordt op de bijlage bij de cijferlijst rekentoets voorbereidend middelbaar onderwijs in het vakje ‘niveau’ tussen haakjes de schoolsoort (vmbo) vermeld. In het vakje ‘schooltype’ wordt de betreffende leerweg tussen haakjes (KB, GL, TL) vermeld. [Artikel 52, vijfde lid, van het Eindexamenbesluit VO](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) regelt dat vakken waarvoor de kandidaat met diploma basis- of kaderberoepsgerichte leerweg in de theoretische leerweg is vrijgesteld op grond van een eerder afgelegd examen in vakken van de theoretische leerweg of vwo/havo, op de cijferlijst worden vermeld met overname van de eerder behaalde resultaten.
+Indien toepassing is gegeven aan de mogelijkheid één of meer vakken op een hoger niveau af te sluiten, dan wordt achter de desbetreffende vaknaam (uit dat niveau) tussen haakjes de leerweg (KB, GL of TL) of schoolsoort (vwo of havo), afgekort vermeld op de cijferlijst. Indien bij de schoolsoort voorbereidend middelbaar beroepsonderwijs toepassing is gegeven aan de mogelijkheid om de rekentoets op een hoger niveau af te leggen, wordt op de bijlage bij de cijferlijst rekentoets voorbereidend middelbaar onderwijs in het vakje ‘niveau’ tussen haakjes de schoolsoort (vmbo) vermeld. In het vakje ‘schooltype’ wordt de betreffende leerweg tussen haakjes (KB, GL, TL) vermeld. Artikel 52, vijfde lid, van het Eindexamenbesluit VO regelt dat vakken waarvoor de kandidaat met diploma basis- of kaderberoepsgerichte leerweg in de theoretische leerweg is vrijgesteld op grond van een eerder afgelegd examen in vakken van de theoretische leerweg of vwo/havo, op de cijferlijst worden vermeld met overname van de eerder behaalde resultaten.
 
 ####Leer-werktraject
 
-Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden minimaal de cijfers van het vak Nederlandse taal (gemeenschappelijk deel), het beroepsgerichte programma (vrije deel) en de rekentoets vermeld (zie [artikel 10b1 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)). 
+Indien het een leer-werktraject-basisberoepsgerichte leerweg betreft, dan worden minimaal de cijfers van het vak Nederlandse taal (gemeenschappelijk deel), het beroepsgerichte programma (vrije deel) en de rekentoets vermeld (zie artikel 10b1 van de WVO). 
 
 ### Bijlage 2a  
 

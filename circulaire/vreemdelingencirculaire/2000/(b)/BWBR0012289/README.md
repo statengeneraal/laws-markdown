@@ -412,19 +412,13 @@ De IND verstrekt een document of schriftelijke verklaring als bedoeld in artikel
 
 ####Mvv-vereiste
 
-### *Hardheidsclausule* 
+### Hardheidsclausule
 
 Op grond van artikel 3.71, derde lid, Vb wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd niet af wegens het ontbreken van een geldige mvv als dit leidt tot een onbillijkheid van overwegende aard (de hardheidsclausule). 
-### *Bijzondere gevallen in het kader van de hardheidsclausule* 
+### Bijzondere gevallen in het kader van de hardheidsclausule
 
-De IND past de hardheidsclausule als bedoeld in artikel 3.71, derde lid, Vb in ieder geval toe bij een aanvraag voor een verblijfsvergunning van een vreemdeling: 
-
-* van wie de terugkeer in verband met een medische noodsituatie leidt tot een onbillijkheid van overwegende aard; of  
-
-* die minderjarig is en op grond van een in het buitenland uitgesproken adoptie, door de Nederlandse diplomatieke of consulaire vertegenwoordiging in het bezit is gesteld van een Nederlands document voor grensoverschrijding, terwijl geen onjuiste gegevens zijn verstrekt die hebben geleid tot afgifte van het Nederlands document voor grensoverschrijding;  
-
-* die een minderjarig kind is van en samen in Nederland verblijft met de houder van een verblijfsvergunning op tijdelijke humanitaire gronden, verband houdend met mensenhandel of eergerelateerd geweld of huiselijk geweld.   
-### *Niet-bijzondere gevallen in het kader van de hardheidsclausule* 
+De IND past de hardheidsclausule als bedoeld in artikel 3.71, derde lid, Vb in ieder geval toe bij een aanvraag voor een verblijfsvergunning van een vreemdeling van wie de terugkeer in verband met een medische noodsituatie leidt tot een onbillijkheid van overwegende aard. 
+### Niet-bijzondere gevallen in het kader van de hardheidsclausule
 
 De IND past de hardheidsclausule als bedoeld in artikel 3.71, derde lid, Vb in ieder geval niet toe als de vreemdeling: 
 
@@ -438,11 +432,9 @@ De IND past de hardheidsclausule als bedoeld in artikel 3.71, derde lid, Vb in i
 
 * als asielzoeker is uitgeprocedeerd;  
 
-* stelt dat terugkeer naar het land van herkomst redelijkerwijs niet kan worden verlangd, maar dit niet binnen een door de IND gestelde termijn met gegevens en bescheiden heeft onderbouwd;  
-
 * aangeeft dat de noodzakelijke medische behandeling aan terugkeer – teneinde een mvv te verkrijgen – naar het land van herkomst in de weg staat, maar niet heeft aangetoond dat sprake is van een medische noodsituatie; of  
 
-* meer dan twee jaar na afloop van een eerder verleende verblijfsvergunning voor bepaalde tijd om verlenging of wijziging hiervan heeft gevraagd. Tenzij het overschrijden van deze termijn niet aan de vreemdeling is toe te rekenen.    
+* meer dan twee jaar na afloop van een eerder verleende verblijfsvergunning voor bepaalde tijd om verlenging of wijziging hiervan heeft gevraagd tenzij het overschrijden van deze termijn niet aan de vreemdeling is toe te rekenen.    
 ### 4.2  
 
 ####Geldig document voor grensoverschrijding
@@ -1999,14 +1991,21 @@ In aanvulling op B1/4.3 beschouwt de IND de middelen van bestaan uit de volgende
 
 ####Arbeid als zelfstandige
 
-### * * *Bevoegdheid of vergunning om het beroep of onderneming te mogen uitoefenen* * * 
+###Mvv-vereiste bij start-up
+
+Op grond van artikel 3.71, derde lid, Vb wijst de IND een aanvraag om verlening van een verblijfsvergunning regulier voor bepaalde tijd, onder een beperking ‘arbeid als zelfstandige’ niet af wegens het ontbreken van een geldige mvv als: 
+
+– De aanvraag is ingediend in het kader van artikel 3.30, zesde lid, Vb; en  
+
+– De vreemdeling al in Nederland is in verband met het oprichten van een innovatieve onderneming en in het bezit van een visum kort verblijf of niet-visumplichtig is.  
+### Bevoegdheid of vergunning om het beroep of onderneming te mogen uitoefenen
 
 In aanvulling op artikel 3.30, eerste lid, aanhef en onder c, Vb verleent de IND een verblijfsvergunning regulier voor bepaalde tijd, onder de beperking ‘arbeid als zelfstandige’ aan een vreemdeling als aan de volgende voorwaarden wordt voldaan: 
 
 * de vreemdeling wil een onderneming voeren in de individuele gezondheidszorg en registratie in het BIG-register heeft plaatsgevonden; of  
 
 * de vreemdeling is in het bezit van alle noodzakelijke vergunningen voor de uitoefening van de onderneming. Dit hangt af van de betreffende wetgeving die voor de onderneming geldt.   
-### * * *Directeur-(groot)aandeelhouder* * * 
+### Directeur-(groot)aandeelhouder
 
 In aanvulling op artikel 3.30 Vb beschouwt de IND de vreemdeling als zelfstandige die een directeur-(groot)aandeelhouder is als aan alle volgende voorwaarden wordt voldaan: 
 
@@ -2015,14 +2014,14 @@ In aanvulling op artikel 3.30 Vb beschouwt de IND de vreemdeling als zelfstandig
 * de vreemdeling loopt een ondernemingsrisico; en  
 
 * de vreemdeling kan de hoogte van het salaris zelf beïnvloeden.   
-### * * *Het Nederlands – Amerikaans Vriendschapsverdrag en Het Verdrag van handel en scheepsvaart tussen Nederland en Japan* * * 
+### Het Nederlands – Amerikaans Vriendschapsverdrag en Het Verdrag van handel en scheepsvaart tussen Nederland en Japan
 
 De IND verleent een verblijfsvergunning op grond van artikel 3.30 Vb aan een vreemdeling die onderdaan is van de Verenigde Staten van Amerika of Japan op grond van de hierboven genoemde Verdragen als wordt voldaan aan de algemene verblijfsvoorwaarden als genoemd in artikel 16 Vw met uitzondering van het eerste lid, aanhef en onder c, Vw, én de vreemdeling: 
 
 a. handel drijft tussen de grondgebieden van de twee verdragspartijen en zich bezighoudt met daarmee samenhangende of in verband staande werkzaamheden op handelsgebied; of  
 
 b. de bedrijfsuitoefening van een onderneming waarin de vreemdeling een aanzienlijk kapitaal heeft geïnvesteerd of waarin deze daadwerkelijk bezig is dat te doen, ontwikkelt en leidt.   
-### * * *Ad b.* * * 
+### *Ad b.* 
 
 De IND verstaat onder het begrip ‘bedrijfsuitoefening van een onderneming’ in ieder geval één van de volgende situaties: 
 
@@ -2247,13 +2246,15 @@ De IND beschouwt een bewijs van inschrijving in het BIG-register als bewijsmidde
 De IND beschouwt een gastovereenkomst als bedoeld in paragraaf B6/2.4 Vc als bewijsmiddel waaruit moet blijken dat de vreemdeling voldoet aan de voorwaarde als bedoeld in artikel 3.33, eerste lid, Vb.  
 ### 4.5  
 
-####Startende ondernemer als bedoeld in artikel 3.30, zesde lid, Vb
+####Arbeid als zelfstandige
 
-De IND beschouwt als bewijsmiddel waaruit blijkt dat de vreemdeling duurzaam beschikt over voldoende middelen van bestaan in de zin van artikel 3.20b, VV, uitsluitend een van de volgende bewijsmiddelen: 
+###Startende ondernemer als bedoeld in artikel 3.30, zesde lid, Vb
+
+De IND beschouwt als bewijsmiddel waaruit blijkt dat de vreemdeling duurzaam beschikt over voldoende middelen van bestaan in de zin van artikel 3.20b, VV, in ieder geval een van de volgende bewijsmiddelen: 
 
 a. De vreemdeling zelf bekostigt de financiering: 
 
-* een afschrift van een bankrekening die mede of uitsluitend op naam van de vreemdeling is gesteld, waarop het saldo staat vermeld dat beschikbaar is; of  
+* een afschrift van een bankrekening die mede of uitsluitend op naam van de vreemdeling of van de onderneming is gesteld, waarop het saldo staat vermeld dat beschikbaar is; of  
 
 * een verklaring van de buitenlandse bank waar de vreemdeling een rekening heeft waaruit blijkt welk bedrag (maandelijks) ten gunste van de vreemdeling wordt overgemaakt op diens bankrekening in Nederland, die mede of uitsluitend op naam van de vreemdeling staat;    
 
@@ -2302,7 +2303,7 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling bevoeg
 
 * een uittreksel uit het Handelsregister van de Kamer van Koophandel; en  
 
-* een document afgegeven door de bevoegde Nederlandse autoriteit dat de vreemdeling in het bezit is van de noodzakelijke vergunningen om een beroep of onderneming uit te oefenen.   De IND beschouwt een uittreksel uit het handelsregister met een omschrijving van het beroep of de bedrijfsactiviteiten die in de onderneming worden uitgeoefend als bewijsmiddel dat de onderneming is ingeschreven in het handelsregister. De IND beschouwt een volledig ingevulde en ondertekende ‘Bijlage verklaring inkomen zelfstandig ondernemer’ als bewijsmiddel (bijlage 13 VV) waaruit moet blijken dat de vreemdeling zelfstandig en duurzaam over voldoende middelen van bestaan beschikt. Financiële bewijsmiddelen ter staving van de aanvraag moeten zijn gecontroleerd door een daartoe bevoegde externe deskundige. De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij het Ministerie van EZ, het Ministerie van VWS of het Ministerie van OC&W: 
+* een document afgegeven door de bevoegde Nederlandse autoriteit dat de vreemdeling in het bezit is van de noodzakelijke vergunningen om een beroep of onderneming uit te oefenen.   De IND beschouwt een uittreksel uit het handelsregister met een omschrijving van het beroep of de bedrijfsactiviteiten die in de onderneming worden uitgeoefend als bewijsmiddel dat de onderneming is ingeschreven in het handelsregister. Financiële bewijsmiddelen ter staving van de aanvraag moeten zijn gecontroleerd door een daartoe bevoegde onafhankelijke externe deskundige (register accountant, een accountant administratieconsulent, boekhouder of een financieel adviseur). De IND beschouwt als bewijsmiddel ten behoeve van de adviesaanvraag bij het Ministerie van EZ, het Ministerie van VWS of het Ministerie van OC&W: 
 
 * een document afgegeven door de bevoegde Nederlandse autoriteit, dat de vreemdeling in het bezit is van de noodzakelijke vergunningen om een beroep of onderneming uit te oefenen;  
 
@@ -2316,23 +2317,23 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling bevoeg
 
 * een marktanalyse toegespitst op het eigen product of dienst;  
 
-* organisatie;  
+* de organisatie;  
 
-* balans;  
+* de (openings)balans;  
 
-* omzet- en liquiditeitsprognose inclusief berekeningen;  
+* de omzet- en liquiditeitsprognose inclusief berekeningen; en  
 
-* specificatie en begroting arbeidscreatie en investeringen.    
+* een specificatie en begroting arbeidscreatie en investeringen.    
 
-* afschriften van behaalde diploma’s voorzien van een Nuffic/ stichting Samenwerking Beroepsonderwijs Bedrijfsleven (SBB) waardering voor zover het een buitenlands diploma betreft (dit geldt niet voor Turkse vreemdelingen);  
+* afschriften van behaalde diploma’s voorzien van een Nuffic/ stichting Samenwerking Beroepsonderwijs Bedrijfsleven (SBB) waardering voor zover het een buitenlands diploma betreft;  
 
-* afschriften van getuigschriften (diploma, promotie) van een Nederlandse opleiding (dit geldt niet voor Turkse vreemdelingen);  
+* afschriften van getuigschriften (diploma, promotie) van een Nederlandse opleiding (dit geldt facultatief voor Turkse vreemdelingen);  
 
 * als sprake is van een onderneming in het land van herkomst: de akte van oprichting en de statuten van de onderneming;  
 
-* arbeidsovereenkomst(en) van de voormalige dienstbetrekking(en);  
+* arbeidsovereenkomst(en) en referenties van de voormalige dienstbetrekking(en);  
 
-* financiële gegevens, zoals omzetgegevens, jaarrekeningen, belastinggegevens, loonstaten, loonaangiften, e.d.  
+* financiële gegevens, zoals omzetgegevens, jaarrekeningen, belastinggegevens, loonstaten, loonaangiften, e.d.;  
 
 * bewijsmiddelen (bijv. patenten of referenties van kennisinstellingen e.d.) die het innovatieve karakter van het product of de dienst voor Nederland aantonen (dit geldt facultatief voor Turkse vreemdelingen);  
 
@@ -2340,7 +2341,11 @@ De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling bevoeg
 
 * gegevens met betrekking tot de voorgenomen investeringen (dit geldt facultatief voor Turkse vreemdelingen);  
 
-* als de vreemdeling een freelancer is: overeenkomst(en) van (de) opdracht(en) waaruit blijkt dat de vreemdeling in opdracht werkzaamheden als freelancer gaat uitvoeren.  
+* als sprake is van een BV: een kopie van het aandelenregister en de oprichtingsakte;  
+
+* als sprake is van een VOF/CV: een kopie van VOF/CV contract met daarin: inbreng van vennoten, verantwoordelijkheden en aandeel in resultaat;  
+
+* als de vreemdeling een freelancer is: kopieën van intentieverklaringen en/of overeenkomst(en) van (de) opdracht(en) waaruit blijkt dat de vreemdeling in opdracht werkzaamheden als freelancer gaat uitvoeren.  
 ###Vriendschapsverdragen
 
 De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling een aanzienlijk kapitaal heeft geïnvesteerd: 
@@ -2441,7 +2446,7 @@ De IND wijst de aanvraag voor een verblijfsvergunning regulier voor bepaalde tij
 * de referent is naar het oordeel van de Minister blijvend en volledig arbeidsongeschikt; of  
 
 * de referent is blijvend niet in staat aan de plicht tot arbeidsinschakeling te voldoen.   
-### *Uitkering WAO, WAZ, Wajong* 
+### Uitkering WAO, WAZ, Wajong 
 
 De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel 3.22, tweede lid, Vb aan als de referent: 
 
@@ -2454,7 +2459,7 @@ De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel
 * uit de toekenningsbeschikking op grond van de WAO, WAZ of Wajong van de uitkerende overheidsinstantie blijkt dat de referent volledig arbeidsongeschikt is; en  
 
 * uit de meest recente uitkeringsspecificatie (die van minimaal één jaar na datum toekenningsbeschikking is) blijkt dat de referent op het moment van het indienen of beoordelen van de aanvraag nog steeds voor 80-100% arbeidsongeschikt is, omdat de uitkering minimaal op gelijke hoogte is gebleven.     
-### *Uitkering WIA* 
+### Uitkering WIA
 
 De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel 3.22, tweede lid, Vb aan als de referent: 
 
@@ -2467,7 +2472,7 @@ De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel
 * de referent valt onder de regeling IVA en uit de toekenningsbeschikking en/of uit de meest recente herbeoordeling blijkt dat er geen kans is op herstel; of  
 
 * de referent valt onder de regeling IVA en uit zowel de toekenningsbeschikking als uit de meest recente herbeoordeling blijkt dat er een geringe kans is op herstel.   De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel 3.22, tweede lid, Vb, in ieder geval niet aan als de referent een uitkering WIA ontvangt op grond van de regeling WGA. 
-### *Uitkering Wet Wajong (wet geldig vanaf 1 januari 2010)* 
+### Uitkering Wet Wajong (wet geldig vanaf 1 januari 2010) 
 
 De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel 3.22, tweede lid, Vb aan als de referent: 
 
@@ -2480,7 +2485,7 @@ De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel
 * de referent is volledig en duurzaam arbeidsongeschikt en uit de toekenningsbeschikking en/of uit de meest recente herbeoordeling blijkt dat er geen kans is op herstel; of  
 
 * de referent is volledig en duurzaam arbeidsongeschikt en uit zowel de toekenningsbeschikking als uit de meest recente herbeoordeling blijkt dat er een geringe kans is op herstel.   
-### *Andere uitkering (bijvoorbeeld uitkering ingevolge de Participatiewet)* 
+### Andere uitkering (bijvoorbeeld uitkering ingevolge de Participatiewet) 
 
 De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel 3.22, tweede lid, Vb aan als de referent geen uitkering op grond van de WIA, WAO, WAZ, Wet Wajong of Wajong ontvangt en als wordt voldaan aan alle volgende voorwaarden: 
 
@@ -2489,11 +2494,11 @@ De IND neemt blijvende en volledige arbeidsongeschiktheid als bedoeld in artikel
 * (gedeeltelijk) herstel van de referent is voor ten minste nog een jaar redelijkerwijs uitgesloten; en  
 
 * niet al op voorhand, gelet op de reden(en) van de arbeidsongeschiktheid, is geheel of gedeeltelijk herstel van de referent na dit jaar te verwachten.   
-### *Verplichting tot arbeidsinschakeling conform artikel 9 Participatiewet* 
+### Verplichting tot arbeidsinschakeling conform artikel 9 Participatiewet 
 
-Met toepassing van artikel 3.13, tweede lid, Vb wijst de IND de verblijfsvergunning niet af op grond van artikel 16, eerste lid, onder c, Vw als de referent blijvend niet in staat is aan de plicht tot arbeidsinschakeling te voldoen. De IND neemt in ieder geval aan dat de blijvend niet in staat is om aan de wettelijke verplichting tot arbeidsinschakeling conform artikel 9 Participatiewet te voldoen als de referent voldoet aan de twee volgende voorwaarden: 
+Met toepassing van artikel 3.13, tweede lid, Vb wijst de IND de verblijfsvergunning niet af op grond van artikel 16, eerste lid, onder c, Vw als de referent blijvend niet in staat is aan de plicht tot arbeidsinschakeling te voldoen. De IND neemt in ieder geval aan dat de blijvend niet in staat is om aan de wettelijke verplichting tot arbeidsinschakeling conform artikel 9 *Participatiewet* te voldoen als de referent voldoet aan de twee volgende voorwaarden: 
 
-* de referent is vijf jaar door het college van Burgemeester en Wethouders op grond van artikel 9, vijfde lid, Participatiewet volledig ontheven van alle verplichtingen bedoeld in artikel 9, eerste lid, *Participatiewet* (plicht tot arbeidsinschakeling); en  
+* de referent is vijf jaar door het college van Burgemeester en Wethouders op grond van artikel 9, vijfde lid, *Participatiewet* volledig ontheven van alle verplichtingen bedoeld in artikel 9, eerste lid, *Participatiewet* (plicht tot arbeidsinschakeling); en  
 
 * gedeeltelijke of volledige arbeidsinschakeling van de referent is niet binnen één jaar te voorzien.   
 ### *Familie- of gezinslid van slachtoffer mensenhandel, getuige-aangever mensenhandel of slachtoffer eergerelateerd geweld of huiselijk geweld* 
@@ -2507,7 +2512,35 @@ De IND brengt de alimentatie die moet worden betaald voor zowel de huwelijks- of
 
 * er is sprake is van een aanvraag met als doel gezinsvorming; en  
 
-* de referent heeft in een eerdere verblijfsprocedure zijn (ex)-partner tegen zijn wil en zonder identiteitspapieren achtergelaten in het land van herkomst.      
+* de referent heeft in een eerdere verblijfsprocedure zijn (ex)-partner tegen zijn wil en zonder identiteitspapieren achtergelaten in het land van herkomst.   
+### 2.1.3  
+
+####Referent met verblijfsrecht als bedoeld in B2  of B5  Vc
+
+In aanvulling op artikel 3.22, eerste lid, Vb beschouwt de IND de middelen van bestaan van de referent die verblijfsrecht heeft in het kader van studie, wetenschappelijk onderzoek, arbeid als kennismigrant, het zoeken en verrichten van arbeid al dan niet in loondienst of arbeid als zelfstandige als bedoeld in artikel 3.30, zesde lid, Vb als duurzaam als de middelen van bestaan beschikbaar zijn voor een jaar of zoveel korter als de verblijfsduur van de referent. Middelen van bestaan van de referent uit een andere bron zoals genoemd in artikel 3.73, eerste lid, Vb worden ook als middelen van bestaan in het kader van de aanvraag om familie- of gezinslid beschouwd als deze voor de hoofdpersoon meetellen bij het beoordelen of deze duurzaam en zelfstandig beschikt over voldoende middelen van bestaan. 
+### 2.2  
+
+####Referent met tijdelijk verblijfsrecht
+
+Met toepassing van artikel 3.13, tweede lid, Vb verleent de IND de verblijfsvergunning regulier voor bepaalde tijd aan familie- of gezinsleden van een referent met tijdelijk verblijfsrecht in de zin van artikel 3.5 Vb als de referent in het bezit is van een verblijfsvergunning onder één van de volgende beperkingen: 
+
+* studie;  
+
+* het zoeken naar en verrichten van arbeid al dan niet in loondienst;  
+
+* grensoverschrijdende dienstverlening;  
+
+* verblijf als familie- of gezinslid;  
+
+* asiel voor bepaalde tijd;  
+
+* medische behandeling;  
+
+* het afwachten van een verzoek op grond van artikel 17 van de Rijkswet op het Nederlanderschap; of  
+
+* tijdelijke humanitaire gronden (met uitzondering van verblijf als alleenstaande minderjarige vreemdeling); of  
+
+* verblijf als economisch niet-actieve langdurig ingezetene of vermogende vreemdeling (uitsluitend indien de referent verblijf heeft als vermogende vreemdeling     
 ### 3  
 
 ####Specifieke beleidsregels
@@ -2676,8 +2709,8 @@ De IND kan op grond van artikel 3.13, tweede lid, Vb een verblijfsvergunning ver
 
 * de biologische of juridische ouders, als het kind onder rechtmatig gezag staat van deze ouders;  
 
-* de minderjarige broers en zussen die feitelijk behoren tot het gezin, als de IND aan hun biologische of juridische ouders een verblijfsvergunning heeft verleend als gezinsleden van een houder van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voor medische behandeling’. De minderjarige broers en zussen staan onder rechtmatig gezag van de biologische of juridische ouders.   De IND kan aan de in Nederland verblijvende gezinsleden zoals hier bedoeld, die met referent zijn meegereisd, met toepassing van artikel 3.71, derde lid, Vb, vrijstelling van het mvv-vereiste verlenen. 
-### * * *Middelen van bestaan* * * 
+* de minderjarige broers en zussen die feitelijk behoren tot het gezin, als de IND aan hun biologische of juridische ouders een verblijfsvergunning heeft verleend als gezinsleden van een houder van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘voor medische behandeling’. De minderjarige broers en zussen staan onder rechtmatig gezag van de biologische of juridische ouders.  
+###Middelen van bestaan
 
 Op grond van artikel 3.46, vierde lid, Vb wijst de IND de aanvraag voor een verblijfsvergunning regulier voor bepaalde tijd niet af omdat de referent niet duurzaam en zelfstandig beschikt over voldoende middelen van bestaan, als de referent in het bezit is van een verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘medische behandeling’ die verleend is nadat gedurende ten minste een jaar, direct voorafgaand aan de aanvraag van de verblijfsvergunning regulier voor bepaalde tijd onder de beperking ‘medische behandeling’, tegen de uitzetting beletselen hebben bestaan als bedoeld in artikel 64 Vw.  
 ### 3.6  
@@ -2686,14 +2719,9 @@ Op grond van artikel 3.46, vierde lid, Vb wijst de IND de aanvraag voor een verb
 
 ### 3.6.1  
 
-####Mvv-vereiste
-
-De IND wijst de aanvraag niet af op grond van het mvv-vereiste als een buitenlands adoptiekind of adoptiefkind als gevolg van een in het buitenland uitgesproken adoptie ten onrechte in het bezit is gesteld van een geldig Nederlands document voor grensoverschrijding en de vreemdeling alsnog een aanvraag voor een verblijfsvergunning regulier indient.  
-### 3.6.2  
-
 ####Buitenlandse adoptiekinderen
 
-De IND maakt een onderscheid tussen buitenlandse adoptiekinderen en buitenlandse adoptiefkinderen (zie paragraaf 3.6.5). De IND verstaat onder buitenlandse adoptiekinderen: 
+De IND maakt een onderscheid tussen buitenlandse adoptiekinderen en buitenlandse adoptiefkinderen (zie paragraaf 3.6.4). De IND verstaat onder buitenlandse adoptiekinderen: 
 
 * niet Nederlandse en in de zin van de Nederlandse wet minderjarige kinderen;  
 
@@ -2709,8 +2737,8 @@ De IND maakt een onderscheid tussen buitenlandse adoptiekinderen en buitenlandse
 
 * de buitenlandse adoptiebeslissing kan niet op grond van het Haags adoptieverdrag of op grond van artikel 10:103 t/m artikel 10:112 BW worden erkend; of  
 
-* de rechtsgeldigheid van de buitenlandse adoptiebeslissing is nog niet door de Nederlandse rechter bij een niet meer voor hogere voorziening vatbare beslissing erkend, in de situatie dat de aspirant- adoptiefouders die hun woon- of verblijfplaats in Nederland hebben niet de procedure hebben gevolgd zoals vereist op grond van de Wet opneming buitenlandse kinderen ter adoptie (Wobka).    
-### 3.6.3  
+* de rechtsgeldigheid van de buitenlandse adoptiebeslissing is nog niet door de Nederlandse rechter bij een niet meer voor hogere voorziening vatbare beslissing erkend, in de situatie dat de aspirant- adoptiefouders die hun woon- of verblijfplaats in Nederland hebben niet de procedure hebben gevolgd zoals vereist op grond van de Wet opneming buitenlandse kinderen ter adoptie (Wobka).     
+### 3.6.2  
 
 ####Wobka
 
@@ -2728,13 +2756,22 @@ De IND verleent de verblijfsvergunning regulier onder de beperking familie- of g
 
 * de afstand door de biologische ouder(s) van het buitenlandse adoptiekind is naar behoren geregeld (artikel 8, aanhef onder d, Wobka); en  
 
-* de autoriteiten in het land van herkomst stemmen in met de opneming van het buitenlandse adoptiekind in het gezin van de aspirant-adoptiefouders (artikel 8, aanhef en onder e, Wobka).   De IND wijst de aanvraag af als bij het ontbreken van een geldig document voor grensoverschrijding de identiteit van het buitenlandse adoptiekind niet op een andere manier is aangetoond.  
-### 3.6.4  
+* de autoriteiten in het land van herkomst stemmen in met de opneming van het buitenlandse adoptiekind in het gezin van de aspirant-adoptiefouders (artikel 8, aanhef en onder e, Wobka).   De IND wijst de aanvraag af als bij het ontbreken van een geldig document voor grensoverschrijding de identiteit van het buitenlandse adoptiekind niet op een andere manier is aangetoond.
+###Versnelde procedure
+
+De IND handelt de aanvraag om verlening van een machtiging tot voorlopig verblijf ten behoeve van het adoptiekind versneld – binnen twee weken- af als deze wordt ingediend door de bemiddelende, vergunninghoudende instantie namens de aspirant-adoptiefouders. Nadat de IND heeft gecontroleerd dat de beginseltoestemming is afgegeven en de leges zijn betaald, geeft de IND de toestemming aan de Nederlandse vertegenwoordiging voor het land van herkomst voor afgifte van de machtiging tot voorlopig verblijf. Hierbij geldt het voorbehoud dat de volgende bewijsmiddelen worden overgelegd bij de Nederlandse vertegenwoordiging: 
+
+* de afstandsverklaring van de biologisch ouders;  
+
+* de verklaring van de bevoegde autoriteiten waaruit moet blijken dat zij hebben ingestemd met de opneming van het buitenlandse adoptiekind in het gezin van de aspirant-adoptiefouders;  
+
+* de medische verklaring, niet ouder dan zes maanden, waaruit moet blijken dat in redelijkheid kan worden aangenomen dat het adoptiekind niet lijdt aan een gevaarlijke of besmettelijke of langdurige lichamelijke of geestelijke ziekte.   De betrokken Nederlandse vertegenwoordiging controleert of de afstandsverklaring van de biologische ouders, de verklaring van de bevoegde autoriteiten van het land van herkomst, waaruit moet blijken dat de autoriteiten van het land van herkomst hebben ingestemd met de opneming van het buitenlandse adoptiekind in het gezin van de aspirant-adoptiefouders en de medische verklaring aanwezig zijn. Als er bij de Nederlandse vertegenwoordiging twijfel bestaat over de juistheid van bovengenoemde documenten, legt de Nederlandse vertegenwoordiging de zaak aan de IND voor. De IND stelt nader onderzoek in en beslist op basis van het onderzoeksresultaat of de machtiging tot voorlopig verblijf kan worden afgegeven door de Nederlandse vertegenwoordiging.  
+### 3.6.3  
 
 ####Afwachten van het onderzoek naar de geschiktheid van de aspirant-adoptiefouders
 
 Als het buitenlandse adoptiekind, als bedoeld in artikel 3.27 Vb, op het tijdstip van de inreis in Nederland sinds meer dan een jaar verblijft bij de aspirant-adoptiefouders en door hen wordt verzorgd en opgevoed, vindt er geen onderzoek meer plaats naar de geschiktheid van de aspirant-adoptiefouders. De IND merkt het buitenlands adoptiekind dan aan als een minderjarig juridisch kind als bedoeld in artikel 3.14, eerste lid aanhef en onder c, Vb, mits wordt voldaan aan de voorwaarden genoemd in artikel 3.27, eerste lid aanhef en onder a en b. Vb. In dat geval beoordeelt de IND de toelating van het kind aan de hand van artikelen 3.13 t/m 3.22 Vb. De IND wijst de aanvraag af als bij het ontbreken van een geldig document voor grensoverschrijding de identiteit van het buitenlandse adoptiekind niet op een andere manier is aangetoond.  
-### 3.6.5  
+### 3.6.4  
 
 ####Buitenlandse adoptiefkinderen
 
@@ -2901,11 +2938,13 @@ De IND beschouwt een geboorteakte als bewijsmiddel van de gezinsband tussen de v
 De IND beschouwt bescheiden met betrekking tot de familierechtelijke relatie, zoals een geboorteakte, als bewijsmiddel waaruit moet blijken dat de vreemdeling een familielid is van referent als bedoeld in artikel 3.24a Vb.
 ###Adoptie
 
-*a. De vreemdeling is nog niet geadopteerd of de buitenlandse adoptiebeslissing moet nog worden erkend door de Nederlandse rechter. De vreemdeling zal ter adoptie worden opgenomen in het gezin van de referent.*De IND beschouwt een beginseltoestemming van de Centrale autoriteit interlandelijke adoptie van het Ministerie van Veiligheid en Justitie als bewijsmiddel dat de referent: 
+###a. De vreemdeling is nog niet geadopteerd of de buitenlandse adoptiebeslissing moet nog worden erkend door de Nederlandse rechter. De vreemdeling zal ter adoptie worden opgenomen in het gezin van de referent
+
+De IND beschouwt een beginseltoestemming van de Centrale autoriteit Internationale Kinderaangelegenheden van het Ministerie van Veiligheid en Justitie als bewijsmiddel dat de referent: 
 
 * geschikt is bevonden om een buitenlands kind op te nemen ter adoptie; en  
 
-* gebruik mag maken van een vergunninghoudende bemiddelende instantie als bedoeld in hoofdstuk 5 Wobka.   De IND beschouwt een verklaring van de vergunninghoudende bemiddelende instantie als bewijsmiddel waaruit moet blijken dat de referent gebruik heeft gemaakt van een vergunninghoudende bemiddelende instantie zoals bedoeld in hoofdstuk 5 Wobka. Als geen gebruik is gemaakt van een vergunninghoudende bemiddelende instantie zoals bedoeld in hoofdstuk 5 Wobka, dan beschouwt de IND een toestemmingsverklaring van de Centrale autoriteit interlandelijke adoptie van het Ministerie van Veiligheid en Justitie als bewijsmiddel waaruit moet blijken dat de referent toestemming heeft gekregen om zonder directe bemiddeling van een vergunninghoudende bemiddelende instantie een procedure tot opneming van een adoptiekind in het buitenland te starten. De IND beschouwt een verklaring van de bevoegde autoriteiten van het land van herkomst als bewijsmiddel waaruit moet blijken dat de autoriteiten van het land van herkomst hebben ingestemd met de opneming van de vreemdeling door de referent ter adoptie. De IND beschouwt een afstandsverklaring van de biologische ouders als bewijsmiddel waaruit moet blijken dat de biologische ouders afstand hebben gedaan van de vreemdeling. De IND beschouwt een in het land van herkomst afgegeven medische verklaring, niet ouder dan zes maanden, als bewijsmiddel waaruit moet blijken dat in redelijkheid kan worden aangenomen dat de vreemdeling niet lijdt aan een gevaarlijke of besmettelijke of langdurige lichamelijke of geestelijke ziekte. De IND beschouwt, bij het ontbreken van een geldig document voor grensoverschrijding, als bewijsmiddel waarmee de identiteit van het buitenlandse adoptiekind op een andere deugdelijke wijze kan worden aangetoond, bescheiden waaruit de identiteit van het kind blijkt, bijvoorbeeld een geboorteakte. De IND beschouwt als bewijsmiddel waaruit moet blijken dat een adoptiebeslissing is erkend één van de volgende bescheiden: 
+* gebruik mag maken van een vergunninghoudende bemiddelende instantie als bedoeld in hoofdstuk 5 Wobka.   De IND beschouwt een verklaring van de vergunninghoudende bemiddelende instantie als bewijsmiddel waaruit moet blijken dat de referent gebruik heeft gemaakt van een vergunninghoudende bemiddelende instantie zoals bedoeld in hoofdstuk 5 Wobka. Als geen gebruik is gemaakt van een vergunninghoudende bemiddelende instantie zoals bedoeld in hoofdstuk 5 Wobka, dan beschouwt de IND een toestemmingsverklaring van de Centrale autoriteit Internationale Kinderaangelegenheden van het Ministerie van Veiligheid en Justitie als bewijsmiddel waaruit moet blijken dat de referent toestemming heeft gekregen om zonder directe bemiddeling van een vergunninghoudende bemiddelende instantie een procedure tot opneming van een adoptiekind in het buitenland te starten. De IND beschouwt een verklaring van de bevoegde autoriteiten van het land van herkomst als bewijsmiddel waaruit moet blijken dat de autoriteiten van het land van herkomst hebben ingestemd met de opneming van de vreemdeling door de referent ter adoptie. De IND beschouwt een afstandsverklaring van de biologische ouders als bewijsmiddel waaruit moet blijken dat de biologische ouders afstand hebben gedaan van de vreemdeling. De IND beschouwt een in het land van herkomst afgegeven medische verklaring, niet ouder dan zes maanden, als bewijsmiddel waaruit moet blijken dat in redelijkheid kan worden aangenomen dat de vreemdeling niet lijdt aan een gevaarlijke of besmettelijke of langdurige lichamelijke of geestelijke ziekte. De IND beschouwt, bij het ontbreken van een geldig document voor grensoverschrijding, als bewijsmiddel waarmee de identiteit van het buitenlandse adoptiekind op een andere deugdelijke wijze kan worden aangetoond, bescheiden waaruit de identiteit van het kind blijkt, bijvoorbeeld een geboorteakte. De IND beschouwt als bewijsmiddel waaruit moet blijken dat een adoptiebeslissing is erkend één van de volgende bescheiden: 
 
 * een verklaring van conformiteit op grond van artikel 23 van het Haags Adoptieverdrag (HAV), in geval van een Verdragsadoptie;  
 
@@ -2915,14 +2954,17 @@ De IND beschouwt bescheiden met betrekking tot de familierechtelijke relatie, zo
 
 * een door de bevoegde instantie afgegeven buitenlandse adoptiebeslissing en een onherroepelijke uitspraak van de rechter (als de rechtsgeldigheid van de adoptiebeslissing door de Nederlandse rechter bij een niet meer voor hogere voorziening vatbare beslissing moet zijn erkend, in de situatie dat de adoptiefouders die hun woon- en verblijfplaats in Nederland hebben, de procedure op grond van de Wobka niet hebben gevolgd); of  
 
-* een adoptie-uitspraak waaruit blijkt dat het kind in Nederland is geadopteerd.   *b. Verblijf gedurende het afwachten van het onderzoek naar de geschiktheid van de aspirant-adoptiefouders als bedoeld in *artikel 11 WobkaDe IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling is opgenomen in het gezin van de aspirant-adoptiefouders in de periode dat de aspirant-adoptiefouders hun gewone verblijfplaats in het buitenland hadden, bescheiden waaruit het vorenstaande blijkt, bijvoorbeeld een afschrift uit de openbare registers uit het desbetreffende land. De IND beschouwt als bewijsmiddel waaruit moet blijken dat de ouders van het kind, of als deze zijn overleden of een onbekende verblijfplaats hebben, de autoriteiten van het land van herkomst vóór de komst naar Nederland hebben ingestemd met het vertrek van het kind en met de opneming van het kind ter adoptie in het gezin van de aspirant-adoptiefouders: 
+* een adoptie-uitspraak waaruit blijkt dat het kind in Nederland is geadopteerd.   
+###b. Verblijf gedurende het afwachten van het onderzoek naar de geschiktheid van de aspirant-adoptiefouders als bedoeld in artikel 11 Wobka
+
+De IND beschouwt als bewijsmiddel waaruit moet blijken dat de vreemdeling is opgenomen in het gezin van de aspirant-adoptiefouders in de periode dat de aspirant-adoptiefouders hun gewone verblijfplaats in het buitenland hadden, bescheiden waaruit het vorenstaande blijkt, bijvoorbeeld een afschrift uit de openbare registers uit het desbetreffende land. De IND beschouwt als bewijsmiddel waaruit moet blijken dat de ouders van het kind, of als deze zijn overleden of een onbekende verblijfplaats hebben, de autoriteiten van het land van herkomst vóór de komst naar Nederland hebben ingestemd met het vertrek van het kind en met de opneming van het kind ter adoptie in het gezin van de aspirant-adoptiefouders: 
 
 * een instemmingsverklaring van de ouders; of  
 
 * een instemmingsverklaring van de bevoegde autoriteiten in het land van herkomst.   De IND beschouwt bescheiden zoals vliegtickets als bewijsmiddel waaruit moet blijken dat het kind met de aspirant-adoptiefouders Nederland is ingereisd. De IND beschouwt, bij het ontbreken van een geldig document voor grensoverschrijding, als bewijsmiddel waarmee de identiteit van het buitenlandse adoptiekind op een andere deugdelijke wijze kan worden aangetoond, bescheiden waaruit de identiteit van het kind blijkt, bijvoorbeeld een geboorteakte.
 ###Buitenlandse pleegkinderen
 
-De IND beschouwt bescheiden waaruit blijkt dat sprake is van zodanige omstandigheden dat de vreemdeling niet of bezwaarlijk door in het land van herkomst wonende naaste bloed- of aanverwanten kan worden verzorgd als bewijsmiddel dat de vreemdeling naar het oordeel van Onze Minister in het land van herkomst geen aanvaardbare toekomst heeft. De IND beschouwt bescheiden waaruit de familierechtelijke relatie blijkt als bewijsmiddel dat de referent een bloed- of aanverwant is van de vreemdeling in de zin dat hij een grootouder, broer, zuster, oom of tante van de vreemdeling is. De IND beschouwt een in het land van herkomst afgegeven medische verklaring, niet ouder dan zes maanden, als bewijsmiddel waaruit moet blijken dat in redelijkheid kan worden aangenomen dat de vreemdeling niet lijdt aan een gevaarlijke of besmettelijke of langdurige lichamelijke of geestelijke ziekte. De IND beschouwt als bewijsmiddel waaruit moet blijken dat de ouder(s) of wettelijk vertegenwoordiger en – als het recht van het land van herkomst dit vereist – de autoriteiten in het land van herkomst hebben ingestemd met het verblijf van de vreemdeling in het gezin van de pleegouders: 
+De IND beschouwt bescheiden waaruit blijkt dat sprake is van zodanige omstandigheden dat de vreemdeling niet of bezwaarlijk door in het land van herkomst wonende naaste bloed- of aanverwanten kan worden verzorgd als bewijsmiddel dat de vreemdeling naar het oordeel van Onze Minister in het land van herkomst geen aanvaardbare toekomst heeft. De IND beschouwt bescheiden waaruit de familierechtelijke relatie blijkt als bewijsmiddel dat de referent een bloed- of aanverwant is van de vreemdeling in de zin dat hij een grootouder, broer, zuster, oom of tante van de vreemdeling is. De IND beschouwt een in het land van herkomst afgegeven medische verklaring, niet ouder dan zes maanden, als bewijsmiddel waaruit moet blijken dat in redelijkheid kan worden aangenomen dat de vreemdeling niet lijdt aan een gevaarlijke of besmettelijke of langdurige lichamelijke of geestelijke ziekte. De IND beschouwt als bewijsmiddel waaruit moet blijken dat de ouder(s) of wettelijk vertegenwoordiger en – als het recht van het land van herkomst dit vereist- de autoriteiten in het land van herkomst hebben ingestemd met het verblijf van de vreemdeling in het gezin van de pleegouders: 
 
 * een instemmingsverklaring van de ouders of wettelijk vertegenwoordigers; en  
 
@@ -2966,7 +3008,7 @@ In dit hoofdstuk zijn beleidsregels opgenomen voor vreemdelingen die in Nederlan
 
 ####Beleidsregels
 
-### *Eergerelateerd geweld* 
+### Eergerelateerd geweld
 
 De IND verleent op grond van artikel 3.48, eerste lid, aanhef en onder e, Vb een verblijfsvergunning regulier voor bepaalde tijd aan een slachtoffer van eergerelateerd geweld als aan alle volgende voorwaarden is voldaan: 
 
@@ -2998,10 +3040,8 @@ De IND verstaat onder een voldoende ernstige uiting van eergerelateerd geweld in
 
 * kinderontvoering; of  
 
-* als het geweld leidt tot schrijnende omstandigheden, zoals gedwongen scheiding tussen ouder en kind of een gedwongen uithuwelijking.   In aanvulling op artikel 3.48, derde lid, Vb wijst de IND de aanvraag om verlening van de verblijfsvergunning niet af wegens: 
-
-* het ontbreken van een geldige mvv, mits aan alle andere voorwaarden voor de verblijfsvergunning regulier voor bepaalde tijd aan een slachtoffer van eergerelateerd geweld is voldaan.   
-### *Huiselijk geweld* 
+* als het geweld leidt tot schrijnende omstandigheden, zoals gedwongen scheiding tussen ouder en kind of een gedwongen uithuwelijking.   
+### Huiselijk geweld
 
 De IND verleent op grond van artikel 3.48, eerste lid, aanhef en onder f, Vb een verblijfsvergunning aan een slachtoffer van huiselijk geweld als aan alle volgende voorwaarden is voldaan: 
 
@@ -3019,9 +3059,7 @@ De IND verleent op grond van artikel 3.48, eerste lid, aanhef en onder f, Vb een
 Hierbij is niet van belang wie tot verbreking van de (huwelijks)relatie heeft besloten. Uitsluitend bij minderjarige slachtoffers is het in verband met de leeftijd niet noodzakelijk dat de gezinsband is verbroken. 
 ### *Ad 4.* 
 
-De vreemdeling moet aannemelijk maken dat hij zich niet aan het geweld kan onttrekken als hij zich zou vestigen in het land van herkomst. Naast geweld of dreiging van geweld in Nederland moet ook in het land van herkomst dreiging aanwezig zijn. De vreemdeling moet aannemelijk maken dat van de kant van de familieleden die in het land van herkomst wonen, dreiging voor betrokkene uitgaat. In aanvulling op artikel 3.48, derde lid, Vb, wijst de IND de aanvraag om verlening van de verblijfsvergunning niet af wegens: 
-
-* het ontbreken van een geldige mvv, mits aan alle andere voorwaarden voor de verblijfsvergunning regulier voor bepaalde tijd aan een slachtoffer van huiselijk geweld is voldaan.     
+De vreemdeling moet aannemelijk maken dat hij zich niet aan het geweld kan onttrekken als hij zich zou vestigen in het land van herkomst. Naast geweld of dreiging van geweld in Nederland moet ook in het land van herkomst dreiging aanwezig zijn. De vreemdeling moet aannemelijk maken dat van de kant van de familieleden die in het land van herkomst wonen, dreiging voor betrokkene uitgaat.   
 ### 2.2  
 
 ####Verlenging en intrekking
@@ -3067,7 +3105,7 @@ Voor zover indicaties van mensenhandel zich voordoen bij een vreemdeling die via
 2. de verblijfsvergunning voor slachtoffers van mensenhandel; en  
 
 3. de verblijfsvergunning voor getuige-aangevers van mensenhandel.   
-###Ad 1. De bedenktijd
+### *Ad 1. De bedenktijd*
 
 Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van artikel 8, onder k Vw een bedenktijd van maximaal drie maanden gegund, waarbinnen zij een beslissing moeten nemen of zij aangifte willen doen van mensenhandel of op andere wijze medewerking willen verlenen aan een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van een verdachte van mensenhandel, of dat zij hiervan afzien. Reeds bij de geringste aanwijzing dat sprake is van mensenhandel, biedt de politie aan het vermoedelijke slachtoffer de bedenktijd aan. Gedurende de bedenktijd schort de IND het vertrek van het vermoedelijke slachtoffer van mensenhandel uit Nederland op. De periode van de bedenktijd is eenmalig en wordt niet verlengd. De bedenktijd staat uitsluitend open voor vreemdelingen die niet rechtmatig in Nederland verblijven en: 
 
@@ -3075,7 +3113,7 @@ Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van artikel 8, on
 
 * nog niet in Nederland werkzaam zijn geweest in een situatie die strafbaar is gesteld in artikel 273f WvSr, maar wel mogelijk slachtoffer zijn van mensenhandel; of  
 
-* geen toegang tot Nederland hebben gehad, maar wel mogelijk slachtoffer zijn van mensenhandel waarbij de KMar, zo nodig in overleg met het OM, bepaalt of er voldoende signalen van mensenhandel zijn om bedenktijd aan te bieden.   De bedenktijd staat niet open voor getuige-aangevers van mensenhandel. De IND verleent de bedenktijd aan vreemdelingen die zich in vreemdelingenbewaring bevinden uitsluitend als het OM en de politie hiermee akkoord gaan. Gedurende de periode van de bedenktijd moet het vermoedelijke slachtoffer zich maandelijks melden bij de regionale eenheid van de politie waar hij of zij administratief is ondergebracht. De bedenktijd eindigt op het moment dat: 
+* geen toegang tot Nederland hebben gehad, maar wel mogelijk slachtoffer zijn van mensenhandel waarbij de KMar, zo nodig in overleg met het OM, bepaalt of er voldoende signalen van mensenhandel zijn om bedenktijd aan te bieden.   De bedenktijd staat niet open voor getuige-aangevers van mensenhandel. De IND verleent de bedenktijd aan vreemdelingen die zich in vreemdelingenbewaring bevinden uitsluitend als het OM en de politie hiermee akkoord gaan. Gedurende de periode van de bedenktijd moet het vermoedelijke slachtoffer zich maandelijks bij de regionale eenheid van de politie waar hij of zij administratief is ondergebracht. De bedenktijd eindigt op het moment dat: 
 
 * de politie vaststelt dat het vermoedelijke slachtoffer tijdens de periode van de bedenktijd ‘met onbekende bestemming’ is vertrokken;  
 
@@ -3084,7 +3122,7 @@ Aan vermoedelijke slachtoffers van mensenhandel wordt op grond van artikel 8, on
 * het vermoedelijke slachtoffer aangifte van mensenhandel heeft gedaan en het proces-verbaal heeft ondertekend, of op andere wijze medewerking heeft verleend aan een strafrechtelijk opsporings- of vervolgingsonderzoek naar of berechting in feitelijke aanleg van de verdachte; of  
 
 * het vermoedelijke slachtoffer een aanvraag voor een verblijfsvergunning (anders dan op grond van deze paragraaf) indient.   Als de bedenktijd eindigt, heft de IND de opschorting van het vertrek op. 
-###Ad 2. en 3. De verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel
+### *Ad 2. en 3. De verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel*
 
 De IND merkt de kennisgeving van aangifte of het verlenen van medewerking aan het strafproces mensenhandel (Model M55) ambtshalve aan als een aanvraag tot het verlenen van een verblijfsvergunning, zodra deze door de politie is doorgestuurd naar de IND. In aanvulling op artikel 3.48, derde lid, Vb wijst de IND de aanvraag tot het verlenen van de verblijfsvergunning niet af als de vreemdeling: 
 
@@ -3093,7 +3131,7 @@ De IND merkt de kennisgeving van aangifte of het verlenen van medewerking aan he
 * niet beschikt over een geldig document voor grensoverschrijding.   De IND beslist op een aanvraag van een vermoedelijk slachtoffer van mensenhandel binnen een streeftermijn van 24 uur nadat de aanvraag door de politie aan de IND is verzonden. 
 ###Ambtshalve verlening in de asielprocedure
 
-De IND toetst bij de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel is ex nunc. De IND laat de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel achterwege als: 
+De IND toetst ex nunc bij de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel. De IND laat de ambtshalve beoordeling of de vreemdeling in aanmerking komt voor een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel achterwege als: 
 
 * de vreemdeling al in het bezit is van een verblijfsvergunning voor slachtoffers en getuige-aangevers van mensenhandel; of  
 
@@ -3108,11 +3146,9 @@ De IND kan aan een slachtoffer van mensenhandel op grond van artikel 3.48, eerst
 
 * een medische of psychische beperking.   In aanvulling op artikel 3.48, derde lid Vb wijst de IND de aanvraag tot verlening van de verblijfsvergunning regulier voor bepaalde tijd van het slachtoffer dat niet kan of wil meewerken niet af als het slachtoffer: 
 
-* een gevaar vormt voor de openbare orde, waarbij sprake is van een inbreuk op de openbare orde die rechtstreeks verband houdt met het feit waar de vreemdeling slachtoffer van is;  
+* een gevaar vormt voor de openbare orde, waarbij sprake is van een inbreuk op de openbare orde die rechtstreeks verband houdt met het feit waar de vreemdeling slachtoffer van is; of  
 
-* niet beschikt over een geldig document voor grensoverschrijding; of  
-
-* niet beschikt over een geldige mvv, mits aan de overige voorwaarden voor een verblijfsvergunning regulier voor bepaalde tijd voor slachtoffers die niet kunnen of willen meewerken is voldaan.     
+* niet beschikt over een geldig document voor grensoverschrijding.     
 ### 3.2  
 
 ####Verlenging en intrekking

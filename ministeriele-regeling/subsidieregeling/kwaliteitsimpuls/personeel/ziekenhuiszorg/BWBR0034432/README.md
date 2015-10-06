@@ -70,7 +70,7 @@ d. andere opleidingen waarvoor de instelling een subsidie of een andere financi�
 ### Artikel  3  
 
 1.  De subsidie wordt per kalenderjaar verstrekt.   
-2.  Het subsidieplafond bedraagt voor het subsidiejaar 2014 € 48.257.510, voor het subsidiejaar 2015 € 135.399.282, voor het subsidiejaar 2016 € 141.461.936 en voor het subsidiejaar 2017 € 146.514.148.   
+2.  Het subsidieplafond bedraagt voor het subsidiejaar 2014 € 48.257.510, voor het subsidiejaar 2015 € 135.399.282, voor het subsidiejaar 2016 € 141.552.472 en voor het subsidiejaar 2017 € 146.607.917.   
 3.  Het uit hoofde van het subsidieplafond beschikbare bedrag wordt verdeeld volgens de formule (A / B) * C = D, waarbij wordt verstaan onder: 
 
 A: de Zvw-omzet van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;  
@@ -80,7 +80,7 @@ B: de som van de Zvw-omzet van alle organisatorisch verbanden ten behoeve waarva
 C: het uit hoofde van het subsidieplafond beschikbare bedrag;  
 
 D: het maximum bedrag van de subsidie voor het organisatorische verband.     
-4.  In afwijking van het tweede lid bedraagt het subsidieplafond voor de universitair medische centra voor de periode 2015–2017 jaarlijks € 37.012.505.   
+4.  In afwijking van het tweede lid bedraagt het subsidieplafond voor de universitair medische centra voor 2015 € 49.848.491 en voor de periode 2016–2017 jaarlijks € 49.880.394.   
 5.  Het uit hoofde van het subsidieplafond beschikbare bedrag voor de universitair medische centra wordt verdeeld volgens de in het derde lid bedoelde formule met dien verstande dat daarbij, anders dan in het derde lid, wordt verstaan onder: 
 
 A: de personeelskosten van het organisatorisch verband ten behoeve waarvan de subsidie wordt verstrekt;  
@@ -106,7 +106,9 @@ b. de jaarrekening over het tweede jaar voorafgaand aan het subsidiejaar, opgest
 a. een afschrift van de oprichtingsakte van de rechtspersoon dan wel van de statuten zoals deze laatstelijk zijn gewijzigd;  
 
 b. een verslag over de financiële positie van de aanvrager op het moment van de aanvraag.     
-10.  Indien de subsidieaanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de subsidieaanvrager in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld, tenzij het niet of niet tijdig aanvullen van de aanvraag alleen betrekking heeft op de in het vierde lid genoemde toelichting.  
+10.  Indien de subsidieaanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag of indien de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of de voorbereiding van de beschikking stelt de minister de subsidieaanvrager in de gelegenheid de aanvraag binnen drie weken aan te vullen. De minister besluit de aanvraag niet te behandelen indien de aanvraag binnen die termijn niet of niet voldoende is aangevuld, tenzij het niet of niet tijdig aanvullen van de aanvraag alleen betrekking heeft op de in het vierde lid genoemde toelichting.   
+11.  Indien de subsidieaanvraag niet vergezeld gaat van de jaarrekening, bedoeld in het derde lid, kan, indien de subsidieaanvrager uitstel voor het indienen van die jaarrekening heeft verkregen van de Inspectie voor de Gezondheidszorg, de minister besluiten de subsidieaanvrager voor het aanvullen van de aanvraag een langere termijn te bieden dan de in het tiende lid genoemde termijn.   
+12.  Indien aan de subsidieaanvrager overeenkomstig het elfde lid uitstel is geboden, wordt ten behoeve van de verdeling van het uit hoofde van het subsidieplafond beschikbare bedrag, in afwijking van artikel 3, derde respectievelijk vijfde lid, voor formuleonderdeel A, ten aanzien van de betreffende subsidieaanvrager uitgegaan van 90 % van de Zvw-omzet respectievelijk 90% van de personeelskosten. De berekening van de Zvw-omzet respectievelijk de personeelskosten wordt, in afwijking van het derde respectievelijk vijfde lid, alsdan herleid uit de jaarrekening over het derde jaar voorafgaand aan het subsidiejaar. De subsidievaststelling kan lager worden vastgesteld indien de nadien ingediende jaarrekening over het tweede jaar voorafgaand aan het subsidiejaar daartoe aanleiding geeft. 
 
 ### Artikel  5  
 

@@ -56,7 +56,7 @@ c. gegevens, door de directeur uit andere bron verkregen.
 
 ### Artikel  4  
 
-1.  De mededeling, bedoeld in artikel 130, eerste lid, van de wet kan schriftelijk worden gedaan volgens het model, opgenomen in de bij deze regeling behorende bijlage 2, of op andere wijze, mits daarbij dezelfde gegevens als in dat model worden vermeld. Hieronder wordt tevens verstaan aanlevering via geautomatiseerde systemen, dan wel via digitale gegevensdragers.   
+1.  De mededeling bedoeld in artikel 130, eerste lid, van de wet wordt gedaan op een door het CBR vastgestelde wijze.   
 2.  De in artikel 130, derde lid, van de wet bedoelde toezending aan het CBR van een ingevorderd rijbewijs geschiedt bij aangetekende brief.  
 
 ### §  2  
@@ -222,9 +222,9 @@ b. kosten met betrekking tot de uitvoering van de maatregel, die € 540,– bed
 
 a. betrokkene tijdens een rit herhaaldelijk gedragingen heeft verricht als genoemd in de bij deze regeling behorende bijlage 1, onder A, onderdeel III, Rijgedrag;  
 
-b. ten aanzien van betrokkene als bestuurder van een motorrijtuig, niet zijnde een bromfiets, een overschrijding is geconstateerd van de toegestane maximumsnelheid met 50 kilometer of meer op wegen binnen de bebouwde kom;  
+b. ten aanzien van betrokkene als bestuurder van een motorrijtuig, niet zijnde een bromfiets of een rijbewijsplichtige landbouw- of bosbouwtrekker of een rijbewijsplichtig motorrijtuig met beperkte snelheid een overschrijding is geconstateerd van de toegestane maximumsnelheid met 50 kilometer of meer op wegen binnen de bebouwde kom;  
 
-c. ten aanzien van betrokkene als bestuurder van een bromfiets een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom;  
+c. ten aanzien van betrokkene als bestuurder van een bromfiets of een rijbewijsplichtige landbouw- of bosbouwtrekker of een rijbewijsplichtig motorrijtuig met beperkte snelheid een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom;  
 
 d. ten aanzien van betrokkene als bestuurder van een motorrijtuig een overschrijding is geconstateerd van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden,.  
 
@@ -703,191 +703,4 @@ g. betrokkene heeft tijdens de duur van het alcoholslotprogramma:
 ####Andere drogerende stoffen
 
 betrokkene is staande gehouden of aangehouden onder invloed van drogerende stoffen. 
-
-### Bijlage  2  
-
-####bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011
-
-####Model mededeling
-
-Centraal Bureau Rijvaardigheidsbewijzen Divisie Rijgeschiktheid, Afdeling Vorderingen Postbus 3012 2280 GA RIJSWIJK (ZH) Politie / Openbaar Ministerie / CBR: Afdeling / district: PL-code: Contactpersoon: Adres: Postcode + Plaatsnaam: Telefoonnummer: Ons kenmerk: 
-
-####Mededeling als bedoeld in artikel 130, eerste lid, van de Wegenverkeerswet 1994
-
-□ De korpschef, bedoeld in artikel 27 van de Politiewet 2012, en de door hem voor dit doel aangewezen plaatsvervangers,  
-
-□ De commandant, bedoeld in artikel 4, derde lid, van de Politiewet 2012, en de door hem voor dit doel aangewezen plaatsvervangers,  
-
-□ De officier van justitie,  
-
-□ De directeur van de Stichting Centraal Bureau Rijvaardigheidsbewijzen, doet mededeling van het vermoeden dat de hierna genoemde houder van een rijbewijs verder genoemd betrokkene) niet langer beschikt over de rijvaardigheid vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven, dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van categorie(ën) /.. /.. /.. / van motorrijtuigen waarvoor dat rijbewijs is afgegeven.    *Gegevens betrokkene*  Naam: Voornamen: Geslacht: Geboortedatum: Geboorteplaats: Adres: Postcode: Woonplaats:  *Rijbewijsgegevens*  Rijbewijsnummer: Burger Service Nummer: Afgifte autoriteit: Afgegeven op: Geldig tot: Categorie(ën): /.. / ../.. / 
-
-####Datum feit of feiten
-
-*Het vermoeden dat betrokkene niet beschikt over de vereiste geschiktheid is gebaseerd op de volgende, aan alcohol gerelateerde, feiten en omstandigheden:*  
-
-□ bij betrokkene wordt een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 350 µg/l, respectievelijk 0,8‰;  
-
-□ bij betrokkene is in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 220 µg/l, respectievelijk 0,5‰;  
-
-□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste twee maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij bij één van die verdenkingen een adem- of bloedalcoholgehalte is geconstateerd dat hoger is dan 220 µg/l, respectievelijk 0,5‰, of dat hoger is dan 88 µg/l, respectievelijk 0,2‰, indien tenminste een van de feiten is begaan als beginnende bestuurder;  
-
-□ betrokkene weigert mee te werken aan een onderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
-
-□ uit een verklaring van een medisch deskundige blijkt dat betrokkene alcoholafhankelijk is;  
-
-□ bij betrokkene is, als deelnemer aan het alcoholslotprogramma, een adem- of bloedalcoholgehalte geconstateerd dat hoger is dan 88 µg/l, respectievelijk 0,2‰ of betrokkene heeft geweigerd mee te werken aan een alcoholonderzoek als bedoeld in artikel 8, tweede of derde lid, van de wet;  
-
-□ betrokkene heeft tijdens de duur van het alcoholslotprogramma: 
-
-− een motorrijtuig bestuurd waarvoor een rijbewijsplicht geldt, met uitzondering van een bromfiets, dat niet is voorzien van een alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet;  
-
-− een motorrijtuig bestuurd, niet zijnde een bromfiets, waarvan het kenteken in het in artikel 129a van de wet bedoelde register aan hem is gekoppeld, terwijl het motorrijtuig is voorzien van een niet-werkend alcoholslot als bedoeld in artikel 132e, eerste lid, van de wet, of  
-
-− een motorrijtuig bestuurd, niet zijnde een bromfiets, waarin wel een zodanig alcoholslot is ingebouwd, maar waarvan het kenteken niet in het kader van het alcoholslotprogramma aan de bestuurder is gekoppeld, of  
-
-− een motorrijtuig, niet zijnde een bromfiets, bestuurd, terwijl door een van de in artikel 159, onderdeel a, van de wet bedoelde personen is geconstateerd dat een ander dan de bestuurder heeft geblazen in het alcoholslot, bedoeld in artikel 132e, eerste lid, van de wet.      
-
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| Datum:  | Ademalcoholgehalte:  | Bloedalcoholgehalte:  | Weigering:  |
-| ....  | ....  | ....  | ....  |
-| ....  | ....  | ....  | ....  |
-| ....  | ....  | ....  | ....  |
-
-*Het vermoeden dat betrokkene niet beschikt over de vereiste rijvaardigheid of zodanig rijgedrag heeft vertoond dat daardoor het vermoeden is ontstaan dat hij niet beschikt over de vereiste rijvaardigheid, is gebaseerd op de volgende, niet aan alcohol gerelateerde, feiten en omstandigheden:*  
-
-– Betrokkene heeft blijk gegeven van een gebrekkige rijvaardigheid, die blijkt uit: 
-
-a. de plaats op de weg, waaronder begrepen spookrijden;  
-
-b. rijden met een niet aan de snelheid van de overige gelijksoortige verkeersdeelnemers aangepaste snelheid;  
-
-c. onjuist invoegen en uitvoegen;  
-
-d. onnodig remmen en stoppen;  
-
-e. naar links of rechts afslaan op een wijze waardoor het verkeer in gevaar wordt gebracht;  
-
-f. rakelings passeren van andere weggebruikers of obstakels;  
-
-g. onvoldoende anticiperen op het gedrag van andere deelnemers;  
-
-h. niet adequaat reageren op bijzondere verkeerssituaties, zoals filevorming;  
-
-i. niet tijdig onderkennen van de invloed van externe of interne factoren.    
-
-– Betrokkene heeft gevaarzettend rijgedrag tentoongespreid waardoor: 
-
-a. andere weggebruikers of obstakels rakelings worden gepasseerd;  
-
-b. andere weggebruikers worden klem gereden of de weg wordt afgesneden, of    
-
-– Betrokkene heeft blijk gegeven van gebrek aan inzicht in risico's in het verkeer, zoals: 
-
-a. onvoldoende anticiperen op het gedrag van andere weggebruikers;  
-
-b. niet adequaat reageren op bijzondere verkeerssituaties, zoals filevorming;  
-
-c. niet tijdig onderkennen van de invloed van externe factoren, zoals het weer, de toestand van de weg, het tijdstip, de aanwezigheid van scholen, voetgangersoversteekplaatsen, de specifieke eigenschappen en de toestand van het eigen motorrijtuig en van andere voertuigen en van de vervoerde lading, wegwerkzaamheden, of van interne factoren, zoals het ‘hand held’ bellen, afleiding door audiovisuele middelen of vermoeidheid;  
-
-d. uitvoeren van gevaarlijke inhaalmanoeuvres of inhalen nabij voetgangersoversteekplaatsen, waarbij voetgangers duidelijk in gevaar zijn gebracht;  
-
-e. met een te hoge snelheid naderen van of inhalen nabij voetgangersoversteekplaatsen of in andere onoverzichtelijke situaties, zoals kruisingen en spoorwegovergangen;  
-
-f. aanhouden van, gelet op de snelheid waarmee gereden wordt, een te korte en derhalve onveilige volgafstand;  
-
-g. geen rekening houden met de belangen van andere weggebruikers, zoals het: 
-
-1. geen gelegenheid geven tot invoegen bij een rijbaanversmalling, na inhalen, vanaf de invoegstrook;  
-
-2. blokkeren van doorgangen of dubbel parkeren, of      
-
-– Betrokkene heeft blijk gegeven van incorrect samenspel met andere verkeersdeelnemers in het verkeer, dat blijkt uit: 
-
-a. rijden met een niet aan de snelheid van de overige gelijksoortige verkeersdeelnemers aangepaste snelheid;  
-
-b. onnodig remmen en stoppen;  
-
-c. snijden: het niet juist afmaken van de inhaalmanoeuvre door te snel en te abrupt naar rechts of naar links te gaan;  
-
-d. op te korte afstand volgen van voorliggers;  
-
-e. onjuist invoegen of onjuist uitvoegen op autowegen en autosnelwegen;  
-
-f. onjuist invoegen of onjuist uitvoegen bij vermindering van het aantal rijstroken, of    
-
-– Betrokkene heeft duidelijk een gedrag tentoongespreid dat in strijd is met de essentiële verkeersregels en verkeerstekens ter zake van: 
-
-a. de plaats op de weg, waaronder begrepen spookrijden;  
-
-b. het inhalen;  
-
-c. het verlenen van voorrang;  
-
-d. het naar links of rechts afslaan;  
-
-e. het gebruik van lichten en geven van signalen;  
-
-f. het rijden op auto(snel)wegen: bijvoorbeeld het rijden op de vluchtstrook of het negeren van het rode kruis boven een rijstrook;  
-
-g. het negeren van een rood verkeerslicht;  
-
-h. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 50 kilometer of meer op wegen binnen de bebouwde kom;  
-
-i. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom bij wegwerkzaamheden;  
-
-j. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen de bebouwde kom.      *Het vermoeden dat betrokkene niet beschikt over de vereiste rijvaardigheid of geschiktheid is gebaseerd op de volgende, niet aan alcohol gerelateerde, feiten en omstandigheden:*   *Het vertoonde gedrag is:*  
-
-– nader omschreven in bijgaande afschriften van het proces-verbaal  
-
-– nader te bekijken op bijgaande kopie van een video-opname.    *Vordering in het kader van begeleid rijden*  
-
-– Betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.    *Indien van toepassing:*  Invordering als bedoeld in artikel 130, tweede en derde lid, van de Wegenverkeerswet 1994 heeft op grond van het volgende plaatsgevonden: 
-
-□ betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;  
-
-□ betrokkene heeft een poging tot zelfdoding ondernomen in het verkeer;  
-
-□ er zijn duidelijke aanwijzingen dat betrokkene lijdt aan een aandoening waardoor hij geestelijk en/of lichamelijk niet goed functioneert, dan wel ernstige psychiatrische problemen ondervindt, hetgeen bij twijfel bevestigd wordt door een medisch deskundige;  
-
-□ betrokkene heeft met een motorrijtuig tegen de rijrichting in gereden (spookrijden);  
-
-□ betrokkene heeft binnen een periode van een jaar tenminste drie aanrijdingen veroorzaakt;  
-
-□ betrokkene is rechtstreeks betrokken bij een aanrijding met duidelijke materiële dan wel letselschade en verklaart de aanrijding niet te hebben bemerkt;  
-
-□ betrokkene is niet in staat het motorrijtuig in bedwang te houden;  
-
-□ betrokkene heeft een aanrijding veroorzaakt door het intrappen van het onjuiste pedaal of door het niet intrappen van het juiste pedaal;  
-
-□ betrokkene is bewust ingereden op een andere weggebruiker;  
-
-□ bij betrokkene wordt als bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;  
-
-□ bij betrokkene wordt in de hoedanigheid van beginnende bestuurder een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan dan wel hoger is dan 570 µg/l, respectievelijk 1,3‰;  
-
-□ ten aanzien van betrokkene is binnen een periode van vijf jaar tenminste drie maal proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, tweede, derde of vierde lid, van de wet, waarbij betrokkene ten tijde van de laatste verdenking houder van een rijbewijs was;  
-
-□ betrokkene heeft twee maal als beginnende bestuurder een of meer van de strafbare feiten begaan die worden genoemd in bijlage 1, onderdeel A, subonderdeel IV, bij de Regeling maatregelen rijvaardigheid en geschiktheid 2011 en voor deze feiten is hij tijdens of na de in artikel 1, onder beginnende bestuurder, van die regeling genoemde termijn onherroepelijk veroordeeld, tenzij voor het feit in eerste instantie een strafbeschikking als bedoeld in artikel 257b van het Wetboek van Strafvordering is uitgevaardigd, dan wel voor deze feiten is tijdens of na die termijn ten aanzien van hem een onherroepelijk geworden strafbeschikking als bedoeld in artikel 257a van het Wetboek van Strafvordering uitgevaardigd;  
-
-□ ten aanzien van betrokkene is tijdens de duur van het alcoholslotprogramma proces-verbaal opgemaakt op verdenking van overtreding van artikel 8, derde juncto vierde lid, van de wet of van artikel 9, negende lid, van de wet;  
-
-□ betrokkene die voor zijn achttiende verjaardag in het kader van begeleid rijden een rijbewijs voor de categorie B heeft behaald, heeft in de periode tot zijn achttiende verjaardag een motorrijtuig bestuurd zonder een op de begeleiderspas geregistreerde begeleider, dan wel met een begeleider van wie hij weet dat deze onder zodanige invloed verkeert van een stof, waarvan het gebruik – al dan niet in combinatie met het gebruik van een andere stof – de rijvaardigheid kan verminderen, dat deze niet tot behoorlijk begeleiden in staat moet worden geacht.    *Overige:*  
-
-□ het rijbewijs is bij de mededeling gevoegd.  
-
-□ betrokkene beheerst de Nederlandse taal (van belang voor de verschillende educatieve maatregelen).  
-
-□ betrokkene beheerst de volgende taal of talen (alleen invullen indien betrokkene de Nederlandse taal niet beheerst): ...........    
-
-| --- | --- |
-|:---|:---|
-| Aantal bijlage(n) meegestuurd:  | ...........  |
-| Plaats:  | ...........  |
-| Datum:  | ...........  |
-| Handtekening:  | ...........  |
-| Naam:  | ...........  |
-| Functie:  | ...........  |
 

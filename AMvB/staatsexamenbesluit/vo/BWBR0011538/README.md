@@ -517,6 +517,57 @@ b.indien het betreft het staatsexamen vmbo:
 4°.andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.   
 7.  Het College voor examens tekent de diploma's en cijferlijsten.  
 
+### Artikel  30a  
+
+####Voorschriften judicium cum laude
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een kandidaat is geslaagd voor het staatsexamen vwo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de rekentoets, de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 26a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor de rekentoets en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 26a, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+2.  Een kandidaat is geslaagd voor het staatsexamen havo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de rekentoets, de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 26a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor de rekentoets en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 26a, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+3.  Een kandidaat is geslaagd voor het staatsexamen vmbo theoretische leerweg of gemengde leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de rekentoets, de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de vakken van het sectordeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor de rekentoets, het sectorwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 26, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+4.  Een kandidaat is geslaagd voor het staatsexamen vmbo basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van: 
+
+1°. de eindcijfers voor de twee algemene vakken uit het sectordeel, en  
+
+2°. twee maal het eindcijfer voor het afdelingsvak, intrasectorale programma of intersectorale programma uit het vrije deel,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor de rekentoets, en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 26, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.    
+
 ### Artikel  31  
 
 ####Certificaat en cijferlijst deelstaatsexamen

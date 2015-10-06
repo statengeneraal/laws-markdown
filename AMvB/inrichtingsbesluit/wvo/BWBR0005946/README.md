@@ -100,9 +100,9 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  3  
 
-####Toelating eerste leerjaar vwo, havo, mavo, vbo, uitgezonderd praktijkonderwijs
+####Toelating eerste leerjaar vwo, havo, mavo, vbo en praktijkonderwijs
 
-1.  Tot het eerste leerjaar van een school, behalve voor zover het betreft een school voor praktijkonderwijs, kan als leerling slechts worden toegelaten degene die:  
+1.  Tot het eerste leerjaar van een school kan als leerling slechts worden toegelaten degene die:  
 
 a. afkomstig is van een school voor basisonderwijs en bij wie naar het oordeel van de directeur van de school voor basisonderwijs de grondslag voor het volgen van aansluitend voortgezet onderwijs in voldoende mate is gelegd, of  
 
@@ -142,12 +142,6 @@ a. de kandidaat-leerling die tot het eerste leerjaar van een andere school voor 
 
 b. de kandidaat-leerling die het eerste leerjaar van een school voor vbo gedeeltelijk heeft doorlopen, indien de studieresultaten daartoe naar het oordeel van het bevoegd gezag aanleiding geven.     
 3.   In afwijking van artikel 3 kan het bevoegd gezag van een school voor vbo tot het eerste leerjaar van die school toelaten de kandidaat die tot het eerste leerjaar van enige school is toegelaten.  
-
-### Artikel  7  
-
-####Toelatingsvoorwaarde praktijkonderwijs
-
-Tot een school voor praktijkonderwijs kan als leerling worden toegelaten degene die de leeftijd van ten minste 12 jaar heeft bereikt. 
 
 ### Artikel  8  
 
@@ -219,6 +213,103 @@ De deskundigen, bedoeld in artikel 17a, twaalfde lid, van de wet zijn een orthop
 1.  Het ontwikkelingsperspectief, bedoeld in artikel 26 van de wet, bevat ten minste informatie over naar welk vervolgonderwijs, en indien het een leerling betreft die praktijkonderwijs volgt naar welke soort arbeid uitstroom van de leerling wordt verwacht, en de onderbouwing daarvan.   
 2.  De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.  
 
+### Hoofdstuk  IIa  
+
+####Toelaatbaarheid tot het praktijkonderwijs en aangewezen zijn op het leerwegondersteunend onderwijs
+
+### Artikel  15d  
+
+####Beoordelingscriteria samenwerkingsverband
+
+Treedt in werking per 01-01-2016 
+
+1.  Een samenwerkingsverband baseert de beslissing op de aanvraag, bedoeld in artikel 10e, vierde lid, en 10g, tweede lid, van de wet, uitsluitend op: 
+
+a. de door het bevoegd gezag gegeven motivering die gebaseerd is op ervaringen met de leerling in het onderwijsleerproces, zoals die onder meer blijken uit het onderwijskundig rapport, bedoeld in artikel 42 van de Wet op het primair onderwijs en artikel 43 van de Wet op de expertisecentra,  
+
+b. de leerachterstand van de leerling,  
+
+c. het intelligentiequotiënt van de leerling, en  
+
+d. indien dat noodzakelijk is voor het vormen van een oordeel, de resultaten van een of meer persoonlijkheidsonderzoeken met betrekking tot prestatiemotivatie, faalangst en emotionele instabiliteit die een beeld geven van de sociaal-emotionele problematiek van de leerling in relatie tot de leerprestaties, en  
+
+e. indien het een aanvraag voor toelaatbaarheid tot het praktijkonderwijs betreft: de zienswijze van de ouders.     
+2.  Bij de beslissing op de aanvraag, bedoeld in het eerste lid, controleert het samenwerkingsverband of het bevoegd gezag voor de gegevens, bedoeld in het eerste lid, onderdelen b tot en met d, de jaarlijks voor 1 oktober bij ministeriële regeling vastgestelde screenings- of testinstrumenten, heeft gebruikt. De testinstrumenten voor de gegevens, bedoeld in het eerste lid, onderdelen c en d, worden toegepast onder verantwoordelijkheid van een diagnostisch geschoold psycholoog of diagnostisch geschoold orthopedagoog.   
+3.  De leerachterstand van de leerling is de uitkomst van 1 minus (DLE/DL), waarin: 
+
+a. DLE de afkorting is van didactische leeftijdseenheden en het aantal maanden onderwijs dat behoort bij het niveau dat de leerling feitelijk heeft bereikt, en  
+
+b. DL de afkorting is van didactische leeftijd en het aantal maanden dat een leerling vanaf groep 3 in de perioden van september tot en met juni was ingeschreven bij een school als bedoeld in artikel 1 van de Wet op het primair onderwijs of een school voor speciaal onderwijs als bedoeld in artikel 1 van de Wet op de expertisecentra.     
+4.  Het samenwerkingsverband wijst de aanvraag voor praktijkonderwijs uitsluitend toe, indien de leerling: 
+
+a. een intelligentiequotiënt heeft binnen de bandbreedte van 55 tot en met 80, en  
+
+b. een leerachterstand heeft op ten minste twee van de vier domeinen inzichtelijk rekenen, begrijpend lezen, technisch lezen en spellen, ten minste één van deze twee domeinen inzichtelijk rekenen of begrijpend lezen betreft en deze leerachterstand gelijk is aan of groter is dan 0,5.     
+5.  Het samenwerkingsverband wijst de aanvraag voor leerwegondersteunend onderwijs uitsluitend toe, indien de leerling: 
+
+a. 
+
+1° een intelligentiequotiënt heeft binnen de bandbreedte 75 tot en met 90, en  
+
+2° een leerachterstand heeft op ten minste twee van de vier domeinen inzichtelijk rekenen, begrijpend lezen, technisch lezen en spellen, ten minste één van deze twee domeinen inzichtelijk rekenen of begrijpend lezen betreft en deze leerachterstand is gelegen binnen de bandbreedte van 0,25 tot 0,5, of    
+
+b. 
+
+1° een intelligentiequotiënt heeft binnen de bandbreedte 91 tot en met 120, en  
+
+2° een leerachterstand heeft op tenminste twee van de vier domeinen inzichtelijk rekenen, begrijpend lezen, technisch lezen en spellen, ten minste één van deze twee domeinen inzichtelijk rekenen of begrijpend lezen betreft en deze leerachterstand is gelegen binnen de bandbreedte van 0,25 tot 0,5, en  
+
+3° een sociaal-emotionele problematiek heeft als bedoeld in het eerste lid, onderdeel d.       
+6.  Voor een leerling die wat intelligentiequotiënt of leerachterstand betreft, voldoet aan de vereisten voor toelaatbaarheid tot het praktijkonderwijs en die wat de overige vereisten betreft voldoet aan de vereisten om aangewezen te zijn op het leerwegondersteunend onderwijs, kan een leerling toelaatbaar worden verklaard tot praktijkonderwijs of aangewezen worden op het leerwegondersteunend onderwijs, afhankelijk van de door het bevoegd gezag gegeven motivering, bedoeld in het eerste lid, onderdeel a.  
+
+### Artikel  15e  
+
+####Aanvragen en beschikkingen voor bijzondere groepen van leerlingen
+
+Treedt in werking per 01-01-2016 
+
+1.  Op grond van artikel 10g, vijfde lid, van de wet kan het bevoegd gezag van een school voor praktijkonderwijs tevens een aanvraag voor toelaatbaarheid tot het praktijkonderwijs bij een samenwerkingsverband indienen voor een leerling voor wie het zorg- en onderwijsaanbod van het praktijkonderwijs naar het oordeel van dat bevoegd gezag het beste aansluit bij de behoeften van deze leerling en die: 
+
+a. het voorbereidend beroepsonderwijs of het middelbaar algemeen voortgezet onderwijs bezoekt en op leerwegondersteunend onderwijs is aangewezen: 
+
+1° met scores op de criteria, bedoeld in artikel 15d, in het grensvlak van het leerwegondersteunend onderwijs en praktijkonderwijs,  
+
+2° naar het oordeel van het bevoegd gezag een toegenomen problematiek heeft nadat de beslissing is genomen dat de leerling op leerwegondersteunend onderwijs is aangewezen, of  
+
+3° naar het oordeel van het bevoegd gezag een stapeling van andersoortige problematiek heeft dan wordt beoordeeld in het onderzoek of de leerling is aangewezen op leerwegondersteunend onderwijs of praktijkonderwijs, dan wel    
+
+b. beschikt over een toelaatbaarheidsverklaring voor het speciaal onderwijs of voortgezet speciaal onderwijs van een samenwerkingsverband dan wel een ontwikkelingsperspectief en die: 
+
+1° voldoet aan het intelligentiequotiëntcriterium of leerachterstandscriterium voor toelating tot het praktijkonderwijs, bedoeld in artikel 15d, vierde lid, blijkens gegevens die gebaseerd zijn op screenings- of testinstrumenten als bedoeld in artikel 15d, tweede lid, of  
+
+2° naar het oordeel van het bevoegd gezag, ongeacht een dergelijk intelligentiequotiënt of een dergelijke leerachterstand, een zodanige problematiek heeft dat toelaatbaarheid tot het praktijkonderwijs geboden is.       
+2.  Het samenwerkingsverband baseert de beschikking over de toelaatbaarheid tot het praktijkonderwijs uitsluitend op de volgende, bij de aanvraag gevoegde, gegevens: 
+
+a. een kopie van de beslissing dat de leerling is aangewezen op leerwegondersteunend onderwijs, of een kopie van de toelaatbaarheidsverklaring voor het speciaal onderwijs of voortgezet speciaal onderwijs, danwel een kopie van het ontwikkelingsperspectief,  
+
+b. de op schrift gestelde zienswijze en instemming van de ouders,  
+
+c. een motivering waaruit blijkt dat de leerling voldoet aan de voorschriften, bedoeld in het eerste lid, en  
+
+d. een leerling-dossier dat in elk geval bevat: 
+
+1° het ontwikkelingsperspectief of het onderwijskundig rapport over de leerling, bedoeld in artikel 42 van de Wet op het primair onderwijs en artikel 43 van de Wet op de expertisecentra,  
+
+2° een beschrijving van de activiteiten van het verwijzende bevoegd gezag in het kader van de begeleiding van de leerling, en van de resultaten van die activiteiten,  
+
+3° een document dat aangeeft welke externe deskundigen voor advies of hulp zijn ingeschakeld bij de begeleiding van de leerling,  
+
+4° een beschrijving van de risico’s die zich naar verwachting zullen voordoen indien de leerling voorbereidend beroepsonderwijs, middelbaar algemeen voortgezet onderwijs, speciaal onderwijs of voortgezet speciaal onderwijs blijft volgen, en  
+
+5° mogelijk relevante test- en toetsgegevens.      
+
+### Artikel  15f  
+
+####Optionele mogelijkheid afwijken van landelijke criteria, procedure, duur en licenties
+
+1.  Dit lid is nog niet in werking getreden.   
+2.  Onze Minister kan nadere regels stellen over de toepassing van de bevoegdheden, bedoeld in artikel 17a1, eerste en tweede lid, van de wet. 
+
 ### Hoofdstuk  III  
 
 ####Inrichting van het onderwijs
@@ -231,21 +322,21 @@ De deskundigen, bedoeld in artikel 17a, twaalfde lid, van de wet zijn een orthop
 
 ####Vakanties en andere dagen waarop geen onderwijs wordt verzorgd
 
-1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van artikel 22, tweede lid, tweede volzin, van de wet, mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
-2.  Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek. Op die zondagen respectievelijk zaterdagen en zondagen wordt geen onderwijs verzorgd.   
-3.  Tenzij vallend binnen een op grond van artikel 22, tweede lid, tweede volzin, van de wet vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
+1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van artikel 6g1, derde lid, van de wet, mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
+2.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties die centraal worden vastgesteld op grond van artikel 6g1, vierde lid, van de wet, dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed.   
+3.  Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek. Op die zondagen respectievelijk zaterdagen en zondagen wordt geen onderwijs verzorgd.   
+4.  Tenzij vallend binnen een op grond van het tweede lid of op grond van artikel 6g1, vierde lid, van de wet vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
 
 a. nieuwjaarsdag, tweede paasdag, Hemelvaartsdag, tweede pinksterdag en de beide kerstdagen, alsmede  
 
 b. Koningsdag en Bevrijdingsdag.     
-4.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het derde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het derde lid, onderdeel a, die vallen buiten een op grond van artikel 22, tweede lid, tweede volzin, van de wet vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het derde lid, onderdeel a, dat buiten een op grond van artikel 22, tweede lid, tweede volzin, van de wet vastgestelde vakantie valt.   
-5.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties op grond van artikel 22, tweede lid, tweede volzin, van de wet, dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed. 
+5.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het vierde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het vierde lid, onderdeel a, die vallen buiten een op grond van het tweede lid of op grond van artikel 6g1, vierde lid, van de wet vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het vierde lid, onderdeel a, dat buiten een op grond van het tweede lid of op grond van artikel 6g1, vierde lid, van de wet vastgestelde vakantie valt. 
 
 ### Artikel  17  
 
 ####Aanwijzing overige dagen waarop geen onderwijs wordt verzorgd
 
-Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd ingevolge artikel 6g, vierde lid, en artikel 22, tweede lid, tweede volzin, van de wet en artikel 16, tweede tot en met vijfde lid, wijst het bevoegd gezag bij een zesdaagse schoolweek vier dagen en bij een vijfdaagse schoolweek drie dagen per schooljaar aan waarop geen onderwijs wordt verzorgd. 
+Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd op grond van artikel 16, wijst het bevoegd gezag bij een zesdaagse schoolweek ten hoogste dertien dagen per schooljaar aan en bij een vijfdaagse schoolweek ten hoogste twaalf dagen per schooljaar aan waarop geen onderwijs wordt verzorgd, waarvan ten hoogste zes dagen onmiddellijk aansluitend voor of na de voor de school op grond van artikel 6g1, vierde lid, van de wet vastgestelde zomervakantie. 
 
 ### §  2  
 
@@ -321,7 +412,8 @@ Praktijkonderwijs omvat ten minste Nederlandse taal, rekenen/wiskunde, informati
 ####Voorschriften orthopedagogisch-didactische centra
 
 1.  Indien een samenwerkingsverband als bedoeld in artikel 1 van de wet een orthopedagogisch-didactisch centrum omvat, wordt dat vermeld in het ondersteuningsplan.   
-2.  Een leerling die is of wordt ingeschreven bij een school, kan gedurende ten hoogste 2 jaren het onderwijsprogramma of een gedeelte daarvan volgen bij een orthopedagogisch-didactisch centrum.  
+2.  Een leerling die is of wordt ingeschreven bij een school, kan gedurende ten hoogste 2 jaren het onderwijsprogramma of een gedeelte daarvan volgen bij een orthopedagogisch-didactisch centrum.   
+3.  Het onderwijs van leerlingen die langer dan 3 maanden een programma volgen bij het orthopedagogisch-didactisch centrum, wordt gegeven door daartoe bevoegde leraren.  
 
 ### Artikel  26b  
 

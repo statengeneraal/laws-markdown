@@ -82,8 +82,9 @@ In dit besluit wordt verstaan onder:
 2.  Voor toelating tot het afleggen van deelstaatsexamens is USD 17 verschuldigd voor een vak ten aanzien waarvan alleen het centraal examen of alleen het college-examen wordt afgelegd, en USD 20 voor een vak ten aanzien waarvan zowel het college-examen als het centraal examen wordt afgelegd, met dien verstande dat per kalenderjaar in totaal niet meer is verschuldigd dan USD 45.   
 3.  Het verschuldigde bedrag wordt voldaan op de wijze en voor de datum, bepaald door het College voor examens.   
 4.  Het eerste en tweede lid zijn niet van toepassing op kandidaten die afkomstig zijn van een school voor speciaal voortgezet onderwijs.   
-5.  Zij die aan een staatsexamen of deelstaatsexamen deelnemen, zijn verplicht zich te legitimeren op verzoek van hen die deze examens afnemen of daarop toezicht houden.   
-6.  De in dit artikel bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.  
+5.  Ten aanzien van kandidaten afkomstig van een school ten aanzien waarvan toepassing is gegeven aan artikel 72, lid 1a, van de wet, of een instelling voor educatie en beroepsonderwijs ten aanzien waarvan toepassing is gegeven aan artikel 6.2.2a van de Wet educatie en beroepsonderwijs BES, is het bedrag, bedoeld in het eerste en tweede lid, verschuldigd door het bevoegd gezag van die school of instelling.  
+6.  Zij die aan een staatsexamen of deelstaatsexamen deelnemen, zijn verplicht zich te legitimeren op verzoek van hen die deze examens afnemen of daarop toezicht houden.   
+7.  De in dit artikel bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.  
 
 ### Artikel  2a  
 
@@ -481,6 +482,57 @@ b. indien het betreft het staatsexamen vmbo:
 
 4°. andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.       
 7.  Het College voor examens ondertekent de diploma's en cijferlijsten.  
+
+### Artikel  28a  
+
+####Voorschriften judicium cum laude
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een kandidaat is geslaagd voor het staatsexamen vwo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 24a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 24a, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+2.  Een kandidaat is geslaagd voor het staatsexamen havo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 24a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 24a, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+3.  Een kandidaat is geslaagd voor het staatsexamen vmbo theoretische leerweg of gemengde leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de vakken van het sectordeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» heeft behaald voor het sectorwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 24, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.     
+4.  Een kandidaat is geslaagd voor het staatsexamen vmbo basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van: 
+
+1°. de eindcijfers voor de twee algemene vakken uit het sectordeel, en  
+
+2°. twee maal het eindcijfer voor het afdelingsvak, intrasectorale programma of intersectorale programma uit het vrije deel,    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» heeft behaald voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 24, en  
+
+c. alle centrale examens zijn afgelegd binnen de periode van een jaar voorafgaand aan de diplomering.    
 
 ### Artikel  29  
 

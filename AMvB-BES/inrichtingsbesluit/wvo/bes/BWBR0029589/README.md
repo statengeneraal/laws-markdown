@@ -210,21 +210,21 @@ Alvorens toepassing te geven aan artikel 64, twaalfde lid, van de wet, vergewist
 
 ####Vakanties en andere dagen waarop geen onderwijs wordt verzorgd
 
-1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van artikel 45, tweede lid, tweede volzin, van de wet, mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
-2.  Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek. Op die zondagen respectievelijk zaterdagen en zondagen wordt geen onderwijs verzorgd.   
-3.  Tenzij vallend binnen een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
+1.  Het aantal dagen dat per schooljaar ten hoogste voor vakanties op grond van artikel12b, derde lid, van de wet, mag worden besteed, bedraagt 66 bij een zesdaagse schoolweek en 55 bij een vijfdaagse schoolweek.   
+2.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties die centraal worden vastgesteld op grond van artikel 12b, vierde lid, van de wet, dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed.   
+3.  Onder dagen in het eerste lid wordt verstaan elke dag van de week met uitzondering van de zondag bij een zesdaagse schoolweek en met uitzondering van de zaterdag en de zondag bij een vijfdaagse schoolweek. Op die zondagen respectievelijk zaterdagen en zondagen wordt geen onderwijs verzorgd.   
+4.  Tenzij vallend binnen een op grond van het tweede lid of op grond van artikel 12b, vierde lid, van de wet vastgestelde vakantie, worden de volgende dagen, waarop eveneens geen onderwijs wordt verzorgd, niet meegeteld bij het aantal dagen, bedoeld in het eerste lid: 
 
 a. nieuwjaarsdag, tweede paasdag, Hemelvaartsdag, tweede pinksterdag en de beide kerstdagen, alsmede  
 
 b. Koningsdag en Koninkrijksdag.     
-4.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het derde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het derde lid, onderdeel a, die vallen buiten een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het derde lid, onderdeel a, dat buiten een op grond van artikel 45, tweede lid, tweede volzin, van de wet vastgestelde vakantie valt.   
-5.  Indien na aftrek van het aantal dagen dat wordt besteed voor vakanties op grond van artikel 45, tweede lid, tweede volzin, van de wet, dagen resteren van de in het eerste lid bedoelde aantallen, kan het bevoegd gezag voor het betreffende schooljaar een of meer vakanties vaststellen waarvoor ten hoogste dat resterend aantal dagen mag worden besteed. 
+5.  Indien aan een bijzondere school onderwijs wordt gegeven gebaseerd op een levensbeschouwing volgens welke andere dan de in het vierde lid, onderdeel a, genoemde dagen als feestdagen worden aangemerkt, kan in plaats van op de dagen, bedoeld in het vierde lid, onderdeel a, die vallen buiten een op grond van het tweede lid of op grond van artikel 12b, vierde lid, van de wet vastgestelde vakantie, geen onderwijs worden verzorgd op andere dagen. Bij toepassing van de eerste volzin worden laatstgenoemde dagen niet meegeteld bij het aantal dagen, bedoeld in het eerste lid. De eerste volzin kan per schooljaar worden toegepast voor ten hoogste het aantal dagen als bedoeld in het vierde lid, onderdeel a, dat buiten een op grond van het tweede lid of op grond van artikel 12b, vierde lid, van de wet vastgestelde vakantie valt. 
 
 ### Artikel  15a  
 
 ####Aanwijzing overige dagen waarop geen onderwijs wordt verzorgd
 
-Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd ingevolge artikel 12a, vierde lid, en artikel 45, tweede lid, tweede volzin, van de wet en artikel 15, tweede tot en met vijfde lid, wijst het bevoegd gezag bij een zesdaagse schoolweek vier dagen en bij een vijfdaagse schoolweek drie dagen per schooljaar aan waarop geen onderwijs wordt verzorgd. 
+Buiten de vakanties en de andere dagen waarop geen onderwijs wordt verzorgd ingevolge artikel 12b, derde of vierde lid, van de wet en artikel 15, tweede tot en met vijfde lid, wijst het bevoegd gezag bij een zesdaagse schoolweek ten hoogste dertien dagen en bij een vijfdaagse schoolweek ten hoogste twaalf dagen per schooljaar aan waarop geen onderwijs wordt verzorgd, waarvan ten hoogste zes dagen onmiddellijk aansluitend voor of na de voor de school op grond van artikel 12b, vierde lid, van de wet vastgestelde zomervakantie. 
 
 ### §  2  
 

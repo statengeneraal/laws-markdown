@@ -3,7 +3,7 @@
 ##Regeling, houdende nadere regels inzake de chauffeurspas en vakbekwaamheidseisen voor taxibestuurders die een taxidienst uitvoeren, wijziging van de Regeling vaststelling controledocument internationaal taxivervoer en van de Regeling vergoeding documenten Wet personenvervoer 2000 (Regeling taxibestuurders 2005)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 75, eerste, tweede en vijfde lid](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [artikel 76, eerste lid, onder d, en vierde lid](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [76, derde lid](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en [artikel 78 van het Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);
+Gelet op artikel 75, eerste, tweede en vijfde lid, artikel 76, eerste lid, onder d, en vierde lid, 76, derde lid, en artikel 78 van het Besluit personenvervoer 2000;
 Besluit:     
 ### §  1  
 
@@ -13,9 +13,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+a. besluit: Besluit personenvervoer 2000;  
 
-b. beperkte taxidienst: een taxidienst als bedoeld in [artikel 81, vierde lid, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;  
+b. beperkte taxidienst: een taxidienst als bedoeld in artikel 81, vierde lid, van het besluit, waarbij op vaste tijdstippen en langs dezelfde routes wordt gereden met een vaste groep passagiers;  
 
 c. vervallen;  
 
@@ -31,11 +31,11 @@ f. minister: Minister van Infrastructuur en Milieu.
 
 ### Artikel  2  
 
-Als getuigschrift als bedoeld in [artikel 82, eerste lid, onderdeel d, van het besluit](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), worden erkend: 
+Als getuigschrift als bedoeld in artikel 82, eerste lid, onderdeel d, van het besluit, worden erkend: 
 
-a. het door de Stichting Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Volledig, voor het verrichten van taxivervoer;  
+a. het door de Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Volledig, voor het verrichten van taxivervoer;  
 
-b. het door de Stichting Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Beperkt, voor het uitvoeren van een beperkte taxidienst.   
+b. het door de Centraal Bureau Rijvaardigheidsbewijzen afgegeven Chauffeursdiploma CCV Taxi Beperkt, voor het uitvoeren van een beperkte taxidienst.   
 
 ### Artikel  3  
 
@@ -80,7 +80,7 @@ Wijzigt de Regeling vergoeding documenten Wet personenvervoer 2000.
 
 ### Artikel  14  
 
-De [Regeling chauffeurspas taxivervoer](../../../../../ministeriele-regeling/regeling/chauffeurspas/taxivervoer/BWBR0010735/README.md) en de [Regeling vakbekwaamheid taxibestuurder](../../../../../ministeriele-regeling/regeling/vakbekwaamheid/taxibestuurder/BWBR0016882/README.md) worden ingetrokken. 
+De Regeling chauffeurspas taxivervoer en de Regeling vakbekwaamheid taxibestuurder worden ingetrokken. 
 
 ### §  5  
 
@@ -88,7 +88,7 @@ De [Regeling chauffeurspas taxivervoer](../../../../../ministeriele-regeling/reg
 
 ### Artikel  15  
 
-Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in [artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder](../../../../../AMvB/wijzigingsbesluit/besluit/personenvervoer/2000/(invoering/vereiste/etc/BWBR0016801/README.md) (Stb. 252) behoeft in afwijking van artikel 5 slechts een getuigschrift als bedoeld in artikel 2, onderdeel b, van deze regeling te overleggen. 
+Degene die een chauffeurspas onder beperkingen of een duplicaat daarvan aanvraagt en in het bezit is van een chauffeurpas als bedoeld in artikel II, tweede lid, van het Besluit van 2 juni 2004 houdende wijziging van het Besluit personenvervoer 2000 in verband met de invoering van het vereiste van vakbekwaamheid voor de taxibestuurder (Stb. 252) behoeft in afwijking van artikel 5 slechts een getuigschrift als bedoeld in artikel 2, onderdeel b, van deze regeling te overleggen. 
 
 ### Artikel  16  
 
@@ -119,15 +119,15 @@ De kandidaat heeft kennis van het doel, de inhoud en de functie van voor de bero
 
 De kandidaat heeft kennis van: 
 
-1. de inhoud en toepassing van relevante artikelen uit de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+1. de inhoud en toepassing van relevante artikelen uit de Wegenverkeerswet 1994;  
 
-2. de inhoud en toepassing van relevante artikelen uit het [Reglement verkeersregels en verkeerstekens 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+2. de inhoud en toepassing van relevante artikelen uit het Reglement verkeersregels en verkeerstekens 1990;  
 
-3. de belangrijkste specifieke wet- en regelgeving op het gebied van taxivervoer over de weg waaronder de [Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), het [Besluit personenvervoer 2000](../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en de [Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+3. de belangrijkste specifieke wet- en regelgeving op het gebied van taxivervoer over de weg waaronder de Wet personenvervoer 2000, het Besluit personenvervoer 2000, en de Arbeidsomstandighedenwet;  
 
 4. de relevante aspecten uit de Algemene Taxivoorwaarden waaronder doel, functie en inhoud van de begrippen toepasselijkheid, beperkingen in het vervoer, aansprakelijkheid vervoerder, reiziger en chauffeur, handelingen voor, tijdens en na de rit;  
 
-5. de belangrijkste begrippen en bepalingen uit de rij- en rusttijdenregelgeving, waaronder uit de [Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) en de toepassing daarvan in het bijzonder de week- en rusttijd, de standaardregeling en collectieve regeling op het gebied van rusttijden en rijtijden, de nachtdienst in de standaardregeling en de overlegregeling;  
+5. de belangrijkste begrippen en bepalingen uit de rij- en rusttijdenregelgeving, waaronder uit de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer en de toepassing daarvan in het bijzonder de week- en rusttijd, de standaardregeling en collectieve regeling op het gebied van rusttijden en rijtijden, de nachtdienst in de standaardregeling en de overlegregeling;  
 
 6. de eindverantwoordelijkheid voor de naleving van de rij- en rusttijdenregeling en de controlerende instanties in het bijzonder de inhoud van het begrip eindverantwoordelijkheid en de handhaving door politie en de Inspectie Leefomgeving en Transport;  
 
