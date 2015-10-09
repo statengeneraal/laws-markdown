@@ -10,15 +10,11 @@ Besluit:
 
 ####Vaststelling bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs
 
-Treedt in werking per 01-01-2015 
-
 De bedragen van de programma's van eisen voor de basisscholen en de speciale scholen voor basisonderwijs, bedoeld in artikel 113, vierde lid, van de Wet op het primair onderwijs, worden voor het jaar 2015 vastgesteld overeenkomstig bijlage 1 bij deze regeling. 
 
 ### Artikel  2  
 
 ####Vaststelling basisbekostiging en bekostiging voor zware ondersteuning (voortgezet) speciaal onderwijs
-
-Treedt in werking per 01-01-2015 
 
 De bedragen van de programma's van eisen voor het (voortgezet) speciaal onderwijs, bedoeld in de artikelen 111, vierde lid, 114 en 128, zesde lid, van de Wet op de expertisecentra worden voor het jaar 2015 vastgesteld overeenkomstig bijlage 2 bij deze regeling. 
 
@@ -26,15 +22,11 @@ De bedragen van de programma's van eisen voor het (voortgezet) speciaal onderwij
 
 ####Vaststelling van de bekostiging voor materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur
 
-Treedt in werking per 01-01-2015 
-
 De bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur, bedoeld in artikel 118, derde lid, van de Wet op het primair onderwijs, wordt voor het jaar 2015 vastgesteld overeenkomstig bijlage 3 bij deze regeling. 
 
 ### Artikel  4  
 
 ####Vaststelling van de bekostiging voor materiële instandhouding van het samenwerkingsverband voor zware ondersteuning primair onderwijs en voortgezet onderwijs
-
-Treedt in werking per 01-01-2015 
 
 De bekostiging voor de materiële instandhouding voor het samenwerkingsverband, bedoeld in artikel 118, achtste lid, van de Wet op het primair onderwijs, en artikel 89a, eerste lid, van de Wet op het voortgezet onderwijs, wordt voor het jaar 2015 vastgesteld overeenkomstig bijlage 4 bij deze regeling. 
 
@@ -42,15 +34,11 @@ De bekostiging voor de materiële instandhouding voor het samenwerkingsverband, 
 
 ####Vaststelling bedragen ten behoeve van de vereveningsregeling materiële instandhouding
 
-Treedt in werking per 01-01-2015 
-
 De bedragen ter berekening van de correctie bedoeld in de artikelen XIV en XVI, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533), worden voor het jaar 2015 vastgesteld overeenkomstig bijlage 5 bij deze regeling. 
 
 ### Artikel  6  
 
 ####Vaststelling bedrag per formatieplaats voor de bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen
-
-Treedt in werking per 01-01-2015 
 
 Het bedrag per formatieplaats, bedoeld in artikel B 18 van het Besluit trekkende bevolking WPO, wordt voor het jaar 2015 vastgesteld overeenkomstig bijlage 6 bij deze regeling. 
 
@@ -58,15 +46,11 @@ Het bedrag per formatieplaats, bedoeld in artikel B 18 van het Besluit trekkende
 
 ####Wijziging programma’s van eisen
 
-Treedt in werking per 01-01-2015 
-
 In verband met de Wet van 7 mei 2014 tot wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 2014, 175) omvatten de programma’s van eisen voor basisscholen en speciale scholen voor basisonderwijs en de programma’s van eisen voor het (voortgezet) speciaal onderwijs, zoals deze laatstelijk zijn vastgesteld in bijlagen 1 en 2 van de Regeling vaststelling programma’s van eisen PO en (V)SO en bekostiging materiële instandhouding samenwerkingsverband 2012 met ingang van 1 januari 2015 tevens het buitenonderhoud van het schoolgebouw. De bedragen, bedoeld in artikel 1 en 2 van deze regeling zijn in verband met deze wijziging van de programma’s van eisen verhoogd. 
 
 ### Artikel  8  
 
 ####Omhangbepaling
-
-Treedt in werking per 01-01-2015 
 
 Met ingang van het moment van inwerkingtreding van artikel II, onderdeel GG, van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533), berust deze regeling mede op artikel 114, van de Wet op de expertisecentra. 
 
@@ -74,15 +58,11 @@ Met ingang van het moment van inwerkingtreding van artikel II, onderdeel GG, van
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling treedt in werking op 1 januari 2015. 
 
 ### Artikel  10  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling vaststelling bedragen programma's van eisen basisonderwijs, (v)so en bekostiging materiële instandhouding samenwerkingsverbanden PO en VO voor het jaar 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -94,8 +74,6 @@ S. Dekker
 ### Bijlage  1  
 
 ####Bedragen programma's van eisen voor basisscholen en speciale scholen voor basisonderwijs voor het jaar 2015
-
-Treedt in werking per 01-01-2015 
 
 ####Totale MI-vergoeding
 
@@ -130,8 +108,6 @@ Vergoedingsformule: Yc = vast bedrag per school + bedrag per leerling x het aant
 ### Bijlage  2  
 
 ####Bedragen materiële instandhouding voor scholen voor (voortgezet) speciaal onderwijs voor het jaar 2015
-
-Treedt in werking per 01-01-2015 
 
 ### 1  
 
@@ -286,8 +262,6 @@ De bedragen voor zware ondersteuning bedoeld in artikel 128, zesde lid, van de W
 
 ####Bekostiging voor de materiële instandhouding van het samenwerkingsverband samenhangend met de inrichting van de ondersteuningsstructuur
 
-Treedt in werking per 01-01-2015 
-
 ### 1  
 
 ####Ondersteuningsbekostiging basisonderwijs.
@@ -303,8 +277,6 @@ Voor speciale scholen voor basisonderwijs wordt op basis van artikel 115 van de 
 ### Bijlage  4  
 
 ####Aanvullende bekostiging voor materiële instandhouding voor zware ondersteuning primair onderwijs en voortgezet onderwijs voor het samenwerkingsverband.
-
-Treedt in werking per 01-01-2015 
 
 ### A  
 
@@ -353,8 +325,6 @@ De bedragen, bedoeld in artikel 89a, derde lid, van de Wet op het voortgezet ond
 ### Bijlage  5  
 
 ####Vaststelling bedragen ten behoeve van de vereveningregeling materiële instandhouding
-
-Treedt in werking per 01-01-2015 
 
 ### A  
 
@@ -432,7 +402,5 @@ De bedragen, bedoeld in artikel 89a, derde lid, van de Wet op het voortgezet ond
 ### Bijlage  6  
 
 ####Bekostiging van de materiële voorzieningen ten behoeve van de instandhouding van rijdende scholen
-
-Treedt in werking per 01-01-2015 
 
 Het bedrag per formatieplaats, bedoeld in artikel B18 van het Besluit trekkende bevolking WPO, is voor het jaar 2015 vastgesteld op € 16.484,21. 

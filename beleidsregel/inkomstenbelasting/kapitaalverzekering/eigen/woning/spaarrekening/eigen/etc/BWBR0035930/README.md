@@ -17,6 +17,8 @@ In dit besluit zijn de beleidsstandpunten opgenomen op het terrein van de kapita
 
 – Gesplitste betaling door partners bij gemengde KEW (3.1.2);  
 
+– Overschrijding bandbreedte door fouten met de premiebetaling bij een KEW (3.1.1.); 
+
 – Wijziging premies door sekseneutrale tarieven (3.1.7);  
 
 – Extra gebruik vrijstelling KEW bij vervallen van de goedkoperwonenregeling (4.6);  
@@ -149,13 +151,28 @@ Herstel van een polis is mogelijk als op grond van een aanvraagformulier, een of
 
 ####Bandbreedte-eis
 
-Zowel voor de vormvereisten van een KEW als voor de vrijstelling van een uitkering uit een KEW geldt dat de betaalde bedragen moeten blijven binnen een bepaalde bandbreedte. Deze bandbreedte-eis houdt in dat op jaarbasis het hoogste bedrag niet meer mag zijn dan het tienvoud van het laagste. Uitgangspunt bij de beoordeling van de bandbreedte-eis op jaarbasis is het verzekeringsjaar.   
-### 3.1.1  
+Zowel voor de vormvereisten van een KEW als voor de vrijstelling van een uitkering uit een KEW geldt dat de betaalde bedragen moeten blijven binnen een bepaalde bandbreedte. Deze bandbreedte-eis houdt in dat op jaarbasis het hoogste bedrag niet meer mag zijn dan het tienvoud van het laagste. Uitgangspunt bij de beoordeling van de bandbreedte-eis op jaarbasis is het verzekeringsjaar.  
+###3.1.1 
+
+####Overschrijding bandbreedte door fouten met de premiebetaling bij een KEW (geldt ook voor SEW, BEW en Brede Herwaarderingskapitaalverzekering)
+
+In de praktijk worden regelmatig dezelfde typen fouten gemaakt ten aanzien van de premiebetalingen voor een KEW. Een veelvoorkomende fout houdt in dat abusievelijk in een verzekeringsjaar zowel een hoge premie – factor 10 – als de reguliere jaarpremie – factor 1 – is voldaan. In de andere verzekeringsjaren is alleen de reguliere premie voldaan. De reguliere premie bedraagt dan minder dan 1/11 van de totale premie die in het jaar met de hoge storting is voldaan. De KEW heeft dan feitelijk vanaf het jaar waarin de hoge storting is gedaan, niet voldaan aan de voorwaarden voor vrijstelling. Daarnaast komen ook andere typen fouten voor waarin de bandbreedte in een verzekeringsjaar in geringe mate wordt overschreden. Uit de overeenkomst blijkt dat beoogd is de bandbreedte na te streven, maar onbewust is een fout gemaakt. De reguliere premie bedraagt dan minder dan 1/10 van de totale premie die in het jaar met de hoge storting is voldaan. Het gaat hierbij om een incidentele fout. Deze fouten komen over het algemeen pas vele jaren later naar voren. Omdat deze fouten in het verleden hebben plaatsgevonden, bestaat er geen mogelijkheid meer van fiscaal herstel op grond van andere goedkeuringen in dit besluit. Voor een KEW is het gevolg dat de KEW in het jaar van de fout fictief tot uitkering komt, dat ter zake geen vrijstelling kan gelden en dat de kapitaalverzekering tot box 3 gaat behoren. Voor een Brede Herwaarderingskapitaalverzekering leiden de gemaakte fouten ertoe dat de bijzondere waardevrijstelling in box 3 niet van toepassing is en de kapitaalsuitkering niet meer kan zijn vrijgesteld in box 1. In beide gevallen kan de aflossing van een in samenhang met de verzekering aangegane eigenwoningschuld problematisch worden. In dit kader acht ik de geschetste fiscale gevolgen ongewenst. Daarom keur ik op grond van artikel 63 van de Algemene wet inzake rijksbelastingen (hardheidsclausule) het volgende goed. 
+### *Goedkeuring* 
+
+Ik keur onder de volgende voorwaarden goed dat de hiervoor beschreven fouten die zijn gemaakt bij (de hoogte van) de premiebetalingen niet tot gevolg hebben dat de KEW achteraf bezien niet aan de wettelijke bandbreedte-eis heeft voldaan. Verzekeraars en financiële instellingen mogen hier vanuit gaan zonder een verklaring van de inspecteur. Ik keur in dit verband ook goed dat artikel 45aa, onderdeel c, van de Uitv. Reg. IB 2001 niet van toepassing is, als de belastingplichtige verzoekt om ambtshalve vermindering van de aanslag waarin de fiscale gevolgen van de fout is opgenomen. 
+### *Voorwaarden* 
+
+Ik stel hierbij de volgende voorwaarden: 
+
+– Als gevolg van de incidentele fout wordt in het betreffende verzekeringsjaar een bandbreedte van 1: 11 niet overschreden;  
+
+– De KEW voldoet aan de overige voorwaarden die de Wet IB 2001 aan de vrijstelling stelt. Voor een Brede Herwaarderingskapitaalverzekering geldt dat deze voldoet aan de overige voorwaarden die de Invoeringswet en de Wet IB 1964 aan de vrijstelling stellen.   
+### 3.1.2  
 
 ####Betaling in vreemde valuta
 
 Premiebetalingen voor een KEW kunnen luiden in vreemde valuta. De bedragen die in vreemde valuta zijn betaald, mogen voor de toetsing aan de bandbreedte-eis *niet* worden herrekend naar Nederlandse valuta. De beoordeling of is voldaan aan de bandbreedte vindt uitsluitend plaats op basis van de vreemde valuta. Als de bandbreedte gerekend naar de vreemde valuta wordt overschreden, is de kapitaalsuitkering of het tegoed niet vrijgesteld. Het is hierbij niet van belang dat bij omrekening naar Nederlandse valuta de in vreemde valuta voldane bedragen wel binnen de vereiste bandbreedte zouden zijn gebleven.    
-### 3.1.2  
+### 3.1.3  
 
 ####Gesplitste betaling door partners bij gemengde KEW (geldt niet voor SEW’s en BEW’s)
 
@@ -165,12 +182,12 @@ Als een partner een KEW sluit die zowel bij leven als bij zijn overlijden uitkee
 ### *Twee begunstigden bij leven* 
 
 In de praktijk komt het vaak voor dat beide partners verzekeringnemer en/of begunstigde zijn voor een KEW die bij leven uitkeert, zodat ieder bij leven gebruik kan maken van de KEW-vrijstellingen. Fiscaal is dan sprake van twee KEW’s die bij leven uitkeren, met voor iedere verzekering een bijbehorende premiecomponent. Als bij iedere KEW bij leven ook een uitkering bij overlijden is verzekerd, is fiscaal sprake van twee gemengde kapitaalverzekeringen waarop afzonderlijk de premiemeetel-methode (artikel 10bis.4, zevende lid, van de Wet IB 2001) toepassing vindt. Voor iedere KEW vindt dus alleen samentelling plaats van de premie voor de uitkering bij leven en van de premie voor de uitkering bij overlijden. Dit is niet anders als beide gemengde verzekeringen zijn opgenomen in één polis of op meer polissen die zijn verbonden door middel van verbindingclausules.    
-### 3.1.3  
+### 3.1.4  
 
 ####Hoog-laag-kapitaalverzekering op twee polissen bij KEW (geldt niet voor SEW’s en BEW’s)
 
 Voor de vrijstelling geldt dat de hoogste premie niet meer mag bedragen dan het tienvoud van de laagste (artikel 10bis.6, eerste lid, onderdeel c, van de Wet IB 2001). Soms wordt om administratieve redenen die bandbreedte benut door de hoge premie(s) op te nemen in de ene polis en de lage, reguliere premies in een andere polis. In een dergelijke situatie zijn de vrijstellingen voor een KEW uitsluitend van toepassing als uit een verbindingsclausule blijkt dat de twee polissen samen de juridische weergave van één overeenkomst inhouden. In die verbindingsclausule moet zijn aangegeven dat de gedeelten van de overeenkomst niet zonder elkaar kunnen voortbestaan.    
-### 3.1.4  
+### 3.1.5  
 
 ####Verlaging premie voor vrijstelling bij arbeidsongeschiktheid; wetswijziging 2004 (geldt niet voor SEW’s en BEW’s)
 
@@ -178,7 +195,7 @@ Vanaf 1 januari 2004 hebben werkgevers bij ziekte een loondoorbetalingverplicht
 ### *Goedkeuring* 
 
 Omdat hier sprake is van een bijzondere omstandigheid (wetswijziging) waarop de bij de kapitaalverzekering betrokken partijen geen invloed hebben gehad, keur ik op grond van artikel 63 van de AWR (hardheidsclausule) het volgende goed. Een verlaging van de premie voor een KEW louter als gevolg van de bedoelde verlaging van de premie voor de premievrijstelling bij arbeidsongeschiktheid, leidt niet tot een in aanmerking te nemen overschrijding van de bandbreedte-eis (zie ook paragraaf 7.5.2).    
-### 3.1.5  
+### 3.1.6  
 
 ####Verlaging premie voor premievrijstelling bij arbeidsongeschiktheid; Invoering wetgeving (WIA) (geldt niet voor SEW’s en BEW’s)
 
@@ -186,7 +203,7 @@ Als gevolg van de Wet werk en inkomen naar arbeidsvermogen (WIA) worden vanaf 1�
 ### *Goedkeuring* 
 
 Omdat hier sprake is van een bijzondere omstandigheid (wetswijziging) waarop de bij de kapitaalverzekering betrokken partijen geen invloed hebben gehad, keur ik op grond van artikel 63 van de AWR (hardheidsclausule) het volgende goed. Een verlaging van de premie voor een KEW louter als gevolg van de invoering van de WIA, leidt niet tot een in aanmerking te nemen overschrijding van de bandbreedte-eis (zie ook paragraaf 7.5.2).    
-### 3.1.6  
+### 3.1.7  
 
 ####Aanpassing KEW bij beëindiging (fiscaal) partnerschap; wijziging verzekerde persoon en premiebandbreedte (geldt niet voor SEW’s en BEW’s)
 
@@ -194,7 +211,7 @@ Bij beëindiging van een (fiscaal) partnerschap kan een KEW, wat betreft overlij
 ### *Goedkeuring* 
 
 Ik keur goed dat in dergelijke situaties bijstelling van de totaalpremie van de KEW als gevolg van verlaging van de premies voor het overlijdensdeel op grond van de wijziging van de verzekerde persoon niet geldt als overschrijding van de bandbreedte.    
-### 3.1.7  
+### 3.1.8  
 
 ####Wijziging premies door sekseneutrale tarieven (geldt niet voor SEW’s en BEW’s)
 
@@ -416,7 +433,7 @@ Als een op 31 december 2000 bestaande kapitaalverzekering is omgezet in een KEW
 
 ####Kew voortgekomen uit pré brede herwaarderingverzekering
 
-Door een verzoek bij de aangifte over het kalenderjaar 2001 kon een kapitaalverzekering die tot stand is gekomen vóór 1 januari 1992 met terugwerkende kracht tot 1 januari 2001 zijn aangemerkt als een KEW. Het bedrag van de vrijstellingen is dan verhoogd met de waarde van die kapitaalverzekering op 1 januari 2001 (hoofdstuk 2, artikel I, onderdeel AO, eerste lid, van de Invoeringswet). Deze verhoging geldt uitsluitend als het verzekerde kapitaal na 31 december 1991 niet is verhoogd. De wettekst is niet beperkt tot verhogingen die hebben plaatsgevonden vóór 2001 en er is ook geen grond om een dergelijke beperking te hanteren. Ook een verhoging van het verzekerd kapitaal na het jaar 2000 leidt tot verlies van de verhoging van de vrijstellingen, tenzij deze plaatsvond op grond van een normale en gebruikelijke optieclausule. Als het verzoek tot terugwerkende kracht niet is gedaan, behoort een bestaande kapitaalverzekering per 1 januari 2001 tot box 3, tot het tijdstip waarop daadwerkelijk omzetting in een KEW heeft plaatsgevonden. Voor deze kapitaalverzekering geldt de verhoging van de vrijstelling niet. Als een KEW waarvoor recht bestaat op de beschreven verhoging van de vrijstelling van het KEW-regime, op enig tijdstip wordt omgezet in een SEW of een BEW, komt het recht op die verhoging als gevolg van die omzetting niet te vervallen. De SEW of BEW wordt immers geacht een voortzetting te zijn van de KEW (artikel 10bis.8 van de Wet IB 2001). Uiteraard geldt voor het behoud van die verhoging van de vrijstelling dat gegarandeerde kapitaal niet mag zijn verhoogd. In de Invoeringswet zijn nog enkele bepalingen opgenomen voor de fiscale behandeling van de omzetting van vóór 1 januari 2001 gesloten kapitaalverzekeringen in een KEW per 1 januari 2001 of op een later tijdstip. Zo kon een Pré Brede Herwaarderingkapitaalverzekering met een premiebandbreedte die hoger is dan 10:1 toch worden omgezet in een KEW. In die situatie kunnen ook de vrijstellingen van het regime van de KEW van toepassing zijn (onderdeel AO, tweede lid, onderdelen b en c, van de Invoeringswet). Deze fiscale behandeling blijft in stand als een dergelijke KEW is omgezet in een SEW of BEW. Een redelijke wetstoepassing brengt mee dat deze fiscale behandeling ook gold als een kapitaalverzekering die niet eerst is omgezet in een KEW, maar tot box 3 behoort, is omgezet in een SEW of BEW. Voor de toepassing van onderdeel AO, tweede lid, onderdeel a, van de Invoeringswet geldt mutatis mutandis dezelfde systematiek. De omzetting van een vóór 1 januari 2001 gesloten kapitaalverzekering in een KEW, SEW of BEW na 31 maart 2014 is niet meer mogelijk.    
+Door een verzoek bij de aangifte over het kalenderjaar 2001 kon een kapitaalverzekering die tot stand is gekomen vóór 1 januari 1992 met terugwerkende kracht tot 1 januari 2001 zijn aangemerkt als een KEW. Het bedrag van de vrijstellingen is dan verhoogd met de waarde van die kapitaalverzekering op 1 januari 2001 (hoofdstuk 2, artikel I, onderdeel AO, eerste lid, van de Invoeringswet). Deze verhoging geldt uitsluitend als het verzekerde kapitaal na 31 december 1991 niet is verhoogd. De wettekst is niet beperkt tot verhogingen die hebben plaatsgevonden vóór 2001 en er is ook geen grond om een dergelijke beperking te hanteren. Ook een verhoging van het verzekerd kapitaal na het jaar 2000 leidt tot verlies van de verhoging van de vrijstellingen, tenzij deze plaatsvond op grond van een normale en gebruikelijke optieclausule. Als het verzoek tot terugwerkende kracht niet is gedaan, behoort een bestaande kapitaalverzekering per 1 januari 2001 tot box 3, tot het tijdstip waarop daadwerkelijk omzetting in een KEW heeft plaatsgevonden. Voor deze kapitaalverzekering geldt de verhoging van de vrijstelling niet. Als een KEW waarvoor recht bestaat op de beschreven verhoging van de vrijstelling van het KEW-regime, op enig tijdstip wordt omgezet in een SEW of een BEW, komt het recht op die verhoging als gevolg van die omzetting niet te vervallen. De SEW of BEW wordt immers geacht een voortzetting te zijn van de KEW (artikel 10bis.8 van de Wet IB 2001). Uiteraard geldt voor het behoud van die verhoging van de vrijstelling dat gegarandeerde kapitaal niet mag zijn verhoogd. In de Invoeringswet zijn nog enkele bepalingen opgenomen voor de fiscale behandeling van de omzetting van vóór 1 januari 2001 gesloten kapitaalverzekeringen in een KEW per 1 januari 2001 of op een later tijdstip. Zo kon een Pré Brede Herwaarderingkapitaalverzekering met een premiebandbreedte die hoger is dan 10:1 toch worden omgezet in een KEW. In die situatie kunnen ook de vrijstellingen van het regime van de KEW van toepassing zijn (onderdeel AO, tweede lid, onderdelen b en c, van de Invoeringswet). Deze fiscale behandeling blijft in stand als een dergelijke KEW is omgezet in een SEW of BEW. Een redelijke wetstoepassing brengt mee dat deze fiscale behandeling ook gold als een kapitaalverzekering die niet eerst is omgezet in een KEW, maar tot box 3 behoort, is omgezet in een SEW of BEW. Voor de toepassing van onderdeel AO, tweede lid, onderdeel a, van de Invoeringswet geldt mutatis mutandis dezelfde systematiek. De omzetting van een vóór 1 januari 2001 gesloten kapitaalverzekering in een KEW, SEW of BEW na 31 maart 2013 is niet meer mogelijk.    
 ### 6.3  
 
 ####Geruisloze beëindiging KEW tot en met 31 december 2003

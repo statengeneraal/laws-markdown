@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB,  
 Overwegende dat het gewenst is regels te stellen betreffende de inrichting van een algemene klachten- en geschillenregeling voor het notariaat, waaronder de instelling van een geschillencommissie;
 
-Gelet op [artikel 55, tweede lid, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);
+Gelet op artikel 55, tweede lid, Wet op het notarisambt;
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -25,9 +25,9 @@ c.  *geschillencommissie:* de Geschillencommissie Notariaat, ingesteld en in sta
 
 d.  *kantoorklachtenregeling:* de schriftelijk aan de cliënt bekend gemaakte regeling die op het kantoor van de notaris geldt voor de behandeling van klachten van cliënten;  
 
-e.  *notaris:* de notaris, genoemd in [artikel 1 onder a. van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md) alsmede de kandidaat-notaris, genoemd in artikel 1 onder b., daaronder begrepen de rechtsvorm waarin deze zijn praktijk uitoefent en het kantoor waarvan hij deel uitmaakt;  
+e.  *notaris:* de notaris, genoemd in artikel 1 onder a. van de Wet op het notarisambt alsmede de kandidaat-notaris, genoemd in artikel 1 onder b., daaronder begrepen de rechtsvorm waarin deze zijn praktijk uitoefent en het kantoor waarvan hij deel uitmaakt;  
 
-f.  *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);  
+f.  *bestuur:* het bestuur van de KNB, genoemd in artikel 64, eerste lid, Wet op het notarisambt;  
 
 g.  *cliënt:* de afnemer van de diensten van een notaris;  
 
@@ -59,7 +59,7 @@ Deze verordening kan worden aangehaald als Verordening Klachten- en geschillenre
 
 ### Artikel  8  
 
-Deze verordening treedt in werking met ingang van 1 januari 2013 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant is verstreken als bedoeld in [artikel 91, tweede lid, van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md). 
+Deze verordening treedt in werking met ingang van 1 januari 2013 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant is verstreken als bedoeld in artikel 91, tweede lid, van de Wet op het notarisambt. 
 Vastgesteld door de ledenraad op 23 november 2011 en getekend door de voorzitter van de ledenraad, goedgekeurd door de Minister van Veiligheid en Justitie bij besluit van 7 december 2012  
 
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB    
