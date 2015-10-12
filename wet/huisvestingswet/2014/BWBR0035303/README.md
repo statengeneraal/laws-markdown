@@ -30,7 +30,7 @@ d.  *Onze Minister:* Onze Minister voor Wonen en Rijksdienst;
 
 e.  *taakstelling:* aantal in opvangcentra of op gemeentelijke opvangplaatsen verkerende vergunninghouders in wier huisvesting per gemeente per kalenderhalfjaar dient te worden voorzien;  
 
-f.  *toegelaten instelling:* instelling als bedoeld in artikel 70 van de Woningwet;  
+f.  *toegelaten instelling:* instelling als bedoeld in artikel 19 van de Woningwet;  
 
 g.  *vergunninghouder:* vreemdeling die in Nederland een verblijfsvergunning asiel voor bepaalde tijd heeft aangevraagd en als gevolg daarvan een verblijfsvergunning heeft ontvangen als bedoeld in artikel 8, onderdeel a, b, c, of d, van de Vreemdelingenwet 2000;  
 

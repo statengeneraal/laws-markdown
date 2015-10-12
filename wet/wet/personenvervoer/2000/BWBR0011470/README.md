@@ -392,6 +392,44 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de erkenning van een of meer instellingen die elektronische nationale vervoerbewijzen uitgeven, exploiteren of beheren, alsmede over de voorschriften waaraan dergelijke instellingen moeten voldoen.   
 4.  De houder van een concessie, verleend door een concessieverlener als bedoeld in artikel 20, tweede of derde lid, is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.  
 
+### Artikel  30a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij of krachtens algemene maatregel van bestuur kunnen in het belang van een goed functionerende markt voor betaaldienstverlening in het openbaar vervoer regels worden gesteld met betrekking tot in elk geval: 
+
+a. de instellingen die elektronische vervoerbewijzen uitgeven, beheren of exploiteren;  
+
+b. toegang van concessiehouders en aanbieders van elektronische vervoerbewijzen of andere betaalwijzen tot de markt voor betaaldienstverlening in het openbaar vervoer alsmede tot de diensten van de in onderdeel a bedoelde instellingen;  
+
+c. op een kostengeoriënteerde basis vast te stellen vergoeding voor de door de in onderdeel a bedoelde instellingen te verlenen diensten;  
+
+d. maatstaven en procedures voor de verdeling van opbrengsten uit het gebruik van elektronische vervoerbewijzen.     
+2.  Indien uitvoering wordt gegeven aan het eerste lid, onderdelen c of d, wordt bepaald dat: 
+
+a. de berekeningswijzen van de vergoeding en de maatstaven en procedures, bedoeld in het eerste lid, onderscheidenlijk onderdelen c en d, de goedkeuring behoeven van de Autoriteit Consument en Markt;  
+
+b. op de voorbereiding van besluiten met betrekking tot de goedkeuring van maatstaven en procedures voor de verdeling van opbrengsten als bedoeld in het eerste lid, onderdeel d, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.     
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de toelating van betaalwijzen tot de markt voor betaaldienstverlening in het openbaar vervoer alsmede met betrekking tot de acceptatie van betaalwijzen door concessiehouders.  
+
+### Artikel  30b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij of krachtens algemene maatregel van bestuur kan de concessiehouders worden opgedragen gezamenlijk een systeem van betaaldienstverlening in het openbaar vervoer in stand te houden, waarbij functionele eisen met betrekking tot het betaalsysteem kunnen worden gesteld, indien de situatie ontstaat of dreigt te ontstaan dat er een niet alle vervoersconcessies omvattend minimaal aanbod van betaaldiensten is. 
+
+### Artikel  30c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het beschikbaar stellen, door concessiehouders, aanbieders van elektronische vervoerbewijzen en de in artikel 30a, eerste lid, onderdeel a, bedoelde instellingen, van geanonimiseerde en niet tot personen herleidbare gegevens over de, uit het gebruik van vervoerbewijzen af te leiden, reizigersstromen. 
+
+### Artikel  30d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over: 
+
+a. de samenwerking en werkwijze tussen concessieverleners en concessiehouders met betrekking tot concessieoverstijgende onderwerpen als bedoeld in artikel 30, tweede lid;  
+
+b. de samenwerking tussen concessiehouders en de in artikel 30a, eerste lid, onderdeel a, bedoelde instellingen.   
+
 ### Artikel  31  
 
 1.  De concessiehouder vraagt ten minste eenmaal per jaar advies aan consumentenorganisaties die voldoen aan bij algemene maatregel van bestuur gestelde voorwaarden, over de door de concessiehouder voorgenomen wijziging van een dienstregeling, het tarief en overige in de concessie geregelde onderwerpen.   

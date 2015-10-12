@@ -93,7 +93,7 @@ gg. adviescommissie: de adviescommissie individuele trajectafdelingen, bedoeld i
 ### Artikel  2  
 
 1.  De tenuitvoerlegging van een vrijheidsstraf of een vrijheidsbenemende maatregel vindt, voor zover niet bij of krachtens de wet anders is bepaald, plaats door onderbrenging van de persoon aan wie deze is opgelegd in een inrichting dan wel door diens deelname aan een scholings- en trainingsprogramma, als bedoeld in artikel 3, eerste lid.   
-2.  Met handhaving van het karakter van de straf of de maatregel wordt de tenuitvoerlegging hiervan aangewend voor de opvoeding van de jeugdige en zoveel mogelijk dienstbaar gemaakt aan de voorbereiding op diens terugkeer in de maatschappij. In het geval dat een vrijheidsbenemende maatregel behandeling inhoudt wordt de tenuitvoerlegging tevens hierop afgestemd.   
+2.  Met handhaving van het karakter van de straf of de maatregel wordt de tenuitvoerlegging hiervan aangewend voor de opvoeding van de jeugdige en zoveel mogelijk dienstbaar gemaakt aan de voorbereiding op diens terugkeer in de maatschappij. In het geval dat een vrijheidsbenemende maatregel behandeling inhoudt wordt de tenuitvoerlegging tevens hierop afgestemd. Bij het verlenen van vrijheden aan jeugdigen wordt rekening gehouden met de veiligheid van de samenleving en de belangen van slachtoffers en nabestaanden.   
 3.  De tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen vindt zo spoedig mogelijk plaats na de oplegging van de straf of de maatregel.   
 4.  Jeugdigen in een inrichting worden aan geen andere beperkingen onderworpen dan die welke noodzakelijk zijn voor: 
 
@@ -673,7 +673,7 @@ e. de Nationale ombudsman;
 
 f. de geneeskundig inspecteurs van de volksgezondheid en de inspecteurs van de Inspectie jeugdzorg;  
 
-g. de Raad, een commissie daaruit of leden daarvan;  
+g. de Raad, een commissie daaruit of leden of buitengewone leden daarvan;  
 
 h. de commissie van toezicht, een beklagcommissie, of leden daarvan;  
 
@@ -1158,7 +1158,7 @@ c. gegrondverklaring van het beklag.
 
 a. in strijd is met een in de inrichting geldend wettelijk voorschrift of een een ieder verbindende bepaling van een in Nederland geldend verdrag, dan wel  
 
-b. bij afweging van alle in aanmerking komende belangen, onredelijk of onbillijk moet worden geacht, verklaart zij het beklag gegrond en vernietigt zij de beslissing geheel of gedeeltelijk.     
+b. bij afweging van alle in aanmerking komende belangen, waaronder de veiligheid van de samenleving en de belangen van slachtoffers en nabestaanden, onredelijk of onbillijk moet worden geacht, verklaart zij het beklag gegrond en vernietigt zij de beslissing geheel of gedeeltelijk.     
 3.  Bij toepassing van het tweede lid kan de beklagcommissie: 
 
 a. de directeur opdragen een nieuwe beslissing te nemen met inachtneming van haar uitspraak;  
@@ -1178,7 +1178,7 @@ c. volstaan met de gehele of gedeeltelijke vernietiging.
 ### Artikel  74  
 
 1.  Tegen de uitspraak van de beklagcommissie kunnen de directeur en de klager beroep instellen door het indienen van een beroepschrift. Het met redenen omklede beroepschrift moet uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de uitspraak onderscheidenlijk na die van de mondelinge mededeling van de uitspraak worden ingediend.   
-2.  Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden, die wordt bijgestaan door een secretaris.   
+2.  Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris.   
 3.  Ten aanzien van de behandeling van het beroepschrift zijn de artikelen 65, derde lid, 66, tweede en vierde lid, 67, vierde lid, 68, eerste, tweede en derde lid, 69 en 70, eerste, tweede en derde lid, van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat: 
 
 a. de directeur en de klager uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;  
@@ -1218,7 +1218,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 
 ### Artikel  78  
 
-1.  Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden, die wordt bijgestaan door een secretaris.   
+1.  Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris.   
 2.  Het beroepschrift moet worden ingediend uiterlijk op de zevende dag na die waarop de betrokkene kennis heeft gekregen van de beslissing waartegen hij beroep instelt. Een na afloop van deze termijn ingediend beroepschrift is niettemin ontvankelijk, indien blijkt dat redelijkerwijs niet kan worden geoordeeld dat de betrokkene in verzuim is geweest.   
 3.  Indien de betrokkene in een inrichting verblijft, kan de indiening van het beroepschrift geschieden door tussenkomst van de directeur van de inrichting of afdeling. De directeur draagt zorg dat het beroepschrift onverwijld van een dagtekening wordt voorzien. Als dag waarop het beroepschrift is ingediend geldt die van de dagtekening.   
 4.  De artikelen 65, derde lid, 66, vierde lid, 68, eerste, tweede en derde lid, 69, 70, 71, 72, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin, 73, eerste tot en met vierde, zesde en zevende lid, zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat: 

@@ -15,7 +15,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Binnenlandse Zaken;   
 
-b. overstroming door zoet water: een overstroming die een ramp is als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) en die inhoudt:  
+b. overstroming door zoet water: een overstroming die een ramp is als bedoeld in artikel 1 van de Wet veiligheidsregio’s en die inhoudt:  
 
 1°. hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/50 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn,   
 
@@ -23,7 +23,7 @@ b. overstroming door zoet water: een overstroming die een ramp is als bedoeld in
 
 3°. het overlopen of bezwijken van primaire waterkeringen, dan wel het overlopen of bezwijken van anderszins gereglementeerde waterkeringen die binnen een door primaire waterkeringen beschermd gebied liggen, met dien verstande dat het overlopen of bezwijken van primaire waterkeringen langs de Noordzee, de Waddenzee en de Westerschelde tot de stormvloedkeringen in de Nieuwe Waterweg en de Oosterschelde, met inbegrip van deze stormvloedkeringen, en als direct gevolg daarvan het overlopen of bezwijken van andere primaire waterkeringen, niet wordt aangemerkt als overstroming door zoet water;     
 
-c. aardbeving: een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) die wordt veroorzaakt door een trilling aan het aardoppervlak als gevolg van een plotselinge beweging in de aardkorst, met een magnitude van minimaal 4,5 op de schaal van Richter, gemeten door het Koninklijk Nederlands Meteorologisch Instituut;   
+c. aardbeving: een ramp als bedoeld in artikel 1 van de Wet veiligheidsregio’s die wordt veroorzaakt door een trilling aan het aardoppervlak als gevolg van een plotselinge beweging in de aardkorst, met een magnitude van minimaal 4,5 op de schaal van Richter, gemeten door het Koninklijk Nederlands Meteorologisch Instituut;   
 
 d. schadegebied: het bij ministeriële regeling vastgestelde, in Nederland gelegen gebied waarin een overstroming door zoet water, een aardbeving dan wel een ramp waarop deze wet ingevolge artikel 3 van toepassing is verklaard, heeft plaatsgevonden en waarin als gevolg daarvan schade is geleden dan wel kosten zijn gemaakt als bedoeld in artikel 4, eerste of tweede lid;   
 
@@ -35,7 +35,7 @@ In de periode dat de in het Deltaplan grote rivieren bedoelde werkzaamheden ter 
 
 ### Artikel  3  
 
-Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), die van ten minste vergelijkbare orde is als een overstroming door zoet water of een aardbeving.  
+Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van een ramp als bedoeld in artikel 1 van de Wet veiligheidsregio’s, die van ten minste vergelijkbare orde is als een overstroming door zoet water of een aardbeving.  
 
 ### Artikel  4  
 
@@ -43,7 +43,7 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 a. de schade aan de woning, de woonwagen of het woonschip;   
 
-b. de schade aan de inboedel, bedoeld in [artikel 5 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);   
+b. de schade aan de inboedel, bedoeld in artikel 5 van Boek 3 van het Burgerlijk Wetboek;   
 
 c. de schade aan de openbare infrastructurele voorzieningen;   
 
@@ -120,7 +120,7 @@ a. er feiten of omstandigheden zijn waarvan Onze Minister bij het nemen van die 
 
 b. de hoogte van de toegekende tegemoetkoming onjuist was en de ontvanger dit wist of behoorde te weten, of   
 
-c. de ontvanger niet voldoet aan de plicht tot het verlenen van medewerking, bedoeld in [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+c. de ontvanger niet voldoet aan de plicht tot het verlenen van medewerking, bedoeld in artikel 5:20 van de Algemene wet bestuursrecht.    
 
 ### Artikel  11  
 

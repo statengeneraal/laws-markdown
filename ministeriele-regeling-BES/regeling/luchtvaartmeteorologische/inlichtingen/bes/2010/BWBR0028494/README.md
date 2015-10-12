@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de minister van Defensie;
 
-Gelet op de [artikelen 3, eerste lid, onderdeel h](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [3a, tweede lid](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), en [8b van de wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md) en [artikel 26, tweede lid, onderdeel b, van het Besluit luchtvaart BES](../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md);
+Gelet op de artikelen 3, eerste lid, onderdeel h, 3a, tweede lid, en 8b van de wet op het Koninklijk Nederlands Meteorologisch Instituut en artikel 26, tweede lid, onderdeel b, van het Besluit luchtvaart BES;
 Besluit:     
 ### §  1  
 
@@ -121,7 +121,7 @@ a. producten en diensten gebaseerd op de internationale eisen die zijn vastgeleg
 b. door Onze Minister opgedragen nationale producten en diensten.     
 3.  De verstrekker van luchtvaartmeteorologische inlichtingen draagt er zorg voor dat apparatuur die hij in gebruik heeft voor het vergaren, beschikbaar maken, houden en stellen van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan eisen van de Internationale Burgerluchtvaart Organisatie en WMO, vastgelegd in annex 3 en 14 bij het verdrag en publicatienummer 8 van de WMO.   
 4.  Medewerkers die werkzaamheden uitvoeren ten behoeve van het vergaren, beschikbaar maken, stellen en houden van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling, zijn gekwalificeerd uitgaande van ten minste de eisen van de Internationale Burgerluchtvaart Organisatie en de WMO, vastgelegd in annex 3 bij het verdrag en publicatienummer 258 en supplement 1 bij publicatienummer 258 van de WMO.   
-5.  De in het derde en vierde lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).  
+5.  De in het derde en vierde lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Meteorologisch Instituut.  
 
 ### §  3  
 
@@ -253,7 +253,7 @@ Het KNMI stelt in overeenstemming met de normen van ICAO en bilaterale overeenko
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt. 
 
 ### Artikel  11  
 

@@ -3,7 +3,7 @@
 ##Regeling algemeen weerbericht BES 2010
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3, eerste lid, onderdeel i](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [artikel 3, tweede lid](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), en [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);
+Gelet op artikel 3, eerste lid, onderdeel i, artikel 3, tweede lid, en artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut;
 Besluit:     
 ### §  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder
 
 a.  *algemeen weerbericht:* algemeen weerbericht, bedoeld in de artikelen 2 en 3;  
 
-b.  *gezaghebber:* gezaghebber, bedoeld in [artikel 5, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
+b.  *gezaghebber:* gezaghebber, bedoeld in artikel 5, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 c.  *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
@@ -191,7 +191,7 @@ b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van g
 
 1.  De meteorologisch dienstverlener die de in artikel 2 bedoelde taak uitvoert, draagt er zorg voor dat apparatuur die hiervoor in gebruik is, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan de eisen van publicatienummer 8 van de WMO.   
 2.  Medewerkers die werkzaamheden uitvoeren ten behoeve van de in artikel 2 bedoelde taak, zijn gekwalificeerd uitgaande van ten minste de eisen van de WMO vastgelegd in publicatienummer 258 van de WMO.   
-3.  De in het eerste en tweede lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).  
+3.  De in het eerste en tweede lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut.  
 
 ### §  5  
 
@@ -199,7 +199,7 @@ b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van g
 
 ### Artikel  15  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt. 
 
 ### Artikel  16  
 

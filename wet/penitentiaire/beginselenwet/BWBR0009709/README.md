@@ -69,7 +69,7 @@ w. elektronisch toezicht: een technische voorziening waarbij, gebruik makend van
 ### Artikel  2  
 
 1.  De tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel vindt, voor zover niet bij of krachtens de wet anders is bepaald, plaats door onderbrenging van de persoon aan wie deze is opgelegd in een penitentiaire inrichting dan wel door diens deelname aan een penitentiair programma.    
-2.  Met handhaving van het karakter van de vrijheidsstraf of de vrijheidsbenemende maatregel wordt de tenuitvoerlegging hiervan zoveel mogelijk dienstbaar gemaakt aan de voorbereiding van de terugkeer van de betrokkene in de maatschappij.    
+2.  Met handhaving van het karakter van de vrijheidsstraf of de vrijheidsbenemende maatregel wordt de tenuitvoerlegging hiervan zoveel mogelijk en afhankelijk van het gedrag van de betrokkene dienstbaar gemaakt aan de voorbereiding van de terugkeer in de maatschappij. Bij het verlenen van vrijheden aan gedetineerden wordt rekening gehouden met de veiligheid van de samenleving en de belangen van slachtoffers en nabestaanden.   
 3.  De tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen vindt zo spoedig mogelijk plaats na de oplegging van de straf of het nemen van de maatregel.    
 4.  Personen ten aanzien van wie de tenuitvoerlegging plaatsvindt van een vrijheidsstraf of vrijheidsbenemende maatregel worden aan geen andere beperkingen onderworpen dan die welke voor het doel van de vrijheidsbeneming of in het belang van de handhaving van de orde of de veiligheid in de inrichting noodzakelijk zijn.   
 
@@ -543,7 +543,7 @@ e. de Nationale ombudsman;
 
 f. de geneeskundig inspecteurs van de volksgezondheid;   
 
-g. de Raad, een commissie daaruit of leden daarvan;  
+g. de Raad, een commissie daaruit of leden of buitengewone leden daarvan;  
 
 h. de commissie van toezicht of een beklagcommissie, of leden daarvan;   
 
@@ -952,7 +952,7 @@ c. gegrondverklaring van het beklag.
 
 a. in strijd is met een in de inrichting geldend wettelijk voorschrift of een een ieder verbindende bepaling van een in Nederland geldend verdrag, dan wel   
 
-b. bij afweging van alle in aanmerking komende belangen, onredelijk of onbillijk moet worden geacht, verklaart zij het beklag gegrond en vernietigt zij de beslissing geheel of gedeeltelijk.      
+b. bij afweging van alle in aanmerking komende belangen, waaronder de veiligheid van de samenleving en de belangen van slachtoffers en nabestaanden, onredelijk of onbillijk moet worden geacht, verklaart zij het beklag gegrond en vernietigt zij de beslissing geheel of gedeeltelijk.      
 3.  Bij toepassing van het tweede lid kan de beklagcommissie:  
 
 a. de directeur opdragen een nieuwe beslissing te nemen met inachtneming van haar uitspraak;   
@@ -972,7 +972,7 @@ c. volstaan met de gehele of gedeeltelijke vernietiging.
 ### Artikel  69  
 
 1.  Tegen de uitspraak van de beklagcommissie kunnen de directeur en de klager beroep instellen door het indienen van een beroepschrift. Het met redenen omklede beroepschrift moet uiterlijk op de zevende dag na die van de ontvangst van het afschrift van de uitspraak onderscheidenlijk na die van de mondelinge mededeling van de uitspraak worden ingediend.    
-2.  Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden, die wordt bijgestaan door een secretaris.    
+2.  Het beroepschrift wordt ingediend bij en behandeld door een door de Raad benoemde beroepscommissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris.    
 3.  Ten aanzien van de behandeling van het beroepschrift zijn de artikelen 60, derde lid, 61, vierde lid, 62, vierde lid, 63, eerste, tweede en derde lid, 64, en 65, eerste, tweede en derde lid, van overeenkomstige toepassing, met dien verstande dat de beroepscommissie kan bepalen dat:  
 
 a. de directeur en de klager uitsluitend in de gelegenheid worden gesteld het beroepschrift schriftelijk toe te lichten;   
@@ -1011,7 +1011,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 
 ### Artikel  73  
 
-1.  Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden, die wordt bijgestaan door een secretaris.    
+1.  Het beroepschrift wordt behandeld door een door de Raad benoemde commissie van drie leden of buitengewone leden, die wordt bijgestaan door een secretaris.    
 2.  Het beroepschrift wordt ingediend uiterlijk op de zevende dag na die waarop de betrokkene kennis heeft gekregen van de beslissing waartegen hij beroep instelt. Een na afloop van deze termijn ingediend beroepschrift is niettemin ontvankelijk, indien redelijkerwijs niet kan worden geoordeeld dat de gedetineerde in verzuim is geweest.    
 3.  Indien de betrokkene gedetineerd is, kan de indiening van het beroepschrift geschieden door tussenkomst van de directeur van de inrichting of afdeling waar hij verblijft. De directeur draagt zorg dat het beroepschrift onverwijld van een dagtekening wordt voorzien. Als dag waarop het beroepschrift is ingediend geldt die van de dagtekening.    
 4.  De artikelen 60, derde lid, 61, vierde lid, 63, 64, 65, 66, 67, tweede lid, eerste en derde tot en met vijfde volzin, vierde en zevende lid, met uitzondering van de eerste volzin, 68, eerste, tweede, derde, vierde, zesde en zevende lid, zijn van overeenkomstige toepassing, met dien verstande dat de commissie, bedoeld in het eerste lid, kan bepalen dat:  

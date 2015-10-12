@@ -163,7 +163,7 @@ Het bestuur stelt een klachtenregeling vast, waarop een ieder die een klacht hee
 
 ### Artikel  11  
 
-In afwijking van artikel 15 van de Kaderwet worden de personeelsleden van de raad in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek alsmede artikel 6 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 zijn op deze overeenkomst van toepassing.  
+In afwijking van artikel 15 van de Kaderwet worden de personeelsleden van de raad in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek zijn op deze overeenkomst van toepassing. 
 
 ### Hoofdstuk  III  
 
