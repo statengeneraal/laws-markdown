@@ -19,8 +19,11 @@ Besluit:
 | Titel 2.2: Uitvoeringsagenda duurzame veehouderij  | 2.2.2, onderdeel a  | --- | --- | 01-07-2015 t/m 10-09-2015  | 485.000  |
 | Titel 2.2: Uitvoeringsagenda duurzame veehouderij  | 2.2.2, onderdeel b  | --- | --- | 01-07-2015 t/m 10-09-2015  | 125.000  |
 | Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van 27 januari 2015 houdende wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies 2015 in verband met aanpassingen van de Garantstelling landbouw aan de nieuwe staatsteunkaders en de openstelling ervan in werking is getreden tot en met 31-12-2015  | 42.500.000  |
-|Titel 2.7: Groen en doen |2.7.2 | --- | --- |01-10-2015 t/m 29-10-2015 |795.000 |
+| Titel 2.7: Groen en doen  | 2.7.2  | --- | --- | 01-10-2015 t/m 29-10-2015  | 795.000  |
 |Titel 2.6: Garantstelling landbouwondernemingen werkkapitaal |2.6.2 | --- | --- |18-12-2014 t/m 31-12-2015 |75.000.000 |
+| Titel 2.8 Genotypering TSE bij schapen  | 2.8.2  | --- | --- | Tijdstip waarop de regeling van de Minister van Economische Zaken van 2 oktober 2015 houdende wijziging van de Regeling nationale EZ-subsidies en wijziging van de Regeling openstelling EZ-subsidies 2015 in verband met subsidie voor genotyperingskosten TSE in werking is getreden tot en met 15-12-2015  | 3.000 vouchers  |
+| --- | 2.8.5  | --- | --- | Tijdstip waarop de regeling van de Minister van Economische Zaken van 2 oktober 2015 houdende wijziging van de Regeling nationale EZ-subsidies en wijziging van de Regeling openstelling EZ-subsidies 2015 in verband met subsidie voor genotyperingskosten TSE in werking is getreden tot en met 31-01-2016  | 3.000 vouchers  |
+| Titel 2.9 Subsidie kosten vaccinatie pluimvee ter bestrijding van salmonella  | 2.9.2  | --- | --- | Tijdstip waarop de regeling van de Minister van Economische Zaken van 2 oktober 2015 houdende wijziging van de Regeling nationale EZ-subsidies en wijziging van de Regeling openstelling EZ-subsidies 2015 in verband met subsidie voor genotyperingskosten TSE in werking is getreden tot en met 31-12-2015  | € 180.000 voor de aankoop van gevaccineerd fokpluimvee of vermeerderingspluimvee voor de consumptie-ei-sector;  € 4.800.000 voor de aankoop van gevaccineerde leghennen of pluimvee dat daarvoor wordt opgefokt.  |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | HTSM/ICT  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
@@ -35,6 +38,7 @@ Besluit:
 | Titel 3.4  | 3.4.4 en 3.4.15a  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 3.900.000  |
 | Titel 3.4  | 3.4.8  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 1.500.000  |
 | Titel 3.4  | 3.4.20  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 11.000.000  |
+|Titel 3.5: Innovatieprestatiecontracten  | 3.5.17  | --- | --- | 08-10-2015 t/m 05-11-2015  | 3.000.000  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 10-06-2015 t/m 23-06-2015  | 9.162.500  |
 | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA3-innovatieprojecten  | --- | 14-03-2015 t/m 03-04-2015  | 10.000.000  |
@@ -76,6 +80,8 @@ Besluit:
 | 4.2.86  | Wind op zee R&D-project  | --- | 01-04-2015 t/m 06-10-2015  | 3.700.000  |
 | 4.2.107  | Energiebesparing industrie: early adopterproject  | --- | 01-04-2015 t/m 06-10-2015  | 500.000  |
 | --- | 4.2.113  | Systeemintegratiestudie  | --- | 01-07-2015 t/m 06-10-2015  | 750.000  |
+|Titel 4.3: Risico’s dekken voor aardwarmte |4.3.2, eerste lid, onderdeel a | --- | --- |01-10-2015 t/m 31-03-2016 |67.552.000 |
+|Titel 4.3: Risico’s dekken voor aardwarmte |4.3.2, eerste lid, onderdeel b | --- | --- |01-10-2015 tot en met 31-03-2016 |67.552.000 |
 | Titel 4.4: Indirecte emissiekosten ETS  | 4.4.2  | --- | --- | 15-01-2015 t/m 15-04-2015  | 50.000.000  |
 
 ### Artikel  2  

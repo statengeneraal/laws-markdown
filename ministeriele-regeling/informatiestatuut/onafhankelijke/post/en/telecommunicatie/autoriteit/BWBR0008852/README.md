@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Verkeer en Waterstaat, houdende een Informatiestatuut, alsmede regels inzake inrichting van de begroting en het financieel verslag van de Onafhankelijke Post en Telecommunicatieautoriteit
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 18](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md) en [21 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);
+Gelet op de artikelen 18 en 21 van de Wet Onafhankelijke post- en telecommunicatieautoriteit;
 Besluit:     
 ### Hoofdstuk I  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   a. minister:   Minister van Economische Zaken;    b.  wet:   [Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);    c.  college:   college, genoemd in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md).     
+In deze regeling wordt verstaan onder:   a. minister:   Minister van Economische Zaken;    b.  wet:   Wet Onafhankelijke post- en telecommunicatieautoriteit;    c.  college:   college, genoemd in artikel 2, eerste lid, van de wet.     
 
 ### Artikel 2  
 
@@ -150,9 +150,9 @@ c. Kosten (personeel en materieel) en opbrengsten per (markt)categorie, waarbij 
 
 4°. toegang tot het programma-aanbod;  
 
-5°. vergunningen als bedoeld in [artikel 20.7, eerste lid, van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+5°. vergunningen als bedoeld in artikel 20.7, eerste lid, van de Telecommunicatiewet;  
 
-6°. vergunningen als bedoeld in [artikel 3.3, eerste lid](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [20.2, eerste lid, van de Telecommunicatiewet](../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+6°. vergunningen als bedoeld in artikel 3.3, eerste lid, en 20.2, eerste lid, van de Telecommunicatiewet;  
 
 7°. nummers;  
 
@@ -166,14 +166,14 @@ e.  resultaten van uitgevoerde klanttevredenheidsonderzoeken;
 
 f.  Aantal en aard van de klachten over functioneren van OPTA;  
 
-g.  Aantal ingediende bezwaar- en beroepschriften, aantal geschillen, aantal klachten op grond van de [Wet Nationale Ombudsman](../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) alsmede het aantal beroep- en bezwaarschriften op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en de resultaten daarvan.    
+g.  Aantal ingediende bezwaar- en beroepschriften, aantal geschillen, aantal klachten op grond van de Wet Nationale Ombudsman alsmede het aantal beroep- en bezwaarschriften op grond van de Wet openbaarheid van bestuur en de resultaten daarvan.    
 
 ### Artikel 10  
 
 ####De begroting en meerjarenraming
 
 1.  Jaarlijks wordt voor 1 november ter goedkeuring aan de minister voorgelegd een document waarin de begroting, de meerjarenraming en een hierop gebaseerd tarievenstelsel zijn geïntegreerd.   
-2.  De begroting en de meerjarenraming bedoeld in [artikel 11, tweede lid van de wet](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md), verschaffen inzicht in de keuzes die het college maakt ten aanzien van zijn uitvoeringsbeleid, de onderbouwing en de consequenties van de gemaakte keuzes, alsmede de financiële vertaling daarvan in de begroting en de meerjarencijfers.   
+2.  De begroting en de meerjarenraming bedoeld in artikel 11, tweede lid van de wet, verschaffen inzicht in de keuzes die het college maakt ten aanzien van zijn uitvoeringsbeleid, de onderbouwing en de consequenties van de gemaakte keuzes, alsmede de financiële vertaling daarvan in de begroting en de meerjarencijfers.   
 3.  Het college levert de begroting en de meerjarenraming in jaar t, die betrekking heeft op: de gerealiseerde gegevens van t-1, de geprognotiseerde realisatie-gegevens van t, de begrote gegevens van t+1 en de meerjarengegevens van t+2 tot en met t+5.   
 4.  Ten behoeve van de begroting en de meerjarenraming wordt inzicht gegeven in de volgende aspecten: 
 
@@ -237,7 +237,7 @@ g.  de invloed van de personeelsuitgaven en de uitgaven ten behoeve van de vaste
 
 ###*Het Jaarverslag*
 
-1.  Het jaarverslag bedoeld in [artikel 17 van de wet](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md), geeft een getrouw beeld omtrent de toestand op 31 december van het jaar waarover gerapporteerd wordt en de gang van zaken gedurende dat jaar.   
+1.  Het jaarverslag bedoeld in artikel 17 van de wet, geeft een getrouw beeld omtrent de toestand op 31 december van het jaar waarover gerapporteerd wordt en de gang van zaken gedurende dat jaar.   
 2.  In het jaarverslag wordt ingegaan op de werkzaamheden, het gevoerde beleid in het algemeen, en de doelmatigheid en doeltreffendheid van de werkwijze in het bijzonder in het afgelopen boekjaar, mede in relatie tot de in de meerjarenraming en de begroting vooraf gestelde doelen en verwachte ontwikkelingen, alsmede de factoren die daarbij van invloed zijn geweest.   
 3.  In het jaarverslag wordt het oordeel over de situatie van de informatiebeveiliging vermeld, alsmede op welke wijze en door wie dit oordeel tot stand is gekomen.   
 4.  In het jaarverslag worden de kengetallen genoemd in artikel 9 opgenomen.   
@@ -247,9 +247,9 @@ g.  de invloed van de personeelsuitgaven en de uitgaven ten behoeve van de vaste
 8.  Uiterlijk met ingang van het tweede verslagjaar bevat het jaarverslag tevens een globale beschrijving van de ontwikkelingen op de postmarkt en de elektronische communicatiemarkt.  
 ###*De Jaarrekening*
 
-9.  Bij het opstellen van de jaarrekening, bedoeld in [artikel 20 van de wet](../../../../../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md), zijn de [artikelen 361](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [362, eerste tot en met vijfde lid](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [362, zevende lid](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [363 tot en met 390](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [392 van Boek 2 BW](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing; voor ’de algemene vergadering van leden of aandeelhouders’ of ’de algemene vergadering’ of ’de leden’ of ’de aandeelhouders’ moet worden gelezen: ’Onze Minister’; voor ’het bestuur’ of ’bestuurders’ moet worden gelezen: ’het college’ respectievelijk ’de vaste leden van het college’.   
+9.  Bij het opstellen van de jaarrekening, bedoeld in artikel 20 van de wet, zijn de artikelen 361, 362, eerste tot en met vijfde lid, 362, zevende lid, 363 tot en met 390 en 392 van Boek 2 BW van overeenkomstige toepassing; voor ’de algemene vergadering van leden of aandeelhouders’ of ’de algemene vergadering’ of ’de leden’ of ’de aandeelhouders’ moet worden gelezen: ’Onze Minister’; voor ’het bestuur’ of ’bestuurders’ moet worden gelezen: ’het college’ respectievelijk ’de vaste leden van het college’.   
 10.  Het college dient in plaats van de winst- en verliesrekening een exploitatierekening in; op deze rekening zijn de bepalingen omtrent de winst- en verliesrekening zoveel mogelijk van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn zoveel mogelijk van overeenkomstige toepassing op het exploitatiesaldo.   
-11.  In [artikel 367, eerste lid, onderdeel f](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en in [artikel 370, eerste lid, onderdeel e, van Boek 2 BW](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dient voor ’leden of houders van aandelen op naam’ gelezen te worden : ’de Staat.’  
+11.  In artikel 367, eerste lid, onderdeel f, en in artikel 370, eerste lid, onderdeel e, van Boek 2 BW, dient voor ’leden of houders van aandelen op naam’ gelezen te worden : ’de Staat.’  
 
 ### Artikel 13  
 

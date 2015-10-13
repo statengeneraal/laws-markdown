@@ -300,7 +300,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 ### Annex  I  
 
-####Due diligence obligations for identifying and reporting on u.s. reportable accounts and on payments to certain nonparticipating financial institutions
+####Due diligence obligations for identifying and reporting on U.S. reportable accounts and on payments to certain nonparticipating financial institutions
 
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -1530,7 +1530,7 @@ f. de NFFE oefent nog geen bedrijfsactiviteiten uit en heeft dat ook in het verl
 
 g. de NFFE was gedurende de voorgaande vijf jaar geen financiële instelling en is bezig met de liquidatie van haar vermogen of een reorganisatie teneinde de activiteiten voort te zetten of te hervatten, niet zijnde die van een financiële instelling;  
 
-h. de NFFE is primair betrokken bij financierings- en hedging transacties met of voor gelieerde entiteiten die geen financiële instellingen zijn en verschaft geen financiering of hedgingdiensten aan een entiteit die geen gelieerde entiteit is, mits de groep van dergelijke gelieerde entiteiten primair betrokken is bij bedrijfsactiveiten anders dan die van een financiële instelling;  
+h. de NFFE is primair betrokken bij financierings- en hedging transacties met of voor gelieerde entiteiten die geen financiële instellingen zijn en verschaft geen financiering of hedgingdiensten aan een entiteit die geen gelieerde entiteit is, mits de groep van dergelijke gelieerde entiteiten primair betrokken is bij bedrijfsactiviteiten anders dan die van een financiële instelling;  
 
 i. de NFFE is een „uitgezonderde NFFE” zoals omschreven in de desbetreffende voorschriften van het Amerikaanse ministerie van Financiën; *of*   
 

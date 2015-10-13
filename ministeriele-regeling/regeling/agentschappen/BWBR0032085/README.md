@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 28 september 2012 over instelling, opzet en werking van agentschappen (Regeling agentschappen)
 
 De Minister van Financiën,  
-Gelet op de [artikelen 18, eerste en derde lid](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), [38, eerste lid](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en [65, eerste lid van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en op artikel 8 van de Wet van 18 september 2012 tot vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) voor het jaar 2013;
+Gelet op de artikelen 18, eerste en derde lid, 38, eerste lid en 65, eerste lid van de Comptabiliteitswet 2001 en op artikel 8 van de Wet van 18 september 2012 tot vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) voor het jaar 2013;
 
 Na overleg met de Algemene Rekenkamer (brief van 17 juli 2012, kenmerk 12003412 R);
 Besluit:     
@@ -19,9 +19,9 @@ In deze regeling wordt verstaan onder:
 
 a.  *agentschap:* intern verzelfstandigd in de uitvoering werkzaam dienstonderdeel van een ministerie dat een eigen sturingsmodel en financiële administratie heeft;  
 
-b.  *verplichtingen-kasagentschap:* agentschap dat een verplichtingen-kasstelsel hanteert, waaraan regels met betrekking tot het beheer zijn gesteld op basis van de [artikelen 38, eerste lid](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), en [65, eerste lid, van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+b.  *verplichtingen-kasagentschap:* agentschap dat een verplichtingen-kasstelsel hanteert, waaraan regels met betrekking tot het beheer zijn gesteld op basis van de artikelen 38, eerste lid, en 65, eerste lid, van de Comptabiliteitswet 2001;  
 
-c.  *baten-lastenagentschap:* agentschap dat een baten-lastenstelsel hanteert, zijnde een baten-lastendienst als bedoeld in [artikel 10, eerste lid van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+c.  *baten-lastenagentschap:* agentschap dat een baten-lastenstelsel hanteert, zijnde een baten-lastendienst als bedoeld in artikel 10, eerste lid van de Comptabiliteitswet 2001;  
 
 d.  *lening:* geldbedrag dat tegen een rentevergoeding gedurende een bepaalde looptijd beschikbaar wordt gesteld aan een baten-lastenagentschap vanuit de centrale kas van ’s Rijks schatkist op een leningrekening;  
 
@@ -33,7 +33,7 @@ g.  *Rijkshoofdboekhouding:* afdeling van het Ministerie van Financiën die bela
 
 h.  *jaarrekening (verplichtingen-kasagentschap):* verantwoordingsstaat en saldibalans per 31 december met inbegrip van de toelichting daarop;  
 
-i.  *jaarrekening (baten-lastenagentschap):* balans, staat van baten en lasten en kasstroomoverzicht per 31 december met inbegrip van de toelichtingen daarop, als bedoeld in [artikel 361, eerste lid van Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+i.  *jaarrekening (baten-lastenagentschap):* balans, staat van baten en lasten en kasstroomoverzicht per 31 december met inbegrip van de toelichtingen daarop, als bedoeld in artikel 361, eerste lid van Titel 9 van Boek 2 van het Burgerlijk Wetboek;  
 
 j.  *doelmatigheid:* verhouding tussen de ingezette middelen en de geleverde prestaties (in kwaliteit en kwantiteit);  
 
@@ -93,7 +93,7 @@ Voor de instelling van een baten-lastenagentschap geldt de aanvullende voorwaard
 ####Instelling
 
 1.  Indien de ministerraad instemt met de instelling van het agentschap brengt de betrokken minister het voorgenomen besluit hiertoe ter kennis van de Tweede Kamer der Staten-Generaal.   
-2.  Indien de Tweede Kamer zich niet uitspreekt tegen het voorgenomen besluit overeenkomstig de procedure vastgelegd in de [leden 3 tot en met 5 van artikel 10 van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), wordt het besluit tot instelling van het agentschap ondertekend door de betrokken minister en de Minister van Financiën.   
+2.  Indien de Tweede Kamer zich niet uitspreekt tegen het voorgenomen besluit overeenkomstig de procedure vastgelegd in de leden 3 tot en met 5 van artikel 10 van de Comptabiliteitswet 2001, wordt het besluit tot instelling van het agentschap ondertekend door de betrokken minister en de Minister van Financiën.   
 3.  De instelling gaat in op de datum die in het instellingsbesluit wordt genoemd, welke niet ligt vóór de datum waarop het instellingsbesluit is genomen.   
 4.  Het instellingsbesluit wordt bekend gemaakt in de Staatscourant.   
 5.  De betrokken minister zendt een kopie van het instellingsbesluit aan de Algemene Rekenkamer.  
@@ -201,14 +201,14 @@ Agentschappen ontvangen bijdragen voor de door hen geleverde producten en dienst
 
 ####Bevoorschotting
 
-Bij het bevoorschotten van een agentschap wordt een zodanige frequentie en hoogte aangehouden dat aangesloten wordt bij de noodzakelijke liquiditeitsbehoefte van het agentschap, analoog aan de bepalingen in de [Regeling verlening voorschotten 2007](../../../../ministeriele-regeling/regeling/verlening/voorschotten/2007/BWBR0022914/README.md). 
+Bij het bevoorschotten van een agentschap wordt een zodanige frequentie en hoogte aangehouden dat aangesloten wordt bij de noodzakelijke liquiditeitsbehoefte van het agentschap, analoog aan de bepalingen in de Regeling verlening voorschotten 2007. 
 
 ### Artikel  16  
 
 ####Rekening-courant en deposito
 
 1.  Het aanhouden van liquide middelen door een agentschap geschiedt in ’s Rijks schatkist in de vorm van een rekening-courant. Aan een rekening-courant kan een depositorekening worden gekoppeld.   
-2.  De Minister van Financiën bepaalt de van toepassing zijnde rentepercentages voor debet- en creditsaldi op de rekening-courant en termijndeposito’s. [Artikel 3, eerste, tweede, vierde en zesde lid van de Regeling rekening-courant- en leningenbeheer derden](../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) is van overeenkomstige toepassing.   
+2.  De Minister van Financiën bepaalt de van toepassing zijnde rentepercentages voor debet- en creditsaldi op de rekening-courant en termijndeposito’s. Artikel 3, eerste, tweede, vierde en zesde lid van de Regeling rekening-courant- en leningenbeheer derden is van overeenkomstige toepassing.   
 3.  De renteverrekening tussen het Ministerie van Financiën en het betrokken agentschap over de saldi op de rekening-courant vindt eenmaal per jaar plaats met als rentevervaldatum 31 december.   
 4.  Een agentschap kan beschikken over een krediet in de vorm van een debetstand op de rekening-courant, ter voorziening in een liquiditeitsbehoefte voor het doen van lopende uitgaven.   
 5.  Het rekening-courantkrediet bij ’s Rijks schatkist bedraagt voor een agentschap per 31 december maximaal € 0,5 miljoen.  
@@ -233,7 +233,7 @@ Bij het bevoorschotten van een agentschap wordt een zodanige frequentie en hoogt
 
 ####Uitgangspunten administratie en verslaglegging
 
-1.  Voor agentschappen geldt de regelgeving omtrent financieel beheer en verantwoording zoals opgenomen in de [Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en de daaruit voortvloeiende comptabele regelgeving.   
+1.  Voor agentschappen geldt de regelgeving omtrent financieel beheer en verantwoording zoals opgenomen in de Comptabiliteitswet 2001 en de daaruit voortvloeiende comptabele regelgeving.   
 2.  Voor de presentatie van de jaarrekening en de agentschapsparagraaf in het jaarverslag van het betrokken ministerie zijn de modellen en de toelichtingen daarop van toepassing zoals opgenomen in de Regeling Rijksbegrotingsvoorschriften.  
 
 ### Artikel  19  
@@ -304,13 +304,13 @@ Indien de kostprijs van een product of een dienst van een baten-lastenagentschap
 
 ####Uitgangspunten administratie en verslaggeving
 
-Onverminderd artikel 27 zijn bij het opstellen van de jaarrekening van baten-lastenagentschappen en de daarop gebaseerde agentschapsparagraaf in het departementaal jaarverslag de [artikelen 361 tot en met 390](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), uitgezonderd [artikel 365, tweede lid](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [artikel 383](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de [artikelen 383a t/m artikel 383e van Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de Richtlijnen voor de Jaarverslaggeving van overeenkomstige toepassing. 
+Onverminderd artikel 27 zijn bij het opstellen van de jaarrekening van baten-lastenagentschappen en de daarop gebaseerde agentschapsparagraaf in het departementaal jaarverslag de artikelen 361 tot en met 390, uitgezonderd artikel 365, tweede lid, artikel 383 en de artikelen 383a t/m artikel 383e van Titel 9 van Boek 2 van het Burgerlijk Wetboek en de Richtlijnen voor de Jaarverslaggeving van overeenkomstige toepassing. 
 
 ### Artikel  27  
 
 ####Nadere bepalingen voor de verslaggeving
 
-1.  Onder het begrip ‘derden’ in de zin van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt in het kader van deze regeling ook verstaan iedere organisatie of ieder organisatieonderdeel van de rijksoverheid anders dan het baten-lastenagentschap waarop de verslaggeving betrekking heeft.   
+1.  Onder het begrip ‘derden’ in de zin van Titel 9 van Boek 2 van het Burgerlijk Wetboek wordt in het kader van deze regeling ook verstaan iedere organisatie of ieder organisatieonderdeel van de rijksoverheid anders dan het baten-lastenagentschap waarop de verslaggeving betrekking heeft.   
 2.  Bij materiële en immateriële activa gelden de volgende bepalingen: 
 
 a. de waardering geschiedt tegen verkrijgings- of vervaardigingsprijs, onder aftrek van cumulatieve afschrijvingen en eventuele opgetreden waardeverminderingen;  
@@ -319,7 +319,7 @@ b. afschrijving geschiedt volgens de lineaire methode, op basis van de economisc
 
 c. bij het bepalen van de afschrijvingstermijnen worden in beginsel de termijnen gehanteerd zoals opgenomen in de artikelsgewijze toelichting. Afwijkingen worden toegelicht in de jaarrekening.  
 
-d. in afwijking van het [Burgerlijk Wetboek Boek 2 artikel 365](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), tweede lid wordt bij de activering van immateriële vaste activa geen wettelijke reserve in de jaarrekening opgenomen.     
+d. in afwijking van het Burgerlijk Wetboek Boek 2 artikel 365, tweede lid wordt bij de activering van immateriële vaste activa geen wettelijke reserve in de jaarrekening opgenomen.     
 3.  Een baten-lastenagentschap bezit geen financiële vaste activa.   
 4.  Ten aanzien van het eigen vermogen gelden de volgende bepalingen: 
 
@@ -339,9 +339,9 @@ e. het eigen vermogen van een baten-lastenagentschap is gebonden aan een minimum
 
 f. wanneer de in lid 4c en 4e vermelde grenzen worden overschreden, dan wordt dit overeenkomstig het tweede lid van artikel 25 hersteld.     
 5.  Langlopend vreemd vermogen bestaat uitsluitend uit leningen van het Ministerie van Financiën, zoals bedoeld in artikel 28.   
-6.  Voorzieningen worden in beginsel opgenomen overeenkomstig [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Indien de aldaar genoemde voorzieningen niet worden opgenomen, wordt de reden daarvoor toegelicht in de jaarrekening. Dotatie, onttrekking en vrijval van voorzieningen worden vermeld en afzonderlijk toegelicht in de jaarrekening.   
+6.  Voorzieningen worden in beginsel opgenomen overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek. Indien de aldaar genoemde voorzieningen niet worden opgenomen, wordt de reden daarvoor toegelicht in de jaarrekening. Dotatie, onttrekking en vrijval van voorzieningen worden vermeld en afzonderlijk toegelicht in de jaarrekening.   
 7.  Vorderingen op en schulden aan het betrokken ministerie en aan andere ministeries worden gespecificeerd en toegelicht bij de toelichting op de afzonderlijke posten in de balans van de jaarrekening.   
-8.  Overeenkomstig de uitgangspunten van het Rijkshuisvestingsstelsel activeert de Rijksgebouwendienst alle panden die onderdeel zijn van het Rijkshuisvestingsstelsel, ook indien het [Burgerlijk Wetboek Boek 2 Titel 9](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vereist dat een pand geactiveerd wordt bij het baten-lastenagentschap dat het pand in gebruik heeft.  
+8.  Overeenkomstig de uitgangspunten van het Rijkshuisvestingsstelsel activeert de Rijksgebouwendienst alle panden die onderdeel zijn van het Rijkshuisvestingsstelsel, ook indien het Burgerlijk Wetboek Boek 2 Titel 9 vereist dat een pand geactiveerd wordt bij het baten-lastenagentschap dat het pand in gebruik heeft.  
 
 ### Artikel  28  
 
@@ -349,7 +349,7 @@ f. wanneer de in lid 4c en 4e vermelde grenzen worden overschreden, dan wordt di
 
 1.  Ter dekking van een financieringsbehoefte voor een investering in vaste activa kan een baten-lastenagentschap beschikken over een leenfaciliteit bij het Ministerie van Financiën.   
 2.  De looptijd van iedere lening wordt gekoppeld aan de economische levensduur van de onderliggende vaste activa.   
-3.  De Minister van Financiën bepaalt de van toepassing zijnde rentepercentages voor leningen. [Artikel 3, derde en zesde lid van de Regeling rekening-courant- en leningenbeheer derden](../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) is van overeenkomstige toepassing, met uitzondering van de variabele rentevaste periode.   
+3.  De Minister van Financiën bepaalt de van toepassing zijnde rentepercentages voor leningen. Artikel 3, derde en zesde lid van de Regeling rekening-courant- en leningenbeheer derden is van overeenkomstige toepassing, met uitzondering van de variabele rentevaste periode.   
 4.  De leenfaciliteit is begrensd door middel van leenplafonds, die per baten-lastenagentschap en per looptijd op aanvraag worden toegekend. De toegekende leenplafonds worden niet overschreden.   
 5.  De Minister van Financiën bepaalt de procedure voor het aanvragen en toekennen van een leenplafond.  
 
@@ -377,7 +377,7 @@ f. wanneer de in lid 4c en 4e vermelde grenzen worden overschreden, dan wordt di
 
 ####Toezicht
 
-De directie Financieel-Economische Zaken van het betrokken ministerie oefent toezicht uit op een agentschap overeenkomstig het bepaalde in [artikel 6](../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md), [artikel 10](../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md) en [artikel 12, eerste lid van het Besluit Taak FEZ](../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md). 
+De directie Financieel-Economische Zaken van het betrokken ministerie oefent toezicht uit op een agentschap overeenkomstig het bepaalde in artikel 6, artikel 10 en artikel 12, eerste lid van het Besluit Taak FEZ. 
 
 ### Artikel  31  
 
@@ -411,7 +411,7 @@ Deze regeling wordt in 2017 geëvalueerd.
 
 ####Intrekking
 
-De [Regeling baten-lastendiensten 2011](../../../../ministeriele-regeling/regeling/baten-lastendiensten/2011/BWBR0029623/README.md) wordt ingetrokken. 
+De Regeling baten-lastendiensten 2011 wordt ingetrokken. 
 
 ### Artikel  36  
 

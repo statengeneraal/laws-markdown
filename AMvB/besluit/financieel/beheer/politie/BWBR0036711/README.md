@@ -16,10 +16,7 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-07-2015 
 
 In dit besluit wordt verstaan onder: 
 
@@ -42,7 +39,6 @@ h. *jaarrekening:* de jaarrekening, bedoeld in artikel 35 van de Politiewet 2012
 i. *jaaraanschrijving:* de jaaraanschrijving, bedoeld in artikel 19 van het Besluit beheer politie.   
 
 ### Artikel  2  
-Treedt in werking per 01-07-2015 
 
 1.  De begroting en de meerjarenraming geven duidelijk en stelselmatig inzicht in de geraamde baten en lasten, de geraamde investeringen en de financiering hiervan alsmede de ontwikkeling van de vermogenspositie.   
 2.  De managementrapportages en de jaarrekening geven inzicht in de inzet en de besteding van de financiële middelen van de politie.  
@@ -51,36 +47,29 @@ Treedt in werking per 01-07-2015
 
 ####Begrotings- en verantwoordingscyclus
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  3  
-Treedt in werking per 01-07-2015 
 
 1.  De jaaraanschrijving heeft tevens betrekking op de managementrapportages alsmede op de door de korpschef te verrichten voorbereidende werkzaamheden ten behoeve van de begroting, de meerjarenraming en de jaarrekening en de daarvoor nodige informatie.   
 2.  De jaaraanschrijving bevat in ieder geval de modellen op basis waarvan de managementrapportages worden opgesteld alsmede regels over activering.  
 
 ### Artikel  4  
-Treedt in werking per 01-07-2015 
 
 1.  Onze Minister stelt voor de derde dinsdag van september de ontwerpbegroting van de politie en het daarbij behorende ontwerp van de meerjarenraming voor het komende begrotingsjaar op.   
 2.  De ontwerpbegroting en het daarbij behorende ontwerp van de meerjarenraming, bedoeld in het eerste lid, wordt als bijlage bij de begroting van het Ministerie van Veiligheid en Justitie aan de Staten-Generaal gezonden.   
 3.  Onze Minister stelt de begroting en de daarbij behorende meerjarenraming voor het komende begrotingsjaar vast na goedkeuring van de begroting voor hetzelfde jaar van zijn Ministerie door de Staten-Generaal.  
 
 ### Artikel  5  
-Treedt in werking per 01-07-2015 
 
 1.  De korpschef verstrekt jaarlijks uiterlijk op 1 januari aan Onze Minister de informatie die van belang is voor de Voorjaarsnota, bedoeld in artikel 15, eerste lid, van de Comptabiliteitswet 2001.   
 2.  De korpschef verstrekt jaarlijks uiterlijk op 1 september aan Onze Minister de informatie die van belang is voor de Najaarsnota, bedoeld in artikel 15, derde lid, van de Comptabiliteitswet 2001.  
 
 ### Artikel  6  
-Treedt in werking per 01-07-2015 
 
 1.  De korpschef verstrekt aan Onze Minister een 3-maands-, een 6-maands-, 9-maands- en een 12-maandsmanagementrapportage en afzonderlijke maandrapportages over de maanden januari, februari, april, mei, juli, augustus, oktober en november.   
 2.  De 3-maands-, de 6-maands-, 9-maands- en de 12-maandsmanagementrapportage worden telkens uiterlijk op respectievelijk 1 mei, 1 augustus, 1 november en 1 februari verstrekt aan Onze Minister.   
 3.  De maandrapportages worden binnen 4 weken na het einde van de betreffende maand verstrekt aan Onze Minister.  
 
 ### Artikel  7  
-Treedt in werking per 01-07-2015 
 
 1.  Onze Minister stelt jaarlijks vóór 15 mei, ten behoeve van zijn verantwoording aan de Staten-Generaal in het jaar volgend op het verslagjaar, de jaarrekening vast.   
 2.  De jaarrekening wordt als bijlage van het jaarverslag van het Ministerie van Veiligheid en Justitie ter informatie aan de Staten-Generaal gezonden.  
@@ -89,10 +78,7 @@ Treedt in werking per 01-07-2015
 
 ####Begroting en meerjarenraming
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  8  
-Treedt in werking per 01-07-2015 
 
 1.  De begroting en meerjarenraming bevatten een jaarlijks sluitende raming van de baten en lasten van de politie.   
 2.  In afwijking van het eerste lid kunnen de begroting en de meerjarenraming een negatief resultaat bevatten voor zover het negatieve resultaat wordt veroorzaakt door lasten waarvoor een bestemmingsreserve als bedoeld in artikel 17 is gevormd.   
@@ -102,17 +88,13 @@ Treedt in werking per 01-07-2015
 
 ####Bijdragen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  9  
-Treedt in werking per 01-07-2015 
 
 1.  De politie ontvangt uitsluitend bijdragen als bedoeld in artikel 33 van de Politiewet 2012.   
 2.  De bijdragen bestaan uit algemene en bijzondere bijdragen. Bijzondere bijdragen kunnen bij wege van voorschot worden verstrekt.   
 3.  Aan de algemene bijdragen kunnen voorwaarden worden verbonden en aan de bijzondere bijdragen worden voorwaarden verbonden.  
 
 ### Artikel  10  
-Treedt in werking per 01-07-2015 
 
 1.  Het totaal van de bijdragen, bedoeld in artikel 9, wordt betaalbaar gesteld in vier termijnen, respectievelijk op 15 januari, 15 april, 15 juli en 15 oktober van elk jaar.   
 2.  De hoogte van de bijdrage per termijn wordt bepaald aan de hand van de liquiditeitsbehoefte van de politie.  
@@ -121,10 +103,7 @@ Treedt in werking per 01-07-2015
 
 ####De jaarrekening
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  11  
-Treedt in werking per 01-07-2015 
 
 1.  Voor zover in dit besluit niet anders is bepaald, zijn de artikelen 361 tot en met 388, met uitzondering van de artikelen 362, zevende lid, 363, zesde lid, 377, 379, 380, 381a, 381b, 383, 383a tot en met 383e en 384, vierde lid, van Boek 2 van het Burgerlijk Wetboek van toepassing, met dien verstande dat in die artikelen: 
 
@@ -150,7 +129,6 @@ i. voor de inrichting van de jaarrekening, de modellen, bedoeld in artikel 3, tw
 4.  Het verslag van de accountant, bedoeld in het derde lid, wordt ter beschikking gesteld aan Onze Minister.  
 
 ### Artikel  12  
-Treedt in werking per 01-07-2015 
 
 1.  In de jaarrekening wordt verantwoording afgelegd over de besteding van de bijdragen.   
 2.  In de jaarrekening is een bedrijfsvoeringsparagraaf opgenomen waarin in ieder geval wordt ingegaan op de financiële rechtmatigheid, financieel en materieel beheer en overige aspecten van de bedrijfsvoering.   
@@ -168,15 +146,11 @@ c. door Onze Minister in mindering gebracht op de bijzondere bijdragen van het v
 
 ####Liquiditeitsmanagement en eigen vermogen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  13  
-Treedt in werking per 01-07-2015 
 
 Het eigen vermogen bestaat uitsluitend uit een algemene reserve. 
 
 ### Artikel  14  
-Treedt in werking per 01-07-2015 
 
 1.  Onverminderd het bepaalde bij of krachtens de artikelen 45, eerste, vierde en vijfde lid, en 46 tot en met 49a van de Comptabiliteitswet 2001 gelden voor de politie de in het tweede tot en met vijfde lid opgenomen regels.   
 2.  Het rekening-courantkrediet bij het Ministerie van Financiën bedraagt maximaal € 250 miljoen.   
@@ -185,7 +159,6 @@ Treedt in werking per 01-07-2015
 5.  De politie maakt gebruik van een door Onze Minister vastgesteld treasurystatuut, waarin in ieder geval de algemene doelstellingen en de richtlijnen en limieten van de financieringsfunctie zijn vastgelegd.  
 
 ### Artikel  15  
-Treedt in werking per 01-07-2015 
 
 1.  Het eigen vermogen van de politie bedraagt ultimo het jaar minimaal 0% en maximaal 5% van de gemiddelde bijdragen van de laatste drie jaar voorafgaand aan het jaar waarover het vermogen wordt berekend.   
 2.  Indien het eigen vermogen het in het eerste lid gestelde maximum overschrijdt, verrekent Onze Minister het verschil met de algemene bijdrage van dat jaar.   
@@ -198,33 +171,26 @@ Treedt in werking per 01-07-2015
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  16  
-Treedt in werking per 01-07-2015 
 
 Activa aangeschaft vóór de datum van inwerkingtreding van de Politiewet 2012 worden afgeschreven overeenkomstig artikel 1 van de Regeling HAP, zoals dit luidde voor 1 januari 2013. 
 
 ### Artikel  17  
-Treedt in werking per 01-07-2015 
 
 1.  In afwijking van artikel 13 is in de balans van de politie een bestemmingsreserves toegestaan voor ICT tot maximaal € 366 miljoen.   
 2.  De bestemmingsreserve, bedoeld in het eerste lid, wordt niet meegewogen in de vaststelling van de omvang van het eigen vermogen, bedoeld in artikel 15.   
 3.  De bestemmingsreserve ICT blijft uiterlijk in stand tot een door Onze Minister te bepalen tijdstip.  
 
 ### Artikel  18  
-Treedt in werking per 01-07-2015 
 
 1.  In afwijking van artikel 15, eerste lid, mag het eigen vermogen van de politie gedurende de eerste vijf jaar na 1 januari 2013 maximaal 7,5% van de gemiddelde bijdragen als bedoeld in artikel 15, eerste lid, bedragen.   
 2.  Voor de toepassing van artikel 15, eerste lid, wordt de bijdrage vastgesteld op € 4,928 miljard voor 2012.  
 
 ### Artikel  19  
-Treedt in werking per 01-07-2015 
 
 Dit besluit treedt in werking op 1 juli 2015. 
 
 ### Artikel  20  
-Treedt in werking per 01-07-2015 
 
 Dit besluit wordt aangehaald als: Besluit financieel beheer politie. 
 

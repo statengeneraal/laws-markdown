@@ -4161,6 +4161,34 @@ b. naam en woonplaats van elke maatschappij die zijn financiële gegevens consol
 2.   De netto-omzet wordt op overeenkomstige wijze gesplitst naar de onderscheiden gebieden waarin de rechtspersoon goederen en diensten levert.    
 3.   Artikel 379 lid 4 is van overeenkomstige toepassing.   
 
+### Artikel  380a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Vermeld worden de niet in de balans of winst- en verliesrekening opgenomen gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen. 
+
+### Artikel  380b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Meegedeeld worden: 
+
+a. de naam van de rechtspersoon;  
+
+b. de rechtsvorm van de rechtspersoon;  
+
+c. de zetel van de rechtspersoon; en  
+
+d. het door de Kamer van Koophandel toegekende nummer bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007, waaronder de rechtspersoon in het handelsregister is ingeschreven.   
+
+### Artikel  380c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De rechtspersoon doet opgave van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, het voorstel daartoe. 
+
+### Artikel  380d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De rechtspersoon doet opgave van het aantal winstbewijzen en soortgelijke rechten, met vermelding van de bevoegdheden die zij geven. 
+
 ### Artikel  381  
 
 1. Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.   
@@ -4383,6 +4411,18 @@ h. opgave van het bestaan van nevenvestigingen en van de landen waar nevenvestig
 4.   Het bepaalde in lid 1 onder *e* en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder e wanneer omtrent deze gegevens mededeling moet worden gedaan in het jaarverslag op grond van artikel 391 lid 5.   
 5.  Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder *b* en *c*, niet aan de jaarrekening en het jaarverslag toe te voegen.   
 
+### Afdeling  8a  
+
+#### *Verslag over betalingen aan overheden* 
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  392a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij algemene maatregel van bestuur worden ter uitvoering van richtlijnen van het Europees Parlement en de Raad van de Europese Unie houdende regels inzake de jaarrekening, regels gesteld met betrekking tot de verplichting van rechtspersonen uit bepaalde sectoren tot het opstellen en openbaar maken van een verslag dan wel een geconsolideerd verslag over betalingen die zij doen aan overheden en worden nadere regels gesteld omtrent de inhoud van het verslag.   
+2.  De openbaarmaking van het verslag, bedoeld in lid 1, geschiedt binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in artikel 394 lid 1, tweede volzin.  
+
 ### Afdeling  9  
 
 ####Deskundigenonderzoek 
@@ -4448,6 +4488,24 @@ c. vierde lid, eerste volzin, indien zij het jaarverslag en de overige in artike
 ### Afdeling  11  
 
 ####Vrijstellingen op grond van de omvang van het bedrijf van de rechtspersoon 
+
+### Artikel  395a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De leden 3 tot en met 6 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten: 
+
+a. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 350.000;  
+
+b. de netto-omzet over het boekjaar bedraagt niet meer dan € 700.000;  
+
+c. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 10.     
+2.  Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.   
+3.  Het bepaalde in leden 3 en 4 van artikel 364 met betrekking tot de overlopende activa en passiva is niet van toepassing voor de overige bedrijfskosten bedoeld in artikel 377 lid 3 onder j.   
+4.  Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364 lid 1, 365 lid 1 onder a en 370 lid 1 onder d, 373 lid 1 waarbij de posten worden samengetrokken tot een post, 374 lid 1 en 375 lid 1 waarbij de posten worden samengetrokken tot een post. Voorts vermeldt een naamloze vennootschap de gegevens genoemd in de tweede zin van artikel 378 lid 3 onderaan de balans.   
+5.  Van de ingevolge afdeling 4 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 377 lid 1 onder a met uitzondering van vermelding van de baten en lasten uit de gewone bedrijfsuitoefening, 377 lid 3 onder a, d en e, 377 lid 3 onder g met uitzondering van de vermelding van overige externe kosten, 377 lid 3 onder h en i waarbij de posten worden samengetrokken tot een post en 377 lid 3 onder j.   
+6.  Afdeling 5, de voorschriften in afdeling 6 betreffende de voorgeschreven opgaven in de toelichting, en de afdelingen 7, 8 en 9 zijn niet van toepassing.   
+7.  In afwijking van afdeling 6 van deze titel komen voor de waardering van de activa en passiva en voor de bepaling van het resultaat ook in aanmerking de grondslagen voor de bepaling van de belastbare winst, bedoeld in hoofdstuk II van de Wet op de vennootschapsbelasting 1969, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde fiscale grondslagen toepast. Indien de rechtspersoon deze grondslagen toepast, maakt zij daarvan melding in de toelichting. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het gebruik van deze grondslagen en de toelichting die daarbij gegeven wordt.   
+8.  Artikel 394 is slechts van toepassing met betrekking tot een overeenkomstig leden 3 en 4 beperkte balans.  
 
 ### Artikel  396  
 

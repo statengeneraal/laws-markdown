@@ -4,7 +4,7 @@
 
 ####Agreement between the Kingdom of the Netherlands and Eurojust
 
-The Kingdom of the Netherlands and Eurojust (hereafter, the Parties) Having regard to the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime; Whereas Article 1c) of the Decision taken by common agreement between the Representatives of the Member States, meeting at Head of State or Government level, of 13 December 2003 on the location of seats of certain offices and agencies of the European Union, provides having regard to [Article 289 of the Treaty establishing the European Community](../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), that Eurojust shall have its seat in The Hague; Have agreed as follows:    
+The Kingdom of the Netherlands and Eurojust (hereafter, the Parties) Having regard to the Council Decision of 28 February 2002 setting up Eurojust with a view to reinforcing the fight against serious crime; Whereas Article 1c) of the Decision taken by common agreement between the Representatives of the Member States, meeting at Head of State or Government level, of 13 December 2003 on the location of seats of certain offices and agencies of the European Union, provides having regard to Article 289 of the Treaty establishing the European Community, that Eurojust shall have its seat in The Hague; Have agreed as follows:    
 
 ### Article  1  
 
@@ -40,7 +40,7 @@ m) ‘‘staff’’ means the Eurojust staff referred to in Article 30 of the E
 
 n) ‘‘Protocol’’ means the Protocol on the Privileges and Immunities of the European Communities;  
 
-o) ‘‘[Vienna Convention](../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md)’’ means the Vienna Convention on Diplomatic Relations;  
+o) ‘‘Vienna Convention’’ means the Vienna Convention on Diplomatic Relations;  
 
 p) ‘‘archives’’ means all records, correspondence, documents, manuscripts, computer and media data, photographs, film, video and sound recordings belonging to, or held by or on behalf of Eurojust, and any other similar material which Eurojust and the Government may agree upon to be part of the archives of Eurojust; and  
 
@@ -154,8 +154,8 @@ e) other persons, on request of the Administrative Director.
 
 a) *mutatis mutandis,* the privileges and immunities as referred to in Article 2, paragraph 3, and Article 7 of this Agreement; and  
 
-b) the privileges and immunities, exemptions and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the [Vienna Convention](../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).     
-2.  The members of the family forming part of the household of a national member referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to members of the family forming part of the household of heads of diplomatic missions under the [Vienna Convention](../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).   
+b) the privileges and immunities, exemptions and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the Vienna Convention.     
+2.  The members of the family forming part of the household of a national member referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to members of the family forming part of the household of heads of diplomatic missions under the Vienna Convention.   
 3.  The privileges granted in accordance with paragraphs 1 and 2 relating to the exemptions from direct taxes shall only apply where a national member and the members of the family forming part of his household are considered by the seconding Member State as a fiscal resident in that Member State.   
 4.  In case a Member State, other than the Kingdom of the Netherlands, nominates a person with the Dutch nationality or permanently resident in the Netherlands as its national member, the Government and Eurojust shall mutually agree upon the privileges and immunities to be granted to the national member concerned.  
 
@@ -177,13 +177,13 @@ b) inviolability for all his official papers, documents and other official mater
 
 a) the privileges and immunities referred to in Article 11, paragraph 1a); and  
 
-b) the privileges and immunities, exemptions and facilities accorded to diplomatic agents accredited to the Kingdom of the Netherlands under the [Vienna Convention](../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).     
+b) the privileges and immunities, exemptions and facilities accorded to diplomatic agents accredited to the Kingdom of the Netherlands under the Vienna Convention.     
 2.  An assistant, having the Dutch nationality or permanently resident in the Kingdom of the Netherlands, shall enjoy the following privileges and immunities: 
 
 a) immunity from legal process of any kind in respect of words spoken or written, and of acts performed, in the exercise of his official function, such immunity to continue notwithstanding that the person concerned is no longer an assistant; and  
 
 b) inviolability for all his official papers, documents and other official materials and immunity from inspection and seizure of his official luggage;     
-3.  The members of the family forming part of the household of an assistant referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to the members of the family forming part of the household of diplomatic agents under the [Vienna Convention](../../../../../../../../../../verdrag/vienna/convention/on/diplomatic/relations/BWBV0004345/README.md).   
+3.  The members of the family forming part of the household of an assistant referred to in paragraph 1, not having the Dutch nationality or not permanently resident, shall enjoy the privileges and immunities, exemptions and facilities accorded to the members of the family forming part of the household of diplomatic agents under the Vienna Convention.   
 4.  The privileges granted in accordance with paragraphs 1 and 3 relating to the exemptions from direct taxes shall only apply where an assistant or a member of the family forming part of his household is considered by the seconding Member State as a fiscal resident in that Member State.  
 
 ### Article  14  
@@ -330,3 +330,15 @@ c)children of a national member, an assistant, the Administrative Director or a 
 4. In case of the insolvency of a person aged under 24 with respect to a claim arising out of gainful employment of that person, the immunity of the national member, the assistant, the Administrative Director or the member of the staff of whose family the person concerned is a member shall be waived for the purpose of settlement of the claim, in accordance with the provisions of Article 19 of the Seat Agreement. 
 
 5. The employment referred to in paragraph 1 shall be in accordance with Netherlands legislation, including fiscal and social security legislation, unless any other international legal instrument provides otherwise.    
+
+### Nr.  I  
+
+MINISTRY OF FOREIGN AFFAIRS The Hague, 1 August 2015 Treaties Division MINBUZA-2015.430714 The Ministry of Foreign Affairs of the Kingdom of the Netherlands presents its compliments to Eurojust and has the honour to draw its attention to the following matter. With reference to the meeting of 7 April 2015 and Eurojust’s request to find a solution to the situation concerning the official status of a Deputy National Member, the Ministry of Foreign Affairs proposes the following. Under the Host State Agreement between the Kingdom of the Netherlands and Eurojust of 15 March 2006 (*Trb.* 2006, 68), the provision of privileges and immunities to Eurojust, its staff and the representatives of its Member States is based on the Eurojust Decision of 2002. This Decision has been replaced by the Eurojust Decision of 2009, but an accompanying adjustment has not yet been made in the Host State Agreement. In the Eurojust Decision 2009, the position of deputy national member was introduced in addition to the already existing positions of national member and assistants seconded by Member States. This position is not included in the Host State Agreement. In view of the draft EU Regulation concerning Eurojust that is currently pending before European Parliament, which in all likelihood will require amendments to the Host State Agreement in the foreseeable future, it may not be opportune to consider amending the Agreement at present. To facilitate the proper functioning of the Organisation, and in view of the introduction of the position of deputy national member in the Eurojust Decision of 2009, the Ministry of Foreign Affairs hereby issues an interpretative declaration, as attached to this Note Verbale. It kindly invites Eurojust to reply with an identical interpretative declaration, in order to clarify that both parties to the Host State Agreement interpret the term “national member” in Article 11 of that Agreement as including a deputy national member. The Ministry of Foreign Affairs of the Kingdom of the Netherlands avails itself of this opportunity to assure Eurojust of its highest consideration. *EUROJUST* *The Hague*  
+
+####Interpretative declaration
+
+The Kingdom of the Netherlands declares that it interprets the term *“national member”* in Article 11 of the Agreement as including to refer to a deputy national member pursuant to the creation of this position in Article 2 of the Council Decision 2009/426/JHA of 16 December 2008 on the strengthening of Eurojust and amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime.   
+
+### Nr.  II  
+
+EUROJUST The Hague, 10 September 2015 Interpretative Declaration on Article 11 of the Agreement between the Kingdom of the Netherlands and Eurojust of 15 March 2006 Eurojust presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honour to inform him as follows. With reference to the Seat Agreement between the Kingdom of the Netherlands and Eurojust of 15 March 2006 (published at the Tractatenblad van het Koninkrijk der Nederlanden, Jaargang 2006 Nr: 68, hereinafter referred to as “Agreement”) and in particular Article 11 thereof Eurojust DECLARES that it interprets the term *“national member”* in Article 11 of the Agreement as including to refer to a deputy national member pursuant to the creation of this position in Article 2 of the Council Decision 2009/426/JHA of 16 December 2008 on the strengthening of Eurojust and amending Decision 2002/187/JHA setting up Eurojust with a view to reinforcing the fight against serious crime. Eurojust avails itself of this opportunity to renew to the Ministry of Foreign Affairs of the Kingdom of the Netherlands the assurances of its highest consideration. Yours sincerely, KLAUS U. RACKWITZ The Administrative Director *Ministry of Foreign Affairs* *Kingdom of the Netherlands* *The Hague*   

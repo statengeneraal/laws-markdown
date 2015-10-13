@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 april 2011, nr. DDS5691198, houdende toekenning van een vaste vergoeding aan de leden van de Erkenningscommissie Gedragsinterventies Justitie (Besluit vergoedingen Erkenningscommissie Gedragsinterventies Justitie 2011)
 
 De Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md);
+Gelet op artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -13,8 +13,8 @@ In dit besluit wordt verstaan onder de Commissie: de Erkenningscommissie Gedrags
 ### Artikel  2  
 
 1.  De voorzitter en de overige leden van de Commissie ontvangen voor hun werkzaamheden een vaste vergoeding per maand.   
-2.  De vergoeding van de voorzitter van de Commissie wordt gebaseerd op het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een arbeidsduurfactor van 0,1416.   
-3.  De vergoeding van de overige leden van de Commissie wordt gebaseerd op het maximum van salarisschaal 17 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een arbeidsduurfactor van: 
+2.  De vergoeding van de voorzitter van de Commissie wordt gebaseerd op het maximum van salarisschaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en op een arbeidsduurfactor van 0,1416.   
+3.  De vergoeding van de overige leden van de Commissie wordt gebaseerd op het maximum van salarisschaal 17 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 en op een arbeidsduurfactor van: 
 
 a. 0,0412 voor leden die werkzaamheden die behoren tot de beoordelingstaak van de Commissie verrichten;  
 

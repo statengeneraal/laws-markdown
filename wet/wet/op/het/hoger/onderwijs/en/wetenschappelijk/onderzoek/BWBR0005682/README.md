@@ -464,7 +464,10 @@ c. een financiële raming in verband met de bekostiging van de daarvoor in aanme
 2.  De bijzondere berekeningswijze, bedoeld in artikel 2.5, eerste lid, wordt bij of krachtens algemene maatregel van bestuur vastgesteld. In die algemene maatregel van bestuur wordt tevens vastgesteld ten aanzien van welk onderwijs dat artikellid toepassing vindt. De bijzondere berekeningswijze bevat maatstaven die in elk geval betrekking hebben op de studieresultaten.   
 3.   Wat betreft de instellingen voor hoger onderwijs, met uitzondering van de Open Universiteit, hebben de maatstaven in elk geval betrekking op het aantal studenten en op de studieresultaten. De maatstaven kunnen verschillen per opleiding of groep van opleidingen dan wel per Ad-programma.    
 4.   De maatstaven voor bekostiging van het wetenschappelijk onderzoek aan de universiteiten hebben in ieder geval betrekking op de maatschappelijke en wetenschappelijke behoefte aan het onderzoek, waarbij rekening wordt gehouden met het profiel van de instellingen alsmede op de kwaliteit van het onderzoek.    
-5.   Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in het eerste en tweede lid voor aan beide Kamers der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat vier weken na die voorlegging zijn verstreken.   
+5.  Met het oog op de bevordering van de kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek kan Onze minister in afwijking van de algemene berekeningswijze, bedoeld in het eerste lid, aan de rijksbijdrage waarop de in artikel 1.9, eerste lid, bedoelde aanspraak betrekking heeft, een bedrag toevoegen in verband met de door een instelling in het vooruitzicht gestelde of gerealiseerde kwaliteit van het hoger onderwijs of het wetenschappelijk onderzoek.   
+6.  Bij de berekening van het bedrag dat op grond van het vijfde lid aan de rijksbijdrage wordt toegevoegd, worden in ieder geval de bij algemene maatregel van bestuur te bepalen maatstaven voor onderwijsdifferentiatie, onderwijsintensiteit, docentkwaliteit en studiesucces gehanteerd. Bij of krachtens algemene maatregel van bestuur kunnen andere bij de berekening te hanteren maatstaven worden vastgesteld. Bij algemene maatregel van bestuur wordt voorts vastgesteld voor welk tijdvak de berekeningswijze, bedoeld in het vijfde lid, geldt.  
+7.   Onze minister legt het ontwerp van een algemene maatregel van bestuur als bedoeld in het eerste, tweede en zesde lid voor aan beide Kamers der Staten-Generaal. De voordracht voor die algemene maatregel van bestuur wordt niet gedaan dan nadat vier weken na die voorlegging zijn verstreken.    
+8.  Een ontwerp van een algemene maatregel van bestuur als bedoeld in het zesde lid wordt niet aan beide Kamers der Staten-Generaal voorgelegd dan nadat over dat ontwerp overleg heeft plaatsgevonden met een vertegenwoordiging van de instellingsbesturen van de bekostigde universiteiten, hogescholen en Open Universiteit en met de daarvoor in aanmerking komende belangenorganisaties van studenten. 
 
 ### Artikel  2.6a  
 
@@ -533,7 +536,7 @@ De accountant die door Onze minister is belast met het onderzoek van de minister
 
 ### Artikel  2.10a  
 
-####Controleprotocol
+####Accountantsprotocol
 
 Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent de controle van de jaarrekening, de besteding van de rijksbijdrage en de door de instellingen opgegeven bekostigingsgegevens. 
 
@@ -564,7 +567,7 @@ Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inric
 
 ### Titel  4  
 
-####Bijzondere bepalingen in verband met investeringen en leningen 
+####Bijzondere bepalingen in verband met het financieel beheer
 
 ###Artikel 2.16 
 
@@ -578,7 +581,8 @@ Bij ministeriële regeling kunnen voorschriften worden vastgesteld voor de inric
 
 ####Beheer van de middelen 
 
-Het instellingsbestuur beheert de middelen van de instelling op zodanige wijze dat een behoorlijke exploitatie en het voortbestaan van de instelling zijn verzekerd.  
+1. Het instellingsbestuur beheert de middelen van de instelling op zodanige wijze dat een behoorlijke exploitatie en het voortbestaan van de instelling zijn verzekerd.   
+2.  Bij ministeriële regeling kunnen regels worden gesteld over het door het instellingsbestuur uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten. 
 
 ### Titel  5  
 
@@ -1126,7 +1130,7 @@ d. het instellingsbestuur de verplichtingen, bedoeld in artikel 6.7a, niet nalee
 2.  Naar aanleiding van het verzoek, bedoeld in het eerste lid, adviseert de inspectie Onze minister over de continuïteit van de desbetreffende rechtspersoon en de naleving door de desbetreffende rechtspersoon van de artikelen 1.12, tweede lid en 1.12a.   
 3.  Naar aanleiding van het verzoek en mede op grond van het advies beslist Onze minister of de artikelen 1.12, eerste lid, of 1.12a op de opleiding, verzorgd door de desbetreffende rechtspersoon, van toepassing zijn. Onze minister wijst het verzoek om graden te mogen verlenen in ieder geval af indien de continuïteit van de desbetreffende rechtspersoon of de naleving van artikel 1.12, tweede en derde lid, in onvoldoende mate zijn gewaarborgd. Onze minister neemt binnen 16 weken na ontvangst van het verzoek, bedoeld in het eerste lid, een besluit.   
 4.  Het tweede en derde lid zijn van overeenkomstige toepassing indien de desbetreffende rechtspersoon de opleiding overdraagt aan een andere rechtspersoon met volledige rechtsbevoegdheid waarop de artikelen 1.12 of 1.12a op het moment van de overdracht niet van toepassing zijn.   
-5.  Indien door de in het eerste lid bedoelde rechtspersoon geen in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, geregistreerde opleidingen meer worden verzorgd, kan deze rechtspersoon slechts opnieuw graden verlenen na toepassing van het eerste tot en met derde lid.  
+5.  Indien door de in het eerste lid bedoelde rechtspersoon geen in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13, geregistreerde opleidingen meer worden verzorgd dan wel door de rechtspersoon uitsluitend een opleiding in afbouw als bedoeld in artikel 5a.12 wordt verzorgd, kan deze rechtspersoon slechts opnieuw graden verlenen na toepassing van het eerste tot en met derde lid.  
 
 ### Artikel  6.10  
 
@@ -1462,7 +1466,8 @@ Het instellingsbestuur doet voor het einde van de tweede maand volgend op de maa
 ####Examens en tentamens 
 
 1.  Elk tentamen omvat een onderzoek naar de kennis, het inzicht en de vaardigheden van de examinandus, alsmede de beoordeling van de uitkomsten van dat onderzoek.    
-2.   Indien de tentamens van de tot een opleiding of propedeutische fase van een bacheloropleiding behorende onderwijseenheden met goed gevolg zijn afgelegd, is het examen afgelegd, voorzover de examencommissie niet heeft bepaald dat het examen tevens omvat een door haar zelf te verrichten onderzoek als bedoeld in het eerste lid.   
+2.   Indien de tentamens van de tot een opleiding of propedeutische fase van een bacheloropleiding behorende onderwijseenheden met goed gevolg zijn afgelegd, is het examen afgelegd, voorzover de examencommissie niet heeft bepaald dat het examen tevens omvat een door haar zelf te verrichten onderzoek als bedoeld in het eerste lid.    
+3.  Het instellingsbestuur is verantwoordelijk voor de praktische organisatie van tentamens en examens. 
 
 ### Artikel  7.10a  
 
@@ -1527,7 +1532,7 @@ d.de studielast van de opleiding.Het supplement wordt opgesteld in het Nederland
 
 a. ten minste één lid als docent verbonden is aan de desbetreffende opleiding of aan een van de opleidingen die tot de groep van opleidingen behoort;  
 
-b. voor zover het een hogeschool betreft ten minste één lid afkomstig is van buiten de desbetreffende opleiding of een van de opleidingen die tot de groep van opleidingen behoort;  
+b. ten minste één lid afkomstig is van buiten de desbetreffende opleiding of een van de opleidingen die tot de groep van opleidingen behoort;  
 
 c. leden van het instellingsbestuur of personen die anderszins financiële verantwoordelijkheid dragen binnen de instelling niet worden benoemd.    
 4.  Alvorens tot benoeming van een lid over te gaan, hoort het instellingsbestuur de leden van de desbetreffende examencommissie.  
@@ -1542,9 +1547,11 @@ a. het borgen van de kwaliteit van de tentamens en examens onverminderd artikel 
 
 b. het vaststellen van richtlijnen en aanwijzingen binnen het kader van de onderwijs- en examenregeling, bedoeld in artikel 7.13, om de uitslag van tentamens en examens te beoordelen en vast te stellen,  
 
-c. het door de meest daarvoor in aanmerking komende examencommissie verlenen van toestemming aan een student om een door die student samengesteld programma als bedoeld in artikel 7.3d te volgen, waarvan het examen leidt tot het verkrijgen van een graad, waarbij de examencommissie tevens aangeeft tot welke opleiding van de instelling dat programma wordt geacht te behoren voor de toepassing van deze wet, en  
+c. het door de meest daarvoor in aanmerking komende examencommissie verlenen van toestemming aan een student om een door die student samengesteld programma als bedoeld in artikel 7.3d te volgen, waarvan het examen leidt tot het verkrijgen van een graad, waarbij de examencommissie tevens aangeeft tot welke opleiding van de instelling dat programma wordt geacht te behoren voor de toepassing van deze wet,  
 
-d. het verlenen van vrijstelling voor het afleggen van één of meer tentamens.     
+d. het verlenen van vrijstelling voor het afleggen van één of meer tentamens, en  
+
+e. het borgen van de kwaliteit van de organisatie en de procedures rondom tentamens en examens.    
 2.  Indien een student of extraneus fraudeert, kan de examencommissie de betrokkene het recht ontnemen één of meer door de examencommissie aan te wijzen tentamens of examens af te leggen, gedurende een door de examencommissie te bepalen termijn van ten hoogste een jaar. Bij ernstige fraude kan het instellingsbestuur op voorstel van de examencommissie de inschrijving voor de opleiding van de betrokkene definitief beëindigen.   
 3.  De examencommissie stelt regels vast over de uitvoering van de taken en bevoegdheden, bedoeld in het eerste lid, onderdelen a, b en d, en het tweede lid, en over de maatregelen die zij in dat verband kan nemen. De examencommissie kan onder door haar te stellen voorwaarden bepalen dat niet ieder tentamen met goed gevolg afgelegd hoeft te zijn om vast te stellen dat het examen met goed gevolg is afgelegd.   
 4.  Indien een student bij de examencommissie een verzoek of een klacht indient waarbij een examinator betrokken is die lid is van de examencommissie, neemt de betrokken examinator geen deel aan de behandeling van het verzoek of de klacht.   
@@ -1891,7 +1898,7 @@ Het instellingsbestuur kan met het oog op de inschrijving voor een deeltijdse op
 ####Vrijstelling op grond van andere diploma’s 
 
 1.  Degene aan wie een graad als bedoeld in artikel 7.10a is verleend, is vrijgesteld van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen, onverminderd het derde en vierde lid. Van de in de eerste volzin bedoelde vooropleidingseisen is eveneens vrijgesteld degene die toegang heeft tot het wetenschappelijk onderwijs of het hoger beroepsonderwijs in het land van een verdragspartij die het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) heeft geratificeerd, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het genoemde verdrag een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet. Gelijke bevoegdheid bestaat op grond van het tweede lid, derde en vierde volzin, het derde en vierde lid en de artikelen 7.26, 7.26a en 7.27.   
-1a.  Het instellingsbestuur kan met het oog op de inschrijving voor een bacheloropleiding aan een universiteit van de bezitter van een getuigschrift van een met goed gevolg afgelegd propedeutisch examen aan een hogeschool die niet in het bezit is van een diploma als bedoeld in artikel 7.24, eerste lid, dan wel een op grond van het tweede lid bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan ten minste gelijkwaardig diploma eisen dat hij aantoont over kennis, inzicht en vaardigheden te beschikken om de bedoelde bacheloropleiding met goed gevolg af te ronden.  
+1a.  Het instellingsbestuur kan met het oog op de inschrijving voor een bacheloropleiding aan een universiteit van de bezitter van een getuigschrift van een met goed gevolg afgelegd propedeutisch examen aan een instelling voor hoger onderwijs die niet in het bezit is van een diploma als bedoeld in artikel 7.24, eerste lid, dan wel een op grond van het tweede lid bij ministeriële regeling als ten minste gelijkwaardig aangemerkt onderscheidenlijk naar het oordeel van het instellingsbestuur daaraan ten minste gelijkwaardig diploma eisen dat hij aantoont over kennis, inzicht en vaardigheden te beschikken om de bedoelde bacheloropleiding met goed gevolg af te ronden.  
 2.   Het instellingsbestuur verleent vrijstelling van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseis aan de bezitter van een al dan niet in Nederland afgegeven diploma dat bij ministeriële regeling is aangemerkt als tenminste gelijkwaardig aan het in het desbetreffende lid bedoelde diploma, onverminderd het derde en vierde lid. Het instellingsbestuur kan vrijstelling verlenen van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen aan de bezitter van een al dan niet in Nederland afgegeven diploma dat niet in de in de eerste volzin genoemde ministeriële regeling is opgenomen, indien dat diploma naar het oordeel van het instellingsbestuur tenminste gelijkwaardig is aan het in artikel 7.24, eerste onderscheidenlijk tweede lid bedoelde diploma, onverminderd het derde en vierde lid. Indien het een buiten Nederland afgegeven diploma betreft, kan het instellingsbestuur bepalen dat geen examens of onderdelen daarvan worden afgelegd dan nadat ten genoegen van de desbetreffende examencommissie het bewijs is geleverd van voldoende beheersing van de Nederlandse taal voor het met vrucht kunnen volgen van het onderwijs. Het instellingsbestuur kan tevens bepalen dat betrokkene niet wordt ingeschreven zolang het in de voorgaande volzin bedoelde bewijs niet is geleverd.    
 3.  Indien bij ministeriële regeling eisen als bedoeld in artikel 7.25, eerste of tweede lid, zijn vastgesteld kan de bezitter van een diploma als bedoeld in het eerste tot en met tweede lid geen examens afleggen voordat hij op een door het instellingsbestuur te bepalen wijze op grond van een aanvullend onderzoek heeft aangetoond te beschikken over de kennis en vaardigheden waarop de eisen, bedoeld in artikel 7.25, betrekking hebben.    
 4.   Het instellingsbestuur kan bepalen dat de bezitter van een diploma als bedoeld in het eerste dan wel tweede lid niet kan worden ingeschreven indien dat bestuur van oordeel is dat de eisen, bedoeld in artikel 7.25, van dien aard zijn dat redelijkerwijs verwacht kan worden dat niet tijdens het eerste jaar van inschrijving voor de opleiding op grond van een aanvullend onderzoek als bedoeld in het derde lid aangetoond kan worden dat betrokkene beschikt over de kennis en vaardigheden waarop die eisen betrekking hebben. Het instellingsbestuur bepaalt op welke wijze betrokkene op grond van een aanvullend onderzoek met het oog op de inschrijving vrijgesteld kan worden van die eisen.    
@@ -2310,7 +2317,7 @@ Een student komt voor de financiële ondersteuning, bedoeld in de artikelen 7.5
 
 a. de student voor de desbetreffende opleiding wettelijk collegegeld is verschuldigd; en  
 
-b. de student voor die opleiding aanspraak heeft of aanspraak heeft gehad op de prestatiebeurs als bedoeld in hoofdstuk 5 van de Wet studiefinanciering 2000.   
+b. de student voor die opleiding aanspraak heeft of aanspraak heeft gehad op de prestatiebeurs hoger onderwijs als bedoeld in de Wet studiefinanciering 2000.   
 
 ### Artikel  7.51d  
 
@@ -4765,12 +4772,7 @@ Vervallen per 01-09-2005
 
 ####Wet van 29 juni 2000 (Stb. 286)
 
-###Artikel 17.10 
-
-####Aanvullende afstudeersteun voor tempobeursstudenten
-
-1. Onverminderd artikel 7.51 treft het instellingsbestuur van een universiteit of hogeschool een financiële voorziening ten aanzien van een student die op grond van een van de artikelen 10.7 of 10.8 van de Wet studiefinanciering 2000 geen aanspraak kan maken op studiefinanciering op de voet van hoofdstuk 3 van die wet, indien de student naar het oordeel van het instellingsbestuur door bijzondere omstandigheden het bij of krachtens de artikelen 10.6 tot en met 10.8 van de Wet studiefinanciering 2000 bepaalde resultaat niet heeft behaald. Deze financiële voorziening is zodanig dat de betrokkene niet in een slechtere financiële situatie wordt gebracht dan wanneer hij studiefinanciering zou hebben genoten zonder toepassing van artikel 10.6 van de Wet studiefinanciering 2000.
-2. De bijzondere omstandigheden, bedoeld in het eerste lid, zijn de bijzondere omstandigheden, genoemd in artikel 7.51, tweede lid. Bij de toepassing van het eerste lid betrekt het instellingsbestuur als bijzondere omstandigheid tevens de omstandigheid dat de opleiding zodanig is ingericht dat de student redelijkerwijs niet in staat is geweest het in dat lid bedoelde resultaat te behalen.
+Vervallen per 01-09-2015 
 
 ###Hoofdstuk 18 
 

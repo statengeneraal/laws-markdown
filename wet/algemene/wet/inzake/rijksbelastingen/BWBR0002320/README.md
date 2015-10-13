@@ -15,7 +15,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  De bepalingen van deze wet gelden in Nederland bij de heffing van rijksbelastingen, de heffing van belastingrente, revisierente en bestuurlijke boeten welke ingevolge de belastingwet kunnen worden vastgesteld of opgelegd, alsmede bij de uitvoering van de basisregistratie inkomen, een en ander met uitzondering van de belastingen voor zover voor een belanghebbende na een door de inspecteur gedane uitspraak op bezwaar met betrekking tot deze belastingen beroep openstaat bij het Gerecht in eerste aanleg van Bonaire, Sint-Eustatius en Saba, bedoeld in hoofdstuk VIII van de Belastingwet BES.   
-2.   Onder rijksbelastingen worden verstaan belastingen welke van rijkswege door de rijksbelastingdienst worden geheven.   
+2.  Onder rijksbelastingen worden verstaan belastingen welke van rijkswege door de rijksbelastingdienst worden geheven.   
 3.  Met betrekking tot de heffing van rijksbelastingen blijven titel 5.2 en afdeling 10.2.1 van de Algemene wet bestuursrecht buiten toepassing.   
 
 ### Artikel  2  
@@ -38,7 +38,7 @@ d.van staat, wordt daaronder mede begrepen Mogendheid;
 e.van verdrag, wordt daaronder mede begrepen regelen ter voorkoming van dubbele belasting die zijn overeengekomen met een in onderdeel c bedoelde bestuurlijke eenheid;
 
 f.van regeling ter voorkoming van dubbele belasting, wordt daaronder mede begrepen regelen ter voorkoming van dubbele belasting die zijn overeengekomen met een in onderdeel c bedoelde bestuurlijke eenheid.   
-3.   De belastingwet verstaat onder:  
+3.  De belastingwet verstaat onder:  
 
 a. Onze Minister: Onze Minister van Financiën;   
 
@@ -79,7 +79,7 @@ n.  culturele instelling: een instelling als bedoeld in artikel 5b, vierde lid;
 o.  sociaal belang behartigende instelling: een instelling als bedoeld in artikel 5c;  
 
 p.  steunstichting SBBI: een stichting als bedoeld in artikel 5d.    
-4.   Het in de belastingwet genoemde bestuur van ’s Rijks belastingen wordt uitgeoefend door de door Onze Minister aangewezen ambtenaren.    
+4.  Het in de belastingwet genoemde bestuur van ’s Rijks belastingen wordt uitgeoefend door de door Onze Minister aangewezen ambtenaren.    
 5.  Hetgeen bij of krachtens deze wet wordt bepaald inzake de in het derde lid, onderdeel e, bedoelde voorlopige aanslag, aanslag of navorderingsaanslag, is van overeenkomstige toepassing met betrekking tot de in dat onderdeel bedoelde voorlopige conserverende aanslag, onderscheidenlijk conserverende aanslag of conserverende navorderingsaanslag, met dien verstande dat: 
 
 a. een voorlopige aanslag en in de belastingwet daartoe aangewezen voorheffingen niet worden verrekend met een conserverende aanslag en een voorlopige conserverende aanslag niet wordt verrekend met een aanslag;  
@@ -96,7 +96,7 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 ### Artikel  4  
 
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.    
-2.   Voor de toepassing van het eerste lid worden schepen en luchtvaartuigen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.    
+2.  Voor de toepassing van het eerste lid worden schepen en luchtvaartuigen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.    
 3.  Voor de toepassing van de wettelijke bepalingen ter uitvoering van Richtlijn 2009/133/EG van de Raad van 19 oktober 2009 betreffende de gemeenschappelijke fiscale regeling voor fusies, splitsingen, gedeeltelijke splitsingen, inbreng van activa en aandelenruil met betrekking tot vennootschappen uit verschillende lidstaten en voor de verplaatsing van de statutaire zetel van een SE of een SCE van een lidstaat naar een andere lidstaat (PbEU 2009, L 310), Richtlijn 2011/96/EU van de Raad van 30 november 2011 betreffende de gemeenschappelijke fiscale regeling voor moedermaatschappijen en dochterondernemingen uit verschillende lidstaten (PbEU 2011, L 345) of Richtlijn 2003/49/EG van de Raad van 3 juni 2003 betreffende een gemeenschappelijke belastingregeling inzake uitkeringen van interest en royalty's tussen verbonden ondernemingen van verschillende lidstaten (PbEU 2003, L 157) wordt, in afwijking in zoverre van het eerste lid en voor zover dat voortvloeit uit de genoemde richtlijnen, een lichaam geacht te zijn gevestigd in een lidstaat van de Europese Unie indien dat lichaam volgens de fiscale wetgeving van die lidstaat aldaar is gevestigd.   
 4.  Een instelling voor collectieve belegging in effecten als bedoeld in artikel 1 van Richtlijn 2009/65/EU van het Europees Parlement en de Raad van 13 juli 2009 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende instellingen voor collectieve belegging in effecten (icbe’s) (PbEU 2009, L 302), wordt geacht te zijn gevestigd in de lidstaat of staat waarvan de bevoegde autoriteit de instelling overeenkomstig artikel 5 van die richtlijn heeft toegelaten.  
 5.  Een alternatieve beleggingsinstelling als bedoeld in artikel 4, eerste lid, onderdeel k, van Richtlijn 2011/61/EU van het Europees Parlement en de Raad van 8 juni 2011 inzake beheerders van alternatieve beleggingsinstellingen en tot wijziging van de Richtlijnen 2003/41/EG en 2009/65/EG en van de Verordeningen (EG) nr. 1060/2009 en (EU) nr. 1095/2010 (PbEU 2011, L 174) wordt geacht te zijn gevestigd in de lidstaat van herkomst, bedoeld in artikel 4, eerste lid, onderdeel p, van die richtlijn, indien: 
@@ -248,11 +248,11 @@ b.onder welke voorwaarden hiervan door de inspecteur bij voor bezwaar vatbare be
 2.   De inspecteur kan de door hem gestelde termijn verlengen. Hij kan aan de verlenging voorwaarden verbinden, onder meer dat vóór een door hem te bepalen datum op bij ministeriële regeling te bepalen wijze gegevens voor het opleggen van een voorlopige aanslag worden verstrekt.    
 3.   De inspecteur kan niet eerder dan na verloop van de in het eerste, onderscheidenlijk het tweede lid bedoelde termijn de belastingplichtige aanmanen binnen een door hem te stellen termijn aangifte te doen.  
 
-###Artikel 10 
+### Artikel  10  
 
-1. Met betrekking tot belastingen welke ingevolge de belastingwet op aangifte moeten worden voldaan of afgedragen, wordt de aangifte gedaan bij de inspecteur of de ontvanger die is vermeld in de uitnodiging tot het doen van aangifte. 
-2.  Heeft de aangifte betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand na het einde van het tijdvak. Heeft de aangifte niet betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand. 
-3.  De inspecteur kan onder door hem te stellen voorwaarden uitstel van het doen van aangifte verlenen. 
+1.  Met betrekking tot belastingen welke ingevolge de belastingwet op aangifte moeten worden voldaan of afgedragen, wordt de aangifte gedaan bij de inspecteur of de ontvanger die is vermeld in de uitnodiging tot het doen van aangifte.    
+2.  Heeft de aangifte betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand na het einde van het tijdvak. Heeft de aangifte niet betrekking op een tijdvak, dan wordt zij gedaan binnen een door de inspecteur gestelde termijn van ten minste een maand.    
+3.  De inspecteur kan onder door hem te stellen voorwaarden uitstel van het doen van aangifte verlenen.   
 
 ### Artikel  10a  
 
@@ -264,12 +264,12 @@ b.onder welke voorwaarden hiervan door de inspecteur bij voor bezwaar vatbare be
 
 ####Heffing van belasting bij wege van aanslag 
 
-###Artikel 11 
+### Artikel  11  
 
-1. De aanslag wordt vastgesteld door de inspecteur. 
-2.  De inspecteur kan bij het vaststellen van de aanslag van de aangifte afwijken, zomede de aanslag ambtshalve vaststellen. 
-3.  De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaren na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd. 
-4.  Voor de toepassing van het derde lid wordt belastingschuld, waarvan de grootte eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, geacht te zijn ontstaan op het tijdstip waarop dat tijdvak eindigt. 
+1.  De aanslag wordt vastgesteld door de inspecteur.    
+2.  De inspecteur kan bij het vaststellen van de aanslag van de aangifte afwijken, zomede de aanslag ambtshalve vaststellen.    
+3.  De bevoegdheid tot het vaststellen van de aanslag vervalt door verloop van drie jaren na het tijdstip waarop de belastingschuld is ontstaan. Indien voor het doen van aangifte uitstel is verleend, wordt deze termijn met de duur van dit uitstel verlengd.    
+4.  Voor de toepassing van het derde lid wordt belastingschuld, waarvan de grootte eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, geacht te zijn ontstaan op het tijdstip waarop dat tijdvak eindigt.   
 
 ### Artikel  12  
 
@@ -301,16 +301,16 @@ De voorlopige aanslagen en de in de belastingwet aangewezen voorheffingen worden
 ### Artikel  16  
 
 1.  Indien enig feit grond oplevert voor het vermoeden dat een aanslag ten onrechte achterwege is gelaten of tot een te laag bedrag is vastgesteld, dan wel dat een in de belastingwet voorziene vermindering, ontheffing, teruggaaf of heffingskorting ten onrechte of tot een te hoog bedrag is verleend, kan de inspecteur de te weinig geheven belasting dan wel de ten onrechte of tot een te hoog bedrag verleende heffingskorting navorderen. Een feit, dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor navordering opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is.    
-2.   Navordering kan mede plaatsvinden in alle gevallen waarin te weinig belasting is geheven, doordat:  
+2.  Navordering kan mede plaatsvinden in alle gevallen waarin te weinig belasting is geheven, doordat:  
 
 a. een voorlopige aanslag, een voorheffing, een voorlopige teruggaaf of een voorlopige verliesverrekening ten onrechte of tot een onjuist bedrag is verrekend;  
 
 b. zich een geval voordoet als bedoeld in artikel 2.17, derde of vierde lid, van de Wet inkomstenbelasting 2001;  
 
 c. ten gevolge van een fout een aanslag ten onrechte achterwege is gelaten of ten gevolge van een fout een belastingaanslag tot een te laag bedrag is vastgesteld, hetgeen de belastingplichtige redelijkerwijs kenbaar is, waarvan in elk geval sprake is indien de te weinig geheven belasting ten minste 30 percent van de ingevolge de belastingwet verschuldigde belasting bedraagt.    
-3.   De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. Artikel 11, vierde lid, is te dezen van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd. De eerste volzin is niet van toepassing voor zover navordering plaatsvindt met toepassing van artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001. Voor zover navordering zonder toepassing van het tweede lid, onderdeel c, niet zou kunnen plaatsvinden, vervalt de bevoegdheid tot het vaststellen van een navorderingsaanslag, in afwijking in zoverre van de eerste volzin, door verloop van twee jaren na het tijdstip waarop het besluit is genomen om geen aanslag op te leggen, dan wel de belastingaanslag is vastgesteld.   
-4.   Indien te weinig belasting is geheven over een bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen, vervalt, in afwijking in zoverre van het derde lid, eerste volzin, de bevoegdheid tot navorderen door verloop van twaalf jaren na het tijdstip waarop de belastingschuld is ontstaan.    
-5.   Indien een bedrag als verlies van een jaar door middel van verrekening in aanmerking is genomen in een voorafgaand jaar, en in verband daarmede een in de belastingwet voorziene vermindering of teruggaaf ten onrechte of tot een te hoog bedrag is verleend, blijft de bevoegdheid tot navorderen bestaan zolang navordering mogelijk is over het jaar waaruit het als verlies verrekende bedrag afkomstig is.    
+3.  De bevoegdheid tot het vaststellen van een navorderingsaanslag vervalt door verloop van vijf jaren na het tijdstip waarop de belastingschuld is ontstaan. Artikel 11, vierde lid, is te dezen van toepassing. Indien voor het doen van aangifte uitstel is verleend, wordt de navorderingstermijn met de duur van dit uitstel verlengd. De eerste volzin is niet van toepassing voor zover navordering plaatsvindt met toepassing van artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001. Voor zover navordering zonder toepassing van het tweede lid, onderdeel c, niet zou kunnen plaatsvinden, vervalt de bevoegdheid tot het vaststellen van een navorderingsaanslag, in afwijking in zoverre van de eerste volzin, door verloop van twee jaren na het tijdstip waarop het besluit is genomen om geen aanslag op te leggen, dan wel de belastingaanslag is vastgesteld.   
+4.  Indien te weinig belasting is geheven over een bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen, vervalt, in afwijking in zoverre van het derde lid, eerste volzin, de bevoegdheid tot navorderen door verloop van twaalf jaren na het tijdstip waarop de belastingschuld is ontstaan.    
+5.  Indien een bedrag als verlies van een jaar door middel van verrekening in aanmerking is genomen in een voorafgaand jaar, en in verband daarmede een in de belastingwet voorziene vermindering of teruggaaf ten onrechte of tot een te hoog bedrag is verleend, blijft de bevoegdheid tot navorderen bestaan zolang navordering mogelijk is over het jaar waaruit het als verlies verrekende bedrag afkomstig is.    
 6.  Indien een heffingskorting ten onrechte of tot een te hoog bedrag is verleend aan de belastingplichtige doordat het maximale bedrag, bedoeld in de artikelen 8.9, eerste lid, of 8.9a, derde lid, van de Wet inkomstenbelasting 2001, is overschreden, blijft, na afloop van de navorderingstermijn bedoeld in het derde lid, de bevoegdheid tot navorderen bestaan tot acht weken na het tijdstip waarop een belastingaanslag van zijn partner welke relevant is voor die heffingskorting, of een beschikking dan wel uitspraak strekkende tot vermindering van een zodanige belastingaanslag van zijn partner onherroepelijk is geworden.  
 
 ### Artikel  18a  
@@ -320,7 +320,7 @@ c. ten gevolge van een fout een aanslag ten onrechte achterwege is gelaten of te
 a. een aanslag of navorderingsaanslag ten onrechte achterwege is gelaten of tot een te laag bedrag is vastgesteld, dan wel dat een in de belastingwet voorziene vermindering, ontheffing of teruggaaf ten onrechte of tot een te hoog bedrag is verleend, dan kan de inspecteur de te weinig geheven belasting navorderen;  
 
 b. een aanslag of navorderingsaanslag ten onrechte of tot een te hoog bedrag is vastgesteld, dan wel dat een in de belastingwet voorziene vermindering, ontheffing of teruggaaf ten onrechte niet of tot een te laag bedrag is verleend, dan vernietigt de inspecteur de ten onrechte vastgestelde aanslag of navorderingsaanslag dan wel vermindert hij de aanslag of navorderingsaanslag, onderscheidenlijk verleent hij alsnog de in de belastingwet voorziene vermindering, ontheffing of teruggaaf.     
-2.   Het vaststellen van de navorderingsaanslag, onderscheidenlijk het nemen van de beschikking tot vernietiging, vermindering, ontheffing of teruggaaf op de voet van het eerste lid geschiedt binnen acht weken na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde onherroepelijk is geworden. Eerstbedoelde beschikking is voor bezwaar vatbaar.   
+2.  Het vaststellen van de navorderingsaanslag, onderscheidenlijk het nemen van de beschikking tot vernietiging, vermindering, ontheffing of teruggaaf op de voet van het eerste lid geschiedt binnen acht weken na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde onherroepelijk is geworden. Eerstbedoelde beschikking is voor bezwaar vatbaar.   
 3. Ingeval de herziening gevolgen heeft voor de toepassing van artikel 3.30a van de Wet inkomstenbelasting 2001 met betrekking tot een jaar, wordt in afwijking in zoverre van het tweede lid de termijn waarbinnen navordering mogelijk is bepaald op de voet van artikel 16 en vangt de in dat lid bedoelde termijn van acht weken niet eerder aan dan op het tijdstip waarop de belastingplichtige een verzoek heeft ingediend tot aanpassing van de aanslag of beschikking met betrekking tot dat jaar. Een verzoek tot aanpassing wordt gedaan binnen een jaar na het tijdstip waarop de beschikking of uitspraak strekkende tot de herziene vaststelling van de waarde, onherroepelijk is geworden. 
 4.  Indien aan de heffing van belasting een aan een onroerende zaak toegekende waarde ten grondslag ligt en met betrekking tot die onroerende zaak voor een voor die heffing van belang zijnd kalenderjaar een waarde wordt vastgesteld op de voet van hoofdstuk IV van de Wet waardering onroerende zaken, zijn het eerste, tweede en derde lid van overeenkomstige toepassing.  
 
@@ -331,21 +331,21 @@ b. een aanslag of navorderingsaanslag ten onrechte of tot een te hoog bedrag is 
 ### Artikel  19  
 
 1.  In de gevallen waarin de belastingwet voldoening van in een tijdvak verschuldigd geworden of afdracht van in een tijdvak ingehouden belasting op aangifte voorschrijft, is de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, gehouden de belasting binnen één maand na het einde van dat tijdvak overeenkomstig de aangifte aan de ontvanger te betalen.    
-2.   Bij ministeriële regeling worden regels gesteld:  
+2.  Bij ministeriële regeling worden regels gesteld:  
 
 a. met betrekking tot het tijdvak waarover de belasting moet worden betaald, waarbij tevens regels kunnen worden gesteld volgens welke in de loop van dat tijdvak één of meer voorlopige betalingen moeten worden gedaan;   
 
 b. krachtens welke door de inspecteur aan de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, uitstel wordt verleend voor de voldoening van in een tijdvak verschuldigd geworden belasting of de afdracht van in een tijdvak ingehouden belasting, indien met betrekking tot dat tijdvak dan wel een tijdvak dat is geëindigd vóór, tegelijk met of minder dan 34 dagen na dat tijdvak een verzoek om teruggaaf van belasting is ingediend.      
-3.   In de niet in het eerste lid bedoelde gevallen waarin de belastingwet voldoening of afdracht van belasting op aangifte voorschrijft, is de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, gehouden de belasting overeenkomstig de aangifte aan de ontvanger te betalen binnen één maand na het tijdstip waarop de belastingschuld is ontstaan.    
-4.   Indien voor het doen van aangifte uitstel is verleend, wordt de in het eerste en in het derde lid genoemde termijn van één maand met de duur van dit uitstel verlengd.    
-5.   De Algemene termijnenwet is niet van toepassing op de in het eerste en in het derde lid gestelde termijn van één maand.   
+3.  In de niet in het eerste lid bedoelde gevallen waarin de belastingwet voldoening of afdracht van belasting op aangifte voorschrijft, is de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, gehouden de belasting overeenkomstig de aangifte aan de ontvanger te betalen binnen één maand na het tijdstip waarop de belastingschuld is ontstaan.    
+4.  Indien voor het doen van aangifte uitstel is verleend, wordt de in het eerste en in het derde lid genoemde termijn van één maand met de duur van dit uitstel verlengd.    
+5.  De Algemene termijnenwet is niet van toepassing op de in het eerste en in het derde lid gestelde termijn van één maand.   
 
 ### Artikel  20  
 
 1.  Indien belasting die op aangifte behoort te worden voldaan of afgedragen, geheel of gedeeltelijk niet is betaald, kan de inspecteur de te weinig geheven belasting naheffen. Met geheel of gedeeltelijk niet betaald zijn wordt gelijkgesteld het geval waarin, naar aanleiding van een gedaan verzoek, ten onrechte of tot een te hoog bedrag, vrijstelling of vermindering van inhouding van belasting dan wel teruggaaf van belasting is verleend.    
-2.   De naheffing geschiedt bij wege van naheffingsaanslag, die wordt opgelegd aan degene, die de belasting had behoren te betalen, dan wel aan degene aan wie ten onrechte, of tot een te hoog bedrag, vrijstelling of vermindering van inhouding dan wel teruggaaf is verleend. In gevallen waarin ten gevolge van het niet naleven van bepalingen van de belastingwet door een ander dan de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, te weinig belasting is geheven, wordt de naheffingsaanslag aan die ander opgelegd.    
-3.   De bevoegdheid tot naheffing vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.    
-4.   Indien de belastingschuld is ontstaan door de verkrijging van de economische eigendom van onroerende zaken of van rechten waaraan deze zijn onderworpen, bedoeld in artikel 2, tweede lid, van de Wet op belastingen van rechtsverkeer, vervalt de bevoegdheid tot naheffing, in afwijking in zoverre van het derde lid, door verloop van twaalf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.   
+2.  De naheffing geschiedt bij wege van naheffingsaanslag, die wordt opgelegd aan degene, die de belasting had behoren te betalen, dan wel aan degene aan wie ten onrechte, of tot een te hoog bedrag, vrijstelling of vermindering van inhouding dan wel teruggaaf is verleend. In gevallen waarin ten gevolge van het niet naleven van bepalingen van de belastingwet door een ander dan de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, te weinig belasting is geheven, wordt de naheffingsaanslag aan die ander opgelegd.    
+3.  De bevoegdheid tot naheffing vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan of de teruggaaf is verleend.    
+4.  Indien de belastingschuld is ontstaan door de verkrijging van de economische eigendom van onroerende zaken of van rechten waaraan deze zijn onderworpen, bedoeld in artikel 2, tweede lid, van de Wet op belastingen van rechtsverkeer, vervalt de bevoegdheid tot naheffing, in afwijking in zoverre van het derde lid, door verloop van twaalf jaren na het einde van het kalenderjaar waarin de belastingschuld is ontstaan.   
 
 ### Hoofdstuk  IVA  
 
@@ -870,7 +870,7 @@ De bevoegdheden en de verplichtingen van een minderjarige, een onder curatele ge
 ### Artikel  44  
 
 1.  Na iemands overlijden kunnen zijn rechtverkrijgenden onder algemene titel in het uitoefenen van de bevoegdheden en in het nakomen van de verplichtingen, welke de overledene zou hebben gehad, ware hij in leven gebleven, worden vertegenwoordigd door een hunner, de executeur, de door de rechter benoemde vereffenaar van de nalatenschap of de bewindvoerder over de nalatenschap. Desgevorderd is ieder der in dit lid genoemde personen tot nakoming van die verplichtingen gehouden.    
-2.   Stukken betreffende belastingaangelegenheden van een overledene kunnen worden gericht aan een der in het eerste lid genoemde personen.   
+2.  Stukken betreffende belastingaangelegenheden van een overledene kunnen worden gericht aan een der in het eerste lid genoemde personen.   
 
 ### Artikel  45  
 
@@ -884,23 +884,23 @@ De bepalingen van deze afdeling gelden niet met betrekking tot strafvordering.
 
 ####Verplichtingen ten dienste van de belastingheffing 
 
-###Artikel 47 
+### Artikel  47  
 
-1. Ieder is gehouden desgevraagd aan de inspecteur: 
+1.  Ieder is gehouden desgevraagd aan de inspecteur:  
 
-a.de gegevens en inlichtingen te verstrekken welke voor de belastingheffing te zijnen aanzien van belang kunnen zijn; 
+a. de gegevens en inlichtingen te verstrekken welke voor de belastingheffing te zijnen aanzien van belang kunnen zijn;   
 
-b.de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de inspecteur - waarvan de raadpleging van belang kan zijn voor de vaststelling van de feiten welke invloed kunnen uitoefenen op de belastingheffing te zijnen aanzien, voor dit doel beschikbaar te stellen. 
-2.  Ingeval de belastingwet aangelegenheden van een derde aanmerkt als aangelegenheden van degene die vermoedelijk belastingplichtig is, gelden, voor zover het deze aangelegenheden betreft, gelijke verplichtingen voor de derde. 
-3. Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op vordering van de inspecteur terstond een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aan te bieden, indien dit van belang kan zijn voor de belastingheffing te zijnen aanzien.
+b. de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de inspecteur - waarvan de raadpleging van belang kan zijn voor de vaststelling van de feiten welke invloed kunnen uitoefenen op de belastingheffing te zijnen aanzien, voor dit doel beschikbaar te stellen.      
+2.  Ingeval de belastingwet aangelegenheden van een derde aanmerkt als aangelegenheden van degene die vermoedelijk belastingplichtig is, gelden, voor zover het deze aangelegenheden betreft, gelijke verplichtingen voor de derde.    
+3.  Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op vordering van de inspecteur terstond een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aan te bieden, indien dit van belang kan zijn voor de belastingheffing te zijnen aanzien. 
 
 ### Artikel  47a  
 
 1.  Met betrekking tot een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een niet in Nederland gevestigd lichaam of een niet in Nederland wonende natuurlijke persoon een belang heeft van meer dan 50 percent en met betrekking tot een ander lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon de zeggenschap heeft, is artikel 47, eerste lid, van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van dat niet in Nederland gevestigde lichaam of die natuurlijke persoon. De vorige volzin is van overeenkomstige toepassing in gevallen waarin twee of meer lichamen of natuurlijke personen waarvan er ten minste één niet in Nederland is gevestigd of woont, volgens een onderlinge regeling tot samenwerking een belang houden van meer dan 50 percent in een vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal dan wel de zeggenschap hebben in een ander lichaam. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieën, leesbare afdrukken of uittreksels.    
-2.   Met betrekking tot de in het eerste lid bedoelde vennootschap en het andere lichaam is artikel 47, eerste lid, eveneens van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van een niet in Nederland gevestigde vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een in het eerste lid bedoeld niet in Nederland gevestigd lichaam of wonend natuurlijk persoon een belang heeft van meer dan 50 percent of die in het bezit zijn van een ander niet in Nederland gevestigd lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon zeggenschap heeft. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieén, leesbare afdrukken of uittreksels.   
+2.  Met betrekking tot de in het eerste lid bedoelde vennootschap en het andere lichaam is artikel 47, eerste lid, eveneens van overeenkomstige toepassing ter zake van gegevens en inlichtingen alsmede gegevensdragers die in het bezit zijn van een niet in Nederland gevestigde vennootschap met een geheel of ten dele in aandelen verdeeld kapitaal waarin een in het eerste lid bedoeld niet in Nederland gevestigd lichaam of wonend natuurlijk persoon een belang heeft van meer dan 50 percent of die in het bezit zijn van een ander niet in Nederland gevestigd lichaam waarover dat niet in Nederland gevestigde lichaam of die natuurlijke persoon zeggenschap heeft. Ter zake van die gegevensdragers kan worden volstaan met het voor raadpleging beschikbaar stellen van de inhoud daarvan door middel van kopieén, leesbare afdrukken of uittreksels.   
 3. Het eerste en het tweede lid zijn niet van toepassing indien het in die leden bedoelde niet in Nederland gevestigde lichaam of de in die leden bedoelde natuurlijke persoon is gevestigd onderscheidenlijk woont in Aruba, Curaçao, Sint Maarten of een staat waarmee in de relatie met Nederland een wederkerige regeling bestaat die voorziet in inlichtingenuitwisseling met betrekking tot de belasting voor de heffing waarvan de inspecteur de gegevens, inlichtingen of gegevensdragers nodig heeft.  
-4.   In afwijking van het derde lid kan Onze Minister de inspecteur toestaan het eerste en het tweede lid alsnog toe te passen indien is gebleken dat bij toepassing van het derde lid de gevraagde inlichtingen niet kunnen worden verkregen.    
-5.   Voor een weigering om te voldoen aan de in dit artikel omschreven verplichtingen kunnen de vennootschap en het andere lichaam zich niet met vrucht beroepen op een gebrek aan medewerking van het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon.   
+4.  In afwijking van het derde lid kan Onze Minister de inspecteur toestaan het eerste en het tweede lid alsnog toe te passen indien is gebleken dat bij toepassing van het derde lid de gevraagde inlichtingen niet kunnen worden verkregen.    
+5.  Voor een weigering om te voldoen aan de in dit artikel omschreven verplichtingen kunnen de vennootschap en het andere lichaam zich niet met vrucht beroepen op een gebrek aan medewerking van het niet in Nederland gevestigde lichaam of de niet in Nederland wonende natuurlijke persoon.   
 
 ### Artikel  47b  
 
@@ -909,12 +909,12 @@ Degene op wie de gegevens en inlichtingen, bedoeld in artikel 53, tweede en derd
 ### Artikel  48  
 
 1.  De in artikel 47, eerste lid, onderdeel b, bedoelde verplichting geldt onverminderd voor een derde bij wie zich gegevensdragers bevinden van degene die gehouden is deze, of de inhoud daarvan, aan de inspecteur voor raadpleging beschikbaar te stellen.    
-2.   De inspecteur stelt degene wiens gegevensdragers hij bij een derde voor raadpleging vordert, gelijktijdig hiervan in kennis.   
+2.  De inspecteur stelt degene wiens gegevensdragers hij bij een derde voor raadpleging vordert, gelijktijdig hiervan in kennis.   
 
 ### Artikel  49  
 
 1.  De gegevens en inlichtingen dienen duidelijk, stellig en zonder voorbehoud te worden verstrekt, mondeling, schriftelijk of op andere wijze - zulks ter keuze van de inspecteur - en binnen een door de inspecteur te stellen termijn.    
-2.   Toegelaten moet worden, dat kopieën, leesbare afdrukken of uittreksels worden gemaakt van de voor raadpleging beschikbaar gestelde gegevensdragers of de inhoud daarvan.   
+2.  Toegelaten moet worden, dat kopieën, leesbare afdrukken of uittreksels worden gemaakt van de voor raadpleging beschikbaar gestelde gegevensdragers of de inhoud daarvan.   
 
 ### Artikel  49a  
 
@@ -924,9 +924,9 @@ Degene op wie de gegevens en inlichtingen, bedoeld in artikel 53, tweede en derd
 ### Artikel  50  
 
 1.  Degene die een gebouw of grond in gebruik heeft, is verplicht de inspecteur en de door deze aangewezen deskundigen desgevraagd toegang te verlenen tot alle gedeelten van dat gebouw en alle grond, voor zover dat voor een ingevolge de belastingwet te verrichten onderzoek nodig is.    
-2.   De gevraagde toegang moet worden verleend, tussen acht uur ’s ochtends en zes uur ’s avonds, met uitzondering van zaterdagen, zondagen en algemeen erkende feestdagen.    
-3.   Indien het gebouw of de grond wordt gebruikt voor het uitoefenen van een bedrijf, een zelfstandig beroep of een werkzaamheid als bedoeld in artikel 52, eerste lid, wordt, voor zover het redelijkerwijs niet mogelijk is het onderzoek te doen plaatsvinden gedurende de in het tweede lid bedoelde uren, de gevraagde toegang verleend tijdens de uren waarin het gebruik voor de uitoefening van dat bedrijf, dat zelfstandig beroep of die werkzaamheid daadwerkelijk plaatsvindt.    
-4.   De gebruiker van het gebouw of de grond is verplicht desgevraagd de aanwijzingen te geven die voor het onderzoek nodig zijn.   
+2.  De gevraagde toegang moet worden verleend, tussen acht uur ’s ochtends en zes uur ’s avonds, met uitzondering van zaterdagen, zondagen en algemeen erkende feestdagen.    
+3.  Indien het gebouw of de grond wordt gebruikt voor het uitoefenen van een bedrijf, een zelfstandig beroep of een werkzaamheid als bedoeld in artikel 52, eerste lid, wordt, voor zover het redelijkerwijs niet mogelijk is het onderzoek te doen plaatsvinden gedurende de in het tweede lid bedoelde uren, de gevraagde toegang verleend tijdens de uren waarin het gebruik voor de uitoefening van dat bedrijf, dat zelfstandig beroep of die werkzaamheid daadwerkelijk plaatsvindt.    
+4.  De gebruiker van het gebouw of de grond is verplicht desgevraagd de aanwijzingen te geven die voor het onderzoek nodig zijn.   
 
 ###Artikel 51 
 
@@ -935,7 +935,7 @@ Voor een weigering om te voldoen aan de in de artikelen 47, 47a, 47b, 48 en 49 o
 ### Artikel  52  
 
 1.  Administratieplichtigen zijn gehouden van hun vermogenstoestand en van alles betreffende hun bedrijf, zelfstandig beroep of werkzaamheid naar de eisen van dat bedrijf, dat zelfstandig beroep of die werkzaamheid op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat te allen tijde hun rechten en verplichtingen alsmede de voor de heffing van belasting overigens van belang zijnde gegevens hieruit duidelijk blijken.    
-2.   Administratieplichtigen zijn:  
+2.  Administratieplichtigen zijn:  
 
 a. lichamen;   
 
@@ -944,10 +944,10 @@ b. natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, al
 c. natuurlijke personen die inhoudingsplichtige zijn;   
 
 d. natuurlijke personen die een werkzaamheid als bedoeld in de artikelen 3.91, 3.92 en 3.92b van de Wet inkomstenbelasting 2001 verrichten.     
-3.   Tot de administratie behoort hetgeen ingevolge andere belastingwetten wordt bijgehouden, aangetekend of opgemaakt.    
+3.  Tot de administratie behoort hetgeen ingevolge andere belastingwetten wordt bijgehouden, aangetekend of opgemaakt.    
 4.  Voorzover bij of krachtens de belastingwet niet anders is bepaald, zijn administratieplichtigen verplicht de in de voorgaande leden bedoelde gegevensdragers gedurende zeven jaar te bewaren.   
-5.   De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde balans en staat van baten en lasten, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.    
-6.   De administratie dient zodanig te zijn ingericht en te worden gevoerd en de gegevensdragers dienen zodanig te worden bewaard, dat controle daarvan door de inspecteur binnen een redelijke termijn mogelijk is. Daartoe verleent de administratieplichtige de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.    
+5.  De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde balans en staat van baten en lasten, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.    
+6.  De administratie dient zodanig te zijn ingericht en te worden gevoerd en de gegevensdragers dienen zodanig te worden bewaard, dat controle daarvan door de inspecteur binnen een redelijke termijn mogelijk is. Daartoe verleent de administratieplichtige de benodigde medewerking met inbegrip van het verschaffen van het benodigde inzicht in de opzet en de werking van de administratie.    
 7.  Ingeval een administratieplichtige een door de inspecteur op het eerste lid gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting. 
 
 ### Artikel  52a  
@@ -966,13 +966,13 @@ a. de belastingheffing van derden;
 b. de heffing van de belasting waarvan de inhouding aan hen is opgedragen.      
 2.  Onverminderd de verplichtingen, bedoeld in het eerste lid, zijn de bij of krachtens de belastingwet aan te wijzen administratieplichtigen gehouden de bij of krachtens de belastingwet aan te wijzen gegevens en inlichtingen waarvan de kennisneming voor de heffing van de belasting van belang kan zijn eigener beweging te verstrekken aan de inspecteur volgens bij of krachtens de belastingwet te stellen regels.   
 3.  De administratieplichtigen, bedoeld in het tweede lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in het tweede lid, het burgerservicenummer te vermelden van degene op wie de gegevens en inlichtingen betrekking hebben.   
-4.   Het bepaalde in het eerste lid, aanhef en onderdeel *a*, is niet van toepassing op de personen en de lichamen als bedoeld in artikel 55, voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.    
+4.  Het bepaalde in het eerste lid, aanhef en onderdeel *a*, is niet van toepassing op de personen en de lichamen als bedoeld in artikel 55, voor zover het de in dat artikel bedoelde gegevens en inlichtingen betreft.    
 5.  Ingeval een administratieplichtige een door de inspecteur op het eerste lid, aanhef en onderdeel a, gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De inspecteur beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting. 
 
 ### Artikel  53a  
 
 1.  Voor een weigering om te voldoen aan de verplichtingen ten behoeve van de belastingheffing van derden kunnen alleen bekleders van een geestelijk ambt, notarissen, advocaten, artsen en apothekers zich beroepen op de omstandigheid, dat zij uit hoofde van hun stand, ambt of beroep tot geheimhouding verplicht zijn.    
-2.   Met betrekking tot de verplichtingen ten behoeve van de heffing van de belasting waarvan de inhouding aan administratieplichtigen is opgedragen, is artikel 51 van overeenkomstige toepassing.   
+2.  Met betrekking tot de verplichtingen ten behoeve van de heffing van de belasting waarvan de inhouding aan administratieplichtigen is opgedragen, is artikel 51 van overeenkomstige toepassing.   
 
 ### Artikel  54  
 
@@ -981,7 +981,7 @@ De administratieplichtige die niet of niet volledig voldoet aan de vordering geg
 ### Artikel  55  
 
 1.  Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede lichamen die hoofdzakelijk uitvoering geven aan het beleid van de rijksoverheid, verschaffen, mondeling, schriftelijk of op andere wijze - zulks ter keuze van de inspecteur - de gegevens en inlichtingen, en wel kosteloos, die hun door de inspecteur ter uitvoering van de belastingwet worden gevraagd.    
-2.   Onze Minister kan, op schriftelijk verzoek, ontheffing verlenen van de in het eerste lid omschreven verplichting.   
+2.  Onze Minister kan, op schriftelijk verzoek, ontheffing verlenen van de in het eerste lid omschreven verplichting.   
 
 ### Artikel  56  
 
@@ -1319,12 +1319,12 @@ Vervallen per 01-08-2008
 ### Artikel  77  
 
 1.  De rechtbanken vonnissen in eerste aanleg over bij de belastingwet strafbaar gestelde feiten.    
-2.   De vonnissen zijn aan hoger beroep onderworpen, voor zover zij zijn gewezen:  
+2.  De vonnissen zijn aan hoger beroep onderworpen, voor zover zij zijn gewezen:  
 
 a. ter zake van misdrijven;   
 
 b. ter zake van overtredingen ten aanzien van degene die op het tijdstip waarop de vervolging tegen hem is aangevangen, de leeftijd van achttien jaren nog niet had bereikt.      
-3.   Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.   
+3.  Tegen andere vonnissen kan de verdachte hoger beroep instellen, indien hechtenis als hoofdstraf is opgelegd, een geldboete van € 113 of meer is opgelegd dan wel een verbeurdverklaring is uitgesproken; het openbaar ministerie kan hoger beroep instellen, indien het gelijke straffen heeft gevorderd.   
 
 ### Artikel  78  
 
@@ -1333,9 +1333,9 @@ Ten aanzien van bij de belastingwet strafbaar gestelde feiten worden lichamen vo
 ### Artikel  80  
 
 1.  Met het opsporen van bij de belastingwet strafbaar gestelde feiten zijn, behalve de in artikel 141 van het Wetboek van Strafvordering bedoelde personen, de ambtenaren van de rijksbelastingdienst belast.    
-2.   In afwijking van de artikel 156 van het Wetboek van Strafvordering worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.    
-3.   De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig artikel 76.    
-4.   Het bepaalde in artikel 148, tweede lid, van het Wetboek van Strafvordering vindt geen toepassing in zaken, waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
+2.  In afwijking van de artikel 156 van het Wetboek van Strafvordering worden alle processen-verbaal betreffende bij de belastingwet strafbaar gestelde feiten ingezonden bij het bestuur van ’s Rijks belastingen. Het bestuur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de inbeslaggenomen voorwerpen onverwijld toekomen aan de bevoegde officier van justitie. De overige processen-verbaal doet het bestuur, met de inbeslaggenomen voorwerpen, toekomen aan de officier van justitie, indien het een vervolging of verdere vervolging door deze wenselijk acht.    
+3.  De officier van justitie is bevoegd, de zaak ter afdoening weder in handen van het bestuur van ’s Rijks belastingen te stellen, hetwelk daarmede alsdan kan handelen overeenkomstig artikel 76.    
+4.  Het bepaalde in artikel 148, tweede lid, van het Wetboek van Strafvordering vindt geen toepassing in zaken, waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet aan de officier van justitie heeft doen toekomen.   
 
 ### Artikel  81  
 
@@ -1344,7 +1344,7 @@ De ambtenaren belast met het opsporen van bij de belastingwet strafbaar gestelde
 ### Artikel  82  
 
 1.  In zaken waarin het bestuur van ’s Rijks belastingen het proces-verbaal niet ingevolge het bepaalde in artikel 80, tweede lid, aan de officier van justitie heeft doen toekomen, geldt ten aanzien van het bestuur van ’s Rijks belastingen hetgeen in artikel 116 van het Wetboek van Strafvordering ten aanzien van het openbaar ministerie is bepaald.    
-2.   In de zaken, bedoeld in het vorige lid, wordt bij de toepassing van de artikelen 552a en 552ab van het Wetboek van Strafvordering, alvorens het gerecht ingevolge artikel 552a, zesde lid, onderscheidenlijk artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, ook het bestuur van ’s Rijks belastingen in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in artikel 552d van dat wetboek, niet het openbaar ministerie doch het bestuur van ’s Rijks belastingen bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge artikel 552a, zesde lid, of artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, deelt deze onverwijld mede aan het bestuur van ’s Rijks belastingen.  
+2.  In de zaken, bedoeld in het vorige lid, wordt bij de toepassing van de artikelen 552a en 552ab van het Wetboek van Strafvordering, alvorens het gerecht ingevolge artikel 552a, zesde lid, onderscheidenlijk artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, ook het bestuur van ’s Rijks belastingen in de gelegenheid gesteld te worden gehoord en is, in afwijking van het bepaalde in artikel 552d van dat wetboek, niet het openbaar ministerie doch het bestuur van ’s Rijks belastingen bevoegd tot het instellen van beroep in cassatie. De griffier van het gerecht hetwelk in die zaken ingevolge artikel 552a, zesde lid, of artikel 552ab, vierde lid, van dat wetboek een beschikking neemt, deelt deze onverwijld mede aan het bestuur van ’s Rijks belastingen.  
 
 ### Artikel  83  
 
@@ -1373,7 +1373,7 @@ Ten aanzien van de tenuitvoerlegging van rechterlijke beslissingen inzake bij de
 a. de misdrijven omschreven in de artikelen 179 tot en met 182 van het Wetboek van Strafrecht, welke jegens hen zijn begaan;   
 
 b. het misdrijf omschreven in artikel 184 van het Wetboek van Strafrecht, indien het bevel of de vordering is gedaan krachtens of de handeling is ondernomen ter uitvoering van de belastingwet.      
-2.   De artikelen 152, 153, 156 en 159 van het Wetboek van Strafvordering zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
+2.  De artikelen 152, 153, 156 en 159 van het Wetboek van Strafvordering zijn te dezen op de ambtenaren van overeenkomstige toepassing.   
 
 ### Afdeling  4  
 
@@ -1412,7 +1412,7 @@ De wet van 23 April 1952 (*Stb.* 191), houdende bepalingen inzake vervanging van
 ### Artikel  95  
 
 1.  De bepalingen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat verschillend kan zijn zowel voor de onderscheidene bepalingen van de wet als voor de onderscheidene belastingen en tijdvakken waarin of waarover deze worden geheven.    
-2.   Voor zoverre de bepalingen van deze wet ten aanzien van enige belasting in werking zijn getreden, blijven, behoudens ten aanzien van begane strafbare feiten, de bepalingen in andere belastingwetten betreffende de onderwerpen, geregeld in eerstbedoelde bepalingen, ten aanzien van die belasting in zoverre buiten toepassing.   
+2.  Voor zoverre de bepalingen van deze wet ten aanzien van enige belasting in werking zijn getreden, blijven, behoudens ten aanzien van begane strafbare feiten, de bepalingen in andere belastingwetten betreffende de onderwerpen, geregeld in eerstbedoelde bepalingen, ten aanzien van die belasting in zoverre buiten toepassing.   
 
 ### Artikel  96  
 

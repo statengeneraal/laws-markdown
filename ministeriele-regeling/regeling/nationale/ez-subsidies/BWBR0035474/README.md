@@ -1030,6 +1030,145 @@ Deze regeling bevat geen staatssteun.
 
 Deze titel vervalt met ingang van 1 oktober 2020, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
+### Titel  2.8  
+
+####Genotypering TSE bij schapen
+
+### Artikel  2.8.1  
+
+####Begripsbepalingen
+
+In deze titel wordt verstaan onder: 
+
+*voucher genotypering TSE:* voucher voor het bepalen door middel van DNA analyse van de erfelijke gevoeligheid voor klassieke scrapie bij schapen waarvoor niet eerder een DNA analyse voor dit doel is uitgevoerd;  
+
+*erkend laboratorium:* laboratorium als bedoeld in artikel 2 van de Regeling erkenning en aanwijzing veterinaire laboratoria;  
+
+*schapenhouder:* een hobbyschapenhouder of kleine of middelgrote ondernemer als bedoeld in artikel 2, onderdeel 2, van de groepsvrijstellingsverordening landbouw die werkzaam is in de primaire landbouwproductie en die schapen houdt.   
+
+### Artikel  2.8.2  
+
+####Verstrekking voucher genotypering TSE
+
+1.  De minister verstrekt op aanvraag een of meerdere vouchers genotypering TSE ter waarde van € 6 aan een schapenhouder.   
+2.  Een voucher genotypering TSE is geldig voor genotyperingen TSE uitgevoerd in de periode van 1 januari 2015 tot en met 31 december 2015.   
+3.  Een voucher genotypering TSE kan worden gebruikt bij een erkend laboratorium ten behoeve van de bekostiging van een genotyperingstest TSE: 
+
+a. in het kader van een erkend fokprogramma als bedoeld in artikel 99 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s, of  
+
+b. bij vermeerderingsrammen in niet aan een fokprogramma deelnemende koppels.    
+
+### Artikel  2.8.3  
+
+####Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag indien: 
+
+a. een schapenhouder en het erkend laboratorium voor 1 januari 2015 verplichtingen jegens elkaar zijn aangegaan met betrekking tot de genotyperingstest TSE;  
+
+b. een schapenhouder een voucher genotypering TSE wil aanwenden voor een genotyperingstest waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt of dat deel uitmaakt van een project of programma waarvoor reeds door een bestuursorgaan of de Europese Commissie subsidie is verstrekt;  
+
+c. een schapenhouder eerder een genotyperingstest TSE bij het betrokken dier heeft uitgevoerd.   
+
+### Artikel  2.8.4  
+
+####Verdeling vouchers genotypering TSE
+
+1.  Een voucher genotypering TSE kan uitsluitend worden aangevraagd indien de minister heeft vastgesteld: 
+
+a. in welke periode de voucher genotypering TSE kan worden aangevraagd, en  
+
+b. hoeveel vouchers genotypering TSE beschikbaar zijn.     
+2.  De minister bepaalt per aanvraagperiode tot welke datum de in die aanvraagperiode verstrekte vouchers genotypering TSE kunnen worden ingeleverd bij een erkend laboratorium.   
+3.  De minister maakt een besluit als bedoeld in dit artikel bekend in de Staatscourant.   
+4.  De minister verdeelt de beschikbare vouchers genotypering TSE in de volgorde van ontvangst van de aanvragen. Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare aantal vouchers genotypering TSE zou worden overschreden, stelt de minister de onderlinge rangschikking van deze aanvragen vast door middel van loting.  
+
+### Artikel  2.8.5  
+
+####Verstrekking van subsidie aan erkende laboratoria
+
+De minister verstrekt op aanvraag subsidie aan een erkend laboratorium dat één of meer geldige vouchers genotypering TSE overlegt. 
+
+### Artikel  2.8.6  
+
+####Hoogte subsidie
+
+De subsidie bedraagt € 6 per voucher genotypering TSE. 
+
+### Artikel  2.8.7  
+
+####Staatssteun
+
+De voucher genotypering TSE, bedoeld in artikel 2.8.2, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.39008 (2014/N). 
+
+### Titel  2.9  
+
+####Subsidie kosten vaccinatie pluimvee ter bestrijding van salmonella
+
+### Artikel  2.9.1  
+
+####Begripsbepalingen
+
+In deze titel wordt verstaan onder: 
+
+*pluimveehouder:* ondernemer die werkzaam is in de primaire landbouwproductie en die fok- of vermeerderingspluimvee voor de consumptie-ei-sector dan wel leghennen houdt, dan wel pluimvee dat daarvoor wordt opgefokt;  
+
+*gevaccineerd pluimvee:* met toegelaten vaccin gevaccineerd fokpluimvee, vermeerderingspluimvee voor de consumptie-ei-sector, gevaccineerde leghennen of pluimvee dat daarvoor wordt opgefokt;  
+
+*toegelaten vaccin:* vaccin dat op grond van de Wet dieren is toegelaten voor gebruik bij fokpluimvee, vermeerderingspluimvee voor de consumptie-ei-sector of leghennen ter voorkoming van een besmetting met Salmonella enteritidis of Salmonella typhimurium;  
+
+*vaccinatie:* toediening van een toegelaten vaccin bij fokpluimvee, vermeerderingspluimvee voor de consumptie-ei-sector, leghennen of pluimvee dat daarvoor wordt opgefokt overeenkomstig de voorwaarden die daaraan bij de registratie van het betreffende vaccin zijn verbonden;  
+
+*vaccindoses:* standaardhoeveelheid van een toegelaten vaccin per dier.   
+
+### Artikel  2.9.2  
+
+####Subsidiabele activiteiten
+
+1.  De minister kan subsidie verstrekken aan een pluimveehouder voor de aankoop van tegen Salmonella enteritidis of Salmonella typhimurium gevaccineerd pluimvee.   
+2.  Het in het eerste lid bedoelde gevaccineerd pluimvee dient te zijn geregistreerd in een op grond van artikel 38hh van de Regeling identificatie en registratie dieren aangewezen databank voor identificatie en registratie van pluimvee.   
+3.  Aan de pluimveehouder wordt slechts subsidie verstrekt indien de aankoop van gevaccineerd pluimvee is gefactureerd in de periode van 1 januari 2015 tot en met 31 december 2015.   
+4.  In afwijking van het tweede lid komt voor subsidie in aanmerking gevaccineerd pluimvee dat vóór 1 januari 2015 is aangeschaft en op of na 1 januari 2015 is geleverd aan een pluimveehouder.  
+
+### Artikel  2.9.3  
+
+####Verdeling van het subsidieplafond
+
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  2.9.4  
+
+####Indiening aanvraag tot vaststelling
+
+De aanvraag tot subsidievaststelling gaat vergezeld van: 
+
+a. nota’s en betaalbewijzen van de aanschaf van gevaccineerd pluimvee;  
+
+b. een bewijs waarmee wordt aangetoond dat het gevaccineerd pluimvee geregistreerd is in een op grond van artikel 38hh van de Regeling identificatie en registratie dieren aangewezen databank voor identificatie en registratie van pluimvee;  
+
+c. een bewijs waarmee wordt aangetoond dat vaccinatie overeenkomstig de toelatingsvoorwaarden van het betreffende vaccin is uitgevoerd, alsmede het aantal vaccindoses dat is toegediend;  
+
+d. indien de vaccinatie van het pluimvee in een andere lidstaat van de Europese Unie dan Nederland is uitgevoerd, tevens een schriftelijk bewijs dat in de betreffende lidstaat voor het jaar 2015 geen subsidie voor de aankoop van vaccins ten behoeve van het betreffende pluimvee is of wordt aangevraagd dan wel is of wordt toegekend.   
+
+### Artikel  2.9.5  
+
+####Subsidiabele kosten
+
+1.  Voor subsidie komen in aanmerking kosten voor de aankoop van tegen Salmonella enteritidis of Salmonella typhimurium gevaccineerd pluimvee.   
+2.  Niet verrekenbare BTW komt niet in aanmerking voor subsidie.  
+
+### Artikel  2.9.6  
+
+####Hoogte subsidie
+
+De subsidie bedraagt ten hoogste € 0,10 per vaccindosis. 
+
+### Artikel  2.9.7  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 2.9.2, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.39008 (2014/N). 
+
 ### Hoofdstuk  3  
 
 ####Innovatie en ondernemerschap
@@ -2028,7 +2167,7 @@ b. voor activiteiten bedoeld in artikel 3.5.17, eerste lid, aanhef en onderdeel 
 
 ####Verdeling van het subsidieplafond
 
-De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aanvragen. 
+De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanvragen. 
 
 ### Artikel  3.5.21  
 
@@ -2046,7 +2185,7 @@ a. indien het overkoepelende plan niet het vertrouwen geeft dat de IPC-penvoerde
 
 b. voor zover voor dezelfde werkzaamheden met dezelfde IPC-deelnemers reeds op grond van deze titel subsidie is verleend of in dezelfde periode is aangevraagd;  
 
-c. indien aan een IPC-deelnemer eerder subsidie is verstrekt krachtens dit hoofdstuk of de Subsidieregeling innovatieprestatiecontracten, en 
+c. indien aan een IPC-deelnemer eerder subsidie is verstrekt krachtens dit hoofdstuk of de Subsidieregeling innoveren voor een IPC-project of een MIT-innovatieprestatiecontract, en 
 
 1°. tussen de datum waarop het IPC-project start en de datum waarop het vorige IPC-project is gestart, een periode verstreken is van minder dan drie jaar, of  
 
@@ -2055,17 +2194,6 @@ c. indien aan een IPC-deelnemer eerder subsidie is verstrekt krachtens dit hoofd
 d. indien de datum waarop het IPC-project start, meer dan zes maanden na de datum van de ontvangst van de subsidieaanvraag ligt;  
 
 e. uit het innovatieplan onvoldoende blijkt dat de IPC-deelnemer activiteiten verricht die gericht zijn op innovatie van zijn producten, diensten of processen.   
-
-### Artikel  3.5.23  
-
-####Rangschikkingscriteria
-
-1.  De minister rangschikt de aanvragen waarop niet afwijzend is beslist, hoger naarmate: 
-
-a. er sprake is van meer innovatie;  
-
-b. de kwaliteit van de samenwerking hoger is.     
-2.  Voor de rangschikking telt het criterium a voor 60 procent en het criterium b voor 40 procent.  
 
 ### Artikel  3.5.24  
 
@@ -5059,13 +5187,13 @@ In deze titel wordt verstaan onder:
 
 *aardwarmte:* aardwarmte in de zin van artikel 1, onderdeel b, van de Mijnbouwwet;  
 
-*aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 3300 meter, door het boren van een doublet of een half doublet zonder putstimulatie;  
+*aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 3300 meter, door het boren van een doublet of een half doublet;  
 
 *alternatiefwerkzaamheden:* activiteiten om het alternatief gebruik van een put met een lager dan verwacht gerealiseerd vermogen in MW mogelijk te maken;  
 
 *alternatief gebruik:* gebruik van een aardwarmteput voor andere doeleinden dan het overeenkomstig de aanvraag winnen en toepassen van aardwarmte;  
 
-*diep aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte vanaf ten minste 3300 meter diepte van de top van de aquifer door het boren van een doublet of een half doublet zonder putstimulatie;  
+*diep aardwarmteproject:* mogelijk maken van de winning en toepassing van aardwarmte vanaf ten minste 3300 meter diepte van de top van de aquifer door het boren van een doublet of een half doublet;  
 
 *doublet:* productieput en injectieput;  
 
@@ -5091,7 +5219,7 @@ f. de geothermische gradient;
 
 *gerealiseerd vermogen:* uit de puttest gebleken werkelijke vermogen in MW, met een correctie op skin = 0;  
 
-*half-doublet:* eerste of tweede put van een doublet;  
+*half-doublet:* eerste of tweede put van een doublet, of vervolgput;  
 
 *maximale subsidiebedrag:* in de beschikking tot subsidieverlening vermelde maximale subsidiebedrag, bestaande uit 85 procent van de verwachte subsidiabele kosten met een maximum van € 7.225.000 voor een aardwarmteproject en € 12.750.000 voor een diep aardwarmteproject;  
 
@@ -5104,6 +5232,8 @@ f. de geothermische gradient;
 *restwaarde:* opbrengst van het project bij de economisch meest rendabele alternatieve toepassing gedurende 15 jaar;  
 
 *verbeterwerkzaamheden:* werkzaamheden aan de productieput, injectieput of pompinstallatie om het gerealiseerde vermogen van het doublet in MW te verhogen;  
+
+*vervolgput:* nieuwe put vanuit of naast een productie- of injectieput van een beëindigd of bestaand aardwarmteproject of diep aardwarmteproject die gebruikt wordt voor een bestaand of nieuw aardwarmteproject of diep aardwarmteproject;
 
 *verwachte subsidiabele kosten:* in de beschikking tot subsidieverlening vermelde subsidiabele kosten;  
 
@@ -5119,7 +5249,8 @@ a. een aardwarmteproject;
 
 b. een diep aardwarmteproject.     
 2.  De minister verdeelt het subsidieplafond voor aardwarmteprojecten, respectievelijk het subsidieplafond voor diep aardwarmteprojecten, in de volgorde van binnenkomst van de aanvragen.   
-3.  De subsidie wordt verstrekt onder de opschortende voorwaarde dat door het geologische risico op het beoogde stratigrafische niveau op de beoogde locatie en bij de in de beschikking tot subsidieverlening vermelde niet-geologische parameters, het gerealiseerd vermogen lager is dan het verwacht vermogen.  
+3.  Indien blijkt dat het totale bedrag van de te verlenen subsidies voor projecten als bedoeld in het eerste lid, onderdeel a, respectievelijk het eerste lid onderdeel b, lager is dan het subsidieplafond dat voor de desbetreffende soort projecten is vastgesteld, wordt het voor de ene soort project overblijvende bedrag zo nodig aan het subsidieplafond voor de andere soort project toegevoegd.  
+4.  De subsidie wordt verstrekt onder de opschortende voorwaarde dat door het geologische risico op het beoogde stratigrafische niveau op de beoogde locatie en bij de in de beschikking tot subsidieverlening vermelde niet-geologische parameters, het gerealiseerd vermogen lager is dan het verwacht vermogen.  
 
 ### Artikel  4.3.3  
 
@@ -5132,17 +5263,15 @@ a. uit het geologisch onderzoek blijkt dat de geschatte kans op het realiseren v
 
 b. op het moment van indiening van de aanvraag om subsidie geen vergunning als bedoeld in artikel 6 van de Mijnbouwwet is afgegeven voor het betreffende gebied;  
 
-c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject of diep aardwarmteproject zonder putstimulatie binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
+c. in het projectplan niet aannemelijk is gemaakt dat het aardwarmteproject of diep aardwarmteproject binnen twee jaar na voltooiing van de boringen zal leiden tot de start van toepassing van aardwarmte in Nederland;  
 
-d. het verwacht vermogen lager is dan 0,5 MW bij aardwarmteprojecten met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 1.500 meter;  
+d. het verwacht vermogen lager is dan 0,5 MW zonder putstimulatie bij aardwarmteprojecten met een diepte van de top van de aquifer van ten minste 500 meter tot ten hoogste 1.500 meter;  
 
-e. het verwacht vermogen lager is dan 2 MW voor de andere aardwarmteprojecten;  
+e. het verwacht vermogen lager is dan 2 MW zonder putstimulatie voor de andere aardwarmteprojecten;  
 
-f. bij een half doublet, als de gegarandeerde put de tweede put van een doublet betreft, de resultaten van de eerste put aardwarmtewinning niet aannemelijk maken;  
+f. bij een half doublet, als de gegarandeerde put de tweede put van een doublet of een vervolgput betreft, de resultaten van de eerste put aardwarmtewinning niet aannemelijk maken;  
 
-g. bij een half doublet, als de gegarandeerde put de tweede put van een doublet betreft, de eerste put geen droge exploratieput is;  
-
-h. bij een half doublet ook een aanvraag is gehonoreerd voor de eerste put van het doublet.    
+g. bij een half doublet, als de gegarandeerde put de tweede put van een doublet betreft, de eerste put van een doublet geen droge exploratieput of geen bestaande aardwarmteput is.     
 3.  Bij de beoordeling van de aanvragen wint de minister advies in van TNO.  
 
 ### Artikel  4.3.4  
@@ -5225,7 +5354,13 @@ a. de subsidies op grond van:
 
 4°. hoofdstuk 3 van de Tijdelijke energieregeling markt en innovatie,  
 
-5°. het Besluit stimulering duurzame energieproductie; en    
+5°. het Besluit stimulering duurzame energieproductie,  
+
+6°. paragraaf 4.2.10, Demonstratie energie-innovatie (DEI),  
+
+7°. paragraaf 4.2.3, Hernieuwbare energie,  
+
+8°. titel 2.3, Energie-efficiëntie en hernieuwbare energie glastuinbouw; en   
 
 b. bijdragen van de Europese Commissie op grond van: 
 
@@ -5243,9 +5378,11 @@ b. bijdragen van de Europese Commissie op grond van:
 
 7°. Het Europees Fonds voor Regionale Ontwikkeling,  
 
-8°. INTERREG, en  
+8°. INTERREG,  
 
-9°. de Europese Structuur- en Cohesiefondsen.       
+9°. de Europese Structuur- en Cohesiefondsen, en  
+
+10°. verordening (EU) nr. 1291/2013 van het Europees Parlement en de Raad van 11 december 2013 tot vaststelling van Horizon 2020 – het kaderprogramma voor onderzoek en innovatie (2014–2020) en tot intrekking van Besluit nr. 1982/2006/EG (PbEU 2013, L 347).      
 8.  Bijdragen van gemeenten, provincies, waterschappen en openbare lichamen als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen, worden aangemerkt als publieke cofinanciering en blijven bij de toepassing van artikel 6, eerste lid, van het besluit buiten beschouwing voor zover het de berekening betreft van het maximumbedrag dat krachtens deze titel per project kan worden verstrekt.  
 
 ### Artikel  4.3.6  
@@ -5254,7 +5391,7 @@ b. bijdragen van de Europese Commissie op grond van:
 
 1.  Indien subsidie is verstrekt voor het boren van een doublet geldt dat: 
 
-a. indien het gerealiseerde vermogen van de eerste boring gelijk aan of meer dan 75% is en de subsidieontvanger het project staakt, de subsidie op nihil wordt vastgesteld;  
+a. indien het gerealiseerde vermogen van de eerste boring gelijk aan of meer dan 75% van het verwacht vermogen is en de subsidieontvanger het project staakt, de subsidie op nihil wordt vastgesteld;  
 
 b. indien het gerealiseerd vermogen van de eerste boring meer dan 50% van het verwacht vermogen is en de subsidieontvanger het project voltooit, artikel 4.3.9 van toepassing is;  
 
@@ -5274,7 +5411,7 @@ a. indien het gerealiseerde vermogen van de eerste put gelijk aan of meer dan 75
 b. indien de subsidieontvanger na het boren van de eerste put overgaat tot het boren van het doublet en het plaatsen van een pompinstallatie, artikel 4.3.9 van toepassing is op de eerste put;  
 
 c. indien het gerealiseerde vermogen van de eerste put minder dan 75% van het verwacht vermogen is, artikel 4.3.8 van toepassing is wanneer de subsidieontvanger niet overgaat tot het boren van het doublet.     
-2.  Indien subsidie is verstrekt voor het boren van een half doublet, en de gegarandeerde put de tweede put van het doublet is, is artikel 4.3.9 van toepassing op deze tweede put.  
+2.  Indien subsidie is verstrekt voor het boren van een half doublet, en de gegarandeerde put de tweede put van het doublet, of een vervolgput is, is artikel 4.3.9 van toepassing op deze put.  
 3.  Artikel 4.3.6, tweede lid, is van overeenkomstige toepassing op een aardwarmteproject en een diep aardwarmteproject waarbij de subsidie is verstrekt voor het boren van een half-doublet.  
 
 ### Artikel  4.3.8  
@@ -11641,11 +11778,13 @@ Een systeemintegratiestudie kan zich ook richten op het onderzoeken van de haalb
 
 ####, behorend bij artikel 4.3.1  van de Regeling nationale EZ-subsidies
 
-####Model Geologisch Onderzoek
+### Model  
 
-*Bij uw subsidieaanvraag moet u als bijlage bij het aanvraagformulier een geologisch onderzoek toevoegen. In dit Model Geologisch Onderzoek staat aangegeven welke aspecten u daarin dient te behandelen.*   *U moet deze bijlage ook op USB-stick bijvoegen.*   *Het geologisch onderzoek concentreert zich uiteraard op het inschatten van de geologische parameters. Met deze parameters, en met de niet-geologische parameters uit het projectplan (Bijlage A bij uw aanvraag), berekent u de P90 waarde. Het resultaat presenteert u eveneens in het geologisch onderzoek.*   *Als u aanvraagt voor een half doublet, moet u in dit rapport duidelijk aangeven voor welke van de twee putten de garantie moet gelden. Als u aanvraagt voor de tweede put, dan presenteert u ook de resultaten van de eerste put.*   *Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.*   *TNO faciliteert het samenstellen van het geologisch onderzoek door via * *www.nlog.nl* * de volgende hulpmiddelen beschikbaar te stellen:*  
+####Geologisch Onderzoek
 
-*  *Een uitgebreide toelichting op de verplichte hoofdstukindeling*   
+*Bij uw subsidieaanvraag moet u als bijlage bij het aanvraagformulier een geologisch onderzoek toevoegen. In dit Model Geologisch Onderzoek staat aangegeven welke aspecten u daarin dient te behandelen.*   *U moet deze bijlage ook op USB-stick bijvoegen.*   *Het geologisch onderzoek concentreert zich uiteraard op het inschatten van de geologische parameters. Met deze parameters, en met de niet-geologische parameters uit het projectplan (Bijlage A bij uw aanvraag), berekent u de P90 waarde. Het resultaat presenteert u eveneens in het geologisch onderzoek.*   *Als u aanvraagt voor een half doublet, moet u in dit rapport duidelijk aangeven voor welke put de garantie moet gelden. Als u aanvraagt voor de tweede put of een vervolgput, dan presenteert u ook de resultaten van (de) voorgaande put(ten).*   *Voor het geologisch onderzoek geldt een verplichte hoofdstukindeling. Belangrijk is dat u telkens motiveert waarom u een bepaalde keuze gemaakt heeft. Als het onderwerp van een bepaalde paragraaf niet relevant is voor uw situatie, dan moet u dit met een korte motivatie noemen.*   *TNO faciliteert het samenstellen van het geologisch onderzoek door via * *www.nlog.nl* * de volgende hulpmiddelen beschikbaar te stellen:*  
+
+*  *Een uitgebreide toelichting op de verplichte hoofdstukindeling.*   
 
 *  *Het softwarepakket ‘DoubletCalc’, waarmee op eenvoudige wijze het P90 vermogen te berekenen is.*   
 
@@ -11653,54 +11792,55 @@ Een systeemintegratiestudie kan zich ook richten op het onderzoeken van de haalb
 
 ####Verplichte inhoudsopgave ‘Geologisch Onderzoek’
 
-| --- | --- | --- |
-|:---|:---|:---|
-| 1  | Samenvatting  |
-| --- | 1.1  | Gepland doublet en gebruikte parameters  |
-| --- | 1.2  | Verwacht vermogen en overschrijdingskansgrafiek  |
-|  *zie bijlagen voor verplichte onderdelen van de samenvatting*   |
-| --- | --- | --- |
-| 2  | Locatie en putten  |
-| --- | 2.1  | Beoogde locatie  |
-| --- | 2.2  | Putten  |
-| --- | --- | --- |
-| 3  | Geologische setting  |
-| --- | 3.1  | Lokale geologie  |
-| --- | 3.2  | (Risico op het aantreffen van) koolwaterstoffen  |
-| --- | --- | --- |
-| 4  | Beschikbare en gebruikte putten en seismische data  |
-| --- | 4.1  | Keuze van de referentieputten  |
-| --- | 4.2  | Seismische gegevens  |
-| --- | 4.3  | Coördinaatsysteem  |
-| --- | --- | --- |
-| 5  | Seismische interpretatie en dieptemodel  |
-| --- | 5.1  | Methode beschrijving  |
-| --- | 5.2  | Additionele gegevens  |
-| --- | 5.3  | Well to seismic ties  |
-| --- | 5.4  | Seismische interpretatie  |
-| --- | 5.5  | Gridding algoritme  |
-| --- | 5.6  | Tijd-diepte conversie  |
-| --- | 5.7  | Dieptekaart van top/basis aquifer  |
-| --- | 5.8  | Discussie van onzekerheid in top/basis aquiferkaart.  |
-| --- | --- | --- |
-| 6  | Karakterisering en model van de aquifer  |
-| --- | 6.1  | Stratigrafische correlatie en laterale diktevariatie van de aquifer  |
-| --- | 6.2  | Schatting van de permeabiliteit van de aquifer  |
-| --- | 6.3  | Resultaten en discussie over onzekerheid  |
-| --- | --- | --- |
-| 7  | Waterevaluatie  |
-| --- | 7.1  | Temperatuur  |
-| --- | 7.2  | Evaluatie van het formatiewater  |
-| --- | 7.3  | Aquiferdruk  |
-| --- | --- | --- |
-| 8  | Doublet performance  |
-| --- | 8.1  | Doublet configuratie in de ondergrond  |
-| --- | 8.2  | Putarchitectuur  |
-| --- | 8.3  | Operationele instellingen  |
-| --- | --- | --- |
-| 9  | Referenties  |
-
-### Bijlagen  
+| --- | --- |
+|:---|:---|
+| 1 Samenvatting  |
+| --- | 1.1 Gepland doublet en gebruikte parameters  |
+| --- | 1.2 Verwacht vermogen en overschrijdingskansgrafiek  |
+|  *zie volgende bladzijde voor verplichte onderdelen van de samenvatting*   |
+| --- | --- |
+| 2 Locatie en putten  |
+| --- | 2.1 Aanmelding voor garantstelling  |
+| --- | 2.2 Beoogde locatie  |
+| --- | 2.3 Putten  |
+| --- | --- |
+| 3 Geologische setting  |
+| --- | 3.1 Lokale geologie  |
+| --- | 3.2 (Risico op het aantreffen van) koolwaterstoffen  |
+| --- | --- |
+| 4 Beschikbare en gebruikte putten en seismische data  |
+| --- | 4.1 Keuze van de referentieputten  |
+| --- | 4.2 Seismische gegevens  |
+| --- | 4.3 Coördinaatsysteem  |
+| --- | --- |
+| 5 Seismische interpretatie en dieptemodel  |
+| --- | 5.1 Methode beschrijving  |
+| --- | 5.2 Additionele gegevens  |
+| --- | 5.3 Well to seismic ties  |
+| --- | 5.4 Seismische interpretatie  |
+| --- | 5.5 Gridding algoritme  |
+| --- | 5.6 Tijd-diepte conversie  |
+| --- | 5.7 Dieptekaart van top/basis aquifer  |
+| --- | 5.8 Discussie van onzekerheid in top/basis aquiferkaart.  |
+| --- | --- |
+| 6 Karakterisering en model van de aquifer  |
+| --- | 6.1 Stratigrafische correlatie en laterale diktevariatie van de aquifer  |
+| --- | 6.2 Schatting van de permeabiliteit van de aquifer  |
+| --- | 6.3 Resultaten en discussie over onzekerheid  |
+| --- | --- |
+| 7 Waterevaluatie  |
+| --- | 7.1 Temperatuur  |
+| --- | 7.2 Evaluatie van het formatiewater  |
+| --- | 7.3 Aquiferdruk  |
+| --- | --- |
+| 8 Doublet performance  |
+| --- | 8.1 Doublet configuratie in de ondergrond  |
+| --- | 8.2 Putarchitectuur  |
+| --- | 8.3 Operationele instellingen  |
+| --- | --- |
+| 9 Referenties  |
+| --- | --- |
+| Bijlagen  |
 
 ####Verplichte onderdelen samenvatting ‘geologisch onderzoek’
 
@@ -11719,28 +11859,28 @@ Een systeemintegratiestudie kan zich ook richten op het onderzoeken van de haalb
 | Bruto dikte watervoerende pakket met spreiding  | --- | --- | --- | m  |
 | Netto/bruto percentage watervoerende pakket met spreiding  | --- | --- | --- | %  |
 | Zoutgehalte (Total Dissolved Solids)  | --- | --- | --- | ppm  |
-| Diepte top aquifer injectieput  | –  | --- | –  | m  |
-| Diepte top aquifer productieput  | –  | --- | –  | m  |
+| Diepte top aquifer injectieput  | -  | --- | -  | m  |
+| Diepte top aquifer productieput  | -  | --- | -  | m  |
 |  *Geologische parameters zonder spreiding*   |
-| Geothermische gradiënt  | --- | °C/m  |
-| Gemiddelde oppervlaktetemperatuur  | --- | °C  |
-| k<sub>v</sub>/k<sub>h</sub>ratio van de aquifer  | 1  | –  |
+| Geothermische gradiënt  | --- |  <sup>o</sup>C/m  |
+| Gemiddelde oppervlaktetemperatuur  | --- |  <sup>o</sup>C  |
+| k<sub>v</sub>/k<sub>h</sub>ratio van de aquifer  | 1  | -  |
 |  *Niet-geologische parameters: Putspecificatie*   |
 | Verbuizingsschema productieput; dieptes van de segmenten in mAH en mTVD  | --- | m  |
 | Binnendiameter opvoerbuis per segment  | --- | inch  |
 | Ruwheid opvoerbuis per segment  | --- | milli-inch  |
 | Diameter boorgat productieput op aquiferniveau  | --- | inch  |
-| Skin (weerstand rond putmond) productieput  | 0 (vaste waarde)  | –  |
-| Inclinatie put-aquifer traject productieput  | --- | °  |
+| Skin (weerstand rond putmond) productieput  | 0 (vaste waarde)  | -  |
+| Inclinatie put-aquifer traject productieput  | --- | o  |
 | --- |
 | Verbuizingsschema injectieput; dieptes van de segmenten in mAH en mTVD  | --- | m  |
 | Binnendiameter opvoerbuis per segment  | --- | inch  |
 | Ruwheid opvoerbuis per segment  | --- | milli-inch  |
 | Diameter boorgat injectieput op aquiferniveau  | --- | inch  |
-| Skin (weerstand rond putmond) injectieput  | 0 (vaste waarde)  | –  |
-| Inclinatie put-aquifer traject injectieput  | --- | °  |
+| Skin (weerstand rond putmond) injectieput  | 0 (vaste waarde)  | -  |
+| Inclinatie put-aquifer traject injectieput  | --- | o  |
 |  *Niet-geologische parameters: Pomp en doubletspecificatie*   |
-| Injectietemperatuur  | --- | °C  |
+| Injectietemperatuur  | --- |  <sup>o</sup>C  |
 | Afstand tussen productie en injectieput op aquifer niveau.  | --- | m  |
 | Pomp efficiëntie  | --- | frac  |
 | Afhangdiepte pomp in de productieput  | --- | m  |
@@ -11756,7 +11896,7 @@ Hier geeft u aan voor welk vermogen u aanspraak wilt maken op ondersteuning uit 
 
 – De overschrijdingskansgrafiek, waaruit het P90 vermogen is af te lezen, zie onderstaand voorbeeld.  
 
-– Het aangevraagd vermogen.   ![254227](http://wetten.overheid.nl/Illustration/254227)
+– Het aangevraagd vermogen.   ![255801](http://wetten.overheid.nl/Illustration/255801)
 Figuur 1: Voorbeeld van overschrijdingskansgrafiek 
 
 ### Bijlage 4.3.2 
