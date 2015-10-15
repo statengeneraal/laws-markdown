@@ -325,7 +325,7 @@ f.de specificatie van het factuurbedrag.
 
 ### Artikel  4.3  
 
-Het rentepercentage, genoemd in artikel 4.5, eerste lid, van het besluit, bedraagt voor het jaar 2013: 0,60 procent. 
+Het rentepercentage, genoemd in artikel 4.5, eerste lid, van het besluit, bedraagt voor het jaar 2015: 0,12 procent. 
 
 ### Artikel  4.4  
 

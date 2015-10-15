@@ -427,9 +427,9 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ####Subsidieplafond
 
-1. Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A2, € 14.800.000.  
+1. Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A2, € 14.967.473.  
 
-2. Voor subsidies aan organisaties met een de jure monopoliepositie is van het bedrag, bedoeld in het eerste lid, een bedrag gereserveerd van € 8.880.000.   
+2. Voor subsidies aan organisaties met een de jure monopoliepositie is van het bedrag, bedoeld in het eerste lid, een bedrag gereserveerd van € 8.999.532.   
 
 ### Artikel  A4  
 
@@ -531,7 +531,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ####Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 8.800.000. 
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel B2, € 9.290.133. 
 
 ### Artikel  B4  
 
@@ -629,9 +629,9 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze bijlage w
 
 ####Subsidieplafond
 
-1. Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel C2, € 16.400.000.  
+1. Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel C2, € 17.476.666.  
 
-2. Voor subsidies aan organisaties met een de jure monopoliepositie is van het bedrag, bedoeld in het eerste lid, een bedrag gereserveerd van € 8.200.000.   
+2. Voor subsidies aan organisaties met een de jure monopoliepositie is van het bedrag, bedoeld in het eerste lid, een bedrag gereserveerd van € 6.719.599.   
 
 ### Artikel  C4  
 

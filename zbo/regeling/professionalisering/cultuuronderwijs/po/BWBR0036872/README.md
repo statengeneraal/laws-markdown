@@ -21,7 +21,9 @@ In deze regeling wordt verstaan onder:
 
 *Fonds voor Cultuurparticipatie:* de stichting Fonds voor Cultuurparticipatie;  
 
-*School:* basisschool als bedoeld in artikel 1 van de Wet op het Primair Onderwijs; Schoolbestuur: het bevoegd gezag van een basisschool als bedoeld in de Wet op het Primair Onderwijs;  
+*School:* basisschool of een speciale school voor basisonderwijs, als bedoeld in artikel 1 van de Wet op het Primair Onderwijs of een school voor speciaal onderwijs, voor voortgezet speciaal onderwijs of voor speciaal en voortgezet speciaal onderwijs als bedoeld in artikel 1 van de Wet op de Expertisecentra of een school als bedoeld in artikel 1 van de Wet primair onderwijs BES;  
+
+*Schoolbestuur:* het bevoegd gezag van een basisschool als bedoeld in artikel 1 van de Wet op het Primair Onderwijs en artikel 1 van de Wet primair onderwijs BES; 
 
 *Locatie:* een in Nederland gelegen hoofd- of nevenvestiging als bedoeld in de Wet op het Primair Onderwijs;  
 

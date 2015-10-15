@@ -12,6 +12,11 @@ Besluit:
 
 Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000, en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000, worden vastgesteld als in de bijlage van deze regeling is aangegeven. 
 
+### Artikel  1a  
+Treedt in werking per 01-01-2016 
+
+De Staat der Nederlanden (Ministerie van Sociale Zaken en Werkgelegenheid) maakt een voorbehoud als bedoeld in artikel 15b van de Auteurswet met betrekking tot de inhoud van het basisexamen inburgering. 
+
 ### Artikel  2  
 
 Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt. 

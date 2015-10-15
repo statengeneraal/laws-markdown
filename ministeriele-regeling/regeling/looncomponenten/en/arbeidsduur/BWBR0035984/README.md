@@ -17,11 +17,7 @@ In deze regeling wordt verstaan onder de gemiddelde arbeidsduur: de gemiddelde a
 ####Arbeidsduur
 
 1.  Indien geen of een wisselende arbeidsduur is overeengekomen worden bij de berekening van de gemiddelde arbeidsduur perioden, waarin de werknemer verlof genoot, wegens een staking geen arbeid verrichtte, of niet in staat was arbeid te verrichten in verband met ongeschiktheid ten gevolge van ziekte, niet in aanmerking genomen.   
-2.  Indien op grond van het eerste lid een periode van een maand of langer niet in aanmerking wordt genomen, wordt voor de berekening van de gemiddelde arbeidsduur een periode in aanmerking genomen waarin geen van de omstandigheden, bedoeld in het eerste lid, zich voordeed, en die: 
-
-a. direct voorafgaat aan de periode waarover de gemiddelde arbeidsduur wordt berekend; en  
-
-b. gelijk is aan de periode die op grond van het eerste lid niet in aanmerking wordt genomen, met dien verstande dat deze periode naar beneden wordt afgerond op hele maanden.     
+2.  Indien op grond van het eerste lid in totaal een periode van 30 dagen of langer niet in aanmerking wordt genomen, wordt voor de berekening van de gemiddelde arbeidsduur voor iedere periode van 30 dagen een kalendermaand in aanmerking genomen waarin geen van de omstandigheden, bedoeld in het eerste lid, zich voordeed, en die direct voorafgaat aan de periode waarover de gemiddelde arbeidsduur wordt berekend.   
 3.  Bij de toepassing van het tweede lid worden perioden gelegen voor de ingangsdatum van de arbeidsovereenkomst die wordt beëindigd buiten beschouwing gelaten.  
 
 ### Artikel  3  
@@ -35,8 +31,6 @@ b. gelijk is aan de periode die op grond van het eerste lid niet in aanmerking w
 
 ####Vaste looncomponenten
 
-Treedt in werking per 01-07-2015 
-
 Als vaste looncomponenten worden aangewezen: 
 
 a. overwerkvergoedingen;  
@@ -46,8 +40,6 @@ b. ploegentoeslagen.
 ### Artikel  5  
 
 ####Variabele looncomponenten
-
-Treedt in werking per 01-07-2015 
 
 Als variabele looncomponenten worden aangewezen: 
 
