@@ -10,11 +10,15 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 16-10-2015 
+
 *persoonsgegevens:*   gegevens die op individuele natuurlijke personen herleidbaar zijn;    *registratie*:   de bij de uitvoerder ondergebrachte geautomatiseerde administratie van gegevens, betreffende al dan niet in werkelijke dienst zijnde militairen, die behoren of hebben behoord tot de Koninklijke landmacht of de Koninklijke luchtmacht of de Koninklijke marine, die bezoldiging genieten of hebben genoten;    *houder*:   de directeur Financieel Beheer;    *geregistreerde*:   degene over wie de registratie gegevens bevat;    *uitvoerder*:   het hoofd van de Afdeling Computerdiensten van de Directie Automatisering en Bestuurlijke Informatie;    *G-geheel*:   geautomatiseerd gegevens verwerkend geheel;    *jaarwerk*:   verzameling van gegevens ten behoeve van de ‘jaaropgaaf belastbaar loon’.    
 
 ### Artikel  2  
 
 ####Doelstelling der registratie
+
+Materieel uitgewerkt per 16-10-2015 
 
 De doelstelling van de registratie is het systematisch vastleggen, opslaan en ter beschikking stellen van de gegevens ten behoeve van de berekening, betaalbaarstelling en verantwoording van de bedragen en tevens het voorzien in de informatiebehoefte van diverse beleidsbepalende en uitvoerende instanties, die aan de geregistreerde toekomen op basis van: 
 
@@ -26,11 +30,15 @@ het ‘Voorlopig Voorschrift Koninklijke Marine’ 13 en 16.
 
 ####In de registratie opgenomen gegevens
 
+Materieel uitgewerkt per 16-10-2015 
+
 De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegevens van de geregistreerde en de daaruit resulterende financiële gegevens bevatten, die zijn opgenomen in de bij deze Regeling behorende bijlage. 
 
 ### Artikel  4  
 
 ####Verwijdering van gegevens
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De financiële gegevens worden verwijderd zes maanden nadat de berekening heeft plaatsgevonden waarop die gegevens betrekking hebben gehad. De financiële gegevens welke in het jaarwerk worden opgenomen, worden verwijderd na afloop van het kalenderjaar waarop deze gegevens betrekking hebben gehad.   
 2.  De registratieve gegevens worden bewaard tot het einde van het kalenderjaar volgend op het kalenderjaar, waarin de geregistreerde de dienst verlaat c.q. wanneer het recht op de noodbetaalpas komt te vervallen.   
@@ -40,12 +48,16 @@ De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegeve
 
 ####Functionering registratie
 
+Materieel uitgewerkt per 16-10-2015 
+
 1.  De houder en/of de daarvoor in aanmerking komende instanties binnen de defensie-organisatie verschaffen de uitvoerder de in de registratie op te nemen gegevens, alsmede de wijzigingen die daarin dienen te worden aangebracht.   
 2.  De uitvoerder is belast met de technische verwerking van de gegevens; hij doet dit overeenkomstig de voorschriften die de houder opstelt. Voorts verstrekt hij de gegevens overeenkomstig de instructies van de houder.  
 
 ### Artikel  6  
 
 ####Verstrekking van gegevens
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  Periodieke verstrekking van gegevens, door of namens de houder, kan plaatsvinden aan: 
 
@@ -70,6 +82,8 @@ c. anderen voor zover de geregistreerde daarvoor toestemming heeft gegeven.
 
 ####Toegang tot de registratie
 
+Materieel uitgewerkt per 16-10-2015 
+
 Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uitsluitend en slechts binnen het kader van de hen opgedragen werkzaamheden: 
 
 a. de ambtenaren werkzaam bij de uitvoerder, die daartoe door de uitvoerder na overleg met de houder zijn aangewezen; 
@@ -88,6 +102,8 @@ f. de ambtenaren van de Algemene Rekenkamer;
 
 ####Recht op kennisneming
 
+Materieel uitgewerkt per 16-10-2015 
+
 1.  De geregistreerde heeft recht op kosteloze kennisneming van de op hem persoonlijk betrekking hebbende gegevens, op de wijze als in lid 2 is bepaald.   
 2.  De procedure voor de uitoefening van het recht op kennisneming is als volgt: 
 
@@ -100,6 +116,8 @@ de houder verstrekt de aanvrager de gevraagde informatie.
 ### Artikel  9  
 
 ####Verzoek tot correctie van gegevens
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De geregistreerde heeft het recht om correctie te vragen van de op hem persoonlijk betrekking hebbende gegevens indien hij van oordeel is dat de opgenomen gegevens onjuist zijn of ten onrechte in de registratie zijn opgenomen, danwel gegevens ontbreken die daarin wel hadden moeten zijn opgenomen, op de wijze als in lid 2 is bepaald.   
 2.  De procedure voor de uitoefening van het recht op correctie is als volgt: 
@@ -122,6 +140,8 @@ de verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een
 
 ####Beveiliging
 
+Materieel uitgewerkt per 16-10-2015 
+
 1.  De houder is er volledig verantwoordelijk voor, dat ten aanzien van de organisatie en de beveiliging alle maatregelen in acht worden genomen die zijn voorgeschreven in de Aanwijzingen van de minister-president inzake de beveiliging van persoonsgegevens verwerkt en opgeslagen in geautomatiseerde gegevensverwerkende systemen bij de Rijksoverheid van 16 juli 1982, nr. 321043.   
 2.  Het hoofd van het G-geheel (uitvoerder) is de directe verantwoordelijkheid voor de uitvoering van de organisatorische en technische beveiligingsmaatregelen, voor zover deze met de geautomatiseerde verwerking te maken hebben, in handen gelegd.   
 3.  De secretaris-generaal, waaronder het G-geheel ressorteert, is uiteindelijk verantwoordelijk voor de concrete uitvoering van de beveiligingsmaatregelen.  
@@ -130,11 +150,15 @@ de verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een
 
 ####Controle op goede werking
 
+Materieel uitgewerkt per 16-10-2015 
+
 Als element van een behoorlijke bescherming van de persoonlijke levenssfeer is een onafhankelijke toezichthoudende instantie van belang ter controle op de naleving door de houder van de ter zake gestelde regels en reglementen. Met deze controle is namens de minister van Defensie belast de Directie Accountantsdienst. Aanvullende controlewerkzaamheden op de kwaliteit input en het beoordelen van het systeem worden verricht door de Algemene Rekenkamer. 
 
 ### Artikel  12  
 
 ####Inzage van de regeling
+
+Materieel uitgewerkt per 16-10-2015 
 
 Deze regeling ligt ter inzage bij: 
 
@@ -147,6 +171,8 @@ de Centrale Bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100, 
 ### Artikel  13  
 
 ####Slotbepaling
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  Deze regeling kan worden aangehaald als: ‘Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986’.   
 2.  De navolgende beschikkingen worden hierbij ingetrokken: 
@@ -169,6 +195,7 @@ secretaris-generaal,
 P. C. de Man     
 
 ### Bijlage    
+Materieel uitgewerkt per 16-10-2015 
 
 De in artikel 3 bedoelde gegevens zijn: 
 

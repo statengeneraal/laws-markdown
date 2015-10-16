@@ -48,7 +48,11 @@ k.  *technische reguleringsnormen of technische uitvoeringsnormen van de EBA:* d
 
 l.  *kredietinstelling:* een kredietinstelling als bedoeld in artikel 4 van de CRR, dat wil zeggen een bank als bedoeld in artikel 1:1 van de Wft.;  
 
-m.  *instelling:* een instelling of een onderneming waarop deze regeling op grond van artikel 1:3 van toepassing is.   
+m.  *instelling:* een instelling of een onderneming waarop deze regeling op grond van artikel 1:3 van toepassing is;  
+
+n.  *DA LCR:* Gedelegeerde Verordening (EU) 2015/61 van de Commissie van 10 oktober 2014 ter aanvulling van Verordening (EU) nr. 575/2013 van het Europees Parlement en de Raad met betrekking tot het liquiditeitsdekkingsvereiste voor kredietinstellingen (gedelegeerde verordening liquiditeitsdekkingsvereiste of* Delegated Act Liquidity Coverage Requirement;* PbEU L 11);  
+
+o.  *LCR: * *de liquidity coverage requirement* of het liquiditeitsdekkingsvereiste als bedoeld in artikel 412, eerste lid, van de CRR en nader gespecificeerd in de DA LCR, of de* liquidity coverage ratio*, als bedoeld in de DA LCR.  
 
 ### Artikel  1:2  
 
@@ -393,11 +397,28 @@ i. voor de periode vanaf 1 januari 2022, 0%.
 
 De in artikel 129, eerste lid, onderdelen d en e, van de CRR vermelde limiet van 10% geldt tot en met 31 december 2017 niet voor preferente aandelen die zijn uitgegeven door Franse ‘Fonds Communs de Créances’ of door securitisatie-instellingen die gelijkwaardig zijn aan Franse ‘Fonds Communs de Créances’, mits wordt voldaan aan elk van de voorwaarden, bedoeld in artikel 496, eerste lid, van de CRR. 
 
-### Hoofdstuk  6  
+###Hoofdstuk 6 
+
+####Liquiditeitsdekkingsvereiste (liquidity coverage requirement)
+
+### Artikel  6:1  
+
+####– infasering van het liquiditeitsdekkingsvereiste (LCR)
+
+1. Gelet op artikel 412, vijfde lid, en artikel 460 van de CRR, in samenhang met artikel 38 van de DA LCR, wordt het percentage van de LCR voor banken met zetel in Nederland, op geconsolideerde, gesubconsolideerde en individuele basis, als volgt vastgesteld: voor de periode vanaf 1 oktober 2015, 100%.
+2. Mits op geconsolideerd niveau wordt voldaan aan het eerste lid worden, gelet op artikel 412, vijfde lid, en artikel 460 van de CRR, in samenhang met artikel 38 van de DA LCR, de percentages voor de LCR voor banken met zetel in Nederland die niet een bank als dochteronderneming hebben, als volgt vastgesteld:
+
+a. voor de periode van 1 oktober 2015 tot en met 31 december 2016, 80%;  
+
+b. voor de periode vanaf 1 januari 2017, 100%.  
+3. Gelet op artikel 412, vijfde lid, en artikel 460 van de CRR, in samenhang met artikel 38 van de DA LCR, wordt het percentage van de LCR voor in Nederland gelegen bijkantoren van banken met zetel in een staat die geen lidstaat is, als volgt vastgesteld: voor de periode vanaf 1 oktober 2015, 100%.
+4. Voor de toepassing van dit artikel is het uitsluitend met betrekking tot *cash pooling products* toegestaan de liquiditeitsuitstroom te berekenen na aftrek van een afhankelijke liquiditeitsinstroom *(netting of liquidity outflows and inflows for cash pooling products)*, mits volledig wordt voldaan aan alle voorwaarden van artikel 26(a), 26(b) en 26(c) van de DA LCR. 
+
+### Hoofdstuk  7  
 
 ####– Slotbepalingen
 
-### Artikel  6:1  
+### Artikel  7:1  
 
 ####– intrekking van toezichthouderregelingen van DNB
 
@@ -415,13 +436,13 @@ e. Regeling securitisaties Wft 2010;
 
 f. Regeling uitsluiting solvabiliteitsaftrek immateriële activa.   
 
-### Artikel  6:2  
+### Artikel  7:2  
 
 ####– citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke bepalingen CRD IV en CRR. 
 
-### Artikel  6:3  
+### Artikel  7:3  
 
 ####– inwerkingtreding
 

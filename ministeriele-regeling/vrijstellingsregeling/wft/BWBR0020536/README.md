@@ -427,6 +427,21 @@ Beleggingsondernemingen als bedoeld in artikel 10, eerste lid, die in Nederland 
 1.  Elektronischgeldinstellingen als bedoeld in artikel 1c zijn vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de artikelen 3:5, 3:6, 3:7, 3:29a, 3:29b, 3:29c, vierde lid, en 3:34 van de wet is bepaald.   
 2.  De vrijstelling, bedoeld in het eerste lid, is slechts van toepassing op voorwaarde dat de elektronischgeldinstelling eenmaal per jaar staten aan de Nederlandse Bank verstrekt overeenkomstig artikel 130, derde lid, onderdeel c, van het Besluit prudentiële regels Wft.  
 
+### §  3.1B  
+
+####Verzekeraars met beperkte risico-omvang
+
+Treedt in werking per 01-01-2016 
+
+####Vrijstelling als bedoeld in artikel 3:3 van de wet
+
+Treedt in werking per 01-01-2016 
+
+### Artikel  18b  
+Treedt in werking per 01-01-2016 
+
+Natura-uitvaartverzekeraars die ingevolge artikel 1d, eerste lid, of 1f, eerste lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet en schadeverzekeraars die ingevolge artikel 1e, eerste lid of 1f, tweede lid, zijn vrijgesteld van artikel 2:48, eerste lid respectievelijk artikel 2:50, eerste lid, van de wet zijn tevens vrijgesteld van hetgeen ingevolge het Deel Prudentieel toezicht financiële ondernemingen, met uitzondering van de artikelen 3:5, 3:6, 3:7 en 3:20, van de wet, is bepaald. 
+
 ### §  3.2  
 
 ####Aantrekken van opvorderbare gelden van het publiek
@@ -902,7 +917,7 @@ Herverzekeringsbemiddelaars zijn vrijgesteld van de artikelen 4:16, eerste lid, 
 
 ### Artikel  53  
 
-1.  Van artikel 5:2 van de wet zijn vrijgesteld degenen die effecten aanbieden aan het publiek of toelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, voorzover het betreft: 
+1.  Van artikel 5:2 van de wet zijn vrijgesteld degenen die effecten aanbieden aan het publiek in de Europese Economische Ruimte of toelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, voorzover het betreft: 
 
 a. effecten zonder aandelenkarakter die worden uitgegeven door een lidstaat of een decentraal overheidslichaam van een lidstaat, een openbare internationale instelling waarbij een of meer lidstaten aangesloten zijn, de Europese Centrale Bank of een centrale bank van een lidstaat;  
 
@@ -940,13 +955,11 @@ f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij 
 
 1.  Van artikel 5:2 van de wet zijn vrijgesteld degenen die effecten aanbieden aan het publiek, voor zover: 
 
-a.ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek artikel 5:3, eerste lid, van de wet van toepassing was, indien er een geldig prospectus algemeen verkrijgbaar is gesteld en de uitgevende instelling of de voor het opstellen van een dergelijk prospectus verantwoordelijke persoon bij schriftelijke overeenkomst instemt met het gebruik hiervan;
+a. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek artikel 5:3, tweede lid, van de wet, artikel 53, of 55, van toepassing was;  
 
-b. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek artikel 5:3, tweede lid, van de wet, artikel 53, of 55, van toepassing was;  
+b. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt artikel 5:4 van de wet of artikel 53, eerste lid, van toepassing was; of  
 
-c. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt artikel 5:4 van de wet of artikel 53, eerste lid, van toepassing was; of  
-
-d. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland, niet zijnde een aanbieding ter zake waarvan artikel 5:3, eerste lid, van de wet van toepassing was, of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.     
+c. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland, niet zijnde een aanbieding ter zake waarvan artikel 5:3, eerste lid, van de wet van toepassing was, of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.     
 2.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek is vrijgesteld van hetgeen ingevolge hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet is bepaald, voorzover op de toelating daarvan tot de handel op de gereglementeerde markt artikel 5:4, aanhef en onderdeel a, van de wet van toepassing is en ter zake van een eerdere toelating tot de handel op dezelfde gereglementeerde markt van dezelfde aandelen, of certificaten daarvan, van dezelfde categorie of klasse, een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.   
 3.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek die voortkomen uit de conversie of omruiling van andere effecten of uit de uitoefening van rechten verbonden aan andere effecten is vrijgesteld van hetgeen ingevolge hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet is bepaald, voorzover: 
 
@@ -977,7 +990,6 @@ b. ter zake van die eerdere toelating aan de overige toepasselijke wettelijke ve
 c. die eerdere toelating voor 1 juli 2005 is voltooid.    
 
 ### Artikel  54b  
-Treedt in werking per 01-07-2015 
 
 Van artikel 5:2 van de wet is vrijgesteld iedere doorverkoop of definitieve plaatsing van effecten aan het publiek via financiële intermediairs, voorzover er een geldig prospectus als bedoeld in artikel 5:22 van de wet algemeen verkrijgbaar is gesteld en de uitgevende instelling of de voor het opstellen van een dergelijk prospectus verantwoordelijke persoon bij schriftelijke overeenkomst instemt met het gebruik hiervan. 
 

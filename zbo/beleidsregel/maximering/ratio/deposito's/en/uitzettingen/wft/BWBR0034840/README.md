@@ -3,11 +3,11 @@
 ##Beleidsregel van de Nederlandsche Bank N.V. van 11 februari 2014, houdende maximering van de ratio van deposito’s en de uitzettingen in staten die geen lidstaat zijn (Beleidsregel maximering ratio deposito’s en uitzettingen Wft)
 
 De Nederlandsche Bank N.V.,  
-Gelet op de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:18a](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [3:111a van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op de artikelen 3:17, tweede lid, aanhef en onderdeel c, 3:18a, en 3:111a van de Wet op het financieel toezicht;
 
-Gelet op [artikel 23, eerste en tweede lid, van het Besluit prudentiële regels Wft](../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op artikel 23, eerste en tweede lid, van het Besluit prudentiële regels Wft;
 
-Gelet op de [Beleidsregel behandeling concentratierisico opkomende landen](../../../../../../../../../zbo/beleidsregel/behandeling/concentratierisico/opkomende/landen/BWBR0027921/README.md) en de [Beleidsregel liquiditeit Wft 2011](../../../../../../../../../zbo/beleidsregel/liquiditeit/wft/2011/BWBR0030175/README.md);
+Gelet op de Beleidsregel behandeling concentratierisico opkomende landen en de Beleidsregel liquiditeit Wft 2011;
 
 Na overleg met de Nederlandse Vereniging van Banken en de Foreign Banker’s Association;
 Besluit:    
@@ -16,7 +16,7 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.  *gegarandeerd deposito:* deposito als gedefinieerd in [artikel 3:159a, onder c, van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a.  *gegarandeerd deposito:* deposito als gedefinieerd in artikel 3:159a, onder c, van de Wet op het financieel toezicht;  
 
 b.  *lidstaat:* lidstaat van de Europese Unie alsmede landen die deel uitmaken van de Europese Economische Ruimte (EER).   
 

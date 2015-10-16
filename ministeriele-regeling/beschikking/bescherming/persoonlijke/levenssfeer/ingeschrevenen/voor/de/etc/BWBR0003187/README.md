@@ -10,6 +10,8 @@ Besluit:
 
 ####*Begripsbepalingen*
 
+Materieel uitgewerkt per 16-10-2015 
+
 *registratie:*   de geautomatiseerde administratie bij de Directie Dienstplichtzaken van ingeschrevenen voor de dienstplicht;    *houder:*   de directeur Dienstplichtzaken;    *geregistreerde:*   degene over wie de registratie gegevens bevat;    *uitvoerders:*  
 
 1. de staffunctionaris Automatisering bij de Directie Dienstplichtzaken,  
@@ -20,17 +22,23 @@ Besluit:
 
 ####Doelstelling van de registratie
 
+Materieel uitgewerkt per 16-10-2015 
+
 De doelstelling van de registratie is de bestuurlijke informatieverstrekking ten behoeve van de uitvoering van de Dienstplichtwet. 
 
 ### Artikel  3  
 
 ####*In de registratie opgenomen gegevens*
 
+Materieel uitgewerkt per 16-10-2015 
+
 De registratie kan omtrent de geregistreerde ten hoogste de gegevens bevatten, die zijn opgenomen in bijlage I. 
 
 ### Artikel  4  
 
 ####*Verwijdering van gegevens*
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De gegevens vermeld in bijlage I – met uitzondering van de gegevens die tevens in bijlage II zijn opgenomen-, worden na een door de houder vast te stellen termijn uit de registratie verwijderd, met dien verstande, dat na opkomst in werkelijke dienst, verklaring tot buitengewoon dienstplichtige e.d., die gegevens niet langer worden gemuteerd en uitsluitend voor statistische doeleinden worden gebruikt.   
 2.  De gegevens vermeld in bijlage II worden behouden tot het 35e levensjaar van de geregistreerden.  
@@ -39,12 +47,16 @@ De registratie kan omtrent de geregistreerde ten hoogste de gegevens bevatten, d
 
 ####Functionering registratie
 
+Materieel uitgewerkt per 16-10-2015 
+
 1.  De diverse bureaus van de Directie Dienstplichtzaken (inclusief de Indelingsraden) verschaffen de uitvoerders de in de registratie op te nemen gegevens, alsmede de wijzigingen die daarin dienen te worden aangebracht.   
 2.  De uitvoerders zijn belast met de technische verwerking van de gegevens; zij doen dit overeenkomstig de voorschriften van de houder. Voorts verstrekken zij de gegevens overeenkomstig de instructies van de houder.  
 
 ### Artikel  6  
 
 ####*Verstrekken van gegevens*
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De in de registratie opgenomen gegevens kunnen door of namens de houder worden verstrekt aan de daarvoor in aanmerking komende instanties binnen de Directie Dienstplichtzaken.   
 2.  Voorts kunnen gegevens door of namens de houder worden verstrekt aan:  
@@ -59,11 +71,15 @@ c. de Hoofdafdeling Organisatie Bescherming Bevolking van het Ministerie van Bin
 
 ####*Toegang tot de registratie*
 
+Materieel uitgewerkt per 16-10-2015 
+
 Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het kader van de hun opgedragen werkzaamheden die ambtenaren, werkzaam bij de uitvoerders, die daartoe door de uitvoerders na overleg met de houder zijn aangewezen. 
 
 ###Artikel 8 
 
 ####*Recht op kennisneming*
+
+Materieel uitgewerkt per 16-10-2015 
 
 1. De geregistreerde heeft recht op kosteloze kennisneming van de op hem persoonlijk betrekking hebbende gegevens op de wijze als in lid 3 is bepaald.
 2. Omtrent de selectieadviezen (punt 63 van bijl. I), de nadere ambtelijke gegevens t.b.v. de indeling (punt 69 van bijl. I), en ABOHZIS (punt 50 van bijlage I) kunnen geen inlichtingen worden verstrekt.
@@ -78,6 +94,8 @@ de houder verstrekt de aanvrager de gevraagde informatie.
 ### Artikel  9  
 
 ####*Verzoek tot correctie van gegevens*
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De geregistreerde heeft het recht om correctie te vragen van de op hem persoonlijk betrekking hebbende gegevens indien hij van oordeel is dat de opgenomen gegevens onjuist zijn of ten onrechte in de registratie zijn opgenomen, dan wel gegevens ontbreken die daarin wel opgenomen hadden moeten zijn.   
 2.  De procedure voor de uitoefening van het recht op correctie is als volgt:  
@@ -98,11 +116,15 @@ de verzoeker kan zich tot de Minister van Defensie wenden met bezwaren tegen een
 
 ####*Beveiliging*
 
+Materieel uitgewerkt per 16-10-2015 
+
 De houder ziet erop toe, dat ten aanzien van de organisatie en de beveiliging alle maatregelen in acht worden genomen die zijn voorgeschreven in de artikelen 17 t/m 24 van de Aanwijzingen van de Minister-President van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen, waarin persoonsgegevens zijn opgenomen, bij de Rijksoverheid, met dien verstande dat met betrekking tot het Defensie Computer Centrum uitvoerder nr. 2 op een en ander toeziet. 
 
 ### Artikel  11  
 
 ####*Inzage van de regeling*
+
+Materieel uitgewerkt per 16-10-2015 
 
 Deze regeling ligt ter inzage bij: 
 
@@ -115,6 +137,8 @@ de Centrale Bibliotheek van het Ministerie van Justitie, Plein 2b, 's-Gravenhage
 ### Artikel  12  
 
 ####*Slotbepaling*
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  Deze beschikking kan worden aangehaald als: ‘Beschikking bescherming persoonlijke levenssfeer ingeschrevenen voor de dienstplicht’   
 2.  Deze beschikking treedt in werking op 1 augustus 1978 en zal worden gepubliceerd in de Nederlandse Staatscourant.  
@@ -133,6 +157,7 @@ secretaris-generaal,
 G. H. J. M. Peijnenburg    
 
 ### Bijlage I  
+Materieel uitgewerkt per 16-10-2015 
 
 1. Registratienummer (waarin geboortedatum)  
 
@@ -287,6 +312,7 @@ G. H. J. M. Peijnenburg
 76. Datum laatste mutatie   
 
 ### Bijlage II  
+Materieel uitgewerkt per 16-10-2015 
 
 1. Registratienummer (waarin geboortedatum)  
 

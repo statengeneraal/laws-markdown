@@ -5,11 +5,11 @@
 De Nederlandsche Bank N.V.,  
 Na raadpleging van de betrokken representatieve organisaties;
 
-Gelet op [artikel 1:29a, eerste lid, onderdeel d](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 3:17, eerste en tweede lid, aanhef en onderdeel c, en derde en vierde lid](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 3:18a](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:63](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:111a van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op artikel 1:29a, eerste lid, onderdeel d, artikel 3:17, eerste en tweede lid, aanhef en onderdeel c, en derde en vierde lid, en de artikelen 3:18a, 3:63 en 3:111a van de Wet op het financieel toezicht;
 
-Gelet op de [artikelen 23](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), [23b](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) en [25a](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) en [hoofdstuk 11 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op de artikelen 23, 23b en 25a en hoofdstuk 11 van het Besluit prudentiële regels Wft;
 
-Gelet op [artikel 2 van de Regeling liquiditeit Wft 2011](../../../../../../zbo/regeling/liquiditeit/wft/2011/BWBR0028903/README.md);
+Gelet op artikel 2 van de Regeling liquiditeit Wft 2011;
 
 Gelet op richtlijn nr. 2009/111/EG van het Europees Parlement en de Raad van 16 september 2009 tot wijziging van de Richtlijnen 2006/48/EG, 2006/49/EG en 2007/64/EG wat betreft banken die zijn aangesloten bij centrale instellingen, bepaalde eigenvermogensbestanddelen, grote posities, het toezichtkader en het crisisbeheer (PbEU L 302);
 
@@ -23,11 +23,11 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.  *Wft:* [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a.  *Wft:* Wet op het financieel toezicht;  
 
-b.  *Besluit:* [Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+b.  *Besluit:* Besluit prudentiële regels Wft;  
 
-c.  *Regeling:* [Regeling liquiditeit Wft 2011](../../../../../../zbo/regeling/liquiditeit/wft/2011/BWBR0028903/README.md) (Stcrt. 2010, 17092);  
+c.  *Regeling:* Regeling liquiditeit Wft 2011 (Stcrt. 2010, 17092);  
 
 d.  *DNB:* de Nederlandsche Bank N.V.;  
 
@@ -37,7 +37,7 @@ f.  *BCBS:* het Basel Committee on Banking Supervision;
 
 g.  *ILAAP:* Internal Liquidity Adequacy Assessment Process;  
 
-h.  *evaluatie:* de evaluatie, bedoeld in [artikel 3:18a, eerste lid, van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+h.  *evaluatie:* de evaluatie, bedoeld in artikel 3:18a, eerste lid, van de Wft.   
 
 ### Paragraaf  2  
 
@@ -71,8 +71,8 @@ i.  *BCBS International framework for liquidity risk measurement, standards and 
 
 ### Artikel  4  
 
-1.  DNB voert, met inachtneming van [artikel 107, eerste lid, onderdelen b en c, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), de evaluatie uit van een ILAAP dat de positie van de onderneming, bedoeld in artikel 2, op zowel groepsbrede als op individuele basis betreft.   
-2.  Indien de onderneming aantoont dat de verdeling van liquiditeit binnen de groep en het liquiditeitsrisicobeheer adequaat zijn, kan DNB de onderneming op aanvraag op grond van [artikel 3:17, vierde lid, van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ontheffing verlenen van het uitvoeren van een ILAAP op individuele basis.  
+1.  DNB voert, met inachtneming van artikel 107, eerste lid, onderdelen b en c, van het Besluit, de evaluatie uit van een ILAAP dat de positie van de onderneming, bedoeld in artikel 2, op zowel groepsbrede als op individuele basis betreft.   
+2.  Indien de onderneming aantoont dat de verdeling van liquiditeit binnen de groep en het liquiditeitsrisicobeheer adequaat zijn, kan DNB de onderneming op aanvraag op grond van artikel 3:17, vierde lid, van de Wft ontheffing verlenen van het uitvoeren van een ILAAP op individuele basis.  
 
 ### Artikel  5  
 
@@ -96,11 +96,11 @@ h. hoe rekening is gehouden met stresstesten;
 
 i. welke hoogte, samenstelling en verdeling van de liquiditeit volgens de onderneming nodig is ter dekking van het huidige en mogelijk toekomstige liquiditeitsrisico en hoe dit zich verhoudt tot de actueel beschikbare liquiditeit;  
 
-j. hoe, in het geval van een groep, de aangehouden aanwezige liquiditeit is verdeeld over de belangrijkste entiteiten in de groep en hoe het zich verhoudt tot de vereiste liquiditeit ingevolge [artikel 3:63 van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de op basis van het ILAAP nodig geachte liquiditeit voor deze entiteiten.   
+j. hoe, in het geval van een groep, de aangehouden aanwezige liquiditeit is verdeeld over de belangrijkste entiteiten in de groep en hoe het zich verhoudt tot de vereiste liquiditeit ingevolge artikel 3:63 van de Wft en de op basis van het ILAAP nodig geachte liquiditeit voor deze entiteiten.   
 
 ### Paragraaf  3  
 
-####Toepassing van de regels ingevolge [artikel 3:63 van de Wft](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op in Nederland gelegen bijkantoren van banken met zetel in een andere lidstaat of in een staat die geen lidstaat is
+####Toepassing van de regels ingevolge artikel 3:63 van de Wft op in Nederland gelegen bijkantoren van banken met zetel in een andere lidstaat of in een staat die geen lidstaat is
 
 ### Artikel  6  
 
@@ -112,12 +112,12 @@ b. banken met zetel in een staat die geen lidstaat is, voor zover zij hun bedrij
 
 ### Artikel  7  
 
-1.  Met betrekking tot een bijkantoor, bedoeld in artikel 6, worden voor de toepassing van de [Regeling](../../../../../../zbo/regeling/liquiditeit/wft/2011/BWBR0028903/README.md): 
+1.  Met betrekking tot een bijkantoor, bedoeld in artikel 6, worden voor de toepassing van de Regeling: 
 
-a. als in [artikel 108, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bedoelde (passief)posten aangemerkt de passiefposten voortvloeiende uit de vanuit dat bijkantoor aangegane verplichtingen jegens derden;  
+a. als in artikel 108, eerste lid, van het Besluit bedoelde (passief)posten aangemerkt de passiefposten voortvloeiende uit de vanuit dat bijkantoor aangegane verplichtingen jegens derden;  
 
-b. als in [artikel 111, eerste lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bedoelde (actief)posten aangemerkt de actiefposten die ten genoegen van DNB te allen tijde exclusief ter beschikking staan van dat bijkantoor, ter nakoming van de vanuit dat bijkantoor aangegane verplichtingen jegens derden.     
-2.  DNB acht de in overeenstemming met het eerste lid en met [artikel 2, eerste lid, van de Regeling](../../../../../../zbo/regeling/liquiditeit/wft/2011/BWBR0028903/README.md) berekende liquiditeit pas voldoende, indien de bank, bedoeld in artikel 6, tevens aantoont dat het risicobeheer van de bank gericht op het beheersen van het liquiditeitsrisico naar genoegen van DNB voldoende rekening houdt met criteria die ten minste gelijkwaardig zijn aan de technische criteria voor de organisatie en behandeling van het liquiditeitsrisico, bedoeld in bijlage V, punt 10, van de herziene richtlijn banken.  
+b. als in artikel 111, eerste lid, van het Besluit bedoelde (actief)posten aangemerkt de actiefposten die ten genoegen van DNB te allen tijde exclusief ter beschikking staan van dat bijkantoor, ter nakoming van de vanuit dat bijkantoor aangegane verplichtingen jegens derden.     
+2.  DNB acht de in overeenstemming met het eerste lid en met artikel 2, eerste lid, van de Regeling berekende liquiditeit pas voldoende, indien de bank, bedoeld in artikel 6, tevens aantoont dat het risicobeheer van de bank gericht op het beheersen van het liquiditeitsrisico naar genoegen van DNB voldoende rekening houdt met criteria die ten minste gelijkwaardig zijn aan de technische criteria voor de organisatie en behandeling van het liquiditeitsrisico, bedoeld in bijlage V, punt 10, van de herziene richtlijn banken.  
 
 ### Paragraaf  4  
 

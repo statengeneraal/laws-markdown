@@ -69,8 +69,6 @@ Wijzigt de Cessantiawet BES.
 
 ####Faillissementswet
 
-Treedt in werking per 01-07-2015 
-
 Wijzigt de Faillissementswet. 
 
 ### Artikel  VII  
@@ -190,8 +188,6 @@ Wijzigt de Wet maatregelen Wet werk en bijstand en enkele andere wetten.
 ### Artikel  XXI  
 
 ####Wet melding collectief ontslag
-
-Treedt in werking per 01-07-2015 
 
 Wijzigt de Wet melding collectief ontslag. 
 

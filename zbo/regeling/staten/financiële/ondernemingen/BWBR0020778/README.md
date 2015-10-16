@@ -190,18 +190,19 @@ Ligt ter inzage bij de Nederlandsche Bank N.V.
 
 ### Bijlage 6  
 
-####Bijlage bij artikel 2:2, eerste lid , van de Regeling staten financiële ondernemingen Wft frequentie en indieningstermijn staten
+####bij artikel 2:2, eerste lid  – Frequentie en indieningstermijn staten
 
 ### 6.1  
 
 ####Banken en clearinginstellingen in Nederland
 
-|--- | Een bank, een opt-in bank en clearinginstelling als bedoeld in artikel 3:4, artikel 3:72, eerste lid van de Wft.  | Bijkantoren  | Formulieren (set)  | Frequentie  | Indieningstermijn  | Geconsolideerd  | Gesubconsolideerd  | Solo  | Bijkantoor als bedoeld in art. 3:75 of 3:77 Wft  | Bijkantoor als bedoeld in art. 3:82 Wft  |
+|--- |  *Een bank, opt-in bank (art. 3:4) en clearinginstelling, als bedoeld in art. 3:72 lid 1 Wft *   |  *Bijkantoren *   |  *Formulieren (set)*   |  *Frequentie *   |  *Indienings- termijn *   |  *Geconso-*    *lideerd *   |  *Gesubconso- lideerd *   |  *Solo *   |  *EER-bijkantoor als bedoeld in art. 3:77 Wft *   |  *Niet-EER bijkantoor als bedoeld in art. 3:82*    *lid 1 Wft *   |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Uitvraag financiële informatie als bedoeld in artikel 99 CRR en nader uitgewerkt in Annex IV van de technische uitvoeringsnorm inzake rapportages van EBA o.g.v. art. 99 vijfde lid CRR  | Kwartaal  | Als bedoeld in de technische uitvoeringsnormen inzake prudentiële rapportages van EBA (1)  | Ja  | Nee  | Nee  | Nee, m.u.v. de staten van Part 1, F01.01 t/m 02.00.  | Nee, m.u.v. de staten van Part 1, F01.01 t/m 02.00.  |
 | 8017  | Incidenteel  | n/a  | Ja  | Nee  | Nee  | Nee  | Nee  |
-| 8028  | Maand  | Uiterlijk op de laatste werkdag van de maand, volgend op de verslagperiode (2)  | Ja  | Nee  | Nee  | Ja  | Ja  |
-| 8029  | Maand  | Idem (2)  | Ja  | Nee  | Nee  | Ja  | Ja  |
+| LCR rapportages overeenkomstig art. 415 CRR, als bedoeld in art. 15 van Uitvoerings-verordening (EU) nr. 680/2014  | Maand  | Als bedoeld in de technische uitvoerings-normen inzake prudentiële rapportages van EBA  | Ja  | Ja  | Ja  | Op verzoek (*by request*), met het oog op toepassing van art. 153 tot en met 159 CRD IV  | Nee *  * Ja, vanaf het definitief van kracht worden van EBA Final Draft Amending ITS on LCR Reporting  |
+|  *Nieuwe *LCR rapportages, als bedoeld in de EBA Final Draft Amending ITS on LCR Reporting  | Kwartaal  | Ja  | Ja  | Ja  | Ja  |
+| 8028  Staat/formulier Liquiditeits-toetsing  |  *T/m verslag-periode december 2016:* Maand  | Uiterlijk op de laatste werk-dag van de maand, volgend op de verslag-periode  | Banken met zetel in Nederland, op het hoogste consolidatieniveau in Nederland  | Nee  | Nee  | --- | --- |
 | Concentratie op sectoren  | Jaar  | Idem (2)  | Ja  | Nee  | Nee  | Nee  | Nee  |
 | Renterisicorapportage  | Kwartaal  | Idem (2)  | Ja  | Nee  | Nee  | Nee  | Nee  |
 | G-SIB rapportage  | Week en maand  | Voor de weekrapportage: uiterlijk op de derde dag volgend op de verslagperiode. Voor de maandrapportage: uiterlijk op de vijfde dag volgend op de verslagperiode.  | Ja  | Nee  | Nee  | Nee  | Nee  |
@@ -384,7 +385,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 
 ### Bijlage 7  
 
-####bij artikel 2:5  van de Regeling staten financiële ondernemingen Wft
+####bij artikel 2:5  – Overzicht van de staten die de accountant betrekt bij zijn onderzoek
 
 ####Overzicht van de staten die de accountant betrekt bij zijn onderzoek
 
@@ -392,7 +393,7 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 
 ####Banken en clearinginstellingen als bedoeld in artikel 3:72, eerste lid, van de wet en bijkantoren als bedoeld in artikel 3:75, 3:77 of 3:82 van de wet
 
-| Formulieren(set)  | Een bank, een opt-in bank en clearinginstelling als bedoeld in artikel 3:4, artikel 3:72, eerste lid van de Wft  | Bijkantoor als bedoeld in art. 3:75 of 3:77 Wft  | Bijkantoor als bedoeld in art. 3:82 Wft  |--- | Certificering  | Certificering  |
+| Formulieren(set)  | Een bank, opt-in bank (art. 3:4) en clearinginstelling, als bedoeld  in artikel 3:72 lid 1 Wft  | EER-bijkantoor als bedoeld in art. 3:77 Wft  | Niet-EER bijkantoor als bedoeld in art. 3:82 lid 1 Wft  |--- | Certificering  | Certificering  |
 |:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- |
 |  *Eigen vermogensvereiste als bedoeld in artikel 99 CRR en uitgewerkt in Annex 1 van de technische uitvoeringsnorm inzake rapportages van EBA o.g.v. art. 99 vijfde lid CRR*   | Ja  | nvt  |
@@ -411,8 +412,6 @@ C. Nederlandse beheerder van een beleggingsinstelling als bedoeld in artikel 2:6
 | --- | --- | --- |
 |  *Nationale rapportages (Regeling Staten)*   | --- | --- |
 | 8017  | Nee  | Nee  |
-| 8028  | Ja  | Nee  |
-| 8029  | Ja  | Nee  |
 | Concentratie op sectoren  | Nee  | Nvt  |
 | Renterisicorapportage  | Ja **  | Nvt  |
 | G-SIB rapportage  | Nee  | Nee  |

@@ -10,11 +10,15 @@ Besluit:
 
 ####Begripsbepalingen
 
+Materieel uitgewerkt per 16-10-2015 
+
 In deze beschikking wordt verstaan onder: registratie: de geautomatiseerde verzameling van gegevens met betrekking tot de toepassing van het militaire tuchtrechthouder: bevelhebber der Zeestrijdkrachtenbewerker: hoofd Bureau Militair Juridische Zakenuitvoerder: hoofd van het Duyverman Computer Centrum. 
 
 ### Artikel  2  
 
 ####Doelstelling en gebruik
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  Het doel van de registratie is het vervaardigen van overzichten ten behoeve van het nemen van rechtspositionele- en justitiële beslissingen en het uitoefenen van controle op de juiste wetstoepassing.   
 2.  De in de registratie opgenomen gegevens worden voor geen andere doeleinden gebruikt dan die met de in het eerste lid omschreven doelstelling verenigbaar zijn.  
@@ -23,11 +27,15 @@ In deze beschikking wordt verstaan onder: registratie: de geautomatiseerde verza
 
 ####In de registratie opgenomen gegevens
 
+Materieel uitgewerkt per 16-10-2015 
+
 De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermeld. 
 
 ### Artikel  4  
 
 ####Functioneren van de registratie
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De bewerker ontvangt de desbetreffende opgemaakte formulieren, vertaalt een aantal verbale gegevens in code en controleert de ingevulde rubrieken op volledigheid. De bewerker verzorgt de omzetting van de aangeboden formulieren naar een machinaal leesbare gegevensdrager en draagt deze over aan de uitvoerder. De uitvoerder handelt overeenkomstig de voorschriften die de houder na overleg met hem opstelt.   
 2.  De uitvoerder draagt zorg voor de verwerking van de mutaties. Hij handelt hierbij overeenkomstig de voorschriften die de bewerker na overleg met hem opstelt. De bewerker draagt zorg voor een verantwoorde controle, zowel op de nauwkeurigheid van de mutaties als op de verwerking daarvan in het bestand.   
@@ -36,6 +44,8 @@ De registratie kan ten hoogste bevatten de gegevens die in bijlage A zijn vermel
 ### Artikel  5  
 
 ####Verstrekken van gegevens
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De in de registratie opgenomen gegevens worden door de houder in het kader van de in artikel 2 aangegeven doelstellingen gebruikt.   
 2.  Verstrekking van gegevens vindt – op aanvraag – plaats aan: 
@@ -52,11 +62,15 @@ d. de geregistreerde, op diens verzoek, voor zover het gaat om uitoefening van h
 
 ####Toegang tot de registratie
 
+Materieel uitgewerkt per 16-10-2015 
+
 Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het kader van de hun opgedragen werkzaamheden, de door de houder aangewezen personen alsmede ambtenaren van de Algemene Rekenkamer. 
 
 ### Artikel  7  
 
 ####Recht op kennisneming
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De geregistreerde heeft recht op kosteloze kennisneming van de omtrent hem geregistreerde gegevens, op de wijze als in de volgende leden bepaald.   
 2.  Een geregistreerde, die wil kennisnemen van de omtrent hem geregistreerde gegevens, wendt zich schriftelijk tot de houder.   
@@ -65,6 +79,8 @@ Rechtstreeks toegang tot de registratie hebben uitsluitend en slechts binnen het
 ### Artikel  8  
 
 ####Verzoek tot correctie van gegevens
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De geregistreerde heeft het recht om correctie te vragen van de registratie indien naar zijn oordeel de opgenomen gegevens onjuist zijn of ten onrechte in de registratie zijn opgenomen danwel gegevens ontbreken die daarin wel opgenomen hadden moeten zijn.   
 2.  Indien de geregistreerde gebruik wil maken van zijn recht om correctie te vragen, dient hij een verzoek in bij de houder. In dat verzoek vermeldt hij de gegevens, die naar zijn mening niet juist in de registratie zijn vermeld danwel verwijderd of opgenomen moeten worden, met vermelding van de reden van de gewenste correctie.   
@@ -83,11 +99,15 @@ d. indien hij van mening is dat er geen aanleiding bestaat de registratie te cor
 
 ####Beveiliging
 
+Materieel uitgewerkt per 16-10-2015 
+
 De houder en de bewerker zien er op toe dat ten aanzien van de organisatie en beveiliging alle maatregelen genomen worden die zijn voorgeschreven in de Aanwijzingen van de minister-president van 16 juli 1982 (Stcrt. 1982, 156), inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid, met dien verstande dat met betrekking tot het Duyverman Computer Centrum de uitvoerder op een en ander toeziet. 
 
 ### Artikel  10  
 
 ####Bewaartermijnen
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  De tuchtrechtelijke gegevens worden na 6 jaren uit de registratie verwijderd.   
 2.  De tuchtrechtelijke gegevens worden op onderdeelsniveau na 1 jaren verwijderd.   
@@ -103,6 +123,8 @@ c. de gegevens worden verwijderd bij een effectieve bevordering van een vrijwill
 
 ####Inzage van de regeling
 
+Materieel uitgewerkt per 16-10-2015 
+
 1.  Deze regeling ligt voor iedereen ter inzage bij: 
 
 a. het Bureau Militair Juridische Zaken van de Marinestaf 
@@ -116,6 +138,8 @@ c. de Centrale Bibliotheek van het Ministerie van Justitie
 ### Artikel  12  
 
 ####Slotbepalingen
+
+Materieel uitgewerkt per 16-10-2015 
 
 1.  Deze beschikking kan worden aangehaald als ‘Privacy-regeling centrale registratie tuchtrechtelijke gegevens Koninklijke Marine 1985’ en vervangt mijn beschikking van 29 mei 1978, nr. 389.269/13X.   
 2.  Deze regeling treedt in werking met ingang van 1 november 1985 en zal worden gepubliceerd in de Nederlandse Staatscourant.  
@@ -135,6 +159,8 @@ P. C. de Man
 ### Bijlage  A  
 
 ####Samenstelling registratie
+
+Materieel uitgewerkt per 16-10-2015 
 
 a. commandementsrol, eenheid waar het formulier bewaard wordt 
 
@@ -179,5 +205,6 @@ f. wel of geen rapport art. 8 RZ
 a. wel/geen vertrouwensman  
 
 ### Bijlage  B  
+Materieel uitgewerkt per 16-10-2015 
 
 P. M. 

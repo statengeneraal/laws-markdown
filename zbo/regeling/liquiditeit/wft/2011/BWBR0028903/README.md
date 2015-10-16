@@ -5,13 +5,13 @@
 De Nederlandsche Bank N.V.,  
 Na raadpleging van de betrokken representatieve organisaties;
 
-Gelet op [artikel 1:28, tweede lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op artikel 1:28, tweede lid, van de Wet op het financieel toezicht;
 
-Gelet op [artikel 3:18a van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op artikel 3:18a van de Wet op het financieel toezicht;
 
-Gelet op de definitie van ‘officiële stand-by faciliteiten’ in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op de definitie van ‘officiële stand-by faciliteiten’ in artikel 1 van het Besluit prudentiële regels Wft;
 
-Gelet op [hoofdstuk 11 – Liquiditeit – van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), in het bijzonder [artikel 108, tweede lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), en [artikel 111, zesde lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op hoofdstuk 11 – Liquiditeit – van het Besluit prudentiële regels Wft, in het bijzonder artikel 108, tweede lid, en artikel 111, zesde lid;
 
 Gelet op richtlijn nr. 2009/111/EG van het Europees Parlement en de Raad van 16 september 2009 tot wijziging van de Richtlijnen 2006/48/EG, 2006/49/EG en 2007/64/EG wat betreft banken die zijn aangesloten bij centrale instellingen, bepaalde eigenvermogensbestanddelen, grote posities, het toezichtkader en het crisisbeheer (PbEU L 302);
 Besluit:    
@@ -20,9 +20,9 @@ Besluit:
 
 In deze regeling en de Bijlage wordt verstaan onder: 
 
-a. *Besluit:* het [Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+a. *Besluit:* het Besluit prudentiële regels Wft;  
 
-b. *Rsk 2010:* de [Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md);  
+b. *Rsk 2010:* de Regeling solvabiliteitseisen kredietrisico en grote posities Wft 2010;  
 
 c. *DNB:* De Nederlandsche Bank N.V.;  
 
@@ -30,13 +30,13 @@ d. *ECB:* de Europese Centrale Bank;
 
 e. *erkende centrale bank:* de ECB of de nationale centrale bank van een staat met een convertibele valuta;  
 
-f. *convertibele valuta:* convertibele valuta als bedoeld in [artikel 1 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), alsmede de valuta van Hong Kong en Singapore;  
+f. *convertibele valuta:* convertibele valuta als bedoeld in artikel 1 van het Besluit, alsmede de valuta van Hong Kong en Singapore;  
 
-g. *equivalente schuldinstrumenten:* verhandelbare schuldinstrumenten die vorderingen zijn op of gegarandeerd zijn door publiekrechtelijke lichamen, als bedoeld in [artikel 1:1, onderdeel r, van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md), de Bank for International Settlements, het Internationale Monetaire Fonds, de Europese Commissie, en de multilaterale ontwikkelingsbanken, bedoeld in [Bijlage 2C van de Rsk 2010](../../../../../../zbo/regeling/solvabiliteitseisen/voor/het/kredietrisico/BWBR0020764/README.md).   
+g. *equivalente schuldinstrumenten:* verhandelbare schuldinstrumenten die vorderingen zijn op of gegarandeerd zijn door publiekrechtelijke lichamen, als bedoeld in artikel 1:1, onderdeel r, van de Rsk 2010, de Bank for International Settlements, het Internationale Monetaire Fonds, de Europese Commissie, en de multilaterale ontwikkelingsbanken, bedoeld in Bijlage 2C van de Rsk 2010.   
 
 ### Artikel  2  
 
-1.  De liquiditeitsposten en de weging daarvan, bedoeld in [artikel 108, tweede lid](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), en [artikel 111, zesde lid, van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), worden vastgesteld zoals opgenomen in de Bijlage bij deze regeling.   
+1.  De liquiditeitsposten en de weging daarvan, bedoeld in artikel 108, tweede lid, en artikel 111, zesde lid, van het Besluit, worden vastgesteld zoals opgenomen in de Bijlage bij deze regeling.   
 2.  In afwijking van het eerste lid kan DNB, indien zij de in overeenstemming met het eerste lid berekende liquiditeit van een bank of clearinginstelling onvoldoende acht, voor deze onderneming een aanvullende liquiditeitseis vaststellen.   
 3.  Bij de toepassing van het tweede lid neemt DNB onder meer de volgende aspecten in aanmerking: 
 
@@ -50,7 +50,7 @@ d. de mate waarin de terugvloeiing van gelden naar de onderneming uit vorderinge
 
 ### Artikel  3  
 
-1.  Een liquiditeitsgarantie die is ontvangen van een binnenlandse of buitenlandse bank wordt slechts door DNB erkend als officiële stand-by faciliteit als bedoeld in [artikel 1 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), indien aan de volgende voorwaarden wordt voldaan: 
+1.  Een liquiditeitsgarantie die is ontvangen van een binnenlandse of buitenlandse bank wordt slechts door DNB erkend als officiële stand-by faciliteit als bedoeld in artikel 1 van het Besluit, indien aan de volgende voorwaarden wordt voldaan: 
 
 a. op de faciliteit kan onmiddellijk worden getrokken;  
 
@@ -73,7 +73,7 @@ g. de overeenkomst voor de liquiditeitsgarantie is door DNB goedgekeurd en bij w
 h. de overeenkomst voor de liquiditeitsgarantie is opgesteld in de Nederlandse taal of gaat vergezeld van een gelegaliseerde vertaling in de Nederlandse taal; en  
 
 i. op de overeenkomst is uitsluitend Nederlands recht van toepassing verklaard en is de Rechtbank Amsterdam bij uitsluiting bevoegd verklaard.     
-2.  Een liquiditeitsgarantie die is afgegeven door een binnenlandse of buitenlandse bank wordt slechts door DNB erkend als officiële stand-by faciliteit als bedoeld in [artikel 1 van het Besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), indien deze liquiditeitsgarantie wordt afgegeven: 
+2.  Een liquiditeitsgarantie die is afgegeven door een binnenlandse of buitenlandse bank wordt slechts door DNB erkend als officiële stand-by faciliteit als bedoeld in artikel 1 van het Besluit, indien deze liquiditeitsgarantie wordt afgegeven: 
 
 a. aan een binnenlandse bank of clearinginstelling en aantoonbaar wordt voldaan aan de voorwaarden gesteld in het eerste lid; of  
 
@@ -81,7 +81,7 @@ b. aan een buitenlandse bank of clearinginstelling en aantoonbaar wordt voldaan 
 
 ### Artikel  4  
 
-De [Regeling liquiditeit Wft](../../../../../../zbo/regeling/liquiditeit/wft/BWBR0020673/README.md) (Stcrt. 2006, 244) wordt met ingang van 1 mei 2011 ingetrokken. 
+De Regeling liquiditeit Wft (Stcrt. 2006, 244) wordt met ingang van 1 mei 2011 ingetrokken. 
 
 ### Artikel  5  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 17 december 2012, kenmerk: FM 2012/1882 M, houdende regels ten aanzien van samenwerking en informatieverstrekking binnen het Europese Systeem voor financieel toezicht en met de tot dat systeem behorende instanties of de Europese Commissie (Regeling grensoverschrijdende samenwerking financiële toezichthouders)
 
 De Minister van Financiën,  
-Gelet op [artikel 1:69, derde lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op artikel 1:69, derde lid, van de Wet op het financieel toezicht;
 Besluit:    
 
 ### Artikel  1  
@@ -18,7 +18,7 @@ In deze regeling wordt verstaan onder:
 
 *verordening 1094/2010:* verordening (EU) nr. 1094/2010 van het Europees Parlement en de Raad van 24 november 2010 tot oprichting van een Europese toezichthoudende autoriteit (Europese Autoriteit voor verzekeringen en bedrijfspensioenen), tot wijziging van Besluit nr. 716/2009/EG en tot intrekking van Besluit 2009/79/EG van de Commissie (PbEU 2010, L 331);  
 
-*wet:* [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+*wet:* Wet op het financieel toezicht.   
 
 ### Artikel  1a  
 
@@ -45,7 +45,7 @@ De Nederlandsche Bank neemt bij de uitvoering van haar taak op grond van de wet 
 
 ### Artikel  2  
 
-De Nederlandsche Bank en de Autoriteit Financiële Markten nemen bij de uitvoering van hun taken op grond van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de in onderstaande tabel genoemde richtlijnbepalingen betreffende samenwerking en informatieverstrekking in acht.  Tabel 2. Grensoverschrijdende samenwerking en informatieverstrekking toezichthouders 
+De Nederlandsche Bank en de Autoriteit Financiële Markten nemen bij de uitvoering van hun taken op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen betreffende samenwerking en informatieverstrekking in acht.  Tabel 2. Grensoverschrijdende samenwerking en informatieverstrekking toezichthouders 
 
 |    | Relevante richtlijnbepalingen:  | Korte omschrijving:  |
 |:---|:---|:---|
@@ -200,7 +200,7 @@ Een wijziging van de in de artikelen 1a, 2 en 3 genoemde richtlijnbepalingen gaa
 
 ### Artikel  5  
 
-Deze regeling berust mede op de [artikelen 1:24, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [1:51e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:65, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Deze regeling berust mede op de artikelen 1:24, vierde lid, 1:51e en 1:65, zesde lid, van de wet. 
 
 ### Artikel  6  
 

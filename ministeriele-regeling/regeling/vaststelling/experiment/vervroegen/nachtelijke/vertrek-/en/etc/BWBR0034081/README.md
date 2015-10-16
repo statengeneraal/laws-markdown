@@ -16,7 +16,9 @@ a.  *LVB:* Luchthavenverkeerbesluit Schiphol;
 
 b.  *het experiment:* het experiment waarbij het gebruik van de nachtelijke vertrek- en naderingsprocedures wordt vervroegd;  
 
-c.  *gebruiksjaar 2014:* tijdvak van 1 november 2013 tot en met 31 oktober 2014.   
+c.  *gebruiksjaar 2014:* tijdvak van 1 november 2013 tot en met 31 oktober 2014;  
+
+d.  *gebruiksjaar 2015:* tijdvak van 1 november 2014 tot en met 31 oktober 2015.  
 
 ### Artikel  2  
 
@@ -34,7 +36,7 @@ Voor de duur van het experiment wordt voor de periode tussen 22.30 uur en 23.00 
 
 ####Grenswaarden
 
-In plaats van de grenswaarden, genoemd in bijlage 2 van het LVB gelden ter uitvoering van dit experiment voor het gebruiksjaar 2014 voor in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten etmaal L<sub>den</sub> [dB(A)] 
+In plaats van de grenswaarden, genoemd in bijlage 2 van het LVB gelden ter uitvoering van dit experiment voor het gebruiksjaar 2014 en het gebruiksjaar 2015 voor in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten etmaal L<sub>den</sub> [dB(A)] 
 
 | Puntnummer  | X-coörd  | Y-coörd  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -114,14 +116,14 @@ In onvoorziene gevallen kan na advies van een of meer belanghebbenden de Ministe
 
 ####Termijn experiment
 
-De termijn van het experiment betreft het gebruiksjaar 2014. 
+De termijn van het experiment betreft het gebruiksjaar 2014. De termijn van het op grond van artikel 8.23a, vijfde lid, van de Wet luchtvaart verlengde experiment betreft het gebruiksjaar 2015. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van 1 november 2013.   
-2.  Indien de regeling niet is verlengd op grond van artikel 8.23a, vijfde of zesde lid, van de Wet luchtvaart, vervalt de regeling met ingang van 1 november 2014.  
+2.  Indien de regeling niet is verlengd op grond van artikel 8.23a, zesde lid, van de Wet luchtvaart, vervalt de regeling met ingang van 1 november 2015.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
