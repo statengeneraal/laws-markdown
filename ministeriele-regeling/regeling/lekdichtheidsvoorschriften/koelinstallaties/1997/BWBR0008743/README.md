@@ -44,7 +44,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  8a  
 
-Deze regeling berust op [artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen milieubeheer](../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) of [artikel 1, tweede lid, van het Besluit broeikasgassen in apparatuur op schepen milieubeheer](../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md).
+Deze regeling berust op artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen milieubeheer of artikel 1, tweede lid, van het Besluit broeikasgassen in apparatuur op schepen milieubeheer.
 
 ### Artikel  9  
 

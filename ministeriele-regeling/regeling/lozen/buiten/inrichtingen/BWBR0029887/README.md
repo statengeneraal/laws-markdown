@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu van 11 april 2011, nr. BJZ2011041742, houdende algemene regels voor lozen anders dan vanuit een inrichting (Regeling lozen buiten inrichtingen)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op de [artikelen 1.5](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md), [3.6, zesde lid](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md), [3.10, tweede en twaalfde lid](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md), [3.13, tweede lid](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) en [3.17, tweede lid van het Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) en de [artikelen 1.7](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.6a van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);
+Gelet op de artikelen 1.5, 3.6, zesde lid, 3.10, tweede en twaalfde lid, 3.13, tweede lid en 3.17, tweede lid van het Besluit lozen buiten inrichtingen en de artikelen 1.7 en 3.6a van het Besluit algemene regels voor inrichtingen milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1.1  
 
-In deze regeling wordt verstaan onder besluit: [Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md). 
+In deze regeling wordt verstaan onder besluit: Besluit lozen buiten inrichtingen. 
 
 ### Artikel  1.2  
 
@@ -88,7 +88,7 @@ In deze regeling wordt verstaan onder besluit: [Besluit lozen buiten inrichtinge
 *NEN-ISO 5814: NEN-ISO 5814:1993:* Internationale standaardnorm voor Water – Bepaling van het gehalte aan opgeloste zuurstof – Elektrochemische methode, mei 1993;  
 
 *NEN/ISO 9096: NEN/ISO 9096:2003:* Internationale standaardnorm voor Emissie van stationaire bronnen – Bepaling van de concentratie aan vaste deeltjes, maart 2003.     
-2.  Bij de toepassing van het [besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt ten aanzien van de in het besluit genoemde niet-publiekrechtelijke regelingen de tekst in acht genomen genoemd in het eerste lid.  
+2.  Bij de toepassing van het besluit wordt ten aanzien van de in het besluit genoemde niet-publiekrechtelijke regelingen de tekst in acht genomen genoemd in het eerste lid.  
 
 ### Hoofdstuk  2  
 
@@ -100,7 +100,7 @@ In deze regeling wordt verstaan onder besluit: [Besluit lozen buiten inrichtinge
 
 ### Artikel  2.1  
 
-Een zuiveringsvoorziening als bedoeld in [artikel 3.6, zesde lid, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) voldoet aan de artikelen 2.2 en 2.3. 
+Een zuiveringsvoorziening als bedoeld in artikel 3.6, zesde lid, van het besluit voldoet aan de artikelen 2.2 en 2.3. 
 
 ### Artikel  2.2  
 
@@ -140,7 +140,7 @@ e.  *stoffen:* afvalstoffen, verontreinigende of schadelijke stoffen, die bij re
 
 ### Artikel  2.5  
 
-1.  Als reinigingswerkzaamheden als bedoeld in [artikel 3.10, tweede lid, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden aangewezen: 
+1.  Als reinigingswerkzaamheden als bedoeld in artikel 3.10, tweede lid, van het besluit worden aangewezen: 
 
 a. R1-technieken;  
 
@@ -223,7 +223,7 @@ e. mechanisch hoge druk water(grit)stralen.
 
 ### Artikel  2.6  
 
-1.  Als conserveringswerkzaamheden als bedoeld in [artikel 3.10, tweede lid, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden aangewezen: 
+1.  Als conserveringswerkzaamheden als bedoeld in artikel 3.10, tweede lid, van het besluit worden aangewezen: 
 
 a. C1-technieken;  
 
@@ -256,7 +256,7 @@ d. twee componenten spuiten.
 
 ### Artikel  2.7  
 
-1.  Als stoffen als bedoeld in [artikel 3.10, tweede lid, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden aangewezen: 
+1.  Als stoffen als bedoeld in artikel 3.10, tweede lid, van het besluit worden aangewezen: 
 
 a. stoffen uit categorie A;  
 
@@ -336,7 +336,7 @@ Indien reinigingswerkzaamheden of conserveringswerkzaamheden worden uitgevoerd a
 
 ### Artikel  2.16  
 
-Voor de toepassing van [artikel 3.13, tweede lid van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden in ieder geval de volgende goederen als inerte goederen beschouwd, voor zover deze niet verontreinigd zijn met bodembedreigende stoffen: 
+Voor de toepassing van artikel 3.13, tweede lid van het besluit worden in ieder geval de volgende goederen als inerte goederen beschouwd, voor zover deze niet verontreinigd zijn met bodembedreigende stoffen: 
 
 a. schoon, onbehandeld hout;  
 
@@ -358,7 +358,7 @@ i. vlakglas.
 
 ### Artikel  2.17  
 
-Aan [artikel 3.13, vierde lid, onder c, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt bij het opslaan van goederen in de buitenlucht in ieder geval voldaan indien: 
+Aan artikel 3.13, vierde lid, onder c, van het besluit wordt bij het opslaan van goederen in de buitenlucht in ieder geval voldaan indien: 
 
 a. op de laad- en loskade tot 2 meter uit de kaderand of oever geen opslag van goederen plaatsvindt, of  
 
@@ -366,7 +366,7 @@ b. er een deugdelijke keerwand aanwezig is en er geen product tussen de keerwand
 
 ### Artikel  2.18  
 
-1.  Aan [artikel 3.13, vierde lid, onder c, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt bij het laden en lossen van schepen met inerte goederen in ieder geval voldaan indien: 
+1.  Aan artikel 3.13, vierde lid, onder c, van het besluit wordt bij het laden en lossen van schepen met inerte goederen in ieder geval voldaan indien: 
 
 a. bij het laden en lossen van inerte goederen de afstand tussen wal en schip zo klein mogelijk is, en in ieder geval niet groter is dan 5 meter, of  
 
@@ -383,15 +383,15 @@ b. boven een doelmatige fysieke voorziening die vrijgekomen stoffen keert zolang
 
 ### Artikel  2.20  
 
-Aan [artikel 3.13, vierde lid, onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt bij het opslaan van goederen in de buitenlucht behorend tot de stuifklasse S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien de stoffen door besproeiing vochtig worden gehouden. 
+Aan artikel 3.13, vierde lid, onder a en b, van het besluit wordt bij het opslaan van goederen in de buitenlucht behorend tot de stuifklasse S2 van bijlage 4.6 van de NeR in ieder geval voldaan indien de stoffen door besproeiing vochtig worden gehouden. 
 
 ### Artikel  2.21  
 
-Aan [artikel 3.13, vierde lid, onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt bij het mengen van goederen behorend tot de stuifklasse S2 en S4 van bijlage 4.6 van de NeR in de buitenlucht in ieder geval voldaan indien bij het opbouwen en afgraven van een menghoop deze goederen worden bevochtigd. 
+Aan artikel 3.13, vierde lid, onder a en b, van het besluit wordt bij het mengen van goederen behorend tot de stuifklasse S2 en S4 van bijlage 4.6 van de NeR in de buitenlucht in ieder geval voldaan indien bij het opbouwen en afgraven van een menghoop deze goederen worden bevochtigd. 
 
 ### Artikel  2.22  
 
-Aan [artikel 3.13, vierde lid 4, onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) wordt bij overslag van stuifgevoelige goederen in ieder geval voldaan indien: 
+Aan artikel 3.13, vierde lid 4, onder a en b, van het besluit wordt bij overslag van stuifgevoelige goederen in ieder geval voldaan indien: 
 
 a. bij het laden en lossen in de open lucht de storthoogte wordt beperkt tot minder dan één meter, of  
 
@@ -401,7 +401,7 @@ c. de stofemissie van goederen uit de stuifklasse S2 en S4 van bijlage 4.6 van d
 
 ### Artikel  2.23  
 
-Onverminderd artikel 2.22 wordt aan [artikelen 3.13, vierde lid onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) bij het verladen van goederen behorend tot: 
+Onverminderd artikel 2.22 wordt aan artikelen 3.13, vierde lid onder a en b, van het besluit bij het verladen van goederen behorend tot: 
 
 a. stuifklasse S2 van bijlage 4.6 van de NeR door middel van storttrechters in ieder geval voldaan indien de goederen worden bevochtigd met behulp van een doelmatig werkende watersproei-installatie;  
 
@@ -411,11 +411,11 @@ c. stuifklasse S4 van bijlage 4.6 van de NeR door middel van storttrechters in i
 
 ### Artikel  2.24  
 
-Onverminderd artikel 2.22 wordt aan [artikel 3.13, vierde lid, onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) bij het laden en lossen van goederen behorend tot stuifklasse S1, S2 en S3 van bijlage 4.6 van de NeR met behulp van grijpers in ieder geval voldaan indien het laden en lossen plaatsvindt met deugdelijke en van de bovenkant afgesloten grijpers. 
+Onverminderd artikel 2.22 wordt aan artikel 3.13, vierde lid, onder a en b, van het besluit bij het laden en lossen van goederen behorend tot stuifklasse S1, S2 en S3 van bijlage 4.6 van de NeR met behulp van grijpers in ieder geval voldaan indien het laden en lossen plaatsvindt met deugdelijke en van de bovenkant afgesloten grijpers. 
 
 ### Artikel  2.25  
 
-Onverminderd artikel 2.22 wordt aan [artikel 3.13, vierde lid, onder a en b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) bij het beladen en lossen van lichters met goederen behorend tot de stuifklasse S1, S2, S3 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien de lichterbelader is uitgerust met een stortkoker die nagenoeg tot op de bodem van het ruim of tot op het reeds gestorte materiaal reikt. 
+Onverminderd artikel 2.22 wordt aan artikel 3.13, vierde lid, onder a en b, van het besluit bij het beladen en lossen van lichters met goederen behorend tot de stuifklasse S1, S2, S3 en S4 van bijlage 4.6 van de NeR in ieder geval voldaan indien de lichterbelader is uitgerust met een stortkoker die nagenoeg tot op de bodem van het ruim of tot op het reeds gestorte materiaal reikt. 
 
 ### §  2.4  
 
@@ -423,7 +423,7 @@ Onverminderd artikel 2.22 wordt aan [artikel 3.13, vierde lid, onder a en b, van
 
 ### Artikel  2.26  
 
-Als interventiewaarde als bedoeld in [artikel 3.17, tweede lid, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) gelden de waarden die met betrekking tot de in die tabel genoemde stoffen zijn opgenomen in tabel 2 van [bijlage B, behorende bij de Regeling bodemkwaliteit](../../../../../../ministeriele-regeling/regeling/bodemkwaliteit/BWBR0023085/README.md). 
+Als interventiewaarde als bedoeld in artikel 3.17, tweede lid, van het besluit gelden de waarden die met betrekking tot de in die tabel genoemde stoffen zijn opgenomen in tabel 2 van bijlage B, behorende bij de Regeling bodemkwaliteit. 
 
 ###Hoofdstuk 2a 
 
@@ -431,8 +431,8 @@ Als interventiewaarde als bedoeld in [artikel 3.17, tweede lid, van het besluit]
 
 ### Artikel  2a.1  
 
-1.  Voor het bijhouden van een registratie met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem overeenkomstig [artikel 3a.8, eerste lid, onder a, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 0,3°C en een frequentie van ten minste eenmaal per 15 minuten.   
-2.  Voor het bijhouden en registreren van gegevens met betrekking tot een gesloten bodemenergiesysteem overeenkomstig [artikel 3a.8, eerste lid, onder b, van het besluit](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 5 % en een frequentie van ten minste eenmaal per 15 minuten.  
+1.  Voor het bijhouden van een registratie met betrekking tot het in werking hebben van een gesloten bodemenergiesysteem overeenkomstig artikel 3a.8, eerste lid, onder a, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 0,3°C en een frequentie van ten minste eenmaal per 15 minuten.   
+2.  Voor het bijhouden en registreren van gegevens met betrekking tot een gesloten bodemenergiesysteem overeenkomstig artikel 3a.8, eerste lid, onder b, van het besluit worden tijdens de bedrijfsvoering van het systeem momentane metingen uitgevoerd met een nauwkeurigheid van ten minste 5 % en een frequentie van ten minste eenmaal per 15 minuten.  
 
 ### Artikel  2a.2  
 
@@ -441,7 +441,7 @@ waarbij wordt verstaan onder:  *Q<sub>w</sub> *: de door het bodemenergiesysteem
 
 ### Hoofdstuk  3  
 
-####Wijziging van de [Activiteitenregeling milieubeheer](../../../../../../ministeriele-regeling/activiteitenregeling/milieubeheer/BWBR0022830/README.md)
+####Wijziging van de Activiteitenregeling milieubeheer
 
 ### Artikel  3.1  
 
@@ -487,11 +487,11 @@ h. de waterhoogte in een septic tank ten minste 1,2 meter bedraagt en ten hoogst
 
 ### Artikel  4.2  
 
-De [Regeling meldingen Lozingenbesluit Wvo vaste objecten](../../../../../../ministeriele-regeling/regeling/meldingen/lozingenbesluit/wvo/vaste/objecten/BWBR0010252/README.md) wordt ingetrokken. 
+De Regeling meldingen Lozingenbesluit Wvo vaste objecten wordt ingetrokken. 
 
 ### Artikel  4.3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit lozen buiten inrichtingen](../../../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) van 16 maart 2011 (Stb. 153) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Besluit lozen buiten inrichtingen van 16 maart 2011 (Stb. 153) in werking treedt. 
 
 ### Artikel  4.4  
 

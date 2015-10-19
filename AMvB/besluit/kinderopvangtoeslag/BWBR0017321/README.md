@@ -56,18 +56,18 @@ De hoogte van de kinderopvangtoeslag wordt voor iedere kalendermaand afzonderlij
 
 1.  Indien meer dan één kind van een ouder gebruik maakt van kinderopvang, wordt voor de kinderopvangtoeslag onderscheid gemaakt tussen het eerste kind en de overige kinderen.   
 2.  Het kind met het hoogste aantal uren kinderopvang wordt voor de berekening van de hoogte van de kinderopvangtoeslag als eerste kind beschouwd.   
-3.  In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang, wordt het kind met de laagste kosten van kinderopvang als eerste kind beschouwd.   
+3.  In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang, wordt het kind met de hoogste kosten van kinderopvang als eerste kind beschouwd.   
 4.  In het geval meer kinderen van een ouder een zelfde aantal uren gebruik maken van kinderopvang met gelijke kosten van kinderopvang, stelt de inspecteur vast welk kind als eerste kind moet worden beschouwd.  
 
 ### Artikel  4  
 
 1.  De maximum uurprijs bedraagt voor: 
 
-a. dagopvang € 6,46;  
+a. dagopvang € 6,84;  
 
-b. buitenschoolse opvang € 6,02, en  
+b. buitenschoolse opvang € 6,38, en  
 
-c. gastouderopvang € 5,17.     
+c. gastouderopvang € 5,48.     
 2.  Indien de prijs per uur kinderopvang hoger ligt dan de maximum uurprijs wordt bij de bepaling van de hoogte van de kinderopvangtoeslag per kind in plaats van de prijs per uur kinderopvang de maximum uurprijs in aanmerking genomen.  
 
 ### Artikel  5  
@@ -98,8 +98,8 @@ Artikel 7 wordt niet toegepast voor de aanpassing van de bedragen van de toetsin
 
 1.  De kinderopvangtoeslag wordt uitgedrukt in een percentage van de kosten van kinderopvang.   
 2.  De percentages, bedoeld in het eerste lid, worden vermeld in bijlage I.   
-3.  Indien het toetsingsinkomen, bedoeld in artikel 6, € 86.582 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in artikel 3, een kinderopvangtoeslag waarvan de hoogte minder dan 33,3 procent van die kosten betreft.   
-4.  Indien het toetsingsinkomen, bedoeld in artikel 6, € 103.574 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in artikel 3, een kinderopvangtoeslag waarvan de hoogte 18 procent van die kosten betreft. 
+3.  Indien het toetsingsinkomen, bedoeld in artikel 6, € 88.270 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in artikel 3, een kinderopvangtoeslag waarvan de hoogte minder dan 33,3 procent van die kosten betreft.   
+4.  Indien het toetsingsinkomen, bedoeld in artikel 6, € 105.594 of meer bedraagt, ontvangt de ouder voor de kosten van kinderopvang van het eerste kind, bedoeld in artikel 3, een kinderopvangtoeslag waarvan de hoogte 18 procent van die kosten betreft. 
 
 ### Artikel  8a  
 
@@ -115,8 +115,8 @@ b. per berekeningsjaar:
 
 3°. de duur van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus als bedoeld in artikel 1.6, eerste lid, onderdelen c tot en met j, van de wet uitgedrukt in kalendermaanden, vermenigvuldigd met 230 uren per kalendermaand.       
 2.  Voor het aantal uren dat voor kinderopvangtoeslag in aanmerking komt, bedoeld in het eerste lid, onderdeel b, wordt uitgegaan van het aantal uren van de ouder of partner die in dat berekeningsjaar het minste uren heeft gewerkt, gebruik heeft gemaakt van een voorziening die gericht is op arbeidsinschakeling of scholing, een opleiding of een cursus heeft gevolgd.   
-3.  Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel a of b, van de wet en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.   
-4.  Bij de toepassing van het eerste lid wordt indien een ouder of partner niet langer arbeid als bedoeld in artikel 1.6, eerste lid, onderdeel a of b, van de wet verricht, gedurende drie kalendermaanden, gerekend vanaf de eerste dag na de dag waarop het verrichten van die arbeid is beëindigd, uitgegaan van het aantal uren dat de ouder of partner daaraan voorafgaand werkte.  
+3.  Indien de ouder of partner op hetzelfde moment in een berekeningsjaar kan worden aangemerkt als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel a of b, van de wet en als ouder, bedoeld in artikel 1.6, eerste lid, onderdeel g of j, van de wet wordt voor het eerste lid, onderdeel b, uitgegaan van het subonderdeel dat leidt tot het meeste aantal uren als bedoeld in het eerste lid.  
+4. Bij de toepassing van het eerste lid wordt indien een ouder of zijn partner aanspraak op een kinderopvangtoeslag behoudt op grond van artikel 1.6, vijfde of zevende lid, van de wet, uitgegaan van het aantal uren dat een ouder of zijn partner voorafgaand aan de beëindiging van de arbeid als bedoeld in dat artikel verrichtte. 
 
 ### Paragraaf  2  
 
@@ -170,77 +170,77 @@ J. P. H.Donner
 
 ####, behorende bij artikel 6  van het Besluit kinderopvangtoeslag
 
-####Kinderopvangtoeslagtabel 2014
+####Kinderopvangtoeslagtabel 2015
 
 | (gezamenlijk) toetsingsinkomen  | tegemoetkoming Rijk als percentage van de kosten van kinderopvang  |--- |--- |--- | eerste kind  | tweede e.v. kind  |
 |:---|:---|:---|:---|:---|:---|:---|
-| Lager dan  | €  17,575  | --- | 90.7%  | 93.3%  |
-| €  17,576  | €  18,745  | --- | 89.1%  | 93.3%  |
-| €  18,746  | €  19,915  | --- | 88.1%  | 93.3%  |
-| €  19,916  | €  21,085  | --- | 87.4%  | 92.9%  |
-| €  21,086  | €  22,256  | --- | 86.7%  | 92.9%  |
-| €  22,257  | €  23,425  | --- | 86.0%  | 92.9%  |
-| €  23,426  | €  24,596  | --- | 85.0%  | 92.9%  |
-| €  24,597  | €  25,763  | --- | 84.2%  | 92.9%  |
-| €  25,764  | €  27,022  | --- | 83.4%  | 92.7%  |
-| €  27,023  | €  28,280  | --- | 82.6%  | 92.2%  |
-| €  28,281  | €  29,538  | --- | 81.5%  | 91.9%  |
-| €  29,539  | €  30,796  | --- | 80.9%  | 91.6%  |
-| €  30,797  | €  32,056  | --- | 79.9%  | 91.6%  |
-| €  32,057  | €  33,314  | --- | 79.0%  | 91.4%  |
-| €  33,315  | €  34,603  | --- | 78.2%  | 91.0%  |
-| €  34,604  | €  35,894  | --- | 77.3%  | 90.8%  |
-| €  35,895  | €  37,184  | --- | 76.5%  | 90.6%  |
-| €  37,185  | €  38,474  | --- | 75.6%  | 90.0%  |
-| €  38,475  | €  39,766  | --- | 74.5%  | 89.8%  |
-| €  39,767  | €  41,056  | --- | 74.0%  | 89.5%  |
-| €  41,057  | €  42,346  | --- | 73.0%  | 89.5%  |
-| €  42,347  | €  43,636  | --- | 72.3%  | 89.2%  |
-| €  43,637  | €  45,047  | --- | 71.2%  | 89.0%  |
-| €  45,048  | €  47,811  | --- | 69.4%  | 88.5%  |
-| €  47,812  | €  50,576  | --- | 68.5%  | 87.7%  |
-| €  50,577  | €  53,342  | --- | 67.1%  | 87.1%  |
-| €  53,343  | €  56,108  | --- | 64.5%  | 86.6%  |
-| €  56,109  | €  58,872  | --- | 61.8%  | 86.3%  |
-| €  58,873  | €  61,638  | --- | 59.1%  | 85.5%  |
-| €  61,639  | €  64,403  | --- | 56.3%  | 85.0%  |
-| €  64,404  | €  67,168  | --- | 53.5%  | 84.4%  |
-| €  67,169  | €  69,935  | --- | 50.9%  | 83.6%  |
-| €  69,936  | €  72,699  | --- | 48.2%  | 83.1%  |
-| €  72,700  | €  75,466  | --- | 45.5%  | 82.6%  |
-| €  75,467  | €  78,231  | --- | 42.6%  | 82.3%  |
-| €  78,232  | €  80,995  | --- | 39.9%  | 81.5%  |
-| €  80,996  | €  83,760  | --- | 37.3%  | 81.1%  |
-| €  83,761  | €  86,581  | --- | 34.5%  | 80.5%  |
-| €  86,582  | €  89,413  | --- | 32.0%  | 79.7%  |
-| €  89,414  | €  92,245  | --- | 29.6%  | 79.2%  |
-| €  92,246  | €  95,076  | --- | 27.0%  | 78.8%  |
-| €  95,077  | €  97,909  | --- | 24.4%  | 78.4%  |
-| €  97,910  | € 100,741  | --- | 21.7%  | 77.6%  |
-| € 100,742  | € 103,573  | --- | 19.0%  | 77.0%  |
-| € 103,574  | € 106,405  | --- | 18.0%  | 76.5%  |
-| € 106,406  | € 109,236  | --- | 18.0%  | 75.9%  |
-| € 109,237  | € 112,069  | --- | 18.0%  | 75.5%  |
-| € 112,070  | € 114,900  | --- | 18.0%  | 74.7%  |
-| € 114,901  | € 117,732  | --- | 18.0%  | 74.1%  |
-| € 117,733  | € 120,564  | --- | 18.0%  | 73.0%  |
-| € 120,565  | € 123,395  | --- | 18.0%  | 72.6%  |
-| € 123,396  | € 126,228  | --- | 18.0%  | 71.8%  |
-| € 126,229  | € 129,061  | --- | 18.0%  | 70.7%  |
-| € 129,062  | € 131,892  | --- | 18.0%  | 70.1%  |
-| € 131,893  | € 134,724  | --- | 18.0%  | 69.1%  |
-| € 134,725  | € 137,556  | --- | 18.0%  | 68.5%  |
-| € 137,557  | € 140,388  | --- | 18.0%  | 67.7%  |
-| € 140,389  | € 143,220  | --- | 18.0%  | 67.0%  |
-| € 143,221  | € 146,052  | --- | 18.0%  | 66.2%  |
-| € 146,053  | € 148,883  | --- | 18.0%  | 65.1%  |
-| € 148,884  | € 151,715  | --- | 18.0%  | 64.5%  |
-| € 151,716  | € 154,547  | --- | 18.0%  | 63.7%  |
-| € 154,548  | € 157,379  | --- | 18.0%  | 62.9%  |
-| € 157,380  | € 160,211  | --- | 18.0%  | 62.1%  |
-| € 160,212  | € 163,044  | --- | 18.0%  | 61.4%  |
-| € 163,045  | € 165,875  | --- | 18.0%  | 60.6%  |
-| € 165,876  | € 168,707  | --- | 18.0%  | 59.8%  |
-| € 168,708  | € 171,539  | --- | 18.0%  | 59.2%  |
-| € 171,540  | En hoger  | --- | 18.0%  | 58.2%  |
+| Lager dan  | € 17.918  | --- | 90.7%  | 93.3%  |
+| € 17.919  | € 19.111  | --- | 89.1%  | 93.3%  |
+| € 19.112  | € 20.303  | --- | 88.1%  | 93.3%  |
+| € 20.304  | € 21.496  | --- | 87.4%  | 92.9%  |
+| € 21.497  | € 22.690  | --- | 86.7%  | 92.9%  |
+| € 22.691  | € 23.882  | --- | 86.0%  | 92.9%  |
+| € 23.883  | € 25.076  | --- | 85.0%  | 92.9%  |
+| € 25.077  | € 26.265  | --- | 84.2%  | 92.9%  |
+| € 26.266  | € 27.549  | --- | 83.4%  | 92.7%  |
+| € 27.550  | € 28.831  | --- | 82.6%  | 92.2%  |
+| € 28.832  | € 30.114  | --- | 81.5%  | 91.9%  |
+| € 30.115  | € 31.397  | --- | 80.9%  | 91.6%  |
+| € 31.398  | € 32.681  | --- | 79.9%  | 91.6%  |
+| € 32.682  | € 33.964  | --- | 79.0%  | 91.4%  |
+| € 33.965  | € 35.278  | --- | 78.2%  | 91.0%  |
+| € 35.279  | € 36.594  | --- | 77.3%  | 90.8%  |
+| € 36.595  | € 37.909  | --- | 76.5%  | 90.6%  |
+| € 37.910  | € 39.224  | --- | 75.6%  | 90.0%  |
+| € 39.225  | € 40.541  | --- | 74.5%  | 89.8%  |
+| € 40.542  | € 41.857  | --- | 74.0%  | 89.5%  |
+| € 41.858  | € 43.172  | --- | 73.0%  | 89.5%  |
+| € 43.173  | € 44.487  | --- | 72.3%  | 89.2%  |
+| € 44.488  | € 45.925  | --- | 71.2%  | 89.0%  |
+| € 45.926  | € 48.743  | --- | 69.4%  | 88.5%  |
+| € 48.744  | € 51.562  | --- | 68.5%  | 87.7%  |
+| € 51.563  | € 54.382  | --- | 67.1%  | 87.1%  |
+| € 54.383  | € 57.202  | --- | 64.5%  | 86.6%  |
+| € 57.203  | € 60.020  | --- | 61.8%  | 86.3%  |
+| € 60.021  | € 62.840  | --- | 59.1%  | 85.5%  |
+| € 62.841  | € 65.659  | --- | 56.3%  | 85.0%  |
+| € 65.660  | € 68.478  | --- | 53.5%  | 84.4%  |
+| € 68.479  | € 71.299  | --- | 50.9%  | 83.6%  |
+| € 71.300  | € 74.117  | --- | 48.2%  | 83.1%  |
+| € 74.118  | € 76.938  | --- | 45.5%  | 82.6%  |
+| € 76.939  | € 79.757  | --- | 42.6%  | 82.3%  |
+| € 79.758  | € 82.574  | --- | 39.9%  | 81.5%  |
+| € 82.575  | € 85.393  | --- | 37.3%  | 81.1%  |
+| € 85.394  | € 88.269  | --- | 34.5%  | 80.5%  |
+| € 88.270  | € 91.157  | --- | 32.0%  | 79.7%  |
+| € 91.158  | € 94.044  | --- | 29.6%  | 79.2%  |
+| € 94.045   | 96.930  | --- | 27.0%  | 78.8%  |
+| € 96.931  | € 99.818  | --- | 24.4%  | 78.4%  |
+| € 99.819  | € 102.705  | --- | 21.7%  | 77.6%  |
+| € 102.706  | € 105.593  | --- | 19.0%  | 77.0%  |
+| € 105.594  | € 108.480  | --- | 18.0%  | 76.5%  |
+| € 108.481  | € 111.366  | --- | 18.0%  | 75.9%  |
+| € 111.367  | € 114.254  | --- | 18.0%  | 75.5%  |
+| € 114.255  | € 117.141  | --- | 18.0%  | 74.7%  |
+| € 117.142  | € 120.028  | --- | 18.0%  | 74.1%  |
+| € 120.029  | € 122.915  | --- | 18.0%  | 73.0%  |
+| € 122.916  | € 125.801  | --- | 18.0%  | 72.6%  |
+| € 125.802  | € 128.689  | --- | 18.0%  | 71.8%  |
+| € 128.690  | € 131.578  | --- | 18.0%  | 70.7%  |
+| € 131.579  | € 134.464  | --- | 18.0%  | 70.1%  |
+| € 134.465  | € 137.351  | --- | 18.0%  | 69.1%  |
+| € 137.352  | € 140.238  | --- | 18.0%  | 68.5%  |
+| € 140.239  | € 143.126  | --- | 18.0%  | 67.7%  |
+| € 143.127  | € 146.013  | --- | 18.0%  | 67.0%  |
+| € 146.014  | € 148.900  | --- | 18.0%  | 66.2%  |
+| € 148.901  | € 151.786  | --- | 18.0%  | 65.1%  |
+| € 151.787  | € 154.673  | --- | 18.0%  | 64.5%  |
+| € 154.674  | € 157.561  | --- | 18.0%  | 63.7%  |
+| € 157.562  | € 160.448  | --- | 18.0%  | 62.9%  |
+| € 160.449  | € 163.335  | --- | 18.0%  | 62.1%  |
+| € 163.336  | € 166.223  | --- | 18.0%  | 61.4%  |
+| € 166.224  | € 169.110  | --- | 18.0%  | 60.6%  |
+| € 169.111  | € 171.997  | --- | 18.0%  | 59.8%  |
+| € 171.998  | € 174.884  | --- | 18.0%  | 59.2%  |
+| € 174.885  | En hoger  | --- | 18.0%  | 58.2%  |
 

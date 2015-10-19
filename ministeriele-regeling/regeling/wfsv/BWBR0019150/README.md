@@ -1221,6 +1221,17 @@ De Minister van Sociale Zaken en Werkgelegenheid stelt jaarlijks voor 31 oktobe
 1. De kosten van het in artikel 5.21, tweede lid, van het Besluit SUWI bedoelde organisatieonderdeel dat in het bijzonder is belast met het beheer van de elektronische voorzieningen, komen als bedoeld in artikel 5.40, tweede lid, direct ten laste van de rijksbijdrage aan het UWV, bedoeld in artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen.  
 2.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant van het UWV, bedoeld in artikel 120, eerste lid, van de Wfsv, een periodiek voorschot ter hoogte van 1/12<sup>de</sup> deel van de in het eerste lid bedoelde kosten, met als valutadag de vijftiende dag van elke maand. De Minister kan na overleg met het UWV voor het in artikel 5.21, tweede lid, van het Besluit SUWI bedoelde organisatieonderdeel van het in de eerste zin genoemde bedrag afwijken. 
 
+### Artikel  5.41a  
+
+####Uitvoeringskosten beoordeling gemeentelijke doelgroep
+
+1.  De uitvoeringskosten van het UWV voor de beoordelingen van de verdienmogelijkheid van het wettelijk minimumloon, bedoeld in artikel 3.5, eerste lid, van het Besluit SUWI, de werkzaamheden ten behoeve van de vaststelling of een persoon medisch urenbeperkt is als bedoeld in artikel 6b, vierde lid, van de Participatiewet en de werkzaamheden ten behoeve van de vaststelling of een persoon uitsluitend in een beschutte omgeving onder aangepaste omstandigheden mogelijkheden heeft tot arbeidsparticipatie, bedoeld in artikel 10b, tweede lid, van de Participatiewet komen als bedoeld in artikel 5.40, tweede lid, ten laste van de rijksbijdragen aan het UWV, bedoeld in artikel 45, eerste lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen.   
+2.  Voor 1 oktober van elk jaar verstrekt het UWV aan de Minister van Sociale Zaken en Werkgelegenheid in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde uitvoeringskosten.   
+3.  De Minister van Sociale Zaken en Werkgelegenheid stort op de rekening-courant van het UWV, bedoeld in artikel 120, eerste lid, van de Wfsv een voorschot ter hoogte van 1/12<sup>e</sup> deel van het in het tweede lid bedoelde bedrag, met als valutadag de vijftiende dag van elke kalendermaand.   
+4.  De Minister van Sociale Zaken en Werkgelegenheid kan na overleg met het UWV van het in het tweede lid bedoelde bedrag afwijken.   
+5.  In het jaarverslag, bedoeld in artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen, neemt het UWV de gerealiseerde uitvoeringskosten en de ontvangen voorschotten op.   
+6.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de Minister van Sociale Zaken en Werkgelegenheid de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+
 ### §  2  
 
 ####Rijksbijdrage AIO

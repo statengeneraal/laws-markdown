@@ -2093,11 +2093,15 @@ Honden en katten die tijdelijk gehouden worden ten behoeve van opvang omdat daar
 
 ####Houden van dieren voor vertoning
 
+### §  1  
+
+####Houden van dieren in dierentuinen
+
 ### Artikel  4.1  
 
 ####Begripsbepalingen
 
-In dit hoofdstuk wordt verstaan onder: 
+In deze paragraaf wordt verstaan onder: 
 
 *dierentuin:* permanente inrichting waar levende wilde dieren worden gehouden om gedurende ten minste zeven dagen per jaar te worden tentoongesteld aan het publiek, met uitzondering van circussen en dierenwinkels;  
 
@@ -2133,11 +2137,11 @@ c. inrichtingen die voldoen aan elk van de volgende voorschriften:
 d. inrichtingen waar dieren gedurende ten hoogste twaalf maanden voor verzorging of verpleging worden opgevangen en waar de dieren na het verstrijken van die periode weer in vrijheid worden gesteld of elders worden ondergebracht.     
 3.  De vergunning, bedoeld in het eerste lid, geldt tevens voor beperkte wijzigingen en uitbreidingen van een dierentuin, indien: 
 
-a. wordt voldaan aan dit hoofdstuk en de aan de vergunning verbonden beperkingen en voorschriften;  
+a. wordt voldaan aan deze paragraaf en de aan de vergunning verbonden beperkingen en voorschriften;  
 
 b. het voornemen tot het uitvoeren van de verandering door de vergunninghouder schriftelijk aan Onze Minister is gemeld; en  
 
-c. Onze Minister aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan dit hoofdstuk en de aan de vergunning verbonden beperkingen en voorschriften.    
+c. Onze Minister aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan deze paragraaf en de aan de vergunning verbonden beperkingen en voorschriften.    
 
 ### Artikel  4.3  
 
@@ -2278,7 +2282,7 @@ c. het opvangen van dieren uit opvangcentra en in beslag genomen dieren.
 
 ####Overige voorschriften
 
-De vergunninghouder verzekert zich er bij een overdracht van dieren van dat de ontvangende partij de dieren houdt, huisvest en verzorgt op een wijze die overeenkomt met de voorschriften in dit hoofdstuk. 
+De vergunninghouder verzekert zich er bij een overdracht van dieren van dat de ontvangende partij de dieren houdt, huisvest en verzorgt op een wijze die overeenkomt met de voorschriften in deze paragraaf. 
 
 ### Artikel  4.12  
 
@@ -2298,9 +2302,25 @@ d. een eenduidig beleid met betrekking tot de in artikel 4.10 genoemde onderwerp
 
 ####Sluiting, aanpassing en intrekking
 
-1.  Indien de vergunninghouder niet voldoet aan de artikelen 1.6, 1.7 of 1.8 of aan de bij of krachtens dit hoofdstuk gestelde voorschriften kan de dierentuin op last van Onze Minister geheel of gedeeltelijk worden gesloten voor het publiek.   
+1.  Indien de vergunninghouder niet voldoet aan de artikelen 1.6, 1.7 of 1.8 of aan de bij of krachtens deze paragraaf gestelde voorschriften kan de dierentuin op last van Onze Minister geheel of gedeeltelijk worden gesloten voor het publiek.   
 2.  Onze Minister kan in het geval, bedoeld in het eerste lid, de exploitant verplichten tot het aanpassen, verwijderen of aanbrengen van specifieke voorzieningen binnen de daarbij vermelde termijn, die ten hoogste twee jaar bedraagt.   
 3.  Indien een exploitant niet binnen de gestelde termijn voldoet aan de verplichtingen, bedoeld in het tweede lid, wordt de vergunning door Onze Minister ingetrokken of gewijzigd en wordt de dierentuin geheel of gedeeltelijk gesloten.  
+
+### §  2  
+
+####Houden van dieren ten behoeve van circussen en andere optredens
+
+### Artikel  4.14  
+
+####Verbod op deelname met andere dan aangewezen dieren aan een circus of ander optreden en op vervoer van die dieren ten behoeve van een circus of ander optreden
+
+1.  Het is verboden met andere zoogdieren dan die behoren tot de diersoorten, genoemd in bijlage IV, deel te nemen aan een circus of een ander optreden.   
+2.  Het is verboden dieren als bedoeld in het eerste lid te vervoeren ten behoeve van: 
+
+a. een in Nederland gevestigd circus of een in Nederland gevestigde natuurlijke persoon, rechtspersoon of vennootschap die met die dieren deelneemt aan een circus of een ander optreden, of  
+
+b. een niet in Nederland gevestigd circus of een niet in Nederland gevestigde natuurlijke persoon, rechtspersoon of vennootschap die met die dieren deelneemt aan een circus of een ander optreden in Nederland.     
+3.  Het verbod, bedoeld in het eerste en tweede lid, is niet van toepassing op optredens in dierentuinen als bedoeld in artikel 4.1.  
 
 ### Hoofdstuk  5  
 
@@ -3103,8 +3123,6 @@ Categorieën
 ### Bijlage  IV  
 
 ####als bedoeld in artikel 4.14  van het besluit
-
-Treedt in werking per 15-09-2015 
 
 Aangewezen soorten van zoogdieren waarmee deelname aan en vervoer ten behoeve van een circus of een ander optreden is toegestaan.  
 

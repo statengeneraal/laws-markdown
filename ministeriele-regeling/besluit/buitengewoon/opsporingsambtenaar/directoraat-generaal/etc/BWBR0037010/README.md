@@ -21,7 +21,7 @@ In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon
 ### Artikel  2  
 Treedt in werking per 08-11-2015 
 
-De ambtenaar, werkzaam bij het Directoraat-Generaal Rijkswaterstaat, afdeling VWM Ondersteuning Operaties, zijn aangewezen als buitengewoon opsporingsambtenaar. 
+De ambtenaar, werkzaam bij het Directoraat-Generaal Rijkswaterstaat, is aangewezen als buitengewoon opsporingsambtenaar. 
 
 ### Artikel  3  
 Treedt in werking per 08-11-2015 

@@ -29,7 +29,9 @@ c.  NL.IMRO.0000.IMmr11Rarro-3010, of
 
 d.  NL.IMRO.0000.IMmr11Rarro-3015, of  
 
-e.  NL.IMRO.0000.IMmr11Rarro-3020.    
+e.  NL.IMRO.0000.IMmr11Rarro-3020, of  
+
+f.  NL.IMRO.0000.IMmr11Rarro-3025.   
 
 *middelingsgebied:* cirkelvormig gebied op variabele locatie in een radardetectiegebied waarbinnen de berekende detectiekansen worden gemiddeld;  
 
@@ -203,7 +205,6 @@ Militaire terreinen
 | oefenterrein Arnhemse Heide  | 1.8  |
 |oefenterrein Baggelhuizen  |1.8a  |
 | oefenterrein Beekhuizerzand  | 1.9  |
-| oefenterrein Boshoverheide  | 1.10  |
 | oefenterrein Crayelheide  | 1.11  |
 | oefenterrein De Dellen  | 1.12  |
 | oefenterrein De Haar  | 1.13  |
@@ -233,8 +234,6 @@ Militaire terreinen
 |oefenterrein Overdiepse Polder |1.37a |
 | oefenterrein Rucphense Heide  | 1.38  |
 | oefenterrein Scherpenberg  | 1.39  |
-| oefenterrein Soerel Oost  | 1.40  |
-| oefenterrein Soerel West  | 1.41  |
 | oefenterrein Stroese Zand  | 1.43  |
 | oefenterrein Vijf Eiken  | 1.44  |
 | oefenterrein Vlakte van Waalsdorp  | 1.45  |
@@ -306,11 +305,6 @@ Kaart militair terrein – oefenterrein Baggelhuizen
 
 ![249602](http://wetten.overheid.nl/Illustration/249602)
 Kaart militair terrein – oefenterrein Beekhuizerzand  
-
-### Bijlage  1.10  
-
-![249603](http://wetten.overheid.nl/Illustration/249603)
-Kaart militair terrein – oefenterrein Boshoverheide  
 
 ### Bijlage  1.11  
 
@@ -475,16 +469,6 @@ Kaart militair terrein – oefenterrein Rucphense Heide
 ![249632](http://wetten.overheid.nl/Illustration/249632)
 Kaart militair terrein – oefenterrein Scherpenberg  
 
-### Bijlage  1.40  
-
-![249633](http://wetten.overheid.nl/Illustration/249633)
-Kaart militair terrein – oefenterrein Soerel Oost  
-
-### Bijlage  1.41  
-
-![249634](http://wetten.overheid.nl/Illustration/249634)
-Kaart militair terrein – oefenterrein Soerel West  
-
 ### Bijlage  1.43  
 
 ![249636](http://wetten.overheid.nl/Illustration/249636)
@@ -512,8 +496,10 @@ Kaart militair terrein – oefenterrein Vughtsche Heide
 
 ### Bijlage  1.48  
 
-![249641](http://wetten.overheid.nl/Illustration/249641)
-Kaart militair terrein – oefenterrein Weerterheide  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![255804](http://wetten.overheid.nl/Illustration/255804)
+Kaart militair terrein – oefenterrein Weerterheide 
 
 ### Bijlage  1.49  
 
@@ -527,8 +513,10 @@ Kaart militair terrein – oefenterrein Woensdrechtse heide
 
 ### Bijlage  1.51  
 
-![249644](http://wetten.overheid.nl/Illustration/249644)
-Kaart militair terrein – oefenterrein Woldberg  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![255805](http://wetten.overheid.nl/Illustration/255805)
+Kaart militair terrein – oefenterrein Woldberg 
 
 ### Bijlage  1.52  
 
@@ -665,8 +653,10 @@ Kaart militair luchtvaartterrein – Vliegbasis Deelen
 
 ### Bijlage  3.4  
 
-![249664](http://wetten.overheid.nl/Illustration/249664)
-Kaart militair luchtvaartterrein – Vliegbasis Eindhoven  
+####bij de Regeling algemene regels ruimtelijke ordening
+
+![255806](http://wetten.overheid.nl/Illustration/255806)
+Kaart militair luchtvaartterrein – Vliegbasis Eindhoven 
 
 ### Bijlage  3.5  
 
@@ -900,9 +890,9 @@ Bouwbeperkingengebieden rondom zend- en ontvangstinstallaties buiten militair lu
 | rondom antennepark Kornwerderzand   | 6.5  |
 | rondom antennepark Ouddorp  | 6.6  |
 | rondom antennepark Scharendijke   | 6.7  |
-| rondom antennepark Scheveningen  | 6.8  |
 | rondom antennepark Schiermonnikoog   | 6.9  |
 | rondom antennepark Schoorl   | 6.10  |
+| rondom antennepark Zeewolde  | 6.10a  |
 |rondom complex Burum |6.11 |
 | rondom complex De Lier  | 6.12  |
 | rondom complex Eemnes  | 6.13  |
@@ -1338,69 +1328,48 @@ Veiligheidszones bij civiele inrichtingen voor activiteiten met explosieven
 
 ####als bedoeld in artikel 3.1, eerste lid , van de Regeling algemene regels ruimtelijke ordening
 
-Kaart met reserveringsgebieden ten behoeve van de mogelijke uitbreiding van hoofdwegen of delen daarvan Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl, door via ‘een plan bekijken/algemene regels overheden’ onder ‘naam/zoek op plannaam’ te zoeken op ‘algemene regels ruimtelijke ordening’ dan wel rechtstreeks via http://www.ruimtelijkeplannen.nl/web-roo/roo/bestemmingsplannen_p?dossierid=NL.IMRO.0000.IMmr11Rarro. 
+Kaart met reserveringsgebieden ten behoeve van de mogelijke uitbreiding van hoofdwegen of delen daarvan Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl met kenmerk NL.IMRO.0000.IMmr11Rarro-3025 en op http://www.ruimtelijkeplannen.nl/web-roo/?planidn=NL.IMRO.0000.IMmr11Rarro-3025. 
 
 ###Bijlage 17 
 
-####als bedoeld in artikel 3.1, tweede lid , van de Regeling algemene regels ruimtelijke ordening
+####bij de Regeling algemene regels ruimtelijke ordening
 
 Reserveringsgebieden voor de mogelijke aanleg van een nieuwe hoofdweg of landelijke spoorweg 
 
 | Reserveringsgebied:  | Verbeeld op de bij deze regeling behorende kaart:  |
 |:---|:---|
 | nieuwe hoofdweg A13/A16/A20 Rotterdam  | 17.2  |
-| nieuwe hoofdweg N18 Varsseveld- Enschede  | 17.3  |
 | nieuwe hoofdweg A12/A15 Bereikbaarheid regio Arnhem-Nijmegen  | 17.4  |
 | nieuwe hoofdweg N35 Zwolle-Wijthmen  | 17.5  |
 | nieuwe hoofdweg A6/A7 Knooppunt Joure  | 17.6  |
 | nieuwe hoofdweg Rotterdam Vooruit (Nieuwe westelijke oeververbinding)  | 17.7  |
+| nieuwe hoofdweg N35 Nijverdal – Wierden  | 17.7a  |
 | nieuwe landelijke spoorweg IJzeren rijn  | 17.8  |
+
+![255807](http://wetten.overheid.nl/Illustration/255807)
+Overzichtskaart met reserveringsgebieden ten behoeve van de mogelijke aanleg van nieuwe hoofdwegen of landelijke spoorwegen
 
 ###Bijlage 17.2 
 
 ####bij de Regeling algemene regels ruimtelijke ordening
 
-![250812](http://wetten.overheid.nl/Illustration/250812)
-Kaart reserveringsgebied nieuwe hoofdweg – A13/A16/A20 Rotterdam
-
-###Bijlage 17.3 
-
-####als bedoeld in artikel 3.1, eerste lid  van de Regeling algemene regels ruimtelijke ordening
-
-![253783](http://wetten.overheid.nl/Illustration/253783)
-Overzichtskaart reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253784](http://wetten.overheid.nl/Illustration/253784)
-Detailkaart 1 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253785](http://wetten.overheid.nl/Illustration/253785)
-Detailkaart 2 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253786](http://wetten.overheid.nl/Illustration/253786)
-Detailkaart 3 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253787](http://wetten.overheid.nl/Illustration/253787)
-Detailkaart 4 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede  ![253788](http://wetten.overheid.nl/Illustration/253788)
-Detailkaart 5 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253789](http://wetten.overheid.nl/Illustration/253789)
-Detailkaart 6 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253790](http://wetten.overheid.nl/Illustration/253790)
-Detailkaart 7 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253791](http://wetten.overheid.nl/Illustration/253791)
-Detailkaart 8 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253792](http://wetten.overheid.nl/Illustration/253792)
-Detailkaart 9 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253793](http://wetten.overheid.nl/Illustration/253793)
-Detailkaart 10 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede   ![253794](http://wetten.overheid.nl/Illustration/253794)
-Detailkaart 11 reserveringsgebied nieuwe hoofdweg N18 Varsseveld-Enschede 
+![255808](http://wetten.overheid.nl/Illustration/255808)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg A13/A16![255809](http://wetten.overheid.nl/Illustration/255809)
+Detailkaart 1 met reserveringsgebieden nieuwe hoofdwegen A13/A16![255810](http://wetten.overheid.nl/Illustration/255810)
+Detailkaart 2 met reserveringsgebieden nieuwe hoofdwegen A13/A16![255811](http://wetten.overheid.nl/Illustration/255811)
+Detailkaart 3 met reserveringsgebieden nieuwe hoofdwegen A13/A16![255812](http://wetten.overheid.nl/Illustration/255812)
+Detailkaart 4 met reserveringsgebieden nieuwe hoofdwegen A13/A16
 
 ###Bijlage 17.4 
 
-####als bedoeld in artikel 3.1, eerste lid  van de Regeling algemene regels ruimtelijke ordening
+####bij de Regeling algemene regels ruimtelijke ordening
 
-![253795](http://wetten.overheid.nl/Illustration/253795)
-Overzichtskaart reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253796](http://wetten.overheid.nl/Illustration/253796)
-Detailkaart 1 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253797](http://wetten.overheid.nl/Illustration/253797)
-Detailkaart 2 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253798](http://wetten.overheid.nl/Illustration/253798)
-Detailkaart 3 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253799](http://wetten.overheid.nl/Illustration/253799)
-Detailkaart 4 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253800](http://wetten.overheid.nl/Illustration/253800)
-Detailkaart 5 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253801](http://wetten.overheid.nl/Illustration/253801)
-Detailkaart 6 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253802](http://wetten.overheid.nl/Illustration/253802)
-Detailkaart 7 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253803](http://wetten.overheid.nl/Illustration/253803)
-Detailkaart 8 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253804](http://wetten.overheid.nl/Illustration/253804)
-Detailkaart 9 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253805](http://wetten.overheid.nl/Illustration/253805)
-Detailkaart 10 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253806](http://wetten.overheid.nl/Illustration/253806)
-Detailkaart 11 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253807](http://wetten.overheid.nl/Illustration/253807)
-Detailkaart 12 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253808](http://wetten.overheid.nl/Illustration/253808)
-Detailkaart 13 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen   ![253809](http://wetten.overheid.nl/Illustration/253809)
-Detailkaart 14 reserveringsgebied nieuwe hoofdweg A12/A15 bereikbaarheid regio Arnhem-Nijmegen 
+![255813](http://wetten.overheid.nl/Illustration/255813)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg Ressen – Oudbroeken A12/A15 (ViA15)![255814](http://wetten.overheid.nl/Illustration/255814)
+Detailkaart 1 reserveringsgebied nieuwe hoofdweg Ressen – Oudbroeken A12/A15 (ViA15)![255815](http://wetten.overheid.nl/Illustration/255815)
+Detailkaart 2 reserveringsgebied nieuwe hoofdweg Ressen – Oudbroeken A12/A15 (ViA15)![255817](http://wetten.overheid.nl/Illustration/255817)
+Detailkaart 3 reserveringsgebied nieuwe hoofdweg Ressen – Oudbroeken A12/A15 (ViA15)![255818](http://wetten.overheid.nl/Illustration/255818)
+Detailkaart 4 reserveringsgebied nieuwe hoofdweg Ressen – Oudbroeken A12/A15 (ViA15)
 
 ###Bijlage 17.5 
 
@@ -1420,14 +1389,14 @@ Kaart reserveringsgebied nieuwe hoofdweg – A6/A7 Knooppunt Joure
 
 ####bij de Regeling algemene regels ruimtelijke ordening
 
-![250817](http://wetten.overheid.nl/Illustration/250817)
-Kaart reserveringsgebied nieuwe hoofdweg – Rotterdam vooruit (Nieuwe westelijke oeververbinding)
+![255819](http://wetten.overheid.nl/Illustration/255819)
+Overzichtskaart reserveringsgebied nieuwe hoofdweg A15/A20 Blankenburgverbinding![255820](http://wetten.overheid.nl/Illustration/255820)
+Detailkaart 1 reserveringsgebied nieuwe hoofdweg A15/A20 Blankenburgverbinding![255821](http://wetten.overheid.nl/Illustration/255821)
+Detailkaart 2 reserveringsgebied nieuwe hoofdweg A15/A20 Blankenburgverbinding
 
 ###Bijlage 17.7a 
 
 ####bij de Regeling algemene regels ruimtelijke ordening
-
-Treedt in werking per 01-10-2015 
 
 ![255822](http://wetten.overheid.nl/Illustration/255822)
 Overzichtskaart reserveringsgebied nieuwe hoofdweg N35 Nijverdal – Wierden![255823](http://wetten.overheid.nl/Illustration/255823)
@@ -1470,4 +1439,4 @@ Kaart militair terrein – oefenterrein Oirschotse Heide (gedeelte COT en ‘vak
 
 Kaarten met voorkeurstracés voor de aanleg van buisleidingen van nationaal belang voor het vervoer van gevaarlijke stoffen 
 
-Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl, door via ‘een plan bekijken/algemene regels overheden’ onder ‘naam/zoek op plannaam’ te zoeken op ‘regeling algemene regels ruimtelijke ordening’ dan wel rechtstreeks via http://www.ruimtelijkeplannen.nl/?dossierid=NL.IMRO.0000.IMmr11Rarro. 
+Deze bijlage is raadpleegbaar op de website http://www.ruimtelijkeplannen.nl met kenmerk NL.IMRO.0000.IMmr11Rarro-3025 en op http://www.ruimtelijkeplannen.nl/web-roo/?planidn=NL.IMRO.0000.IMmr11Rarro-3025. 

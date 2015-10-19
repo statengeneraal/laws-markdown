@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 1 maart 2011, nr. BJZ2011036817, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
-Gelet op verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaag afbrekende stoffen (herschikking) (PbEU L 286) en de [artikelen 37 van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en[ 8.40, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.42, eerste lid](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [9.2.2.1, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op verordening (EG) nr. 1005/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaag afbrekende stoffen (herschikking) (PbEU L 286) en de artikelen 37 van de Wet op de economische delicten en 8.40, eerste lid, 8.42, eerste lid, en 9.2.2.1, eerste lid, van de Wet milieubeheer;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 14 april 2011, nr. W14.11.0067/IV);
 
@@ -76,13 +76,13 @@ Wijzigt het Transactiebesluit milieudelicten.
 
 Na inwerkingtreding van dit besluit berust: 
 
-a. de [Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties](../../../../../../ministeriele-regeling/regeling/gefluoreerde/broeikasgassen/en/gereguleerde/stoffen/etc/BWBR0026453/README.md) op [artikel 4 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) en de artikelen 4 en 5 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen;  
+a. de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties op artikel 4 van het Besluit gefluoreerde broeikasgassen milieubeheer en de artikelen 4 en 5 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen;  
 
-b. de [Regeling lekdichtheidsvoorschriften koelinstallaties op schepen](../../../../../../ministeriele-regeling/regeling/lekdichtheidsvoorschriften/koelinstallaties/1997/BWBR0008743/README.md) op [artikel 1 van het Besluit broeikasgassen op schepen milieubeheer](../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md) en artikel 4 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen.   
+b. de Regeling lekdichtheidsvoorschriften koelinstallaties op schepen op artikel 1 van het Besluit broeikasgassen op schepen milieubeheer en artikel 4 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen.   
 
 ### Artikel  11  
 
-Het [Besluit ozonlaagafbrekende stoffen milieubeheer](../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) wordt ingetrokken. 
+Het Besluit ozonlaagafbrekende stoffen milieubeheer wordt ingetrokken. 
 
 ### Artikel  12  
 

@@ -1360,6 +1360,11 @@ b. een omschrijving van een eventuele dwingende reden van groot openbaar belang 
 
 c. een omschrijving van de compenserende maatregelen die genomen kunnen worden voor de aangetaste natuurlijke kenmerken.     
 6.  Ingeval reeds eerder voor hetzelfde project door de aanvrager een passende beoordeling is gemaakt, kunnen de gegevens, bedoeld in het vierde en vijfde lid, achterwege worden gelaten voor zover de passende beoordeling redelijkerwijs geen nieuwe gegevens en inzichten kan opleveren omtrent de significante gevolgen van de activiteit.  
+7. Voor zover een aanvraag betreffende een Natura 2000-gebied als bedoeld in het eerste lid betrekking heeft op het veroorzaken van stikstofdepositie op een voor stikstof gevoelig habitat of habitat van voor stikstof gevoelige soorten waarvoor een instandhoudingsdoelstelling geldt in een Natura 2000-gebied dat in het programma aanpak stikstof, bedoeld in artikel 19kg, eerste lid, van de Natuurbeschermingswet 1998 is opgenomen:
+
+a. verstrekt de aanvrager in of bij de aanvraag een afschrift van een berekening van de stikstofdepositie die het project of de handeling op een Natura 2000-gebied veroorzaakt met gebruikmaking van AERIUS Calculator als bedoeld in artikel 1 van de Regeling programmatische aanpak stikstof;  
+
+b. bestaat de toets, bedoeld in het derde lid, dan wel de passende beoordeling, bedoeld in het vierde lid, slechts uit een verwijzing naar dat programma aanpak stikstof.  
 
 ### Artikel  8.2  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 9 december 2011, nr. IenM/BSK-2011/167534, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
-Gelet op [artikel 19, zevende en achtste lid, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 19, zevende en achtste lid, van de Wet personenvervoer 2000;
 
 De Afdelin g advisering van de Raad van State gehoord (advies van 11 april 2012, nr. W14.11.0525/IV);
 
@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *wet:* [Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en  
+a.  *wet:* Wet personenvervoer 2000, en  
 
-b.  *HRN-concessie:* concessie voor het hoofdrailnet als bedoeld in [artikel 65, eerste lid, van de wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).   
+b.  *HRN-concessie:* concessie voor het hoofdrailnet als bedoeld in artikel 65, eerste lid, van de wet.   
 
 ### Artikel  2  
 
-1.  De Autoriteit Consument en Markt houdt bij de vaststelling van het hoofddoel van het grensoverschrijdend personenvervoer per trein, bedoeld in [artikel 19, zevende lid, van de wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), rekening met te verwachten markt- en dienstverleningsontwikkelingen.   
-2.  De Autoriteit Consument en Markt verricht ten behoeve van de vaststelling van het hoofddoel van het grensoverschrijdende personenvervoer per trein, bedoeld in [artikel 19, zevende lid van de wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), zowel een kwalitatieve als een kwantitatieve analyse.   
+1.  De Autoriteit Consument en Markt houdt bij de vaststelling van het hoofddoel van het grensoverschrijdend personenvervoer per trein, bedoeld in artikel 19, zevende lid, van de wet, rekening met te verwachten markt- en dienstverleningsontwikkelingen.   
+2.  De Autoriteit Consument en Markt verricht ten behoeve van de vaststelling van het hoofddoel van het grensoverschrijdende personenvervoer per trein, bedoeld in artikel 19, zevende lid van de wet, zowel een kwalitatieve als een kwantitatieve analyse.   
 3.  De Autoriteit Consument en Markt doet mededeling in de Staatscourant van haar methodes voor te verrichten kwalitatieve en kwantitatieve analyses en van wijzigingen daarvan.   
 4.  De Autoriteit Consument en Markt biedt de houders van een concessie voor het openbaar vervoer per trein en de verleners van een dergelijke concessie, voor het tijdstip van de in het derde lid bedoelde mededeling, de gelegenheid om hun zienswijze naar voren te brengen over het ontwerp voor haar methodes en over wijzigingen daarvan.   
 5.  De Autoriteit Consument en Markt kan, in afwijking van het derde lid op andere geschikte wijze mededeling doen van de bijlagen, waarvoor dat in de mededeling, bedoeld in het derde lid, is aangegeven.  
 
 ### Artikel  3  
 
-1.  Bij de vaststelling van het hoofddoel, bedoeld in [artikel 19, zevende lid, van de wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), geldt dat: 
+1.  Bij de vaststelling van het hoofddoel, bedoeld in artikel 19, zevende lid, van de wet, geldt dat: 
 
 a. het internationale traject substantieel buiten Nederland is gelegen indien de in artikel 2, tweede lid, bedoelde kwantitatieve analyse aannemelijk maakt dat het deel van dat traject buiten Nederland, bij benadering ten minste 30 procent bedraagt;  
 
@@ -42,7 +42,7 @@ c. de omzet van het openbaar vervoer hoofdzakelijk afkomstig is van passagiers d
 
 ### Artikel  4  
 
-1.  De Autoriteit Consument en Markt houdt bij de vaststelling of er sprake is van het in gedrang komen van het economisch evenwicht van één of meer concessies, bedoeld in [artikel 19, achtste lid, van de wet](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), rekening met te verwachten markt- en dienstverleningsontwikkelingen.   
+1.  De Autoriteit Consument en Markt houdt bij de vaststelling of er sprake is van het in gedrang komen van het economisch evenwicht van één of meer concessies, bedoeld in artikel 19, achtste lid, van de wet, rekening met te verwachten markt- en dienstverleningsontwikkelingen.   
 2.  De Autoriteit Consument en Markt beoordeelt de gevolgen voor het economisch evenwicht van een concessie op basis van al het nieuwe grensoverschrijdend openbaar vervoer per trein dat zonder concessie naar verwachting plaatsvindt of zal plaatsvinden.   
 3.  De Autoriteit Consument en Markt verricht een economische analyse ten behoeve van de vaststelling, bedoeld in het eerste lid.   
 4.  De Autoriteit Consument en Markt doet mededeling in de Staatscourant van haar methode voor de te verrichten economische analyse en van wijzigingen daarvan.   

@@ -257,6 +257,37 @@ In deze regeling wordt verstaan onder: aardgas-afleverinstallatie: een inrichtin
 
 Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om accreditatie als bedoeld in de artikelen 3.10, tweede lid, 3.14, tweede lid, en 4.8, vierde lid. 
 
+### Artikel  1.3b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Als stoffen, stofklassen en stofcategorieën als bedoeld in artikel 1.1, derde lid, van het besluit, worden in ieder geval aangewezen en onderverdeeld de stoffen, stofklassen en stofcategorieën in bijlage 12a.   
+2.  Voor de stoffen die als anders ingedeeld zijn aangemerkt als bedoeld in artikel 2.5, zesde lid, van het besluit en die in bijlage 12b zijn vermeld, gelden, in afwijking van artikel 2.5 van het besluit, tot 1 januari 2025 de waarden in bijlage 12b.  
+
+### Artikel  1.3c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd artikel 1.3b valt een stof in ieder geval in de stofcategorie zeer zorgwekkende stoffen, bedoeld in artikel 1.1, derde lid, van het besluit en tabel 2.5 van het besluit en is in ieder geval een zeer zorgwekkende stof als bedoeld in artikel 2.3b, tweede lid, van het besluit, indien deze stof voorkomt op: 
+
+a. bijlage VI van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, en is ingedeeld als carcinogeen, mutageen of reprotoxisch, categorie 1a of categorie 1b;  
+
+b. de inventaris van geclassificeerde stoffen als bedoeld in artikel 42, eerste lid, van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels, en is ingedeeld als carcinogeen, mutageen of reprotoxisch, categorie 1a of categorie 1b;  
+
+c. de kandidatenlijst, bedoeld in artikel 59 van EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;  
+
+d. bijlage XIV van EG-verordening registratie, evaluatie en autorisatie van chemische stoffen;  
+
+e. bijlage I, II, III of IV van Verordening (EG) nr. 850/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende persistente organische verontreinigende stoffen en tot wijziging van Richtlijn 79/117/EEG (PbEU L158);  
+
+f. de lijst van stoffen voor prioritaire actie die is vastgesteld op grond van artikel 6 van het op 22 september 1992 te Parijs tot stand gekomen OSPAR Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan, met Bijlagen en Aanhangsels (Trb. 1993, 16 en 141, 1998, 169, 2000, 74, 2001, 157, 2008, 60 en 203, 2011, 231), of  
+
+g. bijlage X van de kaderrichtlijn water, voor zover een stof in die bijlage is aangewezen als prioritaire gevaarlijke stof.     
+2.  Onverminderd het eerste lid valt een stof tevens in de stofcategorie zeer zorgwekkende stoffen en is tevens een zeer zorgwekkende stof als bedoeld in het eerste lid indien deze stof voldoet aan de vastgestelde wetenschappelijke criteria voor het bepalen van hormoonontregelende eigenschappen als bedoeld in: 
+
+a. artikel 5, derde lid, van Verordening (EU) Nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden (PbEU L167), of  
+
+b. bijlage II, paragraaf 3.6.5, van Verordening (EG) Nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEU L 309).     
+3.  Een wijziging van de bijlagen, lijsten, inventaris dan wel criteria, bedoeld in het eerste en tweede lid, gaat voor de toepassing van het eerste lid gelden met ingang van de dag waarop aan de desbetreffende wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt een ander tijdstip wordt vastgesteld.  
+
 ###Afdeling  1.2 
 
 ####Melding
@@ -571,6 +602,145 @@ b. F = O2 + O3 + O4 + O9.
 | O7  | Organische oplosmiddelen als zodanig of in mengsels die als een product met handelswaarde worden verkocht of bestemd zijn om te worden verkocht, met uitzondering van oplosmiddelen die vallen onder O3.   |
 | O8  | De hoeveelheid organische oplosmiddelen, met inbegrip van organische oplosmiddelen in mengsels, die voor hergebruik is teruggewonnen maar niet opnieuw bij de activiteit wordt gebruikt en die niet onder O7 valt.  |
 | O9  | De hoeveelheid vluchtige organische stoffen, die op andere wijze dan bedoeld onder O1 tot en met O8 vrijkomt.  |
+
+### Afdeling  2.5  
+
+####Energiebesparing
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.16  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 2.15, eerste lid, van het besluit wordt, voor de in bijlage 10 aangewezen typen van energiebesparende maatregelen en aangewezen activiteiten, door degene die de inrichting drijft in ieder geval voldaan indien alle maatregelen per aangewezen type en per aangewezen activiteit zijn getroffen voor de bedrijfstak waartoe de inrichting behoort. 
+
+### Afdeling  2.6  
+
+####Zeer zorgwekkende stoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.17  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Als maximaal toelaatbaar risiconiveau van de immissieconcentratie van een zeer zorgwekkende stof als bedoeld in artikel 2.4, zesde lid, onder b, van het besluit, geldt de grenswaarde in bijlage 13.   
+2.  Indien voor een zeer zorgwekkende stof geen grenswaarde is opgenomen in bijlage 13, wordt die grenswaarde vastgesteld volgens de procedure in bijlage 14.  
+
+### Artikel  2.18  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het door middel van berekening bepalen van immissieconcentraties van zeer zorgwekkende stoffen in de buitenlucht als bedoeld in artikel 2.4, zesde lid, onder c, van het besluit, bij inrichtingen: 
+
+a. wordt gebruik gemaakt van gegevens met betrekking tot de: 
+
+1°. fysieke kenmerken van de bron;  
+
+2°. kenmerken van de emissie, en  
+
+3°. kenmerken van de omgeving.    
+
+b. worden de immissieconcentraties bepaald vanaf de grens van het terrein van de betreffende inrichting.   
+
+### Artikel  2.19  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het door middel van berekening bepalen van de concentraties van zeer zorgwekkende stoffen, bedoeld in artikel 2.18, vindt plaats volgens de standaardrekenmethode 3 Nieuw Nationaal Model, voor zover de desbetreffende situatie valt binnen het toepassingsgebied van die rekenmethode.   
+2.  Van de standaardrekenmethode 3 Nieuw Nationaal Model kan in overleg met het bevoegd gezag worden afgeweken mits de methode waarmee wordt afgeweken passend is en gelijkwaardig aan de standaardrekenmethode 3 Nieuw Nationaal Model.   
+3.  In situaties die buiten het toepassingsgebied van standaardrekenmethode 3 Nieuw Nationaal Model vallen, wordt in overleg met het bevoegd gezag een andere, passende methode toegepast.  
+
+### Artikel  2.20  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De vermijdings- en reductieprogramma’s van zeer zorgwekkende stoffen, bedoeld in artikel 2.4, zesde lid, onder a, van het besluit, bevatten in ieder geval: 
+
+a. een overzicht van mogelijkheden en technieken ter voorkoming en ter beperking van de emissies;  
+
+b. met betrekking tot de technieken, bedoeld in onderdeel a, informatie over: 
+
+1°. het rendement;  
+
+2°. de validatie;    
+
+c. informatie over de bedrijfszekerheid en de kosten;  
+
+d. informatie over afwenteleffecten.   
+
+### Afdeling  2.7  
+
+####Bemonstering, analyses en metingen emissiegrenswaarden lucht
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.21  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een meting als bedoeld in artikel 2.8, achtste lid, van het besluit voldoet aan de artikelen 2.22 en 2.23. 
+
+### Artikel  2.22  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De concentraties van componenten in de afgassen worden bepaald door continue meting of afzonderlijke metingen onder procescondities die representatief zijn voor de normale bedrijfsvoering.   
+2.  De metingen bemonsteringen en analyses van de parameters die nodig zijn voor het bepalen of wordt voldaan aan de emissiegrenswaarden alsmede de andere metingen en berekeningen die zijn voorgeschreven, worden uitgevoerd volgens onderstaande normbladen: 
+
+a. emissiemeting en analyse: 
+
+1°. stikstofoxiden (NO<sub>x</sub>): NEN-EN 14792;  
+
+2°. stikstofoxiden (NO<sub>x</sub>) continumeting: NEN-ISO 10849;  
+
+3°. zwaveldioxide (SO<sub>2</sub>): NEN-EN 14791;  
+
+4°. onverbrande koolwaterstoffen (C<sub>x</sub>H<sub>y</sub>): NEN-EN 12619;  
+
+5°. totaal stof: NEN-EN 13284-1 of NEN-EN 13284-2;  
+
+6°. zuurstof (O<sub>2</sub>): NEN-EN 14789;  
+
+7°. chroom VI -verbindingen: ISO 16740;  
+
+8°. zware metalen: NEN-EN 14385;  
+
+9°. zoutzuur: NEN-EN 1911-1, 1911-2 en 1911-3;  
+
+10°. waterstoffluoride: NEN-ISO 15713;  
+
+11°. ammoniak: NEN 2826;  
+
+12°. individuele gasvormige organische componenten: NEN-EN 13649;  
+
+13°. dioxines en furanen: NEN-EN 1948 deel 1,2 en 3;  
+
+14°. kwik: NEN-EN 13211;  
+
+15°. vocht: NEN-EN 14790;  
+
+16°. debiet: NEN-EN-ISO 16911 deel 1 en 2;    
+
+b. meetlocatie, monstername en rapportage van de stoffen, genoemd onder a: NEN-EN 15259.  
+
+c. kwaliteitsborging van continue metingen: NEN-EN 14181.     
+3.  Een afzonderlijke meting als bedoeld in het eerste lid bestaat uit drie deelmetingen van een half uur, tenzij een langere bemonsteringstijd voortvloeit uit de meetmethode of de representatieve wijze van bemonsteren. Het resultaat van de afzonderlijke emissiemeting is het gemiddelde van de deelmetingen, verminderd met de gerapporteerde meetonzekerheid of met een standaardwaarde voor de meetonzekerheid.   
+4.  Een continue meting vindt plaats door: 
+
+a. een rechtstreekse continue meting van de concentratie in het afgas, of  
+
+b. een continue meting van de parameters van de voor de installatie vastgestelde uitworpkarakteristiek.     
+5.  Het resultaat van een continue meting is de verzameling van half-uursgemiddelde of etmaalgemiddelden, verminderd met de gerapporteerde meetonzekerheid of met een standaardwaarde voor de meetonzekerheid.  
+
+### Artikel  2.23  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag bepaalt de meetonzekerheid op basis van de 95%-betrouwbaarheidsinterval van individuele waarnemingen. Bij het bepalen van de meetonzekerheid wordt het gemiddelde van de deelmetingen, bedoeld in artikel 2.22, gecorrigeerd voor het aantal deelmetingen. De meetonzekerheid wordt berekend als percentage van de grenswaarde.   
+2.  Voor de elementen, genoemd in tabel 2.23, bedraagt de maximale meetonzekerheid als percentage van de emissiegrenswaarde niet meer dan de in tabel 2.23 opgenomen percentages.  tabel 2.23 
+
+| Elementen  | Meetonzekerheid (%)  |
+|:---|:---|
+| SO<sub>2</sub>   | 20  |
+| NO<sub>x</sub>   | 20  |
+| Stof  | 30  |
+| totaal stof (stofklasse S)  | 30  |
+| Overige componenten  | 40  |
+| Debiet  | 20  |
 
 ### Hoofdstuk  3  
 
@@ -963,6 +1133,17 @@ Indien reinigingswerkzaamheden of conserveringswerkzaamheden worden uitgevoerd a
 ###Artikel 3.4s 
 
 Indien reinigingswerkzaamheden of conserveringswerkzaamheden worden uitgevoerd aan een vast object dat door het aanbrengen van een hulpconstructie beperkt stabiel wordt, omsluit de hulpconstructie in afwijking van de artikelen 3.4l tot en met 3.4p de ruimte waarin wordt gewerkt zoveel mogelijk.
+
+### §  3.1.4  
+
+####Handelingen in een oppervlaktewaterlichaam
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.4t  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De interventiewaarden, bedoeld in artikel 3.6d, tweede lid, van het besluit zijn de waarden van de stoffen die zijn opgenomen in tabel 2 van bijlage B, behorende bij de Regeling bodemkwaliteit. 
 
 ### Afdeling  3.2  
 
@@ -2177,21 +2358,21 @@ c. de situering van het opslaan van de bijvoedermiddelen ten opzichte van geurge
 
 ### Artikel  3.71b  
 
-1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.54d van het besluit, voldoet de opslag van gasolie en afgewerkte olie in bovengrondse opslagtanks aan de artikelen 3.71c tot en met 3.71h.   
-2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.54d van het besluit voldoet de opslag van smeerolie in bovengrondse opslagtanks aan de artikelen 3.71f en 3.71h.   
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico en het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.54d van het besluit, voldoet de opslag van gasolie in bovengrondse opslagtanks aan de artikelen 3.71c tot en met 3.71h.   
+2.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.54d van het besluit voldoet de opslag van smeerolie of afgewerkte olie in bovengrondse opslagtanks aan de artikelen 3.71f en 3.71h.   
 3.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam als bedoeld in artikel 3.54d van het besluit voldoet de opslag van gasolie, smeerolie of afgewerkte olie in bovengrondse opslagtanks boven een oppervlaktewaterlichaam aan de artikelen 3.71g en 3.71h.  
 
 ### Artikel  3.71c  
 
-1.  De opslag van gasolie en afgewerkte olie in bovengrondse opslagtanks vindt plaats in bovengrondse opslagtanks, die met de daarbij behorende leidingen en appendages naar hun aard en functie geschikt zijn voor de opslag van de desbetreffende stoffen.   
+1.  De opslag van gasolie in bovengrondse opslagtanks vindt plaats in bovengrondse opslagtanks, die met de daarbij behorende leidingen en appendages naar hun aard en functie geschikt zijn voor de opslag van de desbetreffende stoffen.   
 2.  De bovengrondse opslagtanks en de daarbij behorende leidingen en appendages verkeren in goede staat.   
-3.  De opslag van gasolie en afgewerkte olie in bovengrondse opslagtanks vindt op de vloer plaats.   
-4.  Het derde lid is niet van toepassing op een bovengrondse opslagtank met gasolie of afgewerkte olie indien plaatsing op de vloer als gevolg van de constructie van de bijbehorende procesinstallatie niet mogelijk is.  
+3.  De opslag van gasolie in bovengrondse opslagtanks vindt op de vloer plaats.   
+4.  Het derde lid is niet van toepassing op een bovengrondse opslagtank met gasolie indien plaatsing op de vloer als gevolg van de constructie van de bijbehorende procesinstallatie niet mogelijk is.  
 
 ### Artikel  3.71d  
 
-1.  Een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor het opslaan van gasolie en afgewerkte olie is uitgevoerd en geïnstalleerd en wordt gerepareerd of vervangen en beoordeeld of gecontroleerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
-2.  Het opslaan van gasolie en afgewerkte olie in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
+1.  Een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor het opslaan van gasolie is uitgevoerd en geïnstalleerd en wordt gerepareerd of vervangen en beoordeeld of gecontroleerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument, door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit.   
+2.  Het opslaan van gasolie in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voldoet aan de volgende onderdelen van PGS 30: 
 
 a. de paragrafen 2.2 en 2.3;  
 
@@ -2199,14 +2380,14 @@ b. de voorschriften 2.4.3, 2.6.1, 2.6.3 tot en met 2.6.6 en 2.6.14, en
 
 c. paragraaf 4.2, met uitzondering van de voorschriften 4.2.3, 4.2.9, 4.2.12, 4.2.13, eerste volzin, en tabel 4.1.     
 3.  Een opslagtank als bedoeld in het eerste lid bevindt zich niet op een verdieping.   
-4.  Het gebruik van een opslagtank waarin het opslaan, vullen en afleveren van gasolie en afgewerkte olie plaatsvindt in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages, voldoet aan de volgende onderdelen van PGS 30: 
+4.  Het gebruik van een opslagtank waarin het opslaan, vullen en afleveren van gasolie plaatsvindt in een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages, voldoet aan de volgende onderdelen van PGS 30: 
 
 a. voorschrift 3.2.4;  
 
 b. de paragrafen 3.3, 3.5, 3.6, 5.2, 5.4, en  
 
 c. de voorschriften 5.5.1, 5.5.2, 5.6.1, 5.6.3 en 5.6.4.     
-5.  Een stationaire bovengrondse opslagtank voor het inpandig opslaan van gasolie en afgewerkte olie in een werkruimte, in een ruimte met een noodstroomaggregaat of onder een woning heeft een inhoud van ten hoogste 3 kubieke meter.   
+5.  Een stationaire bovengrondse opslagtank voor het inpandig opslaan van gasolie in een werkruimte, in een ruimte met een noodstroomaggregaat of onder een woning heeft een inhoud van ten hoogste 3 kubieke meter.   
 6.  Voor een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages gelden de keurings- en herkeuringstermijnen van tabel 3.71d.  Tabel 3.71d 
 
 | (Her)keuringstermijnen voor een stationaire bovengrondse opslagtank met de daarbij behorende leidingen en appendages voor vloeistoffen van PGS-klasse 2 tot en met PGS-klasse 4  | Staal enkelwandig in gecertificeerde opvangbak  | Eerste (her)keuring  | Volgende herkeuring  |
@@ -2244,14 +2425,13 @@ b. van de lekdetectie van een dubbelwandige opslagtank en de dubbelwandige leidi
 
 c. van de aarding en de potentiaalvereffening van de vul- en dampretourleiding indien in de bovengrondse opslagtank vloeistoffen van PGS-klasse 1 en 2 zijn opgeslagen;  
 
-d. op de aanwezigheid van water en bezinksel in een stalen bovengrondse opslagtank. Een jaarlijkse controle op de aanwezigheid van water en bezinksel is niet noodzakelijk indien vloeistoffen van PGS-klasse 4 in de bovengrondse tank zijn opgeslagen.     
+d. op de aanwezigheid van water en bezinksel in een stalen bovengrondse opslagtank.     
 9.  Een bovengrondse opslagtank wordt bij herkeuring inwendig gereinigd en beoordeeld door middel van betreding van de tank. Inwendige inspectie met behulp van een camera is toegestaan bij een volledig inwendig gecoate tank, indien deze inspectie wordt uitgevoerd overeenkomstig het daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocument. Indien bij herkeuring een ondergrondse opslagtank niet kan worden betreden of, indien toegestaan, middels een camera-inspectie inwendig geïnspecteerd kan worden, wordt de opslagtank afgekeurd. Het gebruik van de opslagtank is in geval van afkeuring toegestaan tot de uiterste herkeuringsdatum.   
 10.  Het bevoegd gezag kan ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, bij maatwerkvoorschrift het derde lid niet van toepassing verklaren en toestaan dat een opslagtank zich op een verdieping bevindt.   
 11.  Bij een maatwerkvoorschrift als bedoeld in het tiende lid kunnen eisen worden gesteld om de toegankelijkheid van de opslagtank voor de brandbestrijding te borgen.   
 12.  In afwijking van het achtste lid vindt de controle, bedoeld in onderdeel d van dat lid, eenmaal per drie jaar plaats indien de opslagtank aantoonbaar is voorzien van een inwendige coating overeenkomstig BRL K779 en die coating is aangebracht door een bedrijf dat daartoe is gecertificeerd op basis van BRL K790.   
 13.  Indien tijdens de controle, bedoeld in het achtste lid, onderdeel d, water of bezinksel is aangetroffen, wordt dit terstond verwijderd. Van het verwijderde water worden de elektrische geleidbaarheid en de zuurgraad beoordeeld. Wanneer bij de derde opeenvolgende meting blijkt dat de zuurgraad en de elektrische geleidbaarheid van het in het bezinksel aangetroffen water buiten de normeisen vallen, wordt een inwendige inspectie van de bovengrondse opslagtank uitgevoerd. Indien een inwendige inspectie noodzakelijk is, wordt dit terstond gemeld aan het bevoegd gezag.   
-14.  In afwijking van het negende en dertiende lid is een inwendige beoordeling of inwendige inspectie bij de keuring van een bovengrondse opslagtank niet noodzakelijk indien deze opslagtank dubbelwandig is uitgevoerd met een lekdetectiesysteem in de wand.   
-15.  Het eerste tot en met het veertiende lid is niet van toepassing op het opslaan van afgewerkte olie van een gasgestookte warmtekrachtinstallatie waaraan geen stoffen zijn toegevoegd en welke geen lager vlampunt heeft dan 55 graden celsius. 
+14.  In afwijking van het negende en dertiende lid is een inwendige beoordeling of inwendige inspectie bij de keuring van een bovengrondse opslagtank niet noodzakelijk indien deze opslagtank dubbelwandig is uitgevoerd met een lekdetectiesysteem in de wand.  
 
 ### Artikel  3.71e  
 
@@ -2264,7 +2444,8 @@ De opslag van gasolie in mobiele bovengrondse opslagtanks inclusief de bijbehore
 3.  De vulpunten en aftappunten van een bovengrondse opslagtank met gasolie, smeerolie en afgewerkte olie zijn geplaatst boven een vloeistofdichte vloer of verharding of boven of in een lekbak.   
 4.  De opslagtank en de vulleiding zijn voorzien van een overvulbeveiliging.   
 5.  Het vierde lid is niet van toepassing op een opslagtank voor afgewerkte olie die handmatig of onder vrij verval gevuld wordt.  
-6.  Boven de lekbak, bedoeld in het eerste lid, vindt geen opslag van andere gevaarlijke stoffen plaats, indien die kunnen reageren met de stoffen in de bovengrondse opslagtank.  
+6.  Boven de lekbak, bedoeld in het eerste lid, vindt geen opslag van andere gevaarlijke stoffen plaats, indien die kunnen reageren met de stoffen in de bovengrondse opslagtank.   
+7.  Een opslagtank voor afgewerkte olie wordt minimaal eenmaal per jaar geleegd. 
 
 ### Artikel  3.71g  
 
@@ -2278,7 +2459,8 @@ a. gemorste of gelekte vloeistoffen effectief worden opgevangen en kunnen worden
 b. er geen hemelwater op of in terecht kan komen, tenzij het hemelwater regelmatig van of uit de voorziening wordt verwijderd.     
 5.  De voorzieningen, bedoeld in het eerste en derde lid, zijn bestand tegen de inwerking van de opgeslagen stoffen en de condities waaronder deze stoffen worden gebruikt of opgeslagen.   
 6.  De voorziening, bedoeld in het eerste lid, heeft een opvangcapaciteit van ten minste 10% van de inhoud van alle opgeslagen stoffen.   
-7.  De opslagtank en de vulleiding zijn voorzien van een overvulbeveiliging.  
+7.  De opslagtank en de vulleiding zijn voorzien van een overvulbeveiliging.   
+8.  Een opslagtank voor afgewerkte olie wordt minimaal eenmaal per jaar geleegd. 
 
 ### Artikel  3.71h  
 
@@ -2699,6 +2881,35 @@ b. een USB-aansluiting.
 5.  Een buitenopslag voor gedompelde of gedouchte producten of voor tijdens het dompelen gebruikte emballage is tegen inregenen beschermd.   
 6.  Het bevoegd gezag kan, indien het belang van de bescherming van de bodem daartoe noodzaakt, bij maatwerkvoorschrift eisen stellen aan de locatie en de opstelling van het dompelbad of de douche-installatie, de gedompelde of gedouchte producten en de emballage, bedoeld in het tweede tot en met zesde lid.  
 
+### Artikel  3.94a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 3.103, tweede lid, van het besluit, wordt bij het spoelen van bloembollen met een spoelmachine ten minste voldaan aan de Handreiking bezinkbassins bloembollensector. 
+
+### Artikel  3.94b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan artikel 3.105, vierde lid, onderdeel b, van het besluit wordt in ieder geval voldaan indien de zuiveringsvoorziening voldoet aan het tweede tot en met het vierde lid.   
+2.  De zuiveringsvoorziening bestaat uit: 
+
+a. voorzuivering met een lamellenfilter, en  
+
+b. nazuivering met een ozoninstallatie en actief koolfilter.     
+3.  Indien bij het sorteren gebruik wordt gemaakt van ten hoogste 8 kubieke meter water: 
+
+a. heeft het lamellenfilter een inhoud van ten minste 1,5 kubieke meter en een capaciteit van ten minste 2 kubieke meter per uur;  
+
+b. heeft de ozoninstallatie een capaciteit van ten minste 1 kubieke meter per uur, is de contacttijd in de ozoninstallatie ten minste 30 minuten en wordt ten minste 20 gram ozon per kubieke meter te behandelen afvalwater toegevoegd, en  
+
+c. is de contacttijd in het actief koolfilter ten minste 20 minuten.     
+4.  Indien bij het sorteren gebruikt wordt gemaakt van meer dan 8 en ten hoogste 16 kubieke meter water: 
+
+a. heeft het lamellenfilter een inhoud van ten minste 6 kubieke meter en een capaciteit van ten minste 4 kubieke meter per uur;  
+
+b. heeft de ozoninstallatie een capaciteit van ten minste 3 kubieke meter per uur, is de contacttijd in de ozoninstallatie ten minste 30 minuten en wordt ten minste 20 gram ozon per kubieke meter te behandelen afvalwater toegevoegd, en  
+
+c. is de contacttijd in het actief koolfilter ten minste 20 minuten.    
+
 ### §  3.5.5  
 
 ####Composteren
@@ -2799,6 +3010,90 @@ d. welke maatregelen als bedoeld in artikel 3.125, zesde lid, van het besluit wo
 ### Artikel  3.102  
 
 Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder als bedoeld in artikel 3.129b, van het besluit vindt het bereiden van brijvoer ten minste plaats in een gesloten ruimte. 
+
+### §  3.5.8  
+
+####Kleinschalig vergisten van uitsluitend dierlijke meststoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.102a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico, bedoel in artikel 3.129h, onderdeel a, van het besluit voldoet een installatie voor het vergisten van dierlijke meststoffen, het opslaan van het restproduct van het vergisten van dierlijke meststoffen, zolang dat restproduct nog niet stabiel is, het biologisch behandelen van dierlijke meststoffen voor of na het vergisten en het bewerken van vergistinggas ten minste aan de artikelen 3.102b en 3.102c.   
+2.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.129h, onderdeel b, van het besluit wordt bij het vergisten van dierlijke meststoffen, het opslaan van het restproduct van het vergisten van dierlijke meststoffen, zolang dat restproduct nog niet stabiel is, het opslaan van vergistinggas, het bewerken en transporteren van vergistinggas ten minste voldaan aan de artikelen 3.102b, 3.102d en 3.102e.   
+3.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, bedoeld in artikel 3.129h, onderdeel c, van het besluit voldoet een installatie voor het bewerken van vergistinggas ten minste aan artikel 3.102f.  
+
+### Artikel  3.102b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een installatie voor het: 
+
+a. biologisch behandelen van dierlijke meststoffen voor of na het vergisten;  
+
+b. opslaan van digestaat van het vergisten van dierlijke meststoffen, dat nog niet stabiel is;  
+
+c. opslaan van vergistinggas, en  
+
+d. bewerken en transporteren van vergistinggas,   is voorzien van een kwaliteitsverklaring, waaruit blijkt dat de installatie bij oplevering voldoet aan de NTA 9766. In de kwaliteitsverklaring wordt een referentieperiode vastgesteld voor de geldigheid. De referentieperiode is ten hoogste 15 jaar.   
+2.  Ten minste vier weken voor het aflopen van de referentieperiode wordt beoordeeld of de installatie nog steeds voldoet aan de NTA 9766 en wordt een kwaliteitsverklaring afgegeven met referentieperiode.   
+3.  Indien de beoordeling, bedoeld in het tweede lid, ertoe leidt dat de kwaliteitsverklaring alleen afgegeven kan worden indien bepaalde reparaties of wijzigingen worden uitgevoerd, draagt degene die de inrichting drijft er zorg voor dat deze reparaties of wijzigingen onverwijld worden uitgevoerd.   
+4.  Indien voor een installatie of voorziening geen kwaliteitsverklaring als bedoeld in het tweede lid kan worden afgegeven, of de reparaties of wijzigingen bedoeld in het derde lid niet worden uitgevoerd, wordt de installatie buiten gebruik gesteld.   
+5.  In aanvulling op het eerste lid wordt een gaszak waarin vergistinggas wordt opgeslagen jaarlijks visueel geïnspecteerd op tekenen van verwering of slijtage en indien nodig gerepareerd.  
+
+### Artikel  3.102c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De volgende activiteiten vinden plaats boven een bodembeschermende voorziening: 
+
+a. het vergisten van dierlijke meststoffen;  
+
+b. het opslaan van het restproduct van het vergisten van dierlijke meststoffen, zolang dat restproduct nog niet stabiel is, en  
+
+c. het biologisch behandelen van dierlijke meststoffen voor of na het vergisten.     
+2.  In afwijking van het eerste lid is een geheel of gedeeltelijk ondergrondse voorziening voor de activiteiten, bedoeld in het eerste lid: 
+
+a. vloeistofdicht, of  
+
+b. aangelegd overeenkomstig BRL 2342.     
+3.  De vul- en aftappunten van een voorziening voor de activiteiten, bedoeld in het eerste lid, zijn geplaatst boven een vloeistofdichte vloer of verharding of boven of in een lekbak.   
+4.  Het bewerken van vergistinggas vindt plaats boven een bodembeschermende voorziening.   
+5.  Artikel 2.11 van het besluit is niet van toepassing op de activiteiten, bedoeld in het eerste lid.  
+
+### Artikel  3.102d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een installatie voor het vergisten van dierlijke meststoffen en het opslaan, bewerken en transporteren van vergistinggas is uitgevoerd in materialen die bestand zijn tegen de inwerking van dierlijke mest en vergistinggas.   
+2.  Bij de relevante delen van een installatie voor het vergisten van dierlijke meststoffen is een noodprocedure aanwezig waarin is opgenomen: 
+
+a. een beschrijving van de handelingen die worden verricht bij ten minste de volgende incidenten: 
+
+1°. een storing van de WKK-installatie of de installatie voor het bewerken van vergistinggas;  
+
+2°. stroomuitval;  
+
+3°. brand, en  
+
+4°. het afgaan van de overdrukbeveiliging.    
+
+b. een lijst van contactpersonen en instanties die worden gewaarschuwd.     
+3.  Indien vergistinggas wordt geodoriseerd met tetrahydrothiofeen is tevens onderdeel van de noodprocedure dat een incident waarbij tetrahydrothiofeen vrijkomt, wordt gemeld aan het bevoegd gezag, de brandweer en de lokale beheerder van het aardgasnet.   
+4.  Een installatie voor het vergisten van dierlijke meststoffen of het bewerken van vergistinggas wordt uitsluitend bediend door een persoon die over voldoende deskundigheid beschikt. Bij de installatie zijn bedieningsinstructies aanwezig.   
+5.  Indien vergistinggas via een leiding uit de inrichting wordt getransporteerd, is de installatie die het vergistinggas op de leiding brengt zo afgesteld dat bij een plotselinge drukval in de leiding de levering van biogas wordt stopgezet. In dat geval wordt de levering hervat indien is vastgesteld dat er geen problemen met de leiding zijn of deze zijn opgelost.   
+6.  Bovengrondse vergistinggasleidingen zijn beveiligd tegen aanrijden. Ondergrondse vergistinggasleidingen lopen niet onder gebouwen door. Vergistinggasleidingen zijn herkenbaar als zodanig gemerkt.   
+7.  Indien een installatie voor het vergisten van dierlijke meststoffen of een voorziening voor het opslaan of bewerken van vergistinggas buiten gebruik wordt gesteld, wordt eerst het restant vergistinggas uit de installatie verwijderd. Het vergistinggas wordt indien mogelijk nuttig toegepast en voor zover dat niet mogelijk is vernietigd of anders afgevoerd met zo min mogelijk gevaar voor mens en milieu. Zodra de installatie niet meer gasdicht is, wordt het overgebleven restproduct zo snel mogelijk uit de installatie verwijderd en gestabiliseerd.  
+
+### Artikel  3.102e  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Op een vast opgestelde opslagtank voor vloeibaar vergistinggas zijn de voorschriften 2.2.1, 2.2.3 tot en met 2.2.6, 2.2.10, 2.2.13 tot en met 2.2.15 van PGS 33-1 van overeenkomstige toepassing.   
+2.  Bij het legen van de opslagtank zijn de voorschriften 3.3.1, 3.3.2, 3.3.6 tot en met 3.3.12, 5.5.1 tot en met 5.5.6 van PGS 33-1 van overeenkomstige toepassing.   
+3.  Onverminderd het tweede lid wordt een vast opgestelde opslagtank voor vloeibaar vergistinggas geleegd met composietslangen. Bij het legen van de tank wordt potentiaalvereffening toegepast om statische oplading te voorkomen.  
+
+### Artikel  3.102f  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De kooldioxide die vrijkomt bij het bewerken van vergistinggas wordt bovendaks en omhoog gericht afgevoerd. 
 
 ### Afdeling  3.6  
 
@@ -3023,6 +3318,197 @@ r. vlakglas.
 6.  Bij maatwerkvoorschrift kan het bevoegd gezag toestaan dat een of meer van de voorzieningen, bedoeld in het tweede lid, onder f tot en met r, niet aanwezig zijn, op voorwaarde dat de inrichtinghouder op een redelijke in het voorschrift te stellen termijn via nascheiding of op andere wijze een zelfde niveau van afvalscheiding bereikt waarmee een zelfde niveau van recycling kan worden bereikt als bij het gescheiden houden conform het tweede lid.   
 7.  Bij maatwerkvoorschrift als bedoeld in het vijfde lid kunnen voorwaarden worden gesteld aan de wijze van nascheiding of andere alternatieve verwerking en het overleggen van bescheiden hierover.  
 
+### §  3.8.2  
+
+####Buitenschietbanen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.116  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van bodemverontreiniging als bedoeld in artikel 3.158 van het besluit is de kogelvanger opgesteld boven een bodembeschermende maatregel tenzij deze is uitgevoerd als zandkogelvanger met overkapping tegen inregenen.   
+2.  Het eerste lid is niet van toepassing op een kleiduivenschietbaan die niet bij besluit op grond van artikel 2, derde lid, van het Besluit kleiduivenschieten milieubeheer is aangewezen.   
+3.  Indien een kleiduivenschietbaan bij besluit als bedoeld in het tweede lid is aangewezen, stelt het bevoegd gezag bij maatwerkvoorschrift eisen aan de bescherming van de baanzool, van andere bodemoppervlakken en aan de maatregel, bedoeld in het eerste lid.  
+
+### Artikel  3.117  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan als bedoeld in artikel 3.162 van het besluit, wordt bij het schieten op een buitenschietbaan voldaan aan het tweede tot en met vierde lid.   
+2.  De constructie van een buitenschietbaan als bedoeld in artikel 3.157, onderdeel a, van het besluit, voldoet ten minste aan de bepalingen 2.1.1 tot en met 2.1.5, 2.2.1 tot en met 2.2.5, 2.3.1 tot en met 2.3.5, 2.4.1 tot en met 2.4.4, 2.5.1 tot en met 2.5.3 van de MP 40-30.   
+3.  De constructie van een buitenschietbaan als bedoeld in artikel 3.157, onderdeel b, van het besluit voldoet ten minste aan tabel 3.117a.  Tabel 3.117a 
+
+| deel of kenmerk van de schietbaan  | wapens met een kaliber tot en met .22  | vuistvuurwapens met een kaliber tot .50 en overige vuurwapens voorzien van pistoolmunitie en historische vuistvuurwapens  | schoudervuurwapens met een kaliber tot .50 en historische schoudervuurwapens  |
+|:---|:---|:---|:---|
+| constructie van afscherming om uittreden kogels aan bovenzijde tegen te gaan  | 50 mm beton of 100 mm gasbeton of 5 mm staalplaat  | 100 mm beton of 150 mm gasbeton of 8 mm staalplaat  | 200 mm beton of gasbeton of 12 mm staalplaat indien toegepast op minder dan 100 m van het wapen; op 100 m of meer afstand van het wapen 150 mm beton of gasbeton of 10 mm staalplaat  |
+| plaatsing afscherming om uittreden van kogels aan bovenzijde tegen te gaan  | schoten afgevuurd in de richting van de baanas onder een hoek met de horizontaal van 45 graden voor vuistvuurwapens en 20 graden bij schoudervuurwapens worden door de afscherming opgevangen.  Ricochets onder een hoek tot 21 graden met de bodem worden door de afscherming opgevangen.  |
+| afscherming om uittreden van kogels aan de zijkant van de schietbaan tegen te gaan  | 100 mm metselwerk of kalkzandsteen of 75 mm beton of aarden wal minimaal 40 graden, aansluitend op de kogelvanger  | 200 mm metselwerk of kalkzandsteen of 100 mm beton of aarden wal minimaal 40 graden, aansluitend op kogelvanger  | 200 mm metselwerk of kalkzandsteen of 200 mm beton of aarden wal minimaal 40 graden, aansluitend op kogelvanger  |
+| bescherming van stenen, betonnen of stalen afschermingen op minder dan 20 m van de schietpunten  | aan schutterszijde vurenhout 20 mm of cementvezelplaat 25 mm op regels 25 mm  | aan schutterszijde vurenhout 25 mm of cementvezelplaat 50 mm op regels 30 mm  | aan schutterszijde vurenhout 25 mm of cementvezelplaat 50 mm op regels 30 mm  |
+| bescherming overige aanschietbare harde delen  | vurenhout 20 mm op regels 25 mm  | vurenhout 25 mm op regels 30 mm  | vurenhout 25 mm op regels 30 mm  |
+| baanzool (indien en voor zover onverhard)  | vlak zand of met gras begroeid vlak, zonder harde bestanddelen met afmetingen groter dan 5 mm  |
+| baanzool (indien en voor zover verhard)  | harde ondergrond is voorzien van een zachte afwerklaag van hout, zandcement, kunststof of fijn asfalt, dik ten minste 25 mm.  |
+| zandkogelvanger  | Helling minimaal 34 graden met horizontaal; nabij hoogst mogelijke inslag 0,75 m diepte  | Helling minimaal 34 graden met horizontaal; nabij hoogst mogelijke inslag 1,0 m diepte  | Helling minimaal 34 graden met horizontaal; nabij hoogst mogelijke inslag 1,2 m diepte  |
+
+4.  Een kleiduivenschietbaan heeft een onveilige zone in de vorm van een cirkelsector die voldoet aan tabel 3.117b en waarin tijdens het schieten geen personen aanwezig mogen zijn.  Tabel 3.117b 
+
+| eigenschap van de onveilige sector  | baan met meerdere in halve cirkel gelegen schietposten (skeetbaan)  | baan met een of twee rijen naast elkaar gelegen schietposten (trapbaan)  | baan met doelen die onder 1,0 m hoogte blijven (hazenbaan, ‘lopend varken’)  | baan met overige opstellingen van schietposten en doelen.  |
+|:---|:---|:---|:---|:---|
+| middelpunt  | post 8 (middelpunt halve cirkel)  | 15 m midden achter voorste rij schietposten  | 10 m achter middelste schietpost  | 10 m achter midden van de achterste schietpost(en)  |
+| hoek van de cirkelsector  | 158 graden  | 63 graden  | zichthoek op doel vanuit middelpunt tot doelgebied + 20 graden  | 90 graden  |
+| lengte van de sector  | 225 m  | 240 m  | 200 m  | 260 m  |
+
+5.  Het bevoegd gezag kan in het belang van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan bij maatwerkvoorschrift eisen stellen aan de uitvoering van de constructie, bedoeld in het tweede en derde lid, aan de afmetingen van de onveilige zone, bedoeld in het vierde lid, en aan het beperken of vrijhouden daarvan.  
+
+### Artikel  3.118  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het rapport van een akoestisch onderzoek, bedoeld in artikel 1.11, derde lid, onderdeel g, van het besluit voldoet aan bijlage 9 en bevat de volgende gegevens: 
+
+a. de naam van de opdrachtgever van het onderzoek;  
+
+b. de naam van de instantie die het onderzoek heeft uitgevoerd;  
+
+c. de datum van het onderzoek;  
+
+d. de aanleiding en het doel van het onderzoek;  
+
+e. de gegevens waarmee wordt aangetoond dat de betreffende situatie valt binnen het toepassingsbereik van de gebruikte methode; 
+
+1°. een gedetailleerde beschrijving (naam, type, fabricaat) van de gemeten representatieve wapens en de gebruikte munitie (merk en type);  
+
+2°. het totale aantal schoten van de representatieve gebruiksituatie voor de relevante wapencategorieën voor de relevante beoordelingsperioden;  
+
+3°. een plattegrond van de akoestisch relevante dimensies en de aard van de doorgerekende geluidsbeperkende of afschermende maatregelen;  
+
+4°. de meetwaarden voor LA<sub>E</sub> en LA<sub>max</sub> alsmede de energetische gemiddelde waarden;  
+
+5°. het gemeten achtergrondgeluidniveau per meetlocatie en de beschrijving van de aard van de stoorgeluiden;  
+
+6°. de weersomstandigheden indien metingen buiten zijn uitgevoerd;    
+
+f. indien een andere methode dan die is opgenomen in bijlage 9 wordt gebruikt, wordt de noodzaak daarvan aangegeven en wordt de toegepaste methode beschreven en verantwoord;  
+
+g. indien een rekenmethode wordt toegepast, alle ingevoerde gegevens en tevens de geraadpleegde windfrequentiegegevens;  
+
+h. een of meer kaarten of tekeningen op een zodanige schaal dat een duidelijk beeld wordt gegeven van bestaande of voorgenomen buitenschietbanen en van gevoelige gebouwen of gevoelige terreinen waarop het akoestisch onderzoek betrekking heeft;  
+
+i. de waarneempunten;  
+
+j. de situering, akoestisch relevante dimensies en de aard van de doorgerekende geluidsbeperkende of afschermende maatregelen, zowel op het oorspronkelijke kaartmateriaal als in de vorm van de geschematiseerde computerinvoer;  
+
+k. de situering, akoestisch relevante dimensies en de aard van de overige geluidsreflecterende en -afschermende objecten of constructies;  
+
+l. de scheidingslijn of scheidingslijnen tussen akoestisch harde en zachte bodemvlakken, met een aanduiding van de aard van de bodem;  
+
+m. in akoestisch gecompliceerde situaties, een grafische weergave van de bij de berekeningen gehanteerde geometrische invoergegevens;  
+
+n. de geluidsbelasting van een buitenschietbaan op de gevel van een gevoelig object of van de grens van een gevoelig terrein uitgedrukt in B<sub>s,dan</sub>.     
+2.  In afwijking van het eerste lid, onderdeel e, onder 1°, kan voor militair gebruik worden volstaan met een beschrijving van het aantal wapens per representatieve categorie.   
+3.  Ten behoeve van het akoestisch onderzoek, bedoeld in artikel 1.11, derde lid, van het besluit, wordt bij de bepaling van de geluidsbelasting van een buitenschietbaan rekening gehouden met: 
+
+a. de over een kalenderjaar energetisch gemiddelde bronsterkten volgens de methode, bedoeld in paragraaf 4.5 van bijlage 9, en met gebruikmaking van de gegevens uit het register, bedoeld in het achtste lid, en de op grond van bijlage 9 aangeleverde langjarig gemiddelde windprofielen, tenzij wordt aangetoond dat gegevens beschikbaar zijn die een gelijkwaardig of beter beeld geven van de geluidsemissie van de buitenschietbaan;  
+
+b. de invloed van de omgeving en de meteorologische omstandigheden op de geluidsoverdracht van de buitenschietbaan naar het immissiepunt.     
+4.  Indien de vaststelling van de geluidsbelasting vanwege een buitenschietbaan plaatsvindt op de gevel van een gevoelig gebouw, bevindt het immissiepunt zich op het punt van de gevel, waar de geluidsbelasting het hoogst is.   
+5.  Indien de vaststelling van de geluidsbelasting vanwege een buitenschietbaan plaatsvindt op de grens van een gevoelig terrein, bevindt het immissiepunt zich op het punt van de grens waar de geluidsbelasting het hoogst is.   
+6.  Van de methode, bedoeld in hoofdstuk 4 van bijlage 9, kan geheel of gedeeltelijk worden afgeweken indien aannemelijk wordt gemaakt dat de toe te passen afwijking: 
+
+a. een belangrijke tijdbesparing of kostenbesparing oplevert en in de betreffende situatie nagenoeg even nauwkeurig is;  
+
+b. in de betreffende situatie belangrijk nauwkeuriger is, of  
+
+c. voldoende nauwkeurig is en de methode, bedoeld in hoofdstuk 4 van bijlage 9, in de betreffende situatie niet leidt tot een voldoende representatieve geluidsbelasting.     
+7.  Indien de gegevens over het bronvermogen van een wapen- of munitiecombinatie niet of niet volledig beschikbaar zijn, wordt dit bepaald volgens de methode, bedoeld in paragraaf 4.4 van bijlage 9. Indien in het kader van de handhaving wordt beoordeeld of het bronvermogen overeenkomt met de in het akoestisch onderzoek gebruikte waarden, wordt de methode, bedoeld in paragraaf 4.5 van bijlage 9, toegepast.   
+8.  De Minister van Infrastructuur en Milieu draagt zorg voor het in stand houden van een register van brongegevens van wapen- en munitiecombinaties als bedoeld in paragraaf 4.4 van bijlage 9. Het bevoegd gezag heeft op aanvraag inzage in dit register.  
+
+### Artikel  3.118a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De drijver van de inrichting registreert de volgende gegevens: 
+
+a. dagelijks het aantal schoten of ontploffingen per wapentype, per dag-, avond- en nachtperiode, per baan, en  
+
+b. voor de duur van de handhavingsmeting, bedoeld in paragraaf 4.4.1 van bijlage 9, de op dat tijdstip gebruikte wapens en verschoten munitie.   
+
+### §  3.8.3  
+
+####Coaten of lijmen van planten of onderdelen van planten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.119  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van diffuse emissies, bedoeld in artikel 3.167, onderdeel a, van het besluit, worden voor zover dat redelijkerwijs mogelijk is, dampen en gassen die vrijkomen bij het coaten of lijmen van planten of onderdelen van planten doelmatig afgezogen aan de bron door middel van: 
+
+a. het vernevelen van vluchtige organische stoffen met een nevelspuit, of  
+
+b. het opbrengen van poeder.     
+2.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder, bedoeld in artikel 3.167, onderdeel d, van het besluit, worden de dampen en gassen die zijn afgezogen overeenkomstig het eerste lid en die in de buitenlucht worden geëmitteerd: 
+
+a. ten minste twee meter boven de hoogste daklijn van de binnen 25 meter van de uitmonding gelegen gebouwen afgevoerd, of  
+
+b. geleid door een doelmatige ontgeuringsinstallatie.     
+3.  Het tweede lid is niet van toepassing indien het mogelijke effect van de geuremissie van de uittredende lucht van een afzuiginstallatie beperkt blijft tot een gezoneerd industrieterrein of een bedrijventerrein met minder dan één gevoelig gebouw per hectare.   
+4.  Het bevoegd gezag kan, indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt vanwege het slecht functioneren van de ontgeuringsinstallatie, onvoldoende verspreiding van afgezogen dampen, geuremissies die niet via de afzuiging worden afgevoerd of vanwege incidentele geurpieken, overeenkomstig artikel 2.7a, tweede en derde lid, van het besluit onverminderd het tweede lid bij maatwerkvoorschrift eisen stellen aan: 
+
+a. de uitvoering en het onderhoud van een ontgeuringsinstallatie als bedoeld in het tweede lid, onderdeel b;  
+
+b. de situering van de afvoerpijp;  
+
+c. het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van diffuse geuremissies, of  
+
+d. het beperken van incidentele geurpieken tot specifieke tijdstippen.     
+5.  In afwijking van het tweede lid kan het bevoegd gezag indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt en de bevoegdheden, bedoeld in het vierde lid, onvoldoende zijn om de overschrijding ongedaan te maken overeenkomstig artikel 2.7a, tweede en derde lid, van het besluit bij maatwerkvoorschrift eisen stellen aan de aanwezigheid van een ontgeuringsinstallatie of een grotere afvoerhoogte van de afgezogen dampen en gassen voorschrijven.  
+
+### Artikel  3.120  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 3.165, eerste lid, van het besluit wordt in ieder geval voldaan indien: 
+
+a. de afgezogen stofemissies die vrijkomen bij het coaten van planten of onderdelen van planten door middel van het vernevelen met een nevelspuit en de emissies die vrijkomen bij het coaten door middel van het opbrengen van poeder, worden afgezogen en worden gevoerd door een filtrerende afscheider die geschikt is om aan artikel 3.165, eerste lid, van het besluit te voldoen, en  
+
+b. die filtrerende afscheider in goede staat van onderhoud verkeert, periodiek gecontroleerd wordt en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+
+### Artikel  3.121  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van onnodige emissie van vluchtige organische stoffen als bedoeld in artikel 3.166 van het besluit, past degene die de inrichting drijft bij het coaten van planten of onderdelen van planten de volgende maatregelen toe: 
+
+a. maatregelen ten aanzien van de bedrijfsvoering;  
+
+b. oplosmiddelarme producten en efficiënte applicatiemethoden, waarbij in het bijzonder: 
+
+1°. het coaten van droogbloemen volgens de dompelmethode plaatsvindt met volledig watergedragen verfbaden;  
+
+2°. het coaten van snijbloemen volgens de optrekmethode plaatsvindt met volledig watergedragen verfbaden en met kleurstoffen of pigmenten die in Europa zijn toegelaten in de voedingsmiddelenindustrie;  
+
+3°. het coaten van snijbloemen volgens de dompelmethode plaatsvindt met watergedragen verfbaden met maximaal 15 volumeprocent vluchtige organische stoffen, bestaande uit kleurstoffen in vloeibare vorm, voor zover nodig uitvloeimiddelen, bevochtigingsmiddelen en anti-schuimmiddelen.     
+
+### Artikel  3.122  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico, bedoeld in artikel 3.167, onderdeel e, van het besluit vindt het coaten en uitslaan van planten of onderdelen van planten met open verfbaden plaats boven een vloeistofdichte vloer. 
+
+### §  3.8.4  
+
+####Fokken, houden of trainen van vogels of zoogdieren
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.123  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het fokken, houden of trainen van vogels of zoogdieren vindt plaats boven een vloeistofkerende voorziening. Artikel 2.3 is daarbij niet van toepassing.   
+2.  Het eerste lid is niet van toepassing op het fokken, houden of trainen van vogels of zoogdieren in de buitenlucht indien uitwerpselen, voedselresten en dierlijke bijproducten regelmatig worden verwijderd.   
+3.  Artikel 2.11 van het besluit is niet van toepassing op het fokken, houden en trainen van vogels en zoogdieren.  
+
+### Artikel  3.124  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag kan, indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt of het bodemrisico niet verwaarloosbaar is als bedoeld in artikel 3.169 van het besluit, bij maatwerkvoorschrift eisen dat uitwerpselen, voedselresten en dierlijke bijproducten met een bepaalde frequentie worden verwijderd uit een ruimte voor het fokken, houden of trainen van vogels of zoogdieren die geheel of gedeeltelijk in de open lucht ligt.   
+2.  Het bevoegd gezag kan, indien blijkt dat de geurhinder een aanvaardbaar niveau overschrijdt, en maatwerk op grond van het eerste lid onvoldoende is om de overschrijding ongedaan te maken, bij maatwerkvoorschrift eisen stellen aan de uitvoering en ligging van een ruimte voor het fokken, houden of trainen van vogels of zoogdieren die geheel of gedeeltelijk in de open lucht ligt.  
+
 ### Hoofdstuk  4  
 
 ####Bepalingen met betrekking tot overige activiteiten geldend voor een inrichting type A of een inrichting type B
@@ -3133,6 +3619,11 @@ b. heeft een oppervlak dat niet groter is dan 20 vierkante meter, en
 
 c. heeft een opvangcapaciteit die ten minste gelijk is aan de totale inhoud van de opgeslagen accu’s.     
 3.  Een accu staat rechtop.  
+
+### Artikel  4.4d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd de artikelen 4.3 tot en met 4.4c kan het bevoegd gezag voor inrichtingen die zijn opgericht voor 1 januari 2008 en waarvoor tot dat tijdstip een vergunning van kracht was, dan wel voorschriften golden op basis van een van de besluiten, genoemd in artikel 6.43 van het besluit, maatwerkvoorschriften stellen ten aanzien van de bouwkundige eisen zoals gesteld in voorschrift 3.2.4 van PGS 15. Het maatwerkvoorschrift kan uitsluitend minder strenge eisen aan de bouwkundige voorzieningen stellen. 
 
 ### Artikel  4.5  
 
@@ -3366,6 +3857,12 @@ c. de voorschriften 5.5.1, 5.5.2, 5.6.1, 5.6.3 en 5.6.4.
 3.  Het eerste lid en tweede lid, zijn van overeenkomstige toepassing op de opslag van zwart kruit met dien verstande dat van zwart kruit niet meer dan 250 gram per vak aanwezig is.   
 4.  Noodsignalen worden opgeslagen in een brandcompartiment dan wel in een brandveiligheidsopslagkast die voldoet aan de voorschriften 3.10.1 tot en met 3.10.4 van PGS 15. De brandwerendheid van de kast bedraagt ten minste 60 minuten. De kast wordt niet afgezogen.  
 
+### Artikel  4.12a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan het opslaan van gevaarlijke stoffen als bedoeld in deze paragraaf, voor zover in deze paragraaf wordt verwezen naar voorschrift 3.10.3 van PGS 15.   
+2.  Indien toepassing wordt gegeven aan het eerste lid neemt het bevoegd gezag voorschrift 3.10.4 in acht.  
+
 ### §  4.1.3  
 
 ####Opslaan van stoffen in opslagtanks
@@ -3471,6 +3968,14 @@ f. de vul-, zuig- en persleidingen zijn beveiligd tegen aanrijding;
 g. de opslagtank is voorzien van elektronische peilvoorziening of een handmatige peilvoorziening met een zelfsluitende peildop, en  
 
 h. de tank is voorzien van lichte bekleding of van een verfsysteem.    
+
+### Artikel  4.15a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 1.2, eerste lid, wordt in dit artikel onder ‘PGS 30’ verstaan: Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2005).   
+2.  Artikel 4.15 is tot 1 januari 2023 niet van toepassing op een bovengrondse opslagtank met stoffen van klasse 8 van de ADR verpakkingsgroep II en III zonder bijkomend gevaar die is geïnstalleerd voor 1 januari 2008.   
+3.  Een opslagtank als bedoeld in het tweede lid voldoet tot 1 januari 2023 aan de voorschriften 4.1.3, 4.2.4, 4.2.5, 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.3, 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30.   
+4.  Het lekdetectiesysteem van een opslagtank als bedoeld in het tweede lid wordt, indien de opslagtank dubbelwandig is, eenmaal per jaar overeenkomstig KC-111 gecontroleerd op de goede werking door een bedrijf dat overeenkomstig die KC-111 is gecertificeerd. Indien een gebrek wordt geconstateerd dat kan leiden tot het optreden van niet gedetecteerde lekken wordt het lekdetectiesysteem binnen een periode van een maand hersteld. Van de controle wordt een aantekening in het logboek gemaakt.  
 
 ### Artikel  4.16  
 
@@ -3632,6 +4137,12 @@ b. de afstand tot interne objecten waar zich over het algemeen geen mensen bevin
 
 1.  Artikel 4.23 is niet van toepassing op stoffen van ADR klasse 5.2 type D, E en F, waarvoor volgens het ADR temperatuurbeheersing niet vereist is, indien deze stoffen worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een opslagvoorziening als bedoeld in artikel 4.3, eerste lid, en overeenkomstig de voorschriften 9.2.2 en 9.2.3 van PGS 15.   
 2.  Stoffen van ADR klasse 5.2 type C waarvoor volgens het ADR temperatuurbeheersing niet vereist is, worden opgeslagen in een hoeveelheid van ten hoogste 1.000 kilogram per opslagvoorziening, in verpakking als LQ en in een opslagvoorziening als bedoeld in artikel 4.3, eerste lid, en overeenkomstig de voorschriften 9.2.2 en 9.2.3 van PGS 15.  
+
+### Artikel  4.25a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag kan bij maatwerkvoorschrift eisen stellen aan het opslaan van gevaarlijke stoffen als bedoeld in deze paragraaf, voor zover in deze paragraaf wordt verwezen naar de voorschriften 3.1.1, 3.1.3, 3.1.4, 3.1.5, 3.2.9, 3.2.10, 3.10.3 en 3.18.1 van PGS 15 en deze voorschriften van PGS 15 voorzien in de mogelijkheid tot afwijkende voorschriften.   
+2.  Indien ten aanzien van voorschrift 3.10.3 van PGS 15 toepassing wordt gegeven aan het eerste lid, neemt het bevoegd gezag voorschrift 3.10.4 in acht.  
 
 ### Artikel  4.26  
 
@@ -4441,6 +4952,70 @@ i. indien perfluoroctaansulfonaten als hulpstof worden toegepast, welke maatrege
 j. indien cadmium wordt verwerkt, welke maatregelen worden genomen om cadmium terug te voeren uit het spoelwater naar het procesbad en op welke wijze het afvalwater dat cadmium kan bevatten, separaat van het overige afvalwater, wordt verwerkt.     
 4.  Het bevoegd gezag kan indien het belang van de bescherming van het milieu daartoe noodzaakt maatwerkvoorschriften stellen ten aanzien van de invulling van de gedragsvoorschriften als bedoeld in het tweede lid.  
 
+### §  4.5.12  
+
+####Smelten en gieten van metalen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  4.84.1  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van emissies van dioxines en polycyclische aromatische koolwaterstoffen naar de lucht als bedoeld in artikel 4.74.2, eerste lid, van het besluit, worden uitsluitend metalen gesmolten die voldoen aan de volgende criteria: 
+
+a. het metaal voldoet aan de technische standaarden die gelden voor reguliere toepassing van het metaal;  
+
+b. de soort legering en de verhouding van metalen in de legering is bekend en kan worden aangetoond;  
+
+c. het metaal is zichtbaar vrij van olie, olie-emulsies, smeermiddelen of vet, met uitzondering van verwaarloosbare hoeveelheden die geen druppelvorming tot gevolg hebben;  
+
+d. het ingezette materiaal bezit geen van de eigenschappen van bijlage III van de kaderrichtlijn afvalstoffen, met dien verstande dat de eigenschappen van het metaal zelf of metalen in de legering zelf niet relevant zijn.   
+
+### Artikel  4.84.2  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 4.74.2, tweede lid, van het besluit, wordt in ieder geval voldaan indien: 
+
+a. bij het smelten van koper en koperlegeringen, aluminium en aluminiumlegeringen, zink en zinklegeringen, tin en tinlegeringen, de legering ten hoogste 2% lood bevat;  
+
+b. bij het smelten van koper en koperlegeringen, aluminium en aluminiumlegeringen, zink en zinklegeringen, tin en tinlegeringen, de legering ten hoogste 5% lood bevat en de smeltoven ten hoogste 200 uur in bedrijf is;  
+
+c. bij het smelten van koper en koperlegeringen, aluminium en aluminiumlegeringen, zink en zinklegeringen, tin en tinlegeringen, de legering ten hoogste 10% lood bevat en de smeltoven ten hoogste 100 uur in bedrijf is;  
+
+d. de afgezogen emissies van lood die vrijkomen, worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+
+### Artikel  4.84.3  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 4.74.3 van het besluit wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen, worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen. 
+
+### Artikel  4.84.4  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 4.74.4 van het besluit wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen worden gevoerd door een gaswasser die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt. 
+
+### Artikel  4.84.5  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan artikel 4.74.5, eerste lid, van het besluit, wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen, worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+2.  Het uitbreken of ontzanden van een gietstuk als bedoeld in artikel 4.74.5, derde lid, van het besluit, vindt plaats in een gesloten ruimte met gesloten deuren en ramen waarbij wordt voorkomen dat bij het openen van deuren en ramen stof naar de buitenlucht vrijkomt.  
+
+### Artikel  4.84.6  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 4.74.6 van het besluit wordt in ieder geval voldaan indien de afgezogen emissies die vrijkomen, worden gevoerd door een filtrerende afscheider die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen. 
+
+### Artikel  4.84.7  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het doelmatig verspreiden van emissies naar de buitenlucht, worden emissies als bedoeld in artikel 4.74.7, onder a, van het besluit, bovendaks en omhoog gericht afgevoerd, indien binnen 50 meter van een emissiepunt een gevoelig gebouw, niet zijnde een gevoelig gebouw op een gezoneerd industrieterrein dan wel op een bedrijventerrein met minder dan één gevoelig gebouw per hectare, is gelegen.   
+2.  Het bevoegd gezag kan in het belang van de plaatselijke milieuomstandigheden met inachtneming van artikel 2.4, achtste lid, van het besluit maatwerkvoorschriften stellen aan de ligging en uitvoering van het afvoerpunt van de emissies naar de buitenlucht, bedoeld in artikel 4.74.7, onder a, van het besluit.  
+
+### Artikel  4.84.8  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het realiseren van een verwaarloosbaar bodemrisico als bedoeld in artikel 4.74.7, onderdeel b, van het besluit, vindt het smelten en gieten van metalen waarbij bodembedreigende stoffen worden gebruikt of kunnen vrijkomen, plaats boven een bodembeschermende voorziening. 
+
 ### Afdeling  4.5a  
 
 ####Activiteiten met betrekking tot steen
@@ -5224,6 +5799,15 @@ Vervallen per 01-01-2013
 8.  De temperatuur en het zuurstofgehalte in de naverbrandingsruimte worden continu gemeten en geregistreerd.   
 9.  Uiterlijk zes maanden na in gebruikname van de installatie en daarna jaarlijks wordt de goede werking van de installatie gecontroleerd door een deskundige. Hierbij wordt ten minste de werking van de automatische regelingen en de continue meetapparatuur gecontroleerd.  
 
+### Artikel  4.112a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Aan artikel 4.118a van het besluit wordt in ieder geval voldaan indien: 
+
+a. de afgezogen stofemissies die vrijkomen bij crematieprocessen worden gevoerd door een afscheider die geschikt is om aan artikel 4.118a van het besluit te voldoen, en  
+
+b. die afscheider in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen.   
+
 ### Artikel  4.113  
 
 1.  Aan artikel 4.119 van het besluit wordt in ieder geval voldaan indien: 
@@ -5882,6 +6466,491 @@ De bemonsteringen, analyses en metingen van de parameters die nodig zijn om te b
 2.  De drijver van de inrichting informeert het bevoegd gezag over de resultaten van de in het eerste lid bedoelde controle.   
 3.  Het uitvoeren van een periodieke meting, eenmalige metingen of parallelmetingen geschiedt door een rechtspersoon die voor deze verrichtingen geaccrediteerd is door een accreditatie-instantie.  
 
+###Afdeling  5.4  
+
+####Installatie voor de productie van asfalt
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5.37  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan artikel 5.46, eerste lid, onder a, van het besluit, wordt in ieder geval voldaan als aan de kwaliteitseisen voor asfalt en asfaltgranulaat volgens de BRL 9320 wordt voldaan.   
+2.  Aan artikel 5.46, eerste lid, onder b, wordt in ieder geval voldaan als de emissies van de droogtrommel en de installatie voor de productie van asfalt worden afgezogen en door een filtrerende afscheider worden gevoerd die in goede staat van onderhoud verkeert, periodiek wordt gecontroleerd en zo vaak als voor de goede werking nodig is, wordt schoongemaakt en vervangen. 
+
+### Afdeling  5.5  
+
+####Installatie voor de op- en overslag van vloeistoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5.38  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen dan wel zoveel mogelijk beperken van diffuse emissies van vluchtige organische stoffen als bedoeld in artikel 5.50, tweede lid, van het besluit, past degene die de inrichting drijft de volgende emissiereducerende maatregelen toe, tenzij deze niet kosteneffectief of niet technisch uitvoerbaar zijn: 
+
+a. het reduceren van de vul- en ademverliezen van tanks met een vast dak door middel van het aanbrengen van inwendig drijvende dekken of gelijkwaardige voorzieningen bij tanks;  
+
+b. het vervangen dan wel voorzien van een secundaire afdichting, van primaire afdichtingen in tanks met een drijvend dak om te bereiken dat de spleetbreedte over ten minste 95% van de omtrek van het dak niet meer bedraagt dan 3,2 mm;  
+
+c. het condenseren of op andere wijze terugwinnen of vernietigen, met inachtneming van de samenhang in de benzineketen, van vrijkomende dampen als gevolg van de belading van lichters met vluchtige vloeistoffen op steigers waar een dampverwerkingsinstallatie aanwezig is;  
+
+d. het condenseren of op andere wijze terugwinnen of vernietigen, met inachtneming van de samenhang in de benzineketen, van vrijkomende dampen als gevolg van belading van tankwagens en ketelwagens met vluchtige vloeistoffen met uitzondering van kerosine;  
+
+e. het opstellen en uitvoeren van een programma van intensieve controle en onderhoud bij diffuse bronnen van emissies, zoals pompen of afsluiters, en het schoonmaken van tanks;  
+
+f. het reduceren van de fakkelverliezen door middel van minimalisatie van bedrijfsstoringen, effectieve fakkelgasterugwinning of een schema van regelmatige controle op doorlatende afsluiters en veiligheidskleppen naar de fakkel;  
+
+g. het invoeren van good-housekeeping en discipline bij drainoperaties;  
+
+h. het reduceren van de lekverliezen langs aansluitingen en doorvoeringen van tanks met een uitwendig drijvend dak door het aanbrengen van pakkingen of moffen.   
+
+### Afdeling  5.6  
+
+####Op- en overslag van benzine
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Paragraaf  5.2.1  
+
+####Opslaginstallaties
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5.39  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het verminderen van de emissie van benzinedamp naar de lucht als bedoeld in artikel 5.53 van het besluit wordt voldaan aan de artikelen 5.40 tot en met 5.44. 
+
+### Artikel  5.40  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De buitenwand en het uitwendige dak van een bovengrondse tank worden geschilderd in een kleur waarvan de totale stralingshittereflectie ten minste 70 procent bedraagt. Het schilderen vindt plaats bij een periodieke onderhoudsbeurt van de tank.   
+2.  Het eerste lid is niet van toepassing op een tank die verbonden is met een dampterugwinningseenheid die voldoet aan paragraaf 5.2.2 van het besluit.  
+
+### Artikel  5.41  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een tank met een uitwendig drijvend dak is voorzien van een primaire afdichting dat de ringvormige ruimte tussen de tankwand en de buitenste rand van het drijvende dak afdicht, met daarboven een secundaire afdichting.   
+2.  De afdichtingen, bedoeld in het eerste lid, zijn zodanig ontworpen dat in vergelijking met een soortgelijke tank met vast dak zonder dampbeheersingsvoorzieningen ten minste 95 procent van de damp wordt vastgehouden.  
+
+### Artikel  5.42  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een opslaginstallatie die vanaf 31 december 1995 in werking is gebracht of waarvoor vanaf 31 december 1995 een vergunning op grond van artikel 8.1 van de Wet milieubeheer dan wel een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht is verleend en die onderdeel is van een terminal waarvoor dampterugwinning in paragraaf 5.2.2 van het besluit is voorgeschreven, is: 
+
+a. een tank met een vast dak die overeenkomstig de paragraaf 5.2.2 van het besluit met de dampterugwinningseenheid is verbonden, of  
+
+b. een tank met een uitwending of inwendig drijvend dak dat is voorzien van een primaire en secundaire afdichting als bedoeld in artikel 5.41.   
+
+### Artikel  5.43  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een tank met vast dak die voor 31 december 1995 in werking was of waarvoor voor 31 december 1995 een vergunning op grond van artikel 8.1 van de Wet milieubeheer is verleend: 
+
+a. is verbonden met een dampterugwinningseenheid overeenkomstig paragraaf 5.2.2 van het besluit, of  
+
+b. heeft een inwendig drijvend dak met een primaire afdichting zodat in vergelijking met een vergelijkbare tank met vast dak zonder dampbeheersingsvoorzieningen ten minste 90 procent van de damp wordt vastgehouden.   
+
+### Artikel  5.44  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De artikelen 5.42 en 5.43 zijn niet van toepassing op een tank met vast dak van terminals waar voorlopige dampopslag als bedoeld in artikel 5.55, vijfde lid, van het besluit is toegestaan. 
+
+### Paragraaf  5.2.2  
+
+####Overslaginstallaties
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5.45  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het verminderen van de emissie van benzinedamp naar de lucht als bedoeld in de artikelen 5.62 en 5.63 van het besluit wordt voldaan aan de artikelen 5.46 tot en met 5.54. 
+
+### Artikel  5.46  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De aansluitingen en leidingen van een overslaginstallatie worden regelmatig en zoveel als redelijkerwijs nodig is op lekken gecontroleerd.   
+2.  In geval van een damplek worden de vulwerkzaamheden bij het laadportaal, bedoeld in artikel 5.62 van het besluit onderbroken.   
+3.  Op het laadportaal is een voorziening geplaatst om een onderbreking als bedoeld in het tweede lid tot stand te brengen.  
+
+### Artikel  5.47  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het meten van dampen, bedoeld in artikel 5.57 van het besluit, geschiedt gedurende een volle werkdag van ten minste zeven uur met normaal debiet.   
+2.  De metingen zijn continu of intermitterend.   
+3.  Intermitterende metingen vinden ten minste vier maal per uur plaats.  
+
+### Artikel  5.48  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het totaal aan meetfouten als gevolg van de gebruikte apparatuur, het kalibratiegas en het toegepaste procedé bedraagt ten hoogste tien procent van de gemeten waarde. 
+
+### Artikel  5.49  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De gebruikte apparatuur is ten minste in staat concentraties van ten hoogste 3 g/Nm<sup>3</sup> te meten. 
+
+### Artikel  5.50  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De vularm van het laadportaal heeft een vrouwelijke vloeistofaansluiting die gekoppeld kan worden aan een mannelijke API 1004-adapter van 101,6 mm op de tankwagen, overeenkomstig API1004.   
+2.  De dampopvangslang van het laadportaal heeft een vrouwelijke nok-groef-dampopvangaansluiting die gekoppeld kan worden aan een mannelijke nok-groef-adapter van 101,6 mm op de tankwagen, overeenkomstig API 1004.  
+
+### Artikel  5.51  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een laadportaal is voorzien van een overloopdetectiebedieningseenheid.   
+2.  Indien een laadportaal wordt verbonden met een tankwagen, geeft de overloopdetectiebedieningseenheid een faalveilig vultoelatingssignaal wanneer de compartimentsoverloopsensoren geen hoog peil signaleren.  
+
+### Artikel  5.52  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De bedieningseenheid van het laadportaal is via een kabel waaraan een contrasteker is bevestigd, via een standaard 10-pens elektrische contactdoos, verbonden met de steker op de tankwagen.   
+2.  De bedieningseenheid van een vulportaal is geschikt voor zowel tweedraads thermistorsensoren, tweedraads optische sensoren, vijfdraads optische sensoren of gelijkwaardige sensoren op een tankwagen.  
+
+### Artikel  5.53  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het laadportaal is via de gemeenschappelijke retourdraad van de overloopsensoren verbonden met een tankwagen.   
+2.  De retourdraad is via het chassis van een tankwagen verbonden met pen 10 van de steker.   
+3.  Pen 10 van de contrasteker is verbonden met de omsluiting van de bedieningseenheid.   
+4.  De omsluiting is verbonden met de aarding van het laadportaal.  
+
+### Artikel  5.54  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij het ontwerp van de vloeistoflaad- en dampopvangvoorzieningen aan een laadportaal wordt uitgegaan van een verbindingssysteem dat voldoet aan de volgende eisen: 
+
+a. de hoogte van de hartlijn van de vloeistofadapters bedraagt tussen 0,7 en 1,0 meter,  
+
+b. indien de vloeistofadapters ongeladen zijn bedraagt de hartlijn ten hoogste 1,4 meter,  
+
+c. indien de vloeistofadapters geladen zijn, bedraagt de hartlijn ten minste 0,5 meter,  
+
+d. de horizontale afstand tussen de vloeistofadapters bedraagt ten minste 0,25 meter,  
+
+e. de vloeistofadapters bevinden zich binnen een lengte van ten hoogste 2,5 meter,  
+
+f. de dampopvangadapter bevindt zich bij voorkeur rechts van de vloeistofadapters op een hoogte van ten hoogste 1,5 meter indien de vloeistofadapter ongeladen is en op ten minste 0,5 meter indien de vloeistofadapter geladen is, en  
+
+g. de aarding of overloopdetectie bevindt zich rechts van de vloeistof- en dampopvangadapters op: 
+
+1°. ten hoogste 1,5 meter indien de vloeistofadapter ongeladen is, of  
+
+2°. ten minste 0,5 meter indien de vloeistofadapter geladen is.       
+2.  het verbindingssysteem, bedoeld in het eerste lid, bevindt zich geheel aan één zijde van de tankwagen.  
+
+### Afdeling  5.7  
+
+####Overige installaties
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Paragraaf  5.7.1  
+
+####LPG-tankstations
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  5.55  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan voldoet de constructie, plaatsing en uitvoering van de LPG-afleverinstallatie ten minste aan de artikelen 5.56 tot en met 5.62. 
+
+### Artikel  5.56  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een LPG-reservoir is ondergronds dan wel ingeterpt geïnstalleerd.   
+2.  Een LPG-reservoir heeft een inhoud van ten minste 20 kubieke meter.   
+3.  In een LPG-reservoir wordt uitsluitend LPG opgeslagen.   
+4.  LPG wordt niet opgeslagen in een tijdelijk opgesteld LPG-reservoir.   
+5.  Het eerste lid geldt niet voor LPG-reservoirs die deel uitmaken van een LPG-tankstation waarvoor vóór 1 juli 1984 een Hinderwetvergunning is verleend.   
+6.  Het tweede lid geldt niet voor LPG-reservoirs die deel uitmaken van een LPG-tankstation waarvoor vóór 1 juli 1984 een Hinderwetvergunning is verleend en waarbinnen wegens onvoldoende ruimte het plaatsen van een LPG-reservoir met een inhoud van 20 kubieke meter niet mogelijk is. In het geval, bedoeld in de eerste volzin, is de inhoud van het reservoir niet kleiner dan die van het reservoir dat tot 1 juli 1984 aanwezig was.  
+
+### Artikel  5.57  
+Treedt in werking op een nader te bepalen tijdstip 
+
+LPG-reservoirs worden onderling niet gekoppeld dan wel voldoen aan voorschrift 4.9.14 van PGS 16. 
+
+### Artikel  5.58  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een bovengronds LPG-reservoir voldoet aan de voorschriften 4.9.1 tot en met 4.9.5 van PGS 16. 
+
+### Artikel  5.59  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een LPG-afleverinstallatie is voorzien van op afstand bedienbare afsluiters en is uitgevoerd overeenkomstig de voorschriften 4.7.1 tot en met 4.7.10 van PGS 16. 
+
+### Artikel  5.60  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien het terrein waar een reservoir is opgesteld, toegankelijk is voor het publiek, wordt rondom het LPG-reservoir een hekwerk geplaatst dat voldoet aan de voorschriften 4.9.6 tot en met 4.9.9 van PGS 16. 
+
+### Artikel  5.61  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een LPG-afleverinstallatie wordt geplaatst overeenkomstig de voorschriften 4.6.1 tot en met 4.6.6 van PGS 16. 
+
+### Artikel  5.62  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een LPG-afleverinstallatie is uitgevoerd overeenkomstig de voorschriften 2.3.3 tot en met 2.3.8, 2.4.1 tot en met 2.4.11, 4.5.1 tot en met 4.5.10 en 4.8.1 tot en met 4.8.11 van PGS 16. 
+
+### Artikel  5.63  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt ten aanzien van keuringen, controle en onderhoud van de LPG-afleverinstallatie ten minste voldaan aan de artikelen 5.64 en 5.65. 
+
+### Artikel  5.64  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een LPG-afleverinstallatie wordt gekeurd, gecontroleerd en onderhouden overeenkomstig de voorschriften 3.3.1, 3.3.2, 3.3.5 tot en met 3.3.8 en 5.2.1 tot en met 5.2.3 van PGS 16. 
+
+### Artikel  5.65  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Degene die een LPG-tankstation drijft, beschikt over een installatieboek, dat bestaat uit een bedrijfshandleiding en een logboek, en dat voldoet aan de voorschriften 3.4.2 en 3.4.3 van PGS 16.   
+2.  Een logboek bevat ten minste de gegevens, bedoeld in voorschrift 3.4.4 van PGS 16, voor zover deze gegevens niet al zijn vermeld op het aantekenblad, bedoeld in artikel 12e, tweede lid, van het Warenwetbesluit drukapparatuur.  
+
+### Artikel  5.66  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan voldoen de bedrijfsvoering ten aanzien van een LPG-afleverinstallatie en de in verband met de veiligheid te treffen voorzieningen ten minste aan de artikelen 5.67 tot en met 5.77. 
+
+### Artikel  5.67  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Gedurende de openingstijden van een LPG-tankstation is een toezichthoudend persoon binnen de inrichting aanwezig.   
+2.  De toezichthoudende persoon, bedoeld in het eerste lid: 
+
+a. is 18 jaar of ouder;  
+
+b. heeft de beschikking over communicatiemiddelen, waaronder een op het openbaar netwerk aangesloten vast telefoontoestel en is in staat deze te bedienen;  
+
+c. is op de hoogte van de bij normaal bedrijf in acht te nemen veiligheidsvoorschriften, vermeld in deze afdeling;  
+
+d. is op de hoogte van de in geval van een incident of calamiteit noodzakelijk te verrichten handelingen, bedoeld in artikel 5.68, derde lid, en  
+
+e. is te allen tijde in staat om de instructies ingeval van een incident of calamiteit, uit te voeren.    
+
+### Artikel  5.68  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Binnen de inrichting zijn instructies in geval van calamiteiten of incidenten en het veiligheidsinformatieblad van LPG, bedoeld in artikel 31 van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen aanwezig.   
+2.  Nabij de werkplek van de toezichthoudende persoon als bedoeld in artikel 5.67, eerste lid, zijn de instructies ingeval van calamiteiten of incidenten duidelijk zichtbaar en leesbaar aangebracht.   
+3.  De instructies ingeval van calamiteiten of incidenten bevatten in elk geval de volgende aspecten: 
+
+a. de instructies met betrekking tot het in veiligheid brengen van personen;  
+
+b. de handelingen benodigd voor het herstellen van de veilige situatie;  
+
+c. een actueel overzicht van namen en telefoonnummers van te waarschuwen instanties.     
+4.  Degene die een LPG-tankstation drijft, stelt de toezichthoudende persoon en het in het LPG-tankstation werkzame personeel bij de aanvang van de werkzaamheden en vervolgens jaarlijks op de hoogte van de aard en de gevaaraspecten van de LPG-afleverinstallatie, de te nemen maatregelen bij incidenten, de instructies bij incidenten en calamiteiten en het veiligheidsinformatieblad van LPG, bedoeld in artikel 31 van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, en laat de betrokken personen een verklaring ondertekenen dat zij hiervan op de hoogte zijn gesteld.   
+5.  De ondertekende verklaringen worden in het logboek bewaard.  
+
+### Artikel  5.69  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De toezichthoudende persoon, bedoeld in artikel 5.67, eerste lid, heeft vanaf de plaats waar de knop van de op afstand bedienbare sluiters zijn aangebracht goed zicht op het afleveren van de LPG.   
+2.  De aflevering van LPG is slechts mogelijk nadat de toezichthoudende persoon de afleverzuil hiertoe heeft vrijgegeven.   
+3.  Tijdens het afleveren van LPG bevindt de toezichthoudende persoon zich op de plaats waar de knop van de op afstand bedienbare sluiters te allen tijde kan worden bediend.   
+4.  De toezichthoudende persoon kan tijdens het afleveren van LPG zo nodig mondelinge instructies geven aan degene die de afleverzuil bedient. Indien nodig zijn hiervoor voorzieningen aangebracht.   
+5.  Indien een LPG-tankstation niet is geopend voor de aflevering van LPG staan de op afstand bedienbare afsluiters die zich bevinden tussen het LPG-reservoir en de afleverzuilen in de gesloten stand.  
+
+### Artikel  5.70  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Op een goed bereikbare en zichtbare plaats nabij een LPG-afleverinstallatie is een blustoestel aanwezig dat voldoet aan de voorschriften 4.9.10 en 4.9.11 van PGS 16. 
+
+### Artikel  5.71  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ter plaatse van de afleverzuil en de opstelplaats van de LPG-tankwagen is voldoende verlichting aanwezig om de benodigde handelingen veilig te kunnen verrichten.   
+2.  Een LPG-tankstation is tijdens bedrijf dusdanig verlicht dat voldoende overzicht is gewaarborgd.   
+3.  Er wordt uitsluitend elektrische verlichting toegepast.  
+
+### Artikel  5.72  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Op het verrichten van handelingen met betrekking tot het LPG-reservoir zijn de volgende voorschriften van PGS 16 van toepassing: 
+
+a. werkzaamheden aan het reservoir worden uitgevoerd overeenkomstig voorschrift 5.4.1;  
+
+b. het ingassen onderscheidenlijk het ontgassen van het reservoir vindt plaats overeenkomstig de voorschriften 5.4.2 en 5.4.3;  
+
+c. een dompelpomp van het reservoir wordt verwisseld overeenkomstig voorschrift 5.4.4;  
+
+d. een veerveiligheid van het reservoir wordt verwisseld overeenkomstig voorschrift 5.4.5.     
+2.  Het plaatsen, verplaatsen of verwijderen van het reservoir vindt uitsluitend plaats in vloeistofloze toestand door een bedrijf dat speciaal daarvoor is uitgerust.   
+3.  Het reservoir en de afsluiters voldoen aan voorschrift 4.7.11 van PGS 16.  
+
+### Artikel  5.73  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het afleveren van LPG vindt uitsluitend plaats door middel van de afleverzuil.   
+2.  De afleverzuil levert uitsluitend LPG aan: 
+
+a. brandstofreservoirs die uitsluitend dienen voor de berging van LPG, die speciaal zijn ingericht voor de aandrijving van motorvoertuigen en die zijn bevestigd aan deze voertuigen en die al dan niet mede zijn ingericht voor de voeding van verwarmingssystemen voor gebruik in motorvoertuigen op de weg en de aanhangers daarvan mits die verwarmingssystemen voldoen aan de eisen van de Regeling voertuigen;  
+
+b. het reservoir van de LPG-tankwagen, indien de LPG-afleverinstallatie leeg wordt gemaakt.     
+3.  Bij het afleveren van LPG is de vulsnelheid gelimiteerd tot 80 liter per minuut.  
+
+### Artikel  5.74  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Gasflessen en wisselreservoirs worden niet met LPG gevuld. 
+
+### Artikel  5.75  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Op of aan de afleverzuil is een te allen tijde duidelijk leesbaar opschrift met ten minste 3 centimeter hoge letters aangebracht met de tekst: 
+
+a. Motor afzetten;  
+
+b. Roken en open vuur verboden, en  
+
+c. Gasflessen vullen verboden.     
+2.  In afwijking van het eerste lid kunnen ook pictogrammen worden gebruikt die ten minste 3 centimeter hoog zijn en voldoen aan een vastgestelde internationale standaard.  
+
+### Artikel  5.76  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De afleverslang wordt niet eerder aangekoppeld dan nadat de motor van het voertuig waaraan LPG wordt afgeleverd, buiten werking is gesteld.   
+2.  De motor van het voertuig waaraan LPG is afgeleverd, wordt niet eerder in werking gesteld dan nadat de afleverslang is afgekoppeld en is opgeborgen.  
+
+### Artikel  5.77  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Tijdens het afleveren van LPG wordt niet gerookt en is geen vuur binnen een afstand van 5 meter van de afleverzuil en afleverslang aanwezig. 
+
+### Artikel  5.78  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt ten aanzien van aflevering door middel van een LPG-afleverautomaat ten minste voldaan aan de artikelen 5.79 tot en met 5.84. 
+
+### Artikel  5.79  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Artikel 5.67, eerste lid, en artikel 5.69, eerste tot en met vierde lid, zijn niet van toepassing op een LPG-afleverautomaat.   
+2.  Indien LPG wordt afgeleverd door middel van een LPG-afleverautomaat is een toezichthoudend persoon, als bedoeld in artikel 5.67, eerste lid, beschikbaar.  
+
+### Artikel  5.80  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het afleveren van LPG zonder direct toezicht door middel van een LPG-afleverautomaat is de LPG-afleverinstallatie uitgevoerd overeenkomstig voorschrift 7.2.1 van PGS 16 en wordt voldaan aan de voorschriften 7.2.2 en 7.2.3 van PGS 16. 
+
+### Artikel  5.81  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aflevering van LPG door middel van een LPG-afleverautomaat geschiedt uitsluitend aan een afnemer die door degene die een LPG-tankstation drijft, is geregistreerd als toegelaten afnemer.   
+2.  Ten behoeve van die registratie tekent de afnemer een schriftelijke verklaring waaruit blijkt dat: 
+
+a. de afnemer bekend is met en zich houdt aan de volgende instructies bij het afleveren van LPG: 
+
+1°. op het terrein van de LPG-installatie wordt niet gerookt en wordt geen open vuur gemaakt;  
+
+2°. de afleverslang wordt niet eerder aangekoppeld dan nadat de motor van het voertuig, waaraan LPG wordt afgeleverd, buiten werking is gesteld;  
+
+3°. de motor van het voertuig waaraan LPG is afgeleverd, wordt niet eerder in werking gesteld dan nadat de afleverslang is afgekoppeld en is opgeborgen;  
+
+4°. de slangverbinding wordt deugdelijk tot stand gebracht, waarbij geen andere hulpstukken worden toegepast dan de hulpstukken die door degene die een LPG-tankstation drijft, zijn verstrekt, en  
+
+5°. slechts vaste in het motorvoertuig gemonteerde reservoirs als bedoeld in artikel 5.73, tweede lid, onderdeel a, worden gevuld;    
+
+b. de afnemer een praktijkinstructie heeft ontvangen voor het vullen van het reservoir van een voertuig met het afleversysteem van degene die een LPG-tankstation drijft;  
+
+c. de afnemer slechts toestemming heeft voor persoonlijk gebruik van de LPG-afleverautomaat.     
+3.  De afnemer overlegt de verklaring aan degene die het LPG-tankstation drijft.   
+4.  Degene die een LPG-tankstation drijft, houdt een registratie bij van de door hem geaccepteerde afnemers en de door hen ondertekende verklaringen.   
+5.  Degene die een LPG-tankstation drijft, registreert van de afleveringen van LPG door middel van een LPG-afleverautomaat de volgende gegevens en bewaart deze ten minste gedurende twee weken in het logboek: 
+
+a. registratiegegevens van de afnemer;  
+
+b. datum en tijd van de aflevering, en  
+
+c. de afgeleverde hoeveelheid LPG.    
+
+### Artikel  5.82  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het in bedrijf stellen van een LPG-afleverinstallatie en het opheffen van de vergrendeling nadat het beveiligingssysteem heeft gewerkt, geschiedt uitsluitend door degene die een LPG-tankstation drijft of door de toezichthoudende persoon, als bedoeld in artikel 5.67, eerste lid.   
+2.  Een LPG-afleverinstallatie is zodanig uitgevoerd dat het in bedrijf stellen slechts door de persoon, bedoeld in het eerste lid, kan geschieden.  
+
+### Artikel  5.83  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In geval de aflevering van LPG plaatsvindt door middel van een LPG-afleverautomaat verkeert de in bedrijf gestelde LPG-afleverinstallatie in een zodanige toestand dat: 
+
+a. indien er geen LPG wordt afgeleverd: 
+
+1°. de op afstand bedienbare afsluiters zijn gesloten;  
+
+2°. de pompmotor van het elektrische net is afgekoppeld;  
+
+3°. de identificatie- en registratievoorziening voor gebruik gereed is;  
+
+4°. de noodknop voor gebruik gereed is, en  
+
+5°. de beveiligingsvoorzieningen voor gebruik gereed zijn;    
+
+b. tijdens het afleveren van LPG: 
+
+1°. de identificatie- en registratievoorziening zijn geactiveerd;  
+
+2°. de op afstand bedienbare afsluiters zijn geopend;  
+
+3°. de dodemansknop, als bedoeld in voorschrift 2.4.8 van PGS 16 is ingedrukt;  
+
+4°. de pompmotor aan het elektrische net is gekoppeld;  
+
+5°. de noodknop en de oproepinstallatie voor gebruik gereed zijn, en  
+
+6°. de beveiligingsvoorzieningen voor gebruik gereed zijn;    
+
+c. indien zich in het LPG-tankstation een incident of calamiteit voordoet: 
+
+1°. de LPG-afleverinstallatie automatisch buiten bedrijf wordt gesteld en vergrendeld indien de automatisch werkende beveiligingsvoorzieningen zijn geactiveerd;  
+
+2°. de LPG-afleverinstallatie automatisch buiten bedrijf wordt gesteld en vergrendeld indien de noodknop wordt bediend;  
+
+3°. de indicatie van het buiten bedrijf of defect zijn van de LPG-afleverinstallatie voor de afnemer duidelijk zichtbaar wordt;  
+
+4°. degene die een LPG-tankstation drijft of de toezichthoudende persoon, als bedoeld in artikel 5.67, eerste lid, automatisch en in elk geval akoestisch wordt gealarmeerd wanneer de noodknop is bediend of de temperatuurgevoelige elementen in de panelen van de afleverzuil of de beveiliging tegen het niet gesloten zijn van de op afstand bedienbare afsluiters is geactiveerd, en  
+
+5°. degene die een LPG-tankstation drijft of de toezichthoudende persoon kan worden gewaarschuwd door middel van de oproepinstallatie.     
+
+### Artikel  5.84  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De LPG-afleverinstallatie wordt buiten bedrijf gesteld indien degene die een LPG-tankstation drijft of de toezichthoudende persoon, als bedoeld in artikel 5.67, eerste lid: 
+
+a. niet in het LPG-tankstation aanwezig is;  
+
+b. niet oproepbaar is, of  
+
+c. niet binnen drie minuten ter plaatse van de LPG-afleverinstallatie aanwezig kan zijn.     
+2.  De LPG-afleverinstallatie blijft buiten bedrijf indien de beveiligingen in werking zijn geweest en de oorzaak daarvan nog niet is verholpen.   
+3.  Het buiten bedrijf zijn van de LPG-afleverinstallatie wordt op een voor de afnemer duidelijke zichtbare manier weergegeven.  
+
+### Artikel  5.85  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan wordt ten aanzien van afstanden van de LPG-afleverinstallatie tot objecten binnen de inrichting en eisen ten aanzien van de opstelplaats van de LPG-tankwagen ten minste voldaan aan de artikelen 5.86 en 5.87. 
+
+### Artikel  5.86  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tussen de LPG-afleverinstallatie of onderdelen daarvan en objecten binnen de inrichting worden ten minste de veiligheidsafstanden, genoemd in tabel 4 van PGS 16, in acht genomen.   
+2.  De voorschriften 4.2.1 tot en met 4.2.14 van PGS 16 zijn van toepassing op de veiligheidsafstanden tussen een LPG-afleverinstallatie of onderdelen daarvan en objecten binnen de inrichting.  
+
+### Artikel  5.87  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De opstelplaats van de LPG-tankwagen voldoet aan de voorschriften 4.2.15 tot en met 4.2.23 van PGS 16. 
+
 ### Hoofdstuk  6  
 
 ####Overgangs- en slotbepalingen
@@ -6039,11 +7108,7 @@ e. 10 jaar voor overige typen mestbassins en afdekkingen.
 
 ### Artikel  6.5ha  
 
-1.  In afwijking van artikel 1.2, eerste lid, wordt in dit artikel onder ‘PGS 30’ verstaan: Richtlijn PGS 30, getiteld ‘Vloeibare aardolieproducten, Buitenopslag in kleine installaties’, zoals gepubliceerd op www.publicatiereeksgevaarlijkestoffen.nl, PGS 30: 1999 versie 0.1 (2-2005).   
-2.  Op een stationaire bovengrondse opslagtank met gasolie of afgewerkte olie die is geïnstalleerd voor 1 januari 2000 is artikel 3.71d niet van toepassing tot 1 januari 2015.   
-3.  Op een stationaire bovengrondse opslagtank met gasolie of afgewerkte olie die aanwezig is in een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten worden verricht en die is geïnstalleerd tussen 1 januari 2000 en 1 januari 2007 is artikel 3.71d niet van toepassing tot 1 januari 2015.   
-4.  Een opslagtank als bedoeld in het tweede en derde lid met de daarbij behorende leidingen en appendages voldoet tot 1 januari 2015 aan de voorschriften 4.1.3, 4.2.4, 4.2.5, 4.2.7, 4.2.9, 4.2.10, 4.2.14, 4.3.3, 4.3.4, 4.3.6, 4.3.8, 4.3.9, 4.3.11, 4.4.1, 4.4.3, 4.4.4, 4.4.7, 4.4.8, 4.5.1, 4.5.3, 4.5.9, 4.5.12 en de voorschriften in paragraaf 4.6 van PGS 30. In afwijking van voorschrift 4.4.4 van PGS 30 hoeft een stationaire bovengrondse opslagtank met afgewerkte olie niet te worden gecontroleerd op de aanwezigheid van water.   
-5.  Artikel 3.71d, derde lid, is niet van toepassing op een bovengrondse opslagtank die is geïnstalleerd voor de datum waarop paragraaf 3.4.9 op de inrichting van toepassing werd en die niet op de vloer staat.  
+Artikel 3.71c, derde lid, is niet van toepassing op een bovengrondse opslagtank die is geïnstalleerd voor de datum waarop paragraaf 3.4.9 op de inrichting van toepassing werd en die niet op de vloer staat. 
 
 ### Artikel  6.5i  
 
@@ -7730,3 +8795,4238 @@ De metingen dienen te worden uitgevoerd met een ‘type 1’- geluidniveaumeter 
 ![253149](http://wetten.overheid.nl/Illustration/253149)
 waarin: V<sub>i</sub> = hoeveelheid totaal stikstof, onderscheidenlijk totaal fosfor in het door de zuiveringstechnische werken waarvoor het openbaar lichaam of een andere rechtspersoon met de zorg is belast, te zuiveren stedelijk afvalwater, in kilogram per jaar. V<sub>e</sub> = hoeveelheid totaal stikstof, onderscheidenlijk totaal fosfor in het door de zuiveringstechnische werken waarvoor het openbaar lichaam of een andere rechtspersoon met de zorg is belast, na zuivering te lozen stedelijk afvalwater, in kilogram per jaar. V<sub>i</sub> en V<sub>e</sub> worden berekend met de onderstaande formules: ![253150](http://wetten.overheid.nl/Illustration/253150)
 waarin:  *r* = het betrokken zuiveringtechnische werk (inrichting r)  *n* = het aantal zuiveringtechnische werken waarvoor het openbaar lichaam of een andere rechtspersoon met de zorg is belast  *d* = de betrokken bemonsteringsdag  *M<sub>r</sub> * = het aantal bemonsteringsdagen per jaar voor inrichting r  *i<sub>rd</sub> * = concentratie in het te zuiveren stedelijk afvalwater op dag d voor inrichting r in gram per kubieke meter  *E<sub>rd</sub> * = de na zuivering geloosde hoeveelheid stedelijk afvalwater op dag d door inrichting r in kubieke meter  *e<sub>rd</sub> * = concentratie in het na zuivering te lozen stedelijk afvalwater op dag d voor inrichting r in gram per kubieke meter
+
+### Bijlage  9  
+
+####Rekenvoorschrift buitenschietbanen 
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+####Inhoud
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1  | Inleiding  | 72  |
+| 1.1  | Doel  | 72  |
+| 1.2  | Structuur van het voorschrift  | 73  |
+| 1.3  | Gegevensbestanden  | 73  |
+| 2  | Definities en begrippen  | 73  |
+| 2.1  | Inleiding  | 73  |
+| 2.2  | Het begrip schietgeluid  | 73  |
+| 2.3  | Akoestische grootheden  | 74  |
+| 2.4  | Meteorologische grootheden  | 74  |
+| 2.5  | Beoordelingsgrootheden  | 76  |
+| 2.6  | Overige grootheden  | 76  |
+| 2.6.1  | Bodemparameters  | 76  |
+| 2.6.2  | Kogelparameters  | 77  |
+| 2.7  | Buitenschietbanen  | 77  |
+| 2.8  | Militaire oefenterreinen  | 80  |
+| 2.9  | Achtergronden bij de fysische modellering van schietgeluid  | 80  |
+| 2.10  | Symbolen  | 81  |
+| 3  | Beoordelingsgrootheid  | 84  |
+| 3.1  | Toepassingsbereik  | 84  |
+| 3.2  | Geluidbelasting  | 84  |
+| 3.3  | Bepaling gemiddelde toeslag voor laagfrequente componenten  | 86  |
+| 3.4  | Incidenteel gebruik  | 87  |
+| 3.5  | Salvo's  | 87  |
+| 4  | Rekenmethode  | 87  |
+| 4.1  | Inleiding  | 87  |
+| 4.2  | Toepassingsbereik  | 87  |
+| 4.3  | Principe van de rekenmethode  | 88  |
+| 4.4  | Toe te passen gegevensbestanden  | 90  |
+| 4.4.1  | Gegevensbestand van bronnen  | 90  |
+| 4.4.2  | Gegegevensbestand voor bepaling bodemdemping  | 92  |
+| 4.4.3  | Gegevensbestand met statistische gewichten  | 95  |
+| 4.5  | Invoergrootheden rekenmethode  | 97  |
+| 4.5.1  | Brongegevens  | 97  |
+| 4.5.2  | Bodemtype (hardheid/ruwheid)  | 99  |
+| 4.5.3  | Afschermende objecten  | 99  |
+| 4.5.4  | Reflecterende objecten  | 100  |
+| 4.5.5  | Keuze van rekenpunten  | 101  |
+| 4.6  | Berekening van het geluidexpositieniveau  | 101  |
+| 4.6.1  | Bronniveau  | 101  |
+| 4.6.2  | Geometrische demping  | 105  |
+| 4.6.3  | Luchtdemping  | 107  |
+| 4.6.4  | Bodemdemping  | 108  |
+| 4.6.5  | Afscherming  | 111  |
+| 4.6.6  | Niet-lineaire demping  | 117  |
+| 4.6.7  | Spiegelreflecties  | 118  |
+| 4.6.8  | Diffuse reflectie  | 120  |
+| 5  | Beschrijving invoergegevens  | 122  |
+| 5.1  | Gebruiksbeschrijving  | 122  |
+| 5.1.1  | Schietbanen  | 122  |
+| 5.2  | Rekenmodel  | 123  |
+| 5.2.1  | Toepassingsbereik  | 123  |
+| 5.2.2  | Gebruikte software  | 123  |
+| 5.2.3  | Modellering  | 123  |
+| 5.2.4  | Invoergegevens voor het rekenmodel  | 123  |
+| 5.3  | Berekeningsresultaten  | 123  |
+| Bijlage A: Methode voor de berekening van *L<sub>Es, periode</sub> * bij een geluidbelasting kleiner dan 50 dB(A)  | 123  |
+| Toelichting  | 124  |
+| 1  | Waarom een voorschrift specifiek voor schietgeluid  | 124  |
+| 2  | Beoordeling van schietgeluid  | 124  |
+| 3  | Fysische modellering van schietgeluid  | 125  |
+| 4  | De nieuwe elementen in dit voorschrift  | 126  |
+| 5  | Uitgangspunten  | 127  |
+| 6  | Beoordelingsgrootheid  | 127  |
+
+### 1  
+
+####Inleiding
+
+### 1.1  
+
+####Doel
+
+Ten behoeve van de beoordeling van schietgeluid geeft dit voorschrift de technische procedures aan die in het kader van het Activiteitenbesluit milieubeheer moeten worden toegepast. De methodieken uit het voorschrift kunnen ook in een ander kader worden toegepast, zoals bij het opstellen van een MER.
+
+### 1.2  
+
+####Structuur van het voorschrift
+
+Dit voorschrift bestaat uit voorliggend document in combinatie met vijf gegevensbestanden die voor de rekenmethode worden toegepast. In hoofdstuk 1 wordt het doel van dit voorschrift beschreven. In hoofdstuk 2 worden definities gegeven van fysische grootheden en van termen, die in het voorschrift gebruikt worden en die specifiek op schietgeluid van toepassing zijn. Voor de fysische grootheden wordt een onderscheid gemaakt tussen: 
+
+* Akoestische grootheden  
+
+* Meteorologische grootheden  
+
+* Beoordelingsgrootheden  
+
+* Overige grootheden   In § 2.7 worden een aantal typen schietinrichtingen beschreven. Aangegeven wordt waarin - akoestisch gezien – de verschillende soorten schietinrichtingen zich onderscheiden. In § 2.8 worden de specifieke eigenschappen van schietgeluid beschreven waar dit zich onderscheidt van andere vormen van geluid. Het hoofdstuk wordt afgesloten met een lijst van symbolen, die in het voorschrift worden gebruikt. In hoofdstuk 3 wordt een beschrijving gegeven van de beoordelingsmethode. De hinderrelevante beoordelingsmaat wordt hier gepresenteerd en hoe die berekend kan worden uit het A- en C-gewogen geluidexpositieniveau. In hoofdstuk 4 wordt een beschrijving gegeven van de rekenmethode voor het bepalen van het geluidexpositieniveau. Na een algemene inleiding wordt in § 4.2 het toepassingsbereik van de methode aangegeven. In § 4.4 staat hoe de gegevensbestanden, die ter beschikking zijn gesteld, moeten worden toegepast. In § 4.5 wordt aangegeven welke eisen gesteld worden aan de grootheden, waarmee de schietinrichting en omgeving gekarakteriseerd wordt. In § 4.6 wordt de eigenlijke rekenmethode gedefinieerd voor het bepalen van het geluidexpositieniveau. In hoofdstuk 5 worden aanvullende eisen beschreven, die bij de rapportage van berekeningsresultaten in acht genomen dienen te worden. In bijlage A is aangegeven hoe deelbijdragen aan de geluidbelasting kunnen worden bepaald als een geluidbelasting onder de 50 dB(A) moet worden vastgesteld.
+
+### 1.3  
+
+####Gegevensbestanden
+
+De gegevensbestanden die voor de rekenmethode worden toegepast worden via het RIVM<sup> 1 Rijksinstituut voor Volksgezondheid en Milieu. </sup> ter beschikking gesteld. Ook worden er twee programma’s ter beschikking gesteld: *ShowdB* en *ShowKog*. Met het programma *ShowdB* kunnen deze gegevensbestanden bekeken worden en kan de afhankelijkheid van de verschillende parameters, die hierbij een rol spelen zichtbaar worden gemaakt. Met het programma *ShowKog *wordt de uitbreiding van kogel- en mondingsgeluid gevisualiseerd.
+
+### 2  
+
+####Definities en begrippen
+
+### 2.1  
+
+####Inleiding
+
+In dit hoofdstuk worden de grootheden beschreven die van belang zijn voor de beoordeling van schietgeluid in het kader van zonering en vergunningverlening. Definities worden gegeven van zowel de akoestische grootheden, de beoordelingsgrootheden als van de begrippen, die specifiek van toepassing zijn op schietgeluid.
+
+### 2.2  
+
+####Het begrip schietgeluid
+
+Voorbeelden van schietgeluid zijn: Schoten met vuurwapens en detonaties van handgranaten, projectielen en bommen. Ook het geluid dat ontstaat bij gebruik van wapen- of knalsimulatoren valt hieronder. Een voorbehoud moet voor zware vliegtuigbommen gemaakt worden, aangezien het frequentiegebied hierbij zo laag is, dat het model vooralsnog niet kan worden toegepast (zie ook § 4.2).
+
+### 2.3  
+
+####Akoestische grootheden
+
+In dit voorschrift worden een groot aantal akoestische begrippen gebruikt. In § 2.10 is een overzicht gegeven van de symbolen, die hiervoor gebruikt worden. Hieronder worden van de belangrijkste begrippen de definities gegeven, die specifiek voor schietgeluid worden gebruikt. Voor de overige akoestische begrippen wordt verwezen naar akoestische handboeken; frequentiewegingen zijn gedefinieerd in IEC 651. 
+### *Momentane geluiddruk: p [Pa]* 
+
+De (momentane) geluiddruk in een geluidveld is gedefinieerd als de totale druk verminderd met de statische druk. De geluiddruk varieert met de tijd en met de positie. 
+### *Geluidexpositie: E [Pa<sup>2</sup>s]* 
+
+De geluidexpositie *E* van een geluidpuls is gedefinieerd als de tijdsintegraal van het kwadraat van de momentane geluiddruk *p(t)* over de tijdsduur *T* van de geluidpuls: ![256118](http://wetten.overheid.nl/Illustration/256118)
+Hierbij wordt in het algemeen een frequentieweging toegepast op het geluiddruksignaal *p(t)*. In dit voorschrift worden de A-weging en de C-weging toegepast. 
+### *Geluidexpositieniveau: L<sub>E</sub>[dB(A) of dB(C)]* 
+
+Het geluidexpositieniveau *L<sub>E</sub> * is gedefinieerd als tien keer de logaritme met grondtal 10 van de verhouding van de geluidexpositie *E* en een referentiewaarde *E* <sub>0</sub> = (20µPa)<sup>2</sup>s: ![256116](http://wetten.overheid.nl/Illustration/256116)
+De frequentieweging wordt aangegeven door een extra subscript, dus *L<sub>AE</sub> * of *L<sub>CE</sub> * voor de A-weging resp. de C-weging. 
+### *Bronniveau: L<sub>Eb</sub> * 
+
+Het bronniveau *L<sub>Eb</sub> * van een puntbron is in deze gedefinieerd als: ![256117](http://wetten.overheid.nl/Illustration/256117)
+waarin *L<sub>E</sub> * het geluidexpositieniveau is op een afstand *r* van de bron in een homogeen verliesvrij medium. In dit voorschrift wordt gerekend in octaafbanden, en de bronniveaus worden dus per octaafband opgegeven. Deze definitie is alleen van toepassing op mondingsgeluid en detonatiegeluid, die door puntbronnen worden gerepresenteerd. Voor kogelgeluid wordt een andere definitie van het bronniveau gehanteerd (zie § 4.6.1).
+
+### 2.4  
+
+####Meteorologische grootheden
+
+Bij de rekenmethode wordt de (hinder-relevante) geluidbelasting bepaald als een gemiddelde over verschillende meteorologische klassen. Hierbij wordt dus rekening gehouden met het feit dat de geluidoverdracht sterk afhankelijk is van de plaatselijke weersomstandigheden. De verschillende meteorologische klassen worden getypeerd door het effectieve geluidsnelheidsprofiel. In deze paragraaf worden de definities gegeven van de grootheden die hierbij een rol spelen. 
+### *Windsnelheid: u [m/s]* 
+
+De windsnelheid is aan sterke fluctuaties in de tijd onderhevig. Voor een beschrijving van de toestand van de atmosfeer wordt van de gemiddelde windsnelheid uitgegaan, waarbij gemiddeld is over een periode van typerend 5 minuten. De windsnelheid neemt over het algemeen met de hoogte toe. In de rekenmethode wordt ervan uitgegaan dat de gemiddelde windsnelheid in het geluidpad niet met de horizontale positie varieert. Met name bij land-waterovergangen kan dit echter wel het geval zijn. De methode is dan niet zondermeer toepasbaar. In dit voorschrift wordt alleen de horizontale component van de windsnelheid gebruikt, aangeduid met het symbool *u*. 
+### *Temperatuur: t [°C] en T [K]* 
+
+De temperatuur is aan fluctuaties in de tijd onderhevig. Voor een beschrijving van de toestand van de atmosfeer wordt van het gemiddelde uitgegaan, waarbij gemiddeld is over een periode van typerend 5 minuten. In de rekenmethode is ervan uitgegaan dat de gemiddelde temperatuur in het geluidpad alleen met de hoogte varieert. Met name bij land-waterovergangen treden ook horizontale temperatuurverschillen op. De methode is dan niet zondermeer toepasbaar. Zowel de temperatuur in graden Celsius als de absolute temperatuur in Kelvin worden gebruikt. 
+### *Windrichting *φ *[°]* 
+
+De windrichting is de richting van waaruit de wind komt. De windrichting wordt uitgedrukt in graden ten opzichte van het noorden (kloksgewijs). Westenwind komt dus overeen met 270°. 
+### *Effectieve geluidsnelheid: c<sub>eff</sub>[m/s]* 
+
+De effectieve geluidsnelheid, d.w.z. de snelheid waarmee een geluidgolf zich in de atmosfeer voortplant, wordt bepaald door de absolute temperatuur *T*, de horizontale windcomponent *u*, en het hoekverschil tussen de windrichting *φ* en de richting *θ* waarin het geluid zich voortplant (*φ* en *θ* zijn hoeken t.o.v. het geografische noorden; dus bv. *φ* = 90° voor oostenwind, en *θ* = 90° voor geluidvoortplanting van west naar oost). ![256119](http://wetten.overheid.nl/Illustration/256119)
+De geluidsnelheid is dus gelijk aan de som van de ‘thermische geluidsnelheid’ en de vectorwind, de component van de wind in de geluidvoortplantingsrichting. In dit voorschrift wordt de aanduiding ‘effectief’ meestal weggelaten, en wordt de ‘effectieve geluidsnelheid’ als de ‘geluidsnelheid’ aangeduid. In overeenstemming hiermee wordt het symbool *c* gebruikt in plaats van *c<sub>eff</sub> *. 
+### *Geluidsnelheidsprofiel c(h) [m/s]* 
+
+Het verloop van de effectieve geluidsnelheid met de hoogte (*h*) wordt aangeduid als het geluidsnelheidsprofiel *c(h)*. Dit verloop is een gevolg van de variaties van de temperatuur *T* en de windsnelheid *u* met de hoogte. In dit voorschrift wordt de (hinder-relevante) geluidbelasting berekend als een gewogen gemiddelde over 27 meteorologische klassen. Deze klassen worden getypeerd door het geluidsnelheidsprofiel waarbij drie groepen worden onderscheiden (zie § 4.4.2). 
+### *Relatieve vochtigheid r<sub>v</sub>[%]* 
+
+De relatieve vochtigheid van de atmosfeer is gedefinieerd als de partiële druk van waterdamp in de atmosfeer gedeeld door de verzadigings-dampdruk, uitgedrukt als een percentage. 
+### *Ruwheidslengte z<sub>0</sub>[m]* 
+
+Vlakbij de bodem is de windsnelheid vrijwel gelijk aan nul. De ruwheidslengte van de bodem is gedefinieerd als de hoogte waar beneden de windsnelheid gelijk is aan nul. Voor de bepaling van de ruwheidslengte kan gebruik gemaakt worden van de Davenport-classificatie. Volgens deze classificatie bedraagt de ruwheidslengte 0,0002 m voor een wateroppervlak, 0,03 meter voor open grasland en 0,25 meter voor heide. 
+### *Meteorologische dag* 
+
+Periode tussen één uur na zonsopgang en één uur voor zonsondergang. 
+### *Meteorologische nacht* 
+
+Periode tussen één uur voor zonsondergang en één uur na zonsopgang. 
+### *Juridische dag, avond en nacht* 
+
+Er worden drie beoordelingsperioden onderscheiden: 
+
+* dagperiode 07.00 – 19.00 uur;  
+
+* avondperiode 19.00 – 23.00 uur;  
+
+* nachtperiode 23.00 – 07.00 uur.   
+### *Windroossector [χ,ζ] [°* 
+
+Gedeelte van de windroos, dat voor het gebruik van de schietinrichting relevant is. Van de windroossector wordt de sectorhoek *χ* gegeven en het midden van de windroossector *ζ*. Bij een windroossector van bijvoorbeeld [90°, 270°] is het gebruik van de schietinrichting alleen relevant bij windrichtingen van (270° ± 45°) hetgeen overeenkomt met windrichtingen tussen noordwest en zuidwest (zie ook figuur 4.4).
+
+### 2.5  
+
+####Beoordelingsgrootheden
+
+### *Geluidbelasting ten gevolge van schietgeluid: B<sub>s</sub>[dB(A)]* 
+
+De hinderrelevante geluidbelasting ten gevolge van schietgeluid wordt aangegeven door het symbool *B<sub>s</sub> * en uitgedrukt in dB(A). De dosis-effect relatie voor hinder ten gevolge van wegverkeersgeluid is hierbij als referentie gekozen. Dit houdt in dat bij gelijke hinderbeleving de getalwaarden van de geluidbelasting van schietgeluid en wegverkeersgeluid aan elkaar gelijk zijn. In de geluidbelasting is de gemiddelde invloed van het weer op de geluidoverdracht verwerkt. De geluidbelasting kan onderverdeeld worden in deelgeluidbelastingen van diverse schietactiviteiten. De totale geluidbelasting is de energetische som van deze deelgeluidbelastingen. In analogie met de beoordelingsprocedures voor wegverkeers- en industriegeluid wordt bij zonering van schietgeluid de geluidbelasting uitgedrukt in een dag-avond-nachtwaarde (B<sub>s,dan</sub>), die bepaald wordt als een gewogen gemiddelde (zie § 3.1) van de B<sub>s</sub> waarden voor de drie juridische beoordelingsperioden: 
+
+*  *B<sub>s,dag</sub> * dag: 07.00 – 19.00 uur;  
+
+*  *B<sub>s,avond</sub> * avond: 19.00 – 23.00 uur;  
+
+*  *B<sub>s,nacht</sub> * nacht: 23.00 – 07.00 uur.   
+
+### 2.6  
+
+####Overige grootheden
+
+### 2.6.1  
+
+####Bodemparameters
+
+De bodem wordt akoestisch gekarakteriseerd door twee parameters: de akoestische bodemhardheid en de bodemruwheid. De akoestische bodemhardheid is bepalend voor reflectie en absorptie van geluid door de bodem. Als maat voor de bodemhardheid wordt de *stromingsweerstand σ* gehanteerd. De stromingsweerstand wordt gedefinieerd aan de hand van een situatie waarin een luchtstroom door een laag van het materiaal een drukval over de laag veroorzaakt. De stromingsweerstand is dan gelijk aan verhouding van de drukval Δ*p* en de stroomsnelheid *v*, gedeeld door de laagdikte *L*. In formule: ![256120](http://wetten.overheid.nl/Illustration/256120)
+In deze rekenmethode voor schietgeluid wordt van drie waarden voor de akoestische bodemhardheid uitgegaan: reflecterend, absorberend en zeer absorberend. Voor de stromingsweerstand wordt voor een zeer absorberende bodem en een absorberende bodem respectievelijk 1<sup>.</sup>10<sup>5</sup> Nsm<sup>-4</sup> en 3<sup>.</sup>10<sup>5</sup> Nsm<sup>-4</sup>gehanteerd. Voor een akoestisch reflecterende bodem wordt een oneindig grote stromingsweerstand aangenomen (zie ook § 4.5.2). De bodemruwheid beïnvloedt het windsnelheidsprofiel in de atmosfeer boven de bodem, en daardoor indirect de geluidoverdracht. Een maat voor de bodemruwheid is de *ruwheidslengte z<sub>0</sub> * (zie § 2.4).
+
+### 2.6.2  
+
+####Kogelparameters
+
+Voor de berekening van het niveau van het kogelgeluid zijn in eerste instantie twee parameters van belang: de *kogeldiameter d<sub>kogel</sub> * gedefinieerd als de maximale diameter van de kogel en de *effectieve lengte l<sub>kogel</sub> * gedefinieerd als de axiale afstand van de punt van de kogel tot aan de plaats waar de diameter maximaal is. ![256121](http://wetten.overheid.nl/Illustration/256121)
+*Figuur 2.1:* Effectieve lengte *l<sub>kogel</sub> * en diameter *d<sub>kogel</sub> * van een kogel Het gebied waar het kogelgeluid kan worden waargenomen hangt af van de snelheid van de kogel. Deze snelheid wordt benaderd door een lineaire relatie:  *v<sub>k</sub> = v<sub>0</sub> + v<sub>1</sub>x* * (2.6)*  met  *v<sub>0</sub> * de snelheid van de kogel bij het verlaten van de vuurmond;  *v<sub>1</sub> * de verandering van de snelheid per eenheid van lengte;  *x* de afstand langs de kogelbaan tot de vuurmond. Een afgeleide parameter die een rol speelt bij de berekening van kogelgeluid is het Mach-getal. Dit is gedefinieerd als de verhouding van de snelheid *v<sub>k</sub> * van de kogel en de geluidsnelheid *c* <sub>10</sub> (hiervoor wordt in dit voorschrift de waarde bij 10°C en 1 atmosfeer gehanteerd: *c* <sub>10</sub> = 337.6 m/s). ![256122](http://wetten.overheid.nl/Illustration/256122)
+
+### 2.7  
+
+####Buitenschietbanen
+
+Op verschillende soorten banen wordt geschoten dan wel andersoortig knalgeluid gemaakt. In onderstaande tabel is een overzicht gegeven met voorbeelden van baantypen die in Nederland voorkomen en die in het kader van dit voorschrift relevant zijn. Voor het vaststellen van de geluidbelasting vragen de verschillende baantypen om een andere aanpak. 
+### *Vrije schietbanen* 
+
+Dit zijn schietbanen, meestal voorzien van een kogelvanger, en mogelijk een overkapping boven de standplaats van de schutters, doch zonder voorzieningen ter beperking van de omvang van de onveilige zone zoals poorten, kokers, schermen, etc. De vrije schietbanen zijn onder te verdelen in: 
+
+− vrije geweerbanen;  
+
+− vrije mitrailleurbanen en vrije pistoolbanen.   De lengte van een vrije geweerbaan is doorgaans 300 m; het aantal schietpunten varieert. In principe bestaat tussen de uitvoering van een vrije mitrailleurbaan en die van een vrije pistoolbaan geen verschil. Een vrije pistoolbaan heeft een lengte van 25m; het aantal schietpunten bedraagt doorgaans vijf tot tien. 
+### *Schietkampen* 
+
+Een schietkamp bestaat uit één of meer schietbanen en/of schietpunten. De doelafstanden zijn hierbij groter dan bij vrije schietbanen. Deze terreinen beslaan meerdere vierkante kilometers. Afhankelijk van de inrichting wordt met diverse wapentypen geschoten variërend van lichte handvuurwapens tot 155 mm Houwitsers. 
+### *Poortbanen* 
+
+Dit zijn schietbanen waarbij door middel van poorten en kogelvangers wordt voorkomen dat – bij normaal gebruik – een direct schot de baan kan verlaten, waardoor een zekere mate van veiligheid wordt verkregen en met een beperkte onveilige zone kan worden volstaan. De poortbanen zijn onder te verdelen in geweerpoortbanen en pistoolpoortbanen. Een geweerpoortbaan heeft bijvoorbeeld een lengte van 100 m, 200 m of 300 m. Een pistoolpoortbaan is 20 m of 25 m lang. Het aantal schietpunten op de banen is meestal zes. Bij pistoolpoortbanen maakt de eerste poort deel uit van een schiethuisje waarin de schutters zich bevinden. Het geluiduitstralingspatroon van een poortbaan is, door de vele reflecties die mogelijk zijn, zeer complex. Voor de berekening van de geluidbelasting wordt in de rekenmethode deze baan door een puntbron gemodelleerd. Deze beschrijving is pas geldig op enige afstand van deze baan. In § 4.5.1 wordt hier nader op ingegaan. 
+### *Schermenbanen* 
+
+Dit zijn schietbanen waarbij door middel van schermen, zijwallen of zijwanden en een overkapping boven de kogelvanger wordt voorkomen dat – bij normaal gebruik van de baan – een direct schot en/of een ricochet de baan kan verlaten, waardoor geen onveilige zone in acht genomen behoeft te worden. De schermenbanen zijn onder te verdelen in schermenbanen voor geweer en schermenbanen voor pistool. Een schermenbaan voor geweer heeft een lengte van bijvoorbeeld 100 m, 200 m of 300 m. Een schermenbaan voor pistool is 25 m lang. Er zijn op schermenbanen meestal zes schietpunten. Het schuttersgedeelte van de baan is meestal overkapt. Ook zijn er voorbeelden waarbij de schutter, gelegen op een brits, vanuit een omsloten ruimte door een klein venster schiet. Een 100 m baan kan ook voor het schieten met vuist-vuurwapens worden gebruikt. De schutter gaat hiertoe naar voren op een afstand van 25 m of minder van de kogelvanger. Deze schietpositie is meestal niet overkapt. De schermen zijn van beton en bekleed met hout. Akoestisch kunnen deze schermen de geluiduitstraling naar de omgeving sterk beïnvloeden. Naast een geluidreducerende invloed kunnen ze in bepaalde richtingen ook een geluidversterkende invloed hebben door reflectie van het geluid tegen deze schermen. Op schermenbanen waar voldoende aanvullende akoestische maatregelen zijn getroffen, zal buiten de baan alleen kogelgeluid een rol van betekenis spelen. Het geluiduitstralingspatroon van een schermenbaan is, door de vele reflecties die mogelijk zijn, zeer complex. Voor de berekening van de geluidbelasting wordt in de rekenmethode de schermenbaan gemodelleerd door één of meer puntbronnen. Deze beschrijving is pas geldig op enige afstand van de schermenbaan. In § 4.5.1 wordt hierop nader op ingegaan. 
+### *Poortkokerbanen* 
+
+Dit zijn schietbanen waarbij door middel van een poort en een koker wordt voorkomen dat – bij normaal gebruik van de baan – een direct schot en/of een ricochet de baan kan verlaten, waardoor geen onveilige zone in acht genomen behoeft te worden. Een poortkokerbaan heeft meestal een lengte van 25 m. Het aantal schietpunten bedraagt doorgaans vijf of zes. De schietposities bevinden zich net buiten het gebouw (aan de open zijde) of voor kortere doelafstanden in het gebouw (de kokers zijn groot genoeg om in te staan). De bodem van de schietposities net buiten het gebouw is verlaagd uitgevoerd. Het gebouw is voorzien van een sheddak dat aan dezelfde kant als waar de opening van het gebouw ligt kleine ramen heeft. Ook een poortkokerbaan wordt in de rekenmethode gemodelleerd door een puntbron. De geluiduitstraling is sterk richtingsafhankelijk. Met name naar achteren toe straalt een poortkokerbaan het meeste geluid uit. Door de afschermende werking van wanden en plafond is de geluiduitstraling lager naarmate het schietpunt dieper in het gebouw ligt. 
+### *Kokerbanen* 
+
+Dit zijn schietbanen waarbij door middel van een koker wordt voorkomen dat – bij normaal gebruik van de baan – een direct schot en/of een ricochet de baan kan verlaten, waardoor geen onveilige zone in acht genomen behoeft te worden. Een kokerbaan heeft slechts één open zijde achter de standplaats van de schutters. Een kokerbaan heeft doorgaans een lengte van 25 m. De schietposities bevinden zich bij de open zijde of (voor kortere doelafstanden) in het gebouw. Op een afstand van ca 2 m van de kogelbaan is meestal aan beide kanten een verbreding van ca 0,55 m in de koker aangebracht waarin zich een (niet aanschietbare) deur bevindt. De bodem van de schietposities net buiten het gebouw is meestal verlaagd uitgevoerd. Het gebouw is voorzien van een sheddak dat aan dezelfde kant als waar de opening van het gebouw ligt kleine ramen heeft. Ook een kokerbaan wordt in de rekenmethode gemodelleerd door een puntbron. De geluiduitstraling is sterk richtingsafhankelijk. Met name naar achteren toe straalt een kokerbaan het meeste geluid uit. Door de afschermende werking van wanden en plafond neemt het bronniveau af als het schietpunt zich meer in het gebouw bevindt. 
+### *Handgranatenbanen* 
+
+Dit zijn banen waar met scherpe handgranaten kan worden geworpen. Een handgranatenbaan bestaat uit een schuilplaats voor de oefenende eenheid, een munitie opslag- en verstrekkingspunt, een werppunt, een waarnemingspunt voor de officier belast met de leiding en een dekkingswal. Voorts behoort tot de baan een geëgaliseerde terreinstrook, breed ten minste 50 m en diep ten minste 75 m, waar de geworpen granaat terecht dient te komen. 
+### *Miniatuurschietbanen* 
+
+Dit zijn schietbanen waarbij geschoten wordt met geweren, kaliber .22 inch, bevestigd in of aan boordkanonnen van voertuigen. Een miniatuurschietbaan bestaat meestal uit een verhard opstelplateau voor de voertuigen, een doelengebied van relatief grote omvang, doorgaans aangeduid als ‘zandbak’, en een kogelvanger, al dan niet voorzien van een overkapping. 
+### *Banen met schietbomen* 
+
+Op deze banen wordt er vanaf een vaste standplaats op een schietboom geschoten waarop een doel is aangebracht. Er wordt geschoten met geweren, lucht- en/of CO<sub>2</sub>-wapens of kruis- of handbogen. Behalve bij de kruis- en handbogen wordt gebruik gemaakt van een oplegsteun voor het wapen. In enkele gevallen is er ook een kogelvanger aanwezig. Afhankelijk van het type doel wordt het aangeduid als Oud Limburgs schieten, Brabants schieten of Gelders schieten. Bij Oud Limburgs schieten wordt de hark of de vogel als doel gebruikt. De hark is een houten raamwerk waarop een groot aantal blokjes hout is bevestigd. De vogel is een blok hout in de vorm van een vogel. Bij Brabants schieten wordt op de wip (een stalen schijfje) of op de gaai (vogel) geschoten. Bij Gelders schieten wordt geschoten op de vogel, de schijf of de lepel. Bij het schieten op de schijf wordt een papieren roos gebruikt. Bij het lepelschieten bestaat het doel uit een aantal lepels die kunnen scharnieren en die na een treffer weer overeind gehaald kunnen worden. 
+### *Miniatuur kanonbanen* 
+
+Dit zijn schietbanen waar met miniatuur kanonnen wordt geschoten onder een zeer kleine elevatie (5 graden) op doelen op een afstand van 25 tot 50 m. 
+### *Boogbanen* 
+
+Boogbanen worden gebruikt voor schieten met kruis- en handbogen. Dit type baan is in dit voorschrift buiten beschouwing gelaten, omdat de geluidbelasting op de omgeving veroorzaakt door schieten met kruis- en handbogen verwaarloosbaar is. 
+### *Kleiduivenschietbanen* 
+
+Op kleiduivenschietbanen wordt geschoten met hageljachtgeweren. Het doel is een kleiduif (schijf gebakken klei) die door middel van een hand- of mechanisch gedreven kleiduiven-werpmachine wordt weggeworpen over een afstand van maximaal 80 m. Kleiduivenschietbanen kunnen in verschillende variaties voorkomen: 
+
+* Op een skeetbaan werpen twee tegenover elkaar staande machines, die zijn opgesteld in een hoge en een lage toren, de kleiduiven elk in een bepaalde richting. De schutter moet voortdurend langs een halve cirkel, met de twee werpmachines op de hoekpunten, van standplaats wisselen. Er zijn acht verschillende standplaatsen.  
+
+* Bij een trapbaan staat de werpmachine op een vaste plaats opgesteld en zijn er meestal tien standplaatsen voor de schutter. De afstand van de schietpunten tot de werpmachine is 10 tot 15 m.  
+
+* Bij een enkelvoudige oefenbaan is er slechts één vaste standplaats voor de schutter. De werpmachine is verplaatsbaar.  
+
+* Bij een hazenbaan wordt meestal geschoten op een metalen schijf in de vorm van een haas waarop een kleiduif is aangebracht. De haas wordt voortbewogen langs draden of op rails met een snelheid van ongeveer 5 m/s. De schutter staat op 15, 20 of 25 m afstand van het doel.   
+
+### 2.8  
+
+####Militaire oefenterreinen
+
+Op militaire oefenterreinen wordt niet met een scherpe patroon (‘Ball’) geschoten, maar wordt een losse patroon (‘blank’) toegepast, die over het algemeen minder geluid voortbrengt. Verder wordt soms ook gebruik gemaakt van knalsimulatie-middelen. Gevechtsituaties worden nagebootst waarbij er sprake is van een aanvallende en een verdedigende partij. Plaats en richting van schieten bij deze oefeningen zijn slechts bij benadering bekend. Het verdient daarom aanbeveling van een referentieoefening uit te gaan. In § 4.5.1 wordt hier nader op ingegaan.
+
+### 2.9  
+
+####Achtergronden bij de fysische modellering van schietgeluid
+
+Bij het geluid dat ontstaat door het gebruik van een vuurwapen kunnen drie verschillende bijdragen worden onderscheide: 
+
+* mondingsgeluid  
+
+* detonatiegeluid  
+
+* kogelgeluid   In deze paragraaf zullen we de specifieke fysische eigenschappen van schietgeluid nader toelichten om inzicht te geven in de modellering van schietgeluid. 
+### *Mondingsgeluid en detonatiegeluid* 
+
+Door de explosie van de voortdrijvende lading in een projectiel ontstaat er een grote drukpuls. Het hierdoor opgewekte geluidveld laat zich goed beschrijven door een akoestische puntbron met een richtingsafhankelijke geluiduitstraling. Voor lichte vuurwapens is de richtingsafhankelijkheid over het algemeen groter dan bij de zwaardere wapentypen. Het verschil tussen het niveau vóór en achter het wapen kan bij lichte handvuurwapens in de orde van 15 dB zijn. Het bronpunt voor lichte handvuurwapens ligt aan het einde van de loop. Voor zwaardere wapens ligt het broncentrum iets verder voor de loop (zie hiervoor ook § 4.5.1). Indien op korte afstand van een wapen afschermende objecten staan opgesteld moet hier terdege rekening mee gehouden worden. Terugstootloze vuurwapens hebben in principe twee bronpunten, één aan de voorkant (in Engels: muzzle blast) en één aan de achterzijde van het wapen (in engels: breech blast). Het niveau van het bronpunt aan de achterzijde van het wapen is vele malen sterker dan het bronpunt aan de voorzijde van het wapen, zodat in goede benadering van één bronpunt aan de achterzijde van het wapen kan worden uitgegaan. Het akoestisch model dat in dit voorschrift wordt beschreven is een lineair model. Op korte afstand van het wapen zijn de geluiddrukniveaus echter dermate hoog dat de geluidoverdracht niet door een lineair model kan worden beschreven. Op enige afstand van de bron zijn de drukniveaus echter zover afgenomen dat een beschrijving door een lineair model wel kan worden toegepast. Dit betekent dat het model niet op korte afstanden van de bron kan worden toegepast (zie ook § 4.2). 
+### *Kogelgeluid* 
+
+Kogelgeluid heeft een principieel ander gedrag dan mondings- en detonatiegeluid. Het ontstaat door verstoring van de lucht door een supersone kogel. De luchtverstoring is geconcentreerd op een kegelvormig oppervlak, dat zich met de geluidsnelheid vanaf de kogelbaan uitbreidt. Dit oppervlak wordt de Mach-golf genoemd. Op het moment dat de Mach-golf een waarnemer passeert, wordt het als een knal waargenomen. De kogelknal wordt altijd eerder waargenomen dan de mondingsknal. De halve tophoek *μ* van de kegelvormige Mach-golf wordt de Mach-hoek genoemd. De Mach-hoek wordt bepaald door de geluidsnelheid *c* <sub>10</sub> en de kogelsnelheid *v<sub>k</sub> *, volgens de relatie: ![256123](http://wetten.overheid.nl/Illustration/256123)
+De kogelsnelheid neemt in het algemeen af langs de kogelbaan, waardoor de Mach-hoek toeneemt (het complement van de Mach-hoek, *ξ* = 90° – *μ* neemt dus juist af langs de kogelbaan). Hierdoor is de Mach-golf geen perfect kegeloppervlak, maar een gekromd kegeloppervlak. Dit is geïllustreerd in figuur 2.2. Bij de modellering van kogelgeluid worden drie gebieden onderscheiden, die aangegeven zijn in figuur 2.2. Het niveau van kogelgeluid is het hoogst in gebied II, het Mach-gebied. Het niveau is aanzienlijk lager in gebied III, maar niet verwaarloosbaar. Het niveau in gebied I is nog lager, en wordt verwaarloosd. In figuur 2.2 is aangenomen dat de kogel nog supersoon is bij het doel, d.w.z. dat de kogelsnelheid bij het doel groter is dan de geluidsnelheid. Het kan ook voorkomen dat de kogel subsoon wordt vóór het bereiken van het doel. De hoek *ξ* is dan, op het punt waar de kogel subsoon wordt, gelijk aan nul. Gebied II bestrijkt dan het volledige gebied achter het doel; er is dan geen gebied III. ![256124](http://wetten.overheid.nl/Illustration/256124)
+*Figuur 2.2:* Illustratie van de gebieden I, II en III die gebruikt worden bij de modellering van kogelgeluid. Gebied II wordt het Mach-gebied genoemd. De gekromde lijnen representeren de doorsnede van de (kegelvormige) Mach-golf op het moment dat de kogel het doel bereikt. De Mach-hoek bij het doel is aangegeven als μ<sub>e</sub>. 
+
+### 2.10  
+
+####Symbolen
+
+| Symbool  | Eenheid  | Omschrijving  | behandeld in  |
+|:---|:---|:---|:---|
+|  *α*   | dB  | constante voor bepalen hinderrelevante geluidbelasting (47 dB)  | 3.2  |
+|  *α<sub>abs</sub> *   | –  | absorbtiecoëfficient van materialen  | 4.6.5  |
+|  *α<sub>e</sub> *   | °  | elevatiehoek van de loop van het wapen  | 4.4.1  |
+|  *β*   | dB<sup>-1</sup>   | constante voor bepalen hinderrelevante geluidbelasting (0.015 dB<sup>-1</sup>)  | 3.2  |
+|  *γ*   | –  | tophoek van wal  | 4.5.3  |
+|  *ε<sub>hor</sub> *   | °  | effectiviteit van de reflectie in het horizontale vlak  | 4.6.7  |
+|  *ε<sub>ver</sub> *   | –  | effectiviteit van de reflectie in het verticale vlak  | 4.6.7  |
+|  *ζ*   | °  | midden van windroossector, die voor het gebruik van de schietinrichting relevant is  | 2.4  |
+|  *θ*   | °  | geluidvoortplantingsrichting t.o.v. het noorden (bijv θ = 90° voor geluidvoortplanting van west naar oost)  | 2.4  |
+|  *λ*   | m  | golflengte  | 4.6.7  |
+|  *μ*   | °  | Mach-hoek, halve tophoek van de kegel gevormd door het golffront van de Mach-golf  | 2.9  |
+|  *ξ*   | °  | complement van de Mach-hoek  | 2.9  |
+|  *ξ<sub>b</sub>,ξ<sub>e</sub> *   | °  | grenshoeken van het Mach-gebied  | 2.9 en 4.6.2  |
+|  *ρ*   | –  | reflectiviteit {reflectiecoëfficiënt voor de geluidenergie (1-α<sub>abs</sub>)}  | 4.5.4  |
+|  *σ*   | kPa s m<sup>-2</sup>   | stromingsweerstand  | 2.6 en 4.5.2  |
+|  *φ*   | –  | windrichting (hoek t.o.v. het noorden, bijv. φ = 90° komt overeen met oostenwind)  | 2.4  |
+|  *ϕ*   | °  | hoek tussen de lijn van bron naar rekenpunt en de vuurlijn (in bovenaanzicht vanuit de bron met de klok mee gemeten)  | 4.4.1  |
+|  *ϕ<sub>r</sub> *   | °  | diffractiehoek van rekenpunt op top van scherm  | 4.6.5  |
+|  *ϕ<sub>s</sub> *   | °  | diffractiehoek van bron op top van scherm  | 4.6.5  |
+|  *Δϕ<sub>r</sub> *   | °  | correctie op *ϕr* als gevolg van straalkromming  | 4.6.5  |
+|  *Δϕ<sub>s</sub> *   | °  | correctie op *ϕs* als gevolg van straalkromming  | 4.6.5  |
+|  *χ*   | °  | sectorhoek van windroossector, die voor het gebruik van de schietinrichting relevant is  | 2.4  |
+|  *ψ*   | °  | schietrichting t.o.v. het noorden in het horizontale vlak  | 4.5.1  |
+|  *b*   | –  | geluidbron  | 3.2 en 4.3  |
+|  *b<sub>n</sub> *   | m/s  | coëfficiënt in formule voor geluidsnelheidprofielen  | 4.4.2  |
+|  *B<sub>s</sub> *   | dB(A)  | geluidbelasting ten gevolge van schietgeluid  | 2.5  |
+|  *B<sub>s,avond</sub> *   | dB(A)  | geluidbelasting in de juridische avondperiode  | 2.5 en 3.2  |
+|  *B<sub>s,dag</sub> *   | dB(A)  | geluidbelasting in de juridische dagperiode  | 2.5 en 3.2  |
+|  *B<sub>s,dan</sub> *   | dB(A)  | geluidbelasting uitgedrukt als dag-avond-nachtwaarde  | 2.5 en 3.2  |
+|  *B<sub>s,nacht</sub> *   | dB(A)  | geluidbelasting in de juridische nachtperiode  | 2.5 en 3.2  |
+|  *B<sub>s,periode</sub> *   | dB(A)  | geluidbelasting in een bepaalde juridische beoordelingsperiode (dag, avond of nacht)  | 3.4  |
+|  *c*   | m/s  | geluidsnelheid  | 2.4  |
+|  *c(h)*   | m/s  | geluidsnelheidsprofiel  | 2.4  |
+|  *c<sub>10</sub> *   | m/s  | geluidsnelheid bij 10°C en 1 atmosfeer (337.6 m/s)  | 2.6.2  |
+|  *c<sub>eff</sub> *   | m/s  | effectieve geluidsnelheid  | 2.4  |
+|  *d<sub>eff</sub> *   | m  | afstand tussen naburige cilinders bij modellering diffuse reflecties  | 4.5.4 en 4.6.8  |
+|  *d<sub>kogel</sub> *   | m  | maximale diameter van kogel  | 2.6.2  |
+|  *d<sub>max</sub> *   | m  | maximale afstand van rekenpunt naar rand van brongebied  | 4.6.1.  |
+|  *d<sub>min</sub> *   | m  | minimum afstand van rekenpunt naar rand van brongebied  | 4.6.1  |
+|  *D<sub>bodem</sub> *   | dB  | demping t.g.v. de bodem  | 4.4.2 en 4.6.4  |
+|  *D<sub>geo</sub> *   | dB  | geometrische demping  | 4.6.2  |
+|  *D<sub>lucht</sub> *   | dB  | demping t.g.v. luchtabsorptie  | 4.6.3  |
+|  *D<sub>nlin</sub> *   | dB  | extra dempingsterm als gevolg van niet-lineaire geluidoverdracht van kogelgeluid  | 4.6.6  |
+|  *D<sub>refl</sub> *   | dB  | reflectiedemping  | 4.6.7 en 4.6.8  |
+|  *D<sub>scherm</sub> *   | dB  | demping door geluidwerende obstakels  | 4.6.5  |
+|  *ΔD*   | dB  | tophoekcorrectie  | 4.6.5  |
+|  *E*   | Pa<sup>2</sup>s  | geluidexpositie  | 2.3  |
+|  *E<sub>0</sub> *   | Pa<sup>2</sup>s  | referentiewaarde van de geluidexpositie ((20µPa)<sup>2</sup>s)  | 2.3  |
+|  *f<sub>a</sub> *   | –  | fractie van het geluidpad waarvoor de bodem absorberend is  | 4.6.4  |
+|  *f<sub>abs</sub> *   | –  | fractie van het geluidpad waarvoor de bodem absorberend of zeer absorberend is  | 4.6.5  |
+|  *f<sub>h</sub> *   | –  | fractie van het geluidpad waarvoor de bodem hard is  | 4.6.4  |
+|  *f<sub>k</sub> *   | Hz  | octaafbandmiddenfrequentie  (*fk* = 16 Hz, 31,5 Hz, ..., 4000 Hz)  | 4  |
+|  *f<sub>z</sub> *   | –  | fractie van het geluidpad waarvoor de bodem zeer absorberend is  | 4.6.4  |
+|  *f<sub>kogel</sub> *   | Hz  | karakteristieke frequentie van kogelgeluid  | 4.6.1  |
+|  *g<sub>d</sub> *   | –  | gewichtsfactoren voor de meteorologische dag. Dit komt overeen met de kans dat een meteorologische situatie in een bepaalde meteorologische klasse valt. Een meteorologische klasse wordt gekarakteriseerd door één van de 27 geluidsnelheidsprofielen.  | 3.2 en 4.4.3  |
+|  *g<sub>n</sub> *   | –  | gewichtsfactoren voor de meteorologische nacht (zie ook hierboven).  | 3.2 en 4.4.3  |
+|  *h*   | m  | hoogte boven het plaatselijk maaiveld  | --- |
+|  *h<sub>0</sub> *   | m  | referentiehoogte (0.1 m)  | 4.4.2  |
+|  *h<sub>eff</sub> *   | m  | effectieve hoogte van bronpunt of rekenpunt als gevolg van een scherm  | 4.6.5  |
+|  *h<sub>r</sub> *   | m  | hoogte van het rekenpunt boven het plaatselijke maaiveld  | 4  |
+|  *h<sub>s</sub> *   | m  | hoogte van het bronpunt boven het plaatselijke maaiveld  | 4  |
+|  *h<sub>wapen</sub> *   | m  | hoogte van het draaipunt van de loop van een wapen  | 4.4.1  |
+|  *H<sub>p</sub> *   | –  | factor waarmee de eindige hoogte en breedte van een scherm in rekening wordt gebracht  | 4.6.5  |
+|  *k<sub>periode</sub> *   | –  | kans dat schietgeluid in een bepaalde juridische beoordelingsperiode gehoord wordt  | bijlage A  |
+|  *l<sub>kogel</sub> *   | m  | afstand van de punt van de kogel tot aan het punt waar de kogel de grootste diameter heeft  | 2.6.2  |
+|  *L*   | m  | correlatielengte (1.1 m)  | 4.6.2  |
+|  *L<sub>Aeq,periode</sub> *   | dB(A)  | equivalente geluidniveau vanwege schietgeluid voor een gemiddelde dag voor een bepaalde juridische beoordelingsperiode  | 3.3  |
+|  *L<sub>E</sub> *   | dB  | Geluidexpositieniveau, immissieniveau  | 2.3 en 4.3  |
+|  *L<sub>AE</sub> *   | dB(A)  | A-gewogen geluidexpositieniveau  | 2.3  |
+|  *L<sub>CE</sub> *   | dB(C)  | C-gewogen geluidexpositieniveau  | 2.3  |
+|  *L<sub>Eb</sub> *   | dB  | bronniveau  | 2.3 en 4.3  |
+|  *L*<sub>Eb</sub> *   | dB  | bronniveau van een spiegelbron  | 4.3 en 4.6.7  |
+|  *L<sub>Es,periode</sub>(b,m)*   | dB(A)  | deelbijdrage aan de geluidbelasting van een enkel schot van een bron *b* bij een meteorologische klasse *m*. De juridische beoordelingsperiode (dag, avond of nacht) is alleen relevant als een geluidbelasting < 50 dB(A) wordt berekend (zie bijlage A).  | 3.2  |
+| --- | dB(A)  | deelbijdrage aan de geluidbelasting voor de meteorologische dag van een enkel schot van een bron *b* als gewogen gemiddelde over 27 meteorologische klassen. De juridische beoordelingsperiode (dag, avond of nacht) is alleen relevant als een geluidbelasting < 50 dB(A) wordt berekend (zie bijlage A).  | 3.2  |
+| --- | dB(A)  | deelbijdrage aan de geluidbelasting voor de meteorologische nacht van een enkel schot van een bron *b* als gewogen gemiddelde over 27 meteorologische klassen. De juridische beoordelingsperiode (dag, avond of nacht) is alleen relevant als een geluidbelasting < 50 dB(A) wordt berekend (zie bijlage A).  | 3.2  |
+|  *L<sub>loop</sub> *   | m  | lengte van de loop vanaf draaipunt tot bronpunt  | 4.4.1  |
+|  *L<sub>n</sub> *   | m  | breedte van deelgebied van brongebied  | 4.6.1  |
+|  *m*   | –  | meteorologische klasse  | 3.2, 4.3 en 4.4.2  |
+|  *M*   | –  | Mach-getal, relatieve kogelsnelheid ten opzichte van de geluidsnelheid  | 2.6.2  |
+|  *n<sub>2</sub> *   | –  | gemiddelde aantal bomen per oppervlakte-eenheid  | 4.5.4 en 4.6.8  |
+|  *N<sub>cil</sub> *   | –  | aantal cilinders in een segment bij modellering diffuse reflecties  | 4.6.8  |
+|  *N<sub>avond</sub> *   | –  | aantal knallen per jaar in de avondperiode voor een bron  | 3.2  |
+|  *N<sub>dag</sub> *   | –  | aantal knallen per jaar in de dagperiode (inclusief zon- en feestdagen)  | 3.2  |
+|  *N<sub>nacht</sub> *   | –  | aantal knallen per jaar in de nachtperiode voor een bron  | 3.2  |
+|  *N<sub>v</sub> *   | –  | aantal gebieden dat door het geluidpad wordt doorkruist met bodemtype *v=h*   | 4.6.4  |
+|  *N<sub>zondag,dag</sub> *   | --- | aantal knallen per jaar in de dagperiode op zon- en feestdagen  | 3.2  |
+|  *O<sub>i</sub> *   | --- | deeloppervlak van het brongebied  | 4.6.1  |
+|  *O<sub>tot</sub> *   | --- | totale oppervlak van het brongebied  | 4.6.1  |
+|  *p*   | Pa  | momentane geluiddruk  | 2.3  |
+|  *P<sub>imp</sub> *   | dB  | toeslag voor het impulsmatig karakter van het schietgeluid  | 3.3  |
+|  *P<sub>lf</sub> *   | dB  | toeslag voor laagfrequente componenten in het schietgeluid  | 3.3  |
+|  *P<sub>periode</sub> *   | –  | aantal dagen per jaar dat op de inrichting wordt geschoten in een bepaalde juridische beoordelingsperiode (dag, avond of nacht), onafhankelijk van het wapen  | 3.4  |
+|  *r*   | m  | afstand  | --- |
+|  *r<sub>b</sub> *   | m  | afstand van de bron tot het reflectiepunt  | 4.6.7  |
+|  *r<sub>cil</sub> *   | m  | straal van cilinders bij modellering diffuse reflecties.  | 4.5.4 en 4.6.8  |
+|  *r<sub>v</sub> *   | %  | relatieve vochtigheid  | 2.4  |
+|  *R*   | m  | horizontale afstand van bronpunt naar rekenpunt gemeten langs geluidpad  | 4  |
+|  *R<sub>trans</sub> *   | m  | afstand van waaraf turbulentie significante invloed heeft op de coherentie van de als lijnbron te beschouwen kogelbaan  | 4.6.2  |
+|  *R<sub>1</sub> *   | m  | afstand van de doelpositie naar een punt op de grens van het Mach-gebied dat het dichtst bij het rekenpunt ligt  | 4.6.2  |
+|  *R<sub>2</sub> *   | m  | afstand van het rekenpunt tot de grens van het Mach-gebied  | 4.6.2  |
+|  *s<sub>v</sub> *   | m  | totale horizontale afstand waarover het geluidpad door een bodemgebied met bodemtype *v* loopt  | 4.6.4  |
+|  *t*   | °C  | temperatuur in graden Celsius  | 2.4  |
+|  *T*   | K  | temperatuur in Kelvin  | 2.4  |
+|  *u*   | m/s  | horizontale windsnelheid  | 2.4  |
+|  *v<sub>0</sub> *   | m/s  | beginsnelheid van de kogel  | 2.6.2  |
+|  *v<sub>1</sub> *   | s<sup>-s</sup>   | verandering van de kogelsnelheid per meter afgelegde kogelbaan: *v<sub>k</sub> = v<sub>0</sub> + v<sub>1</sub>x*   | 2.6.2  |
+|  *v<sub>e</sub> *   | m/s  | eindsnelheid van de kogel  | 4.6.2  |
+|  *v<sub>k</sub> *   | m/s  | snelheid van de kogel  | 2.6.2  |
+|  *w<sub>d,periode</sub> *   | –  | fractie van de tijd dat het in een bepaalde beoordelingsperiode een meteorologische dag is  | 3.2  |
+|  *w<sub>n,periode</sub> *   | –  | fractie van de tijd dat het in een bepaalde beoordelingsperioden een meteorologische nacht is  | 3.2  |
+|  *x*   | m  | afstand langs de kogelbaan tot de vuurmond  | 2.6.2  |
+|  *x<sub>r</sub> *   | m  | x-coordinaat van het rekenpunt  | 4  |
+|  *x<sub>s</sub> *   | m  | x-coordinaat van het bronpunt  | 4  |
+|  *x<sub>t</sub> *   | m  | lengte van de kogelbaan waar het projectiel een supersone snelheid heeft  | 4.6.2  |
+|  *y<sub>r</sub> *   | m  | x-coordinaat van het rekenpunt  | 4  |
+|  *y<sub>s</sub> *   | m  | y-coordinaat van het bronpunt  | 4  |
+|  *z*   | m  | hoogte van een object t.o.v. een referentievlak  | 4  |
+|  *z<sub>0</sub> *   | m  | ruwheidslengte van de bodem  | 2.4  |
+|  *z<sub>sch,1</sub> *   | m  | hoogte van het scherm t.o.v. het maaiveld  | 4.6.5  |
+|  *z<sub>max</sub> *   | m  | maximale hoogte van geluidstraal  | 4.6.5  |
+
+### 3  
+
+####Beoordelingsgrootheid
+
+### 3.1  
+
+####Toepassingsbereik
+
+De rekenmethode die in dit voorschrift is beschreven, is van toepassing voor de berekening van geluidbelastingen met een ondergrens van 50 dB(A). Indien men voor de dag-, avond of nachtperiode een geluidbelasting kleiner dan 50 dB(A) wil bepalen, kan de deelbijdrage aan de geluidbelasting (*L<sub>Es, periode</sub> *, zie formule 3.1) op een andere manier berekend worden. Dit is in bijlage A beschreven.
+
+### 3.2  
+
+####Geluidbelasting
+
+In eerste instantie wordt per bron en per meteorologische klasse voor een enkel schot de deelbijdrage bepaald aan de geluidbelasting. Mondingsgeluid, kogelgeluid en detonatiegeluid worden, voor zover hier sprake van is, als bijdragen van afzonderlijke bronnen beschouwd. Voor een meteorologische klasse (*m* = 1, ..., 27) en bron *b* wordt deze bijdrage gegeven door: ![256127](http://wetten.overheid.nl/Illustration/256127)
+*In formule 3.1 is een afhankelijkheid aangegeven van de juridische periode (dag, avond en nacht) waarin een schot wordt afgevuurd. Deze afhankelijkheid is alleen van toepassing als men een geluidbelasting wil berekenen die kleiner is dan 50 dB(A) (zie hiervoor bijlage A)*  In bovenstaande formule zijn de volgende toeslagen opgenomen: 
+
+* Toeslag *P<sub>imp</sub> *voor het impulsmatig karakter van schietgeluid:  *P<sub>imp</sub> *= 12 dB  
+
+* Toeslag *P<sub>lf</sub> * voor laagfrequente componenten in het schietgeluid:  *P<sub>lf</sub>(b,m)* = *β*Δ*L’*(*L<sub>AE</sub> *(*b,m*) – *α*)   waarin  *α* = 47 dB *β* = 0.015 dB<sup>-1</sup>  ![256128](http://wetten.overheid.nl/Illustration/256128)
+en Δ*L* = [*L<sub>CE</sub>(b,m) – L<sub>AE</sub>(b,m)*]. Per bron worden vervolgens voor zowel de meteorologische dag als de meteorologische nacht (zie formule 3.2 en 3.3) de deelbijdragen aan de geluidbelasting gemiddeld over alle meteorologische klassen. Dit gemiddelde is een gewogen gemiddelde, de gewichtsfactoren (*g<sub>d</sub> * en *g<sub>n</sub> * voor respectievelijk de meteorologische dag en nacht) staan beschreven in § 4.4.3. Deze gewichtsfactoren zijn onder andere afhankelijk van de ligging van het rekenpunt ten opzichte van de bron. Hiermede wordt verdisconteerd dat de windroos niet rond is (in Nederland overheersen westelijke windrichtingen). Deze afhankelijkheid wordt beschreven als functie van de hoek *θ*(*b*) die de lijn van bron naar rekenpunt maakt met het geografische noorden. Voor de meteorologische dag geldt: ![256129](http://wetten.overheid.nl/Illustration/256129)
+en voor de meteorologische nacht: ![256240](http://wetten.overheid.nl/Illustration/256240)
+Voor de beoordeling van schietgeluid worden drie *juridische* beoordelingsperioden onderscheiden: dag, avond en nacht (zie § 2.5). De grenzen van deze juridische perioden vallen niet samen met de grenzen van de twee *meteorologische *perioden: de meteorologische dag en de meteorologische nacht. Hier moet rekening mee gehouden worden bij de berekening van de geluidbelasting voor de drie juridische perioden. Hiertoe wordt gebruik gemaakt van de fracties *w<sub>d,dag</sub> * en *w<sub>n,dag</sub> *, die aangeven welk gedeelte van de juridische dagperiode (gemiddeld) samenvalt met respectievelijk de meteorologische dag en de meteorologische nacht. Voor de juridische avondperiode worden analoog de fracties *w<sub>d,avond</sub> * en *w<sub>n,avond</sub> * gebruikt. Voor de juridische nacht geldt dat deze (gemiddeld) vrijwel volledig binnen de meteorologische nacht valt. De fracties zijn in tabel 3.1 gegeven. Voor de drie (juridische) beoordelingsperioden wordt voor een bron *b *de geluidbelasting gegeven door: ![256131](http://wetten.overheid.nl/Illustration/256131)
+waarin  *w<sub>d,periode</sub> * weegfactor voor de meteorologische dag (zie tabel 3.1)  *w<sub>n,periode</sub> * weegfactor voor de meteorologische nacht (zie tabel 3.1)  *N<sub>dag</sub> * aantal knallen per jaar in de dagperiode (inclusief zon- en feestdagen)  *N<sub>zondag,dag</sub> * aantal knallen per jaar in de dagperiode op zon- en feestdagen  *N<sub>avond</sub> * aantal knallen per jaar in de avondperiode  *N<sub>nacht</sub> * aantal knallen per jaar in de nachtperiode  Tabel 3.1: Fracties (*w<sub>d,periode</sub> * en *w<sub>n,periode</sub> *) van de tijd dat het in de verschillende beoordelingsperioden een meteorologische dag respectievelijk nacht is. 
+
+| Periode  | Meteorologische dag  | Meteorologische nacht  |
+|:---|:---|:---|
+| dag  |  *w<sub>d,dag</sub> * = 0,80  |  *w<sub>n,dag</sub> * = 0,20  |
+| avond  |  *w<sub>d,avond</sub> * = 0,15  |  *w<sub>n,avond</sub> * = 0,85  |
+
+De totale geluidbelasting voor een bepaalde beoordelingsperiode wordt gegeven door: ![256132](http://wetten.overheid.nl/Illustration/256132)
+Bij deze som worden de afzonderlijke geluidcomponenten van een bron (mondingsgeluid, kogelgeluid en detonatiegeluid en hun reflecties) voor zover deze relevant zijn, als afzonderlijke bronnen beschouwd. De dag-avond-nachtwaarde wordt bepaald door de geluidbelastingswaarden van de drie beoordelingsperioden energetisch bij elkaar op te tellen, waarbij rekening moet worden gehouden met de duur van de periode: ![256133](http://wetten.overheid.nl/Illustration/256133)
+
+### 3.3  
+
+####Bepaling gemiddelde toeslag voor laagfrequente componenten
+
+Teneinde voor een bepaalde juridische beoordelingsperiode een gemiddelde toeslag voor laagfrequent componenten in het schietgeluid te bepalen, schrijven we de deelbijdrage aan de geluidbelasting voor een bepaalde bron als: ![256134](http://wetten.overheid.nl/Illustration/256134)
+hierin is *L<sub>Aeq,periode</sub> (b)* het equivalente geluidniveau vanwege schietgeluid voor één bron voor een gemiddelde dag voor een bepaalde juridische beoordelingsperiode en  ![256135](http://wetten.overheid.nl/Illustration/256135)
+de bijbehorende laagfrequente toeslag, gemiddeld over alle meteorologische klassen. Deze grootheden kunnen met onderstaande formules worden bepaald (voor de overzichtelijkheid zijn in de formules de afhankelijkheden van *b* en *m* niet weergegeven): ![256136](http://wetten.overheid.nl/Illustration/256136)
+![256137](http://wetten.overheid.nl/Illustration/256137)
+Indien een toeslag ook als gemiddelde over alle bronnen bepaald moet worden dienen onderstaande formules te worden toegepast: ![256138](http://wetten.overheid.nl/Illustration/256138)
+
+### 3.4  
+
+####Incidenteel gebruik
+
+Indien op een schietinrichting op minder dan 30 maar meer dan 12 dagen per jaar wordt geschoten moet op *B<sub>s,periode</sub> * een correctie van 10 lg (30/*P<sub>periode</sub> *) worden toegepast. *P<sub>periode</sub> *staat voor het aantal dagen per jaar dat op de inrichting, onafhankelijk van het wapentype, in een bepaalde juridische beoordelingsperiode wordt geschoten. De geluidbelasting voor een bepaalde juridische beoordelingsperiode *B<sub>s,periode</sub> * wordt dan bepaald door: voor 12 < *P<sub>periode</sub> * < 30 ![256139](http://wetten.overheid.nl/Illustration/256139)
+Indien er op 12 of minder dagen in een bepaalde beoordelingsperiode (dag, avond, nacht) geschoten wordt, wordt vanwege het exceptionele karakter van deze activiteiten deze beoordelingsperiode niet meegenomen bij de berekening van de geluidbelasting.
+
+### 3.5  
+
+####Salvo's
+
+Omdat bij de meeste machinegeweren de knallen binnen een salvo nog afzonderlijk te horen zijn, is ter bepaling van de geluidbelasting ook bij deze wapens de algemene procedure van toepassing. Er bestaan echter ook wapens waarvan de repeteerfrequentie zo hoog is (meer dan 25 schoten per seconde) dat de knallen niet meer afzonderlijk hoorbaar zijn. Ook dan wordt de geluidbelasting berekend op basis van het totaal aantal verschoten patronen binnen de salvo's.
+
+### 4  
+
+####Rekenmethode
+
+### 4.1  
+
+####Inleiding
+
+In hoofdstuk 3 is beschreven hoe de hinderrelevante beoordelingsmaat voor schietgeluid, de geluidbelasting *B<sub>s</sub> *, berekend wordt op basis van de A- en C-gewogen geluidexpositieniveaus van alle relevante schietgeluidbronnen, voor een verzameling van 27 meteorologische klassen. De berekening van deze geluidexpositieniveaus wordt in dit hoofdstuk beschreven. 
+
+### 4.2  
+
+####Toepassingsbereik
+
+Aan het toepassingsbereik van de methode zijn grenzen gesteld, die een gevolg zijn van keuzes, die bij de ontwikkeling van deze methode gemaakt zijn. Ten aanzien van de afstand tussen bron en rekenpunt is een bovengrens bepaald op 15 km. Voor grotere afstanden is de geluidbelasting van de in Nederland gebruikte wapentypen dermate laag dat berekening niet meer relevant wordt geacht. De gegevensbestanden die vergezeld gaan bij deze methode zijn daarom tot maximaal deze afstand toepasbaar. De ondergrens in afstand wordt door verschillende factoren bepaald. Uitgangspunt is dat het model toegepast wordt voor de berekening van de geluidbelasting rond schietinrichtingen. Bij de ontwikkeling van het model is er daarom vanuit gegaan dat op afstanden korter dan 50 m van het wapen geen geluidniveaus berekend hoeven te worden. Daarnaast wordt de ondergrens bepaald door de eis dat de rekenmethode alleen kan worden toegepast voor het gebied waar de geluidoverdracht door een lineair model kan worden beschreven. Voor zware wapens ligt de ondergrens hierdoor verder weg dan voor lichte wapens. Tot slot wordt de ondergrens ook bepaald door de afmetingen van een bron. Denk hierbij bijvoorbeeld aan een schermenbaan of een deel van een oefengebied. In deze methode worden deze complexe bronnen door één of meer bronnen gemodelleerd. Deze beschrijving is echter pas op enige afstand geldig. Ook aan het frequentiebereik zijn grenzen gesteld. De rekenmethode is alleen toepasbaar als de relevante geluidenergie beperkt is tot het frequentiegebied lopend van de 16 Hz tot de 4000 Hz octaafband. Voor de in Nederland toegepaste wapentypen kan hiervan worden uitgegaan. Voor exceptionele gevallen (bijvoorbeeld zware vliegtuigbommen) kunnen nog lagere frequenties een belangrijke rol spelen. De methode is dan niet zondermeer toepasbaar. Een uitgangspunt van de rekenmethode is ook dat de toestand van de atmosfeer in het gebied tussen bron en rekenpunt niet afhangt van de positie. In de meeste situaties in de praktijk wordt hier in goede benadering aan voldaan, maar er zijn uitzonderingen. Zo kan bijvoorbeeld de meteorologische situatie in het Waddenzeegebied en kustgebieden zeer complex zijn. Door temperatuurverschillen tussen land en water ontstaan zogenaamde zeewindverschijnselen. De windrichting en -snelheid en ook de temperatuur zullen dan van plaats tot plaats anders zijn. De methode is in deze bijzondere situaties niet zondermeer toepasbaar. In theorie zou men zich een schietoefening kunnen voorstellen waarbij ongebruikelijk hoge geluidniveaus optreden. Het is echter niet nodig om grenswaarden aan het geluidexpositieniveau te stellen, omdat bij toepassing van de beoordelingsmethode onmiddellijk blijkt dat zo’n oefening ook een hoge geluidbelasting geeft. 
+
+### 4.3  
+
+####Principe van de rekenmethode
+
+Uitgangspunt van de methode is de relatie: ![256140](http://wetten.overheid.nl/Illustration/256140)
+Per rekenpunt wordt per bron (index *b*), per octaafband (*f<sub>k</sub> *) en voor een verzameling van 27 meteorologische klassen (index *m*) de geluidimmissie volgens deze relatie bepaald. Zowel het geluidimmissieniveau als het bronniveau worden hierbij als geluidexpositieniveau uitgedrukt. Uit het octaafbandspectrum *L<sub>E</sub> *(*b,m,f<sub>k</sub> *) worden het A-gewogen immissieniveau *L<sub>AE</sub> *(*b,m*) en het C-gewogen immissieniveau *L<sub>CE</sub> *(*b,m*) berekend. Deze niveaus vormen de basis voor de berekening van de hinderrelevante beoordelingsmaat voor schietgeluid, de geluidbelasting *Bs*, zoals beschreven in hoofdstuk 3. De dempingstermen die in het model worden gebruikt zijn: ![256141](http://wetten.overheid.nl/Illustration/256141)
+waarin:  *D<sub>geo</sub> * geometrische demping;  *D<sub>lucht</sub> *(*f<sub>k</sub> *) demping t.g.v. luchtabsorptie;  *D<sub>bodem</sub> *(*f<sub>k</sub>, m*) demping t.g.v. de bodem;  *D<sub>scherm</sub> *(*f<sub>k</sub>, m*) demping door geluidwerende obstakels;  *D<sub>nlin</sub> * extra dempingsterm als gevolg van niet-lineaire geluidoverdracht van kogelgeluid. Zowel de bodemdemping *D<sub>bodem</sub> * als de schermwerking *D<sub>scherm</sub> * zijn afhankelijk van de meteorologische klasse *m*. De bodemdemping *D<sub>bodem</sub> * is gedefinieerd als de totale demping in een situatie zonder afschermende objecten, verminderd met *D<sub>geo</sub> * en *D<sub>lucht</sub> *. Met de term *D<sub>scherm</sub> * wordt de extra demping beschreven ten gevolge van een afschermend object. Hierbij moet worden opgemerkt dat ook de bodemdemping beïnvloed wordt door de aanwezigheid van het afschermende object (namelijk via de effectieve hoogte van de bron of het rekenpunt; zie § 4.6.5). *D<sub>scherm</sub> * is dus *niet* gelijk aan de tussenschakelverzwakking van het afschermende object.  *D<sub>nlin</sub> * is alleen van toepassing voor de berekening van de geluidbelasting door kogelgeluid. Reflecties van mondingsgeluid, kogelgeluid en detonatiegeluid worden als afzonderlijke bronnen beschouwd. Er worden hierbij twee soorten reflecties onderscheiden: spiegelreflecties en diffuse reflecties. Spiegelreflecties treden op aan verticale of bijna verticale vlakken, bijvoorbeeld een muur of een scherm; de hoek tussen het vlak en de verticaal moet kleiner dan 10° zijn, anders wordt de spiegelreflectie niet meegerekend. Spiegelreflecties worden gemodelleerd door middel van spiegelbronnen. Een reflectie aan een vlak draagt alleen aan het immissieniveau bij als een optische spiegeling van de bron naar het rekenpunt via dat vlak mogelijk is. Er wordt hierbij geen rekening gehouden met kromming van geluidstralen. Het bronniveau van een spiegelbron *L<sup>*</sup> <sub>Eb</sub> * is lager dan het bronniveau van de originele bron; het wordt bepaald uit het bronniveau* L<sub>Eb</sub> * van de originele bron met behulp van onderstaande formule: ![256142](http://wetten.overheid.nl/Illustration/256142)
+waarin *L<sub>Eb</sub> * het bronniveau (per octaafband) van de originele bron in de richting van het reflectiepunt is en *D<sub>refl</sub> * de reflectiedemping. Diffuse reflecties treden op aan een bosrand; indien er minder dan drie bomenrijen aanwezig zijn wordt de diffuse reflectie niet meegerekend. Een diffuse reflectie treedt op indien er ‘zicht’ is op de bosrand vanuit zowel de positie van de bron als de positie van het rekenpunt; optische spiegeling is hierbij irrelevant. Diffuse reflecties worden gemodelleerd met behulp van virtuele bronnen. Over het algemeen worden er per diffuus reflecterend vlak verschillende virtuele bronnen onderscheiden, dit in tegenstelling tot spiegelreflecties waarbij een reflectie aan een vlak door één spiegelbron wordt gemodelleerd. De bijdragen van de virtuele bronnen aan het totale geluidniveau op het rekenpunt kunnen als incoherent worden beschouwd, zodat elke virtuele bron als een aparte bron kan worden behandeld. Net als bij spiegelreflecties wordt door middel van een reflectiedemping *D<sub>refl</sub> * rekening gehouden met het feit dat het bronniveau van een virtuele bron lager is dan dat van de originele bron. Ook hierbij wordt gebruik gemaakt van formule 4.3. Meervoudige reflecties worden verwaarloosd. Er treedt dus maximaal één spiegelreflectie of diffuse reflectie op langs een geluidpad van de bron naar het rekenpunt. Er kunnen wel verschillende geluidpaden met een reflectie optreden. Voor de berekening van de geluidbelasting wordt gebruik gemaakt van vijf verschillende gegevensbestanden: 
+
+− gegevensbestand met brongegevens en andere bronparameters;  
+
+− gegevensbestand voor het bepalen van de bodemdemping *D<sub>bodem</sub> *;  
+
+− gegevensbestanden voor het bepalen van de statistische gewichten van de 27 meteorologische klassen   In principe wordt voor de berekening van de geluidbelasting van zowel mondingsgeluid, detonatiegeluid als kogelgeluid van dezelfde basisformule (4.1) uitgegaan. Het onderscheid zit hem in de manier waarop de verschillende dempingstermen berekend worden. In de volgende paragrafen worden de verschillende onderdelen van de berekeningsmethode in detail besproken. Waar er verschillen zijn tussen de berekening van mondingsgeluid en kogelgeluid, worden deze per onderdeel behandeld. Ook voor kogelgeluid wordt de berekening uitgevoerd alsof het geluid van een puntbron afkomstig is. Het opmerkelijke bij kogelgeluid is, dat hierbij de bronniveaus rekentechnisch worden vastgesteld (zie § 4.6.1). Dit in tegenstelling tot mondingsgeluid, waarvan de bronsterkte uit metingen is bepaald. Kenmerkend voor kogelgeluid is daarnaast dat dit alleen in bepaalde gebieden waarneembaar is. Drie gebieden worden onderscheiden waarvoor andere berekeningsmethoden gehanteerd worden. Dit komt onder andere naar voren in de manier waarop de geometrische demping bepaald wordt. Voor de berekening van de luchtdemping wordt eerst het bronspectrum van het mondingsgeluid (dat uit octaafbanden bestaat), geconverteerd naar een tertsband-bronspectrum. Voor kogelgeluid is deze conversie niet nodig omdat de bronsterkte hiervan al in tertsen bepaald wordt. Voor de berekening van de afscherming worden drie bijdragen bepaald via verschillende paden; via één verticaal pad en via twee horizontale paden om het scherm heen. Voor de hiervoor genoemde drie brontypen is de berekeningsmethode gelijk, echter voor kogelgeluid zijn de horizontale paden anders gedefinieerd (zie figuur 4.12). Voor de bodemdemping wordt voor mondingsgeluid, detonatiegeluid en kogelgeluid van dezelfde berekeningsmethode uitgegaan met dien verstande dat bij kogelgeluid – indien dit is afgeschermd – de horizontale paden en het verticale pad elk een ander bronpunt kunnen hebben. Tot slot wordt ook voor de berekening van de reflectiebijdrage voor kogelgeluid een aangepaste methode toegepast. ![256143](http://wetten.overheid.nl/Illustration/256143)
+Figuur 4.1: Met de parameters *h<sub>wapen</sub> * en *L<sub>loop</sub> * kan de hoogte *h<sub>s</sub> * van het bronpunt van de mondingsknal berekend worden voor een gegeven elevatiehoek *α<sub>e</sub> *. In deze afbeelding valt het bronpunt samen met de vuurmond, maar in het algemeen kan het bronpunt op enige afstand van de vuurmond liggen. *L<sub>loop</sub> *is dan langer dan de feitelijke lengte van de loop (zie § 4.5.1). 
+
+### 4.4  
+
+####Toe te passen gegevensbestanden
+
+### 4.4.1  
+
+####Gegevensbestand van bronnen
+
+Een gegevensbestand van schietgeluid-bronnen bevat gegevens van een groot aantal wapen-munitie-gebruiksituatie combinaties. Voor elke combinatie bevat het bestand achtereenvolgens de volgende elementen: 
+
+* Richtingsafhankelijke bronniveaus voor de verschillende octaafbanden van het mondings- of detonatiegeluid voor wapen-munitie combinaties, die in Nederland voor een bepaalde gebruikssituatie (vrije veld of bijvoorbeeld op een schermenbaan) worden gebruikt. Een verdere beschrijving wordt onder deze opsomming gegeven.  
+
+* Hoogte van wapen (*h<sub>wapen</sub> *) en lengte van de loop (*L<sub>loop</sub> *) in [m] (zie ook figuur 4.1). Deze grootheden zijn hierbij zo gedefinieerd, dat bij een gegeven elevatiehoek *α<sub>e</sub> * van de loop van het wapen, de hoogte van het bronpunt boven het plaatselijk maaiveld (*h<sub>s</sub> *) bepaald wordt door: ![256144](http://wetten.overheid.nl/Illustration/256144)
+
+* Specificatie van de munitie (met bijbehorende aandrijvende lading) of NOV-code van de munitie.  
+
+* Indien het projectiel de loop supersoon verlaat bevat het gegevensbestand bovendien: 
+
+− Lengte van de kogel (*l<sub>kogel</sub> *) van punt van kogel tot zijn grootste diameter [mm] (zie figuur 2.1);  
+
+− Maximale diameter van de kogel (*d<sub>kogel</sub> *) [mm];  
+
+− Beginsnelheid (*v* <sub>0</sub>) van de kogel [m/s];  
+
+− Verandering van de kogelsnelheid (*v* <sub>1</sub>) per meter afgelegde weglengte [1/s].     Deze parameters worden gebruikt voor de berekening van het bronniveau van kogelgeluid (zie § 4.6.1). De kogelsnelheid *v<sub>k</sub> * op een afstand *x* van de mond van het wapen wordt gegeven door de relatie: ![256145](http://wetten.overheid.nl/Illustration/256145)
+Voor hand- en vuistvuurwapens kan het aantal wapen-munitiecombinaties dat op een schietbaan wordt gebruikt zo groot zijn dat het een onevenredige inspanning is om voor al deze combinaties de geluidbronsterkte vast te stellen. Hiertoe zijn een aantal standaard categorieën met bijbehorende bronsterkte gedefinieerd, die gebruikt kunnen worden als geen bronsterktemetingen voor de betreffende wapen-munitiecombinatie beschikbaar zijn. Deze categorieën zijn beschreven in rapport ‘Toelichting op toepassing van methoden voor meten en rekenen aan schietgeluid’ (TNO 2014 R10135). 
+### *Bronniveau van het mondingsgeluid en detonatiegeluid* 
+
+Het gegevensbestand bevat octaafbandspectra van het bronniveau van mondingsgeluid en detonatiegeluid, voor een aantal richtingen. De spectra zijn geordend als een matrix *L<sub>Eb</sub> *(*ϕ<sub>j</sub>,f*), voor de octaafbanden met middenfrequenties *f<sub>k</sub> * = 16 Hz, 31,5 Hz, ..., 4.000 Hz en *N* hoeken *ϕ<sub>j</sub> * met *j* = 1, 2, ..., *N*. De hoek *ϕ<sub>j</sub> * is hierbij gedefinieerd als de hoek tussen de lijn van bron naar rekenpunt en de vuurlijn (vanuit de bron met de klok mee gemeten, in een bovenaanzicht). De waarde *ϕ* = 0° komt dus overeen met de schietrichting. Indien er in het bronnenbestand voor een bepaalde wapen-munitiecombinatie geen bronniveaus opgenomen zijn voor hoeken groter dan 180°, wordt uitgegaan van een symmetrische uitstraling rond de schietrichting. Bronniveaus in richtingen die niet in het gegevensbestand zijn opgenomen worden door interpolatie bepaald. Indien in het gegevensbestand de bronsterkte alleen voor 0° gegeven is, betekent dit dat deze bron richtingsonafhankelijk is. De gegeven bronsterkte geldt dan voor alle hoeken. In die gevallen waarbij de schietrichting niet bepaald is (bijvoorbeeld op oefenterreinen) wordt de bron als een richtingsonafhankelijke puntbron gemodelleerd. Het richtingsonafhankelijke spectrum wordt uit het hoekafhankelijke bronspectrum bepaald door een gewogen energetische middeling: ![256147](http://wetten.overheid.nl/Illustration/256147)
+met:  *L<sub>Eb</sub> *(*f<sub>k</sub> *) het energetisch gemiddelde bronniveau  *L<sub>Eb</sub> *(*ϕ<sub>j</sub>,f* <sub>k</sub>) het bronniveau in richting *ϕ<sub>i</sub> * t.o.v. de schietrichting  *N* aantal beschikbare hoeken  *g<sub>j</sub> * gewichtsfactor De gewichtsfactor wordt bepaald door: ![256148](http://wetten.overheid.nl/Illustration/256148)
+
+### *Interpolatiemethode* 
+
+Met behulp van de matrix *L<sub>Eb</sub> *(*ϕ<sub>j</sub>,f<sub>k</sub> *) kan het octaafbandspectrum van het bronniveau voor een willekeurige hoek *ϕ* berekend worden door middel van interpolatie. Hiervoor wordt de zogenaamde *cubic spline* interpolatiemethode gebruikt. De methode is hieronder beschreven voor een willekeurige octaafband. Er is hierbij uitgegaan van een symmetrische geluidemissie. Voor het gemak is het argument *f<sub>k</sub> * in *L<sub>Eb</sub> *(*ϕ<sub>j</sub> *,*f<sub>k</sub> *) weggelaten. Drie gevallen worden onderscheiden: 
+
+− 0° ≤ *ϕ* < *ϕ* <sub>1</sub>;  
+
+−  *ϕ<sub>N</sub> * < *ϕ* ≤ 180°;  
+
+−  *ϕ<sub>j</sub> * < *ϕ* < *ϕ<sub>j</sub> * <sub>+1</sub> voor een index *j* < *N*.   In de eerste twee gevallen is interpolatie niet mogelijk. De bronsterkte wordt dan bepaald door: ![256149](http://wetten.overheid.nl/Illustration/256149)
+In het derde geval wordt de bronsterkte bepaald door: ![256150](http://wetten.overheid.nl/Illustration/256150)
+met ![256151](http://wetten.overheid.nl/Illustration/256151)
+*L<sup>"</sup> <sub>Eb</sub> *(*ϕ<sub>j</sub> *) is de tweede-orde afgeleide van de functie *L<sub>Eb</sub> *(*ϕ*) voor *ϕ = ϕ<sub>j</sub> *. Voor* j*=1 tot *N* zijn deze waarden in het gegevensbestand opgenomen. 
+
+### 4.4.2  
+
+####Gegegevensbestand voor bepaling bodemdemping
+
+Het gegevensbestand voor de bepaling van de bodemdemping bevat resultaten van berekeningen met een numeriek rekenmodel voor geluidoverdracht, het Parabolic-Equation model (PE model). Het betreft berekeningen van de bodemdemping voor de 27 meteorologische klassen exclusief geometrische demping en luchtdemping. De berekeningsresultaten zijn gegeven als coëfficiënten van een twintigste-orde polynoom. De bodemdemping voor een specifieke situatie wordt bepaald door: ![256152](http://wetten.overheid.nl/Illustration/256152)
+waarin:  *c<sub>i</sub> * coëfficiënten van twintigste-orde polynoom;  *R* horizontale afstand van bronpunt naar rekenpunt. De 21 coëfficiënten van de polynoom zijn in het bestand gegeven voor: 
+
+− 27 meteorologische klassen;  
+
+− 3 waarden voor de akoestische bodemhardheid (reflecterend, absorberend en zeer absorberend);  
+
+− 12 hoogten van rekenpunten (0.1; 0.5; 1; 1.5; 2; 3; 4; 5; 6; 8; 10 en 15 m);  
+
+− 16 bronhoogten (0.1; 0.5; 1; 1.5; 2; 3; 4; 5; 6; 8; 10; 15; 20; 30; 40 en 50 m);  
+
+− 9 octaafbanden (16 Hz t/m 4.000 Hz).   Totaal bevat dit bestand derhalve 21×27×3×12×16×9= 2.939.328 coëfficiënten. 
+### *Meteorologische klassen* 
+
+In deze methode worden 27 meteorologische klassen onderscheiden. Een klasse wordt gerepresenteerd door een functie, die de geluidsnelheid beschrijft als functie van de hoogte; het zogenaamde geluidsnelheidsprofiel. Deze profielen zijn in drie groepen onderverdeeld: ![256153](http://wetten.overheid.nl/Illustration/256153)
+waarin:  *c<sub>n</sub>(h)* geluidsnelheidsprofiel;  *h* hoogte t.o.v. plaatselijk maaiveld;  *h* <sub>0</sub> referentiehoogte h<sub>0</sub>= 0.1 m;  *c* <sub>10</sub> geluidsnelheid bij 10° C en 1 atmosfeer (zie § 2.10);  *b<sub>n</sub> * parameter van het geluidsnelheidsprofiel zie tabel 4.1.  Tabel 4.1: Waarden van de parameters *b<sub>n</sub> *(in m/s) uit de formules (4.9). Tegenwind en neutrale situaties zijn vet gemarkeerd. 
+
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Groep 1  |  *b<sub>1</sub>= 10*   |  *b<sub>2</sub>=3*   |  *b<sub>3</sub>= 1*   | b<sub>4</sub>= -1  | b<sub>5</sub>= -3  | b<sub>6</sub>= -6  | b<sub>7</sub>= -10  |
+| Groep 2  |  *b<sub>8</sub>= -1*   |  *b<sub>9</sub>= -0.4*   |  *b<sub>10</sub>= -0.2*   |  *b<sub>11</sub>= 0*   | b<sub>12</sub>= 0.2  | b<sub>13</sub>= 0.4  | b<sub>14</sub>= 0.7  |
+| b<sub>15</sub>= 1.1  | b<sub>16</sub>=1.5  | b<sub>17</sub>= 2  | b<sub>18</sub>= 2.5  | --- | --- | --- |
+| Groep 3  |  *b<sub>19</sub>= -1*   |  *b<sub>20</sub>= -0.5*   |  *b<sub>21</sub>= -0.2*   | b<sub>22</sub>= 0.2  | b<sub>23</sub>= 0.4  | b<sub>24</sub>= 0.65  | b<sub>25</sub>= 1  |
+| b<sub>26</sub>= 1.4  | b<sub>27</sub>= 2  | --- | --- | --- | --- | --- |
+
+Formule (4.8) is vanaf 15 m tot een bepaalde maximum afstand geldig. De minimale en maximale afstand zijn in het gegevensbestand opgenomen. Voor afstanden groter dan de maximale afstand wordt de waarde op de maximale afstand genomen. Voor afstanden kleiner dan 15 m kan formule 4.8 niet worden toegepast. Indien echter het geluidpad over verschillende bodemtypen loopt kan het voorkomen dat een bronpunt op korte afstand van een bodemovergang ligt en over een afstand kleiner dan 15 m de bodemdemping bepaald moet worden (zie ook § 4.6.4). In dat geval moet gebruik gemaakt worden van onderstaande interpolatieformule: ![256154](http://wetten.overheid.nl/Illustration/256154)
+
+### *Interpolatie en extrapolatie* 
+
+Het gegevensbestand is gevuld voor een gekozen verzameling van combinaties van hoogtes van het bron- en rekenpunt. Deze verzameling kan worden uitgebreid met de reciproque combinaties. Het reciprociteitsprincipe houdt in dat de waarde van de bodemdemping niet verandert als bron- en rekenpunt worden omgewisseld. In formule: ![256155](http://wetten.overheid.nl/Illustration/256155)
+![256156](http://wetten.overheid.nl/Illustration/256156)
+*Figuur 4.2a:* Overzicht van combinaties van bronhoogte en hoogte van het rekenpunt die in het gegevensbestand zijn opgenomen of die door toepassing van het reciprociteitsprincipe kunnen worden verkregen. Indien een combinatie van bron en rekenpunt binnen het grijs gemarkeerde gebied van figuur 4.2a ligt maar niet in het gegevensbestand voorkomt en ook niet als reciproque combinatie bestaat, zal voor deze combinatie de bodemdemping door interpolatie bepaald moeten worden. Hiervoor worden die vier punten gebruikt, die op de hoekpunten liggen van een rechthoek rond het te interpoleren punt [h<sub>s</sub>,h<sub>r</sub>] (zie figuur 4.2.b). De overdracht voor de gewenste combinatie van bronhoogte en hoogte van het rekenpunt wordt vervolgens gegeven door: ![256157](http://wetten.overheid.nl/Illustration/256157)
+met ![256158](http://wetten.overheid.nl/Illustration/256158)
+waarin:  *h<sub>s</sub> * hoogte bronpunt boven plaatselijk maaiveld;  *h<sub>r</sub> * hoogte rekenpunt boven plaatselijk maaiveld;  *h<sub>s,k</sub>, h<sub>r,n</sub> * hoogte van bronpunt resp. rekenpunt voor (*k*,*n*) = (1,1), (1,2), (2,1), en (2,2) waarvan de combinatie wel in het gegevensbestand is opgenomen (zie figuur 4.2b). ![256159](http://wetten.overheid.nl/Illustration/256159)
+*Figuur 4.2b: *Detail van figuur 4.2a. Aangegeven is hoe de geluidoverdracht door interpolatie bepaald kan worden. Als een combinatie niet binnen het grijs gemarkeerde gebied van figuur 4.2a ligt dient de bodemdemping door extrapolatie te worden bepaald met behulp van onderstaande relatie: ![256160](http://wetten.overheid.nl/Illustration/256160)
+Indien de hoogte van de bron of van het rekenpunt kleiner is dan 0,1 m moet 0,1 m aangehouden worden. Voor hoogten groter dan 50 m heeft dit gegevensbestand geen geldigheid meer. 
+
+### 4.4.3  
+
+####Gegevensbestand met statistische gewichten
+
+Een statistisch gewicht geeft de kans aan dat een meteorologische situatie van een klasse *m* voorkomt. Deze kans hangt van verschillende factoren af. Zo is de kans afhankelijk van het dagdeel (meteorologische dag of meteorologische nacht) respectievelijk aangegeven met het symbool *g<sub>d</sub>(m,θ)* en *g<sub>n</sub>(m,θ)*. De kans is bovendien afhankelijk van de hoek *θ* die de lijn van bron naar rekenpunt maakt met het geografische noorden en tot slot ook van de gemiddelde bodemruwheid onder het geluidpad (zie ook § 4.6.7 en § 4.6.8). Een maat voor de bodemruwheid is de ruwheidslengte *z<sub>0</sub> *. In tabel 4.2 zijn de ruwheidslengtes gegeven waarvoor de statistische gewichten bepaald zijn.  Tabel 4.2: Ruwheidslengtes *z<sub>0</sub> * waarvoor in het gegevensbestand statistische gewichtsfactoren zijn opgenomen. 
+
+|--- | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| z<sub>0</sub> (cm)  | 0.02  | 0,1  | 0,5  | 1,2  | 3  | 6  | 10  | 15  | 20  | 25  |
+
+De gemiddelde ruwheid van de bodem wordt bepaald als gewogen gemiddelde van de ruwheidslengtes van de gebieden langs het geluidpad. ![256161](http://wetten.overheid.nl/Illustration/256161)
+waarin (zie ook figuur 4.3):  *z<sub>0,j</sub> * ruwheidslengte van doorlopen deelgebied *j*;  *r<sub>min,j</sub> * kortste horizontale afstand van bron tot grens deelgebied langs geluidpad;  *r<sub>max,j</sub> * grootste horizontale afstand van bron tot grens deelgebied langs geluidpad;  *r* horizontale afstand van bron naar rekenpunt langs geluidpad;  *N* aantal door het geluidpad doorsneden deelgebieden. ![256162](http://wetten.overheid.nl/Illustration/256162)
+*Figuur 4.3:* Definitie van grenzen van ruwheidsgebieden bij bepaling van de gemiddelde ruwheid. In het gegevensbestand *statgew.bin* zijn voor 10 verschillende waarden van de ruwheid (zie tabel 4.2), voor 60 verschillende hoeken (in stappen van 6°) en voor de 27 meteorologische klassen de statistische gewichten gegeven voor de meteorologische dag en de nacht. Voor waarden van de ruwheid waarvoor in het gegevensbestand geen gewicht is opgenomen wordt het gewicht van de dichtstbijgelegen ruwheidswaarde gebruikt. Voor waarden van de hoek waarvoor geen gewicht is opgenomen wordt een geïnterpoleerde waarde berekend conform onderstaande formule: ![256163](http://wetten.overheid.nl/Illustration/256163)
+waarin *θ* <sub>1</sub> en *θ* <sub>2</sub> de dichtstbijgelegen hoeken zijn. Dit gegevensbestand bevat hiervoor 27x2x10x60 = 32.400 verschillende statistische gewichten. In het bovenstaande gegevensbestand hebben een aantal statistische gewichten een waarde gelijk aan nul of relatief een lage waarde (<0.01). De bijdrage voor deze profielen zal gering zijn. Eventueel kunnen deze bijdragen toegeschreven worden aan profiel 18 om zo de berekeningen te vereenvoudigenen. Het statistisch gewicht van de profielen met een kleine bijdragen dient dan bij het statisch gewicht van profiel 18 te worden opgeteld zodat de som van de gewichten weer gelijk aan 1 is. Voor het geval dat het gebruik van de schietinrichting gekoppeld is aan de heersende windrichting wordt een aangepaste procedure gebruikt. In dit geval is er een zogenaamde windroossector gedefinieerd waarmee een gedeelte van de windroos wordt aangegeven waarbij schietactiviteiten op de betreffende inrichting kunnen plaatsvinden. Deze windroossector wordt door twee parameters bepaald, die de grootte en positie van de sector aangeven (zie § 2.4 en Figuur 4.4). De statistische gewichten zijn van deze twee parameters afhankelijk naast de hiervoor genoemde grootheden (meteorologische klasse, dagdeel, hoek van bron naar rekenpunt met geografisch noorden en de gemiddelde ruwheid onder het geluidpad). Omdat het teveel opslagruimte zou vragen om voor alle mogelijke combinaties van al deze parameters de gewichten te geven is een rekenprocedure ontwikkeld waarmee de gewichten op eenvoudige wijze kunnen worden bepaald. Voor de berekening wordt gebruik gemaakt van twee gegevensbestanden (*statmet.bin* en *metprof.bin*). In het eerste bestand wordt de kans gegeven dat een bepaalde combinatie van windsnelheid, windrichting en bewolkingsgraad voorkomt. Voor de meteorologische dag zijn deze kansen als seizoensgemiddelde gegeven (dus achtereenvolgens voor de lente, zomer, herfst en de winter), voor de meteorologische nacht wordt een jaargemiddelde waarde gebruikt. Met het tweede bestand kan bepaald worden bij welke omstandigheden welke meteorologische klasse hoort. Het is een groot bestand waarin de meteorologische klasse gegeven wordt als functie van: gemiddelde ruwheid onder het geluidpad (voor 10 ruwheden zie Tabel 4.2); geluidvoortplantingsrichting (voor 0° tot 354° in stappen van 6°); windsnelheid (voor 15 klassen); windrichting (voor 0° tot 354° in stappen van 6°); bewolkingsgraad (voor 9 klassen); seizoen (voor de meteorologische dag voor 4 seizoenen; voor de meteorologische nacht is een jaargemiddelde gegeven) De berekening van een statistisch gewicht verloopt dan als volgt: eerst wordt bepaald welke gedigitaliseerde waarden van de windrichting (lopend van 0° tot 354° in stappen van 6°) binnen de windroossector liggen. Vervolgens wordt de dichtstbijgelegen ruwheidswaarde uit tabel 4.2 gekozen, die overeenkomt met de gemiddelde ruwheidswaarde onder het geluidpad (zie formule 4.14). Voor deze waarden wordt in bestand *metprof.bin* gezocht naar alle combinaties van windsnelheid, windrichting, bewolkingsgraad en – voor de meteorologische dag – seizoen, die bij één van de 27 meteorologische klassen horen. Met behulp van het bestand *statmet* kan de kans bepaald worden dat een dergelijke combinatie optreedt. Per meteorologische klasse worden de kansen gesommeerd van al de combinaties, die bij die klasse horen. Uit de zo verkregen waarden (27 voor de meteorologische dag en 27 voor de meteorologische nacht) worden tenslotte de statistische gewichten bepaald door deze 27 waarden te normeren met hun som voor respectievelijk de dag en de nacht zodat geldt: ![256164](http://wetten.overheid.nl/Illustration/256164)
+![256165](http://wetten.overheid.nl/Illustration/256165)
+*Figuur 4.4:* Een windroossector [*χ, ζ*] betekent dat alleen windrichtingen  *ζ ± χ*/2 relevant zijn (de groene sector in de figuur). Dit voorbeeld toont een windroossector [90°, 270°], waarbij alleen windrichtingen tussen noordwest en zuidwest relevant zijn. De hoek *θ*, die de lijn van bron- naar rekenpunt maakt met het geografische noorden, is ook aangegeven. Indien de geluidvoortplantingsrichting niet gelijk is aan een veelvoud van 6° tussen 0° en 354° dan wordt bovenstaande procedure uitgevoerd voor de twee dichtstbijgelegen waarden voor de richting. Het uiteindelijk gewicht wordt vervolgens (vergelijkbaar zoals dit hiervoor is aangegeven) door lineaire interpolatie bepaald. 
+
+### 4.5  
+
+####Invoergrootheden rekenmethode
+
+### 4.5.1  
+
+####Brongegevens
+
+### *Mondingsgeluid* 
+
+Voor de berekening van de geluidbelasting van het mondingsgeluid moeten van elke wapen-munitiecombinatie de volgende geometrische parameters bekend zijn: 
+
+* (*x<sub>s</sub>,y<sub>s</sub>,h<sub>wapen</sub> *) wapenpositie, waarbij *h<sub>wapen</sub> * de hoogte van het wapen is ten opzichte van het plaatselijke maaiveld;  
+
+*  *α<sub>e</sub> * elevatie van wapen;  
+
+*  *ψ* schietrichting t.o.v. het noorden in het horizontale vlak.   De bronnen van het mondingsgeluid worden gerepresenteerd als puntbronnen. De positie van de puntbron ligt voor lichte wapens aan het uiteinde van de loop, voor zwaardere wapens ligt dit punt op enige afstand van de vuurmond in het verlengde van de loop. In het gegevensbestand van bronnen is hiermee rekening gehouden door de looplengte te definiëren als de afstand van het draaipunt tot aan het bronpunt. De bronpositie kan zo met behulp van eenvoudige geometrische formules uit bovenstaande gegevens berekend worden (zie formule 4.4). 
+### *Militaire oefenterreinen* 
+
+Bij militaire oefenterreinen zijn de exacte bronposities vaak onbekend. Wel kan een gebied aangegeven worden waar mogelijk geschoten wordt. Voor de modellering van een oefenterrein worden daarom gebieden geselecteerd waarbinnen aangenomen kan worden dat de kans dat op een mogelijke positie geschoten wordt uniform over dit gebied verdeeld is en waarbij elke schietrichting even waarschijnlijk is. Er is hierbij vanuit gegaan dat alleen met losse patronen wordt geschoten. Indien niet aan deze voorwaarden wordt voldaan, zal van de exacte bronpositie uit moeten worden gegaan. Voor de modellering van een oefenterrein verdient het aanbeveling van een referentie-oefening uit te gaan. De volgende benaderingen zijn daarbij gebruikelijk om de geluidbelasting door schieten en knallen te beschrijven: 
+
+1. Er wordt een referentieoefening gedefinieerd. Deze bestaat uit diverse oefensituaties die aan een gebied worden gekoppeld. Bijvoorbeeld: ‘Patrouille zuivert bosgebied in dagperiode’.  
+
+2. Het aantal knallen per munitiesoort en wapentype wordt uniform verdeeld gedacht over de diverse gebieden waarin deze oefening voorkomt, tenzij uitdrukkelijk anders aangegeven.  
+
+3. Indien niet uitdrukkelijk anders wordt aangegeven, wordt uitgegaan van de energetisch gemiddelde bronsterkte per wapentype over alle (horizontale) richtingen (zie formule 4.6). In het bijzonder geldt dit voor gevallen waarin een aanvallende en verdedigende partij is.  
+
+4. In § 4.6.1 is aangegeven hoe de gebieden moeten worden opgedeeld ten behoeve van de overdrachtsberekening.  
+
+5. Omdat er met losse patronen of simulatoren wordt geoefend, speelt kogelgeluid geen rol.   
+### *Kogelgeluid* 
+
+Uit het bronnenbestand kan gelezen worden of voor een wapen-munitiecombinatie de startsnelheid van het te verschieten projectiel supersoon is. In dit geval kan kogelgeluid van belang zijn. Voor lichte wapentypen wordt er voor de berekening vanuit gegaan dat de kogelbaan evenwijdig aan de bodem loopt. De elevatie is voor deze wapentypen dus 0°. Kogelgeluid van de zwaardere wapentypen waarvan het projectiel een kromme baan beschrijft (het zogenaamde krombaangeschut; Houwitser en mortier) moet op een andere wijze worden berekend. Voor de berekening van het kogelgeluid dient dan rekening te worden gehouden met de sterk variërende hoogte van de kogel. Voor banen waarvan gebruik gemaakt wordt van een vervangende puntbron, zie hieronder, wordt de bijdrage van zowel mondingsgeluid als kogelgeluid verdisconteerd. Kogelgeluid wordt dan niet apart berekend. Bij hagelgeweren wordt eventueel kogelgeluid verdisconteerd in de bronsterkte van het mondingsgeluid. 
+### *Detonatiegeluid* 
+
+Ook het detonatiegeluid wordt in de rekenmethode als een puntbron gekarakteriseerd. De hoogte van deze puntbron is afhankelijk van de hoogte van detonatie. Bij een brisantgranaat is het moment (en dus de hoogte) van detonatie afhankelijk van het type ontstekingsbuis dat op een granaat is aangebracht. Dit kan variëren van 10 m hoogte tot in de grond. Indien de detonatie in of op de grond plaatsvindt, wordt voor de berekening een hoogte van 0,5 m+ maaiveld aangehouden. 
+### *Schietbanen (zoals bijvoorbeeld schermenschietbanen)* 
+
+In die gevallen waarbij het wapen op korte afstand deels of geheel omsloten is door afschermende en/of reflecterende objecten, kan in principe niet van brongegevens worden uitgegaan, die voor het vrije veld zijn bepaald. Het geluidveld rond de bron is dermate complex dat het gebruik van rekenmodellen, die vanaf de bron rekenen, beperkt mogelijk is. Voor deze gevallen wordt de situatie van de bron met de omringende afschermende en/of reflecterende objecten gemodelleerd door één of meer vervangende puntbronnen. De bronsterkte van deze vervangende puntbron(nen) zal door middel van metingen moeten worden vastgesteld. In het rapport ‘Toelichting op toepassing van methoden voor meten en rekenen aan schietgeluid’ (TNO 2014 R10135) wordt een beschrijving van de meetmethode gegeven. Indien geen meetgegevens voorhanden zijn of te verkrijgen zijn, wordt in dit rapport ook een conservatieve inschatting gegeven voor een vervangende puntbron op basis van de vrije-veld bronsterkte. In sommige gevallen kan het gewenst zijn dat de bronsterkte van dergelijke schietbanen door middel van berekeningen wordt vastgesteld, bijvoorbeeld voor nog niet bestaande schietbanen. Per situatie moet een rekenmodel op zijn geschiktheid worden beoordeeld, een algemeen toepasbaar model is vooralsnog niet te geven. Voor de modellering van een schietbaan (zoals bijvoorbeeld een kleiduivenschietbaan) verdient het aanbeveling van een standaard gebruiksituatie uit te gaan. In het eerder genoemde rapport (TNO 2014 R10135) wordt voor een aantal type banen aangegeven hoe deze gemodelleerd dienen te worden om de geluidbelasting te berekenen. 
+
+### 4.5.2  
+
+####Bodemtype (hardheid/ruwheid)
+
+In het model worden vier verschillende bodemtypen onderscheiden (zie tabel 4.3). Elk type correspondeert met een andere combinatie van bodemhardheid en bodemruwheid (zie voor definities van deze begrippen § 2.6)  Tabel 4.3. De vier bodemtypen in het rekenmodel voor schietgeluid, met vier verschillende combinaties van de stromingsweerstand *σ* en de ruwheidslengte *z<sub>0</sub> *. 
+
+| Bodemtype  | voorbeelden  | σ (Nsm<sup>-4</sup>)  | z<sub>o</sub> (m)  |
+|:---|:---|:---|:---|
+| 1. glad en reflecterend  | water, beton  | ∞  | 0.0002  |
+| 2. ruw en absorberend  | grasland  | 3<sup>.</sup>10<sup>5</sup>   | 0.03  |
+| 3. ruw en zeer absorberend  | zandbodem  | 1<sup>.</sup>10<sup>5</sup>   | 0.03  |
+| 4. zeer ruw en zeer absorberend  | heide, bouwland  | 1<sup>.</sup>10<sup>5</sup>   | 0.25  |
+
+Om het bodemtype van een terrein te bepalen moeten eerst de eigenschappen van terrein worden ingeschat. De volgende uitgangspunten moeten hierbij in acht worden genomen: 
+
+1. De keuze tussen ruw en zeer ruw. Het verschil tussen ruw en zeer ruw zit in de begroeiing van de oppervlakte. Een ruw terrein bevat lage begroeiing (zoals gras), een zeer ruw terrein bevat hogere begroeiing (zoals heide of lage gewassen). Verspreide obstakels (bomen, huizen) worden hierbij buiten beschouwing gelaten.  
+
+2. De keuze tussen absorberend en zeer absorberend. Een bodem wordt absorberend genoemd als de stromingsweerstand groter is dan 2.10<sup>5</sup> Nsm<sup>-4</sup>, en zeer absorberend als de stromingsweerstand kleiner is dan 2<sup>.</sup>10<sup>5</sup> Nsm<sup>-4</sup>. Dit betekent in de praktijk dat grasland absorberend is en dat ruwere bodems zoals heide zeer absorberend zijn.  
+
+3. Voor bossen en steden moet bodemtype 4 worden gekozen.   Indien in het overdrachtspad van bron naar rekenpunt verschillende bodemtypen voorkomen, dienen ze ook als zodanig te worden onderscheiden. In § 4.6.4 wordt hier nader op ingegaan. 
+
+### 4.5.3  
+
+####Afschermende objecten
+
+Een object moet aan de volgende eisen voldoen om als afschermend object in rekening te worden gebracht: 
+
+− De massa per eenheid van oppervlakte dient tenminste 10 kg/m<sup>2</sup> te bedragen.  
+
+− Het object mag geen grote kieren of openingen bevatten. Procesinstallaties, bomen e.d. worden dus niet als een afschermend object in rekening gebracht.  
+
+− Het object wordt vanuit de bron of vanuit het rekenpunt gezien onder een hoek van tenminste 5° in het horizontale vlak.   Grote objecten, zoals heuvels en eventueel duinen waarbij het terrein een hellingspercentage kent van minder dan 20%, worden niet als afschermende objecten ingevoerd. Deze kunnen in rekening gebracht worden door een variatie in de maaiveldhoogte van de bodemvlakken. Drie verschillende afschermende objecten worden onderscheiden: 
+
+− scherm;  
+
+− wal;  
+
+− gebouw.   Een scherm en een wal worden geschematiseerd door een verticaal vlak of keten van verticale vlakken, die onder een hoek met elkaar staan, waarbij er vanuit wordt gegaan dat de bovenrand horizontaal loopt. Bij een wal wordt de positie van het vlak op het snijpunt gekozen van het voor- en achtervlak van de wal. Voor de berekening moet de hoogte bekend zijn, voor een wal moet bovendien de tophoek opgegeven worden. De definitie van de tophoek is in onderstaande figuren gegeven. Indien een scherm op een wal zo laag is dat de gestippelde lijnen in fig 4.5b het talud snijden, wordt de grootte van de tophoek bepaald zoals dit in figuur 4.5a is weergegeven.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Figuur 4.5a:* Tophoek *γ* van wal met platte top.  |  *Figuur 4.5b:* Tophoek *γ* van wal met scherm  |
+
+Bij een wal is de absorptiecoëfficiënt van het materiaal waaruit het is opgebouwd van belang voor de berekening van de tophoekcorrectie (formule 4.50). Enkele typerende waarden van de absorptiecoëfficiënt zijn voor verschillende materialen in tabel 4.4 aangegeven. Gebouwen worden geschematiseerd als een keten van verticale vlakken van dezelfde hoogte, waarbij het eerste vlak weer aan het laatste vlak aansluit. Er wordt verondersteld dat de hoogte van al deze vlakken gelijk is. 
+
+### 4.5.4  
+
+####Reflecterende objecten
+
+Er worden twee typen reflecties onderscheiden: Spiegelreflecties en diffuse reflecties. Voor een spiegelreflectie geldt dat de hoek van inval van het geluid gelijk is aan de hoek die het gereflecteerde geluid maakt met het spiegelende object, vergelijkbaar met een optische spiegeling. Bij diffuse reflecties wordt het invallende geluid diffuus verstrooid. 
+### *Spiegelende objecten* 
+
+Twee verschillende spiegelende objecten worden onderscheiden: 
+
+− scherm;  
+
+− gebouw.   Een object moet aan de volgende eisen voldoen om als spiegelend reflecterend object in rekening te worden gebracht: 
+
+− Het object heeft een min of meer vlakke en geluidreflecterende wand;  
+
+− De reflecterende wand moet een dichtheid hebben groter dan 10 kg/m<sup>2</sup>;  
+
+− De hoek tussen de geluidreflecterende wand en de verticaal moet kleiner zijn dan 10°.   De spiegelende objecten worden op dezelfde manier geschematiseerd als de overeenkomstige afschermende objecten. Van een reflecterend vlak moet daarnaast ook de reflectiviteit (0 ≥ *ρ* ≥ 1) gegeven worden. De reflectiviteit *ρ* is de reflectiecoëfficiënt voor de geluidenergie en wordt bepaald door de absorptiecoëfficiënt *α<sub>abs</sub> * van het materiaal waaruit het reflecterende vlak bestaat:  *ρ* = 1*-α<sub>abs</sub> *. In het algemeen is *ρ* een functie van de frequentie. Enkele typerende waarden van de absorptiecoëfficiënt zijn voor verschillende materialen in tabel 4.4 aangegeven.  Tabel 4.4. Typische waarden voor absorptiecoëfficiënten voor verschillende materialen. 
+
+| Materiaal  | Geluidabsorptiecoëfficiënt, in oktaafbanden  | 16  | 31.5  | 63  | 125  | 250  | 500  | 1000  | 2000  | 4000  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| Bakstenen muur  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.0  | 0.1  | 0.1  |
+| Dichte betonblokken (pleister, verf)  | 0.0  | 0.0  | 0.1  | 0.1  | 0.1  | 0.1  | 0.1  | 0.1  | 0.1  |
+| Poreuze betonblokken  | 0.0  | 0.1  | 0.2  | 0.4  | 0.4  | 0.3  | 0.3  | 0.4  | 0.3  |
+| Glazen wand  | 0.1  | 0.2  | 0.3  | 0.4  | 0.3  | 0.2  | 0.1  | 0.1  | 0.0  |
+| Houten wand  | 0.0  | 0.1  | 0.2  | 0.3  | 0.2  | 0.2  | 0.1  | 0.1  | 0.1  |
+| Aarde en zand, glad  | 0.0  | 0.0  | 0.0  | 0.1  | 0.1  | 0.1  | 0.2  | 0.4  | 0.5  |
+| Aarde, ruw  | 0.0  | 0.0  | 0.1  | 0.2  | 03  | 0.4  | 0.6  | 0.6  | 0.6  |
+| Grind, los en vochtig, (laag van 10cm)  | 0.0  | 0.1  | 0.2  | 0.3  | 0.6  | 0.7  | 0.7  | 0.8  | 0.8  |
+| Gras  | 0.0  | 0.0  | 0.1  | 0.1  | 0.2  | 0.3  | 0.4  | 06  | 0.7  |
+
+### *Diffuus reflecterende objecten* 
+
+Diffuse reflecties treden op aan een bosrand; minimaal moeten er drie bomenrijen aanwezig zijn voordat een diffuse reflectie in rekening wordt gebracht. Een bosrand wordt geschematiseerd door een verticaal vlak of keten van verticale vlakken, die onder een hoek met elkaar staan, waarbij er vanuit wordt gegaan dat de bovenrand horizontaal loopt. Op de plaats van de vlakken wordt een rij equidistante cilinders gedacht. De afstand tussen de cilinders *d* <sub>eff</sub> bedraagt de helft van de gemiddelde afstand tussen naburige bomen van de eerste drie bomenrijen van de bosrand. Deze gemiddelde afstand wordt benaderd door 1/√*n* <sub>2</sub>, waarbij *n<sub>2</sub> * het gemiddelde aantal bomen per oppervlakte-eenheid is. De straal van de cilinders *r* <sub>cil</sub> is gelijk aan de gemiddelde straal van de bomen. Indicatieve waarden voor een gemiddeld bos zijn *d* <sub>eff</sub> = 1,4 m en *r* <sub>cil</sub> = 0,1 m. De hoogte van de bosrand wordt bepaald door de gemiddelde hoogte van de bomen in de bosrand. 
+
+### 4.5.5  
+
+####Keuze van rekenpunten
+
+Voor planningsdoeleinden zijn vaak contouren gewenst. Een geluidcontour is een lijn die punten met een gelijke geluidbelasting verbindt. Een geluidcontour kan verkregen worden door lineaire interpolatie tussen rekenpunten op een rekenrooster. Een rekenrooster is een verzameling van punten, die op regelmatige afstand (*d<sup>*</sup> *) van elkaar liggen. Aan de interpolatie zijn een aantal voorwaarden verbonden: 
+
+− het verschil in geluidniveau tussen de punten dient minder dan 3 dB te bedragen;  
+
+− de afstand tussen het geïnterpoleerde punt en het dichtstbijzijnde bronpunt dient groter te zijn dan de afstand tussen de punten waartussen wordt geïnterpoleerd.   In de meeste gevallen zal bij een afstand van *d<sup>*</sup> * = 250 m aan bovenstaande criteria voldaan worden. Indien niet aan bovenstaande voorwaarden wordt voldaan, zal het rooster lokaal verdicht moeten worden. Een verdere verdichting dan tot *d<sup>*</sup> * = 50 m is niet noodzakelijk. 
+### *Hoogte rekenpunt* 
+
+Als er sprake is van zonering rondom schietinrichtingen of -terreinen, heeft een hoogte van 5 m de voorkeur. Voor beoordelingspunten bij vergunningsituaties wordt over het algemeen voor de dagperiode een hoogte van 1,5 m en voor de avond- en nachtperiode een hoogte van 5 m aangehouden. Uitgangspunt is dat de berekeningshoogte bepaald wordt door de hoogte waarop mogelijke hinder te verwachten is. 
+
+### 4.6  
+
+####Berekening van het geluidexpositieniveau
+
+### 4.6.1  
+
+####Bronniveau
+
+### *Mondingsgeluid en detonatiegeluid* 
+
+Voor geluid anders dan kogelgeluid wordt het bronniveau over het algemeen betrokken uit het gegevensbestand. Zie hiervoor § 4.4.1 en § 4.5.1. De emissie van het mondingsgeluid is over het algemeen richtingsafhankelijk. Van belang hierbij is de hoek φ tussen de vuurlijn en de lijn van bron naar rekenpunt. Deze hoek is afhankelijk van de elevatie van het wapen volgens onderstaande formule:  *ϕ* = acos(cos*α* <sub>e</sub> cos*φ<sub>p</sub> *) waarin:  *ϕ<sub>p</sub> * geprojecteerde hoek ϕ op een horizontaal vlak. Bij de berekening van de emissiehoek φ wordt geen rekening gehouden met hoogteverschillen tussen bronpunt en rekenpunt (benadering voor het verre veld). 
+### *Brongebieden* 
+
+Brongebieden zijn gebieden waarbinnen een mogelijke schietpositie uniform over het gebied is verdeeld. Om de geluidbelasting van een dergelijke brongebied te berekenen, dient dit in zodanig kleine deelgebieden te worden opgedeeld dat voor een deelgebied van een puntbron kan worden uitgegaan. In een eerste stap wordt, afhankelijk van de kleinste en grootste afstand van het rekenpunt tot de grenzen van het brongebied (respectievelijk *d<sub>min</sub> * en *d<sub>max</sub> *), de breedte bepaald van schillen die in concentrische cirkels rond het rekenpunt liggen. Voor de breedte *L<sub>n</sub> * van deze schillen geldt: ![256168](http://wetten.overheid.nl/Illustration/256168)
+voor *n* = 1 t/m *N*  waarin *N*, uitgedrukt als een naar boven afgerond geheel getal, wordt gegeven door: ![256169](http://wetten.overheid.nl/Illustration/256169)
+![256170](http://wetten.overheid.nl/Illustration/256170)
+*Figuur 4.6:* Voorbeeld van een beschrijving van een deelgebied door deelbronnen voor twee verschillende rekenpunten (o). Vervolgens worden deze schillen onderverdeeld in sectoren met een hoek van 30°. De snijpunten van de concentrische cirkels met de sector begrenzingen geven de hoekpunten van trapezia. De overlap van deze trapezia met het brongebied geven uiteindelijk de grenzen van de verschillende deelgebieden. De vervangende deelbronnen liggen op het geometrische zwaartepunt van deze deelgebieden. In figuur 4.6 is een voorbeeld gegeven van de verdeling van de bronpunten voor twee verschillende rekenpunten. De bijdragen van de verschillende deelbronnen tot de geluidbelasting in de verschillende juridische beoordelingsperioden (*B<sub>s,dag</sub> *(*b<sub>i</sub> *),* B<sub>s,avond</sub> *(*b<sub>i</sub> *) en *B<sub>s,nacht</sub> *(*b<sub>i</sub> *)) moeten tenslotte gecorrigeerd worden voor het verschil in oppervlak tussen de verschillende deeloppervlakken *O<sub>i</sub> *en het totale oppervlak van het brongebied* O<sub>tot</sub> *. Hiertoe wordt in formule *3.4* in het rechterlid een correctieterm toegevoegd zoals hieronder in formule *4.18* is weergegeven: ![256171](http://wetten.overheid.nl/Illustration/256171)
+
+### *Kogelgeluid bij vlakbaan schieten* 
+
+Voor de berekening van de geluidbelasting door kogelgeluid wordt ervan uitgegaan dat het kogelgeluid van één punt afkomt dat op de kogelbaan ligt, het zogenaamde bronpunt. Uitgaande van een *xy*-coördinatenstelsel in het horizontale vlak, met de vuurmond in de oorsprong, de *x*-as langs de vuurlijn en de *y*-as loodrecht hierop, wordt de positie van het bronpunt aangegeven als *(x<sub>s</sub> *,0) en de positie van het rekenpunt als (*x<sub>r</sub> *,*y<sub>r</sub> *). De onbekende *x<sub>s</sub> * wordt bepaald door het oplossen van onderstaande vierde orde polynoom: ![256172](http://wetten.overheid.nl/Illustration/256172)
+waarin:  *(x<sub>r</sub>, y<sub>r</sub>)* positie van rekenpunt;  *(x<sub>s</sub>,* 0) positie van het bronpunt. Voor de oplossing van deze polynoom wordt verwezen naar mathematische handboeken. Indien het bronpunt achter het doel ligt, wordt voor het bronpunt de doelpositie genomen. Indien het bronpunt op een punt ligt waar de kogelsnelheid kleiner is dan 1,02*c* <sub>0</sub> dan wordt voor het bronpunt het punt genomen waar de kogelsnelheid gelijk is aan 1,02*c* <sub>0</sub> (ervan uitgaande dat *v* <sub>0</sub> groter is dan 1,02*c* <sub>0</sub>). Het breedbandige bronniveau wordt bepaald door de afmetingen van de kogel en zijn lokale snelheid op het bronpunt: ![256173](http://wetten.overheid.nl/Illustration/256173)
+met *M* het Mach-getal van de kogel op het bronpunt en waarbij *d<sub>kogel</sub> * en *l<sub>kogel</sub> * uitgedrukt worden in m. Voor de berekening van het octaafbandspectrum van het bronniveau wordt rekening gehouden met de verschuiving van het spectrum van kogelgeluid op het traject van het bronpunt naar het rekenpunt (door niet-lineaire effecten). Hiervoor wordt een karakteristieke frequentie *f<sub>kogel</sub> * van kogelgeluid geïntroduceerd, die afhankelijk is van de afstand *R* van het bronpunt op de kogelbaan naar het rekenpunt: ![256174](http://wetten.overheid.nl/Illustration/256174)
+Omdat het tertsbandspectrum wordt gebruikt bij de berekening van de luchtdemping (zie § 4.6.3) wordt het bronniveau in tertsen bepaald. Hierbij wordt uitgegaan van de drie tertsbanden binnen de octaven met middenfrequenties *f<sub>k</sub> * van 16 Hz tot en met 4 kHz. Het bronspectrum in tertsen wordt bepaald volgens de formule: ![256175](http://wetten.overheid.nl/Illustration/256175)
+waarin: ![256176](http://wetten.overheid.nl/Illustration/256176)
+met:  *f<sub>k,j</sub> * nominale middenfrequentie van *j* <sup>e</sup> tertsband van *k* <sup>e</sup> octaafband Voor de berekeningen van de overige dempingstermen wordt van een bronspectrum in octaven uitgegaan: ![256177](http://wetten.overheid.nl/Illustration/256177)
+
+### *Kogelgeluid bij krombaan schieten* 
+
+In het algemeen is het kogelgeluid bij krombaan schieten niet van belang. Door de hoge elevatiehoek waaronder geschoten wordt en de verhoudingsgewijs lage uittreesnelheid van het projectiel in vergelijking tot lichte vuurwapens, treedt kogelgeluid alleen in een klein gebied voor het wapen op. Dit gebied ligt dus in het mal onveilige gebied (mog) van het wapen en is daarom voor de berekening van de geluidbelasting in woongebieden niet van belang. Echter, in speciale gevallen waarbij de elevatiehoek lager ligt en de uittreesnelheid verhoudingsgewijs groot is, is het kogelgeluid wel van belang. In deze gevallen moet voor de berekening van de geluidbelasting door kogelgeluid een daarvoor geschikte methode worden gebruikt. 
+
+### 4.6.2  
+
+####Geometrische demping
+
+### *Puntbronnen* 
+
+Bij de modellering van puntbronnen is uitgegaan van sferische geluiduitbreiding over een hele bol. Voor de geometrische demping geldt dan: ![256179](http://wetten.overheid.nl/Illustration/256179)
+
+### *Kogelgeluid* 
+
+Voor de berekening van de geometrische demping van kogelgeluid worden drie gebieden onderscheiden (zie figuur 2.2): gebied I achter het wapen, gebied II dat ook als Mach-gebied wordt aangeduid, en gebied III achter het doel. De grenzen tussen de gebieden worden bepaald door de hoeken *ξb* en *ξe*, die afhankelijk zijn van de beginsnelheid *v* <sub>0</sub> respectievelijk de eindsnelheid *v<sub>e</sub> * van de kogel (*v<sub>e</sub> * is dus de kogelsnelheid bij het treffen van het doel): ![256180](http://wetten.overheid.nl/Illustration/256180)
+Indien de snelheid van de kogel voor het treffen van het doel onder de geluidsnelheid is gezakt geldt *ξ<sub>e</sub> * = 0, in dit geval bestaat er dan geen gebied III. In het gebied achter het wapen (gebied I) is het kogelgeluid verwaarloosbaar. Voor rekenpunten in gebied II varieert de geometrische demping tussen 10 lg *R* en 25 lg *R* afhankelijk van de afstand *R* van het bronpunt op de kogelbaan tot het rekenpunt. De geometrische demping is 10 lg *R* op korte afstand van de kogelbaan bij een constante kogelsnelheid. Als gevolg van een afname van de snelheid van de kogel langs de kogelbaan en door invloed van turbulentie neemt de geometrische demping toe. De invloed van turbulentie is pas op een afstand *R<sub>trans</sub> * van de kogelbaan significant. Op grote afstand, groter dan 10 km, bedraagt de geometrische demping 20 lg *R*. De transitieafstand *R<sub>trans</sub> * wordt bepaald met onderstaande formule: ![256181](http://wetten.overheid.nl/Illustration/256181)
+met  *x<sub>t</sub> * lengte van de kogelbaan waar het projectiel een supersone snelheid heeft  *L* correlatielengte (*L* = 1.1 m) μ<sub>0</sub> <sup>2</sup> = 10<sup>-5</sup>  De geometrische demping in gebied II wordt voor *R ≤ R<sub>trans</sub> * bepaald uit: ![256182](http://wetten.overheid.nl/Illustration/256182)
+voor *R<sub>trans</sub> < R ≤ R<sub>max</sub> * geldt: ![256183](http://wetten.overheid.nl/Illustration/256183)
+voor *R* > *R* <sub>max</sub> geldt: ![256184](http://wetten.overheid.nl/Illustration/256184)
+met  *k* = *-v<sub>1</sub>/c* <sub>10</sub>   *r<sub>0</sub> * = 1 m  *R* <sub>max</sub> = 10 km Vóór het wapen maar buiten het Mach-gebied (gebied III) wordt de geometrische demping door twee termen bepaald: 
+
+− de geometrische demping berekend volgens formule 4.27 voor het traject *R* <sub>1</sub>van de doelpositie naar een punt op de grens van het Mach-gebied dat het dichtst bij het rekenpunt ligt (punt P in figuur 4.7);  
+
+− een extra demping die afhankelijk is van de afstand (*R* <sub>2</sub>) van dit punt P tot aan het rekenpunt:   ![256185](http://wetten.overheid.nl/Illustration/256185)
+waarin:  *R<sub>1</sub> * de afstand van de doelpositie naar een punt op de grens van het Mach-gebied dat het dichtst bij het rekenpunt ligt;  *R<sub>2</sub> * de afstand van het rekenpunt tot de grens van het Mach-gebied. De afstanden *R* <sub>1</sub> en *R* <sub>2</sub> worden alleen voor de berekening van de geometrische demping in gebied III gebruikt, voor het berekenen van de overige dempingstermen wordt van het geluidpad uitgegaan van het bronpunt op de kogelbaan (in dit geval dus de doelpositie) naar het rekenpunt. ![256186](http://wetten.overheid.nl/Illustration/256186)
+*Figuur 4.7:* Definitie van *R<sub>1</sub> *, *R<sub>2</sub> * en *R<sub>0</sub> * uit formule 4.28. 
+
+### 4.6.3  
+
+####Luchtdemping
+
+Bij de berekening van de luchtdemping wordt rekening gehouden met de vorm van het spectrum. Per octaafband (index *k*) wordt geschat hoe de geluidenergie over de drie tertsbanden (index *j*) binnen dit octaaf verdeeld is. Deze geluidenergie *L<sub>Ebj</sub> *(*f<sub>k</sub> *) wordt bepaald op basis van een lineaire interpolatie van de niveaus van de naburige octaafbanden (bij kogelgeluid is dit niet nodig daar kogelgeluid per tertsband wordt berekend zie ook § 4.6.1): ![256187](http://wetten.overheid.nl/Illustration/256187)
+met:  *L<sub>Eb</sub>(f<sub>0</sub>) = 2L<sub>Eb</sub>(f<sub>1</sub>) – L<sub>EB</sub>(f<sub>2</sub>)*   *L<sub>Eb</sub>(f<sub>10</sub>) = 2L<sub>Eb</sub>(f<sub>9</sub>) – L<sub>EB</sub>(f<sub>8</sub>)*  waarin:  *L<sub>Eb,j</sub>(f<sub>k</sub>)* het bronniveau van de *j<sup>e</sup> * tertsband (*j* = 1 t/m 3) van de octaafband met centrumfrequentie *f<sub>k</sub> * (*k* = 1 t/m 9). De luchtdemping in de *k<sup>e</sup> * octaafband *D<sub>lucht</sub> *(*f<sub>k</sub> *) wordt vervolgens bepaald uit het gewogen energetische gemiddelde van de luchtdemping van de tertsbanden binnen deze octaafband. ![256188](http://wetten.overheid.nl/Illustration/256188)
+De waarden voor de luchtdemping *α<sub>lu,j</sub> *(*f<sub>k</sub> *) in tertsband j = 1, 2 en 3 van de k<sup>e</sup> octaafband zijn ontleend aan ISO-norm 9613-1 voor 10°C en 80% relatieve vochtigheid. Deze waarden zijn (in dB per km!) opgenomen in tabel 4.5  Tabel 4.5: Waarden voor de luchtdemping per tertsband in dB/km 
+
+| nummer van tertsband binnen octaaf  | octaafband middenfrequentie in Hz  | 16  | 31.5  | 63  | 125  | 250  | 500  | 1000  | 2000  | 4000  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *j*=1  | 0.00452  | 0.0179  | 0.0669  | 0.254  | 0.764  | 1.63  | 2.86  | 6.23  | 19.0  |
+|  *j*=2  | 0.00715  | 0.0282  | 0.108  | 0.378  | 1.02  | 1.97  | 3.57  | 8.76  | 28.7  |
+|  *j*=3  | 0.0113  | 0.0444  | 0.167  | 0.547  | 1.31  | 2.36  | 4.62  | 12.7  | 43.9  |
+
+### 4.6.4  
+
+####Bodemdemping
+
+In § 4.4.2 is omschreven hoe de bodemdemping met behulp van het gegevensbestand bepaald moet worden. In deze paragraaf wordt beschreven hoe de bodemdemping bepaald moet worden als er verschillende bodemvlakken door het geluidpad worden doorsneden, welke invloed de turbulentie heeft op de bodemdemping en hoe de bodemdemping bepaald moet worden als er in het geluidpad afschermende obstakels zijn. De bodemdemping is afhankelijk van: 
+
+− de horizontale afstand *R* tussen de bron (of spiegelbron) en rekenpunt;  
+
+− de akoestische bodemhardheid (aangegeven met index *ν*). In de methode worden drie bodemhardheden onderscheiden (zie § 4.5.2): *v*=*z* voor een zeer absorberende bodem, *v*=*a* voor een absorberende bodem en *v*=*h* voor een harde bodem;  
+
+− de frequentie;  
+
+− de hoogtes van bron- en rekenpunt;  
+
+− de meteorologische klasse.   In deze paragraaf geven we alleen de eerste twee parameters expliciet aan als argumenten van *D<sub>bodem</sub> *: ![256189](http://wetten.overheid.nl/Illustration/256189)
+met *c<sub>k</sub>(ν)* de coëfficiënten van het polynoom. 
+### *Meer dan één bodemvlak* 
+
+Indien onder het geluidpad bodemtypen liggen met verschillende bodemhardheid worden voor mee- en tegenwindsituaties verschillende procedures toegepast. 
+
+*  *Meewindsituaties* (profielnrs. 4 t/m 7, 12 t/m 18 en 22 t/m 27) Om de bodemdemping voor meer dan één bodemvlak te bepalen worden voor de meewindsituaties eerst de horizontale afstanden (*sv*) bepaald, waarover het geluidpad door de verschillende bodemgebieden loopt. Voor elke bodemhardheid worden deze afstanden opgeteld.   ![256190](http://wetten.overheid.nl/Illustration/256190)
+waarin:  *N<sub>v</sub> * aantal gebieden dat door het geluidpad wordt doorkruist met respectievelijk een zeer absorberende (*v=z*), een absorberende (*v=a*) en een harde bodem (*v=h*);  *r<sub>min,j,v</sub>, r<sub>max,j,v</sub> * minimale en maximale horizontale afstand van bron tot de grens van deelgebied *j* gemeten langs het geluidpad voor een bodemgebied met hardheid *v* (zie hierboven). De bodemdemping voor een meewindsituatie wordt vervolgens bepaald door de volgende formule: ![256191](http://wetten.overheid.nl/Illustration/256191)
+
+*  *Tegenwindsituaties* (profielnrs. 1 t/m 3, 8 t/m 10 en 19 t/m 21) Voor de bodemdemping bij tegenwindsituaties zijn alleen de bodemgebieden binnen een afstand *d<sub>s</sub> * van de bron en binnen een afstand *d<sub>r</sub> * van het rekenpunt van belang. Deze afstanden zijn afhankelijk van het profiel, van de frequentie en van de hoogte boven het plaatselijk maaiveld van respectievelijk bron- en rekenpunt.   ![256192](http://wetten.overheid.nl/Illustration/256192)
+met:  *q* = 21, 10, 16.5 en *α* = 0.9, 0.85, 0.78 voor respectievelijk de groepen 1, 2 en 3 van de geluidsnelheidsprofielen (zie formule 4.9). Ook parameter *b<sub>n</sub> * wordt bepaald door het profiel (zie tabel 4.1 in § 4.4.2). De gebieden mogen elkaar niet overlappen. Indien *d<sub>s</sub> + d<sub>r</sub> *>*R*, waarin R de horizontale afstand tussen bron en rekenpunt is, moeten de afstanden in verhouding worden teruggeschaald tot *d<sub>s</sub> * <sup>'</sup> en *d<sub>r</sub> * <sup>'</sup>. ![256193](http://wetten.overheid.nl/Illustration/256193)
+Binnen een afstand *d<sub>s</sub> * en *d<sub>r</sub> * van respectievelijk bron en rekenpunt worden achtereenvolgens de afstanden bepaald waarover het geluidpad door *zeer absorberende*, *absorberende* en *reflecterende *gebieden loopt. In verhouding tot de afstand *d<sub>s</sub> * + *d<sub>r</sub> * geeft dit de fracties *f<sub>z</sub> *, *f<sub>a</sub> * en *f<sub>h</sub> zeer absorberende*, *absorberende* en *reflecterende* bodem. De bodemdemping voor een tegenwindsituatie wordt vervolgens gegeven door: ![256194](http://wetten.overheid.nl/Illustration/256194)
+
+*  *Neutraal profiel* (profielnr. 11) Voor de bepaling van de bodemdemping van de neutrale situatie (profielnr. 11) worden eerst de fracties *f<sub>z</sub>, f<sub>a</sub> en f<sub>h</sub> * bepaald over de totale afstand *r<sub>tot</sub> * tussen bron en rekenpunt. De bodemdemping volgt dan door toepassing van formule 4.36.   
+### *Turbulentie* 
+
+De totale bodemdemping is naar boven toe begrensd als gevolg van turbulentie. Deze begrenzing is afhankelijk van de meteorologische klasse, de hardheid van de bodem en de frequentie. Bij het berekenen van de overdrachtsfuncties zoals deze in het gegevensbestand zijn opgenomen is dit effect niet verdisconteerd. Deze invloed wordt in rekening gebracht door een bovengrens *D<sub>bodem,max</sub> * te stellen aan de bodemdemping zoals die met formule 4.37 bepaald is. In situaties met afschermende objecten moet de bovengrens toegepast worden op de som *D<sub>bodem</sub> + D<sub>scherm</sub> *. In tabel 4.6 zijn de grenswaarden van de bodemdemping gegeven voor de verschillende bodemhardheden, de 27 meteorologische klassen en de 9 octaafbanden.  Tabel 4.6: Bovengrens van de bodemdemping *D<sub>bodem,max</sub> *(*v*) voor akoestisch ‘zeer absorberende’ (*v=z*) ‘absorberende’ (*v=a*) en ‘reflecterende’ (*v=h*) bodems. 
+
+| m  | v  | 16  | 31.5  | 63  | 125  | 250  | 500  | 1000  | 2000  | 4000  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- |  *z*   | 25  | 26  | 20  | 17  | 19  | 20  | 24  | 25  | 26  |
+| 1  |  *a*   | 25  | 26  | 19  | 15  | 18  | 20  | 24  | 25  | 26  |
+| --- |  *h*   | 25  | 25  | 17  | 9  | 13  | 17  | 22  | 24  | 26  |
+| --- |  *z*   | 29  | 18  | 22  | 21  | 22  | 19  | 18  | 19  | 20  |
+| 2  |  *a*   | 29  | 18  | 21  | 19  | 21  | 19  | 18  | 19  | 20  |
+| --- |  *h*   | 29  | 17  | 19  | 13  | 16  | 16  | 16  | 18  | 20  |
+| --- |  *z*   | 29  | 29  | 17  | 24  | 25  | 19  | 17  | 18  | 19  |
+| 3  |  *a*   | 29  | 29  | 16  | 22  | 24  | 19  | 17  | 18  | 19  |
+| --- |  *h*   | 29  | 29  | 14  | 16  | 19  | 16  | 15  | 17  | 19  |
+| --- |  *z*   | 26  | 26  | 17  | 14  | 18  | 22  | 26  | 27  | 28  |
+| 8  |  *a*   | 26  | 26  | 16  | 12  | 17  | 22  | 26  | 27  | 28  |
+| --- |  *h*   | 26  | 25  | 14  | 6  | 12  | 19  | 24  | 26  | 28  |
+| --- |  *z*   | 24  | 23  | 20  | 16  | 18  | 19  | 21  | 22  | 23  |
+| 9  |  *a*   | 24  | 23  | 19  | 14  | 17  | 19  | 21  | 22  | 23  |
+| --- |  *h*   | 24  | 22  | 17  | 8  | 12  | 16  | 19  | 21  | 23  |
+| --- |  *z*   | 29  | 19  | 22  | 20  | 21  | 18  | 18  | 19  | 20  |
+| 10  |  *a*   | 29  | 19  | 21  | 18  | 20  | 18  | 18  | 19  | 20  |
+| --- |  *h*   | 29  | 18  | 19  | 12  | 15  | 15  | 16  | 18  | 20  |
+| --- |  *z*   | 29  | 29  | 19  | 23  | 27  | 19  | 19  | 20  | 21  |
+| 11  |  *a*   | 29  | 29  | 18  | 21  | 26  | 19  | 19  | 20  | 21  |
+| --- |  *h*   | 29  | 29  | 16  | 15  | 21  | 16  | 17  | 19  | 21  |
+| --- |  *z*   | 28  | 25  | 14  | 16  | 21  | 24  | 29  | 29  | 29  |
+| 19  |  *a*   | 28  | 25  | 13  | 14  | 20  | 24  | 29  | 29  | 29  |
+| --- |  *h*   | 28  | 24  | 11  | 8  | 15  | 21  | 27  | 29  | 29  |
+| --- |  *z*   | 26  | 26  | 16  | 14  | 19  | 21  | 25  | 26  | 27  |
+| 20  |  *a*   | 26  | 26  | 15  | 12  | 18  | 21  | 25  | 26  | 27  |
+| --- |  *h*   | 26  | 25  | 13  | 6  | 13  | 18  | 23  | 25  | 27  |
+| --- |  *z*   | 23  | 23  | 18  | 15  | 18  | 19  | 20  | 21  | 22  |
+| 21  |  *a*   | 23  | 23  | 17  | 13  | 17  | 19  | 20  | 21  | 22  |
+| --- |  *h*   | 23  | 22  | 15  | 7  | 12  | 16  | 18  | 20  | 22  |
+| --- |  *z*   | 29  | 29  | 22  | 24  | 27  | 24  | 29  | 29  | 29  |
+| Overig  |  *a*   | 29  | 29  | 21  | 22  | 26  | 24  | 29  | 29  | 29  |
+| --- |  *h*   | 29  | 29  | 19  | 16  | 21  | 21  | 27  | 29  | 29  |
+
+Als onder het geluidpad verschillende bodemtypen liggen met verschillende bodemhardheid wordt de bovengrens *D<sub>bodem,max</sub> * gegeven door: ![256195](http://wetten.overheid.nl/Illustration/256195)
+met:  *D<sub>bodem,max</sub> *(*v*) bovengrens voor bodemtype *v* voor een bepaald profiel. De fracties *f<sub>z</sub>, f<sub>a</sub> en f<sub>h</sub> * worden voor de meewindprofielen en het neutrale profiel bepaald over de totale afstand tussen bron en rekenpunt, voor de tegenwindprofielen worden de fracties bepaald over een gereduceerd gebied bij bron- en rekenpunt, zoals dit boven formule 4.36 is beschreven. De begrenzing wordt eerst toegepast nadat met formule 4.33 c.q. 4.36 de bodemdemping berekend is en de eventuele schermwerking bepaald is. 
+### *Effectieve hoogte van bron of rekenpunt* 
+
+Bij de bepaling van de bodemdemping is ook de hoogte van bron- en rekenpunt van belang. Indien het geluidpad één scherm snijdt dan wordt de hoogte van één van beide vervangen door een effectieve hoogte, afhankelijk van welk punt het dichtst bij het scherm staat. Als meer dan één scherm doorsneden wordt, worden de effectieve hoogtes van zowel het bron- als rekenpunt gebruikt. Eerst worden de schermen daartoe in twee groepen verdeeld; schermen die dichter bij de bron staan dan bij het rekenpunt en schermen die dichter bij het rekenpunt staan dan bij de bron. De effectieve hoogte voor de bron wordt bepaald op basis van het meest effectieve scherm uit de eerste groep, de effectieve hoogte voor het rekenpunt wordt bepaald op basis van het meest effectieve scherm uit de tweede groep (zie formule 4.53 in § 4.6.5). Indien geen schermen in een groep vallen wordt voor de effectieve hoogte de werkelijke hoogte van de bron of het rekenpunt genomen. 
+
+### 4.6.5  
+
+####Afscherming
+
+In situaties waarin het verticale vlak door het bron- en rekenpunt een object snijdt (bijvoorbeeld een geluidscherm), wordt de invloed van dit object in formule 4.2 in rekening worden gebracht door de term *D<sub>scherm</sub> *. In andere situaties is deze term gelijk aan nul. 
+### *Situaties met één scherm* 
+
+Een scherm wordt geschematiseerd door een verticaal staande rechthoek. Drie geluidpaden worden onderscheiden. Eén pad via de top van het scherm en twee paden via de zijkanten van het scherm (zie figuur 4.8). De verticale schermhoogte *z* <sub>sch,1</sub> is de hoogte van het scherm ten opzichte van het laagste aan het scherm grenzende maaiveld. De ‘horizontale schermhoogten’ *z* <sub>sch,2</sub> en *z* <sub>sch,3</sub> zijn in figuur 4.9 gedefinieerd.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Figuur 4.8:* Geluid bereikt het rekenpunt achter een eindig scherm via de top en via de zijkanten van een scherm.  |  *Figuur 4.9:* Definitie van ‘horizontale’ schermhoogtes in een bovenaanzicht van een scherm tussen bron en rekenpunt.  |
+
+Afhankelijk van de meteorologische situatie zijn de geluidpaden meer of minder gekromd. Hiermee wordt rekening gehouden bij de bepaling van de schermwerking. De schermwerking wordt daarom per meteorologische klasse bepaald. ![256198](http://wetten.overheid.nl/Illustration/256198)
+De straalkromming wordt in rekening gebracht door correcties Δ*φ<sub>s</sub> * en Δ*φ<sub>r</sub> * toe te passen op de hoeken *φ<sub>s,</sub> * <sub>0</sub> en *φ<sub>r,</sub> * <sub>0</sub> die in figuur 4.10 zijn aangegeven (alle hoeken in deze paragraaf worden in radialen uitgedrukt). In formule: ![256199](http://wetten.overheid.nl/Illustration/256199)
+Er wordt alleen rekening gehouden met straalkromming voor de zogenaamde meewindprofielen (*n* = 4 t/m 7, 12 t/m 18, 22 t/m 27 in tabel 4.1). Voor de andere profielen geldt Δ*φ<sub>s</sub> * = 0 en Δ*φ<sub>r</sub> * = 0. Ook voor de geluidpaden 2 en 3 (de horizontale omwegen) in figuur 4.9 wordt straalkromming buiten beschouwing gelaten. In de overige gevallen zijn deze correcties te bepalen uit de maximale hoogte van de geluidstraal z<sub>max,</sub> * <sub>n</sub> *. Voor de berekening van *z<sub>max,n</sub> * wordt eerst voor elk meewindprofiel een hoogte *z<sub>max0,n</sub> * berekend: ![256200](http://wetten.overheid.nl/Illustration/256200)
+waarin: ![256201](http://wetten.overheid.nl/Illustration/256201)
+met:  *f<sub>k</sub> * octaafband middenfrequentie (*f* <sub>6</sub> = 500 Hz);  *f<sub>abs</sub> * fractie van het geluidpad waarvoor de bodem ‘absorberend’ of ‘zeer absorberend’ is; Δ*x* de horizontale afstand (langs het geluidpad) van bron- of rekenpunt naar het scherm afhankelijk of Δ*φ<sub>s</sub> * dan wel Δ*φ<sub>r</sub> * bepaald moet worden;  *b<sub>n</sub> * parameter van het geluidsnelheidsprofiel (zie tabel 4.1). Voor *z<sub>max,n</sub> * geldt nu: ![256202](http://wetten.overheid.nl/Illustration/256202)
+De correcties zijn vervolgens te bepalen uit onderstaande formule (*t* = s of *r*, zie ook formule 4.9): ![256203](http://wetten.overheid.nl/Illustration/256203)
+De demping door het scherm wordt per geluidpad (*p*=1,2,3) gegeven door: ![256204](http://wetten.overheid.nl/Illustration/256204)
+opmerking: *φ* <sub>s</sub> en *φ<sub>r</sub> * zijn beide een functie van zowel de frequentie, het meteorologisch profiel als het geluidpad. In bovenstaande formule worden de volgende functies toegepast:  *max(x,y) *is gelijk aan de grootste van zijn twee argumenten: ![256205](http://wetten.overheid.nl/Illustration/256205)
+*T(x)* geeft het teken van x aan: ![256206](http://wetten.overheid.nl/Illustration/256206)
+*Γ* * <sub>p</sub>(f<sub>k</sub>)* is gedefinieerd als: ![256207](http://wetten.overheid.nl/Illustration/256207)
+waarin:  *r<sub>s</sub> * afstand van bron naar top van scherm (zie figuur 4.10);  *r<sub>r</sub> * afstand van rekenpunt naar top van scherm. De factor *H<sub>p</sub> * brengt de eindige afmetingen van het scherm in rekening: ![256208](http://wetten.overheid.nl/Illustration/256208)
+Δ*D<sub>p</sub> * is de tophoekcorrectie voor een wal met tophoek γ (zie figuur 4.5). Deze correctie wordt alleen toegepast voor geluidpad 1 over de top van het obstakel: ![256209](http://wetten.overheid.nl/Illustration/256209)
+waarin:  *ρ* = 1 – *α<sub>abs</sub> *   *δ* = max(0;min(0.3;*φ<sub>s</sub> * – *φ<sub>r</sub> * – π))  *α<sub>abs</sub> * de frequentieafhankelijke absorptiecoëfficiënt van de zijvlakken van de wal (0 ≤ *α<sub>abs</sub> * ≤ 1). Voor een harde wal geldt *α<sub>abs</sub> * = 0, voor een zachte wal geldt *α<sub>abs</sub> * = 1, bij speciale gevallen kan hiervan worden afgeweken).  *φ<sub>s</sub>, φ<sub>r</sub> * diffractiehoeken voor geluidpad 1. Voor de tophoek *γ* geldt de restrictie 0.25π ≤ *γ* ≤ 0.9π. Voor een wal met *γ* > 0.9π moet de waarde *γ* = 0.9π gebruikt worden. Voor een wig met *γ* < 0.25π geldt *ΔD* = 0. De totale schermwerking *D<sub>scherm</sub> * wordt berekend uit de schermwerkingen *D<sub>scherm,p</sub> * van de drie geluidpaden, volgens de volgende formule: ![256210](http://wetten.overheid.nl/Illustration/256210)
+Bovenstaande formule geldt voor het neutrale profiel (profielnr. 11) en de tegenwindsituaties (profielnrs. 1 t/m 3, 8 t/m 10 en 19 t/m 21). Bij alle meewindsituaties (profielnrs. 4 t/m 7, 12 t/m 18 en 22 t/m 27) geldt formule 4.51 alleen voor de octaafband middenfrequenties van 16 Hz tot 250 Hz. Boven 250 Hz geldt bij alle meewindsituaties: ![256211](http://wetten.overheid.nl/Illustration/256211)
+Een schermdemping groter dan 20 dB is over het algemeen moeilijk te realiseren. Indien de berekende schermdemping voor een octaafband groter is dan 20 dB moet men er alert op zijn dat door omloopgeluid (bijvoorbeeld door een diffuse reflectie aan een bijliggend object) of door de aanwezigheid van turbulente wervels in de atmosfeer de effectieve werking van het scherm deels tenietgedaan kan worden. Daarom wordt de schermdemping begrensd op 20 dB, tenzij nader onderzoek aantoond dat hogere reducties bereikt kunnen worden. 
+### *Meervoudig scherm* 
+
+Als een aantal schermen aan elkaar vastzit, dan spreken we van een meervoudig scherm. Alleen concave meervoudige schermen worden in beschouwing genomen. Een voorbeeld van een concaaf meervoudig scherm is weergegeven in figuur 4.11. ![256212](http://wetten.overheid.nl/Illustration/256212)
+*Figuur 4.11:* Meervoudig scherm met zes hoekpunten. De linker omweg is aangegeven. Er is geen rechter omweg mogelijk in deze situatie. De schermwerking wordt als volgt berekend: 
+
+1. Pad via top van het scherm: Eerst wordt bepaald welke schermen gesneden worden door het verticale vlak door bron- en rekenpunt. Vervolgens wordt het scherm geselecteerd waarbij het verschil tussen de diffractiehoeken *φ<sub>s,</sub> * <sub>0</sub>–*φr,* <sub>0</sub> het grootst is. Als geen enkel scherm gesneden wordt is *D<sub>scherm</sub> * = 0.  
+
+2. Pad via de zijkanten van het scherm: Het horizontale vlak wordt verdeeld in zes gebieden, gescheiden door een lijn door rekenpunt en bronpunt en door twee lijnen a-b en c-d, die hier dwars opstaan (zie figuur 4.11). 
+
+a) Linker omweg. Bepaal het snijpunt van de lijn van bronpunt naar rekenpunt met het in stap 1 geselecteerde scherm. Volg het meervoudige scherm naar links. Als het meervoudige scherm lijn a of lijn c snijdt, wordt de linker omweg niet meegerekend. De betreffende *H<sub>p</sub> *(*f* <sub>k</sub>) is dan gelijk aan 1 (zie formule 4.49 en 4.51) en *D<sub>scherm,p</sub> * = ∞. Als het meervoudige scherm lijn a en lijn c niet snijdt, wordt van alle hoekpunten in gebied 3 het hoekpunt geselecteerd met de grootste waarde van het *horizontaal* diffractiehoek-verschil *φ* <sub>s</sub>–*φ* <sub>r</sub>. Dit hoekpunt bepaalt de linker omweg.  
+
+b) Rechter omweg: analoog.     De procedure is ook van toepassing op een gesloten meervoudig scherm, waarbij beginpunt en eindpunt van het scherm samenvallen. Een voorbeeld hiervan is een gebouw. 
+### *Meer dan één scherm* 
+
+In situaties met meer dan één scherm tussen bron- en rekenpunt worden maximaal twee schermen in rekening gebracht. Eerst worden de schermen in twee groepen verdeeld: een groep met schermen die zich dichter bij de bron bevinden en een groep met schermen die zich dichter bij het rekenpunt bevinden. Van beide groepen wordt het scherm geselecteerd met het grootste verschil van de diffractiehoeken (*φ<sub>s,</sub> * <sub>0</sub>–*φ<sub>r,</sub> * <sub>0</sub>) voor de verticale omweg. De schermwerkingen van de twee geselecteerde schermen worden, inclusief de bijdragen van de horizontale omwegen, bij elkaar opgeteld. Deze som geeft de totale schermwerking. De effectieve bronhoogte (van toepassing bij de bepaling van de bodemdemping) wordt bepaald op basis van het geselecteerde scherm uit de eerste groep, de effectieve hoogte van het rekenpunt wordt bepaald op basis van het geselecteerde scherm uit de tweede groep. 
+### *Effectieve hoogte van bron- of rekenpunt* 
+
+Bij de bepaling van de bodemdemping wordt, indien het geluidpad één scherm snijdt, de hoogte van het bronpunt of van het rekenpunt (afhankelijk van het feit of het bronpunt of het rekenpunt dichter bij het scherm ligt) vervangen door een effectieve hoogte: ![256213](http://wetten.overheid.nl/Illustration/256213)
+waarin:  *φ<sub>s,</sub> φ<sub>r</sub> * diffractiehoeken voor geluidpad 1. ![256214](http://wetten.overheid.nl/Illustration/256214)
+Bovenstaande formule is gegeven voor het bepalen van de effectieve hoogte van de bron. Voor de bepaling van de effectieve hoogte van het rekenpunt moet *h<sub>s</sub> * worden vervangen door *h<sub>r</sub> *. Bij de berekening van de bodemdemping bij reflecties wordt – indien sprake is van afscherming- voor de bepaling van de effectieve hoogte uitgegaan van het geluidpad van gespiegelde bron naar rekenpunt. Het reflecterend vlak heeft hierbij geen invloed op de bepaling van de effectieve hoogte. ![256215](http://wetten.overheid.nl/Illustration/256215)
+*Figuur 4.12:* Schematische weergave van afscherming van kogelgeluid. 
+### *Afscherming kogelgeluid* 
+
+Voor de afscherming van kogelgeluid wordt in principe dezelfde benadering gevolgd als bij afscherming voor mondingsgeluid of detonatiegeluid. Ook hierbij worden drie geluidpaden onderscheiden: een pad over de top van het obstakel en twee paden langs de zijkanten van het scherm. Het verschil is echter dat deze drie geluidpaden over het algemeen verschillende bronpunten op de kogelbaan hebben (zie figuur 4.12). Het bronpunt van het pad over de top is gelijk aan het bronpunt voor de onafgeschermde situatie; de twee andere bronpunten worden bepaald door formule 4.19 met (*x<sub>r</sub>, y<sub>r</sub> *) respectievelijk de linker en rechter zijkant van het scherm. Indien kogelgeluid is afgeschermd wordt de bijdrage van het kogelgeluid bepaald uit de energetisch gesommeerde bijdragen van de drie bronnen die op deze drie bronposities gedacht kunnen worden. Dit betekent dat per bron alle dempingstermen (geometrische-, lucht-, bodem-, nietlineaire- en schermdemping) bepaald moeten worden. ![256216](http://wetten.overheid.nl/Illustration/256216)
+*Figuur 4.13:* Berekening van kogelgeluidbijdrage voor situaties waarbij het mondingsgeluid is afgeschermd maar een rand van het scherm in het Mach-gebied ligt. Er is sprake van afscherming indien de lijn van het bronpunt van het kogelgeluid (bepaald in de niet afgeschermde situatie) naar het rekenpunt het scherm snijdt, anders is er sprake van een onafgeschermde situatie en wordt de systematiek gehanteerd, die hiervoor beschreven is. Een uitzondering hierop is de situatie die in nevenstaande figuur is afgebeeld waarbij het rekenpunt in gebied I ligt en het mondingsgeluid wordt afgeschermd. Eén verticale rand van het scherm ligt echter in het Mach-gebied (gebied II). Ook in deze situatie wordt een kogelgeluidbijdrage berekend. Hierbij wordt er maar één (horizontaal) geluidpad beschouwd en wel langs de verticale rand van het scherm dat in het kogelgeluidgebied ligt. Deze bijdrage wordt echter alleen meegenomen als de bovenrand van het scherm minimaal 1 m boven de mond van het wapen uitsteekt. De bronsterkten van de genoemde drie bronnen (of één bron voor het laatst genoemde geval) worden bepaald zoals in § 4.6.1 beschreven. De geometrische demping wordt op dezelfde manier bepaald als voor onafgeschermd kogelgeluid conform de formules die in § 4.6.2. voor kogelgeluid zijn beschreven. Het is hierbij van belang in welk gebied een verticale rand van een scherm ligt (zie figuur 4.7). Indien bijvoorbeeld een schermrand in gebied III ligt dient voor de geometrische demping formule 4.28 toegepast te worden. Over het algemeen is dus de geometrische demping voor de verschillende combinaties verschillend aangezien de bronposities niet gelijk hoeven te zijn. Ook de lucht-, bodem- en niet-lineaire demping worden (vergelijkbaar met de berekeningsmethode voor afgeschermd mondingsgeluid) bepaald voor het directe pad van bronpunt naar rekenpunt. De schermdemping tot slot wordt bepaald met formule 4.45 waarbij per bronpunt maar één pad wordt beschouwd overeenkomend met het pad dat in figuur 4.12 staat aangegeven. De tophoekcorrectie wordt alleen toegepast voor het pad over de top van het obstakel. Voor de situatie die in figuur 4.13 is weergegeven wordt dus geen tophoekcorrectie toegepast. Verder zijn dezelfde restricties van toepassing als die bij formule 4.50 en 4.52 zijn gegeven. Voor het bepalen van de geluidbelasting (zie formule 3.1 t/m 3.7 in hoofdstuk 3) worden eerst de verschillende bijdragen van het afgeschermde kogelgeluid – langs maximaal drie verschillende paden – energetisch gesommeerd. 
+
+### 4.6.6  
+
+####Niet-lineaire demping
+
+Alleen voor de berekening van de geluidbelasting door kogelgeluid wordt een dempingsterm in rekening gebracht, die voortkomt uit de niet-lineaire overdracht van kogelgeluid. Deze term is alleen van toepassing voor rekenpunten in gebied II. Hiervoor geldt: ![256217](http://wetten.overheid.nl/Illustration/256217)
+met  *r* <sub>0</sub> = 1 m  *k* = -*v* <sub>1</sub> / *c* <sub>10</sub>  Voor rekenpunten in gebied III wordt deze term alleen over de afstand *R* <sub>1</sub> in rekening gebracht. 
+
+### 4.6.7  
+
+####Spiegelreflecties
+
+![256218](http://wetten.overheid.nl/Illustration/256218)
+*Figuur 4.14:* Voor een spiegelreflectie geldt dat de hoek van inval (*α<sub>in</sub> *) gelijk is aan de hoek van reflectie (*α<sub>refl</sub> *). Een spiegelreflectie wordt gemodelleerd met behulp van een spiegelbron. Spiegelreflecties aan objecten worden in rekening gebracht door gebruik te maken van spiegelbronnen. Hierbij moet aan een aantal eisen worden voldaan (zie § 4.5.4): 
+
+1. Het object heeft een min of meer vlakke en geluidreflecterende wand.  
+
+2. De reflecterende wand moet een dichtheid hebben groter dan 10 kg/m<sup>2</sup>. Bomenrijen en open procesinstallaties worden zo buitengesloten.  
+
+3. Het geluid moet via een reflectie (zoals bij optische spiegeling) het rekenpunt kunnen bereiken. De hoek tussen de geluidreflecterende wand en de verticaal moet daarom kleiner zijn dan 10°. Van een talud kan dus geen reflectiebijdrage komen.   Indien een object meer dan één reflectievlak heeft (zoals een scherm met enige hoeken) moet ieder vlak van het object als een mogelijk afzonderlijk reflecterend object beschouwd worden. Op het geluidpad tussen bron- en rekenpunt worden slechts enkelvoudige reflecties in de berekening meegenomen. Het bronniveau van een spiegelbron *L<sup>*</sup> <sub>Eb</sub> * is lager dan het bronniveau van de originele bron; *L<sup>*</sup> <sub>Eb</sub> * wordt bepaald uit bronniveau *L<sub>Eb</sub> * van de originele bron met behulp van onderstaande formule: ![256219](http://wetten.overheid.nl/Illustration/256219)
+waarin *L<sub>Eb</sub> * het bronniveau (per octaafband) van de originele bron in de richting van het reflectiepunt is en *D<sub>refl</sub> * de reflectiedemping. De reflectiedemping voor spiegelreflecties wordt gegeven door ![256220](http://wetten.overheid.nl/Illustration/256220)
+waarin:  *ε<sub>hor</sub> * de ‘horizontale’ reflectie-effectiviteit (0 ≤ *ε<sub>hor</sub> * ≤ 1),  *ε<sub>ver</sub> * de ‘verticale’ reflectie-effectiviteit (0 ≤ *ε<sub>ver</sub> * ≤ 1),  *ρ* de reflectiviteit (0 ≤ *ρ* ≤ 1). De reflectiviteit *ρ* wordt bepaald door de absorberende eigenschappen van het materiaal waaruit het reflecterende vlak bestaat. In het algemeen is *ρ* een functie van de frequentie. Voor een hard vlak geldt *ρ* = 1. De horizontale effectiviteit *ε<sub>hor</sub> * en de verticale effectiviteit *ε<sub>ver</sub> * representeren de invloed van de eindige breedte respectievelijk hoogte van het vlak. De ‘horizontale’ reflectie-effectiviteit wordt gegeven door de formule ![256221](http://wetten.overheid.nl/Illustration/256221)
+waarin:  *W* <sub>1</sub>, *W* <sub>2</sub> horizontale afstand van reflectiepunt tot rand reflecterend vlak loodrecht op lijn van bron naar reflectiepunt (zie figuur 4.15);  *r<sub>b</sub> * horizontale afstand van de bron tot het reflectiepunt;  *λ = c* <sub>10</sub> */f<sub>k</sub> * golflengte die overeenkomt met de octaafbandmidden-frequentie *f* <sub>k</sub>;  *α<sub>hor</sub> * = 4.5 een constante. De horizontale afstand *r<sub>b</sub> * van de bron tot het reflectiepunt wordt hierbij kleiner verondersteld dan de afstand van het rekenpunt tot het reflectiepunt; als dit niet zo is dan wordt voor *r<sub>b</sub> * de afstand van het rekenpunt tot het reflectiepunt gebruikt. De afstanden *W* <sub>1</sub> en *W* <sub>2</sub> worden gegeven door de formules *W* <sub>1</sub> = *L* <sub>1</sub> cos*α* en *W* <sub>2</sub> = *L* <sub>2</sub> cos*α*, waarin *L* <sub>1</sub> en *L* <sub>2</sub> de afstanden zijn van het reflectiepunt tot de beide randen van het vlak, en *α* de reflectiehoek is (zie figuur 4.15). ![256222](http://wetten.overheid.nl/Illustration/256222)
+*Figuur 4.15:* Illustratie van een spiegelreflectie, met daarin aangegeven de afstanden *W* <sub>1</sub> en *W* <sub>2</sub>, de horizontale afstand *rb* van de bron tot het reflectiepunt, en de reflectiehoek *α*. De ‘verticale’ reflectie-effectiviteit wordt gegeven door de formule ![256223](http://wetten.overheid.nl/Illustration/256223)
+waarin *D<sub>scherm</sub> * de schermwerking is van het reflecterende vlak voor de overdracht van de spiegelbron naar het rekenpunt (zie figuur 4.14). De schermwerking is afhankelijk van de geometrie, de frequentie, de meteorologische klasse en het bodemtype. Bij de berekening van *D<sub>scherm</sub> * wordt alleen het geluidpad via de top van het scherm meegerekend; het scherm wordt in horizontale richting dus oneindig lang verondersteld. Er wordt geen tophoekcorrectie toegepast. Voor de berekening van de geluidoverdracht langs een gereflecteerde straal moet dezelfde procedure gevolgd worden als voor de directe geluidoverdracht, met dien verstande dat het verloop van bodemruwheid en bodemhardheid bepaald wordt langs het *gereflecteerde* geluidpad. Schermwerking langs dit gereflecteerde geluidpad wordt berekend voor die schermen die door dit pad worden doorsneden. Voor schermen tussen bron en reflecterend object wordt voor de schermwerking uitgegaan van bron en gespiegeld rekenpunt. Voor schermen tussen rekenpunt en reflecterend object wordt voor de schermwerking uitgegaan van de gespiegelde bron en het rekenpunt. De richting van het geluidpad, aangegeven door hoek *θ*(*b*) in formule 3.2 en 3.3, verandert na een reflectie. Voor de berekening van de deelbijdrage tot de geluidbelasting wordt in de genoemde formules echter van de richting van het langste deel van het geluidpad uitgegaan (voor de vaststelling van de hoekafhankelijke bronsterkte wordt natuurlijk uitgegaan van het eerste deel van het geluidpad vanaf de bron). 
+### *Reflectie van kogelgeluid* 
+
+Een reflectie van kogelgeluid kan het rekenpunt slechts bereiken als het rekenpunt zich binnen het gebied bevindt dat door spiegeling van het kogelgeluid wordt bestreken. Dit is geïllustreerd in figuur 4.16. Uit de positie van het gespiegelde rekenpunt kan het bronpunt op de kogelbaan van het gereflecteerde kogelgeluid bepaald worden. Als het gespiegelde rekenpunt in gebied III ligt wordt de reflectiebijdrage verwaarloosd. Voor de bepaling van de transitieafstand (zie formule 4.26) wordt voor *x<sub>t</sub> * bij de berekening van de reflectiebijdrage dat deel van de kogelbaan genomen waarop bronpunten liggen waarvan het geluid kan reflecteren in het scherm (zie figuur 4.16). Alleen het gedeelte van het scherm dat in gebied II ligt wordt hierbij verdisconteerd. ![256224](http://wetten.overheid.nl/Illustration/256224)
+*Figuur 4.16:* Schematische weergave van de reflectie van kogelgeluid. 
+
+### 4.6.8  
+
+####Diffuse reflectie
+
+Diffuse reflecties treden op aan een bosrand; minimaal moeten er drie bomenrijen aanwezig zijn voordat een diffuse reflectie wordt meegerekend. Een diffuse reflectie treedt op indien er ‘zicht’ is op de bosrand vanuit zowel de positie van de bron als de positie van het rekenpunt; optische spiegeling is hierbij irrelevant. De bijdrage van diffuse reflecties is alleen relevant indien het rechtstreekse geluidpad van bron naar rekenpunt wordt afgeschermd. Indien deze afscherming voor de 250 Hz octaafband meer dan 8 dB bedraagt (berekend voor profiel 14 mbv formule 4.51) en aan de hiervoor genoemde voorwaarden voldaan wordt, dient diffuus geluid in rekening te worden gebracht. Een bosrand wordt gemodelleerd met een enkele rij equidistante cilinders (zie figuur 4.17). De afstand tussen naburige cilinders *d<sub>eff</sub> * bedraagt de helft van de gemiddelde afstand tussen naburige bomen van de eerste drie bomenrijen van de bosrand. Deze gemiddelde afstand wordt benaderd door  ![256225](http://wetten.overheid.nl/Illustration/256225)
+, waarbij *n* <sub>2</sub> het gemiddeld aantal bomen per oppervlakte-eenheid is. De straal van de cilinders *r* <sub>cil</sub> is gelijk aan de gemiddelde straal van de bomen in de bosrand. Indicatieve waarden voor een gemiddeld bos zijn *d<sub>eff</sub> * = 1,4 m en *r<sub>cil</sub> * = 0,1 m. Alle cilinders dragen bij aan de diffuse reflectie. Diffuse reflecties worden gemodelleerd met behulp van virtuele bronnen (zie figuur 4.18a). In principe kan voor elke cilinder een virtuele bron gebruikt worden, maar voor een efficiënte berekening worden de cilinders gegroepeerd in segmenten (zie figuur 4.18b). De lengtes van de segmenten worden zo gekozen dat de hoek waaronder elk segment vanuit de bron gezien wordt ongeveer 5° is (of vanuit het rekenpunt, indien dit zich dichter bij de bosrand bevindt). Het aantal cilinders binnen een segment is geheeltallig. De hoek waaronder een segment gezien wordt kan hierdoor enigszins variëren. De precieze grootte van een hoeksector wordt bepaald door het maximaal aantal cilinders dat net binnen een sector van 5° past. Indien de hoek waaronder de totale rij cilinders wordt gezien minder dan 5° is wordt slechts één segment gebruikt. De bijdragen van de virtuele bronnen aan de reflectie kunnen als incoherent worden beschouwd, zodat elke virtuele bron als een aparte bron kan worden behandeld. ![256226](http://wetten.overheid.nl/Illustration/256226)
+*Figuur 4.17:* Bij een diffuse reflectie aan een bosrand wordt de bosrand (links) vervangen door één rij equidistante cilinders aan de bosrand (rechts).  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Figuur 4.18a:* De bijdrage van een cilinder aan een diffuse reflectie wordt gerepresenteerd door een virtuele bron. Een virtuele bron ligt in het verlengde van de lijn van de cilinder naar het rekenpunt. De afstand van de virtuele bron naar de cilinder is gelijk aan de afstand van de echte bron naar de cilinder.  |  *Figuur 4.18b:* Voor een efficiënte berekening worden de cilinders gegroepeerd in segmenten. De bijdragen van de cilinders binnen een segment worden aan elkaar gelijk gesteld, zodat per segment slechts een berekening voor de centrale cilinder uitgevoerd hoeft te worden.  |
+
+Net als bij spiegelreflecties wordt door middel van een reflectiedemping *D<sub>refl</sub> * rekening gehouden met het feit dat een virtuele bron zwakker is dan de echte bron. Het bronniveau *L<sup>*</sup> <sub>Eb</sub> * van een virtuele bron (per octaafband) wordt bepaald met formule 4.55. De reflectiedemping *D<sub>refl</sub> * voor diffuse reflecties wordt hierin gegeven door: ![256229](http://wetten.overheid.nl/Illustration/256229)
+waarin  *ε<sub>ver</sub> * ‘verticale’ reflectie-effectiviteit (0 ≤ *ε<sub>ver</sub> * ≤ 1),  *ρ* reflectiviteit per cilinder (0 ≤ *ρ* ≤ 1),  *N<sub>cil</sub> * aantal cilinders in het segment. De verticale reflectie-effectiviteit *ε* <sub>ver</sub> wordt op dezelfde manier berekend als voor spiegelreflecties (zie formule 4.58), waarbij voor de schermhoogte de gemiddelde hoogte van de bomen wordt gebruikt. De reflectiviteit per cilinder ρ wordt gegeven door ![256230](http://wetten.overheid.nl/Illustration/256230)
+met ![256231](http://wetten.overheid.nl/Illustration/256231)
+en ![256232](http://wetten.overheid.nl/Illustration/256232)
+waarin *c* <sub>1</sub> = 25 m/s, *r* <sub>1</sub> = 25 m en *α* <sub>1</sub> = 10 constanten zijn, en *r* <sub>0</sub> en *δφ* parameters die in figuur 4.18b aangegeven zijn; de index *n* van het segment is hier voor het gemak weggelaten. De parameter* δφ* is de hoek tussen de lijnen van de centrale cilinder van het segment naar de bron en naar het rekenpunt. De parameter *r* <sub>0</sub> is de afstand van de bron tot de centrale cilinder van het segment, waarbij de afstand van de bron tot de centrale cilinder kleiner wordt verondersteld dan de afstand van het rekenpunt tot de cilinder; als dit niet zo is dan moet voor *r* <sub>0</sub> de afstand van het rekenpunt naar de centrale cilinder gebruikt worden. Bij de overdracht van een virtuele bron naar het rekenpunt treden de dempingen *D<sub>geo</sub> *, *D<sub>lucht</sub> *, *D<sub>bodem</sub> * en eventueel *D<sub>scherm</sub> * op. De berekening van deze dempingen gaat op dezelfde manier als dit bij spiegelreflecties is beschreven. 
+
+### 5  
+
+####Beschrijving invoergegevens
+
+### 5.1  
+
+####Gebruiksbeschrijving
+
+### 5.1.1  
+
+####Schietbanen
+
+Met betrekking tot het gebruik van de schietinrichting moeten de volgende gegevens worden vermeld: 
+
+* aantal dagen (07.00 – 19.00 uur), avonden (19.00 – 23.00 uur) en nachten (23.00 – 7.00 uur) per jaar dat de schietbanen in gebruik zijn;  
+
+* mogelijke beperkingen die gesteld zijn aan het gebruik van de schietinrichting;  
+
+* schietbaantype (zie § 2.7);  
+
+* akoestische voorzieningen;  
+
+* lengte van de schietbanen;  
+
+* locatie van de schietposities;  
+
+* locatie van de doelposities;  
+
+* specificatie van de wapentypes en de munitie (met bijbehorende aandrijvende lading) waarmee geschoten wordt;  
+
+* hoogte van het bronpunt van elk wapentype boven het plaatselijk maaiveld;  
+
+* aantal schoten per jaar, uitgesplitst naar 
+
+○ beoordelingsperiode (dag: 07.00 – 19.00 uur, avond: 19.00 – 23.00 uur, nacht: 23.00 – 7.00 uur), alleen voor de dagperiode wordt dit uitgesplitst naar zon- en feestdagen en overige dagen;  
+
+○ schietbaan;  
+
+○ schietpositie;  
+
+○ doelpositie;  
+
+○ wapen-munitiecombinatie;    
+
+* verdeling van de schoten naar de stand waaruit geschoten wordt (liggend of staand).  
+
+### 5.2  
+
+####Rekenmodel
+
+### 5.2.1  
+
+####Toepassingsbereik
+
+In het akoestisch rapport moet worden aangetoond dat de betreffende situatie valt binnen het toepassingsbereik van bijlage 9 van de Activiteitenregeling.
+
+### 5.2.2  
+
+####Gebruikte software
+
+De volgende gegevens over de gebruikte software moeten worden vermeld: 
+
+* datum of versie van toegepaste rekenprogramma(’s);  
+
+* datum of versie van de toegepaste gegevensbestanden.  
+
+### 5.2.3  
+
+####Modellering
+
+In het rapport moet vermeld worden welke keuzes er zijn gemaakt met betrekking tot de modellering en waarom deze keuzes zijn gemaakt. Wanneer in de modellering wordt afgeweken van de ‘Reken- en meetvoorschrift ter bepaling van de geluidbelasting ten gevolge van schietactiviteiten’, moet dit met redenen omkleed worden aangegeven. Als de brongegevens niet in het gegevensbestand zijn opgenomen maar uit emissiemetingen zijn verkregen, moeten deze metingen zijn uitgevoerd zoals beschreven in TNO-rapport: ‘Toelichting op toepassing van methoden voor meten en rekenen aan schietgeluid’ (TNO 2014 R10135). De beschrijving van de emissiemetingen dient als bijlage aan het rapport te worden toegevoegd. Ook kan volstaan worden met een verwijzing naaar een bestaande rapportage. Als de brongegevens niet direct uit metingen zijn bepaald, moet de reden hiervan opgegeven worden en moet vermeld worden hoe deze brongegevens zijn verkregen. Dit dient ook te gebeuren als gebruik gemaakt is van de categorieindeling voor wapen-munitiecombinaties van hand- en vuistvuurwapens. De procedure hiervoor staat beschreven in het eerder genoemde TNO-rapport.
+
+### 5.2.4  
+
+####Invoergegevens voor het rekenmodel
+
+In de hoofdtekst van het akoestisch rapport moet een globale beschrijving van de invoergegevens voor het rekenmodel gegeven worden. Een gedetailleerde beschrijving van de invoergegevens en een grafische weergave van de geometrische invoergegevens wordt als bijlage in het rapport opgenomen.
+
+### 5.3  
+
+####Berekeningsresultaten
+
+Voor elk rekenpunt moet voor de drie beoordelingsperioden de geluidbelasting gegeven worden (*B<sub>s,dag</sub> *, *B<sub>s,avond</sub> * en *B<sub>s,nacht</sub> *) samen met de daaruit afgeleide dag-avond-nachtwaarde (*B<sub>s,dan</sub> *) van de geluidbelasting. In de bijlage van het rapport moet de geluidbelasting per bron gegeven worden voor elk rekenpunt en voor elke beoordelingsperiode.
+
+### BIJLAGE  A:  
+
+####METHODE VOOR DE BEREKENING VAN L<sub>ES, PERIODE</sub> BIJ EEN GELUIDBELASTING KLEINER DAN 50 DB(A)
+
+In deze bijlage wordt de methode voor de berekening van de deelbijdrage aan de geluidbelasting (L<sub>Es, periode</sub>, zie formule 3.1) gegeven die van toepassing is indien men een geluidbelasting *B<sub>s,periode</sub> * kleiner dan 50 dB(A) wil bepalen. In dit geval worden de impulstoeslag (*P<sub>imp</sub> *=12 dB) en de toeslag voor extra laagfrequente componenten in het geluid (*P<sub>lf</sub>(b,m)*) bij de berekening van de geluidbelasting, slechts meegenomen voor zover het geluid waarneembaar is op het immissiepunt. De deelbijdrage *L<sub>Es,periode</sub>(b,m)* (zie formule 3.1) wordt dan bepaald als de energetische som van twee termen, die gewogen zijn met de kans dat een schot (van bron *b* voor meteorologische situatie *m*) respectievelijk wel en niet gehoord wordt: ![256236](http://wetten.overheid.nl/Illustration/256236)
+*k<sub>periode</sub> * is hierbij de kans dat het schietgeluid in de dag-, avond of nachtperiode hoorbaar is. Deze kans hangt onder andere af van het geluidniveau van het schietgeluid, de omgeving waarin men zich bevindt en de aard van de activiteiten waar men mee bezig is. Bovenstaande formule kan ook geschreven worden als ![256233](http://wetten.overheid.nl/Illustration/256233)
+met ![256234](http://wetten.overheid.nl/Illustration/256234)
+*C(b,m)* is hierbij dan de correctie om een deelbijdrage van schietgeluid om te rekenen naar een even hinderlijk niveau van wegverkeersgeluid. Gemakkelijk is in te zien dat *C(b,m)* = *P<sub>imp</sub> * + *P<sub>lf</sub>(b,m)* voor *k<sub>periode</sub> * = 1, en *C(b,m)* = 0 voor *k<sub>periode</sub> * = 0. De kans k<sub>periode</sub> wordt bepaald door: ![256237](http://wetten.overheid.nl/Illustration/256237)
+waarin voor een betreffende periode de *z*-waarde gegeven wordt door ![256238](http://wetten.overheid.nl/Illustration/256238)
+zie voor de berekening van *ΔL* <sup>'</sup> hoofdstuk 3. De coëfficiënten *a* <sub>1</sub> t/m *a* <sub>4</sub>zijn hierbij afhankelijk van de periode en zijn weergegeven in onderstaande tabel.  Tabel A.1: Coëfficiënten *a* <sub>1</sub> t/m *a* <sub>4</sub>voor de dag-, avond- en nachtperiode. 
+
+|--- | dag  | avond  | nacht  |
+|:---|:---|:---|:---|
+|  *a<sub>1</sub> *   | -5.3  | -5.3  | -0.413  |
+|  *a<sub>2</sub> *   | 0.155  | 0.155  | 0.063  |
+|  *a<sub>3</sub> *   | 0.002  | 0.002  | 0.0054  |
+|  *a<sub>4</sub> *   | 45  | 45  | 25  |
+
+Formule (A.4) beschrijft de gestandaardiseerde cumulatieve normaalverdeling. In standaard statistiekboeken zijn tabellen opgenomen die voor willekeurige waarden van *z* de uitkomst van deze integraal geven.
+
+####Toelichting
+
+### 1  
+
+####Waarom een voorschrift specifiek voor schietgeluid?
+
+In het kader van de Wet geluidhinder en Wet milieubeheer zijn voor verschillende typen van geluidbronnen (wegverkeer, industrie) verschillende rekenvoorschriften geschreven. Hierin zijn methodes gegeven waarmee de beoordelingsgrootheden voor de verschillende soorten geluid kunnen worden bepaald. Uitgebreid onderzoek naar de hinderlijkheid van schietgeluid liet zien dat hiervoor een ander beoordelingscriterium gehanteerd moest worden. Daarnaast bleken de bestaande reken- en meetmethoden te beperkt en te onnauwkeurig om voor schietgeluid te kunnen worden toegepast. Daarom is een nieuw voorschrift opgesteld dat technische procedures bevat voor de beoordeling van schietgeluid. De gegevensbestanden, die voor de rekenmethode uit dit voorschrift worden toegepast worden ter beschikking gesteld via het RIVM. Hierdoor kan de geluidbelasting voor verschillende schietinrichtingen via berekeningen uniform vastgesteld worden.
+
+### 2  
+
+####Beoordeling van schietgeluid
+
+Eén van de kenmerken van schietgeluid is dat in een fractie van een seconde het maximale geluidniveau wordt bereikt. Het karakter van schietgeluid wijkt daarmee af van dat van wegverkeers-, railverkeers- en industriegeluid. Het aanzwellen van het geluid van individueel voorbijrijdende motorvoertuigen en treinen strekt zich, gelet op de relevante afstand tussen de weg en de woonhuizen, meestal over ten minste enkele seconden uit en verloopt daarmee veel gelijkmatiger. Op enige afstand van drukke verkeerswegen en van veel industrieterreinen heeft dat geluid een min of meer continu karakter gekregen. Naast het impulsmatig karakter wordt schietgeluid ook gekenmerkt door perioden van activiteit afgewisseld met stiltes. Tijdens schietactiviteiten vallen er regelmatig pauzes van tenminste enkele minuten. Ook bij schietinrichtingen met meer dan één baan zijn er perioden waarin het schietgeluid geheel afwezig is. Ook in dit opzicht is schietgeluid anders van karakter. Bij wegverkeersgeluid strekken de variaties in geluidniveau zich over veel langere perioden uit, waarbij de niveaufluctuaties door bijvoorbeeld de ochtend- of avondspits ook veel kleiner zijn dan bij schietgeluid. Onder andere door bovengenoemde verschillen tussen schietgeluid enerzijds en wegverkeers- en industriegeluid anderzijds, is géén van de in het kader van de Wet geluidhinder ontwikkelde beoordelingsmethoden van toepassing op schietgeluid. Daarom is een specifieke beoordelingsgrootheid ontwikkeld die echter toch kan worden gebruikt binnen de norm-systematiek van de Wet geluidhinder. De dosis-effect relatie voor hinder ten gevolge van wegverkeersgeluid is hierbij als referentie gekozen. Dit houdt in dat bij gelijke hinderbeleving de getalwaarden van de geluidbelasting van schietgeluid en wegverkeersgeluid aan elkaar gelijk zijn. De keuze van wegverkeersgeluid als referentie is erg voor de hand liggend omdat naar de hinderbeleving van deze geluidsbron internationaal gezien het meeste onderzoek is verricht. De diversiteit van vuurwapens, en daarmee de aard van de knallen, is zeer groot. In de beoordelingsmethode wordt er rekening mee gehouden dat deze knallen niet alle even hinderlijk zijn. Het verschil in hinder wordt onder andere veroorzaakt door het feit dat knallen van zware vuurwapens eerder tot schrikreacties aanleiding kunnen geven dan knallen van lichte vuurwapens. Daarnaast wordt voor de dagperiode van de zondag een toeslag gehanteerd om de extra hinder van schieten op zondag te verdisconteren. De gedachte hierachter is dat zondag overdag, in relatie tot de extra verwachte hinder, als een soort avond beschouwd kan worden. Een feestdag wordt hierbij ook als een zondag beschouwd. De meeste schietterreinen zijn niet continu in gebruik. In overeenstemming met de resultaten van onderzoek naar de invloed van onregelmatig gebruik van schietterreinen op de geluidhinder wordt rekening gehouden met de hinderbeperkende invloed van de schietvrije dagen. Indien minder dan 30 dagen per jaar wordt geschoten, wordt van deze regel afgeweken. Indien er in een jaar op 12 of minder dagen in een bepaalde beoordelingsperiode wordt geschoten, kan de hinder hiervan niet objectief worden vastgesteld. Deze activiteiten worden als incidentele bedrijfsomstandigheden beschouwd, waarvan de geluidbelasting niet kan worden berekend.
+
+### 3  
+
+####Fysische modellering van schietgeluid
+
+Bij het geluid dat ontstaat bij het gebruik van een vuurwapen, worden drie principieel verschillende bijdragen onderscheiden: 
+
+*  *mondingsgeluid*   
+
+*  *detonatiegeluid*   
+
+*  *kogelgeluid*    Mondingsgeluid is de knal die ontstaat door het explosief ontbranden van de voortdrijvende lading van de munitie. Indien de munitie een detonerende lading heeft ontstaat een tweede knal door de explosie van deze lading. Voor de modellering van mondings- en detonatiegeluid wordt van puntbronnen uitgegaan. Kogelgeluid is geluid dat ontstaat door verstoring van de lucht door een supersone kogel. Dit ontstaat dus alleen als de snelheid van de kogel groter is dan de geluidsnelheid. Door het bijzondere geluidopwekkingsmechanisme van kogelgeluid is ook de modellering ervan zeer specifiek en daardoor afwijkend van bijvoorbeeld de modellering van wegverkeerslawaai met lijnbronnen. Zo moet in een aantal gevallen rekening gehouden worden met niet-lineariteit. Voor de zwaardere wapentypen wordt het mondingsgeluid (en in mindere mate het kogelgeluid) door lage frequenties gedomineerd. Dit type schietgeluid kan tot op grote afstand waarneembaar zijn. Voor dergelijke afstanden en ook voor dit lage frequentiegebied bleken de bestaande modellen te onnauwkeurig. Voor de modellering van schietgeluid konden daarom de bestaande methoden niet worden gebruikt. Daarom zijn hiervoor andere rekenmethoden ontwikkeld. In de ‘Handleiding meten en rekenen industrielawaai’ is een zogenaamd meteoraam gedefinieerd waarin voorwaarden zijn gegeven waaronder metingen betrouwbaar en reproduceerbaar kunnen worden uitgevoerd. Voor schietgeluid zijn deze voorwaarden te ruim. Ook als aan deze voorwaarden wordt voldaan, treden er niet alleen binnen een meetserie grote variaties op, maar worden er ook grote verschillen gevonden tussen de gemiddelden van meetseries die op verschillende dagen zijn bepaald. Deze verschillen worden veroorzaakt door veranderingen in de toestand van de atmosfeer. De geluidoverdracht van schietgeluid is hieraan sterk onderhevig. Doordat daarnaast de akoestische energie van een schot in een korte tijdsduur en binnen een klein gebied is geconcentreerd, kunnen er – met name op grote afstand van de bron – van schot tot schot grote niveauverschillen optreden. Bij verkeersgeluid en industriegeluid daarentegen zijn de bronnen in tijd en plaats meer uitgesmeerd, waardoor de invloed van de atmosfeer deels wordt uitgemiddeld. Voor een vergelijkbare nauwkeurigheid zou een extreem groot aantal schoten gemeten moeten worden. Bovendien zou er een middeling over een aantal bij elkaar gelegen meetposities moeten plaatsvinden om lokale verschillen in niveau te elimineren. Het vraagt dus een onevenredig grote inspanning om binnen een redelijke nauwkeurigheid door middel van metingen de geluidbelasting van schietgeluid vast te stellen. Om deze reden is voor de bepaling van de geluidbelasting in dit voorschrift alleen een berekeningsmethode opgenomen.
+
+### 4  
+
+####De nieuwe elementen in dit voorschrift
+
+Net als in de rekenmethoden voor wegverkeers- en industriegeluid wordt in dit voorschrift gebruik gemaakt van een rekenmodel, waarbij de geluidimmissie bepaald wordt door berekeningen van de geluidoverdracht te combineren met bronniveaus uit een gegevenbestand. Nieuw is dat bij de berekening expliciet rekening gehouden wordt met de variaties van de weersomstandigheden. In de vorige paragraaf is al aangegeven, dat de geluidoverdracht sterk afhankelijk is van de plaatselijke weersomstandigheden. Zo is bijvoorbeeld bij meewind (als de geluidvoortplanting gelijk gericht is met de wind) de geluidoverdracht veel beter dan bij tegenwind. Om deze invloed van het weer op de geluidoverdracht in rekening te brengen, wordt bij de rekenmethode uitgegaan van 27 meteorologische klassen. Voor elke klasse wordt de geluidimmissie bepaald, uitgedrukt als A- en C-gewogen geluidexpositieniveau. Hieruit wordt een *hinder-relevante* deelbijdrage bepaald tot de geluidbelasting. Het gewogen gemiddelde van deze deelbijdragen over deze 27 meteorologische klassen wordt tenslotte gebruikt voor de bepaling van de (hinder-relevante) geluidbelasting. Er wordt hierbij rekening gehouden met de meteorologische situaties die gedurende een (gemiddeld) jaar voorkomen. De weegfactoren zijn ontleend aan een statistisch meteorologisch model, onder meer gebaseerd op statistische gegevens van de wind in Nederland, verzameld door het KNMI gedurende 30 jaren. Ter vergelijking: In de bestaande rekenmethoden voor industrielawaai en wegverkeersgeluid wordt van slechts één (meewind)situatie uitgegaan, waarbij een meteocorrectieterm wordt toegepast om te corrigeren voor variaties in de meteo. Deze rekenmethoden zijn grotendeels empirisch, en gebaseerd op een beperkte verzameling van meetresultaten. Door deze opzet kan met dit nieuwe model de geluidbelasting nauwkeuriger berekend worden. Met name is deze methode nauwkeuriger voor afstanden groter dan ca 1 km van de bron, waar de invloed van de meteo groter is dan voor kortere afstanden. Doordat gebruik gemaakt is van een statistisch meteorologisch model is de methode ook geschikt om de geluidbelasting te berekenen voor situaties waarbij het gebruik van een schietinrichting gekoppeld is aan bepaalde windrichtingen. Om de berekeningen zo efficiënt mogelijk uit te kunnen voeren wordt gebruik gemaakt van een vijftal gegevensbestanden, waaruit ‘onderdelen’ van de berekeningen kunnen worden gelezen. Deze ‘onderdelen’ hoeven dus niet telkens opnieuw berekend te worden. Zo is een groot gegevensbestand opgebouwd waarin overdrachtsfuncties zijn opgenomen voor verschillende meteorologische klassen als functie van de afstand tussen bron en rekenpunt, van de hoogte van beide punten, van het bodemtype en van de frequentie. Hierbij is gebruik gemaakt van een numeriek rekenmodel voor geluidvoortplanting in de atmosfeer, kortweg aangeduid met de PE-methode (PE staat voor ‘Parabolic Equation’). Met behulp van een statistisch meteorologisch model is een tweede gegevensbestand opgebouwd waaruit de weegfactoren kunnen worden gelezen die nodig zijn voor de bepaling van het bovengenoemde gewogen gemiddelde. Voor het geval dat het gebruik van de schietinrichting gekoppeld is aan de heersende windrichting wordt een aangepaste procedure gebruikt waarvoor twee extra gegevensbestanden zijn opgebouwd. Een vijfde gegevensbestand bevat geluidbronniveaus van voorkomende wapentypen. Voor wapens, die niet in dit gegevensbestand zijn opgenomen en waarvoor geen brongegevens beschikbaar zijn kan gebruik gemaakt worden van een categorie-indeling die beschreven is in TNO rapport: ‘Toelichting op toepassing van methoden voor meten en rekenen aan schietgeluid’ (TNO 2014 R10135). Bij voorkeur moeten de geluidbronniveaus door metingen worden bepaald. De meetmethoden voor vuurwapens zijn beschreven in het genoemde TNO rapport. De meetmethoden zijn gebaseerd op ISO 17201-1 Acoustics – Noise from shooting ranges – Part 1: ‘Sound source energy determination of muzzle blast’. Ook nieuw is de methode waarmee de geluidimmissie van kogelgeluid bepaald wordt. In principe wordt hierbij van dezelfde basisformule als bij mondings- en detonatiegeluid uitgegaan, met het kenmerkende verschil dat nu ook de bronniveaus rekentechnisch worden vastgesteld. Voor de modellering van de invloed van afschermende objecten, zoals bijvoorbeeld een geluidscherm, wordt eveneens een fysische benadering gevolgd, die duidelijk afwijkt van de empirische benadering in de rekenmethoden voor verkeersgeluid en industriegeluid. Ook hierbij wordt de schermwerking bepaald als gewogen gemiddelde over de 27 meteorologische klassen.
+
+### 5  
+
+####Uitgangspunten
+
+Het voorschrift is gericht op de bepaling van de hinder-relevante geluidbelasting voor woonsituaties in de omgeving van schietinrichtingen bijvoorbeeld in het kader van vergunningverlening, zonering of milieueffectrapportage. De met het voorschrift bepaalde geluidbelasting is de invallende geluidbelasting aan de gevel. Het voorschrift is niet ontwikkeld voor de beoordeling van geluid als kwaliteitskenmerk voor natuurgebieden. De beoordelingsmethode beschreven in hoofdstuk 3 van het voorschrift is van toepassing voor de berekening van geluidbelastingen met een ondergrens van 50 dB(A). Als er specifieke redenen zijn om een lagere ondergrens te kiezen, kunnen aanvullende berekeningen worden uitgevoerd die in bijlage A zijn beschreven. Met deze methode worden de impulstoeslag en toeslag voor extra laagfrequente componenten in het geluid bij de berekening van de geluidbelasting, slechts meegenomen voor zover het geluid waarneembaar is op het immissiepunt. Het voorschrift is geen leerboek, waarin de grondbeginselen van akoestiek of in het bijzonder van schietgeluid uiteen worden gezet. Wel zijn specifieke eigenschappen van schietgeluid besproken waar dit zich onderscheidt van andere vormen van geluid zodat berekeningsresultaten geïnterpreteerd kunnen worden. Vanwege het complexe karakter van schietgeluid kan alleen met specialistische methoden een voldoende betrouwbare berekening uitgevoerd worden. Dit houdt in dat deze methoden alleen door akoestische deskundigen kunnen worden toegepast. Bij de opstelling van dit voorschrift is daarom van dit kennisniveau uitgegaan. Het voorschrift wijkt niet onnodig af van internationaal gebruikelijke methoden. Met name geldt dit voor VDI-bladen, ISO-normen en DIN-normen. Verdere achtergrondinformatie en wetenschappelijke onderbouwing is te vinden in handboeken en in onderzoeksrapporten van TNO die bij het Ministerie van I&M aanwezig zijn.
+
+### 6  
+
+####Beoordelingsgrootheid
+
+De geluidbelasting door schietgeluid wordt bepaald uit een combinatie van A- en C-gewogen geluidexpositieniveaus voor een verzameling van 27 meteorologische klassen. Dit is een representatieve deelverzameling van de complexe verzameling van meteorologische situaties, die gedurende een (gemiddeld) jaar kunnen voorkomen. In hoofdstuk 4 wordt beschreven hoe deze geluidexpositieniveaus berekend worden. In hoofdstuk 3 is beschreven hoe hieruit de geluidbelasting *Bs* wordt bepaald, als hinder-relevante beoordelingsmaat voor schietgeluid (zie § 2.5). Door uit te gaan van een verzameling van meteorologische klassen kan met het schietgeluidmodel onder andere onderscheid gemaakt worden tussen de verschillen in geluidoverdracht gedurende de meteorologische dag en nacht en is het schietgeluidmodel ook toepasbaar in situaties waarin het gebruik van schietinrichtingen gerelateerd is aan de windrichting. Bij de bepaling van de geluidbelasting wordt bovendien het effect van de asymmetrische windroos in rekening gebracht. Het schietgeluidmodel onderscheidt zich hierin van de bestaande rekenmodellen voor het geluid van weg- en railverkeer en de industrie waarbij de invloed van de meteorologie op de geluidoverdracht minder expliciet in rekening wordt gebracht. Voor de beoordeling van schietgeluid wordt de dag-avond-nachtwaarde (B<sub>s,dan</sub>) gebruikt, die bepaald wordt als een gewogen gemiddelde van de B<sub>s</sub> waarden voor de verschillende juridische beoordelingsperioden (*B<sub>s,dag</sub> *, *B<sub>s,avond</sub> *, *B<sub>s,nacht</sub> *). Net als in de beoordelingsprocedures voor wegverkeers- en industriegeluid wordt voor de avond- en nachtperiode een extra toeslag van 5 en 10 dB gehanteerd. In de formules voor de berekening van de geluidbelasting zijn deze toeslagen reeds verwerkt. Daarnaast wordt voor de dagperiode van de zondag een extra toeslag van 5 dB gehanteerd om de extra hinder van schieten op zondag te verdisconteren. Zodoende wordt de dagperiode van de zondag behandeld als ware het een avondperiode. Deze toeslag is op een eenvoudige manier in de formule verwerkt door in de berekening het aantal schoten op zondag voor de dagperiode zwaarder mee te tellen. Een feestdag wordt hierbij ook als een zondag beschouwd.
+
+### Bijlage  10  
+Treedt in werking op een nader te bepalen tijdstip 
+
+####Overzicht erkende maatregelen energiebesparing per bedrijfstak
+
+In deze bijlage zijn per bedrijfstak de erkende maatregelen voor energiebesparing weergegeven. Ook zijn per bedrijfstak beschrijvingen opgesteld om duidelijkheid te geven aan drijvers van inrichtingen welke lijst met erkende maatregelen toepasbaar is voor een inrichting. Een drijver van een inrichting waarvan het desondanks onduidelijk welke lijst toepasbaar is, kan overleggen met het bevoegd gezag om gezamenlijk te bepalen of er een passende lijst is. Indien dit overleg niet leidt tot overeenstemming geldt de algemene verplichting in artikel 2.15, eerste lid, van het Activiteitenbesluit. De erkende maatregelen zijn na overleg met vertegenwoordigers (en deskundigen) van het bedrijfsleven en het bevoegd gezag opgesteld. De nu aangewezen erkende maatregelen zijn bruikbaar voor een zevental bedrijfstakken. Deze bijlage wordt later aangevuld met nieuwe bedrijfstakken en bijhorende maatregelen, zodat in principe voor alle bedrijfstakken concrete erkende maatregelen beschikbaar zijn. Daarnaast wordt de bijlage regelmatig, in beginsel jaarlijks, geactualiseerd. Voor de volgende bedrijfstakken zijn erkende maatregelen voor energiebesparing aangewezen: 
+
+1. kantoren  
+
+2. gezondheids- en welzijnszorginstellingen  
+
+3. onderwijsinstellingen  
+
+4. metalelektro en mkb-metaal  
+
+5. autoschadeherstelbedrijven  
+
+6. rubber- en kunststofindustrie  
+
+7. commerciële datacentra.   De erkende maatregelen zijn meestal gekoppeld aan de activiteiten overeenkomstig de indeling van het Activiteitenbesluit (hoofdstuk 3 en 4). Voor gebouwgebonden maatregelen (met uitzondering van ruimteverwarming via een stookinstallatie) en enkele bedrijfstakspecifieke maatregelen zijn geen geschikte (bestaande) activiteiten in het Activiteitenbesluit genoemd. Daarom zijn naast het koppelen aan activiteiten ook maatregelen gekoppeld aan de hierna genoemde‘typen maatregelen’. Het gaat om maatregelen met betrekking tot: 
+
+– gebouwschil (zoals spouwmuurisolatie)  
+
+– ruimteventilatie;  
+
+– ruimteverwarming;  
+
+– ruimteverlichting  
+
+– buitenverlichting;  
+
+– warm tapwater;  
+
+– faciliteiten (zoals een persluchtcompressor, koelinstallatie of serverruimte);  
+
+– processen (zoals gieten of harden).   De terugverdientijd van een zelfde besparingsmaatregel, zoals een HR-ketel, kan per bedrijfstak verschillen door bedrijfstakspecifieke kenmerken (aan het gebouw, de installaties en processen). Daarom is het nodig om per bedrijfstak aparte overzichten met erkende maatregelen te hanteren. Bepaalde maatregelen kunnen wel of juist niet als erkende maatregel worden beschouwd puur op basis van een terugverdientijd. Tevens wordt op een aantal punten aangesloten bij de bij de eisen die de technische bouwregelgeving stelt aan de energiezuinigheid, zoals het energielabel en de energieprestatiecoëfficient (EPC) uit het Besluit energieprestatiegebouwen. Hierna wordt per bedrijfstak een overzicht gegeven van de aangewezen erkende maatregelen voor energiebesparing. 
+
+####Maatregelen per bedrijfstak
+
+In de volgende paragrafen zijn de erkende maatregelen beschreven voor de bovengenoemde bedrijfstakken. Per maatregel is informatie gegeven over de volgende aspecten: 
+
+– omschrijving activiteit of type maatregelen;  
+
+– omschrijving van de maatregel;  
+
+– mogelijke technieken ten opzichte van uitgangssituatie;  
+
+– uitgangssituatie op basis van een referentietechniek;  
+
+– technische randvoorwaarden;  
+
+– economische randvoorwaarden;  
+
+– toepasbaar op een zelfstandig moment of natuurlijk moment?;  
+
+– alternatieve erkende maatregelen;  
+
+– bijzondere omstandigheden.   In een handreiking, opgesteld in overleg tussen bedrijfsleven en bevoegd gezag, wordt ingegaan op de werking van de methodiek van erkende maatregelen waaronder de verschillende aspecten per maatregel. 
+
+### 1  
+
+####Metalelektro en mkb-metaal
+
+Bedrijven waar metalen in primaire vorm en/of metaalproducten inclusief machines en apparaten (ook elektrische en elektronische) worden vervaardigd. Denk aan giet-, wals-, smelt- of smeedprocessen, evenals (spaanloze, verspanende en thermische) mechanische bewerking en/of eindbewerking van metalen. Oppervlaktebehandeling (via procesbaden, stralen of coaten) en het verbinden van metalen of legeringen (zoals lassen en solderen) zijn ook kenmerkend. Ter indicatie een aantal SBI-codes die voor de indeling van deze bedrijven veelal worden gebruikt: 24, 25, 26, 27, 28, 29, 30 en 32. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.1 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine) die met name in kantoorgebouwen plaatsvinden zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium kunnen hiervoor alsnog erkende maatregelen worden opgenomen. 
+
+####Maatregelen
+
+Tabel 5.1 Aangewezen erkende maatregelen voor energiebesparing in de Metalelektro en mkb-metaal 
+
+| Type maatregel  | Nummers*)  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteverwarming  | 5-8  |
+| Ruimte- en buitenverlichting  | 10-17  |
+| Faciliteiten  | 18, 20-22  |
+| Processen  | 19  |
+|  *Activiteit*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 2-4,9  |
+| In werking hebben van een koelinstallatie  | 23  |
+| Reinigen, lijmen of coaten van metalen  | 24,25,32  |
+| Aanbrengen anorganische deklagen op metalen  Beitsen of etsen van metalen  Elektrolytisch of stroomloos aanbrengen van metaallagen op metalen  Aanbrengen van conversielagen op metalen  Thermisch aanbrengen van metaallagen op metalen  | 26-29  |
+| Drogen van metalen  | 30,31  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  |
+| a) Kantoor wordt verwarmd.  | b) Kantoor wordt verwarmd en gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [2] Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  [3] Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep met hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | Weersafhankelijke regeling toepassen op groep indien dit op ketel onmogelijk is i.v.m. warmtapwatervoorziening.  |
+|  *Economische randvoorwaarden*   | Meerdere verblijfsruimte met totaal bruto vloeroppervlakte van minimaal 150 m<sup>2</sup> met verschillende warmtebehoefte.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [1] Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  [3] Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | a) N.v.t.  | b) Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup> per jaar.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [1] Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  [2] Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig aanstaan van ruimteverwarming buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tijdschakelaar of tijdschakelaar met weekschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmte in hoge hal actief verdelen naar werkplekken met warmtevraag om verwarming met aardgas te beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Ondersteuningsventilator toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Voorziening voor luchtcirculatie ontbreekt.  |
+|  *Technische randvoorwaarden*   | Geen vervuilende gassen (zoals las- of lijmdampen) aanwezig.  Kraanbaan en ondersteuningsventilator hinderen elkaar niet.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Temperatuur boven in hal is minimaal 4°C hoger dan temperatuur op werkniveau.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [9] Bedrijfshal: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmteverlies via warmwaterleidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om leidingen en appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Als fabrikant voorschrijft dat vocht en warmte weg moet kunnen i.v.m. garantie, dan hier rekening mee houden bij keuze isolatiemateriaal.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd van installatie behorende bij leidingen en appendages is minimaal 1.250 uur per jaar (ter indicatie: een standaard stookseizoen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Debiet cv-pomp automatisch regelen op basis van warmtebehoefte.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Cv-pomp met frequentieregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Toeren- of frequentieregeling op cv-pomp ontbreekt.  |
+|  *Technische randvoorwaarden*   | Bij meerdere parallel geschakelde pompen uitvoeren bij (minimaal) één pomp.  Variërend debiet is mogelijk in combinatie met warmteopwekking en -afgiftesysteem.  |
+|  *Economische randvoorwaarden*   | Geen aanpassingen aan driewegkleppen en regelsysteem nodig.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Temperatuur per ruimte naregelen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Thermostatische radiatorkranen of ruimtethermostaten toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Individuele naregeling per ruimte ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [9] Bedrijfshal: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Hoogrendementsketel HR100, HR104 of HR107 toepassen.  | b) Hoogrendements- (HR-) luchtverhitter toepassen.  | c) Gasgestookte donkere straler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Conventionele luchtverhitter is aanwezig.  | c) Conventionele luchtverhitter is aanwezig.  |
+|  *Technische randvoorwaarden*   | a en b) Condensafvoer eenvoudig realiseerbaar.  | c) Rookgasafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [7] Bedrijfshal: Debiet cv-pomp automatisch regelen op basis van warmtebehoefte.  [8] Bedrijfshal: Temperatuur per ruimte naregelen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Kantoor: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per veegschakeling is minimaal 18 kW.  Per veegschakeling zijn maximaal 12 aanpassingen nodig om te voorkomen dat apparatuur onbedoeld wordt uitgeschakeld.  Verlichting kan minimaal 1 uur per dag extra uitgeschakeld worden.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Kantoor: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Armaturen met langwerpige fluorescentielampen (TL5) toepassen.  | b) Armaturen met led-lampen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal branduren is minimaal 2.500 uur per jaar.  |
+| --- | b) Geïnstalleerd vermogen van verlichting neemt door toepassen van led-lampen minimaal 50% af bij voldoende lichtopbrengst.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per (deel van de) ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per veegschakeling is minimaal 18 kW.  Per veegschakeling zijn maximaal 12 aanpassingen nodig om te voorkomen dat apparatuur onbedoeld wordt uitgeschakeld.  Verlichting kan minimaal 1 uur per dag extra uitgeschakeld worden.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Binnenverlichting automatisch verminderen op basis van daglichttoetreding door ramen en daklichten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Daglichtafhankelijke regeling voor dimmen van verlichting toepassen.  | b) Daglichtafhankelijke schakeling voor schakelen van verlichting toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Daglichtafhankelijke schakeling of -regeling ontbreekt.  |
+| a) Hoogfrequente (HF) armaturen met langwerpige fluorescentielampen (TL) (niet retrofit) zijn aanwezig.  | b) Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar langs ramen en/of onder daglichtopeningen.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,7 kW.  Daglichtoppervlak in dak is minimaal 10% van dakoppervlak of daglichtoppervlak in gevel is minimaal 30% van vloeroppervlak.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Aanwezigheidschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Aanwezigheidschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar per (deel van de) ruimte.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,42 kW.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Vermogen conventionele verlichting met langwerpige fluorescentielampen (TL) verlagen door spanningsverlaging.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spanningsverlagingstoestel toepassen dat spanning verlaagt naar 207 tot 210 Volt.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Spanningsverlagingstoestel ontbreekt.  |
+|  *Technische randvoorwaarden*   | Aparte verlichtingsgroep is aanwezig.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 11,5 kW.  Aantal branduren is minimaal 2.500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [12] Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  [14] Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 16  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Armaturen met langwerpige fluorescentielampen (TL5) toepassen.  | b) Armaturen met led-lampen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal branduren is minimaal 2.500 uur per jaar.  |
+| --- | b) Geïnstalleerd vermogen van verlichting neemt door toepassen van led-lampen minimaal 50% af bij voldoende lichtopbrengst.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [12] Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  [13] Bedrijfshal: Binnenverlichting automatisch verminderen op basis van daglichttoetreding door ramen en daklichten.  [14] Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Bijzondere Omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 17  |
+|  *Omschrijving maatregel*   | Onnodig branden van reclame- en overige buitenverlichting voorkomen zodat verlichting alleen brandt als het donker is en per nacht minimaal 6 uur uit is.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Schemerschakelaar en tijdschakelklok toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Schemerschakelaar en/of tijdschakelaar ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 18  |
+|  *Omschrijving maatregel*   | Energiezuinige motor toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | IE2-motor met frequentieregeling of IE3-motor toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Motor met vermogen meer dan 7,5 kW en minder dan 375 kW en met rendementsklasse IE1, IE2 (zonder frequentieregeling) of lager is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Processen  |
+|:---|:---|
+|  *Nummer maatregel*   | 19  |
+|  *Omschrijving maatregel*   | Energiezuinige branderpijpen bij doorloopgloeioven toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendements- (HR-) branderpijpen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele branderpijpen zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Vermogen brander is minimaal 30 kW.  Bedrijfstijd brander is meer dan 1.750 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 20  |
+|  *Omschrijving maatregel*   | Nullasturen persluchtcompressor beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Persluchtcompressor met frequentie- of toerenregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Vollast/nullast- of vollast/nullast/uitschakeling is aanwezig.  |
+|  *Technische randvoorwaarden*   | Bij meerdere compressoren uitvoeren bij leidende compressor en rest op basis van aan/uitschakeling.  |
+|  *Economische randvoorwaarden*   | Aantal nullasturen is minimaal 1.100 uur per jaar (ter indicatie: 4 uur per werkdag).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 21  |
+|  *Omschrijving maatregel*   | Energiezuinig perslucht maken door koude lucht te gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Koude buitenlucht gebruiken.  | b) Binnenlucht uit onverwarmde ruimte gebruiken.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Compressor zuigt door zichzelf opgewarmde warme lucht of warme proceslucht aan.  |
+|  *Technische randvoorwaarden*   | a) Opening in gevel is mogelijk binnen een afstand van 3 meter.  | b) N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen compressor (in kW) vermenigvuldigd met aantal equivalenten van vollasturen (in uur per jaar) is minimaal 50.000 (kWh per jaar).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 22  |
+|  *Omschrijving maatregel*   | Warmte van persluchtcompressoren nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Warmte van luchtgekoelde compressor gebruiken voor ruimteverwarming.  | b) Warmte van watergekoelde compressor gebruiken voor lagetemperatuurverwarming, verwarming van tapwater of badenverwarming.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmte van compressor wordt naar buiten afgevoerd.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+| a) Aantal equivalenten van vollasturen is minimaal 1.400 uur per stookseizoen (ter indicatie: 10 uur per werkdag in stookseizoen).  Afstand tot te verwarmen ruimte is minder dan 3 meter.  | b) Vermogen compressor (in kW) vermenigvuldigd met aantal equivalenten van vollasturen (in uur per jaar) is minimaal 40.000 (kWh per jaar).  Warmtebehoefte per jaar komt overeen met minimaal 300 m<sup>3</sup> warmtapwater van 60°C.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [20] Nullasturen persluchtcompressor beperken.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 23  |
+|  *Omschrijving maatregel*   | Debiet koelwaterpompen voor ovenwandkoeling van kroesoven automatisch regelen op basis van koudebehoefte.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Frequentieregeling op koelwaterpompen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Parallel systeem met twee frequentieregelaars is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen koelwaterpomp (in kW) vermenigvuldigd met aantal equivalenten van vollasturen (in uur per jaar) dat pomp is uit te schakelen is minimaal 25.000 (kWh per jaar).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 24  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van werpstralers (werpwielen, straalmiddeltransport, rollenbaan en afzuiging) tijdens productie-onderbreking voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Bewegingsmelder op transportbaan (signaal aandrijfmotor) of loadcell aan straaljuk toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Bewegingsmelder en loadcell ontbreken.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen motor werpstraler is minimaal 20 kW.  Takttijd is meer dan 25% van bedrijfstijd van werpstralers (ter indicatie: bij bedrijfstijd van 2.500 uur per jaar is takttijd minimaal 625 uur per jaar).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 25  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van ventilatie van handspuitcabine of handspuitwand voor poedercoaten voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Automatische schakeling (verbreekcontact) van afzuiging toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische schakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Cabine kan op onderdruk blijven.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Ventilatiedebiet (in m<sup>3</sup> per uur) vermenigvuldigd met tijd (in uur per jaar) dat pomp is uit te schakelen is minimaal 600.000 (m<sup>3</sup> per jaar).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Aanbrengen anorganische deklagen op metalen  Beitsen of etsen van metalen  Elektrolytisch of stroomloos aanbrengen van metaallagen op metalen  Aanbrengen van conversielagen op metalen  Thermisch aanbrengen van metaallagen op metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 26  |
+|  *Omschrijving maatregel*   | Warmteverlies via distributieleidingen van procesbad beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om distributieleidingen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leiding ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Aansluitvermogen verwarming procesbad (in kW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 100.000 (kW<sub>thermisch</sub>h per jaar).  Temperatuur distributieleiding is meer dan 40<sup>o</sup>C.  Lengte ongeïsoleerde distributieleiding is meer dan 4 meter.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [27] Warmteverlies via badoppervlak van procesbad beperken  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Aanbrengen anorganische deklagen op metalen  Beitsen of etsen van metalen  Elektrolytisch of stroomloos aanbrengen van metaallagen op metalen  Aanbrengen van conversielagen op metalen  Thermisch aanbrengen van metaallagen op metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 27  |
+|  *Omschrijving maatregel*   | Warmteverlies via badoppervlak van procesbad beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolerende drijflichamen van inert materiaal toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolerende voorziening ontbreekt.  |
+|  *Technische randvoorwaarden*   | Contact drijflichaam en product is toegestaan.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Vermogen procesbad (in kW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 24.000 (kWh per jaar).Temperatuur procesbad is tussen 70 en 100<sup>o</sup>C.  Oppervlakte van procesbad is meer dan 2 m<sup>2</sup>.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Aanbrengen anorganische deklagen op metalen  Beitsen of etsen van metalen  Elektrolytisch of stroomloos aanbrengen van metaallagen op metalen  Aanbrengen van conversielagen op metalen  Thermisch aanbrengen van metaallagen op metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 28  |
+|  *Omschrijving maatregel*   | Pomp voor badagitatie toepassen in procesbad.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Beluchtingspomp toepassen.  | b) Dompelpomp toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Perslucht wordt gebruikt voor badagitatie.  |
+|  *Technische randvoorwaarden*   | Blowerlucht dient schoon te zijn, zodat kwaliteit niet wordt beïnvloed.  |
+|  *Economische randvoorwaarden*   | Debiet perslucht (in m<sup>3</sup> per uur) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 3.000 (m<sup>3</sup> per jaar).  Persluchtdruk is meer dan 2 bar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Aanbrengen anorganische deklagen op metalen  Beitsen of etsen van metalen  Elektrolytisch of stroomloos aanbrengen van metaallagen op metalen  Aanbrengen van conversielagen op metalen  Thermisch aanbrengen van metaallagen op metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 29  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking van procesbad toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Hoogrendementsketel HR107 met warmtewisselaar (voor procesbad) toepassen.  | b) Hoogrendementsketel HR100, HR104 of HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Elektrische warmteopwekking is aanwezig.  | b) Conventioneelrendements- (CR-) ketel is aanwezig voor bad met retourtemperatuur lager dan 55°C.  |
+|  *Technische randvoorwaarden*   | a) Aansluitmogelijkheid voor cv-ketel(s) met voldoende capaciteit.  Aansluiting aardgas, rookgasafvoer en condensafvoer zijn eenvoudig realiseerbaar.  Bad geschikt voor ombouw (warmtewisselaar in bad of plaats voor externe warmtewisselaar met pomp).  | b) Condensafvoer is eenvoudig realiseerbaar.  |
+|  *Economische randvoorwaarden*   | a) Vermogen elektrische warmteopwekking (in kW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 100.000 (kWh per jaar).  | b) Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [27] Warmteverlies via badoppervlak van procesbad beperken.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Drogen van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 30  |
+|  *Omschrijving maatregel*   | Warmte uit uitgaande drogerlucht gebruiken voor voorverwarmen ingaande drogerlucht.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Platenwarmtewisselaar (met rendement van minimaal 65%) toepassen.  | b) Twincoilsysteem (met rendement van minimaal 65%) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt voor uitgaande drogerlucht bij droger met centrale luchttoevoer- en afvoer nabij elkaar.  |
+|  *Technische randvoorwaarden*   | Luchttoevoer en luchtafvoer liggen nabij elkaar en worden niet door bouwkundige elementen gescheiden.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Debiet drooglucht (in m<sup>3</sup> per uur) vermenigvuldigd met bedrijfstijd (in uur per jaar) is meer dan 12 miljoen (m<sup>3</sup> per jaar).  Temperatuurverschil tussen ingaande en uitgaande drogerlucht is minimaal 85°C.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Drogen van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 31  |
+|  *Omschrijving maatregel*   | Energiezuinige voorverwarming van metalen bij moffelovens toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Infrarood voorverwarming toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Voorverwarmen met warme lucht.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd moffeloven is meer dan 3.300 uur per jaar.  Temperatuur moffeloven is meer dan 220°C.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 32  |
+|  *Omschrijving maatregel*   | Vollasturen ventilatoren van moffeloven beperken door automatisch regelen op basis van bezettingsgraad.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Toerenregeling met bezettingsgraaddetectie toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Toerenregeling of bezettingsgraaddetectie ontbreekt op doorloopoven.  | b) Toerenregeling of bezettingsgraaddetectie ontbreekt op batchoven.  |
+|  *Technische randvoorwaarden*   | Toerenregeling dusdanig instellen dat er geen doorverwarming van elektromotor mogelijk is.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd moffeloven is meer dan 2.500 uur per jaar.  |
+| a) Vermogen ventilator is meer dan 8 kW.  Ovenbezetting is meer dan 25% en oven is meer dan 75% van bedrijfstijd niet maximaal bezet (ter indicatie: bij bedrijfstijd van 2.500 uur per jaar is dat 1.900 uur per jaar).  | b) Vermogen ventilator is meer dan 12 kW.  Ovenbezetting is meer dan 50%.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+####Autoschadeherstelbedrijven
+
+Bedrijven waar overwegend onderdelen van motorvoertuigen (inclusief carrosserieherstel), motorfietsen, caravans/campers en aanhangwagens worden hersteld. Denk aan (spaanloze, verspanende en thermische) mechanische bewerking en/of eindbewerking van metalen. Oppervlaktebehandeling via coatprocessen en het verbinden van metalen of legeringen (zoals lassen en solderen) zijn ook kenmerkend. Ter indicatie hierbij een aantal SBI-codes die voor de indeling van deze bedrijven veelal wordt gebruikt: 45204, 45112, 45191, 45192, 45203, 45205. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.2 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine) die met name in kantoorgebouwen plaatsvinden zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium kunnen hiervoor alsnog erkende maatregelen worden opgenomen. 
+
+####Maatregelen
+
+Tabel 5.2 Aangewezen erkende maatregelen voor energiebesparing bij de autoschadeherstelbedrijven 
+
+| Type maatregelen  | nummers  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteverwarming  | 2, 5-8  |
+| Ruimte- en buitenverlichting  | 10-17  |
+| Faciliteiten  | 19-23  |
+|  *Activiteit*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 3,4,9  |
+| Reinigen, lijmen of coaten van metalen  | 24-26  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  |
+| a) Kantoor wordt verwarmd.  | b) Kantoor wordt verwarmd en gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [2] Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  [3] Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep mett hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | Weersafhankelijke regeling toepassen op groep indien dit op ketel onmogelijk is i.v.m. warmtapwatervoorziening.  |
+|  *Economische randvoorwaarden*   | Meerdere verblijfsruimte met totaal bruto vloeroppervlakte van minimaal 150 m<sup>2</sup> met verschillende warmtebehoefte.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [1] Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  [3] Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | a) N.v.t.  | b) Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup> per jaar.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [1] Kantoor: Warmte- en koudeverlies via buitenmuur beperken.  [2] Kantoor: Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig aanstaan van ruimteverwarming buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tijdschakelaar of tijdschakelaar met weekschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmte in hoge hal actief verdelen naar werkplekken met warmtevraag om verwarming met aardgas te beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Ondersteuningsventilator toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Voorziening voor luchtcirculatie ontbreekt.  |
+|  *Technische randvoorwaarden*   | Geen vervuilende gassen (zoals las- of lijmdampen) aanwezig.  Kraanbaan en ondersteuningsventilator hinderen elkaar niet.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Temperatuur boven in hal is minimaal 4°C hoger dan temperatuur op werkniveau.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [9c] Bedrijfshal: Energiezuinige warmteopwekking toepassen: Gasgestookte donkere stralers toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmteverlies via warmwaterleidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om leidingen en appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Als fabrikant voorschrijft dat vocht of warmte weg moet kunnen i.v.m. garantie, dan hier rekening mee houden bij keuze isolatiemateriaal.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd van installatie behorende bij leidingen en appendages is minimaal 1.250 uur per jaar (ter indicatie: een standaard stookseizoen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Debiet cv-pomp automatisch regelen op basis van warmtebehoefte.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Cv-pomp met frequentieregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Toeren- of frequentieregeling op cv-pomp ontbreekt.  |
+|  *Technische randvoorwaarden*   | Bij meerdere parallel geschakelde pompen uitvoeren bij (minimaal) één pomp.  Variërend debiet is mogelijk in combinatie met warmteopwekking en -afgiftesysteem.  |
+|  *Economische randvoorwaarden*   | Geen aanpassingen aan driewegkleppen en regelsysteem nodig.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Temperatuur per ruimte naregelen  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Thermostatische radiatorkranen of ruimtethermostaten toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Individuele naregeling per ruimte ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [9] Bedrijfshal: Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Hoogrendementsketel HR100, HR104 of HR107 toepassen.  | b) Hoogrendements- (HR-) luchtverhitter toepassen.  | c) Gasgestookte donkere straler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Conventionele luchtverhitter is aanwezig.  | c) Conventionele luchtverhitter is aanwezig.  |
+|  *Technische randvoorwaarden*   | a) en b) Condensafvoer is eenvoudig realiseerbaar.  | c) Rookgasafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [8] Bedrijfshal: Temperatuur per ruimte naregelen.  [7] Bedrijfshal: Debiet cv-pomp automatisch regelen op basis van warmtebehoefte.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Kantoor: Onnodig binnenbranden van verlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per veegschakeling is minimaal 18 kW.  Per veegschakeling zijn maximaal 12 aanpassingen nodig om te voorkomen dat apparatuur onbedoeld wordt uitgeschakeld.  Verlichting kan minimaal 1 uur per dag extra uitgeschakeld worden.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Kantoor: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Armaturen met langwerpige fluorescentielampen (TL5) toepassen.  | b) Armaturen met led-lampen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | N.v.t.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal branduren is minimaal 2.500 uur per jaar.  |
+| --- | b) Geïnstalleerd vermogen van verlichting neemt door toepassen van led-lampen minimaal 50% af bij voldoende lichtopbrengst.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per (deel van de) ruimte.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per veegschakeling is minimaal 18 kW.  Per veegschakeling zijn maximaal 12 aanpassingen nodig om te voorkomen dat apparatuur onbedoeld wordt uitgeschakeld.  Verlichting kan minimaal 1 uur per dag extra uitgeschakeld worden.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Binnenverlichting automatisch verminderen op basis van daglichttoetreding door ramen en daklichten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Daglichtafhankelijke regeling voor dimmen van verlichting toepassen.  | b) Daglichtafhankelijke schakeling voor schakelen van verlichting toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Daglichtafhankelijke schakeling of regeling ontbreekt.  |
+| a) Hoogfrequente (HF) armaturen met langwerpige fluorescentielampen (TL) (niet retrofit) zijn aanwezig.  | b) Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar langs ramen en/of onder daglichtopeningen.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,7 kW.  Daglichtoppervlak in dak is minimaal 10% van dakoppervlak of daglichtoppervlak in gevel is minimaal 30% van vloeroppervlak.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Aanwezigheidschakeling toepassen  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Aanwezigheidschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar per (deel van de) ruimte.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,42 kW.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Vermogen conventionele verlichting met langwerpige fluorescentielampen (TL) verlagen door spanningsverlaging.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spanningsverlagingstoestel toepassen dat spanning verlaagt naar 207 tot 210 Volt.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Spanningsverlagingstoestel ontbreekt.  |
+|  *Technische randvoorwaarden*   | Aparte verlichtingsgroep is aanwezig.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 11,5 kW.  Aantal branduren is minimaal 2.500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [12] Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  [14] Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+|  *Type maatregel*   | Ruimte- en buitenverlichting  |
+|  *Nummer maatregel*   | 16  |
+|  *Omschrijving maatregel*   | Onnodig branden van hefbrugverlichting voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Schakelaar toepassen die verlichting automatisch uitschakelt zodra hefbrug in laagste stand staat.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische schakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Hefbrugverlichting is apart schakelbaar.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen is minimaal 0,22 kW.  Hefbrugverlichting is minimaal 750 uur per jaar onnodig aan (ter indicatie: 3 uur per werkdag).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 17  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Armaturen met langwerpige fluorescentielampen (TL5) toepassen.  | b) Armaturen met led-lampen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal branduren is minimaal 2.500 uur per jaar.  |
+| --- | b) Geïnstalleerd vermogen van verlichting neemt door toepassen van led-lampen minimaal 50% af bij voldoende lichtopbrengst.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [12] Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  [13] Bedrijfshal: Binnenverlichting automatisch verminderen op basis van daglichttoetreding door ramen en daklichten.  [14] Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 18  |
+|  *Omschrijving maatregel*   | Onnodig branden van reclame- en overige buitenverlichting voorkomen zodat verlichting alleen brandt als het donker is en per nacht minimaal 6 uur uit is.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Schemerschakelaar en tijdschakelklok toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Schemerschakelaar en/of tijdschakelaar ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 19  |
+|  *Omschrijving maatregel*   | Energiezuinige motor toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | IE2-motor met frequentieregeling of IE3-motor toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Motor met vermogen meer dan 7,5 kW en minder dan 375 kW en met rendementsklasse IE1, IE2 (zonder frequentieregeling) of lager is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 20  |
+|  *Omschrijving maatregel*   | Nullasturen persluchtcompressor beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Persluchtcompressor met frequentie- of toerenregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Compressor heeft vollast/nullast- of vollast/nullast/uitschakeling.  |
+|  *Technische randvoorwaarden*   | Bij meerdere compressoren uitvoeren bij leidende compressor en rest op basis van aan/uitschakeling.  |
+|  *Economische randvoorwaarden*   | Aantal nullasturen is minimaal 1.100 uur per jaar (ter indicatie: 4 uur per werkdag).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 21  |
+|  *Omschrijving maatregel*   | Energiezuinig perslucht maken door koude lucht te gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Koude buitenlucht gebruiken.  | b) Binnenlucht uit onverwarmde ruimte gebruiken.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Compressor zuigt door zichzelf opgewarmde warme lucht of warme proceslucht aan.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | a) Opening in gevel is mogelijk binnen een afstand van 3 meter.  | b) N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Vermogen van compressor (in kW) vermenigvuldigd met aantal equivalenten van vollasturen per jaar (in uur per jaar) is minimaal 50.000 (kWh per jaar).  |
+|  *Alternatieve erkende maatregelen*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Energiefunctie  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 22  |
+|  *Omschrijving maatregel*   | Warmte van persluchtcompressoren nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Warmte gebruiken voor ruimteverwarming.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmte van compressor wordt naar buiten afgevoerd.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal equivalenten van vollasturen is minimaal 1.400 uur per stookseizoen (ter indicatie: 10 uur per werkdag in stookseizoen).  Afstand tot te verwarmen ruimte is minder dan 3 meter.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [20] Nullasturen persluchtcompressor beperken.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 23  |
+|  *Omschrijving maatregel*   | Debiet centrale stofafzuiging beperken door lager toerental van ventilatoren.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Toerenregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Toerenregeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen van centrale stofafzuiger (in kW) vermenigvuldigd met aantal uren (in uur per jaar) dat afzuiginstallatie niet vol belast is, is minimaal 4.000 (kWh per jaar).  |
+| --- | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 24  |
+|  *Omschrijving maatregel*   | Energieverbruik van spuitcabine beperken door automatisch over te schakelen van ventilatiestand naar circulatiestand.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Automatische omschakeling op basis van persluchtafname toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatisch omschakelmodule op basis van persluchtverbruik ontbreekt.  |
+|  *Technische randvoorwaarden*   | Voldoende afvoer van vervuilde lucht alvorens over schakelen naar circulatiestand.  |
+|  *Economische randvoorwaarden*   | Debiet tijdens ventilatie (in m<sup>3</sup> per uur) vermenigvuldigd met tijd (in uur per jaar) dat gecirculeerd i.p.v. geventileerd kan worden is minimaal 1,2 miljoen (m<sup>3</sup> per jaar).  Temperatuurverschil tussen ingaande en uitgaande ventilatielucht is minimaal 20°C.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [26] Energiezuinig droogsysteem toepassen voor spotreparaties.  |
+|  *Bijzondere omstandigheden*   | n.v.t.  |
+
+| Activiteiten  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 25  |
+|  *Omschrijving maatregel*   | Energiezuinig brandersysteem bij spuitcabine toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Open brandersysteem toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventioneel brandersysteem is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Aardgasverbruik spuitcabine (in m<sup>3</sup> per uur) vermenigvuldigd met bedrijfstijd spuitcabine (in uur per jaar) is minimaal 13.500 (m<sup>3</sup> per jaar).  Verschil tussen ruimte- en droogtemperatuur is minimaal 20°C.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [26] Energiezuinig droogsysteem toepassen voor spotreparaties.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Reinigen, lijmen of coaten van metalen  |
+|:---|:---|
+|  *Nummer maatregel*   | 26  |
+|  *Omschrijving maatregel*   | Energiezuinig droogsysteem toepassen voor spotreparaties.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Infrarood droogsysteem (IR-A) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Spuitcabine wordt gebruikt voor spotreparaties.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Aardgasverbruik spuitcabine (in m<sup>3</sup> per uur) vermenigvuldigd met bedrijfstijd spuitcabine (in uur per jaar) is minimaal 16.000 (m<sup>3</sup> per jaar).  Minimaal 50% van uitgevoerde reparaties zijn spotreparaties.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+####Gezondheidszorg- en welzijnszorginstellingen
+
+Instellingen waar medische en tandheelkundige behandeling, verzorging, verpleging en/of genezende behandelingen worden verricht. De inrichting heeft overwegend een gezondheidszorgfunctie zoals aangehaald in het Bouwbesluit 2012. Denk aan een ziekenhuis, verzorgingstehuis, psychiatrische inrichting, medisch centrum, polikliniek, praktijkruimtes voor een huisarts en/of een fysiotherapeut of een tandartspraktijk. Ter indicatie de SBI-code die voor de indeling van instellingen veelal wordt gebruikt: 86. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.3 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine) en processen zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium worden hiervoor alsnog erkende maatregelen opgenomen. 
+
+####Maatregelen
+
+Tabel 5.3 Aangewezen erkende maatregelen voor energiebesparing in de gezondheidszorg- en welzijnszorginstellingen 
+
+| Type maatregelen  | nummers  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteventilatie  | 2-5  |
+| Ruimteverwarming  | 8  |
+| Ruimte- en buitenverlichting  | 10-15  |
+|  *Activiteit*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 6, 7, 9, 16  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  |
+| a) Gebouw wordt verwarmd.  | b) Gebouw wordt gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | a) N.v.t.  | b) Aardgasverbruik is minder dan 1 miljoen m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup> per jaar.  Natuurlijk Moment: Ja  |
+|  *Alternatieve erkende maatregelen*   | [5] Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  [9] Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Vollasturen ventilatoren beperken door lager toerental van ventilatoren bij lager ventilatiedebiet  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tweetoerenmotor toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele wisselstroommotor zonder frequentieregeling is aanwezig.  |
+|  *Technische randvoorwaarden*   | Lager toerental is geen probleem voor luchtkwaliteit.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is meer dan 1 miljoen m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *3*   | 3  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van ventilatie buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tijdschakelaar met weekschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitregeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Niet toepasbaar in ruimten waar volcontinu gewerkt wordt.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Vollasturen ventilatoren beperken door afschakelen van ventilatoren bij lager ventilatiedebiet.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Cascaderegeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Cascaderegeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Bruto vloeroppervlak is meer dan 300 m<sup>2</sup>.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Twincoilsysteem toepassen  | b) Warmtewiel toepassen.  | c) Tegenstroom warmtewisselaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt in luchtbehandelingskast (LBK).  |
+|  *Technische randvoorwaarden*   | Luchttoevoer en luchtafvoer liggen nabij elkaar en worden niet door bouwkundige elementen gescheiden.  |
+| --- | B en c) Eventuele luchtlekkage is geen probleem voor luchtkwaliteit.  |
+|  *Economische randvoorwaarden*   | Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) of of hoogrendementsketel HR 100 of HR 104 is aanwezig voor ruimteverwarming.  Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  Bruto vloeroppervlakte is meer dan 300 m<sup>2</sup>.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | B en c) Zelfstandig moment: Ja, indien aardgasverbruik is minimaal 1 miljoen m<sup>3</sup> per jaar.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [9] Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep met hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | Weersafhankelijke regeling toepassen op groep indien dit op ketel onmogelijk is i.v.m. warmtapwatervoorziening.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+| --- | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Opstarttijd cv-installatie regelen op basis van buitentemperatuur en interne warmtelast.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Optimaliserende regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Optimaliserende regeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Niet toepasbaar in gebouw(delen) waar volcontinu gewerkt wordt.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+| --- | Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup>.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Warmteverlies via warmwaterleidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om leidingen en appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Als fabrikant voorschrijft dat vocht en warmte weg moet kunnen i.v.m. garantie, dan hier rekening mee houden bij keuze isolatiemateriaal.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd van installatie behorende bij leidingen en appendages is minimaal 1.250 uur per jaar (ter indicatie: een standaard stookseizoen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  Niet toepasbaar in Operatie Kamers (OK’s).  |
+|  *Economische randvoorwaarden*   | Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  |
+| --- | b) Bruto vloeroppervlak is meer dan 300 m<sup>2</sup>.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | 2) Zelfstandig moment: Ja, indien aardgasverbruik minder dan 1 miljoen m<sup>3</sup> per jaar is en bruto vloeroppervlak meer is dan 300 m<sup>2</sup>.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | a) N.v.t.  | b) [1] Warmte- en koudeverlies via buitenmuur beperken.  [5] Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen in ruimten waar niet continu mensen aanwezig zijn: zoals kantoorruimten, vergaderruimten, keukens op afdelingen en opslagruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Langwerpige fluorescentielamp (TL5) en adapter toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) PL-lamp (traditionele spaarlamp) is aanwezig in gangen en toiletten.  | b) Conventioneel armatuur met langwerpige fluorescentielamp (TL) is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | a) Bruto vloeroppervlak is meer dan 46.000 m<sup>2</sup>.  | b) N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | 2) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen accentverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) PL-lamp (traditionele spaarlamp) toepassen in bestaande armatuur.  | c) Halogeenlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Halogeenlamp is aanwezig.  | b en c) Gloeilamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | a) Elektriciteitsverbruik is minder dan 50.000 kWh per jaar.  | b en c) N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | 2) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | c) Zelfstandig moment: Ja, indien elektriciteitsverbruik minder is dan 50.000 kWh per jaar.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Onnodig branden van buitenverlichting voorkomen zodat verlichting alleen brandt als het donker is, en per nacht minimaal 6 uur uit is of alleen bij beweging brandt.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Bewegingsensor en schemerschakelaar en tijdschakelklok toepassen.  | b) Schemerschakelaar en tijdschakelaar toepassen.  | c) Schemerschakelaar en tijdschakelaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Schemerschakelaar of tijdschakelklok ontbreekt bij overige buitenverlichting.  | c) Automatische aan- en uitschakeling ontbreekt bij reclameverlichting (verlichting is ’s nachts aan).  |
+|  *Technische randvoorwaarden*   | a) Snelstartende lampen.  | b en c) N.v.t.  |
+|  *Economische randvoorwaarden*   | a en b) Minimaal 5 armaturen zijn aanwezig.  | c) N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a en b) Zelfstandig moment: Ja, indien minimaal 50 armaturen aanwezig zijn.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Ja, indien minimaal 5 armaturen aanwezig zijn.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen buitenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Natriumlamp toepassen in bestaande armatuur.  | c) Metaalhalogenidelamp toepassen in bestaande armatuur.  | d) Natriumlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Halogeenlamp is aanwezig.  | c en d) Hoge druk kwiklamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen reclameverlichting beperken  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Armatuur met langwerpige fluorescentielamp (TL5) toepassen.  | c) Led-lamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Gloeilamp is aanwezig.  | c) Halogeenlamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 16  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking van tapwater toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Gasgestookte hoogrendements- (HR-) boiler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele gasgestookte boiler is aanwezig.  |
+|  *Technische randvoorwaarden*   | Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Warmtapwater wordt ook gebruikt voor douchen.  |
+| --- | Zelfstandig moment: Ja, indien sprake is van klinische gezondheidszorg en aardgasverbruik minder is dan 1 miljoen m<sup>3</sup> per jaar.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel A dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+####Kantoren
+
+Diensten waar administratieve werkzaamheden worden uitgevoerd. De inrichting heeft overwegend een kantoorfunctie zoals aangehaald in het Bouwbesluit 2012. Denk aan het openbaar bestuur, overheidsdiensten, verplichte sociale verzekeringen en zakelijke en financiële dienstverlening. Ter indicatie de SBI-codes die voor de indeling van deze diensten veelal worden gebruikt zijn SBI-code 64 t/m 74 en 84. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.4 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine), processen en datacenters bij de kantoren zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium worden hiervoor alsnog erkende maatregelen opgenomen. 
+
+####Maatregelen
+
+Tabel 5.4 Aangewezen erkende maatregelen voor energiebesparing in kantoren 
+
+| Type maatregelen  | nummers  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteventilatie  | 2-4  |
+| Ruimteverwarming  | 7  |
+| Ruimte- en buitenverlichting  | 9-14  |
+|  *Activiteit*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 5, 6, 8, 15  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  Gebouw wordt verwarmd, of verwarmd en gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien bruto vloeroppervlakte minder is dan 600 m<sup>2</sup>.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van ventilatie buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tijdschakelaar of tijdschakelaar met weekendschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Vollasturen ventilatoren beperken door afschakelen van ventilatoren bij lager ventilatiedebiet.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Cascaderegeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Cascaderegeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Bruto vloeroppervlak is meer dan 600 m<sup>2</sup>.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Twincoilsysteem toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt in luchtbehandelingskast.  |
+|  *Technische randvoorwaarden*   | Luchttoevoer en luchtafvoer liggen nabij elkaar en worden niet door bouwkundige elementen gescheiden.  |
+|  *Economische randvoorwaarden*   | Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor ruimteverwarming.  Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  Bruto vloeroppervlakte is meer dan 600 m<sup>2</sup>.  Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [8] Energiezuinige warmteopwekking toepassen.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Aanvoertemperatuur CV-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep met hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | Weersafhankelijke regeling toepassen op groep indien dit op ketel onmogelijk is i.v.m. warmtapwatervoorziening.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Opstarttijd cv-installatie regelen op basis van buitentemperatuur en interne warmtelast.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Optimaliserende regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Optimaliserende regeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Warmteverlies via warmwaterleidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om leidingen en appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Als fabrikant voorschrijft dat vocht en warmte weg moet kunnen i.v.m. garantie, dan hier rekening mee houden bij keuze isolatiemateriaal.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd van installatie behorende bij leidingen en appendages is minimaal 1.250 uur per jaar (ter indicatie: een standaard stookseizoen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+| --- | --- |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien bruto vloeroppervlakte minder is dan 600 m<sup>2</sup>.  Natuurlijk moment: ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [4] Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Onnodig branden van ruimteverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Langwerpige fluorescentielamp (TL5) en adapter toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen accentverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | PL-lamp (traditionele spaarlamp) of halogeenlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Gloeilamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Onnodig branden van buitenverlichting voorkomen zodat verlichting alleen brandt als het donker is, en per nacht minimaal 6 uur uit is of alleen bij beweging brandt.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Bewegingsensor en schemerschakelaar en tijdschakelklok toepassen.  | b) Schemerschakelaar en tijdschakelaar toepassen.  | c) Schemerschakelaar en tijdschakelaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Schemerschakelaar of tijdschakelklok ontbreekt bij overige buitenverlichting.  | c) Automatische aan- en uitschakeling ontbreekt bij reclameverlichting (verlichting is ’s nachts aan).  |
+|  *Technische randvoorwaarden*   | a) Snelstartende lampen.  | b en c) N.v.t.  |
+|  *Economische randvoorwaarden*   | a en b) Minimaal 20 armaturen zijn aanwezig.  | c) N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien minimaal 50 armaturen aanwezig zijn.  Natuurlijk moment: Ja.  | b en c) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen buitenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Natriumlamp toepassen in bestaande armatuur.  | c) Metaalhalogenidelamp toepassen in bestaande armatuur.  | d) Natriumlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Halogeenlamp is aanwezig.  | c en d) Hoge druk kwiklamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen reclameverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp in bestaande armatuur toepassen.  | b) Armatuur met langwerpige fluorescentielamp (TL5) toepassen.  | c) Led-lamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Gloeilamp is aanwezig.  | c) Halogeenlamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking van tapwater toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Gasgestookte hoogrendements- (HR-) boiler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele gasgestookte boiler is aanwezig.  |
+|  *Technische randvoorwaarden*   | Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien bruto vloeroppervlakte minder is dan 600 m<sup>2</sup>.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+####Onderwijs
+
+Instellingen waar onderwijs, opleidingen en cursussen worden aangeboden met of zonder praktijkonderwijs. De inrichting heeft overwegend een onderwijsfunctie zoals aangehaald in het Bouwbesluit 2012. Denk aan basis-, voortgezet- en hoger onderwijs en universiteiten. Ter indicatie de SBI-code die voor de indeling van instellingen veelal wordt gebruikt: 85.In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.5 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine) en processen zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium worden hiervoor alsnog erkende maatregelen opgenomen. 
+
+####Maatregelen
+
+Tabel 5.5 Aangewezen erkende maatregelen voor energiebesparing voor onderwijs 
+
+| Type maatregelen  | nummers  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteventilatie  | 2-4  |
+| Ruimteverwarming  | 7  |
+| Ruimte- en buitenverlichting  | 9-14  |
+|  *Activiteit*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 5, 6, 8, 15  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  Gebouw wordt verwarmd, of verwarmd en gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van ventilatie buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Tijdschakelaar of tijdschakelaar met weekendschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Vollasturen ventilatoren beperken door afschakelen van ventilatoren bij lager ventilatiedebiet.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Cascaderegeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Cascaderegeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Twincoilsysteem toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt in luchtbehandelingskast.  |
+|  *Technische randvoorwaarden*   | Luchttoevoer en luchtafvoer liggen nabij elkaar en worden niet door bouwkundige elementen gescheiden.  |
+|  *Economische randvoorwaarden*   | Beperkte isolatie aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien conventioneelrendements- (CR) of verbeterdrendements- (VR) ketel aanwezig is.  Natuurlijk moment: Ja. indien hoogrendementsketel HR100 of HR104-ketel aanwezig is.  |
+|  *Alternatieve erkende maatregelen*   | [8] Energiezuinige warmteopwekking toepassen  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep met hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Opstarttijd cv-installatie regelen op basis van buitentemperatuur en interne warmtelast.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Optimaliserende regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Optimaliserende regeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Warmteverlies via warmwaterleidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om leidingen en appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Als fabrikant voorschrijft dat vocht en warmte weg moet kunnen i.v.m. garantie, dan hier rekening mee houden bij keuze isolatiemateriaal.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Bedrijfstijd van installatie behorende bij leidingen en appendages is minimaal 1.250 uur per jaar (ter indicatie: een standaard stookseizoen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking toepassen  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien bruto vloeroppervlakte meer is dan 10.000 m<sup>2</sup>.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | a) N.v.t.  | b) [4] Warmte uit uitgaande ventilatielucht gebruiken voor voorverwarmen ingaande ventilatielucht bij gebalanceerd ventilatiesysteem.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Langwerpige fluorescentielamp (TL5) en adapter toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen accentverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) PL-lamp (traditionele spaarlamp) toepassen in bestaande armatuur.  | c) Led-lamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Halogeenlamp is aanwezig.  | b) Gloeilamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Onnodig branden van buitenverlichting voorkomen zodat verlichting alleen brandt als het donker is, en per nacht minimaal 6 uur uit is of alleen bij beweging brandt.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Bewegingsensor en schemerschakelaar en tijdschakelklok toepassen.  | b) Schemerschakelaar en tijdschakelaar toepassen.  | c) Schemerschakelaar en tijdschakelaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Schemerschakelaar of tijdschakelklok ontbreekt bij overige buitenverlichting.  | c) Automatische aan- en uitschakeling ontbreekt bij reclameverlichting (verlichting is ’s nachts aan).  |
+|  *Technische randvoorwaarden*   | a) Snelstartende lampen.  | b en c) N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a en b) Zelfstandig moment: Ja, indien minimaal 50 armaturen aanwezig zijn.  Natuurlijk moment: Ja.  | c Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen buitenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Natriumlamp toepassen in bestaande armatuur.  | c) Metaalhalogenidelamp toepassen in bestaande armatuur.  | d) Natriumlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Halogeenlamp is aanwezig.  | c en d) Hoge druk kwiklamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen reclameverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp in bestaaande armatuur toepassen.  | b) Armatuur met langwerpige fluorescentielamp (TL5) toepassen.  | c) Led-lamp in bestaande armatuur toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Gloeilamp is aanwezig.  | c) Halogeenlamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking van tapwater toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Gasgestookte hoogrendements- (HR-) boiler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele gasgestookte boiler is aanwezig.  |
+|  *Technische randvoorwaarden*   | Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien bruto vloeroppervlakte meer is dan 10.000 m<sup>2</sup>.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+####Commerciële datacenters
+
+Bedrijven met activiteiten voor transport, bewerking en opslag van data door het extern beschikbaar stellen van serverruimten en ICT-apparatuur. Ter indicatie de SBI-codes die voor de indeling van deze bedrijven veelal worden gebruikt: 61, 62, 63. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.6 genoemde activiteiten en typen maatregelen. Dit zijn erkende maatregelen die betrekking hebben op het energieverbruik van het proces (servers en koeling/ventilatie daarvan). Voor eventuele kantoren die behoren bij de datacenters gelden nog geen erkende maatregelen. Bij de aanstaande aanvulling van de bijlage bij de Activiteitenregeling zal worden bezien in hoeverre de in deze bijlage gepubliceerde kantorenlijst ook van toepassing kan worden verklaard op datacenters die tevens enkele kantoorruimten hebben. Tevens zal dan bezien worden of de voorziene aanvulling van de kantorenlijst die op dat moment gepubliceerd wordt ook van toepassing is voor de kantoren die als bijgebouw behoren bij datacenters. 
+
+####Maatregelen
+
+Tabel 5.6 Aangewezen erkende maatregelen voor energiebesparing voor commerciële datacenters 
+
+| Type maatregelen  | nummers  |
+|:---|:---|
+| Faciliteiten  | 4  |
+|  *Activiteit*   | --- |
+| In werking hebben van een koelinstallatie  | 1-3, 5,6  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Met hogere koeltemperatuur werken door warme en koude lucht in zaal te scheiden.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Volledig gescheiden koude- en warme gangen toepassen (compartimenteren).  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warme en koude gangen zijn afwezig.  |
+|  *Technische randvoorwaarden*   | Er moet ruimte zijn om racks met servers zodanig op te stellen dat warme en koude gangen zijn te realiseren.  ICT-apparatuur in racks moet aan één zijde van apparatuur lucht aanzuigen.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Met hogere koeltemperatuur werken door menging van warme en koude lucht bij ongebruikte posities in racks te voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Blindplaten toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Blindplaten zijn afwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Toerental van ventilatoren in zaalkoelers (CRAH’s) beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Toerenregeling (sensoren en actuatoren) toepassen op bestaande ventilatoren.  | b) In nieuwe zaalkoelers (CRAH’s) ventilatoren met toerenregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Toerentalgeregelde ventilatoren zijn afwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Energiezuinige UPS toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Efficiënt UPS-systeem (efficiëntie, bij dubbele conversie, is 96% of hoger) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Inefficiënte UPS (efficiëntie in deellast is maximaal 91%) is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Hogere koeltemperaturen realiseren om efficiëntie van compressiekoelmachine te verhogen en om meer gebruik te maken van vrije koeling (beneden 12/13°C buitenluchttemperatuur).  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Zaalkoelers met hogetemperatuurkoeling (ter indicatie: koelwater is minimaal 18°C).  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Zaalkoelers met lagetemperatuurkoeling (ter indicatie: koelwater is maximaal 12°C).  Seizoensgemiddelde COP van bestaande compressiekoelmachine is maximaal 3,5 bij groot datacenter en maximaal 5,0 bij klein datacenter.  |
+|  *Technische randvoorwaarden*   | Gescheiden koude en warme gangen met vrije koeling zijn aanwezig.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Vrije koeling toepassen om bedrijfstijd van compressiekoelmachine te beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Droge koeler(s) via bypass toepassen.  | b) Verdampingskoeler(s) via bypass toepassen.  | c) Kunststof kruisstroomwarmtewisselaar en verdampingskoeler aan buitenzijde toepassen (indirecte lucht/luchtkoeling).  | d) Open koelsysteem (directe vrije luchtkoeling) met additionele indirecte adiabatische koeler toepassen.  |
+| a) en b) Als zaalkoelers met water of een ander niet-vorstbestendig koelmiddel werken, dan vrije koeling in een gescheiden vorstbestendig circuit opnemen en platenwarmtewisselaar en pomp opnemen zodat koelers vorstbestendig kunnen opereren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Compressiekoelmachine verzorgt de volledige koeling.  |
+| a) Klein datacenter met compressiekoelmachine met seizoensgemiddelde COP van maximaal 2,0.  Temperatuur in koelsysteem en buitenklimaat moeten minimaal 40% vrije koeling mogelijk maken. Bijvoorbeeld in De Bilt kan bij gekoeldwatertemperatuur naar de zaalkoelers van minimaal 13°C bij buitenlucht-temperaturen lager dan 8°C 40% van het jaar vrij gekoeld worden.  | b) Compressiekoelmachine met seizoensgemiddelde COP van maximaal 2,5.  Temperatuur in koelsysteem en buitenklimaat moeten minimaal 80% vrije koeling mogelijk maken. Bijvoorbeeld in De Bilt kan bij gekoeldwatertemperatuur naar de zaalkoelers van minimaal 18°C bij buitenlucht-natteboltemperaturen van maximaal 13°C 80% van het jaar vrij gekoeld worden.  | c en d) Compressiekoelmachine met seizoensgemiddelde COP van maximaal 3,0.  Temperatuur in koude gang moet nagenoeg altijd vrije koeling mogelijk maken.  Flexibele operatie van temperatuur en vochtigheid is mogelijk binnen de grenzen van ASHRAE recommended envelope en SLA’s.  |
+|  *Technische randvoorwaarden*   | Gescheiden koude en warme gangen.  Bouwkundig moet het mogelijk zijn, bijvoorbeeld het dak moet het gewicht van het systeem voor vrije koeling kunnen dragen, en er moet ruimte zijn voor luchtkanalen en overige installaties.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a en b) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | c en d) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen.*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+####Rubber- en kunststofindustrie
+
+Bedrijven waar overwegend producten van kunststof- en/of rubber worden verwerkt en/of vervaardigd. Het gaat om het bewerken en/of verwerken van polyesterhars, thermoplasten, schuimen/expanderen van kunststof en/of rubberverwerking inclusief de recycling van rubber en kunststof. Activiteiten met betrekking tot het mengen, malen, blazen, kalanderen, extruderen en vulkaniseren zijn ook kenmerkend. Ter indicatie de SBI-code die voor de indeling van deze bedrijven veelal wordt gebruikt: 22. In deze bedrijfstak zijn erkende maatregelen aangemerkt voor de in tabel 5.7 genoemde activiteiten en typen maatregelen. Voor faciliteiten (zoals ICT, productkoeling en grootkeuken/kantine) die met name in kantoorgebouwen plaatsvinden zijn nog geen erkende maatregelen opgenomen. Voor deze ‘typen maatregelen’ en ‘activiteiten’ blijft artikel 2.15 van het Activiteitenbesluit gelden. In een later stadium kunnen hiervoor alsnog erkende maatregelen worden opgenomen. 
+
+####Maatregelen
+
+Tabel 5.7 Aangewezen erkende maatregelen voor energiebesparing in de rubber- en kunststofindustrie 
+
+| Type maatregelen  | Nummers  |
+|:---|:---|
+| Gebouwschil  | 1  |
+| Ruimteventilatie  | 2  |
+| Ruimteverwarming  | 4,6,7,27  |
+| Ruimte- en buitenverlichting  | 9-18  |
+| Faciliteiten  | 20-25,28,30,36  |
+|  *Activiteiten*   | --- |
+| In werking hebben van een stookinstallatie (emissies naar de lucht)  | 3,5,8,19,26,29,31-34  |
+| In werking hebben van een koelinstallatie  | 37,38  |
+| Verwerken van rubber of thermoplastisch kunststof  | 35,39,42  |
+| Wegen of mengen van rubbercompounds of verwerken van rubber  | 41,42  |
+
+| Type maatregel  | Gebouwschil  |
+|:---|:---|
+|  *Nummer maatregel*   | 1  |
+|  *Omschrijving maatregel*   | Warmte- en koudeverlies via buitenmuur beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spouwmuur isoleren.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie in spouwmuur ontbreekt.  Gebouw wordt verwarmd, of verwarmd en gekoeld.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteventilatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 2  |
+|  *Omschrijving maatregel*   | Onnodig aanstaan van ventilatie buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Tijdschakelaar (met of zonder overwerktimer) toepassen.  | b) Tijdschakelaar met weekendschakeling (met of zonder overwerktimer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 3  |
+|  *Omschrijving maatregel*   | Kantoor: Opstarttijd cv-installatie regelen op basis van buitentemperatuur en interne warmtelast.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Optimaliserende regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Optimaliserende regeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 4  |
+|  *Omschrijving maatregel*   | Aanvoertemperatuur cv-water automatisch regelen op basis van buitentemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Weersafhankelijke regeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Weersafhankelijke regeling ontbreekt op een cv-groep met hogetemperatuurverwarming.  |
+|  *Technische randvoorwaarden*   | Weersafhankelijke regeling toepassen op groep indien dit op ketel onmogelijk is i.v.m. warmtapwatervoorziening.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 5  |
+|  *Omschrijving maatregel*   | Kantoor: Energiezuinige warmteopwekking toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Hoogrendementsketel HR107 toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Conventioneelrendements- (CR-) of verbeterdrendements- (VR-) ketel is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  | b) Hoogrendementsketel HR100 is aanwezig voor basislast (bedrijfstijd is meer dan 500 uur per jaar).  |
+|  *Technische randvoorwaarden*   | Retourtemperatuur van ketel kan lager zijn dan 55°C. Hogetemperatuursystemen (zoals warmtapwatersysteem of hogetemperatuurstralingspanelen) verhinderen dat soms.  Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Beperkte isolatie is aanwezig (ter indicatie: minder dan 40 mm isolatie of bouwjaar van 1975 of eerder).  |
+| --- | b) Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup>per jaar.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 6  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmte in hoge hal actief verdelen naar werkplekken met warmtevraag om verwarming met aardgas te beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Ondersteuningsventilator toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Voorziening voor luchtcirculatie ontbreekt.  |
+|  *Technische randvoorwaarden*   | Geen vervuilende gassen (zoals las- en lijmdampen) aanwezig.  Kraanbaan en ondersteuningsventilator hinderen elkaar niet.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Temperatuur boven in hal is minimaal 4°C hoger dan temperatuur op werkniveau.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [8] Bedrijfshal: Energiezuinige warmteopwekking toepassen in slecht geïsoleerde of half open hal.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 7  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Temperatuur per ruimte naregelen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Thermostatische radiatorkranen of ruimtethermostaten toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Individuele naregeling per ruimte ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 8  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Energiezuinige warmteopwekking toepassen in slecht geïsoleerde of half open hal.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Gasgestookte donkere stralers toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele luchtverhitter is aanwezig.  |
+|  *Technische randvoorwaarden*   | Rookgasafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 9  |
+|  *Omschrijving maatregel*   | Kantoor: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Langwerpige fluorescentielamp (TL5) en adapter toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 10  |
+|  *Omschrijving maatregel*   | Kantoor: Geïnstalleerd vermogen accentverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) PL-lamp (traditionele spaarlamp) toepassen in bestaande armatuur.  | b) Halogeenlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Gloeilamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | a) Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  | b) Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 11  |
+|  *Omschrijving maatregel*   | Kantoor: Geïnstalleerd vermogen binnenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Armaturen met langwerpige fluorescentielampen (TL5) toepassen.  | b) Armaturen met led-lampen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aantal branduren is minimaal 2.500 uur per jaar.  |
+| --- | b) Geïnstalleerd vermogen van verlichting neemt door toepassen van led-lampen minimaal 50% af bij voldoende lichtopbrengst.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 12  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Binnenverlichting automatisch verminderen op basis van daglichttoetreding door ramen en daklichten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Daglichtafhankelijke regeling voor dimmen van verlichting toepassen.  | a) Daglichtafhankelijke regeling voor dimmen van verlichting toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Daglichtafhankelijke schakeling of -regeling ontbreekt.  |
+| a) Hoogfrequente (HF) armaturen met langwerpige fluorescentielampen (TL) (niet retrofit) zijn aanwezig.  | b) Conventionele armaturen met langwerpige fluorescentielampen (TL) zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar langs ramen en/of onder daglichtopeningen.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,7 kW.  Daglichtoppervlak in dak is minimaal 10% van dakoppervlak of daglichtoppervlak in gevel is minimaal 30% van vloeroppervlak.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+|  *Type maatregel*   | Ruimte- en buitenverlichting  |
+|  *Nummer maatregel*   | 13  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van binnenverlichting in pauzes en buiten bedrijfstijd voorkomen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Veegschakeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Verlichting wordt handmatig geschakeld per (deel van de) ruimte.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per veegschakeling is minimaal 18 kW.  Per veegschakeling zijn maximaal 12 aanpassingen nodig om te voorkomen dat apparatuur onbedoeld wordt uitgeschakeld.  Verlichting kan minimaal 1 uur per dag extra uitgeschakeld worden.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 14  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Vermogen conventionele verlichting met langwerpige fluorescentielampen (TL) verlagen door spanningsverlaging.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Spanningsverlagingstoestel toepassen dat spanning verlaagt naar 207 tot 210 Volt.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Spanningsverlagingstoestel ontbreekt.  |
+|  *Technische randvoorwaarden*   | Aparte verlichtingsgroep is aanwezig.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 11,5 kW.  Aantal branduren is minimaal 2.500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 15  |
+|  *Omschrijving maatregel*   | Onnodig branden van reclameverlichting voorkomen zodat verlichting alleen brandt als het donker is, en per nacht minimaal 6 uur uit is.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Schemerschakelaar en tijdschakelaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische aan- en uitschakeling ontbreekt bij reclameverlichting (verlichting is ’s nachts aan).  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 16  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen buitenverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp toepassen in bestaande armatuur.  | b) Natriumlamp toepassen in bestaande armatuur.  | c) Metaalhalogenidelamp toepassen in bestaande armatuur.  | d) Natriumlamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Halogeenlamp is aanwezig.  | c en d) Hoge druk kwiklamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 17  |
+|  *Omschrijving maatregel*   | Geïnstalleerd vermogen reclameverlichting beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Led-lamp in bestaande armatuur toepassen.  | b) Armatuur met langwerpige fluorescentielamp (TL5) toepassen.  | c) Led-lamp toepassen in bestaande armatuur.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a en b) Gloeilamp is aanwezig.  | c) Halogeenlamp is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimte- en buitenverlichting  |
+|:---|:---|
+|  *Nummer maatregel*   | 18  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Onnodig branden van verlichting in magazijnen en opslagruimten voorkomen bij wisselend ruimtegebruik.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Aanwezigheidschakeling toepassen  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Aanwezigheidschakeling ontbreekt.  |
+|  *Technische randvoorwaarden*   | Verlichting is apart schakelbaar per (deel van de) ruimte.  |
+|  *Economische randvoorwaarden*   | Geïnstalleerd vermogen per verlichtingsgroep is minimaal 0,42 kW.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 19  |
+|  *Omschrijving maatregel*   | Energiezuinige warmteopwekking van tapwater toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Gasgestookte hoogrendements- (HR-) boiler toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Conventionele gasgestookte boiler is aanwezig.  |
+|  *Technische randvoorwaarden*   | Condensafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien aardgasverbruik minder is dan 170.000 m<sup>3</sup> per jaar.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | In gebouwen met minimaal energielabel C dan wel in nieuwbouw met een bouwjaar van 2003 of daarna en die derhalve aan de EPC-eisen van 2003 voldoen, wordt geacht deze maatregel reeds te zijn genomen.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 20  |
+|  *Omschrijving maatregel*   | Energiezuinige motor toepassen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | IE2-motor met frequentieregeling of IE3-motor toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Motor met vermogen meer dan 7,5 kW en minder dan 375 kW en met rendementsklasse IE1, IE2 (zonder frequentieregeling) of lager is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 21  |
+|  *Omschrijving maatregel*   | Vollasturen asynchrone elektromotor in productiemachine, -apparatuur of -pomp beperken door lager toerental.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Frequentieregelaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Frequentie- of toerenregelaar ontbreekt.  |
+| a) Motor met een vermogen van maximaal 10 kW is aanwezig.  | b) Motor met een vermogen van meer dan 10 kW is aanwezig.  |
+|  *Technische randvoorwaarden*   | Variabel toerental is mogelijk.  |
+|  *Economische randvoorwaarden*   | a) Aantal deellasturen motor is minimaal 1.250 uur per jaar.  | b) Aantal deellasturen motor is minimaal 750 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 22  |
+|  *Omschrijving maatregel*   | Persluchtverlies verminderen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Persluchtuitblaasappendage met een laminaire luchtstroom of Vortexstroming toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Appendage ontbreekt of nozzles en blaaspistolen zijn meer dan 10 jaar oud.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Niet toepasbaar voor mobiele installaties met bedrijfstijd minder dan 100 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 23  |
+|  *Omschrijving maatregel*   | Nullasturen persluchtcompressor beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Persluchtcompressor met frequentie- of toerenregeling toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Vollast/nullast- of vollast/nullast/uitschakeling is aanwezig.  |
+|  *Technische randvoorwaarden*   | Bij meerdere compressoren uitvoeren bij leidende compressor en rest op basis van aan/uitschakeling.  |
+|  *Economische randvoorwaarden*   | Aantal nullasturen is minimaal 1.100 uur per jaar (ter indicatie: 4 uur per werkdag).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 24  |
+|  *Omschrijving maatregel*   | Energiezuinig perslucht maken door koude lucht te gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Koude buitenlucht gebruiken.  | b) Binnenlucht uit onverwarmde ruimte gebruiken.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Compressor zuigt door zichzelf opgewarmde warme lucht of warme proceslucht aan.  |
+|  *Technische randvoorwaarden*   | --- |
+| a) Een opening in gevel is mogelijk binnen een afstand van 3 meter.  | b) N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen van compressor (in kW) vermenigvuldigd met aantal equivalenten van vollasturen per jaar (in uur) is minimaal 35.000 (kWh).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 25  |
+|  *Omschrijving maatregel*   | Warmte van persluchtcompressoren nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Warmte gebruiken voor ruimteverwarming.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Luchtgekoelde compressor is aanwezig.  Warmte van compressor wordt naar buiten afgevoerd.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Aardgasverbruik is minder dan 170.000 m<sup>3</sup> per jaar.  Aantal equivalenten van vollasturen compressor is minimaal 1.400 uur per stookseizoen (ter indicatie: 10 uur per werkdag in stookseizoen).  Afstand tot te verwarmen ruimte is minder dan 3 meter.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 26  |
+|  *Omschrijving maatregel*   | Stoom als medium voor ruimteverwarming vervangen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Hoogrendementsketel HR107 met radiatoren en/of indirecte luchtverhitters toepassen.  | b) Warmtepomp met radiatoren en/of indirecte luchtverhitters toepassen.  | c) Direct gasgestookte Hoogrendements- (HR-) luchtverhitter toepassen.  | d) Hoogrendementsketel HR107 met luchtbehandelingskast toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Stoomketel met stoomluchtverhitters zijn aanwezig, of stoomketel met stoom/waterwarmtewisselaar en radiatoren zijn aanwezig.  |
+|  *Technische randvoorwaarden*   | a) Rookgasafvoer is mogelijk.  | b) N.v.t.  | c en d) Rookgasafvoer is mogelijk.  |
+|  *Economische randvoorwaarden*   | Benodigde vermogen voor ruimteverwarming (in kW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 200.000 (kW<sub>thermisch</sub>h per jaar).  |
+| --- | a) Aansluitpunt voor gas is aanwezig binnen een afstand van 50 meter van te verwarmen ruimte.  | b) Aansluitpunt van voldoende vermogen voor elektriciteit is aanwezig binnen een afstand van 50 meter van te verwarmen ruimte.  | c en d) Aansluitpunt voor gas is aanwezig binnen 50 meter van te verwarmen ruimte.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja, indien stoomketel óf stoomruimteverwarmingsinstallatie wordt vervangen.  |
+|  *Alternatieve erkende maatregelen*   | [42] Warmte van folieblazen nuttig gebruiken voor ruimteverwarming van nabij gelegen productieruimte of magazijn.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Ruimteverwarming  |
+|:---|:---|
+|  *Nummer maatregel*   | 27  |
+|  *Omschrijving maatregel*   | Bedrijfshal: Warmteverlies via leidingen en -appendages beperken in onverwarmde ruimten.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Isolatie aanbrengen om leidingen en appendages.  | b) Isolatie aanbrengen om appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | a) Isolatie om leidingen en appendages ontbreekt.  | b) Isolatie om appendages ontbreekt.  |
+|  *Technische randvoorwaarden*   | Niet toepasbaar bij appendages die dagelijks moeten worden geïnspecteerd.  |
+|  *Economische randvoorwaarden*   | a) Bedrijfstijd van installatie bij leidingen is minimaal 2.500 uur per jaar.  | b) Bedrijfstijd van installatie bij appendages is minimaal 3.000 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregelen  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 28  |
+|  *Omschrijving maatregel*   | Warmteverlies stoominstallatie beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie aanbrengen om stoom- en condensaatleidingen en -appendages.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om leidingen en/of appendages ontbreekt of is beschadigd.  |
+|  *Technische randvoorwaarden*   | Bij stoomgebruikers zijn machinedelen soms bewust ongeïsoleerd om juiste stoomcondities in het productieproces te kunnen garanderen. Isoleer deze machines niet indien leverancier een goede werking van het proces niet meer garandeert.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd van stoominstallatie is minimaal 500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 29  |
+|  *Omschrijving maatregel*   | Warmte uit spuiwater stoomketel nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | --- |
+| a) Ontspanningsvat toepassen waarin spuiwater in druk wordt verlaagd.  | b) Warmtewisselaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt voor spuiwater.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen stoominstallatie (in MW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 4.500 (MW<sub>thermisch</sub>h per jaar).  Minimaal 50% van voedingwater bestaat uit vers suppletiewater.  |
+| a) Stoomvrager is aanwezig die met discontinue aanbod van ontspanningsstoom kan worden gevoed (veelal de ontgasser).  | b) Warmtevrager is aanwezig die met discontinue aanbod van warmte uit spuiwater kan worden gevoed (veelal suppletiewater).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [30] Condensaat of condensaatwarmte nuttig gebruiken.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 30  |
+|  *Omschrijving maatregel*   | Condensaat of condensaatwarmte nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Ontspanningsvat toepassen waarin condensaat in druk wordt verlaagd (naar atmosferische druk).  | b) Retourleiding naar ontgasser van stoomketel toepassen voor condensaat.  | c) Warmtewisselaar toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt voor condensaat.  |
+|  *Technische randvoorwaarden*   | a) en b) Condensaat mag niet verontreinigd zijn.  | c) N.v.t.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd stoominstallatie is minimaal 500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja, indien of stoomgebruiker (waarbij het condensaat verloren gaat) wordt gemodificeerd, of stoom- en condensaatleidingnet voor meer dan 50% wordt gewijzigd.  |
+|  *Alternatieve erkende maatregelen*   | [32] Warmte uit rookgassen stoomketel nuttig gebruiken.  [33] Energiezuinig stoom maken door voorwarmen van verbrandingslucht voor ventilatorbrander.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 31  |
+|  *Omschrijving maatregel*   | Warmte uit rookgassen stoomketel nuttig gebruiken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Economizer toepassen (bijvoorbeeld voor voorwarmen van voedingswater).  | b) Rookgascondensor toepassen (bijvoorbeeld voor voorverwarmen van suppletiewater).  | c) Luvo (luchtvoorverwarmer) toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt voor rookgassen.  |
+|  *Technische randvoorwaarden*   | Er is rondom stoomketel en in rookgaskanaal minimaal 2 meter vrije ruimte om een warmteterugwinsysteem in te bouwen.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd stoominstallatie is minimaal 500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteiten  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 32  |
+|  *Omschrijving maatregel*   | Energiezuinig stoom maken door voorwarmen van verbrandingslucht voor ventilatorbrander.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Verticale luchtkoker vanaf plafond ketelhuis tot nabij luchtaanzuigopening van brander toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Brander zuigt koudere lucht aan uit directe omgeving op een hoogte van minder dan 1 meter vanaf vloer.  |
+|  *Technische randvoorwaarden*   | Brander moet geschikt zijn voor hogere verbrandingsluchttemperatuur en geringe toename van luchtweerstand.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd stoominstallatie is minimaal 500 uur per jaar.  Temperatuur nabij plafond is minimaal 10°C hoger dan temperatuur nabij brander.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [31]: Warmteterugwinning rookgassen stoomketel  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 33  |
+|  *Omschrijving maatregel*   | Luchtovermaat stoomketel beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Automatische regeling luchtovermaat op basis van temperatuurcorrectie toepassen.  | b) Automatische regeling luchtovermaat op basis van zuurstofcorrectie toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Automatische regeling luchtovermaat ontbreekt.  |
+| a) Gasgestookte stoomketel is aanwezig.  | b) Stoomketel is aanwezig die wordt bijgestookt met biogas of een andere brandstof (niet zijnde aardgas).  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen stoominstallatie (in MW) vermenigvuldigd met bedrijfstijd (in uur per jaar) is minimaal 1.500 (MW<sub>thermisch</sub>h per jaar).  |
+| a) Verbrandingsluchttemperatuur varieert met meer dan 35°C.  | --- |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja, indien bedrijfstijd stoominstallatie meer is dan 2.000 uur per jaar.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een stookinstallatie (emissies naar de lucht)  |
+|:---|:---|
+|  *Nummer maatregel*   | 34  |
+|  *Omschrijving maatregel*   | Energiezuinige aardgasgestookte ventilatorbrander toepassen bij stoominstallatie.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Brander met modulerende regeling op basis van druksensor toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Brander met hoog/laagregeling is aanwezig.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen brander is meer dan 250 kW.  Bedrijfstijd stoominstallatie is minimaal 500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Verwerken van rubber of thermoplastisch kunststof  |
+|:---|:---|
+|  *Nummer maatregel*   | 35  |
+|  *Omschrijving maatregel*   | Luchtdebiet en luchttemperatuur in conventionele droger met elektrische verwarmde luchtcirculatie ten behoeve van drogen van grondstof voor spuitgieten of extrusie automatisch regelen.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Vochtsensor is aanwezig in de uitgaande drogerlucht.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Vochtsensor ontbreekt in de uitgaande drogerlucht.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd droger is minimaal 2.500 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Type maatregel  | Faciliteiten  |
+|:---|:---|
+|  *Nummer maatregel*   | 36  |
+|  *Omschrijving maatregel*   | Warme lucht van vacuümsysteem nuttig gebruiken voor ruimteverwarming van aangrenzende productieruimte of magazijn.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Luchtkanaal met ventilator toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warmteterugwinsysteem ontbreekt voor vacuümsysteem.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd vacuüminstallatie is minimaal 250 uur per stookseizoen.  Bouwtechnisch gezien moet er een directe verbinding mogelijk zijn tussen productieruimte of magazijn en vacuüminstallatie.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 37  |
+|  *Omschrijving maatregel*   | Debiet koelwaterpompen voor spuitgiet- en/of extrusieproces automatisch regelen op basis van koelwatertemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | a) Pompregeling op centrale pomp van koelwatervoorziening (veelal in ringleiding) én thermostaat op retourleiding toepassen.  | b) Klep- of pompregeling én thermostaat op retourleiding toepassen per machine.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Hoeveelheid koelwater wordt niet geregeld.  |
+| a) Centraal koelsysteem is aanwezig.  | b) Iedere machine heeft eigen koeling.  |
+|  *Technische randvoorwaarden*   | Er is een gescheiden matrijs- en oliekoelsysteem.  |
+|  *Economische randvoorwaarden*   | Temperatuurverschil tussen aanvoer- en retourkoelwater is meer dan 5°C.  |
+| a) Elektriciteitsverbruik van te koelen machines is meer dan 400.000 kWh per jaar.  | b) Elektriciteitsverbruik van te koelen machines is meer dan 1.500.000 kWh per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [38] Debiet koelwaterpompen voor spuitgiet- en/of extrusieproces automatisch regelen op basis van koelwatertemperatuur.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | In werking hebben van een koelinstallatie  |
+|:---|:---|
+|  *Nummer maatregel*   | 38  |
+|  *Omschrijving maatregel*   | Debiet koelwaterpompen voor spuitgiet- en/of extrusieproces automatisch regelen op basis van koelwatertemperatuur.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Frequentieregeling op koelwaterpomp toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Ongeregelde koelwaterpomp met asynchrone motor is aanwezig in centraal koelwatersysteem.  |
+|  *Technische randvoorwaarden*   | Regeling op temperatuurverschil of druk is mogelijk.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd koelwaterpomp is minimaal 2.500 uur per jaar.  Er is een wisselende koelvraag.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Nee.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | [37] Debiet koelwaterpompen voor spuitgiet- en/of extrusieproces automatisch regelen op basis van koelwatertemperatuur.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Verwerken van rubber of thermoplastisch kunststof  |
+|:---|:---|
+|  *Nummer maatregel*   | 39  |
+|  *Omschrijving maatregel*   | Energiegebruik spuitgietmachine minimaliseren door procesoptimalisatie.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Energiemonitor toepassen bij spuitgietmachine die per processtap het energiegebruik meet. Vervolgens worden procesparameters van spuitgietmachine zodanig ingesteld, dat bij gelijkblijvende productkwaliteit de spuitgietmachine een minimaal energiegebruik heeft.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Energiemonitor bij spuitgietmachine ontbreekt.  |
+|  *Technische randvoorwaarden*   | N.v.t.  |
+|  *Economische randvoorwaarden*   | Vermogen spuitgietmachine is minimaal 50 kW.  Bedrijfstijd spuitgietmachine is minimaal 3.000 uur per jaar.  Maximale druk van spuitgietmachine is hoger dan benodigde druk voor sluiten van de matrijs.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Wegen of mengen van rubbercompounds of het verwerken van rubber  |
+|:---|:---|
+|  *Nummer maatregel*   | 40  |
+|  *Omschrijving maatregel*   | Warmteverlies vulkanisatie zoutbad beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie afgewerkt met beplating toepassen (Rc is minimaal 5 m2K/W).  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om zoutbad ontbreekt of is slecht.  |
+|  *Technische randvoorwaarden*   | Er moet voldoende ruimte blijven om te bewegen tussen en naast zoutbaden.  Kies isolatiemateriaal geschikt voor temperaturen boven 150<sup>o</sup>C.  |
+|  *Economische randvoorwaarden*   | N.v.t.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Wegen of mengen van rubbercompounds of het verwerken van rubber  |
+|:---|:---|
+|  *Nummer maatregel*   | 41  |
+|  *Omschrijving maatregel*   | Warmteverlies van autoclaaf beperken.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Isolatie afgewerkt met beplating of isolatiematrassen toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Isolatie om autoclaaf ontbreekt of is slecht.  |
+|  *Technische randvoorwaarden*   | Er moet minimaal 75 cm vrij blijven rondom autoclaaf.  |
+|  *Economische randvoorwaarden*   | Bedrijfstijd autoclaaf is minimaal 250 uur per jaar.  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+| Activiteit  | Verwerken van rubber of thermoplastisch kunststof  |
+|:---|:---|
+|  *Nummer maatregel*   | 42  |
+|  *Omschrijving maatregel*   | Warmte van folieblazen nuttig gebruiken voor ruimteverwarming van nabij gelegen productieruimte of magazijn.  |
+|  *Mogelijke technieken ten opzichte van uitgangssituatie*   | Luchtkanaal en ventilator toepassen.  |
+|  *Uitgangssituatie op basis van een referentietechniek*   | Warme lucht van folieblazen wordt naar buiten afgevoerd.  |
+|  *Technische randvoorwaarden*   | Er mogen geen geurafgevende additieven (bijv. styreen of acryl) worden gebruikt.  |
+|  *Economische randvoorwaarden*   | Afstand extrusiehal (folieblazen) tot productieruimte of magazijn is minder dan 50 meter.  Bouwtechnisch gezien moet er een directe verbinding mogelijk zijn tussen productieruimte of magazijn en extrusiehal (folieblazen).  |
+|  *Toepasbaar op een zelfstandig of natuurlijk moment?*   | Zelfstandig moment: Ja.  Natuurlijk moment: Ja.  |
+|  *Alternatieve erkende maatregelen*   | N.v.t.  |
+|  *Bijzondere omstandigheden*   | N.v.t.  |
+
+### Bijlage  11  
+
+####Categorieën van afvalstoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Tabel 1 
+
+| categorie  | ga/nga [1]  | beschrijving  |
+|:---|:---|:---|
+| 1  | ga  | autowrakken die vloeistoffen, gevaarlijke stoffen of gevaarlijke onderdelen bevatten  |
+| 2  | nga  | autowrakken die geen vloeistoffen, gevaarlijke stoffen of gevaarlijke onderdelen bevatten  |
+| 3  | nga  | tanks voor vloeibaar gas (LPG-tanks)  |
+| 4  | nga  | opgegraven ondergrondse tanks  |
+| 5A  | ga  | brandblussers groter dan 1 kilogram die gevaarlijke stoffen bevatten en met gassen gevulde gasflessen en overige drukhouders die gevaarlijke stoffen bevatten  |
+| 5B  | nga  | brandblussers groter dan 1 kilogram die geen gevaarlijke stoffen bevatten en met gassen gevulde gasflessen en overige drukhouders die geen gevaarlijke stoffen bevatten  |
+| 6  | ga  | papier- en kunststofgeïsoleerde kabels en restanten die gevaarlijke stoffen bevatten  |
+| 7  | nga  | papier- en kunststofgeïsoleerde kabels en restanten die geen gevaarlijke stoffen bevatten  |
+| 8  | nga  | groenafval  |
+| 9  | nga  | gescheiden ingezameld groente-, fruit- en tuinafval van huishoudens (gft-afval) en daarmee naar aard en samenstelling vergelijkbaar bij handel, diensten en overheden en veilingen gescheiden ingezameld organisch bedrijfsafval  |
+| 10  | nga  | afval dat vrijkomt bij het vegen van openbare straten, terreinen, stranden en het legen van openbare afvalbakken (veegafval)  |
+| 11  | nga  | afval dat vrijkomt bij het reinigen van riolen, kolken en gemalen (RKG-slib)  |
+| 12  | nga  | slib dat vrijkomt bij de biologische zuivering van afvalwater uit de voedings- en genotmiddelenindustrie  |
+| 13  | nga  | reststoffen van drinkwaterbereiding die  – geschikt zijn voor gebruik als hulpstof bij de productie van meststoffen of in een rioolwaterzuivering en/of  – geschikt zijn voor toepassing als bouwstof binnen de randvoorwaarden van het besluit Bodemkwaliteit, en/of  – waarvan het gehalte aan arseen gelijk of minder is dan 500 mg/kg droge stof en die binnen geldende wet- en regelgeving geschikt zijn voor andere vormen van recycling,  |
+| 14  | nga  | a- en b- hout  |
+| 15  | ga  | hout dat, teneinde zo de duurzaamheid te verbeteren, is behandeld met middelen die koper en chroom (CC-hout) of koper, chroom en arseen (CCA-hout) bevatten  |
+| 16  | nga  | kunststofafval – niet zijnde geëxpandeerd polystyreenschuim (categorie 22) – dat geen gevaarlijke stoffen bevat of daarmee is verontreinigd  |
+| 17  | nga  | metalen  |
+| 18  | nga  | papier en karton niet zijnde 'niet ontwikkeld fotopapier' (categorie 19)  |
+| 19  | nga  | niet ontwikkeld fotopapier  |
+| 20  | nga  | textiel, niet zijnde tapijt  |
+| 21  | nga  | matrassen  |
+| 22  | nga  | geëxpandeerd polystyreenschuim (EPS)  |
+| 23  | nga  | steenwol  |
+| 24  | ga  | verpakkingen van verf, lijm, kit en hars, voor zover verontreinigd met niet volledig uitgeharde restanten  |
+| 25  | nga  | verpakkingsglas  |
+| 26  | nga  | vlakglas dat niet is verontreinigd met gevaarlijke stoffen  |
+| 27  | nga  | afval dat valt onder de werkingssfeer van de Verordening EG 1069/2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten  |
+| 28  | ga  | afval met een infectierisico, afkomstig van de gezondheidszorg voor mens of dier of van verwant onderzoek  |
+| 29A  | ga  | asfalt waarvan het gehalte aan koolteer gelijk is aan of hoger is dan 1.000 mg/kg  |
+| 29B  | nga  | asfalt met een gehalte aan koolteer van minder dan 1.000 mg/kg  |
+| 30  | ga  | zeefzand ontstaat bij het afzeven van het fijne materiaal in sorteerinstallaties voor bouw- en sloopafval of bij het voorzeven van steenachtige fracties uit bouw- en sloopafval in puinbreekinstallaties en dat gevaarlijke stoffen bevat  |
+| 31  | nga  | zeefzand ontstaat bij het afzeven van het fijne materiaal in sorteerinstallaties voor bouw- en sloopafval of bij het voorzeven van steenachtige fracties uit bouw- en sloopafval in puinbreekinstallaties en dat geen gevaarlijke stoffen bevat  |
+| 32  | ga  | dakafval waarvan het somtotaal van de concentratie aan PAK-10 gelijk is aan of hoger is dan 75 mg/kg droge stof  |
+| 33  | nga  | bitumineus dakafval dat geen koolteer bevat  |
+| 34A  | ga  | composiet dakafval met minder dan 10% dakbedekkingvreemd materiaal en waarin dakafval voorkomt waarvan het gehalte aan koolteer gelijk is aan of hoger is dan 1.000 mg/kg  |
+| 34B  | nga  | composiet dakafval met minder dan 10% dakbedekkingvreemd materiaal waarin geen dakafval voorkomt waarvan het gehalte aan koolteer gelijk is aan of hoger is dan 1.000 mg/kg  |
+| 35A  | ga  | composiet dakafval met 10% of meer dakbedekkingvreemd materiaal en waarin dakafval voorkomt waarvan het gehalte aan koolteer gelijk is aan of hoger is dan 1.000 mg/kg  |
+| 35B  | nga  | composiet dakafval met 10% of meer dakbedekkingvreemd materiaal waarin geen dakafval voorkomt waarvan het gehalte aan koolteer gelijk is aan of hoger is dan 1.000 mg/kg  |
+| 36A  | ga  | dakgrind verkleefd met teer  |
+| 36B  | nga  | dakgrind verkleefd met bitumen  |
+| 37A  | ga  | gipshoudend bouw- en sloopafval dat met gevaarlijke stoffen is verontreinigd  |
+| 37B  | nga  | gipshoudend bouw- en sloopafval dat niet met gevaarlijke stoffen is verontreinigd  |
+| 38  | ga  | steenachtig materiaal dat gevaarlijke stoffen bevat, in hoofdzaak bestaande uit beton- en metselwerk, tegels, dakpannen, stenen en steengruis en ballastgrind, en voor zover niet vallend onder één van de categorieën 29 tot en met 37 van deze lijst  |
+| 39  | nga  | steenachtig materiaal dat geen gevaarlijke stoffen bevat, in hoofdzaak bestaande uit beton- en metselwerk, tegels, dakpannen, stenen en steengruis en ballastgrind, en voor zover niet vallend onder één van de categorieën 29 tot en met 37 van deze lijst  |
+| 40A  | ga  | gemengd bouw- en sloopafval, met bouw- en sloopafval vergelijkbaar bedrijfsafval en particulier gemengd verbouwingsafval, alles voorzover het afval gevaarlijke stoffen bevat  |
+| 40B  | nga  | gemengd bouw- en sloopafval, met bouw- en sloopafval vergelijkbaar bedrijfsafval en particulier gemengd verbouwingsafval, alles voorzover het afval geen gevaarlijke stoffen bevat  |
+| 41  | nga  | bouwstoffen als bedoeld in artikel 1 van het Besluit bodemkwaliteit, voorzover niet vallend onder één van de categorieën 29 tot en met 40 van deze lijst  |
+| 42  | ga  | oliefilters afkomstig uit vaartuigen, voertuigen en machines;  |
+| 43  | ga  | zwart/wit-fixeer, zwart-witontwikkelaar en mengsels van deze afvalstoffen met een zilvergehalte groter dan 50 mg/l  |
+| 44  | ga  | bleekfixeer, kleurontwikkelaar en mengsels van deze afvalstoffen met een zilvergehalte groter dan 100 mg/l  |
+| 45  | ga  | zwart-witfixeer, zwart-witontwikkelaar en mengsels van deze afvalstoffen met een zilvergehalte kleiner dan 50 mg/l en bleekfixeer, kleurontwikkelaar en mengsels van deze afvalstoffen met een zilvergehalte kleiner dan 100 mg/l  |
+| 46  | ga  | hardingszouten  |
+| 47  | ga  | afgewerkte olie van minerale of synthetische oorsprong (inclusief mengsels) met de volgende kenmerken:  – het gehalte aan polychloorbifenylen kleiner is dan of gelijk is aan 0,5 mg/kg (as received) per congeneer 28, 52, 101, 118, 138, 153 of 180; en  – het gehalte aan organische halogeenverbindingen, berekend als chloor kleiner is dan of gelijk is aan 1.000 mg/kg (as received); en  de olie na het gebruik waarvoor zij oorspronkelijk was bestemd, niet vermengd is met andere stoffen; en  – de olie na het gebruik waarvoor zij oorspronkelijk was bestemd, separaat is afgetapt/verzameld en opgeslagen/opgebulkt  |
+| 48  | ga  | afgewerkte olie van minerale of synthetische oorsprong (inclusief mengsels) met de volgende kenmerken:  – het gehalte aan polychloorbifenylen kleiner is dan of gelijk is aan 0,5 mg/kg (as received) per congeneer 28, 52, 101, 118, 138, 153 of 180; en  – het gehalte aan organische halogeenverbindingen, berekend als chloor groter is dan 1.000 mg/kg (as received)  |
+| 49  | ga  | oplosmiddelen en glycolen met maximaal 0,5% fluor en maximaal 4% chloor en maximaal 4% broom en maximaal 4% jood, voor zover het gaat om één partij, afkomstig van één ontdoener en waarvan de hoeveelheidsgrens van 1.000 liter per partij wordt overschreden  |
+| 50  | ga  | olie/water mengsels (ow-mengsels) en olie/water/slib mengsels (ows-mengsels)  – die vrijkomen bij olie- en slibafscheiders,  – die ontstaan bij schoonmaakactiviteiten,  – afkomstig uit de scheepvaart (bijvoorbeeld oliehoudende ladingrestanten, oliehoudend afval van lading, oliehoudend waswater, ballastwater, bilgewater en slops),  alsmede overige oliehoudende slibben voor zover zij qua aard of samenstelling vergelijkbaar zijn met de slibfractie van olie- en slibafscheiders.  |
+| 51  | ga  | niet-gebruikte oliën en partijen olie en brandstof die niet aan de specificaties voldoen (off-spec partijen)  |
+| 52  | ga  | boorspoeling op oliebasis (obm), met obm verontreinigd boorgruis en de oliefractie van met obm verontreinigde stoffen  |
+| 53  | ga  | oliehoudende vloeistof die bij de bewerking van metalen en kunststoffen is toegepast, waaronder boor-, snij-, slijp- en walsolie  |
+| 54A  | ga  | bodemas die resteert na verbranding in een roosteroven of wervelbedoven binnen een inrichting die uitsluitend of in hoofdzaak is bestemd voor het verbranden van huishoudelijke afvalstoffen en bedrijfsafvalstoffen als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer en die gevaarlijke stoffen bevat  |
+| 54B  | nga  | bodemas die resteert na verbranding in een roosteroven of wervelbedoven binnen een inrichting die uitsluitend of in hoofdzaak is bestemd voor het verbranden van huishoudelijke afvalstoffen en bedrijfsafvalstoffen als bedoeld in artikel 1.1, eerste lid, van de Wet milieubeheer en die geen gevaarlijke stoffen bevat  |
+| 55  | ga  | arseensulfideslib en arseensulfide-filterkoek  |
+| 56  | ga  | as die resteert na verbranding van afvalstoffen in slibverbrandingsinstallatie (SVI) en die gevaarlijke stoffen bevat  |
+| 57  | nga  | as die resteert na verbranding van afvalstoffen in slibverbrandingsinstallatie (SVI) die geen gevaarlijke stoffen bevat  |
+| 58  | ga  | reststoffen van kolengestookte energiecentrales die gevaarlijke stoffen bevatten  |
+| 59  | nga  | reststoffen van kolengestookte energiecentrales die geen gevaarlijke stoffen bevatten  |
+| 60  | ga  | ijzerhoudende beitsbaden op basis van zoutzuur  |
+| 61A  | ga  | zuren, basen en afvalwaterstromen die edelmetalen als goud, zilver, platina, palladium, rhodium, iridium en ruthenium bevatten en die tevens gevaarlijke stoffen bevatten;  |
+| 61B  | nga  | zuren, basen en afvalwaterstromen die edelmetalen als goud, zilver, platina, palladium, rhodium, iridium en ruthenium bevatten en die geen gevaarlijke stoffen bevatten  |
+| 62A  | ga  | waterig afval verontreinigd met stoffen die voorkomen op de negatieve lijst als beschreven in bijlage 4 van het rapport 'Verwerking waterfractie gevaarlijke en niet-gevaarlijke afvalstoffen' van de Commissie Integraal Waterbeheer (CIW) en dat wordt aangemerkt als gevaarlijk afval  |
+| 62B  | nga  | waterig afval verontreinigd met stoffen die voorkomen op de negatieve lijst als beschreven in bijlage 4 van het rapport 'Verwerking waterfractie gevaarlijke en niet-gevaarlijke afvalstoffen' van de Commissie Integraal Waterbeheer (CIW)  |
+| 63  | ga  | metaalhoudende afvalwaters met de volgende kenmerken:  – organotinverbindingen aanwezig boven de detectiegrens en/of  – een gehalte aan gehalogeneerde koolwaterstoffen (uitgedrukte als EOX) van 10 mg/l of meer in de waterfractie,  EN  – een cadmiumgehalte van 0,2 mg/l of meer in de waterfractie, en/of  – een gehalte aan zeswaardig chroom van 0,1 mg/l of meer in de waterfractie, en/of  – een cyanidegehalte (vrij cyanide) van 1,0 mg/l of meer in de waterfractie, en/of  – een somgehalte aan de metalen arseen, chroom, cobalt, koper, molybdeen, lood, nikkel, tin, vanadium, zink en ijzer van 25 mg/l of meer in de waterfractie  EN  – het betreft gevaarlijk afval  |
+| 64  | nga  | metaalhoudende afvalwaters met de volgende kenmerken:  – organotinverbindingen aanwezig boven de detectiegrens en/of  – een gehalte aan gehalogeneerde koolwaterstoffen (uitgedrukte als EOX) van 10 mg/l of meer in de waterfractie,  EN  – een cadmiumgehalte van 0,2 mg/l of meer in de waterfractie, en/of  – een gehalte aan zeswaardig chroom van 0,1 mg/l of meer in de waterfractie, en/of  – een cyanidegehalte (vrij cyanide) van 1,0 mg/l of meer in de waterfractie, en/of  – een somgehalte aan de metalen arseen, chroom, cobalt, koper, molybdeen, lood, nikkel, tin, vanadium, zink en ijzer van 25 mg/l of meer in de waterfractie  EN  – het betreft geen gevaarlijk afval  |
+| 65  | ga  | zuren, basen en metaalhoudende afvalwaters, niet horend tot de categorieën 60 tot en met 64, met een van de volgende kenmerken:  – een cadmiumgehalte van meer dan 0,2 mg/l in de waterfractie,  – een gehalte aan zeswaardig chroom van meer dan 0,1 mg/l in de waterfractie,  – een cyanidegehalte (vrij cyanide) van meer dan 1,0 mg/l in de waterfractie, of  – een somgehalte aan de metalen arseen, chroom, cobalt, koper, molybdeen, lood, nikkel, tin, vanadium, zink en ijzer van meer dan 200 mg/l, waarvan meer dan 25 mg/l in de waterfractie  |
+| 66  | ga  | ONO-filterkoek die gevaarlijke stoffen bevat  |
+| 67A  | ga  | afgedankte elektrische en elektronische apparatuur die valt onder het Besluit beheer elektrische en elektronische apparatuur, die gevaarlijke stoffen bevat en voor zover niet vallend onder enige andere categorie van deze lijst  |
+| 67B  | nga  | afgedankte elektrische en elektronische apparatuur die valt onder het Besluit beheer elektrische en elektronische apparatuur, die geen gevaarlijke stoffen bevat en voor zover niet vallend onder enige andere categorie van deze lijst  |
+| 68A  | ga  | straalgrit dat op grond van de Regeling niet-reinigbaar straalgrit reinigbaar is en dat gevaarlijke stoffen bevat  |
+| 68B  | nga  | straalgrit dat op grond van de Regeling niet-reinigbaar straalgrit reinigbaar is en dat geen gevaarlijke stoffen bevat  |
+| 69  | ga  | loodzuur batterijen en accu’s  |
+| 70A  | ga  | batterijen en accu’s als bedoeld in de Regeling beheer batterijen en accu’s 2008 voor zover niet zijnde loodzuur batterijen en accu’s (categorie 70) en voorzover zij gevaarlijke stoffen bevatten  |
+| 70B  | nga  | batterijen en accu’s als bedoeld in de Regeling beheer batterijen en accu’s 2008 voor zover niet zijnde loodzuur batterijen en accu’s (categorie 70) en voorzover zij geen gevaarlijke stoffen bevatten  |
+| 71  | ga  | gasontladingslampen  |
+| 72  | ga  | kwikhoudende voorwerpen  |
+| 73  | ga  | amalgaam, sludges, slibben, actief kool, rookgasreinigingsresiduen, filterkoeken en fluorescentiepoeders met een gehalte aan kwik van meer dan 10 mg/kg droge stof  |
+| 74  | ga  | asbest, asbestcementplaten, asbesthoudende voorwerpen en andere en met asbest verontreinigde afvalstoffen niet zijnde asbesthoudende bulkstoffen (categorie 76) voor zover de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, bepaald overeenkomstig een in de Productenregeling asbest vastgestelde methode, hoger is dan 100 mg/kg droge stof  |
+| 75  | ga  | grond, bagger, puin, puingranulaat, water of asbesthoudende afvalstoffen of materialen, niet ontstaan bij selectieve sloop of verwijdering van asbestbevattende materialen uit gebouwen, apparaten, installaties, transportmiddelen en constructies met uitzondering van wegen, waterkeringen, dijken, ophogingen van geluids(wallen) e.d. voor zover de concentratie serpentijnasbest, vermeerderd met tien maal de concentratie amfiboolasbest, bepaald overeenkomstig een in de Productenregeling asbest vastgestelde methode, hoger is dan 100 mg/kg droge stof  |
+| 76  | ga  | reststroom van het shredderen van (onderdelen van) autowrakken, afgedankte elektrische en elektronische apparatuur en ander metaalafval [shredderafval];  |
+| 77  | ga  | PCB-houdende afvalstoffen voor zover niet vallende onder categorie 79 en waarvan het PCB-gehalte groter is dan 0,5 mg/kg per congeneer 28, 52, 101, 118, 138, 153 en 180  |
+| 78  | ga  | apparaten waarvan de in het apparaat aanwezige vloeistof een PCB-gehalte heeft groter dan 0,5 mg/kg per congeneer 28, 52, 101, 118, 138, 153 en 180, betrokken op deze in het apparaat aanwezige vloeistof  |
+| 79  | ga  | metaalafvalstoffen met aanhangende olie of emulsie  |
+| 80  | ga  | verontreinigde grond van verschillende saneringslocaties die gevaarlijke stoffen bevat, tenzij het gaat om partijen waarvoor een verklaring van niet-reinigbaarheid en niet-immobiliseerbaarheid is afgegeven door Rijkswaterstaat  |
+| 81  | nga  | verontreinigde grond van verschillende saneringslocaties die geen gevaarlijke stoffen bevat, tenzij het gaat om partijen waarvoor een verklaring van niet-reinigbaarheid en niet-immobiliseerbaarheid is afgegeven door Rijkswaterstaat  |
+| 82  | ga  | zwavelzuur  |
+| 83A  | ga  | zuurteer en overig afval met een zwavelgehalte van minimaal 5 gewichtsprocent, niet zijnde zwavelzuur (categorie 83) dat gevaarlijke stoffen bevat  |
+| 83B  | nga  | zuurteer en overig afval met een zwavelgehalte van minimaal 5 gewichtsprocent, niet zijnde zwavelzuur (categorie 83) dat geen gevaarlijke stoffen bevat  |
+| 84A  | ga  | overig gevaarlijk afval van buiten de inrichting afkomstig dat gestort mag worden volgens het Besluit stortplaatsen en stortverboden afvalstoffen of een minimumstandaard uit het LAP  |
+| 84B  | nga  | overig niet gevaarlijk afval van buiten de inrichting afkomstig dat gestort mag worden volgens het Besluit stortplaatsen en stortverboden afvalstoffen of een minimumstandaard uit het LAP  |
+| 85A  | ga  | overig gevaarlijk afval van buiten de inrichting afkomstig dat niet gestort mag worden volgens het Besluit stortplaatsen en stortverboden afvalstoffen of een minimumstandaard uit het LAP  |
+| 85B  | nga  | overig niet gevaarlijk afval van buiten de inrichting afkomstig dat niet gestort mag worden volgens het Besluit stortplaatsen en stortverboden afvalstoffen of een minimumstandaard uit het LAP  |
+
+Voetnoot [1]: ‘ga’ wil zeggen dat een afvalstof alleen in deze categorie kan vallen voor zover er sprake is van een gevaarlijke afvalstof ‘nga’ wil zeggen dat een afvalstof alleen in deze categorie kan vallen voor zover geen sprake is van een gevaarlijke afvalstof 
+
+### Bijlage  12a  
+
+####Lijst van stoffen, stofklassen en stofcategorieën
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De stofklasse en/of grensmassastroom en emissie eis van individuele stoffen kunnen afwijken van die voor een stofgroep. Indien een stof individueel is ingedeeld geldt de grensmassastroom en emissie-eis van de individuele stof in plaats van die van de groep.  
+
+| CAS Nummer  | Naam  | Stofcategorie  | Stofklasse  |
+|:---|:---|:---|:---|
+| 100-18-5  | p-diisopropylbenzeen  | gO  | gO.2  |
+| 100-21-0  | benzeen-1,4-dicarbonzuur; tereftaalzuur  | sO  | sO  |
+| 10025-78-2  | trichloorsiliciumhydride  | gA  | gA.3  |
+| 10026-04-7  | siliciumtetrachloride  | gA  | gA.3  |
+| 10034-85-2  | waterstofjodide  | gA  | gA.2  |
+| 100-41-4  | ethylbenzeen  | gO  | gO.2  |
+| 100-42-5  | styreen; vinylbenzeen  | gO  | gO.2  |
+| 10043-35-3  | boorzuur  | ZZS  | zie bijlage 12b   |
+| 100-44-7  | chloormethylbenzeen; benzylchloride; α-chloortolueen  | ZZS  | zie bijlage 12b   |
+| 10049-04-4  | chloordioxide  | gA  | gA.1  |
+| 100-51-6  | benzylalcohol  | gO  | gO.2  |
+| 100-52-7  | benzaldehyde  | gO  | gO.1  |
+| 100-63-0  | fenylhydrazine  | ZZS  | MVP 1  |
+| 100-66-3  | anisool; methoxybenzeen  | gO  | gO.2  |
+| 101-14-4  | 2,2'-dichloor-4,4'-methyleendianiline; 4,4'-methyleenbis(2-chlooraniline); zouten van 2,2'-dichloor-4,4'-methyleendianiline  | ZZS  | MVP 1  |
+| 101-21-3  | isopropyl-3-chloorfenylcarbamaat; chloorprofam; isopropyl-3-chloorcarbanilaat  | gO  | gO.1  |
+| 10124-43-3  | kobaltsulfaat  | ZZS  | zie bijlage 12b   |
+| 10141-05-6  | kobalt(II)dinitraat  | ZZS  | zie bijlage 12b   |
+| 101-61-1  | N,N,N',N'-tetramethyl-4,4'-methyleendianiline; Michler's base  | ZZS  | MVP 1  |
+| 101-68-8  | difenylmethaan-4,4-diisocyanaat; MDI  | sO  | sO  |
+| 101-77-9  | 4,4'-methyleendianiline; 4,4'-diaminodifenylmethaan  | ZZS  | MVP 1  |
+| 101-80-4  | 4,4'-oxydianiline; zouten van 4,4'-oxydianiline; p-aminofenylether; zouten van p-aminofenylether  | ZZS  | MVP 1  |
+| 101-84-8  | difenylether  | sO  | sO  |
+| 10190-55-3  | loodmolybdaat, berekend als Pb  | ZZS  | zie bijlage 12b   |
+| 10215-33-5  | 3-butoxy-1-propanol  | gO  | gO.2  |
+| 1024-57-3  | heptachloorepoxide  | ZZS  | MVP 1  |
+| 102561-46-6  | benzyltributyl-ammonium 4-hydroxy-naftaleen-1-sulfonaat  | S  | S  |
+| 102-71-6  | tri-ethanolamine  | gO  | gO.2  |
+| 10294-34-5  | boriumtrichloride  | gA  | gA.2  |
+| 103112-35-2  | ethyl-1-(2,4-dichloorfenyl)-5-(trichloormethyl)-1H-1,2,4-triazool-3-carboxylaat  | ZZS  | MVP 1  |
+| 103-11-7  | 2-ethylhexylacrylaat  | gO  | gO.1  |
+| 103122-66-3  | O-isobutyl-N-ethoxycarbonylthiocarbamaat  | ZZS  | MVP 1  |
+| 10332-33-9  | perboorzuur (HBO(O<sub>2</sub>)) natrium zout monohydraat  | ZZS  | zie bijlage 12b   |
+| 103-33-3  | azobenzeen  | ZZS  | MVP 1  |
+| 103361-09-7  | flumioxazine; N-(7-fluor-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazin-6-yl)cyclohex-1-een-1,2-dicarboxamide  | ZZS  | MVP 1  |
+| 103-65-1  | isocumol; n-propylbenzeen  | gO  | gO.2  |
+| 104-40-5  | p-nonylfenol; 4-(para)-nonylfenol  | ZZS  | MVP 2  |
+| 10486-00-7  | perboorzuur (H<sub>3</sub>BO<sub>2</sub>(O<sub>2</sub>)) natriumzout tetrahydraat  | ZZS  | zie bijlage 12b   |
+| 105024-66-6  | (4-ethoxyfenyl)(3-(3-fenoxy-4-fluorfenyl)propyl)dimethylsilaan  | ZZS  | MVP 1  |
+| 105-58-8  | diethylcarbonaat  | gO  | gO.2  |
+| 105-60-2  | caprolactam  | gO  | gO.1  |
+| 105-67-9  | 2,4-dimethylfenol; 2,4-xylenol  | gO  | gO.2  |
+| 10605-21-7  | carbendazim; methylbenzimidazool-2-ylcarbamaat  | ZZS  | MVP 1  |
+| 106325-08-0  | epoxiconazool; (2RS,3SR)-3-(2-chloorfenyl)-2-(4-fluorfenyl)-[(1H-1,2,4-triazool-1-yl)methyl]oxiraan  | ZZS  | MVP 1  |
+| 106-46-7  | 1,4-dichloorbenzeen  | gO  | gO.2  |
+| 106-47-8  | 4-chlooraniline  | ZZS  | MVP 1  |
+| 106-65-0  | dimethylsuccinaat  | gO  | gO.1  |
+| 106-89-8  | 1-chloor-2,3-epoxypropaan; chloormethyloxiraan; epichloorhydrine  | ZZS  | MVP 2  |
+| 106-93-4  | 1,2-dibroomethaan  | ZZS  | MVP 2  |
+| 106-94-5  | 1-broompropaan  | ZZS  | zie bijlage 12b   |
+| 106-97-8  | butaan [met 0,1 procent of meer butadieen (203-450-8)]  | ZZS  | MVP 2  |
+| 106-99-0  | 1,3-butadieen; buta-1,3-dieen  | ZZS  | MVP 2  |
+| 107-02-8  | 2-propenal; acroleïne  | gO  | gO.1  |
+| 107-06-2  | 1,2-dichloorethaan; ethyleenchloride  | ZZS  | MVP 2  |
+| 107-10-8  | n-propylamine  | gO  | gO.1  |
+| 107-13-1  | acrylonitril; 2-propeennitril; propeennitril  | ZZS  | MVP 2  |
+| 107-15-3  | 1,2-diaminoethaan  | gO  | gO.1  |
+| 107-20-0  | 2-chloorethanal; chlooraceetaldehyde  | gO  | gO.1  |
+| 107-21-1  | 1,2-ethaandiol; ethyleenglycol; glycol  | gO  | gO.2  |
+| 107-22-2  | glyoxal  | gO  | gO.1  |
+| 107-30-2  | chloordimethylether; chloormethyl-methylether  | ZZS  | MVP 2  |
+| 107-31-3  | methylformiaat  | gO  | gO.3  |
+| 107-46-0  | hexylmethyldisiloxaan  | gO  | gO.2  |
+| 107-87-9  | 2-pentanon; methylpropylketon  | gO  | gO.2  |
+| 107-98-2  | 1-methoxy-2-propanol  | gO  | gO.2  |
+| 108-01-0  | dimethylaminoethanol  | gO  | gO.2  |
+| 108-05-4  | azijnzuurvinylester; vinylacetaat  | gO  | gO.2  |
+| 108-10-1  | 4-methyl-2-pentanon; isobutylmethylketon; methylisobutylketon; MIBK  | gO  | gO.2  |
+| 108-20-3  | 2-isopropoxypropaan; diisopropylether  | gO  | gO.2  |
+| 108-21-4  | i-propylacetaat; isopropylacetaat  | gO  | gO.2  |
+| 108225-03-2  | (6-(4-hydroxy-3-(2-methoxyfenylazo)-2-sulfonato-7-naftylamino)-1,3,5-triazin-2,4-diyl)bis[(amino-1-methylethyl)ammonium]-formaat  | ZZS  | MVP 1  |
+| 108-24-7  | azijnzuuranhydride  | gO  | gO.1  |
+| 108-31-6  | maleïnezuuranhydride; MAA  | sO  | sO  |
+| 108-46-3  | 1,3-dihydroxybenzeen; resorcinol  | gO  | gO.2  |
+| 108-65-6  | 1-methoxy-2-propylacetaat; 2-methoxy-1methylethylacetaat  | gO  | gO.2  |
+| 108-70-3  | 1,3,5-trichloorbenzeen  | ZZS  | MVP 1  |
+| 108-83-8  | diisobutylketon  | gO  | gO.2  |
+| 108-87-2  | methylcyclohexaan  | gO  | gO.2  |
+| 108-88-3  | tolueen; methylbenzeen  | gO  | gO.2  |
+| 108-90-7  | chloorbenzeen  | gO  | gO.2  |
+| 108-93-0  | cyclohexanol  | gO  | gO.2  |
+| 108-94-1  | cyclohexanon  | gO  | gO.2  |
+| 108-95-2  | fenol  | gO  | gO.1  |
+| 109-60-4  | n-propylacetaat  | gO  | gO.2  |
+| 109-65-9  | 1-broombutaan  | gO  | gO.2  |
+| 109-66-0  | pentaan  | gO  | gO.2  |
+| 109-70-6  | 1-broom-3-chloorpropaan  | gO  | gO.3  |
+| 109-86-4  | 2-methoxyethanol; methyleenglycolmonomethylether; ethyleenglycolmono-methylether; methylglycol  | ZZS  | zie bijlage 12b   |
+| 109-89-7  | diethylamine  | gO  | gO.1  |
+| 109-94-4  | ethylformiaat  | gO  | gO.2  |
+| 109-99-9  | tetrahydrofuran  | gO  | gO.2  |
+| 110-00-9  | furan  | ZZS  | MVP 2  |
+| 110-12-3  | 5-methyl-2-hexanon; methylisoamylketon  | gO  | gO.2  |
+| 110-19-0  | iso-butylacetaat  | gO  | gO.2  |
+| 110-49-6  | 2-methoxyethylacetaat  | ZZS  | zie bijlage 12b   |
+| 110-71-4  | 1,2-dimethoxyethaan; ethyleenglycoldimethylether  | ZZS  | MVP 2  |
+| 110-80-5  | 2-ethoxyethanol; ethyleenglycolmono-ethylether  | ZZS  | zie bijlage 12b   |
+| 110-82-7  | cyclohexaan  | gO  | gO.2  |
+| 110-85-0  | piperazine  | gO  | gO.1  |
+| 110-86-1  | pyridine  | gO  | gO.1  |
+| 110-88-3  | 1,3,5-trioxaan  | gO  | gO.3  |
+| 11113-50-1  | natuurlijk ruw boorzuur met een gehalte aan H3BO3 van niet meer dan 85 gewichtspercenten berekend op de droge stof  | ZZS  | zie bijlage 12b   |
+| 111-15-9  | 2-ethoxyethylacetaat; ethylglycolacetaat  | ZZS  | zie bijlage 12b   |
+| 111-35-3  | 3-ethoxy-1-propanol  | gO  | gO.2  |
+| 11138-47-9  | perboorzuur natriumzout  | ZZS  | zie bijlage 12b   |
+| 111-41-1  | 2-(2-aminoethylamino)ethanol; AEEA  | ZZS  | MVP 1  |
+| 111-42-2  | 2,2'-iminodiethanol; diethanolamine  | gO  | gO.2  |
+| 1116-54-7  | 2,2'-(nitrosoimino)bisethanol  | ZZS  | MVP 1  |
+| 111-76-2  | 2-butoxyethanol; butylglycol  | gO  | gO.2  |
+| 111-77-3  | 3-methoxyethoxyethanol  | gO  | gO.2  |
+| 111-90-0  | diethyleenglycolmonoethylether; ethyldiglycol  | gO  | gO.2  |
+| 1119-40-0  | dimethylglutaraat  | gO  | gO.1  |
+| 111-96-6  | bis(2-methoxyethyl)ether  | ZZS  | MVP 2  |
+| 1120-71-4  | 1,3-propaansulton  | ZZS  | MVP 2  |
+| 112-07-2  | 1-butoxy-2-ethylacetaat; butylglycolacetaat  | gO  | gO.2  |
+| 112-24-3  | triethyleentetramine  | gO  | gO.2  |
+| 112-34-5  | 2-(2-butoxy-ethoxy)-ethanol; butyldiglycol; diethyleenglycolbutylether  | gO  | gO.2  |
+| 112-49-2  | 1,2-bis(2-methoxyethoxy)ethaan; TEGDME; triethyleenglycoldimethylether; triglyme  | ZZS  | MVP 1  |
+| 112-70-9  | tridecanol (isomeren mengsel); tridecylalkohol  | gO  | gO.2  |
+| 115-10-6  | dimethylether  | gO  | gO.2  |
+| 115-11-7  | 2-methylpropeen; isobuteen; isobutyleen  | gO  | gO.2  |
+| 115-29-7  | endosulfan  | ZZS  | MVP 1  |
+| 115-32-2  | dicofol  | ZZS  | MVP 1  |
+| 115-86-6  | trifenylfosfaat  | gO  | gO.1  |
+| 115-96-8  | tris(2-chloorethyl)fosfaat  | ZZS  | MVP 1  |
+| 116-14-3  | tetrafluoretheen; tetrafluorethyleen  | gO  | gO.2  |
+| 116-15-4  | hexafluorpropeen  | gO  | gO.1  |
+| 117-81-7  | bis(2-ethylhexyl)ftalaat; di-ethylhexyl ftalaat; DEHP  | ZZS  | MVP 1  |
+| 117-82-8  | bis(2-methoxyethyl)ftalaat  | ZZS  | MVP 1  |
+| 117955-40-5  | 2-methoxypropylacetaat  | ZZS  | zie bijlage 12b   |
+| 118658-99-4  | (methyleenbis(4,1-fenyleenazo(1-(3-(dimethylamino)propyl)-1,2-dihydro-6-hydroxy-4-methyl-2-oxopyridine-5,3-diyl)))-1,1'-dipyridiniumdichloridedihydrochloride  | ZZS  | MVP 1  |
+| 118-74-1  | hexachloorbenzeen  | ZZS  | MVP 1  |
+| 118-79-6  | 2,4,6-tribroomfenol  | gO  | gO.1  |
+| 1194-65-6  | dichlobenil  | sO  | sO  |
+| 119-64-2  | 1,2,3,4-tetrahydronaftaleen; tetraline  | gO  | gO.2  |
+| 119738-06-6  | (±) tetrahydrofurfuryl-(R)-2-[4-(6-chloorchinoxalin-2-yloxy)-fenyloxy]propanoaat  | ZZS  | MVP 1  |
+| 119-90-4  | 3,3'-dimethoxybenzidine; o-dianisidine; zouten van 3,3'-dimethoxybenzidine; zouten van o-dianisidine  | ZZS  | MVP 1  |
+| 119-93-7  | 3,3'-dimethylbenzidine; 4,4'-bi-o-toluidine; zouten van 3,3'-dimethylbenzidine; zouten van 4,4'-bi-o-toluidine  | ZZS  | MVP 1  |
+| 12007-00-0  | nikkelboride (NiB)  | ZZS  | zie bijlage 12b   |
+| 12007-01-1  | dinikkelboride  | ZZS  | zie bijlage 12b   |
+| 12007-02-2  | trinikkelboride  | ZZS  | zie bijlage 12b   |
+| 120-12-7  | antraceen  | ZZS  | zie bijlage 12b   |
+| 12036-01-0  | zirkoonoxide  | S  | S  |
+| 12040-72-1  | perboorzuur natriumzout monohydraat  | ZZS  | zie bijlage 12b   |
+| 12068-61-0  | nikkeldiarsenide  | ZZS  | zie bijlage 12b   |
+| 120-71-8  | 6-methoxy-m-toluidine; p-cresidine  | ZZS  | MVP 1  |
+| 120-82-1  | 1,2,4-trichloorbenzeen  | ZZS  | MVP 2  |
+| 120-92-3  | cyclopentanon  | gO  | gO.1  |
+| 121-14-2  | 2,4-dinitrotolueen  | ZZS  | MVP 1  |
+| 121-44-8  | triethylamine  | gO  | gO.1  |
+| 121-69-7  | N,N-dimethylaniline  | gO  | gO.1  |
+| 12179-04-3  | boraxpentahydraat; dinatriumtetraboraatpentahydraat  | ZZS  | zie bijlage 12b   |
+| 122-60-1  | 1,2-epoxy-3-fenoxypropaan; fenylglycidylether  | ZZS  | MVP 1  |
+| 122-66-7  | hydrazobenzeen; 1,2-difenylhydrazine  | ZZS  | MVP 1  |
+| 12267-73-1  | tetraboordinatriumheptaoxide hydraat  | ZZS  | zie bijlage 12b   |
+| 122-99-6  | fenoxyethanol  | gO  | gO.2  |
+| 123-03-5  | cetylpyridiniumchloride  | gO  | gO.1  |
+| 123312-54-9  | distearyldimethylammonium-bisulfaat  | gO  | gO.1  |
+| 123-38-6  | propanal; propionaldehyde  | gO  | gO.2  |
+| 123-39-7  | N-methylformamide  | ZZS  | MVP 2  |
+| 123-42-2  | 4-hydroxy-4-methyl-2-pentanon; diacetonalcohol  | gO  | gO.2  |
+| 123-72-8  | butanal; n-butylaldehyde; n-butyraldehyd  | gO  | gO.2  |
+| 123-73-9  | 2-butenal  | ZZS  | MVP 1  |
+| 123-77-3  | azodicarbonamide; 1,1-Azobisformamide; C,C'-azodi(formamide)  | ZZS  | MVP 1  |
+| 123-86-4  | azijnzuurbutylester; n-butylacetaat  | gO  | gO.2  |
+| 123-91-1  | 1,4-dioxan  | gO  | gO.1  |
+| 123-92-2  | iso-amylacetaat  | gO  | gO.2  |
+| 123-95-5  | butylstearaat  | gO  | gO.2  |
+| 124-17-4  | 2-(2-butoxy-ethoxy)-ethylacetaat  | gO  | gO.2  |
+| 124-40-3  | dimethylamine  | gO  | gO.1  |
+| 124495-18-7  | quinoxyfen; 5,7-dichloor-4-(p-fluorfenoxy)quinoline  | ZZS  | MVP 1  |
+| 124-68-5  | isobutanol-2-amine  | gO  | gO.2  |
+| 12510-42-8  | erioniet  | ZZS  | MVP 1  |
+| 12619-90-8  | nikkelboride  | ZZS  | zie bijlage 12b   |
+| 126-99-8  | chloropreen; 2-chloor-1,3-butadieen; 2-chloropreen  | ZZS  | zie bijlage 12b   |
+| 127-18-4  | perchloorethyleen; tetrachlooretheen; PER  | gO  | gO.2  |
+| 127-19-5  | N,N-dimethylaceetamide  | ZZS  | zie bijlage 12b   |
+| 12737-30-3  | kobaltnikkeloxide  | ZZS  | zie bijlage 12b   |
+| 1300-71-6  | xylenolen m.u.v. 2,4-xylenol  | gO  | gO.1  |
+| 1303-00-0  | galliumarsenide  | ZZS  | zie bijlage 12b   |
+| 1303-28-2  | arseenpentoxide; diarseenpentaoxide  | ZZS  | zie bijlage 12b   |
+| 1303-86-2  | booroxide; diboortrioxide  | ZZS  | zie bijlage 12b   |
+| 1303-96-4  | boraxdecahydraat; dinatriumtetraboraatdecahydraat  | ZZS  | zie bijlage 12b   |
+| 1304-56-9  | berylliumoxide  | ZZS  | MVP 1  |
+| 1305-78-8  | calciumoxide  | sA  | sA.3  |
+| 1306-23-6  | cadmiumsulfide  | ZZS  | MVP 1  |
+| 1310-58-3  | kaliumhydroxide  | sA  | sA.3  |
+| 1310-73-2  | natriumhydroxide  | sA  | sA.3  |
+| 131-18-0  | di-n-pentylftalaat; n-pentyl-isopentylftalaat  | ZZS  | MVP 1  |
+| 1313-99-1  | nikkeloxide; nikkelmonoxide  | ZZS  | MVP 1  |
+| 1314-36-9  | yttriumoxide  | sA  | sA.3  |
+| 1314-62-1  | vanadiumpentoxide  | sA  | sA.1  |
+| 13149-00-3  | hexahydroftaalzuur-anhydride (cis-isomeer); cis-cyclohexaan-1,2-dicarbonzuuranhydride  | ZZS  | MVP 1  |
+| 1317-61-9  | ijzeroxide (Fe3O4)  | S  | S  |
+| 1321-64-8  | pentachloornaftaleen  | ZZS  | ERS  |
+| 1321-65-9  | trichloornaftaleen  | MVP  | ERS  |
+| 132-32-1  | 3-amino-9-ethylcarbazool; 9-ethylcarbazool-3-ylamine  | ZZS  | MVP 1  |
+| 1327-53-3  | arseentrioxide  | ZZS  | zie bijlage 12b   |
+| 1330-43-4  | boorzuur dinatriumzout; dinatriumtetraboraat watervrij; boraxdecahydraat; dinatriumtetraboraatdecahydraat; boraxpentahydraat; dinatriumtetraboraatpentahydraat  | ZZS  | zie bijlage 12b   |
+| 1331-22-2  | methylcyclohexanon  | gO  | gO.2  |
+| 1332-21-4  | asbest  | sA  | sA.1  |
+| 1333-86-4  | carbon black  | S  | S  |
+| 1335-32-6  | basisch loodacetaat  | ZZS  | MVP 1  |
+| 1335-87-1  | hexachloornaftaleen  | ZZS  | ERS  |
+| 1335-88-2  | tetrachloornaftaleen  | ZZS  | ERS  |
+| 13360-57-1  | dimethylsulfamoylchloride  | ZZS  | MVP 2  |
+| 1336-36-3  | polychloorbifenylen; PCB's  | ZZS  | ERS  |
+| 1338-23-4  | methylethylketonperoxide  | gO  | gO.1  |
+| 133855-98-8  | epoxiconazool; (2RS,3SR)-3-(2-chloorfenyl)-2-(4-fluorfenyl)-[(1H-1,2,4-triazool-1-yl)methyl]oxiraan  | ZZS  | MVP 1  |
+| 13463-39-3  | nikkeltetracarbonyl; tetracarbonylnikkel  | ZZS  | MVP 2  |
+| 13463-40-6  | ijzerpentacarbonyl  | sA  | sA.1  |
+| 13463-67-7  | titaandioxide  | S  | S  |
+| 13477-70-8  | nikkel(II)arsenaat; trinikkelbis(arsenaat)  | ZZS  | zie bijlage 12b   |
+| 13517-20-9  | perboorzuur (H<sub>3</sub>BO<sub>2</sub>(O<sub>2</sub>)) mononatriumzout trihydraat  | ZZS  | zie bijlage 12b   |
+| 137-17-7  | 2,4,5-trimethylaniline  | ZZS  | MVP 1  |
+| 13746-66-2  | kaliumferricyanide  | sA  | sA.3  |
+| 13814-96-5  | loodbis(tetrafluorboraat); loodfluorboraat  | ZZS  | zie bijlage 12b   |
+| 138-22-7  | butyllactaat  | gO  | gO.2  |
+| 13840-56-7  | orthoboorzuur natriumzout  | ZZS  | zie bijlage 12b   |
+| 138-86-3  | limoneen  | gO  | gO.2  |
+| 139-65-1  | 4,4'-thiodianiline; zouten van 4,4'-thiodianiline  | ZZS  | MVP 1  |
+| 140-66-9  | 1,1,3,3-tetramethyl-4-butylfenol; 4-tert-octylfenol; para-tert-octylfenol  | ZZS  | MVP 1  |
+| 140-88-5  | acrylzuurethylester; ethylacrylaat; ethylpropenoaat  | gO  | gO.1  |
+| 141-32-2  | butylacrylaat  | gO  | gO.1  |
+| 141-43-5  | ethanolamine  | gO  | gO.2  |
+| 14166-21-3  | hexahydroftaalzuur-anhydride (trans-isomeer); trans-cyclohexaan-1,2-dicarbonzuuranhydride  | ZZS  | MVP 1  |
+| 141-78-6  | azijnzuurester; azijnzuurethylester; ethylacetaat  | gO  | gO.2  |
+| 1420-07-1  | dinoterb; 2-tert-butyl-4,6-dinitrofenol  | ZZS  | MVP 1  |
+| 142-96-1  | dibutylether  | gO  | gO.2  |
+| 143-18-0  | kaliumoleaat  | gO  | gO.2  |
+| 143-50-0  | chloordecon  | ZZS  | MVP 1  |
+| 143860-04-2  | 3-ethyl-2-methyl-2-(3-methylbutyl)-1,3-oxazolidine  | ZZS  | MVP 1  |
+| 14464-46-1  | cristoballiet  | sA  | sA.1  |
+| 1464-53-5  | 2,2'-bioxiraan; 1,2:3,4-diepoxybutaan  | ZZS  | MVP 2  |
+| 14708-14-6  | nikkelbis(tetrafluorboraat)  | ZZS  | zie bijlage 12b   |
+| 14808-60-7  | silica (kwarts) als respirabel stof, met uitsluiting van silicavezels (definitie vezels zie § 3.2.3); zand e.a. siliciumverbindingen, m.u.v. kristallijne en/of vezelvormige verbindingen  | sA  | sA.2  |
+| 14977-61-8  | chromylchloride  | ZZS  | zie bijlage 12b   |
+| 15120-21-5  | natriumperboraat  | ZZS  | zie bijlage 12b   |
+| 151-56-4  | aziridine; ethyleenimine  | ZZS  | zie bijlage 12b   |
+| 151798-26-4  | 2-[2-hydroxy-3-(2-chlorfenyl)carbamoyl-1-naftylazo]-7-[2-hydroxy-3-(3-methylfenyl)carbamoyl-1-naftylazo]fluoreen-9-on  | ZZS  | MVP 1  |
+| 15468-32-3  | tridymiet  | sA  | sA.1  |
+| 15606-95-8  | triethylarsenaat  | ZZS  | zie bijlage 12b   |
+| 1569-01-3  | n-propoxypropanol-2  | gO  | gO.2  |
+| 1569-02-4  | 1-ethoxy-2-propanol  | gO  | gO.2  |
+| 1582-09-8  | trifluralin  | ZZS  | MVP 1  |
+| 1589-47-5  | 2-methoxypropanol  | ZZS  | zie bijlage 12b   |
+| 16071-86-6  | dinatrium-{5-[(4'-((2,6-dihydroxy-3-((2-hydroxy-5-sulfofenyl)azo)fenyl)azo)(1,1'-bifenyl)-4-yl)azo]salicylato(4-)}cupraat(2-)  | ZZS  | MVP 1  |
+| 1634-04-4  | methyl-tertiair-butylether (MTBE)  | gO  | gO.2  |
+| 164058-22-4  | trinatrium-[4'-(8-acetylamino-3,6-disulfonato-2-nafthylazo)-4''-(6-benzoylamino-3-sulfonato-2-nafthylazo)-bifenyl-1,3',3'',1'''-tetraolato-O,O',O'',O''']koper(II)  | ZZS  | MVP 1  |
+| 16812-54-7  | nikkelsulfide; nikkel(II)sulfide  | ZZS  | MVP 1  |
+| 1763-23-1  | heptadecafluoroctaan-1-sulfonzuur; perfluoroctaansulfonzuur (PFOS)  | ZZS  | MVP 1  |
+| 17804-35-2  | benomyl; methyl-1-(butylcarbamoyl)benzimidazool-2-ylcarbamaat  | ZZS  | MVP 1  |
+| 1825-21-4  | pentachlooranisol  | ZZS  | MVP 1  |
+| 183196-57-8  | kalium-1-methyl-3-morfolinocarbonyl-4-[3-(1-methyl-3-morfolinocarbonyl-5-oxo-2-pyrazoline-4-ylideen)-1-propenyl]pyrazool-5-olaat [met 0,5 procent of meer N,N-dimethylformamide (EC Nr 200-679-5)]  | ZZS  | MVP 2  |
+| 1836-75-5  | nitrofeen; 2,4-dichloorfenyl-4-nitrofenylether  | ZZS  | MVP 1  |
+| 18540-29-9  | chroom(VI)verbindingen  | ZZS  | zie bijlage 12b   |
+| 189-55-9  | dibenzo[a,i]pyreen (PAK)  | ZZS  | MVP 1  |
+| 189-64-0  | dibenzo[a,h]pyreen (PAK)  | ZZS  | MVP 1  |
+| 1897-52-5  | 2,6-difluorbenzonitril; diflubenil  | sO  | sO  |
+| 19089-47-5  | 2-ethoxy-1-propanol  | gO  | gO.2  |
+| 191-24-2  | benzo[g,h,i]peryleen (PAK)  | ZZS  | MVP 1  |
+| 191-30-0  | dibenzo[a,l]pyreen (PAK)  | ZZS  | MVP 1  |
+| 192-65-4  | dibenzo[a,e]pyreen (PAK)  | ZZS  | MVP 1  |
+| 19287-45-7  | diboraan (B2H6)  | gA  | gA.1  |
+| 192-97-2  | benzo(e)pyreen (PAK)  | ZZS  | MVP 1  |
+| 193-39-5  | indeno(1,2,3-cd)pyreen (PAK)  | ZZS  | MVP 1  |
+| 1937-37-7  | dinatrium-4-amino-3-[[4'-[(2,4-diaminofenyl)azo][1,1'-bifenyl]-4-yl]azo]-6-(fenylazo)-5-hydroxynaftaleen-2,7-disulfonaat  | ZZS  | MVP 1  |
+| 19438-60-9  | methylcyclohexyl-1,6-dicarboxylzuur-anhydride  | ZZS  | MVP 1  |
+| 194-59-2  | 7H-dibenzo[c,g]carbazol (PAK)  | ZZS  | MVP 1  |
+| 199327-61-2  | 7-methoxy-6-(3-morfoline-4-ylpropoxy)-3H-chinazoline-4-on [met 0,5 procent of meer formamide (EC-nr. 200-842-0)]  | ZZS  | MVP 1  |
+| 2040-90-6  | 2-chloor-6-fluorfenol  | ZZS  | MVP 1  |
+| 205-82-3  | benzo[j]fluorantheen (PAK)  | ZZS  | MVP 1  |
+| 2058-94-8  | perfluorundecanoaat  | ZZS  | MVP 1  |
+| 205-99-2  | benzo[b]fluorantheen (PAK); benzo[e]acefenantryleen (PAK)  | ZZS  | MVP 1  |
+| 206-44-0  | fluorantheen (PAK)  | ZZS  | MVP 1  |
+| 207-08-9  | benzo[k]fluorantheen  | ZZS  | MVP 1  |
+| 207122-15-4  | hexabroomdifenylether; BDE-154  | ZZS  | ERS  |
+| 207122-16-5  | heptabroomdifenylether; BDE -183  | ZZS  | ERS  |
+| 208-96-8  | acenaftyleen  | sO  | sO  |
+| 2104-64-5  | ethyl-p-nitrofenylthio-benzeenfosfenaat; EPN  | ZZS  | MVP 1  |
+| 21136-70-9  | benzidine sulfaat; [1,1'-bifenyl]-4,4'-diamine sulfaat  | ZZS  | MVP 1  |
+| 214353-17-0  | 1-(2-amino-5-chloorfenyl)-2,2,2-trifluor-1,1-ethaandiol hydrochloride [met 0,1 procent of meer 4-chlooraniline (EC-nr. 203-401-0)]  | ZZS  | MVP 1  |
+| 21436-97-5  | 2,4,5-trimethylanilinehydrochloride  | ZZS  | MVP 1  |
+| 218-01-9  | chryseen (PAK)  | ZZS  | MVP 1  |
+| 2227-13-6  | tetrasul  | ZZS  | MVP 1  |
+| 2234-13-1  | octachloornaftaleen  | ZZS  | ERS  |
+| 22398-80-7  | indium fosfide  | ZZS  | MVP 1  |
+| 224-42-0  | dibenz[a,j]acridine (PAK)  | ZZS  | MVP 1  |
+| 226-36-8  | dibenz[a,h]acridine (PAK)  | ZZS  | MVP 1  |
+| 23593-75-1  | clotrimazol; 1-(2-chloorfenyl)difenylmethyl-1-h-imidazol  | ZZS  | MVP 1  |
+| 2385-85-5  | mirex  | ZZS  | MVP 1  |
+| 2425-06-1  | captafol  | ZZS  | MVP 1  |
+| 2440-02-0  | heptachloornorborneen  | ZZS  | MVP 1  |
+| 2451-62-9  | 1,3,5-tris(oxiranylmethyl)-1,3,5-triazine-2,4,6(1H3H5H)-trion; TGIC  | ZZS  | MVP 1  |
+| 24602-86-6  | tridemorf; 2,6-dimethyl-4-tridecylmorfoline  | ZZS  | MVP 1  |
+| 2475-45-8  | 1,4,5,8-tetraaminoantrachinon  | ZZS  | MVP 1  |
+| 24937-79-9  | polyvinylideenfluoride  | S  | S  |
+| 25038-54-4  | 6-aminohexaanzuur (dimeer)  | gO  | gO.2  |
+| 25086-15-1  | polymethylmethacrylaat  | S  | S  |
+| 25154-52-3  | nonylfenolen en verwante verbindingen; NPs  | ZZS  | MVP 1  |
+| 25155-23-1  | trixylyl fosfaat; TXP  | ZZS  | MVP 1  |
+| 25167-70-8  | 2,4,4-trimethyl-1-penteen; diisobuteen  | gO  | gO.2  |
+| 25214-70-4  | oligomere reactieproducten van formaldehyde met aniline (technisch MDA)  | ZZS  | MVP 1  |
+| 25321-09-9  | diisopropylbenze(e)n(en)  | gO  | gO.2  |
+| 25321-14-6  | dinitrotolueen  | ZZS  | MVP 1  |
+| 25339-17-7  | isodecanol  | gO  | gO.2  |
+| 25340-17-4  | diethylbenzeen (isomeren:1,2-;1,3-;1,4)  | gO  | gO.2  |
+| 2551-62-4  | zwavelhexafluoride  | gA  | gA.3  |
+| 25550-51-0  | methylhexahydroftaalzuur anhydride (MHHPA)  | ZZS  | MVP 1  |
+| 2580-56-5  | [4-[[4-anilino-1-naftyl][4-(dimethylamino)fenyl]methyleen]cyclohexa-2,5-dien-1-ylidene] dimethylammonium chloride (C.I. Basic Blue 26) [met 0,1 procent of meer Michler's keton (EC nr. 202-027-5) of Michler's base (EC No. 202-959-2)]  | ZZS  | MVP 1  |
+| 2602-46-2  | tetranatrium-3,3'-[[1,1'-bifenyl]-4,4'-diylbis(azo)]bis[5-amino-4-hydroxynaftaleen-2,7-disulfonaat]  | ZZS  | MVP 1  |
+| 26140-60-3  | terfenyl (gehydrogeneerd)  | gO  | gO.1  |
+| 26761-40-0  | di-isodecyl-ftalaat; DIDP; diisodecylftalaat  | sO  | sO  |
+| 2687-91-4  | N-ethyl-2-pyrrolidon; 1-ethylpyrrolidin-2-one  | ZZS  | MVP 2  |
+| 27016-75-7  | nikkelarsenide  | ZZS  | zie bijlage 12b   |
+| 27140-08-5  | fenylhydrazinehydrochloride  | ZZS  | MVP 1  |
+| 27366-72-9  | N,N-(dimethylamino)thioaceetamide hydrochloride  | ZZS  | MVP 2  |
+| 27458-92-0  | isotrideca-1-ol  | gO  | gO.1  |
+| 2795-39-3  | kaliumheptadecafluoroctaan-1-sulfonaat; kaliumperfluoroctaansulfonaat  | ZZS  | MVP 1  |
+| 28553-12-0  | diisononylftalaat; DINP  | sO  | sO  |
+| 28680-45-7  | heptachloornorborneen  | ZZS  | MVP 1  |
+| 29081-56-9  | ammoniumheptadecafluoroctaansulfonaat; ammoniumperfluoroctaansulfonaat  | ZZS  | MVP 1  |
+| 2915-52-8  | didodecylmaleaat; dilauryl maleate  | gO  | gO.2  |
+| 29457-72-5  | lithiumheptadecafluoroctaansulfonaat; lithiumperfluoroctaansulfonaat  | ZZS  | MVP 1  |
+| 294-62-2  | cyclododecaan  | ZZS  | MVP 1  |
+| 301-04-2  | looddiacetaat  | ZZS  | MVP 1  |
+| 302-01-2  | hydrazine; zouten van hydrazine  | ZZS  | MVP 2  |
+| 3033-77-0  | 2,3-epoxypropyltrimethylammoniumchloride; glycidyltrimethylammoniumchloride  | ZZS  | MVP 1  |
+| 307-55-1  | perfluordodecanoaat  | ZZS  | MVP 1  |
+| 309-00-2  | aldrin  | ZZS  | MVP 1  |
+| 3165-93-3  | 4-chloor-o-toluidinehydrochloride  | ZZS  | MVP 1  |
+| 319-84-6  | alfa-HCH  | ZZS  | MVP 1  |
+| 319-85-7  | beta-HCH  | ZZS  | MVP 1  |
+| 32241-08-0  | heptachloornaftaleen  | ZZS  | ERS  |
+| 32534-81-9  | pentabroomdifenyl ether  | ZZS  | ERS  |
+| 32536-52-0  | octabroomdifenylether; OctaBDE; commercieel octabroomdifenylether  | ZZS  | ERS  |
+| 330-54-1  | diuron  | ZZS  | MVP 1  |
+| 330-55-2  | linuron; 3-(3,4-dichloorfenyl)-1-methoxy-1-methylureum  | ZZS  | MVP 1  |
+| 33213-65-9  | beta-endosulfan  | ZZS  | MVP 1  |
+| 334-88-3  | diazomethaan  | ZZS  | MVP 2  |
+| 335-57-9  | hexadecafluorheptaan  | ZZS  | ERS  |
+| 335-67-1  | perfluoroctaanzuur; decapentafluoroctaanzuur; PFOA  | ZZS  | MVP 2  |
+| 3424-82-6  | o,p-DDE isomeer  | ZZS  | MVP 1  |
+| 34590-94-8  | dipropyleenglycolmonomethylether  | gO  | gO.2  |
+| 35367-38-5  | diflubenzuron  | sO  | sO  |
+| 36065-30-2  | 1,3,5-tribroom-2-(2,3-dibroom-2-methylpropoxy)benzeen; 2,4,6-tribroomfenyl 2-methyl-2,3-dibroompropylether  | ZZS  | MVP 1  |
+| 36341-27-2  | benzidine acetaat; [1,1'-bifenyl]-4,4'-diamine acetaat  | ZZS  | MVP 1  |
+| 36355-01-8  | hexabroombifenyl  | ZZS  | ERS  |
+| 36643-28-4  | tributyltin-kation en tributyltin verbindingen  | ZZS  | MVP 1  |
+| 3687-31-8  | trilooddiarsenaat  | ZZS  | zie bijlage 12b  |
+| 37240-96-3  | loodrhodiumoxide  | ZZS  | MVP 1  |
+| 3724-43-4  | chloor-N,N-dimethylformiminiumchloride  | ZZS  | MVP 1  |
+| 37244-98-7  | perboorzuur natriumzout tetrahydraat  | ZZS  | zie bijlage 12b  |
+| 376-06-7  | perfluortetradecanoaat  | ZZS  | MVP 1  |
+| 37894-46-5  | etacelasil; 6-(2-chloorethyl)-6-(2-methoxyethoxy)-2,5,7,10-tetraoxa-6-silaundecaan  | ZZS  | MVP 1  |
+| 382-21-8  | perfluorisobuteen  | ZZS  | MVP 2  |
+| 3825-26-1  | ammonium pentadecafluoroctanoaat; APFO  | ZZS  | MVP 1  |
+| 3843-16-1  | distearyldimethylammonium-methosulfaat  | gO  | gO.1  |
+| 39156-41-7  | 2,4-diaminoanisoolsulfaat  | ZZS  | MVP 1  |
+| 39300-45-3  | dinocap; (RS)-2,6-dinitro-4-octylfenylcrotonaten en (RS)-2,4-dinitro-6-octylfenylcrotonaten waarbij octyleen een mengsel is van 1-methylheptyl-, 1-ethylhexyl- en 1-propylpentylgroepen  | ZZS  | MVP 1  |
+| 39807-15-3  | oxadiargyl  | ZZS  | MVP 1  |
+| 399-95-1  | 4-amino-3-fluorfenol  | ZZS  | MVP 1  |
+| 40722-80-3  | (2-chloorethyl)(3-hydroxypropyl)ammoniumchloride  | ZZS  | MVP 1  |
+| 41083-11-8  | azocyclotin  | ZZS  | MVP 1  |
+| 446255-22-7  | heptabroomdifenylether; BDE -175  | ZZS  | ERS  |
+| 463-58-1  | carbonylsulfide  | gO  | gO.1  |
+| 465-73-6  | isodrin  | ZZS  | MVP 1  |
+| 470-90-6  | chloorfenvinfos  | ZZS  | MVP 1  |
+| 48122-14-1  | hexahydro-1-methylftaalzuur-anhydride  | ZZS  | MVP 1  |
+| 485-31-4  | binapacryl; 2-sec-butyl-4,6-dinitrofenyl-3-methylcrotonaat  | ZZS  | MVP 1  |
+| 488-23-3  | 1,2,3,4-tetramethylbenzeen  | gO  | gO.2  |
+| 4904-61-4  | 1,5,9-cyclododecatrieen  | ZZS  | MVP 1  |
+| 49690-63-3  | tri-2,4-dibroomfenylfosfaat; tris(2,4-dibroomfenyl)fosfaat  | sO  | sO  |
+| 50-00-0  | formaldehyde; methanal  | gO  | gO.1  |
+| 50-29-3  | 4,4-DDT isomeer; para-para-DDT  | ZZS  | MVP 1  |
+| 50-32-8  | benzo[a]pyreen (PAK)  | ZZS  | MVP 1  |
+| 50471-44-8  | vinchlozolin; N-3,5-dichloorfenyl-5-methyl-5-vinyl-1,3-oxazolidine-2,4-dion  | ZZS  | MVP 1  |
+| 506-77-4  | chloorcyaan  | gA  | gA.1  |
+| 51000-52-3  | ethenyl ester van neodecaanzuur  | ZZS  | zie bijlage 12b  |
+| 512-04-9  | 3beta,25R-spirost-5-en-3-ol  | ZZS  | MVP 1  |
+| 5131-66-8  | 1-butoxy-2-propanol  | gO  | gO.2  |
+| 513-42-8  | 2-methylallylalcohol  | gO  | gO.1  |
+| 513-79-1  | kobaltcarbonaat  | ZZS  | zie bijlage 12b  |
+| 51594-55-9  | (R)-1-chloor-2,3-epoxypropaan  | ZZS  | MVP 2  |
+| 51-79-6  | urethaan; ethylcarbamaat  | ZZS  | MVP 2  |
+| 52033-74-6  | fenylhydrazinesulfaat (2:1)  | ZZS  | MVP 1  |
+| 52125-53-8  | 1,2-propaandiolmonoethylether  | gO  | gO.2  |
+| 5216-25-1  | p-chloorbenzotrichloride; α,α,α,4-tetrachloortolueen  | ZZS  | MVP 1  |
+| 527-53-7  | 1,2,3,5-tetramethylbenzeen  | gO  | gO.2  |
+| 531-85-1  | benzidine dihydrochloride; [1,1'-bifenyl]-4,4'-diamine hydrochloride  | ZZS  | MVP 1  |
+| 531-86-2  | benzidine sulfaat; [1,1'-bifenyl]-4,4'-diamine sulfaat  | ZZS  | MVP 1  |
+| 5343-92-0  | 1,2-pentaandiol  | gO  | gO.2  |
+| 53-70-3  | dibenz[a,h]antraceen (PAK); dibenzo(a,h)-antraceen (PAK)  | ZZS  | MVP 1  |
+| 540-59-0  | 1,2-dichlooretheen  | gO  | gO.2  |
+| 540-73-8  | 1,2-dimethylhydrazine  | ZZS  | MVP 2  |
+| 541-02-6  | decamethylcyclopentasiloxaan (d5)  | gO  | gO.2  |
+| 541-05-9  | hexamethylcyclotrisiloxaan (d3)  | gO  | gO.2  |
+| 542-56-3  | isobutylnitriet  | ZZS  | MVP 2  |
+| 542-88-1  | bis(chloormethyl)ether; oxybis(chloormethaan)  | ZZS  | MVP 2  |
+| 5436-43-1  | tetrabroomdifenylether; BDE-47  | ZZS  | ERS  |
+| 548-62-9  | C.I. Basic Violet 3 [met 0,1 procent of meer Michler's keton (EC nr. 202-027-5)]  | ZZS  | MVP 1  |
+| 553-00-4  | 2-naftylamine acetaat; 2-naftaleenamine acetaat  | ZZS  | MVP 1  |
+| 5543-57-7  | (S)-3-(1-fenyl-3-oxobutyl)-4-hydroxy-2-benzopyron  | ZZS  | MVP 1  |
+| 5543-58-8  | (R)-3-(1-fenyl-3-oxobutyl)-4-hydroxy-2-benzopyron  | ZZS  | MVP 1  |
+| 55525-54-7  | N,N'-bis[(5-isocyanato-1,3,3-trimethylcyclohexyl)methyl]-ureum  | ZZS  | MVP 1  |
+| 556-52-5  | glycidol; 2,3-epoxypropaan-1-ol  | ZZS  | MVP 2  |
+| 556-67-2  | octamethylcyclotetrasiloxaan (d4)  | gO  | gO.3  |
+| 557-05-1  | zinkstearaat  | S  | S  |
+| 5571-36-8  | cyclisch 3-(1,2-ethaandiylacetaal)oestra-5(10),9(11)-dieen-3,17-dion  | ZZS  | MVP 1  |
+| 561-41-1  | 4,4'-bis(dimethylamino)-4''-(methylamino)trityl alcohol [met 0,1 procent of meer Michler's keton (EC nr. 202-027-5) of Michler's base (EC No. 202-959-2)]  | ZZS  | MVP 1  |
+| 56-35-9  | tributyltinoxide  | ZZS  | MVP 1  |
+| 563-80-4  | 3-methyl-2-butanon; methylisopropylketon  | gO  | gO.2  |
+| 56-55-3  | benz[a]antraceen (PAK); benzo[a]antraceen (PAK)  | ZZS  | MVP 1  |
+| 56-81-5  | glycerol  | sO  | sO  |
+| 569-61-9  | 4,4'-(4-iminocyclohexa-2,5-dienylideenmethyleen)dianilinehydrochloride  | ZZS  | MVP 1  |
+| 57044-25-4  | 2,3-epoxypropaan-1-ol  | ZZS  | MVP 2  |
+| 57110-29-9  | hexahydro-3-methylftaalzuur-anhydride  | ZZS  | MVP 1  |
+| 57-14-7  | N,N-dimethylhydrazine  | ZZS  | MVP 2  |
+| 57171-56-9  | geethoxyleerd sorbitolhexaoleaat  | gO  | gO.2  |
+| 573-58-0  | dinatrium-3,3'-[[1,1'-bifenyl]-4,4'-diylbis(azo)]bis(4-aminonaftaleen-1-sulfonaat)  | ZZS  | MVP 1  |
+| 57-55-6  | 1,2-propaandiol; propyleenglycol  | gO  | gO.2  |
+| 57-57-8  | 1,3-propiolacton; 3-propanolide  | ZZS  | MVP 2  |
+| 57-74-9  | chloordaan  | ZZS  | MVP 1  |
+| 581-89-5  | 2-nitronaftaleen  | ZZS  | MVP 1  |
+| 584-84-9  | 1-methyl-2,4-fenyleen-diisocyanaat; tolueen-2,4-diisocyanaat; TDI  | sO  | sO  |
+| 58591-45-0  | kobaltnikkeldioxide  | ZZS  | zie bijlage 12b   |
+| 58-89-9  | gamma-hexachloorcyclohexaan; gamma-HCH; lindaan  | ZZS  | MVP 1  |
+| 592-62-1  | methyl-ONN-azoxymethylacetaat; methylazoxymethylacetaat  | ZZS  | MVP 1  |
+| 593-60-2  | vinylbromide  | ZZS  | MVP 2  |
+| 59447-55-1  | (pentabroomfenyl)methylacrylaat; (pentabroomfenyl) methylester van 2-propeenzuur  | ZZS  | MVP 1  |
+| 59653-74-6  | 1,3,5-tris-[(2S en 2R)-2,3-epoxypropyl]-1,3,5-triazine-2,4,6-(1H3H5H)-trion  | ZZS  | MVP 1  |
+| 59-88-1  | fenylhydrazinechloride  | ZZS  | MVP 1  |
+| 60-09-3  | 4-aminoazobenzeen  | ZZS  | MVP 1  |
+| 602-01-7  | 2,3-dinitrotolueen  | ZZS  | MVP 1  |
+| 602-87-9  | 5-nitroacenafteen  | ZZS  | MVP 1  |
+| 60-29-7  | diethylether; ether  | gO  | gO.2  |
+| 60-32-2  | 6-aminohexaanzuur (monomeer)  | gO  | gO.2  |
+| 603-35-0  | trifenylfosfine  | ZZS  | MVP 1  |
+| 60348-60-9  | pentabroomdifenylether; BDE-99  | ZZS  | ERS  |
+| 605-50-5  | di-isopentylftalaat  | ZZS  | MVP 1  |
+| 60-57-1  | dieldrin  | ZZS  | MVP 1  |
+| 606-20-2  | 2,6-dinitrotolueen  | ZZS  | MVP 1  |
+| 608-33-3  | 2,6-dibroomfenol  | sO  | sO  |
+| 608-73-1  | hexachloorcyclohexaan  | ZZS  | MVP 1  |
+| 608-93-5  | pentachloorbenzeen  | ZZS  | MVP 1  |
+| 610-39-9  | 3,4-dinitrotolueen  | ZZS  | MVP 1  |
+| 612-52-2  | 2-naftylamine hydrochloride; 2-naftaleenamine hydrochloride  | ZZS  | MVP 1  |
+| 612-82-8  | 4,4'-bi-o-toluidine dihydrochloride; 3,3'-dimethylbenzidine dihydrochloride; 3,3'-dimethyl-[1,1'-bifenyl]-4,4'-diamine dihydrochloride  | ZZS  | MVP 1  |
+| 613-35-4  | N,N'-diacetylbenzidine  | ZZS  | MVP 1  |
+| 615-05-4  | 4-methoxy-m-fenyleendiamine  | ZZS  | MVP 1  |
+| 615-58-7  | 2,4-dibroomfenol  | gO  | gO.1  |
+| 61571-06-0  | tetrahydrothiopyraan-3-carboxaldehyde  | ZZS  | MVP 2  |
+| 6180-61-6  | fenoxypropanol; 3-fenoxy-1-propanol  | gO  | gO.2  |
+| 618-85-9  | 3,5-dinitrotolueen  | ZZS  | MVP 1  |
+| 619-15-8  | 2,5-dinitrotolueen  | ZZS  | MVP 1  |
+| 620-14-4  | 1-methyl-3-ethylbenzeen  | gO  | gO.2  |
+| 621-64-7  | nitrosodipropylamine  | ZZS  | MVP 2  |
+| 62-53-3  | aminobenzeen; aniline  | gO  | gO.1  |
+| 625-45-6  | methoxyazijnzuur  | ZZS  | MVP 2  |
+| 62-55-5  | thioaceetamide  | ZZS  | MVP 2  |
+| 626-38-0  | sec-amylacetaat  | gO  | gO.1  |
+| 62-75-9  | N-nitrosodimethylamine; dimethylnitrosoamine  | ZZS  | MVP 2  |
+| 627-93-0  | dimethyladipaat  | gO  | gO.1  |
+| 628-63-7  | n-amylacetaat  | gO  | gO.2  |
+| 629-14-1  | 1,2-diethoxyethaan  | ZZS  | MVP 2  |
+| 630-08-0  | koolmonoxide (CO) (deze verbindingen heeft geen emissie-eis)  | ---  | ---  |
+| 63148-62-9  | siliconenolie  | gO  | gO.2  |
+| 64-17-5  | ethanol  | gO  | gO.2  |
+| 64-18-6  | mierenzuur  | gO  | gO.1  |
+| 64-19-7  | azijnzuur  | gO  | gO.2  |
+| 64475-85-0  | white spirit  | gO  | gO.2  |
+| 646-13-9  | isobutylstearaat  | gO  | gO.2  |
+| 64-67-5  | diethylsulfaat  | ZZS  | MVP 2  |
+| 64-86-8  | colchicine  | ZZS  | MVP 1  |
+| 64969-36-4  | 4,4'-bi-o-toluidine disulfaat; 3,3'-dimethylbenzidine disulfaat; 3,3'-dimethyl-[1,1'-bifenyl]-4,4'-diamine disulfaat  | ZZS  | MVP 1  |
+| 65229-23-4  | nikkelboorfosfide  | ZZS  | zie bijlage 12b   |
+| 65277-42-1  | 1-[4-[4-[[(2SR,4RS)-2-(2,4-dichloorfenyl)-2-(imidazool-1-ylmethyl)-1,3-dioxolaan-4-yl]methoxy]fenyl]piperazine-1-yl]ethanon; ketoconazool  | ZZS  | MVP 1  |
+| 65321-67-7  | tolueen-2,4-diammoniumsulfaat  | ZZS  | MVP 1  |
+| 65996-93-2  | Pek koolteer, hoge temperatuur; Het residu dat wordt verkregen bij de destillatie van bij hoge temperatuur verkregen koolteer. Een zwarte vaste stof met een verwekingstraject van bij benadering 30°C tot 180°C. Voornamelijk samengesteld uit een complexe verzameling van aromatische koolwaterstoffen met drie- of meervoudig gecondenseerde ringen.  | ZZS  | MVP 1  |
+| 65997-15-1  | Portland cement  | S  | S  |
+| 66-81-9  | cycloheximide; 4-{(2R)-2-[(1S,3S,5S)-3,5-dimethyl-2-oxocyclohexyl]-2-hydroxyethyl}}piperidine-2,6-dion  | ZZS  | MVP 1  |
+| 67-56-1  | methanol  | gO  | gO.2  |
+| 67-63-0  | 2-propanol; iso-propanol; isopropylalcohol  | gO  | gO.2  |
+| 67-64-1  | aceton; propanon  | gO  | gO.2  |
+| 67-66-3  | chloroform; trichloormethaan  | gO  | gO.1  |
+| 6786-83-0  | α,α-bis[4-(dimethylamino)fenyl]-4 (fenylamino)naftaleen-1-methanol (C.I. Solvent Blue 4) [met 0,1 procent of meer Michler's keton (EC nr. 202-027-5) of Michler's base (EC No. 202-959-2)]  | ZZS  | MVP 1  |
+| 68016-03-5  | kobaltdimolybdeennikkeloctaoxide  | ZZS  | zie bijlage 12b   |
+| 680-31-9  | hexamethylfosforamide; hexamethylfosforzuurtriamide  | ZZS  | MVP 1  |
+| 6804-07-5  | carbadox  | ZZS  | MVP 1  |
+| 68049-83-2  | azafenidin; 2-(2,4-dichloor-5-prop-2-ynyloxyfenyl)-5,6,7,8-tetrahydro-1,2,4-triazool[4,3-a]pyridin-3(2H)-one  | ZZS  | MVP 1  |
+| 6807-17-6  | 4,4-isobutylethylideendifenol  | ZZS  | MVP 1  |
+| 68-12-2  | N,N-dimethylformamide  | ZZS  | zie bijlage 12b   |
+| 68186-89-0  | kobaltnikkel grijze periklaas: C.I. Pigment black 25; C.I. 77332  | ZZS  | zie bijlage 12b   |
+| 68515-42-4  | 1.2-benzeendicarboxylzuur; di-C7-11 vertakte en lineaire alkylesters  | ZZS  | MVP 1  |
+| 68631-49-2  | hexabroomdifenylether; BDE-153  | ZZS  | ERS  |
+| 69029-86-3  | tellurium en -verbindingen, berekend als Te  | sA  | sA.2  |
+| 69806-50-4  | fluazifop-butyl; butyl-2-[4-[[5-(trifluormethyl)-2-pyridyl]oxy]fenoxy]propionaat  | ZZS  | MVP 1  |
+| 70124-77-5  | flucythrinaat  | ZZS  | MVP 1  |
+| 70225-14-8  | diethanolamineperfluoroctaansulfonaat  | ZZS  | MVP 1  |
+| 70-25-7  | 1-methyl-3-nitro-1-nitrosoguanidine  | ZZS  | MVP 1  |
+| 70657-70-4  | 2-methoxypropylacetaat  | ZZS  | zie bijlage 12b   |
+| 70776-03-3  | polychloornaftalenen; PCNs; chloorderivaten van naftaleen  | ZZS  | ERS  |
+| 70987-78-9  | (S)-oxiraanmethanol 4-methylbenzeensulfonaat  | ZZS  | MVP 1  |
+| 71-23-8  | n-propenol  | gO  | gO.2  |
+| 71-36-3  | butylalcohol; n-butanol  | gO  | gO.2  |
+| 71-43-2  | benzeen  | ZZS  | MVP 2  |
+| 71-48-7  | kobaltacetaat  | ZZS  | zie bijlage 12b  |
+| 71888-89-6  | 1,2-benzeendicarbonzuur; C7-rijk di-C6-8-vertakte alkylesters  | ZZS  | MVP 1  |
+| 72-20-8  | endrin  | ZZS  | MVP 1  |
+| 72-43-5  | methoxychloor  | ZZS  | MVP 1  |
+| 72629-94-8  | perfluortridecanoaat  | ZZS  | MVP 1  |
+| 732-26-3  | 2;4;6-tri-tert-butylfenol; dodecylfenol  | ZZS  | MVP 1  |
+| 7397-62-8  | butylglycolaat  | gO  | gO.2  |
+| 7439-97-6  | kwik en kwikverbindingen  | ZZS  | MVP 1  |
+| 7440-25-7  | tantaal  | sA  | sA.3  |
+| 7440-28-0  | thallium en -verbindingen, berekend als Tl  | sA  | sA.1  |
+| 7440-41-7  | beryllium en berylliumverbindingen berekend als Be  | ZZS  | MVP 1  |
+| 7440-65-5  | yttrium  | sA  | sA.3  |
+| 7440-67-7  | zirkoon  | S  | S  |
+| 74646-29-0  | trinikkelbis(arseniet)  | ZZS  | zie bijlage 12b  |
+| 74753-18-7  | 4,4'-bi-o-toluidine sulfaat; 3,3'-dimethylbenzidine sulfaat; 3,3'-dimethyl-[1,1'-bifenyl]-4,4'-diamine sulfaat  | ZZS  | zie bijlage 12b  |
+| 74-85-1  | etheen  | gO  | gO.2  |
+| 74-86-2  | acetyleen; ethyn  | gO  | gO.2  |
+| 74-87-3  | chloormethaan; methylchloride  | gO  | gO.1  |
+| 74-89-5  | aminomethaan; methylamine  | gO  | gO.1  |
+| 74-90-8  | blauwzuurgas; cyaanwaterstof; HCN  | gA  | gA.2  |
+| 75-00-3  | chloorethaan; ethylchloride  | gO  | gO.2  |
+| 75-01-4  | vinylchloride; chlooretheen; chloorethyleen  | ZZS  | MVP 2  |
+| 75-04-7  | aminoethaan; ethylamine  | gO  | gO.1  |
+| 75-05-8  | acetonitril  | gO  | gO.2  |
+| 75-07-0  | aceetaldehyde; ethanal  | gO  | gO.1  |
+| 75-09-2  | dichloormethaan; methyleenchloride  | gO  | gO.2  |
+| 75113-37-0  | di-µ-oxo-di-n-butylstannio-hydroxyboraan; dibutyltinhydrogeenboraat; dibutyltinwaterstofboraat  | ZZS  | zie bijlage 12b  |
+| 75-12-7  | formamide  | ZZS  | MVP 1  |
+| 75-15-0  | koolstofdisulfide; zwavelkoolstof  | gO  | gO.2  |
+| 75-18-3  | dimethylmercaptaan; thiobismethaan  | gO  | gO.1  |
+| 75-21-8  | 1,2-epoxyethaan; ethyleenoxide; oxiraan; etheenoxide  | ZZS  | MVP 2  |
+| 75-25-2  | tribroommethaan  | gO  | gO.1  |
+| 75-26-3  | 2-broompropaan  | ZZS  | MVP 2  |
+| 75-27-4  | broomdichloormethaan  | gO  | gO.1  |
+| 75-28-5  | isobutaan [met 0,1 procent of meer butadieen (203-450-8)]  | ZZS  | MVP 2  |
+| 75-29-6  | 2-chloorpropaan  | gO  | gO.2  |
+| 75-34-3  | 1,1-dichloorethaan  | gO  | gO.3  |
+| 75-35-4  | 1,1-dichlooretheen  | gO  | gO.1  |
+| 75-38-7  | 1,1-difluoretheen; vinylideenfluoride  | gO  | gO.2  |
+| 75-44-5  | fosgeen  | gA  | gA.1  |
+| 75-52-5  | nitromethaan  | gO  | gO.3  |
+| 75-55-8  | 2-methylaziridine  | ZZS  | MVP 2  |
+| 75-56-9  | propyleenoxide; methyloxiraan; 1,2-epoxypropaan; propeenoxide  | ZZS  | MVP 2  |
+| 75-65-0  | 2-methyl-2-propanol; tert-butanol  | gO  | gO.2  |
+| 75-73-0  | koolstoftetrafluoride; methaantetrafluoride; tetrafluormethaan  | gO  | gO.2  |
+| 75-91-2  | 1,1-dimethylethyl-hydroperoxide; tertiairbutylhydroperoxide; TBHP  | gO  | gO.1  |
+| 76-01-7  | pentachloorethaan  | ZZS  | MVP 2  |
+| 7601-90-3  | perchloorzuur  | gA  | gA.1  |
+| 76-16-4  | hexafluorethaan  | gO  | gO.2  |
+| 76-19-7  | octafluorpropaan  | gO  | gO.2  |
+| 7631-86-9  | siliciumdioxide (amorf)  | S  | S  |
+| 7632-04-4  | natriumperoxometaboraat  | ZZS  | zie bijlage 12b  |
+| 7637-07-2  | boriumtrifluoride  | gA  | gA.2  |
+| 764-41-0  | 1,4-dichloorbut-2-een  | ZZS  | MVP 2  |
+| 76-44-8  | heptachloor  | ZZS  | MVP 1  |
+| 7646-79-9  | kobaltchloride; kobaltdichloride  | ZZS  | zie bijlage 12b  |
+| 7646-85-7  | zinkchloride (rook)  | sA  | sA.3  |
+| 7647-01-0  | zoutzuur  | gA  | gA.2  |
+| 7664-38-2  | fosforzuur  | gA  | gA.2  |
+| 7664-39-3  | waterstoffluoride  | gA  | gA.2  |
+| 7664-41-7  | ammoniak  | gA  | gA.3  |
+| 7664-93-9  | zwavelzuur  | gA  | gA.2  |
+| 76-87-9  | fentinhydroxide; trifenyltinhydroxide  | ZZS  | MVP 1  |
+| 7697-37-2  | salpeterzuur (nevels)  | gA  | gA.3  |
+| 77-09-8  | fenolftaleïne  | ZZS  | MVP 1  |
+| 77182-82-2  | glufosinaat-ammonium; ammonium-2-amino-4-(hydroxymethylfosfinyl)butyraat  | ZZS  | MVP 1  |
+| 77402-03-0  | methylacrylamidomethoxyacetaat [met 0,1 procent of meer acrylamide]  | ZZS  | MVP 1  |
+| 77402-05-2  | methylacrylamidoglycolaat [met 0,1 procent of meer acrylamide]  | ZZS  | MVP 1  |
+| 77-47-4  | 1,2,3,4,5,5-hexachloor(1,3-)cyclopentadieen  | ZZS  | MVP 1  |
+| 7758-01-2  | kaliumbromaat  | ZZS  | MVP 1  |
+| 776297-69-9  | N-pentyl-isopentylftalaat  | ZZS  | MVP 1  |
+| 77-78-1  | dimethylsulfaat  | ZZS  | MVP 2  |
+| 7778-39-4  | arseenzuur; zouten van arseenzuur  | ZZS  | zie bijlage 12b   |
+| 7778-44-1  | calciumarsenaat  | ZZS  | zie bijlage 12b  |
+| 7782-41-4  | fluor  | gA  | gA.1  |
+| 7782-42-5  | grafiet  | S  | S  |
+| 7782-50-5  | chloorgas (Cl<sub>2</sub>)  | gA  | gA.2  |
+| 7782-65-2  | germaniumhydride (GeH<sub>4</sub>)  | gA  | gA.2  |
+| 7783-06-4  | waterstofsulfide; zwavelwaterstof  | gA  | gA.2  |
+| 7783-54-2  | stikstoftrifluoride  | gA  | gA.2  |
+| 7783-61-1  | siliciumtetrafluoride  | gA  | gA.2  |
+| 7784-40-9  | loodhydrogeenarsenaat  | ZZS  | zie bijlage 12b   |
+| 7784-42-1  | arseenwaterstof (arsine)  | gA  | gA.1  |
+| 7789-75-5  | calciumfluoride  | sA  | sA.3  |
+| 7790-79-6  | cadmiumfluoride  | ZZS  | MVP 1  |
+| 7803-51-2  | fosforwaterstof (fosfine)  | gA  | gA.1  |
+| 7803-57-8  | hydraten van hydrazine  | ZZS  | MVP 2  |
+| 7803-62-5  | siliciumtetrahydride  | gA  | gA.2  |
+| 78-10-4  | ethylsilicaat; tetraethylorthosilicaat  | gO  | gO.2  |
+| 78-59-1  | 3,5,5-trimethyl-2-cyclohexeen-1-on; isoforon  | gO  | gO.2  |
+| 78-79-5  | isopreen  | ZZS  | zie bijlage 12b   |
+| 78-83-1  | i-butanol  | gO  | gO.2  |
+| 78-87-5  | 1,2-dichloorpropaan  | gO  | gO.2  |
+| 789-02-6  | 2,4-DDT isomeer  | ZZS  | MVP 1  |
+| 78-92-2  | 2-butanol; sec-butanol  | gO  | gO.2  |
+| 78-93-3  | 2-butanon; ethylmethylketon; methylethylketon; MEK  | gO  | gO.2  |
+| 79-00-5  | 1,1,2-trichloorethaan  | gO  | gO.1  |
+| 79-01-6  | trichlooretheen; trichloorethyleen; TRI  | ZZS  | zie bijlage 12b   |
+| 79-06-1  | acrylamide  | ZZS  | MVP 1  |
+| 79-09-4  | propaanzuur; propionzuur  | gO  | gO.2  |
+| 79-10-7  | acrylzuur; propeenzuur  | gO  | gO.1  |
+| 79-11-8  | chloorazijnzuur  | gO  | gO.1  |
+| 79-16-3  | N-methylacetamide  | ZZS  | zie bijlage 12b   |
+| 79-20-9  | azijnzuurmethylester; methylacetaat  | gO  | gO.2  |
+| 79-21-0  | perazijnzuur  | gO  | gO.1  |
+| 79-24-3  | nitroethaan  | gO  | gO.3  |
+| 79-27-6  | 1,1,2,2- tetrabroomethaan  | gO  | gO.1  |
+| 79-29-8  | 2,3-dimethylbutaan  | gO  | gO.2  |
+| 793-24-8  | N-(1,3-dimethylbutyl)-N'-fenyl-1,4-benzeendiamine; 4-(dimethylbutylamino) difenylamine  | ZZS  | MVP 1  |
+| 79-34-5  | 1,1,2,2-tetrachloorethaan  | gO  | gO.1  |
+| 79-44-7  | dimethylcarbamoylchloride  | ZZS  | MVP 2  |
+| 79-46-9  | 2-nitropropaan  | ZZS  | MVP 2  |
+| 79-94-7  | tetrabroombisfenol A  | ZZS  | zie bijlage 12b  |
+| 8001-35-2  | toxafeen  | ZZS  | MVP 1  |
+| 80-05-7  | bisfenol A; 2,2-bis (4-hydroxyfenyl)propaan  | gO  | gO.1  |
+| 80387-97-9  | 2-ethylhexyl-[[[3,5-bis(1,1-dimethylethyl)-4-hydroxyfenyl]methyl]thio]acetaat  | ZZS  | MVP 1  |
+| 80-62-6  | methacrylzuurmethylester; methyl-(2-methyl)-propenoaat; methylmethacrylaat  | gO  | gO.1  |
+| 81-15-2  | muskus-xyleen; 5-tert-butyl-2,4,6-trinitro-m-xyleen  | ZZS  | zie bijlage 12b  |
+| 81-81-2  | warfarine  | ZZS  | MVP 1  |
+| 822-06-0  | 1,6-hexaandiisocyanaat; hexamethyleendiisocyanaat  | gO  | gO.1  |
+| 82413-20-5  | (E)-3-[1-[4-[2-(dimethylamino)ethoxy]fenyl]-2-fenylbut-1-enyl]fenol  | ZZS  | MVP 1  |
+| 83-32-9  | acenafteen  | sO  | sO  |
+| 838-88-0  | 4,4'-methyleendi-o-toluidine  | ZZS  | MVP 1  |
+| 84245-12-5  | N-[6,9-dihydro-9-[[2-hydroxy-1-(hydroxymethyl)ethoxy]methyl]-6-oxo-1H-purin-2-yl]acetamide  | ZZS  | MVP 1  |
+| 84540-57-8  | methoxypropylaceta(a)t(en)  | gO  | gO.2  |
+| 84-69-5  | di(2-methylpropyl)ftalaat; diisobutylftalaat; di-iso-butylftalaat; DIBP  | ZZS  | zie bijlage 12b  |
+| 84-74-2  | dibutylftalaat; DBP  | ZZS  | MVP 1  |
+| 84-75-3  | dihexylftalaat  | ZZS  | MVP 1  |
+| 84-76-4  | dinonylftalaat  | gO  | gO.1  |
+| 84777-06-0  | vertakte en lineaire dipentylesters van 1,2-benzeendicarbonzuur  | ZZS  | MVP 1  |
+| 84929-62-4  | ricinusolie-ethoxylaat (met 15 ethyleenoxide-eenheden)  | gO  | gO.2  |
+| 85-01-8  | fenantreen  | sO  | sO  |
+| 85136-74-9  | 6-hydroxy-1-(3-isopropoxypropyl)-4-methyl-2-oxo-5-[4-(fenylazo)fenylazo]-1,2-dihydro-3-pyridinecarbonitril  | ZZS  | MVP 1  |
+| 85-22-3  | pentabroomethylbenzeen  | ZZS  | MVP 1  |
+| 85-42-7  | hexahydroftaalzuur-anhydride; cyclohexaan-1,2-dicarbonzuuranhydride  | ZZS  | MVP 1  |
+| 85-44-9  | ftaalzuuranhydride  | sO  | sO  |
+| 85509-19-9  | flusilazool; bis(4-fluorfenyl)(methyl)(1H-1,2,4-triazol-1-ylmethyl)silane  | ZZS  | MVP 1  |
+| 85535-84-8  | C<sub>10-13</sub>-chlooralkanen; kortketenige gechloreerde paraffines; SCCP's; C10-13 alifatische chloorkoolwaterstoffen  | ZZS  | MVP 1  |
+| 85-68-7  | benzylbutylftalaat; BBP  | ZZS  | MVP 1  |
+| 872-50-4  | N-methyl-2-pyrrolidon; 1-methyl-2-pyrrolidon  | ZZS  | zie bijlage 12b   |
+| 87-61-6  | 1,2,3-trichloorbenzeen  | ZZS  | MVP 2  |
+| 87-68-3  | hexachloorbutadieen  | ZZS  | MVP 1  |
+| 87-86-5  | pentachloorfenol  | ZZS  | MVP 1  |
+| 88-72-2  | 2-nitrotolueen  | ZZS  | MVP 2  |
+| 88-85-7  | dinoseb; 6-(1-methylpropyl)-2,4-dinitrofenol; zouten en esters van dinoseb  | ZZS  | MVP 1  |
+| 90-04-0  | o-anisidine; 2-methoxyaniline  | ZZS  | MVP 2  |
+| 9016-45-9  | nonylfenolethoxylaten en verwante verbindingen; NPEs  | ZZS  | MVP 2  |
+| 90640-80-5  | antraceenolie, Een complexe verzameling polycyclische aromatische koolwaterstoffen die wordt verkregen uit koolteer met een destillatietraject van ongeveer 300°C tot 400°C. Voornamelijk samengesteld uit fenantreen antraceen en carbazool.  | ZZS  | MVP 1  |
+| 90640-81-6  | antraceenolie, fractie, De antraceenrijke vaste stof die wordt verkregen door de kristallisatie en centrifugatie van antraceenolie. Bestaat voornamelijk uit antraceen carbazool en fenantreen. antraceenolie, antraceenpasta  | ZZS  | MVP 1  |
+| 90640-82-7  | antraceenolie, fractie, De olie die resteert na de verwijdering, door middel van een kristallisatieproces, van een antraceenrijke vaste stof (antraceenpasta) uit antraceenolie. Bestaat voornamelijk uit aromatische verbindingen met twee, drie of vier ringen. antraceenolie, antraceenarm  | ZZS  | MVP 1  |
+| 90-72-2  | 2,4,6-tri(dimethylaminomethyl)fenol  | sO  | sO  |
+| 90-94-8  | 4,4'-bis(dimethylamino)benzofenon; Michler's keton  | ZZS  | MVP 1  |
+| 91079-47-9  | fenolen C<sub>9-11</sub>-; gedestilleerde fenolen  | ZZS  | MVP 1  |
+| 91-08-7  | 1-methyl-2,6-fenyleen-diisocyanaat; tolueen-2,6-diisocyanaat  | sO  | sO  |
+| 91-17-8  | bicyclo(4,4,0)decaan; decahydronaftaleen; decaline  | gO  | gO.2  |
+| 91-20-3  | naftaleen; naftaline  | sO  | sO  |
+| 91-22-5  | quinoline; chinoline  | ZZS  | MVP 1  |
+| 91-23-6  | 2-nitroanisool  | ZZS  | MVP 1  |
+| 91-59-8  | 2-naftylamine; 2-naftaleenamine; zouten van 2-naftylamine; zouten van 2-naftaleenamine  | ZZS  | MVP 1  |
+| 91-94-1  | 3,3-dichloorbenzidine; zouten van 3,3-dichloorbenzidine  | ZZS  | MVP 1  |
+| 91-95-2  | bifenyl-3,3',4,4'-tetrayltetraamine; diaminobenzidine  | ZZS  | MVP 1  |
+| 91995-15-2  | antraceenolie, fractie, Een complexe verzameling koolwaterstoffen uit de destillatie van antraceen die wordt verkregen door de kristallisatie van antraceenolie uit bitumineuze hoge-temperatuur-teer, met een kooktraject van ongeveer 330 °C tot 350 °C. Bevat hoofdzakelijk antraceen carbazool en fenantreen. antraceenolie, antraceenpasta, antraceenfractie  | ZZS  | MVP 1  |
+| 91995-17-4  | antraceenolie, fractie, Een complexe verzameling koolwaterstoffen uit de destillatie van antraceen die wordt verkregen door de kristallisatie van antraceenolie uit bitumineuze hoge-temperatuur-teer, met een kooktraject van ongeveer 290 °C tot 340 °C. Bevat hoofdzakelijk tricyclische aromaten en dihydroderivaten daarvan. antraceenolie, antraceenpasta, lichte destillatiefracties  | ZZS  | MVP 1  |
+| 92-52-4  | bifenyl; difenyl  | sO  | sO  |
+| 92-67-1  | 4-aminobifenyl; xenylamine; zouten van 4-aminobifenyl; zouten van xenylamine  | ZZS  | MVP 1  |
+| 92-87-5  | benzidine; 4,4'-diaminobifenyl; zouten van benzidine; zouten van 4,4'-diaminobifenyl;  | ZZS  | MVP 1  |
+| 92-93-3  | 4-nitrobifenyl  | ZZS  | MVP 1  |
+| 93-58-3  | benzoëzuurmethylester; methylbenzoaat  | sO  | sO  |
+| 94551-87-8  | ontkoperd afvalslik en bezinksel van elektrolytische koperzuivering  | ZZS  | MVP 1  |
+| 94-59-7  | 5-allyl-1,3-benzodioxoo; safrool  | ZZS  | MVP 1  |
+| 94723-86-1  | 2-butyryl-3-hydroxy-5-thiocyclohexaan-3-ylcyclohex-2-een-1-on  | ZZS  | MVP 1  |
+| 95-06-7  | sulfallaat; 2-chloorallyldiethyldithiocarbamaat  | ZZS  | MVP 1  |
+| 95-50-1  | 1,2-dichloorbenzeen  | gO  | gO.1  |
+| 95-53-4  | o-toluidine; 2-aminotolueen; 2-methylbenzeenamine; zouten van o-toluidine; zouten van 2-aminotolueen; zouten van 2-methylbenzeenamine  | ZZS  | zie bijlage 12b  |
+| 95-69-2  | 4-chloor-o-toluidine  | ZZS  | MVP 1  |
+| 95-80-7  | 4-methyl-m-fenyleendiamine  | ZZS  | MVP 1  |
+| 95-92-1  | diethyloxalaat  | gO  | gO.2  |
+| 95-93-2  | 1,2,4,5-tetramethylbenzeen  | gO  | gO.2  |
+| 959-98-8  | alfa-endosulfan  | ZZS  | MVP 1  |
+| 96-09-3  | (epoxyethyl)benzeen; fenyloxiraan; styreenoxide  | ZZS  | MVP 2  |
+| 96-12-8  | dibroomchloorpropaan; 1,2-dibroom-3-chloorpropaan  | ZZS  | MVP 2  |
+| 96-13-9  | 2,3-dibroompropaan-1-ol  | ZZS  | MVP 2  |
+| 96-18-4  | 1,2,3-trichloorpropaan  | ZZS  | MVP 2  |
+| 96-22-0  | 3-pentanon  | gO  | gO.2  |
+| 96-23-1  | 1,3-dichloorpropaan-2-ol  | ZZS  | MVP 2  |
+| 96-33-3  | acrylzuurmethylester; methylacrylaat; methylpropenoaat  | gO  | gO.1  |
+| 96-45-7  | ethyleenthioureum; ETU; imidazolidine-2-thion  | ZZS  | MVP 1  |
+| 96-48-0  | γ-butyrolacton  | gO  | gO.1  |
+| 97-56-3  | o-aminoazotolueen; 4-amino-2',3-dimethylazobenzeen; 4-o-tolylazo-o-toluidine  | ZZS  | MVP 1  |
+| 97-64-3  | ethyllactaat; ethyl-α-hydroxypropionaat  | gO  | gO.2  |
+| 97-88-1  | n-butylmethacrylaat  | gO  | gO.2  |
+| 98-00-0  | 2-hydroxymethylfuran; furfurylalcohol  | gO  | gO.2  |
+| 98-01-1  | 2-furaldehyde; furfural; furfurol  | gO  | gO.1  |
+| 98-07-7  | benzotrichloride; trichloormethylbenzeen  | ZZS  | zie bijlage 12b  |
+| 98-55-5  | α-terpineol  | gO  | gO.2  |
+| 98-73-7  | 4-tert-butylbenzoëzuur  | ZZS  | MVP 1  |
+| 98-82-8  | cumeen; isopropylbenzeen  | gO  | gO.2  |
+| 98-83-9  | isopropenylbenzeen; α-methylstyreen  | gO  | gO.2  |
+| 98-87-3  | benzalchloride  | gO  | gO.1  |
+| 98-95-3  | nitrobenzeen  | ZZS  | zie bijlage 12b  |
+| 99-62-7  | m-diisopropylbenzeen  | gO  | gO.2  |
+| 996-35-0  | dimethylisopropylamine  | gO  | gO.1  |
+| --- | 6-aminohexaanzuur (trimeer)  | gO  | gO.2  |
+| --- | aardolie  | gO  | gO.2  |
+| --- | alifatisch koolwaterstofmengsel  | gO  | gO.2  |
+| --- | alkoholethyleen-oxide-fosfaatester (mengsel van C<sub>12</sub>/C<sub>14</sub> mono- di- en trimeren)  | gO  | gO.2  |
+| --- | alkylalcoholen  | gO  | gO.2  |
+| --- | loodalkylen  | ZZS  | zie bijlage 12b  |
+| --- | aluminium en -verbindingen  | S  | S  |
+| --- | aluminiumsilicaat vuurvaste keramische vezels  | ZZS  | MVP 1  |
+| --- | antimoon en -verbindingen, berekend als Sb  | sA  | sA.3  |
+| --- | aromatisch koolwaterstofmengsel  | gO  | gO.2  |
+| --- | arseen- en arseenverbindingen  | sA  | sA.1  |
+| --- | azokleurstoffen op basis van benzidine; 4,4-diarylazobifenylkleurstoffen  | ZZS  | MVP 1  |
+| --- | azokleurstoffen op basis van o-dianisidine; 4,4'-diarylazo-3,3'-dimethoxybifenylkleurstoffen  | ZZS  | MVP 1  |
+| --- | azokleurstoffen op basis van o-tolidine; 4,4'-diarylazo-3,3'-dimethylbifenylkleurstoffen  | ZZS  | MVP 1  |
+| --- | barium en -verbindingen, berekend als Ba  | sA  | sA.3  |
+| --- | benzine  | gO  | gO.2  |
+| --- | benzylbutylftalaat  | gO  | gO.1  |
+| --- | borium en stofvormige boriumverbindingen  | S  | S  |
+| --- | broom en broomverbindingen, berekend als HBr  | gA  | gA.2  |
+| --- | cadmium en cadmiumverbindingen  | ZZS  | zie bijlage 12b  |
+| --- | calciumverbindingen, m.u.v. calciumoxide  | S  | S  |
+| --- | chloorbenzenen m.u.v. 1,2-dichloorbenzeen  | gO  | gO.2  |
+| --- | chloorverbindingen, berekend als HCl  | gA  | gA.3  |
+| --- | chroom en -verbindingen (m.u.v. Cr(VI)-verbindingen), berekend als Cr  | sA  | sA.3  |
+| --- | cresolen  | gO  | gO.1  |
+| --- | cyaniden, berekend als CN  | sA  | sA.3  |
+| --- | dichloorfenol(en)  | gO  | gO.1  |
+| --- | dichloorsiliciumdihydride  | gA  | gA.3  |
+| --- | ester van penta-erythritol en C9-C10-vetzuur  | gO  | gO.2  |
+| --- | ethoxypropylaceta(a)t(en)  | gO  | gO.2  |
+| --- | fluoriden, berekend als F  | sA  | sA.3  |
+| --- | fluorspar  | sA  | sA.3  |
+| --- | fluorverbindingen, berekend als HF  | gA  | gA.2  |
+| --- | gebromeerde brandvertragers  | ZZS  | MVP 1  |
+| --- | geëthoxyleerd 4-(1,1,3,3-tetramethylbutyl)fenol  | ZZS  | MVP 1  |
+| --- | geëthoxyleerd lineair en vertakt 4-nonylfenol  | ZZS  | MVP 1  |
+| --- | gesulfateerde plantaardige olie  | gO  | gO.2  |
+| --- | glaswolvezels  | sA  | sA.2  |
+| --- | houtstof (deeltjes <10 μm)  | S  | S  |
+| --- | hydrazinebis(3-carboxy-4-hydroxybenzeensulfonaat)  | ZZS  | MVP 2  |
+| --- | hydrazine-trinitromethaan  | ZZS  | MVP 2  |
+| --- | iso-octyl/nonyl-fenyl-polyglycolether (met 5 ethyleenoxide-eenheden)  | gO  | gO.2  |
+| --- | keramische vezels  | sA  | sA.1  |
+| --- | kobalt(rook) en -verbindingen, berekend als Co  | sA  | sA.2  |
+| --- | kobaltlithiumnikkeloxide  | ZZS  | zie bijlage 12b   |
+| --- | koper en -verbindingen, uitgezonderd koperrook, berekend als Cu  | sA  | sA.3  |
+| --- | koperrook, berekend als Cu  | sA  | sA.2  |
+| --- | lood en anorganische loodverbindingen, berekend als Pb  | ZZS  | zie bijlage 12b   |
+| --- | magnesiumverbindingen  | S  | S  |
+| --- | mangaan(rook) en -verbindingen, berekend als Mn  | sA  | sA.3  |
+| --- | mengsel van 4-[[bis-(4-fluorfenyl)methylsilyl]methyl]-4H-1,2,4-triazool en 1-[[bis-(4-fluorfenyl)methylsilyl]methyl]-1H-1,2,4-triazool  | ZZS  | MVP 1  |
+| --- | mengsel van dimethyl(2-(hydroxymethylcarbamoyl)ethyl)fosfonaat, diethyl(2-(hydroxymethylcarbamoyl)ethyl)fosfonaat en methylethyl(2-(hydroxymethylcarbamoyl)ethyl)fosfonaat  | ZZS  | MVP 1  |
+| --- | mengsel van dinatrium-4-(3-ethoxycarbonyl-4-(5-(3-ethoxycarbonyl-5-hydroxy-1-(4-sulfonatofenyl)pyrazool-4-yl)penta-2,4-dienylideen)-4,5-dihydro-5-oxopyrazool-1-yl)benzeensulfonaat en trinatrium-4-(3-ethoxycarbonyl-4-(5-(3-ethoxycarbonyl-5-oxido-1-(4-sulfonatofenyl)pyrazool-4-yl)penta-2,4-dienylideen)-4,5-dihydro-5-oxopyrazool-1-yl)benzeensulfonaat  | ZZS  | MVP 1  |
+| --- | mengsel van N-[3-hydroxy-2-(2-methyl-acryloylamino-methoxy)-propoxymethyl]-2-methyl-acrylamide, N-[2,3-bis-(2-methyl-acryloylamino-methoxy)propoxymethyl]-2-methylacrylamide, methacrylamide, 2-methyl-N-(2-methyl-acryloylamino-methoxy-methyl)-acrylamide en N-(2,3-dihydroxy-propoxymethyl)-2-methyl-acrylamide  | ZZS  | MVP 1  |
+| --- | mengsel van: 1,3,5-tris(3-aminomethylfenyl)-1,3,5-(1H3H5H)-triazine-2,4,6-trion; mengsel van oligomeren van 3,5-bis(3-aminomethylfenyl)-1-poly[3,5-bis(3-aminomethylfenyl)-2,4,6-trioxo-1,3,5-(1H3H5H)-triazin-1-yl]-1,3,5-(1H3H5H)-triazine-2,4,6-trion  | ZZS  | MVP 1  |
+| --- | mercaptanen  | gO  | gO.1  |
+| --- | methylfenolen  | gO  | gO.1  |
+| --- | methylfenyleendiamine; diaminotolueen; [technisch product – mengsel van 4-methyl-m-fenyleendiamine (EU-nr. 202-453-1) en 2-methyl-m-fenyleendiamine (EU nr. 212-513-9)  | ZZS  | MVP 1  |
+| --- | molybdeen en -verbindingen  | S  | S  |
+| --- | nikkel en nikkelverbindingen, berekend als Ni  | ZZS  | zie bijlage 12b   |
+| --- | nitrocresolen  | sO  | sO  |
+| --- | nitrofenolen  | sO  | sO  |
+| --- | nitrotolue(e)n(en)  | sO  | sO  |
+| --- | O-hexyl-N-ethoxycarbonylthiocarbamaat  | ZZS  | MVP 1  |
+| --- | olefinische koolwaterstoffen  | gO  | gO.2  |
+| --- | organische loodverbindingen  | ZZS  | MVP 1  |
+| --- | organotinverbindingen; tinverbindingen organisch  | ZZS  | zie bijlage 12b   |
+| --- | PAKs; polycyclische aromatische koolwaterstoffen  | ZZS  | MVP 1  |
+| --- | palladium en -verbindingen, berekend als Pd  | sA  | sA.3  |
+| --- | paraffine-olie  | gO  | gO.2  |
+| --- | paraffinische koolwaterstoffen  | gO  | gO.2  |
+| --- | pinenen  | gO  | gO.2  |
+| --- | platina en niet wateroplosbare verbindingen, berekend als Pt  | sA  | sA.3  |
+| --- | platinaverbindingen, berekend als Pt  | sA  | sA.1  |
+| --- | polybroomdibenzodioxines  | ZZS  | ERS  |
+| --- | polybroomdibenzofuranen  | ZZS  | ERS  |
+| --- | polychloordibenzodioxines; polychloordibenzo-p-dioxinen; PCDD's; dioxine  | ZZS  | ERS  |
+| --- | polychloordibenzofuranen; PCDF's  | ZZS  | ERS  |
+| --- | polyethyleenglycol  | sO  | sO  |
+| --- | polyhalogeen-dibenzodioxines  | ZZS  | ERS  |
+| --- | polyhalogeen-dibenzofuranen  | ZZS  | ERS  |
+| --- | polyvinylalcohol  | S  | S  |
+| --- | rhodium en niet wateroplosbare -verbindingen, berekend als Rh  | sA  | sA.2  |
+| --- | seleen en -verbindingen, berekend als Se  | sA  | sA.2  |
+| --- | silicavezels, m.n. cristoballiet en tridymiet  | sA  | sA.1  |
+| --- | slakkenwolvezels  | sA  | sA.1  |
+| --- | steenwolvezels  | sA  | sA.2  |
+| --- | stikstofoxiden, berekend als NO<sub>2</sub>   | gA  | gA.5  |
+| --- | stof  | S  | S  |
+| --- | thioalcoholen  | gO  | gO.1  |
+| --- | thioethers  | gO  | gO.1  |
+| --- | tin en anorganische tinverbindingen, berekend als Sn  | sA  | sA.3  |
+| --- | trichloorfenolen  | gO  | gO.1  |
+| --- | trimethylbenzeen  | gO  | gO.2  |
+| --- | trimethylbromaat  | gO  | gO.2  |
+| --- | vanadium, -legeringen en -carbide, berekend als V  | sA  | sA.3  |
+| --- | vanadiumverbindingen, m.n. vanadiumoxiden, -haliden, -sulfaten, en vanadaten, berekend als V  | sA  | sA.1  |
+| --- | vuurvaste keramische vezels, vezels voor speciale toepassingen, met uitzondering van minerale wol zoals gedefinieerd in bijlage VI van de EU-CLP/GHS [synthetische (silicaat)glasvezels met een willekeurige oriëntatie en een gehalte aan alkali- en aardalkalioxiden (Na2O plus K2O plus CaO plus MgO plus BaO) van ten hoogste 18 gewichtsprocent]  | ZZS  | MVP 1  |
+| --- | wateroplosbare rhodiumverbindingen, berekend als Rh  | sA  | sA.1  |
+| --- | xylenen  | gO  | gO.2  |
+| --- | zilver en -verbindingen, berekend als Ag  | sA  | sA.1  |
+| --- | zink en -verbindingen, m.u.v. zinkchromaat [13530-65-9] en zinkchloride (rook) [7646-85-7]  | S  | S  |
+| --- | zirkonium aluminiumsilicaat vuurvaste keramische vezels  | ZZS  | MVP 1  |
+| --- | zwaveloxiden, berekend als SO<sub>2</sub>   | gA  | gA.4  |
+
+### Bijlage  12b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Stoffen die in een andere stofklasse of stofcategorie zijn ingedeeld met bijbehorende afwijkende waarden als bedoeld in artikel 1.3b, tweede lid, van deze regeling.  
+
+| CAS Nummer  | Naam  | Stofklasse  | GMS (g/uur)  | E-eis (mg/m<sup>3</sup>)  |
+|:---|:---|:---|:---|:---|
+| 10043-35-3  | boorzuur  | MVP 1  | --- | --- |
+| 100-44-7  | chloormethylbenzeen; benzylchloride; α-chloortolueen  | MVP 2  | 100  | 20  |
+| 10124-43-3  | kobaltsulfaat  | MVP 1  | 0,25  | 0,05  |
+| 10141-05-6  | kobalt(II)dinitraat  | MVP 1  | 2,5  | 0,5  |
+| 10190-55-3  | loodmolybdaat, berekend als Pb  | MVP 1  | 2,5  | 0,5  |
+| 10332-33-9  | perboorzuur (HBO(O<sub>2</sub>)), natrium zout, monohydraat  | MVP 1  | --- | --- |
+| 10486-00-7  | perboorzuur (HBO(O<sub>2</sub>)), natrium zout, tetrahydraat  | MVP 1  | --- | --- |
+| 106-94-5  | 1-broompropaan  | MVP 2  | 500  | 50  |
+| 109-86-4  | 2-methoxyethanol; methyleenglycolmonomethylether; ethyleenglycolmono-methylether; methylglycol  | MVP 2  | 100  | 20  |
+| 110-49-6  | 2-methoxyethylacetaat  | MVP 2  | 100  | 20  |
+| 110-80-5  | 2-ethoxyethanol; ethyleenglycolmono-ethylether  | MVP 2  | 500  | 50  |
+| 11113-50-1  | natuurlijk ruw boorzuur met een gehalte aan H3BO3 van niet meer dan 85 gewichtspercenten berekend op de droge stof  | MVP 1  | --- | --- |
+| 111-15-9  | 2-ethoxyethylacetaat; ethylglycolacetaat  | MVP 2  | 500  | 50  |
+| 11138-47-9  | perboorzuur natriumzout  | MVP 1  | --- | --- |
+| 117955-40-5  | 2-methoxypropylacetaat  | MVP 2  | 500  | 50  |
+| 12007-00-0  | nikkelboride (NiB)  | MVP 1  | 2,5  | 0,5  |
+| 12007-01-1  | dinikkelboride  | MVP 1  | 2,5  | 0,5  |
+| 12007-02-2  | trinikkelboride  | MVP 1  | 2,5  | 0,5  |
+| 120-12-7  | anthraceen, antraceen  | MVP 2  | --- | --- |
+| 12040-72-1  | perboorzuur natriumzout, monohydraat  | MVP 1  | --- | --- |
+| 12068-61-0  | nikkeldiarsenide  | MVP 1  | 0,25  | 0,05  |
+| 12179-04-3  | boraxpentahydraat; dinatriumtetraboraatpentahydraat  | MVP 1  | --- | --- |
+| 12267-73-1  | tetraboordinatriumheptaoxide, hydraat  | MVP 1  | --- | --- |
+| 12619-90-8  | nikkelboride  | MVP 1  | 2,5  | 0,5  |
+| 126-99-8  | chloropreen; 2-chloor-1,3-butadieen; 2-chloropreen  | MVP 2  | 500  | 50  |
+| 127-19-5  | N,N-dimethyl-aceetamide  | MVP 2  | 500  | 50  |
+| 12737-30-3  | kobaltnikkeloxide  | MVP 1  | 2,5  | 0,5  |
+| 1303-28-2  | arseenpentoxide; diarseenpentaoxide  | MVP 1  | 0,25  | 0,05  |
+| 1303-86-2  | booroxide; diboortrioxide  | MVP 1  | --- | --- |
+| 1303-96-4  | boraxdecahydraat; dinatriumtetraboraatdecahydraat  | MVP 1  | --- | --- |
+| 1327-53-3  | arseentrioxide  | MVP 1  | 0,25  | 0,05  |
+| 1330-43-4  | boorzuur dinatriumzout; dinatriumtetraboraat, watervrij; boraxdecahydraat; dinatriumtetraboraatdecahydraat; boraxpentahydraat; dinatriumtetraboraatpentahydraat  | MVP 1  | --- | --- |
+| 13477-70-8  | nikkel(II)arsenaat; trinikkelbis(arsenaat)  | MVP 1  | 0,25  | 0,05  |
+| 13517-20-9  | perboorzuur (H3BO2(O<sub>2</sub>)), mononatriumzout, trihydraat  | MVP 1  | --- | --- |
+| 13814-96-5  | loodbis(tetrafluorboraat); loodfluorboraat  | MVP 1  | 2,5  | 0,5  |
+| 13840-56-7  | orthoboorzuur natriumzout  | MVP 1  | --- | --- |
+| 14708-14-6  | nikkelbis(tetrafluorboraat)  | MVP 1  | 2,5  | 0,5  |
+| 14977-61-8  | chromylchloride  | MVP 1  | 2,5  | 0,5  |
+| 15120-21-5  | natriumperboraat  | MVP 1  | --- | --- |
+| 151-56-4  | aziridine; ethyleenimine  | MVP 2  | 100  | 20  |
+| 15606-95-8  | triethylarsenaat  | MVP 1  | 0,25  | 0,05  |
+| 1589-47-5  | 2-methoxypropanol  | MVP 2  | 500  | 50  |
+| 18540-29-9  | chroom(VI)verbindingen  | MVP 1  | 0,5  | 0,1  |
+| 27016-75-7  | nikkelarsenide  | MVP 1  | 0,25  | 0,05  |
+| 3687-31-8  | trilooddiarsenaat  | MVP 1  | 0,25  | 0,05  |
+| 37244-98-7  | perboorzuur natriumzout, tetrahydraat  | MVP 1  | --- | --- |
+| 51000-52-3  | neodecaanzuur, ethenyl ester  | MVP 2  | 100  | 20  |
+| 513-79-1  | kobaltcarbonaat  | MVP 1  | 2,5  | 0,5  |
+| 58591-45-0  | kobaltnikkeldioxide  | MVP 1  | 2,5  | 0,5  |
+| 65229-23-4  | nikkelboorfosfide  | MVP 1  | 2,5  | 0,5  |
+| 68016-03-5  | kobaltdimolybdeennikkeloctaoxide  | MVP 1  | 2,5  | 0,5  |
+| 68-12-2  | N,N-dimethylformamide  | MVP 2  | 500  | 50  |
+| 68186-89-0  | kobaltnikkel grijze periklaas: C.I. Pigment black 25; C.I. 77332  | MVP 1  | 2,5  | 0,5  |
+| 70657-70-4  | 2-methoxypropylacetaat  | MVP 2  | 500  | 50  |
+| 71-48-7  | kobaltacetaat  | MVP 1  | 2,5  | 0,5  |
+| 74646-29-0  | trinikkelbis(arseniet)  | MVP 1  | 0,25  | 0,05  |
+| 74753-18-7  | zouten van 2-methylaniline; zouten van o-toluidine  | MVP 2  | 100  | 20  |
+| 75113-37-0  | di-µ-oxo-di-n-butylstannio-hydroxyboraan; dibutyltinhydrogeenboraat; dibutyltinwaterstofboraat  | MVP 2  | 100  | 20  |
+| 7632-04-4  | natriumperoxometaboraat  | MVP 1  | --- | --- |
+| 7646-79-9  | kobaltchloride; kobaltdichloride  | MVP 1  | 0,25  | 0,05  |
+| 7778-44-1  | calciumarsenaat  | MVP 1  | 0,25  | 0,05  |
+| 7784-40-9  | loodarsenaat  | MVP 1  | 0,25  | 0,05  |
+| 78-79-5  | isopreen  | MVP 2  | 100  | 20  |
+| 79-01-6  | trichlooretheen, trichloorethyleen; TRI  | MVP 2  | 500  | 50  |
+| 79-16-3  | N-methylacetamide  | MVP 2  | 500  | 50  |
+| 79-94-7  | tetrabroombisfenol A  | MVP 2  | --- | --- |
+| 81-15-2  | muskus-xyleen; 5-tert-butyl-2,4,6-trinitro-m-xyleen  | MVP 2  | --- | --- |
+| 84-69-5  | di(2-methylpropyl)ftalaat; diisobutylftalaat; di-iso-butylftalaat; DIBP  | MVP 2  | 100  | 20  |
+| 872-50-4  | n-methylpyrrolidon  | MVP 2  | 500  | 50  |
+| 95-53-4  | 2-methylaniline; o-toluidine; 2-aminotolueen; 2-methylbenzeenamine  | MVP 2  | 100  | 20  |
+| 98-07-7  | benzotrichloride; trichloormethylbenzeen  | MVP 2  | 100  | 20  |
+| --- | alkylloodverbindingen; loodalkylen  | MVP 1  | 100  | 20  |
+| --- | cadmium en -verbindingen  | MVP 1  | 0,25  | 0,05  |
+| --- | kobaltlithiumnikkeloxide  | MVP 1  | 2,5  | 0,5  |
+| --- | lood en anorganische loodverbindingen, berekend als Pb  | MVP 1  | 2,5  | 0,5  |
+| --- | nikkel en nikkelverbindingen, berekend als Ni  | MVP 1  | 2,5  | 0,5  |
+| --- | organotinverbindingen; tinverbindingen organisch  | MVP 2  | 100  | 20  |
+
+### Bijlage  13  
+
+####Lijst waarden (maximaal toelaatbare risico’s) zeer zorgwekkende stoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+| CAS-nummer  | Stof  | MTR (*µg/m<sup>3</sup>)*   | Toelichting  |
+|:---|:---|:---|:---|
+| 106-93-4  | 1,2-dibroomethaan  | 0,2  | --- |
+| 79-01-6  | trichlooretheen  | 200  | --- |
+| 107-06-2  | 1,2-dichloorethaan  | 48  | --- |
+| 75-01-4  | vinylchloride  | 3,6  | --- |
+| 91-94-1  | 3,3’-dichloorbenzidine  | 0,02  | --- |
+| 106-89-8  | epichloorhydrine  | 80  | --- |
+| 75-21-8  |  *ethyleenoxide*   |  *3*   | --- |
+| 18540-29-9  |  *chroom(VI)*   |  *0,0025*   | --- |
+| 107-13-1  |  *acrylonitril*   |  *10*   | --- |
+| 106-99-0  | 1,3-butadieen  | 3  | --- |
+| 71-43-2  | benzeen  | 5  | EU-grenswaarde, staat ook in de Wet milieubeheer  |
+| 75-56-9  | propyleenoxide  | 90  | --- |
+| 84-74-2  | Dibutyl phthalate (DBP)  | --- | --- |
+| 0,1  | --- | --- | --- |
+| 7439-92-1  | Lood  | 0,5  | grenswaarde Wet milieubeheer, geldt alleen voor lood en anorganische loodverbindingen  |
+| 7440-43-9  | Cadmium  | 0,005  | EU-richtwaarde, staat ook in de wet milieubeheer  |
+
+### Bijlage  14  
+
+####Procedure voor vaststellen Maximaal Toelaatbaar Risiconiveau (MTR) van een zeer zorgwekkende stof in lucht:
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+![256239](http://wetten.overheid.nl/Illustration/256239)
+

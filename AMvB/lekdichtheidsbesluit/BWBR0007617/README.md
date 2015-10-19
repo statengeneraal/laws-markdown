@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 28 december 1994, nr. MJZ 28d94011, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op verordening (EG) nr. 3093/94 van de Raad van de Europese Unie van 15 december 1994 betreffende stoffen die de ozonlaag afbreken (*PbEG* L 333) en [artikel 24 van de Wet milieugevaarlijke stoffen](../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md);
+Gelet op verordening (EG) nr. 3093/94 van de Raad van de Europese Unie van 15 december 1994 betreffende stoffen die de ozonlaag afbreken (*PbEG* L 333) en artikel 24 van de Wet milieugevaarlijke stoffen;
 
 De Raad van State gehoord (advies van 8 juni 1995, nr. W08.95.0002);
 
@@ -23,7 +23,7 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel 1a 
 
-Dit besluit berust mede op [artikel 9.2.2.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+Dit besluit berust mede op artikel 9.2.2.1 van de Wet milieubeheer.
 
 ### Artikel  2  
 

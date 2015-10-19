@@ -12,15 +12,11 @@ Besluit:
 
 ####examenprotocol
 
-Treedt in werking per 01-08-2015 
-
 Het examenprotocol, bedoeld in artikel 6, eerste lid onderdeel j van het Examen- en kwalificatiebesluit beroepsopleidingen WEB, wordt vastgesteld als opgenomen in de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
 ####bekendmaking
-
-Treedt in werking per 01-08-2015 
 
 De regeling zal met de bijlage en toelichting in de Staatscourant worden geplaatst. De bijlage kan ook geraadpleegd worden op Examenbladmbo.nl. 
 
@@ -28,23 +24,17 @@ De regeling zal met de bijlage en toelichting in de Staatscourant worden geplaat
 
 ####inwerkingtreding
 
-Treedt in werking per 01-08-2015 
-
 Deze regeling treedt in werking met ingang van 1 augustus 2015. 
 
 ### Artikel  4  
 
 ####intrekking
 
-Treedt in werking per 01-08-2015 
-
 De Regeling examenprotocol centrale examinering mbo van 17 juni 2014 wordt ingetrokken. 
 
 ### Artikel  5  
 
 ####citeertitel
-
-Treedt in werking per 01-08-2015 
 
 Deze regeling wordt aangehaald als: Regeling examenprotocol centrale examinering mbo 2015. 
 
@@ -55,8 +45,6 @@ P.J.J. Hendrikse
 ### Bijlage 
 
 #### behorende bij artikel 1  van de Regeling examenprotocol centrale examinering mbo 2015, van 9 februari 2015, nummer CvTE-15.00621
-
-Treedt in werking per 01-08-2015 
 
 ####Examenprotocol centrale examinering mbo 2015
 
@@ -84,19 +72,17 @@ c. De afnameleider zorgt ervoor dat het ingeplande examen pas vlak voor de afnam
 
 d. De opgaven zijn slechts toegankelijk voor medewerkers van de instelling voor zover dat en op het moment dat dit noodzakelijk is voor de afname.  
 
-e. Inzage achteraf door docenten in de rekenopgaven uit het centrale examen is slechts mogelijk met inachtneming van de daarvoor door het CvTE gepubliceerde richtlijnen.  
+e. Er moet voorkomen worden dat deelnemers tijdens een afname toegang hebben tot een of meer andere examens dan voor die betreffende afname ingepland staat.  
 
-f. Er moet voorkomen worden dat deelnemers tijdens een afname toegang hebben tot een of meer andere examens dan voor die betreffende afname ingepland staat.  
+f. Het is voor deelnemers verboden apparatuur waarmee foto’s/films e.d. van examenopgaven gemaakt kunnen worden (zoals smartphones en tablets), al of niet met de mogelijkheid om in verbinding te staan met het internet, mee te nemen naar de examenzitting.  
 
-g. Het is voor deelnemers verboden apparatuur waarmee foto’s/films e.d. van examenopgaven gemaakt kunnen worden (zoals smartphones en tablets), al of niet met de mogelijkheid om in verbinding te staan met het internet, mee te nemen naar de examenzitting.  
+g. Het is niet toegestaan dat examenopgaven en/of examenafnames worden gefotografeerd/gefilmd en/of registraties (zoals (digitale) schermafdrukken) e.d. daarvan worden gemaakt dan wel verspreid zonder toestemming van het College voor Toetsen en Examens.  
 
-h. Het is niet toegestaan dat examenopgaven en/of examenafnames worden gefotografeerd/gefilmd en/of registraties (zoals (digitale) schermafdrukken) e.d. daarvan worden gemaakt dan wel verspreid zonder toestemming van het College voor Toetsen en Examens.  
+h. Informatie, in welke zin dan ook, over de inhoud van enig centraal examen mag niet met anderen worden uitgewisseld. Dientengevolge is het docenten niet toegestaan informatie, in welke zin dan ook, over de inhoud van enig centraal examen met anderen dan het CvTE uit te wisselen. Bijvoorbeeld: het is niet toegestaan om via internetforums te discussiëren over opgaven.  
 
-i. Informatie, in welke zin dan ook, over de inhoud van enig centraal examen mag niet met anderen worden uitgewisseld. Dientengevolge is het docenten niet toegestaan informatie, in welke zin dan ook, over de inhoud van enig centraal examen met anderen dan het CvTE uit te wisselen. Bijvoorbeeld: het is niet toegestaan om via internetforums te discussiëren over opgaven.  
+i. Het is niet toegestaan een papieren uitdraai te maken van het gemaakte centraal examen.  
 
-j. Het is niet toegestaan een papieren uitdraai te maken van het gemaakte centraal examen.  
-
-k. Door de deelnemer gemaakte notities mogen door de deelnemer niet worden meegenomen, de examencommissie zorgt ervoor dat deze notities vernietigd worden.     
+j. Door de deelnemer gemaakte notities mogen door de deelnemer niet worden meegenomen, de examencommissie zorgt ervoor dat deze notities vernietigd worden.     
 
 ####Handelwijze vooraf
 
@@ -142,7 +128,7 @@ F. De deelnemer kan tegen de beslissing van de examencommissie in beroep gaan bi
 
 (9)  *Gevallen van (vermoeden van) schending van geheimhouding*  
 
-A. In gevallen van (het vermoeden van) schending van de geheimhouding geldt een meldingsplicht aan de Inspectie van het Onderwijs en treedt de ‘Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen’ in werking. Naar aanleiding van de melding kan de Inspectie van het Onderwijs op grond van artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB besluiten dat het centraal examen geheel of gedeeltelijk voor een of meer deelnemers opnieuw wordt afgenomen.  
+A. In gevallen van (het vermoeden van) schending van de geheimhouding geldt een meldingsplicht aan de Inspectie van het Onderwijs en treedt de ‘Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in beroepsopleidingen’ in werking. Naar aanleiding van de melding kan de Inspectie van het Onderwijs op grond van artikel 11 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB besluiten dat het centraal examen geheel of gedeeltelijk voor een of meer deelnemers opnieuw wordt afgenomen. Ook kan de Inspectie van het Onderwijs besluiten dat de onregelmatigheid op grond van het examenprotocol door de examencommissie kan worden afgehandeld en de melding terugverwijzen naar de examencommissie.  
 
 B. De deelnemer wordt indien de handeling plaatsvindt tijdens de afname – als dat mogelijk is – in staat gesteld om het werk af te maken, om mogelijke beroepsprocedures niet in de weg te staan.    
 
@@ -182,13 +168,17 @@ d. Het toestaan van bijzondere faciliteiten.
 
 (18) Het resultaat van het gemaakte examen wordt in het eigen administratiesysteem van de instelling bewaard. Het te bewaren examenwerk omvat de onder de verantwoordelijkheid van het CvTE geleverde rapportage over de resultaten waarin per deelnemer de eindscore is gegeven. Deze gegevens worden tot ten minste anderhalf jaar na diplomering door de instelling bewaard.   
 
-####Inzien gemaakt examenwerk
+####Inzage gemaakt examenwerk Nederlandse taal en Engels
 
-(19) Voor deelnemers bestaat de mogelijkheid tot inzage in het eigen gemaakte werk (en niet tot de opgaven zelf), de antwoorden volgens het computersysteem en de score per vraag. De deelnemer kan zo controleren of de scoring van de eigen antwoorden met 0 of 1 overeenkomt met het antwoord volgens het computersysteem. In een separaat document wordt de procedure rondom deze inzage beschreven. De termijn waarin de deelnemer dit verzoek om controle kenbaar kan maken aan de examencommissie van de instelling beslaat vier weken vanaf publicatie van de omzettingstabel.   
+(19) Voor deelnemers bestaat de mogelijkheid tot inzage in het eigen gemaakte werk (en niet tot de opgaven zelf), de antwoorden volgens het computersysteem en de score per vraag. De deelnemer kan zo controleren of de scoring van de eigen antwoorden met 0 of 1 overeenkomt met het antwoord volgens het computersysteem. In de regels voor digitale examinering wordt de procedure rondom deze inzage beschreven (deze regels worden jaarlijks in september gepubliceerd op www.examenblad.mbo.nl). De deelnemer doet dit verzoek om controle aan de examencommissie van de instelling. De termijn waarbinnen de inzage plaats kan vinden beslaat vier weken na publicatie van de omzettingstabellen van het desbetreffende examen Nederlands of Engels.   
+
+####Inzage in rekenexamens
+
+(20)Voor deelnemers en docenten bestaat de mogelijkheid tot inzage in het rekenexamen. Dit betreft de opgaven, het door de deelnemer gegeven antwoord en het juiste antwoord. Voor de inzage zijn de richtlijnen t.b.v. geheimhouding uit artikel 2 van dit protocol van toepassing. De deelnemer dient het verzoek tot inzage in bij de examencommissie van de instelling. De docent hoeft geen verzoek bij de examencommissie in te dienen. De termijn waarbinnen de inzage plaats kan vinden beslaat vier weken na de laatste afnamedatum van het desbetreffende rekenexamen.
 
 ####Klachten
 
-(20) De deelnemer kan met klachten over de afname van een centraal examen terecht bij de examencommissie.  
+(21) De deelnemer kan met klachten over de afname van een centraal examen terecht bij de examencommissie.  
 
-(21) Met klachten over (de totstandkoming van) het cijfer voor een centraal examen kan de deelnemer een civielrechtelijke procedure starten.   
+(22) Met klachten over (de totstandkoming van) het cijfer voor een centraal examen kan de deelnemer een civielrechtelijke procedure starten.   
 

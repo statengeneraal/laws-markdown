@@ -12467,8 +12467,10 @@ CFK-115 chloorpentafluorethaan
 | 4.000 – 20.000 ton draagvermogen  | n.v.t.  | 0–10<sup>1)</sup>   | 0–20<sup>1)</sup>   | 0–30<sup>1)</sup>   |
 | Lng-tanker***  | 10.000 ton draagvermogen en hoger  | n.v.t  | 10**  | 20  | 30  |
 | Rorovrachtschip (vrachtschip voor voertuigen)***  | 10.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 15  | 30  |
-| Rorovrachtschip***  | 2.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 20  | 30 0-30*  |
-|1.000 – 2.000 ton draagvermogen |n.v.t. |0-5*** |0-20* | --- |
+| Rorovrachtschip***  | 2.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 20  | 30  |
+|1.000 – 2.000 ton draagvermogen |n.v.t. |0-5*** |0-20* |0-30* |
+| Roropassagiersschip***  | 1.000 ton draagvermogen en hoger  | n.v.t.  | 5**  | 20  | 30  |
+| 250 – 1.000 ton draagvermogen  | n.v.t.  | 0-5***  | 0-20*  | 0-30*  |
 | Cruiseschip*** met niet-conventionele voortstuwing | Brutotonnage 85.000 en hoger  | n.v.t.  | 5**  | 20  | 30  |
 | Brutotonnage 25.000 – 85.000  | n.v.t.  | 0-5***  | 0-20*  | 0-30*  |
 
@@ -12488,6 +12490,7 @@ CFK-115 chloorpentafluorethaan
 | 2.34 Rorovrachtschip  | 1405,15  | draagvermogen van het schip  | 0,498  |
 | 2.35 Roropassagiersschip  | 752,16  | draagvermogen van het schip  | 0,381  |
 | 2.38 Lng-tanker  | 2253,7  | draagvermoge van het schip  | 0,474  |
+| 2.39 Cruiseschip met niet-conventionele voortstuwing  | 170,84  | brutotonnage van het schip  | 0,214  |
 
 4.   Indien het ontwerp van het schip zodanig is dat het onder meer dan een van de hierboven omschreven scheepstypen kan vallen, dan is de vereiste EEDI voor het schip de strengste (laagste) vereiste EEDI.   
 5.   Bij elk schip waarop dit voorschrift van toepassing is, mag het geïnstalleerde voortstuwingsvermogen niet minder zijn dan het voortstuwingsvermogen dat nodig is om de manoeuvreerbaarheid van het schip onder slechte omstandigheden, zoals omschreven in de door de Organisatie te ontwikkelen richtsnoeren, te handhaven.   

@@ -13,31 +13,31 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *de directeur:* de directeur Bedrijfsvoering;  
+a. *de directeur:* de directeur Bedrijfsvoering;  
 
-b.  *de onderdeelmanagers:* de managers van de organisatieonderdelen van de directie Bedrijfsvoering;  
+b. *de onderdeelmanagers:* de managers van de organisatieonderdelen van de directie Bedrijfsvoering;  
 
-c.  *de plaatsvervangend onderdeelmanagers:* de plaatsvervangend managers van de directie Bedrijfsvoering;  
+c. *de plaatsvervangend onderdeelmanagers:* de plaatsvervangend managers van de directie Bedrijfsvoering;  
 
-d.  *het DT:* het directieteam van de directie Bedrijfsvoering bestaande uit het collectief van de onder a en b genoemde functionarissen;  
+d. *het DT:* het directieteam van de directie Bedrijfsvoering bestaande uit het collectief van de onder a en b genoemde functionarissen;  
 
-e.  *de coördinerend directeur inkoop:* de coördinerend directeur inkoop van het Ministerie van Economische Zaken;  
+e. *de coördinerend directeur inkoop:* de coördinerend directeur inkoop van het Ministerie van Economische Zaken;  
 
-f.  *de MT-leden:* de leden van de managementteams van een organisatieonderdeel van de directie Bedrijfsvoering;  
+f. *de MT-leden:* de leden van de managementteams van een organisatieonderdeel van de directie Bedrijfsvoering;  
 
-g.  *het MT:* het managementteam van een organisatieonderdeel van de directie Bedrijfsvoering;  
+g. *het MT:* het managementteam van een organisatieonderdeel van de directie Bedrijfsvoering;  
 
-h.  *de manager HRM:* de manager HRM van de directie Bedrijfsvoering;  
+h. *de manager P&O:* de manager P&O van de directie Bedrijfsvoering;  
 
-i.  *de teamleiders:* de teamleiders van de directie Bedrijfsvoering;  
+i. *de teamleiders:* de teamleiders van de directie Bedrijfsvoering;  
 
-j.  *de HR-adviseurs:* de HR-adviseurs van de directie Bedrijfsvoering;  
+j. *de P&O-adviseurs:* de P&O-adviseurs van de directie Bedrijfsvoering;  
 
-k.  *de medewerkers servicepunt Inkoop:* de medewerkers van het servicepunt Inkoop van het Ministerie van Economische Zaken;  
+k. *de medewerkers servicepunt Inkoop:* de medewerkers van het servicepunt Inkoop van het Ministerie van Economische Zaken;  
 
-l.  *de medewerkers Bedrijfsvoering:* de medewerkers van de directie Bedrijfsvoering;  
+l. *de medewerkers Bedrijfsvoering:* de medewerkers van de directie Bedrijfsvoering;  
 
-m.  *het bedrag:* het bedrag inclusief verschuldigde omzetbelasting (BTW).   
+m. *het bedrag:* het bedrag inclusief verschuldigde omzetbelasting (BTW).   
 
 ### §  2  
 
@@ -99,7 +99,7 @@ g. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskost
 
 ### Artikel  6  
 
-Aan de manager HRM wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden van medewerkers van het Ministerie van Economische Zaken met uitzondering van de beslissingen op bezwaarschriften tegen besluiten die in mandaat zijn genomen door de directeur Bedrijfsvoering of door hem aangewezen medewerkers. 
+Aan de manager P&O wordt ondermandaat, volmacht en machtiging verleend voor beslissingen op bezwaarschriften inzake personeelsaangelegenheden van medewerkers van het Ministerie van Economische Zaken met uitzondering van de beslissingen op bezwaarschriften tegen besluiten die in mandaat zijn genomen door de directeur Bedrijfsvoering of door hem aangewezen medewerkers. 
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ f. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskost
 
 ### Artikel  8  
 
-Aan de HR-adviseurs wordt, ieder voor zich, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen op hun werkterrein voortvloeiend uit beslissingen van een hoofd van dienst. 
+Aan de P&O-adviseurs wordt, ieder voor zich, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen op hun werkterrein voortvloeiend uit beslissingen van een hoofd van dienst. 
 
 ### Artikel  9  
 

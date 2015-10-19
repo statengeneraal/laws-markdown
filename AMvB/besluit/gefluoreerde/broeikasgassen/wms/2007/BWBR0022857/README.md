@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 juli 2007, nr. DJZ 2007065566, Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161) en de [artikelen 24](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) en [39, derde lid, van de Wet milieugevaarlijke stoffen](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md);
+Gelet op verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161) en de artikelen 24 en 39, derde lid, van de Wet milieugevaarlijke stoffen;
 
 De Raad van State gehoord (advies van 17 augustus 2007, nr. W08.07.0198/IV);
 
@@ -32,18 +32,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *hoogspanningsschakelaars:* hoogspanningsschakelaars als bedoeld in artikel 2 van verordening (EG) nr. 305/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde gefluoreerde broeikasgassen uit hoogspanningsschakelaars (PbEU L 92);  
 
-*koelsysteem:* drukapparatuur of drukapparaat als bedoeld in [artikel 1, onderdeel e, van het Warenwetbesluit drukapparatuur](../../../../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md), waarin zich gefluoreerde broeikasgassen bevindt of daartoe bestemd is;  
+*koelsysteem:* drukapparatuur of drukapparaat als bedoeld in artikel 1, onderdeel e, van het Warenwetbesluit drukapparatuur, waarin zich gefluoreerde broeikasgassen bevindt of daartoe bestemd is;  
 
 *mobiel koelsysteem:* koelsysteem dat 
 
 – niet hermetisch gesloten is en drie kilogram of meer gefluoreerde broeikasgassen bevat, of  
 
-– hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen bevat,   en zich bevindt in of op een spoorvoertuig als bedoeld in [artikel 1, onder e, van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) of een voertuig als bedoeld in [artikel 1, eerste lid, onder c of d, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+– hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen bevat,   en zich bevindt in of op een spoorvoertuig als bedoeld in artikel 1, onder e, van de Spoorwegwet of een voertuig als bedoeld in artikel 1, eerste lid, onder c of d, van de Wegenverkeerswet 1994;  
 
 *stationair brandbeveiligingssysteem:* brandbeveiligingssysteem als bedoeld in artikel 1 van de EG-verordening standaardlekcontroles brandbeveiligingssystemen.   
 
 ### Artikel  1a  
-Treedt in werking per 01-07-2014 
 
 Dit besluit en de daarop berustende bepalingen zijn mede van toepassing op handelingen verricht binnen de exclusieve economische zone. 
 
@@ -102,12 +101,12 @@ Wijzigt het Transactiebesluit milieudelicten.
 
 ### Artikel  8  
 
-1.  Na de inwerkingtreding van dit besluit berust de [Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf](../../../../../../../ministeriele-regeling/aanwijzingsregeling/stichting/erkenningsregeling/voor/de/uitoefening/van/etc/BWBR0005786/README.md) op artikel 4, eerste lid, van dit besluit, [artikel 5, derde lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) en [artikel 1, derde lid, van het Besluit broeikasgassen in apparatuur op schepen Wms 2003](../../../../../../../AMvB/lekdichtheidsbesluit/BWBR0007617/README.md).   
-2.  Na de inwerkingtreding van dit besluit berust de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md) uitsluitend op [artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md).  
+1.  Na de inwerkingtreding van dit besluit berust de Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf op artikel 4, eerste lid, van dit besluit, artikel 5, derde lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003 en artikel 1, derde lid, van het Besluit broeikasgassen in apparatuur op schepen Wms 2003.   
+2.  Na de inwerkingtreding van dit besluit berust de Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006 uitsluitend op artikel 5, tweede lid, van het Besluit ozonlaagafbrekende stoffen Wms 2003.  
 
 ###Artikel 8a 
 
-Dit besluit berust mede op de [artikelen 9.2.2.1](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+Dit besluit berust mede op de artikelen 9.1.1, 9.2.2.1 en 9.2.3.2 van de Wet milieubeheer.
 
 ### Artikel  9  
 

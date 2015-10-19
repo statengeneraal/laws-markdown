@@ -1041,6 +1041,11 @@ b. voor de dienst of voorziening een afzonderlijke boekhouding voert en deze ter
 4.  Indien de Autoriteit Consument en Markt van oordeel is dat de klacht gegrond is, legt zij zo nodig een last onder dwangsom op.   
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot ten behoeve van het onderzoek te verstrekken gegevens en bescheiden, alsmede met betrekking tot de termijnen voor het verstrekken van de gegevens en bescheiden.  
 
+### Artikel  72a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 8 van de Instellingswet Autoriteit Consument en Markt stellen Onze Minister en de Autoriteit Consument en Markt een gemeenschappelijk kader op voor informatie-uitwisseling en samenwerking op het gebied van de spoorveiligheid en de concurrentie op de spoorwegmarkt als bedoeld in artikel 56, derde lid, tweede alinea, van richtlijn 2012/34/EU. 
+
 ### Artikel  74  
 
 Indien door Onze Minister vast te stellen beleidsregels betrekking hebben op de interpretatie van mededingingsbegrippen stelt Onze Minister die beleidsregels vast in overeenstemming met Onze Minister van Economische Zaken. 
@@ -1203,6 +1208,12 @@ De rechthebbende ten aanzien van een bijzondere of lokale spoorweg die onder de 
 1.  Spoorwegondernemingen en de beheerder zijn verplicht Onze Minister mondeling, schriftelijk of op andere wijze – dit ter keuze van Onze Minister na overleg met de betrokken spoorwegonderneming of betrokken beheerder – alle bij hen berustende gegevens te verstrekken en inzage te geven van boeken en bescheiden die betrekking hebben op het gebruik of beheer van spoorwegen en het vervoer daarover, voorzover Onze Minister dat redelijkerwijs voor de vervulling van zijn taak nodig heeft.   
 2.  Degene van wie krachtens het eerste lid gegevens worden verlangd, is op de door Onze Minister aan te geven wijze en binnen de door hem te bepalen termijn verplicht deze volledig en naar waarheid te verstrekken en degene van wie inzage wordt verlangd is verplicht deze ongestoord te verlenen.   
 3.  Onze Minister gebruikt gegevens of inlichtingen omtrent een spoorwegonderneming die hij heeft verkregen in verband met enige werkzaamheid ten behoeve van de uitvoering van een van zijn taken, uitsluitend voor de uitvoering van die taak.  
+
+### Artikel  96a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een betrokkene als bedoeld in artikel 15, derde lid, van richtlijn 2012/34/EU verstrekt desgevraagd aan Onze Minister binnen de door hem te bepalen termijn de gegevens en inlichtingen die hij nodig heeft om te kunnen voldoen aan een verzoek van de Europese Commissie om informatie over het gebruik van de spoorwegnetten en de ontwikkeling van de kadervoorwaarden in de spoorwegsector als bedoeld in artikel 15, derde en vierde lid, van richtlijn 2012/34/EU.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de in het eerste lid bedoelde onderwerpen.  
 
 ### §  11  
 

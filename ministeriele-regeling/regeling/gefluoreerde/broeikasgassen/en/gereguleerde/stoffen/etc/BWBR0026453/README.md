@@ -155,11 +155,11 @@ b. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld 
 
 c. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, derde lid: 
 
-1°. voor een examen of een herexamen op alle onderdelen: € 240,– exclusief BTW;  
+1°. voor een examen of een herexamen op alle onderdelen: € 220,– exclusief BTW;  
 
-2°. voor een herexamen van het theoriegedeelte: € 75,– exclusief BTW;  
+2°. voor een herexamen van het theoriegedeelte: € 69,– exclusief BTW;  
 
-3°. voor een herexamen van het praktijkgedeelte: € 210,– exclusief BTW.       
+3°. voor een herexamen van het praktijkgedeelte: € 193,– exclusief BTW.       
 5.  In afwijking van het vierde lid, onder a, bedraagt de hoogte van de vergoeding voor een examen of een herexamen met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder a, indien de deelnemer al beschikt over een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder b, voor een examen of voor een herexamen: € 245,– exclusief BTW.  
 
 ### Artikel  8  

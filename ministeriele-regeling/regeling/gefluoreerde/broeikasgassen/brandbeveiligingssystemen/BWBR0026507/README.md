@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 oktober 2009, nr. DGM/K&L 2009057285, houdende vaststelling van regels inzake de examinering en diplomering van personen en certificering van bedrijven die werkzaamheden verrichten aan stationaire brandbeveiligingssystemen en brandblusapparaten waarbij gefluoreerde broeikasgassen vrij kunnen komen (Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
-Gelet op artikel 5, tweede lid, van verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161), de artikelen 9, tweede lid, 10, eerste lid, 11, eerste lid, van Verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 92), en [artikel 4, eerste tot en met derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md);
+Gelet op artikel 5, tweede lid, van verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 inzake bepaalde gefluoreerde broeikasgassen (PbEU L 161), de artikelen 9, tweede lid, 10, eerste lid, 11, eerste lid, van Verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 92), en artikel 4, eerste tot en met derde lid, van het Besluit gefluoreerde broeikasgassen milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -237,7 +237,7 @@ Het diploma vermeldt ten minste de gegevens, bedoeld in artikel 5, tweede lid, v
 
 ### Artikel  17  
 
-Indien degene die een diploma bezit bij voortduring in strijd handelt met deze regeling of [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
+Indien degene die een diploma bezit bij voortduring in strijd handelt met deze regeling of artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
 
 ### Paragraaf  2.6  
 

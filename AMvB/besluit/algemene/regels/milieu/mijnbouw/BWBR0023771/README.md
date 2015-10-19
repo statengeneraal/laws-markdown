@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 30 oktober 2007, nr. WJZ 7118005, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op [artikel 40, tweede lid, en negende lid, onderdeel a, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) en de [artikelen 8.40](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.41](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [8.42 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 40, tweede lid, en negende lid, onderdeel a, van de Mijnbouwwet en de artikelen 8.40, 8.41 en 8.42 van de Wet milieubeheer;
 
 De Raad van State gehoord (advies van 20 december 2007, nr. W10.07.0408/III);
 
@@ -26,17 +26,17 @@ b. mobiele installatie: een verplaatsbare installatie voor het aanleggen, testen
 
 c. onderzeese installatie: een geheel boven en beneden de bodem van een oppervlaktewater gelegen mijnbouwinstallatie die niet boven het oppervlaktewater uitsteekt;  
 
-d. uitvoerder: de in [artikel 41, vierde lid, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) bedoelde persoon;  
+d. uitvoerder: de in artikel 41, vierde lid, van de Mijnbouwwet bedoelde persoon;  
 
 e. woning: een gebouw of deel van een gebouw dat voor bewoning wordt gebruikt of daartoe is bestemd;  
 
-f. geluidsgevoelige gebouwen: woningen en andere geluidsgevoelige gebouwen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), met uitzondering van gebouwen behorende bij de betreffende inrichting en gebouwen gelegen op een gezoneerd industrieterrein;  
+f. geluidsgevoelige gebouwen: woningen en andere geluidsgevoelige gebouwen als bedoeld in artikel 1 van de Wet geluidhinder, met uitzondering van gebouwen behorende bij de betreffende inrichting en gebouwen gelegen op een gezoneerd industrieterrein;  
 
-g. geluidsgevoelige terreinen: geluidsgevoelige terreinen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), met uitzondering van terreinen behorende bij de betreffende inrichting en terreinen op een gezoneerd industrieterrein;  
+g. geluidsgevoelige terreinen: geluidsgevoelige terreinen als bedoeld in artikel 1 van de Wet geluidhinder, met uitzondering van terreinen behorende bij de betreffende inrichting en terreinen op een gezoneerd industrieterrein;  
 
-h. ongewoon voorval: voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+h. ongewoon voorval: voorval als bedoeld in artikel 17.1 van de Wet milieubeheer;  
 
-i. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit alsmede het bestuursorgaan dat bevoegd zou zijn een vergunning krachtens [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of [artikel 40, tweede lid, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) voor de betrokken inrichting of installatie te verlenen;  
+i. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit alsmede het bestuursorgaan dat bevoegd zou zijn een vergunning krachtens artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of artikel 40, tweede lid, van de Mijnbouwwet voor de betrokken inrichting of installatie te verlenen;  
 
 j. maatwerkvoorschrift: voorschrift dat nodig is ter bescherming van het milieu, inhoudende: 
 
@@ -63,7 +63,7 @@ b. de NRB.
 ### Artikel  3  
 
 1.  De uitvoerder die weet of redelijkerwijs had kunnen weten dat door het in werking zijn van de mobiele installatie dan wel onderzeese installatie en de in verband met de mobiele installatie dan wel onderzeese installatie verrichte werkzaamheden en activiteiten nadelige gevolgen voor het milieu ontstaan of kunnen ontstaan die niet of onvoldoende worden voorkomen of beperkt door naleving van de bij of krachtens dit besluit gestelde regels, voorkomt die gevolgen of beperkt die voor zover voorkomen niet mogelijk is en voor zover dit redelijkerwijs van hem kan worden gevergd.   
-2.  [Artikel 2.1, tweede en vierde lid, van het Activiteitenbesluit milieubeheer](../../../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) is van overeenkomstige toepassing.  
+2.  Artikel 2.1, tweede en vierde lid, van het Activiteitenbesluit milieubeheer is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  2  
 
@@ -71,7 +71,7 @@ b. de NRB.
 
 ### Artikel  4  
 
-Als categorieën van mijnbouwwerken als bedoeld in [artikel 40, tweede lid, tweede volzin, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) worden aangewezen: 
+Als categorieën van mijnbouwwerken als bedoeld in artikel 40, tweede lid, tweede volzin, van de Mijnbouwwet worden aangewezen: 
 
 a. een mobiele installatie op land met bijbehorend terrein met uitzondering van een mobiele installatie die geplaatst is bij een voor winning bestemd mijnbouwwerk;  
 
@@ -85,18 +85,18 @@ c. een onderzeese installatie die niet is verbonden met een voor winning bestemd
 
 a. de installaties aangewezen in artikel 4;  
 
-b. een mobiele installatie op land of in een oppervlaktewater die geplaatst is binnen een voor winning bestemd mijnbouwwerk waarvoor een vergunning verplicht is op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+b. een mobiele installatie op land of in een oppervlaktewater die geplaatst is binnen een voor winning bestemd mijnbouwwerk waarvoor een vergunning verplicht is op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht;  
 
-c. een onderzeese installatie die verbonden is met een voor winning bestemd mijnbouwwerk waarvoor een vergunning verplicht is op grond van [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+c. een onderzeese installatie die verbonden is met een voor winning bestemd mijnbouwwerk waarvoor een vergunning verplicht is op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht;  
 
-d. een mobiele installatie op het continentaal plat die geplaatst is bij een voor winning bestemd mijnbouwwerk waarvoor een vergunning nodig is op grond van [artikel 40, tweede lid, eerste volzin van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
+d. een mobiele installatie op het continentaal plat die geplaatst is bij een voor winning bestemd mijnbouwwerk waarvoor een vergunning nodig is op grond van artikel 40, tweede lid, eerste volzin van de Mijnbouwwet;  
 
-e. een onderzeese installatie op het continentaal plat die verbonden is met een voor winning bestemd mijnbouwwerk waarvoor een vergunning nodig is op grond van [artikel 40, tweede lid, eerste volzin van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md).     
+e. een onderzeese installatie op het continentaal plat die verbonden is met een voor winning bestemd mijnbouwwerk waarvoor een vergunning nodig is op grond van artikel 40, tweede lid, eerste volzin van de Mijnbouwwet.     
 2.  Dit besluit is niet van toepassing op: 
 
-a. werkzaamheden met behulp van een mobiele installatie die plaatsvinden op een locatie die gelegen is in een gevoelig gebied als bedoeld onder a, b (tot 3 zeemijl uit de kust) of d van punt 1 van onderdeel A van de [bijlage, behorende bij het Besluit milieueffectrapportage](../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md);  
+a. werkzaamheden met behulp van een mobiele installatie die plaatsvinden op een locatie die gelegen is in een gevoelig gebied als bedoeld onder a, b (tot 3 zeemijl uit de kust) of d van punt 1 van onderdeel A van de bijlage, behorende bij het Besluit milieueffectrapportage;  
 
-b. werkzaamheden met behulp van een mobiele installatie op land indien uit de berekening van het plaatsgebonden risico als bedoeld in artikel 44 van dit besluit blijkt dat er een beperkt kwetsbaar object als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) binnen de 10<sup>-6</sup> per jaar veiligheidscontour is gelegen.    
+b. werkzaamheden met behulp van een mobiele installatie op land indien uit de berekening van het plaatsgebonden risico als bedoeld in artikel 44 van dit besluit blijkt dat er een beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen binnen de 10<sup>-6</sup> per jaar veiligheidscontour is gelegen.    
 
 ### Artikel  6  
 
@@ -123,7 +123,7 @@ f. de verwachte datum van de aanvang en die van de beëindiging van de werkzaamh
 
 g. de resultaten van een akoestisch onderzoek als bedoeld in artikel 19, onderdeel f, waaruit blijkt dat wordt voldaan aan de voorschriften ten aanzien van geluid, die zijn gesteld bij of krachtens de artikelen 19 of 20;  
 
-h. de resultaten van een onderzoek naar de bodem op de plaats waar de mobiele installatie zal zijn of is gelegen en is uitgevoerd door een persoon of instelling die daartoe beschikt over een erkenning op grond van het [Besluit uitvoeringskwaliteit bodembeheer](../../../../../../../AMvB/besluit/uitvoeringskwaliteit/bodembeheer/BWBR0019963/README.md) en is gericht op de bodembedreigende stoffen die door de werkzaamheden met de mobiele installatie een bedreiging voor de bodemkwaliteit vormen en op de plaatsen waar bodembedreigende activiteiten plaatsvinden;  
+h. de resultaten van een onderzoek naar de bodem op de plaats waar de mobiele installatie zal zijn of is gelegen en is uitgevoerd door een persoon of instelling die daartoe beschikt over een erkenning op grond van het Besluit uitvoeringskwaliteit bodembeheer en is gericht op de bodembedreigende stoffen die door de werkzaamheden met de mobiele installatie een bedreiging voor de bodemkwaliteit vormen en op de plaatsen waar bodembedreigende activiteiten plaatsvinden;  
 
 i. het aantal transportbewegingen gedurende de dag (7.00–19.00), avond (19.00–23.00) en nacht (23.00–7.00).     
 2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot het wijzigen van een mobiele installatie en het wijzigen van de werkzaamheden.   
@@ -213,7 +213,7 @@ a. langtijdgemiddeld beoordelingsniveau: (L<sub>Ar, LT</sub>) het gemiddelde van
 
 b. maximaal geluidsniveau: (L<sub>Amax</sub>) maximaal geluidsniveau, gemeten in de meterstand «F» of «fast», als vastgesteld en beoordeeld overeenkomstig de Handleiding meten en rekenen industrielawaai;  
 
-c. geluidsniveau: geluidsniveau in dB(A) als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md).   
+c. geluidsniveau: geluidsniveau in dB(A) als bedoeld in artikel 1 van de Wet geluidhinder.   
 
 ### Artikel  19  
 
@@ -242,7 +242,7 @@ f. als er een geluidsgevoelig gebouw aanwezig is binnen 300 meter vanaf het hart
 1.  Onze Minister kan bij maatwerkvoorschrift waarden stellen die hoger zijn dan de waarden die zijn vermeld in Tabel I, indien de waarden in Tabel I naar het oordeel van Onze Minister op basis van de beste beschikbare techniek niet haalbaar zijn.   
 2.  Onze Minister kan bij maatwerkvoorschrift waarden stellen die lager zijn dan de waarden die vermeld zijn in Tabel I, indien naar het oordeel van Onze Minister lagere waarden uit een oogpunt van bescherming van het milieu noodzakelijk zijn voor zover die op basis van de beste beschikbare techniek technisch haalbaar zijn.   
 3.  Van een beschikking als bedoeld in het eerste en tweede lid wordt kennis gegeven in de Staatscourant en in een of meer dag-, nieuws- of huis-aan huis-bladen.   
-4.  Indien een maatwerkvoorschrift als bedoeld in het eerste lid waarden tot gevolg heeft die aanzienlijke gevolgen voor het milieu kunnen hebben, is op de voorbereiding van het maatwerkvoorschrift [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.  
+4.  Indien een maatwerkvoorschrift als bedoeld in het eerste lid waarden tot gevolg heeft die aanzienlijke gevolgen voor het milieu kunnen hebben, is op de voorbereiding van het maatwerkvoorschrift afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.  
 
 ### Artikel  21  
 
@@ -308,13 +308,13 @@ Op het terrein waarop de mobiele installatie zich bevindt, worden bodembescherme
 1.  Indien het terrein niet voldoet aan de eisen van bodemrisicocategorie A, maar aan die van A*, worden vier grondwaterpeilbuizen geïnstalleerd die zodanig zijn geplaatst dat bodemverontreiniging door (hulp)stoffen die bij het uitvoeren van boringen worden gebruikt, kunnen worden gesignaleerd.   
 2.  De grondwaterpeilbuizen, bedoeld in het eerste lid, worden zo vaak als de omstandigheden daartoe aanleiding geven, doch in ieder geval voorafgaande aan de werkzaamheden, binnen zes maanden na beëindiging van de werkzaamheden en daarna iedere vijf jaren bemonsterd en geanalyseerd volgens NEN 5744.   
 3.  De resultaten van de bemonstering en analyse worden ten minste vijf jaar bewaard en worden op verzoek getoond aan de inspecteur-generaal der mijnen.   
-4.  De installatie van een grondwaterpeilbuis als bedoeld in het eerste en tweede lid, alsmede de bemonstering en analyse als bedoeld in het tweede lid, vinden plaats door een persoon of instelling, die voor deze werkzaamheid beschikt over een erkenning op grond van het [Besluit bodemkwaliteit](../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).  
+4.  De installatie van een grondwaterpeilbuis als bedoeld in het eerste en tweede lid, alsmede de bemonstering en analyse als bedoeld in het tweede lid, vinden plaats door een persoon of instelling, die voor deze werkzaamheid beschikt over een erkenning op grond van het Besluit bodemkwaliteit.  
 
 ### Artikel  29  
 
 Indien uit een onderzoek als bedoeld in artikel 28 blijkt dat de bodem als gevolg van de activiteiten op het terrein is aangetast of verontreinigd, dan wel door welke andere oorzaak dan ook bodemverontreiniging is ontstaan: 
 
-a. draagt de uitvoerder er zorg voor dat het beperken en zoveel mogelijk ongedaan maken van de verontreiniging of de aantasting en de directe gevolgen daarvan, geschiedt door een persoon of een instelling die beschikt over een erkenning op grond van het [Besluit uitvoeringskwaliteit bodembeheer](../../../../../../../AMvB/besluit/uitvoeringskwaliteit/bodembeheer/BWBR0019963/README.md);  
+a. draagt de uitvoerder er zorg voor dat het beperken en zoveel mogelijk ongedaan maken van de verontreiniging of de aantasting en de directe gevolgen daarvan, geschiedt door een persoon of een instelling die beschikt over een erkenning op grond van het Besluit uitvoeringskwaliteit bodembeheer;  
 
 b. zorgt de uitvoerder onverwijld voor melding ervan aan de inspecteur-generaal der mijnen;  
 
@@ -348,7 +348,7 @@ Bedrijfsafvalwater wordt opgevangen en afgevoerd naar een daartoe bevoegde verwe
 
 ### Artikel  33  
 
-Voordat het terrein waarop de mobiele installatie zich bevindt, wordt verlaten, wordt door een persoon of instelling die daartoe op grond van het [Besluit uitvoeringskwaliteit bodembeheer](../../../../../../../AMvB/besluit/uitvoeringskwaliteit/bodembeheer/BWBR0019963/README.md) is erkend, een eindsituatie-onderzoek van de bodem verricht. 
+Voordat het terrein waarop de mobiele installatie zich bevindt, wordt verlaten, wordt door een persoon of instelling die daartoe op grond van het Besluit uitvoeringskwaliteit bodembeheer is erkend, een eindsituatie-onderzoek van de bodem verricht. 
 
 ### §  5  
 
@@ -432,11 +432,11 @@ e. aanwezige gevaarlijke stoffen,   voor de mobiele installatie zijn afgegeven d
 
 ### Artikel  44  
 
-De uitvoerder berekent het plaatsgebonden risico voorafgaand aan de boring, overeenkomstig het [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md). 
+De uitvoerder berekent het plaatsgebonden risico voorafgaand aan de boring, overeenkomstig het Besluit externe veiligheid inrichtingen. 
 
 ### Artikel  45  
 
-Het boren en het afwerken van de put zijn niet toegestaan indien zich een kwetsbare bestemming, zoals gedefinieerd in het [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md), binnen de contour van 10<sup>-6</sup>/jaar van de volgens artikel 44 berekende waarde van het plaatsgebonden risico bevindt. 
+Het boren en het afwerken van de put zijn niet toegestaan indien zich een kwetsbare bestemming, zoals gedefinieerd in het Besluit externe veiligheid inrichtingen, binnen de contour van 10<sup>-6</sup>/jaar van de volgens artikel 44 berekende waarde van het plaatsgebonden risico bevindt. 
 
 ### Hoofdstuk  4  
 
@@ -508,7 +508,7 @@ De continue en incidentele emissies van de stoffen als bedoeld in de artikelen 5
 
 ### Artikel  56  
 
-1.  Installaties op een mijnbouwwerk die een koudemiddel bevatten en zich bevinden op het continentaal plat worden onderhouden in overeenstemming met het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../../../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md).   
+1.  Installaties op een mijnbouwwerk die een koudemiddel bevatten en zich bevinden op het continentaal plat worden onderhouden in overeenstemming met het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen.   
 2.  Installaties met een inhoud gelegen tussen 3 kg en 30 kg dan wel meer dan 30 kg koudemiddel op een mijnbouwinstallatie die vanuit het buitenland de Nederlandse wateren binnenkomt, worden zo spoedig mogelijk onderworpen aan een periodieke keuring, tenzij een dergelijke keuring reeds heeft plaatsgevonden in de voorafgaande twaalf respectievelijk drie maanden.  
 
 ### §  4  
@@ -595,8 +595,8 @@ Indien zich op een onderzeese installatie een ongewoon voorval voordoet of heeft
 
 ### Artikel  66  
 
-1.  Voor een installatie als bedoeld in artikel 4 en artikel 5, eerste lid, waarvoor op het tijdstip van inwerkingtreding van dit besluit reeds een vergunning als bedoeld in [artikel 8.1, eerste en tweede lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [artikel 40, tweede lid, eerste volzin, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) is verleend, blijven de voorschriften met betrekking tot geluid van die vergunning gedurende drie jaar na het tijdstip van inwerkingtreding van dit besluit op die installatie van toepassing als maatwerkvoorschrift als bedoeld in artikel 20, eerste of tweede lid. Onze Minister kan voor afloop van de termijn van drie jaar deze voorschriften wijzigen of intrekken.   
-2.  Indien voor het tijdstip waarop dit besluit in werking treedt, een aanvraag om een vergunning als bedoeld in [artikel 8.1, eerste en tweede lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [artikel 40, tweede lid, van de Mijnbouwwet](../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md) voor het oprichten van een installatie als bedoeld in artikel 4 of artikel 5, eerste lid, bij Onze Minister is ingediend maar de vergunning nog niet is verleend en in werking getreden, wordt de aanvraag om de vergunning aangemerkt als een melding overeenkomstig artikel 7 of 8.  
+1.  Voor een installatie als bedoeld in artikel 4 en artikel 5, eerste lid, waarvoor op het tijdstip van inwerkingtreding van dit besluit reeds een vergunning als bedoeld in artikel 8.1, eerste en tweede lid, van de Wet milieubeheer of artikel 40, tweede lid, eerste volzin, van de Mijnbouwwet is verleend, blijven de voorschriften met betrekking tot geluid van die vergunning gedurende drie jaar na het tijdstip van inwerkingtreding van dit besluit op die installatie van toepassing als maatwerkvoorschrift als bedoeld in artikel 20, eerste of tweede lid. Onze Minister kan voor afloop van de termijn van drie jaar deze voorschriften wijzigen of intrekken.   
+2.  Indien voor het tijdstip waarop dit besluit in werking treedt, een aanvraag om een vergunning als bedoeld in artikel 8.1, eerste en tweede lid, van de Wet milieubeheer of artikel 40, tweede lid, van de Mijnbouwwet voor het oprichten van een installatie als bedoeld in artikel 4 of artikel 5, eerste lid, bij Onze Minister is ingediend maar de vergunning nog niet is verleend en in werking getreden, wordt de aanvraag om de vergunning aangemerkt als een melding overeenkomstig artikel 7 of 8.  
 
 ### Artikel  67  
 

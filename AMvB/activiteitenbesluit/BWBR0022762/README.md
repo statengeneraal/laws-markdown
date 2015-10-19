@@ -229,6 +229,11 @@ De bij of krachtens de artikelen 3.78 tot en met 3.83 gestelde regels zijn niet 
 
 In afwijking van de artikelen 1, 1.9b, 1.22, 2.1a, 2.3a, 2.8a, 2.11a, 2.14c, 2.15a, 2.16b, 2.22a, 2.23a, 2.27a, 3, 4 en 5, voldoet degene die een stookinstallatie binnen de Nederlandse exclusieve economische zone in werking heeft, uitsluitend aan de bij of krachtens dit besluit gestelde regels en voorschriften in hoofdstuk 1, met uitzondering van artikel 1.4, en in paragraaf 3.2.1, met uitzondering van de artikelen 3.10k, 3.10n en 3.10o, en hoofdstuk 6. 
 
+### Artikel  1.5b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De bij of krachtens de artikelen 2.3b en 2.4 gestelde regels zijn niet van toepassing voor zover die regels niet verenigbaar zijn met internationale verdragen. 
+
 ### Artikel  1.6  
 
 1.  Vrijstelling wordt verleend van de verboden, bedoeld in artikel 6.2, eerste en tweede lid, van de Waterwet voor: 
@@ -498,6 +503,19 @@ a. de naam en het adres van degene die het systeem in werking heeft;
 b. een beschrijving van de kenmerken van het systeem;  
 
 c. de in het eerste lid, onderdelen b tot en met d, en g, bedoelde gegevens.    
+
+### Artikel  1.21b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Bij een melding als bedoeld in artikel 1.10 wordt een munitie-QRA gevoegd, die voldoet aan de regels, gesteld krachtens artikel 2.6.7, vijfde lid, van het Besluit algemene regels ruimtelijke ordening, indien sprake is van het binnen een inrichting die in gebruik is bij de Nederlandse of een bondgenootschappelijke krijgsmacht: 
+
+a. oprichten van een voorziening waarin gevaarlijke stoffen van de ADR klasse 1.1 of 1.2 of meer dan 50 kilogram NEG van klasse 1.3 worden opgeslagen;  
+
+b. uitbreiden van de hoeveelheid opgeslagen gevaarlijke stoffen van de ADR klasse 1.1 of 1.2 per opslagvoorziening;  
+
+c. uitbreiden van de hoeveelheid opgeslagen gevaarlijke stoffen van de ADR klasse 1.3 per opslagvoorziening, indien na uitbreiding meer dan 50 kilogram NEG van deze klasse aanwezig is;  
+
+d. veranderen van de bouwkundige staat van een voorziening waarin gevaarlijke stoffen van de ADR klasse 1.1 of 1.2 of meer dan 50 kilogram NEG van klasse 1.3 wordt opgeslagen.    
 
 ### Hoofdstuk  2  
 
@@ -926,6 +944,11 @@ Treedt in werking op een nader te bepalen tijdstip
 3.  Het bevoegd gezag kan in afwijking van het eerste lid een lager aantal punten dan het in de ministeriële regeling vastgestelde puntenaantal vaststellen indien degene die de inrichting drijft aantoont dat het gezien de aard en ligging van de inrichting op geen enkele manier mogelijk is om het puntenaantal zoals opgenomen in de ministeriële regeling te bereiken.   
 4.  Het eerste lid is niet van toepassing indien er in de inrichting minder dan 50 werknemers werkzaam zijn.  
 
+### Artikel  2.16a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Tot het tijdstip waarop artikel 2.16 in werking treedt, is artikel 2.1, vierde lid, van toepassing op het vervoer van de eigen werknemers van en naar de inrichting. 
+
 ### Afdeling  2.8  
 
 ####Geluidhinder
@@ -951,11 +974,17 @@ b. de in de periode tussen 07.00 en 19.00 uur in tabel 2.17a opgenomen maximale 
 
 c. de in tabel 2.17a aangegeven waarden binnen in- of aanpandige gevoelige gebouwen niet gelden indien de gebruiker van deze gevoelige gebouwen geen toestemming geeft voor het in redelijkheid uitvoeren of doen uitvoeren van geluidsmetingen;  
 
-d. de in tabel 2.17a aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein;  
+d. de in tabel 2.17a aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein, met dien verstande dat de waarden in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, slechts gelden voor zover deze ligplaatsen als zodanig zijn bestemd op of na 1 juli 2012 en niet daarvoor in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen;  
 
-e. de waarden in in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten; en 
+e. de in tabel 2.17a aangegeven waarden op de gevel, vermeerderd met 5 dB(A), ook gelden op de grens van het terrein in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, voor zover deze ligplaatsen: 
 
-f. de in tabel 2.17a aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.    
+1°. als zodanig zijn bestemd voor 1 juli 2012, of  
+
+2°. voor 1 juli 2012 in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen en voor 1 juli 2022 als zodanig zijn bestemd;   
+
+f. de waarden in in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten; en 
+
+g. de in tabel 2.17a aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.    
 2.  Ten aanzien van een inrichting die is gelegen op een gezoneerd industrieterrein, waarbij binnen een afstand van 50 meter geen gevoelige objecten, anders dan gevoelige objecten gelegen op het gezoneerde industrieterrein, zijn gelegen, bedraagt in afwijking van het eerste lid, het langtijdgemiddeld beoordelingsniveau (L<sub>Ar,LT</sub>) veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door die inrichting verrichte werkzaamheden en activiteiten niet meer dan de in tabel 2.17b bij het betreffende tijdstip aangegeven waarde.  Tabel 2.17b 
 
 |--- | 07.00–19.00 uur  | 19.00–23.00 uur  | 23.00–07.00 uur  |
@@ -994,11 +1023,17 @@ b. de in de periode tussen 07.00 en 21.00 uur in tabel 2.17d opgenomen maximale 
 | L<sub>Ar,LT</sub> op de gevel van gevoelige gebouwen  | 50 dB(A)  | 40 dB(A)  |
 | L<sub>Amax</sub> op de gevel van gevoelige gebouwen  | 70 dB(A)  | 60 dB(A)  |
 
-c. de in tabel 2.17d aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein;  
+c. de in tabel 2.17d aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein, met dien verstande dat de waarden in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, slechts gelden voor zover deze ligplaatsen als zodanig zijn bestemd op of na 1 juli 2012 en niet daarvoor in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen;  
 
-d. indien de inrichting is gelegen op een gezoneerd industrieterrein en binnen een afstand van 50 meter geen gevoelige objecten, anders dan gevoelige objecten gelegen op het gezoneerde industrieterrein zijn gelegen, de waarden van het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) uit tabel 2.17d gelden op een afstand van 50 meter vanaf de grens van de inrichting; en  
+d. de in tabel 2.17d aangegeven waarden op de gevel, vermeerderd met 5 dB(A), ook gelden op de grens van het terrein in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, voor zover deze ligplaatsen: 
 
-e. de in tabel 2.17d aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
+1°. als zodanig zijn bestemd voor 1 juli 2012, of  
+
+2°. voor 1 juli 2012 in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen en voor 1 juli 2022 als zodanig zijn bestemd;   
+
+e. indien de inrichting is gelegen op een gezoneerd industrieterrein en binnen een afstand van 50 meter geen gevoelige objecten, anders dan gevoelige objecten gelegen op het gezoneerde industrieterrein zijn gelegen, de waarden van het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) uit tabel 2.17d gelden op een afstand van 50 meter vanaf de grens van de inrichting; en  
+
+f. de in tabel 2.17d aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
 5.  In afwijking van het eerste, tweede en derde lid geldt voor een inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten dan wel activiteiten die daarmee verband houden worden verricht, niet zijnde een glastuinbouwbedrijf dat is gelegen in een glastuinbouwgebied, dat: 
 
 a. voor het langtijdgemiddeld beoordelingsniveau (L<sub>Ar,LT</sub>), veroorzaakt door de vast opgestelde installaties en toestellen, de niveaus op de plaatsen en tijdstippen, genoemd in tabel 2.17e, niet meer bedragen dan de in die tabel aangegeven waarden;  Tabel 2.17e  
@@ -1019,11 +1054,17 @@ c. de in de periode tussen 06.00 uur en 19.00 uur in tabel 2.17f opgenomen waard
 
 d. de in tabel 2.17e en 2.17f aangegeven waarden binnen in- of aanpandige gevoelige gebouwen niet gelden indien de gebruiker van deze gevoelige gebouwen geen toestemming geeft voor het in redelijkheid uitvoeren of doen uitvoeren van geluidmetingen;  
 
-e. de in tabel 2.17e en 2.17f aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein;  
+e. de in tabel 2.17e en 2.17f aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein, met dien verstande dat de waarden in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, slechts gelden voor zover deze ligplaatsen als zodanig zijn bestemd op of na 1 juli 2012 en niet daarvoor in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen;  
 
-f. de waarden binnen in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten, en  
+f. de in tabel 2.17e en 2.17f aangegeven waarden op de gevel, vermeerderd met 5 dB(A), ook gelden op de grens van het terrein in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, voor zover deze ligplaatsen: 
 
-g. de in tabel 2.17e en 2.17f aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
+1°. als zodanig zijn bestemd voor 1 juli 2012, of  
+
+2°. voor 1 juli 2012 in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen en voor 1 juli 2022 als zodanig zijn bestemd;   
+
+g. de waarden binnen in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten, en  
+
+h. de in tabel 2.17e en 2.17f aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
 6.  In afwijking van het eerste, tweede en derde lid geldt voor een glastuinbouwbedrijf binnen een glastuinbouwgebied dat: 
 
 a. voor het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) en het maximaal geluidsniveau (L<sub>Amax</sub>), veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten en laad- en losactiviteiten ten behoeve van en in de onmiddellijke nabijheid van de inrichting, de niveaus op de in tabel 2.17g genoemde plaatsen en tijdstippen niet meer bedragen dan de in die tabel aangegeven waarden;  
@@ -1039,14 +1080,30 @@ b. de in de periode tussen 06.00 uur en 19.00 uur in tabel 2.17g opgenomen maxim
 
 c. de in tabel 2.17g aangegeven waarden binnen in- of aanpandige gevoelige gebouwen niet gelden indien de gebruiker van deze gevoelige gebouwen geen toestemming geeft voor het in redelijkheid uitvoeren of doen uitvoeren van geluidsmetingen;  
 
-d. de in tabel 2.17g aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein;  
+d. de in tabel 2.17g aangegeven waarden op de gevel ook gelden bij gevoelige terreinen op de grens van het terrein, met dien verstande dat de waarden in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, slechts gelden voor zover deze ligplaatsen als zodanig zijn bestemd op of na 1 juli 2012 en niet daarvoor in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen;  
 
-e. de waarden binnen in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten, en  
+e. de in tabel 2.17g aangegeven waarden op de gevel, vermeerderd met 5 dB(A), ook gelden op de grens van het terrein in geval van ligplaatsen, bestemd om te worden ingenomen door een woonschip als bedoeld in artikel 1.2, derde lid, onderdeel b, van het Besluit geluidhinder, voor zover deze ligplaatsen: 
 
-f. de in tabel 2.17g aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
+1°. als zodanig zijn bestemd voor 1 juli 2012, of  
+
+2°. voor 1 juli 2012 in een gemeentelijke verordening waren aangewezen om door een woonschip te worden ingenomen en voor 1 juli 2022 als zodanig zijn bestemd;   
+
+f. de waarden binnen in- en aanpandige gevoelige gebouwen slechts gelden in geluidsgevoelige ruimten en verblijfsruimten, en  
+
+g. de in tabel 2.17g aangegeven waarden niet gelden op gevoelige objecten die zijn gelegen op een gezoneerd industrieterrein.     
 7.  De waarden van het langtijdgemiddelde beoordelingsniveau (L<sub>Ar,LT</sub>) op de gevel van gevoelige gebouwen in de tabellen 2.17e en 2.17g zijn niet van toepassing op inrichtingen die zijn gelegen in een gebied waarvoor bij of krachtens een gemeentelijke verordening regels zijn gesteld. In een dergelijk gebied bedraagt het langtijdgemiddeld beoordelingsniveau (L<sub>Ar,LT</sub>) niet meer dan de waarden die zijn opgenomen in die gemeentelijke verordening.   
 8.  Voor inrichtingen in een gebied als bedoeld in het zevende lid, bedragen de in de verordening vastgelegde waarden ten hoogste 5 dB(A) meer of minder dan de waarden in tabel 2.17e en voor inrichtingen als bedoeld in het zesde lid, bedragen de in de verordening vastgelegde waarden ten hoogste 5 dB(A) meer of minder dan de waarden in tabel 2.17g.   
 9.  Bij vaststelling van de waarden, bedoeld in het zevende lid, wordt in ieder geval rekening gehouden met het in het gebied heersende referentieniveau. Indien voor inrichtingen als bedoeld in het zesde lid, waarden worden vastgelegd die hoger zijn dan de waarden in tabel 2.17g, wordt daarmee het in het gebied heersende referentieniveau niet overschreden.  
+
+### Artikel  2.17a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De waarden op de gevel van gevoelige gebouwen en op de grens van gevoelige terreinen in tabel 2.17a onderscheidenlijk 2.17g worden met 5 dB(A) verhoogd indien tot het van toepassing worden van artikel 2.17 op een inrichting, op grond van een voorschrift als bedoeld in het derde lid van dat artikel hogere waarden golden.   
+2.  Indien in een milieuvergunning die in werking en onherroepelijk was op het tijdstip genoemd in het op de inrichting van toepassing geweest zijnde voorschrift, genoemd in artikel 2.17a, derde lid, lagere waarden dan de waarden, bedoeld in artikel 2.17, eerste lid, waren vastgesteld, zijn die lagere waarden van toepassing.   
+3.  De voorschriften, bedoeld in artikel 2.17, eerste en tweede lid zijn: voorschrift 1.1.3 van de bijlage van het Besluit opslag- en transportbedrijven milieubeheer, voorschrift 1.1.5 van bijlage 2 van het Besluit detailhandel- en ambachtsbedrijven milieubeheer, voorschrift 1.1.7 van de bijlage van het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer, voorschrift 1.1.3 van de bijlage van het Besluit bouw- en houtbedrijven milieubeheer, voorschrift 1.1.5 van de bijlage van het Besluit woon- en verblijfsgebouwen milieubeheer, voorschrift 1.1.3 van bijlage 2 van het Besluit voorzieningen- en installaties milieubeheer, voorschrift 1.1.3 van bijlage 1 van het Besluit textielreinigingsbedrijven milieubeheer, voorschrift 1.1.3 van de bijlage van het Besluit inrichtingen voor motorvoertuigen milieubeheer, voorschrift 3.2 van bijlage 2 van het Besluit tankstations milieubeheer, voorschrift 4.2.1 van bijlage 1 van het Besluit tandartspraktijken milieubeheer en voorschrift 1.1.3 van bijlage 2 van het Besluit glastuinbouw.   
+4.  In afwijking van artikel 2.17, vijfde lid, gelden voor inrichtingen als bedoeld in dat lid, waarop tot 1 januari 2013, bijlage 2 van het Besluit glastuinbouw van toepassing was, tot 1 januari 2016 de geluidswaarden van voorschrift 1.1.1 van bijlage 2 van het Besluit glastuinbouw.   
+5.  Een gemeentelijke verordening als bedoeld in voorschrift 1.1.2 van de bijlage bij het Besluit landbouw milieubeheer, zoals dat luidde tot 1 januari 2013, berust met ingang van die datum op artikel 2.17, zevende lid.   
+6.  Voor inrichtingen waarop tot 1 januari 2008 het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer, het Besluit detailhandel en ambachtsbedrijven milieubeheer of het Besluit woon- en verblijfsgebouwen milieubeheer van toepassing was, zijn de waarden uit artikel 2.17 niet van toepassing op de gevel van onderscheidenlijk in een dienst- of bedrijfswoning dan wel een woning die deel uitmaakt van een inrichting.  
 
 ### Artikel  2.18  
 
@@ -1117,6 +1174,24 @@ a. het komen en gaan van bezoekers bij inrichtingen waar uitsluitend of in hoofd
 b. het verrichten in de open lucht van sportactiviteiten of activiteiten die hiermee in nauw verband staan.     
 4.  De in het tweede lid genoemde waarden gelden niet indien de gebruiker van deze gevoelige gebouwen geen toestemming geeft voor het in redelijkheid uitvoeren of doen uitvoeren van geluidsmetingen.   
 5.  In een verordening als bedoeld in het eerste lid kan worden bepaald dat het bevoegd gezag ten aanzien van een gebied dat krachtens de verordening is aangewezen overeenkomstig artikel 2.20 maatwerkvoorschriften kan stellen.  
+
+### Artikel  2.19a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tot de inwerkingtreding van artikel 2.19 zijn het tweede tot en met vierde lid van toepassing.   
+2.  Artikel 2.17 is niet van toepassing op inrichtingen die zijn gelegen in een concentratiegebied voor horeca-inrichtingen of in een concentratiegebied voor detailhandel en ambachtsbedrijven, dat bij of krachtens een verordening als zodanig is aangewezen.   
+3.  In een gebied als bedoeld in het tweede lid bedraagt het langtijdgemiddeld beoordelingsniveau, veroorzaakt door de in de inrichting aanwezige installaties en toestellen, alsmede door de in de inrichting verrichte werkzaamheden en activiteiten, in ieder geval niet meer: 
+
+a. dan de in tabel 2.17 bedoelde waarden op de gevel of, als dat hoger is, het in dat gebied heersende referentieniveau;  
+
+b. dan de in tabel 2.19a aangegeven waarden binnen gevoelige gebouwen.    Tabel 2.19a 
+
+|--- | 07.00–19.00 uur  | 19.00–23.00 uur  | 23.00–07.00 uur  |
+|:---|:---|:---|:---|
+| Langtijdgemiddeld beoordelingsniveau (L<sub>Ar,LT</sub>)  | 35 dB(A)  | 30 dB(A)  | 25 dB(A)  |
+| Maximaal geluidsniveau  | 55 dB(A)  | 50 dB(A)  | 45 dB(A)  |
+
+4.  Voor inrichtingen waarop tot 1 januari 2008 het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer, het Besluit detailhandel en ambachtsbedrijven milieubeheer of het Besluit woon- en verblijfsgebouwen milieubeheer van toepassing was, zijn de waarden uit dit artikel niet van toepassing op de gevel van onderscheidenlijk een dienst- of bedrijfswoning dan wel een woning die deel uitmaakt van een inrichting.  
 
 ### Artikel  2.20  
 
@@ -1612,6 +1687,11 @@ c. de warmtecapaciteit van het koelwater hetgeen gelijk is aan 4190 Kilojoule pe
 
 ####Lozen ten gevolge van werkzaamheden aan vaste objecten
 
+### Artikel  3.6.1  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op het lozen ten gevolge van reinigingswerkzaamheden, conserveringswerkzaamheden, sloop-, en renovatiewerkzaamheden of andere onderhoudswerkzaamheden aan of nieuwbouw van vaste objecten. 
+
 ### Artikel  3.6a  
 
 1.  Bij het lozen ten gevolge van reinigingswerkzaamheden, conserveringswerkzaamheden of andere onderhoudswerkzaamheden aan vaste objecten wordt ten minste voldaan aan het tweede tot en met het vijfde lid.   
@@ -1625,6 +1705,56 @@ c. de warmtecapaciteit van het koelwater hetgeen gelijk is aan 4190 Kilojoule pe
 1.  Bij het lozen in een oppervlaktewaterlichaam ten gevolge van sloop-, renovatie- of nieuwbouwwerkzaamheden aan vaste objecten wordt ten minste voldaan aan het tweede en derde lid.   
 2.  Het lozen, dat gelet op de locatie van de in het eerste lid bedoelde werkzaamheden redelijkerwijs niet kan worden voorkomen, is toegestaan.   
 3.  Bij de werkzaamheden, bedoeld in het eerste lid, worden maatregelen getroffen om het lozen te voorkomen dan wel, voor zover dat niet mogelijk is, zoveel mogelijk te beperken. De maatregelen worden beschreven in een werkplan.  
+
+### §  3.1.7  
+
+####Handelingen in een oppervlaktewaterlichaam
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.6c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op ontgravingen of baggerwerkzaamheden in een oppervlaktewaterlichaam.   
+2.  Deze paragraaf is tevens van toepassing op andere werkzaamheden in een oppervlaktewaterlichaam indien die plaatsvinden door of vanwege de beheerder in het kader van het beheer van dat oppervlaktewaterlichaam.  
+
+### Artikel  3.6d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het lozen in een oppervlaktewaterlichaam ten gevolge van ontgravingen of baggerwerkzaamheden in dat oppervlaktewaterlichaam is toegestaan.   
+2.  Indien bij ontgravingen of baggerwerkzaamheden in een oppervlaktewaterlichaam de kwaliteit van de te baggeren of ontgraven waterbodem een bij ministeriële regeling aan te wijzen interventiewaarde overschrijdt, worden de werkzaamheden uitgevoerd overeenkomstig een werkplan, waarin maatregelen zijn beschreven waarmee het lozen zo veel mogelijk wordt beperkt. Het werkplan bevat in ieder geval de beschrijving van de toe te passen baggertechniek en de bij het gebruik van die techniek gehanteerde werkwijze.  
+
+### Artikel  3.6e  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het lozen in een oppervlaktewaterlichaam ten gevolge van andere werkzaamheden dan bedoeld in artikel 3.6c, is toegestaan indien die werkzaamheden plaatsvinden door of vanwege de beheerder in het kader van het beheer van dat oppervlaktewaterlichaam. 
+
+### §  3.1.8  
+
+####Lozen ten gevolge van schoonmaken drinkwaterleidingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.6f  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het lozen ten gevolge van het schoonmaken en in gebruik nemen van de middelen voor het opslaan, transporteren en de distribueren van drinkwater of warm tapwater als bedoeld in artikel 1 van de Drinkwaterwet of van huishoudwater als bedoeld in artikel 1 van het Drinkwaterbesluit. Bij het lozen wordt ten minste voldaan aan het tweede tot en met het vijfde lid.   
+2.  Het lozen op of in de bodem is toegestaan indien aan het drinkwater, warm tapwater of huishoudwater geen chemicaliën zijn toegevoegd en als gevolg van het lozen geen wateroverlast ontstaat.   
+3.  Het lozen in een oppervlaktewaterlichaam of in een voorziening voor de inzameling en het transport van afvalwater, niet zijnde een vuilwaterriool, is toegestaan, indien aan het drinkwater, warm tapwater of huishoudwater geen chemicaliën zijn toegevoegd.   
+4.  Het lozen vindt slechts dan in een vuilwaterriool plaats, indien het lozen, bedoeld in het tweede en derde lid, redelijkerwijs niet mogelijk is.   
+5.  In afwijking van het tweede en derde lid kan het bevoegd gezag het lozen van afvalwater, bedoeld in het eerste lid, met geringe concentraties chemicaliën bij maatwerkvoorschrift toestaan indien het belang van de bescherming van het milieu zich daartegen niet verzet.  
+
+### §  3.1.9  
+
+####Lozen van afvalwater ten gevolge van calamiteitenoefeningen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.6g  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het lozen van afvalwater dat vrijkomt bij een calamiteitenoefening met uitzondering van inrichtingen voor het oefenen van brandbestrijdingstechnieken als bedoeld in categorie 26 van onderdeel C van bijlage I bij het Besluit omgevingsrecht.   
+2.  Het lozen van afvalwater is toegestaan.  
 
 ### Afdeling  3.2  
 
@@ -1808,6 +1938,53 @@ Een stookinstallatie waarin vloeibare brandstof wordt verbrand, voldoet ten beho
 ### Artikel  3.10p  
 
 Een stookinstallatie voldoet ten behoeve van het veilig functioneren, een optimale verbranding en energiezuinigheid van deze stookinstallatie aan de bij ministeriële regeling inzake keuring en onderhoud gestelde eisen. 
+
+### Artikel  3.10q  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van de artikelen 3.10, 3.10d, 3.10e of 3.10f, voldoet het rookgas van een stookinstallatie die voor 1 april 2010 is geplaatst of in gebruik is genomen, tot de datum, genoemd in het tweede of derde lid, aan de emissiegrenswaarden die op 31 maart 2010 voor die installatie golden ingevolge het Besluit emissie-eisen stookinstallaties milieubeheer B of het Besluit emissie-eisen stookinstallaties milieubeheer A, dan wel aan de daarvan afwijkende emissiegrenswaarden, die voor die stookinstallatie golden op grond van een daarvoor verleende omgevingsvergunning.   
+2.  Het rookgas in een stookinstallatie als bedoeld in het eerste lid, voldoet met ingang van 1 januari 2017 aan de emissiegrenswaarden, genoemd in de artikelen 3.10, 3.10d, 3.10e of 3.10f.   
+3.  In afwijking van het tweede lid voldoet het rookgas in een stookinstallatie als bedoeld in het eerste lid voor zover die zich binnen de Nederlandse exclusieve economische zone bevindt dan wel deel uitmaakt van een inrichting waarin kooldioxide (CO<sub>2</sub>), afkomstig van een andere inrichting, wordt ingezet ten behoeve van de bemesting van gewassen teneinde het gebruik van brandstof te verminderen, met ingang van 1 januari 2019 aan de in de artikelen 3.10, 3.10d, 3.10e of 3.10f genoemde emissiegrenswaarden.   
+4.  Op het in werking hebben van een stookinstallatie die voor 1 januari 2014 is geplaatst of in gebruik is genomen en waarop titel 16.3 van de wet van toepassing was, zijn de op grond van de artikelen 3.10 tot en met 3.10j en 3.10q tot en met 3.10t geldende emissiegrenswaarden en meetmethoden voor stikstofoxiden (NO<sub>x</sub>) tot de datum, genoemd in het tweede of derde lid, niet van toepassing. Het bevoegd gezag kan voor deze stookinstallaties tot de in het tweede of derde lid genoemde data bij maatwerkvoorschrift emissiegrenswaarden en meetmethoden voor stikstofoxiden (NO<sub>x</sub>) in het rookgas van de stookinstallatie vaststellen, indien de lokale luchtkwaliteit dat vergt.   
+5.  Indien ingevolge het eerste lid de emissiegrenswaarden van het Besluit emissie-eisen stookinstallaties milieubeheer A van toepassing zijn, zijn in afwijking van artikel 3.10p tevens de regels inzake keuring en onderhoud van dat besluit van toepassing.  
+
+### Artikel  3.10r  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van de artikelen 3.10a of 3.10b, voldoet het rookgas van een ketelinstallatie met een nominaal vermogen kleiner dan 1 megawatt die voor 1 januari 2013 is geplaatst of in gebruik is genomen, totdat het tweede lid van toepassing wordt, aan de emissiegrenswaarden die tot 1 januari 2013 voor die installatie golden ingevolge het Besluit typekeuring verwarmingstoestellen luchtverontreiniging stikstofoxiden, dan wel aan de daarvan afwijkende emissiegrenswaarden, die voor die stookinstallatie golden ingevolge een daarvoor verleende omgevingsvergunning of ingevolge het derde of vierde lid.   
+2.  Het rookgas van een ketelinstallatie als bedoeld in het eerste lid, voldoet aan de in de artikelen 3.10a of 3.10b genoemde emissiegrenswaarden vanaf het tijdstip dat: 
+
+a. de branders zijn vervangen;  
+
+b. wijzigingen zijn aangebracht die met nieuwbouw van de ketelinstallatie overeenkomen, of  
+
+c. een wijziging wordt doorgevoerd, die leidt tot een toename van emissies van de stoffen, genoemd in de artikelen 3.10a of 3.10b, met meer dan 10 procent.     
+3.  In afwijking van artikel 3.10a en onverminderd het eerste lid, voldoet het rookgas van een ketelinstallatie met een nominaal vermogen tussen de 500 kilowatt en de 1 megawatt, waarin biomassa wordt verbrand of waarin houtpellets, voor zover het geen biomassa betreft worden verbrand, die in gebruik is genomen tussen 1 januari 2013 en 1 januari 2015, aan de emissiegrenswaarden, herleid op rookgas met een volumegehalte aan zuurstof van 6%, genoemd in tabel 3.10r (1), totdat aan een van de criteria, bedoeld in het tweede lid, wordt voldaan.  Tabel 3.10r (1) 
+
+| Ketelinstallatie met een nominaal vermogen tussen de 500 kilowatt en de 1 megawatt  |  *Brandstof*   |  *Stikstofoxiden (NO<sub>x</sub>)* (mg per normaal kubieke meter)  |  *Zwaveldioxide (SO<sub>2</sub>)* (mg per normaal kubieke meter)  |  *Totaal stof* (mg per normaal kubieke meter)  |  *onverbrande koolwaterstoffen (C<sub>x</sub>)H<sub>y</sub>)* (mg per normaal kubieke meter)  |
+|:---|:---|:---|:---|:---|:---|
+| Biomassa en houtpellets voor zover het geen biomassa betreft  | –  | –  | 75  | –  |
+
+4.  In afwijking van de artikelen 3.10a en 3.10b en onverminderd het eerste lid, voldoet het rookgas van een ketelinstallatie met een nominaal vermogen kleiner dan 500 kilowatt waarin biomassa wordt of houtpellets voor zover het geen biomassa betreft worden verbrand, die in gebruik zijn genomen tussen 1 januari 2013 en 1 januari 2015 aan de emissiegrenswaarden, herleid op rookgas met een volumegehalte aan zuurstof van 6%, genoemd in tabel 3.10r (2) totdat aan een van de criteria, bedoeld in het tweede lid, wordt voldaan.  Tabel 3.10r (2) 
+
+| Ketelinstallatie met een nominaal vermogen kleiner of gelijk aan 500 kilowatt  |  *Brandstof*   |  *Stikstofoxiden (NO<sub>x</sub>)* (mg per normaal kubieke meter)  |  *Zwaveldioxide (SO<sub>2</sub>)* (mg per normaal kubieke meter)  |  *Totaal stof* (mg per normaal kubieke meter)  |  *onverbrande koolwaterstoffen (C<sub>x</sub>)H<sub>y</sub>)* (mg per normaal kubieke meter)  |
+|:---|:---|:---|:---|:---|:---|
+| Biomassa en houtpellets voor zover het geen biomassa betreft  | –  | –  | 150  | –  |
+
+### Artikel  3.10s  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien aan een stookinstallatie als bedoeld in artikel 3.10q, eerste of derde lid, of artikel 3.10r, eerste lid, voor 1 januari 2017 onderscheidenlijk 1 januari 2019 een wijziging van het nominaal vermogen wordt aangebracht die leidt tot een toename van emissies van de stoffen, genoemd in deze paragraaf, met meer dan 10 procent, wordt die wijziging zodanig uitgevoerd dat aan de emissiegrenswaarden, genoemd in de artikelen 3.10, 3.10a, 3.10b, 3.10d, 3.10e of 3.10f, wordt voldaan. 
+
+### Artikel  3.10t  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Artikel 3.10c is van overeenkomstige toepassing op het in werking hebben van een stookinstallatie als bedoeld in artikel 3.10q, eerste of derde lid, of artikel 3.10r, eerste lid. 
+
+### Artikel  3.10u  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 3.10l, eerste lid, haalt een warmtekrachtinstallatie die in gebruik is genomen voor 1 januari 2008, een jaargemiddeld rendement van ten minste 60% berekend volgens de formule, bedoeld in dat lid. 
 
 ### §  3.2.2  
 
@@ -2031,6 +2208,11 @@ Zo spoedig mogelijk na de beëindiging van het in werking hebben van een geslote
 a. de circulatievloeistof uit de buizen verwijderd, en  
 
 b. het systeem, zonder daarbij het ondergrondse deel te verwijderen, zodanig opgevuld dat de werking van de oorspronkelijke waterscheidende lagen wordt hersteld.   
+
+### Artikel  3.16q  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf, met uitzondering van artikel 3.16p, is niet van toepassing op een gesloten bodemenergiesysteem dat is geïnstalleerd voor 1 juli 2013. 
 
 ### Afdeling  3.3  
 
@@ -2331,6 +2513,78 @@ d. Indien een jachthaven beschikt over meer dan 50 ligplaatsen, daaronder niet b
 ### Artikel  3.26k  
 
 Ten aanzien van een jachthaven die gewoonlijk wordt aangedaan door zeegaande pleziervaartuigen en is aangewezen krachtens artikel 6 van de Wet voorkoming verontreiniging door schepen, zijn de artikelen 3.26i en 3.26j niet van toepassing. 
+
+### §  3.3.6  
+
+####Het gebruik van hefschroefvliegtuigen bij ziekenhuizen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.26l  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het gebruik van hefschroefvliegtuigen bij ziekenhuizen.   
+2.  De artikelen 2.17 tot en met 2.22 zijn niet van toepassing op het gebruik van hefschroefvliegtuigen bij ziekenhuizen.  
+
+### Artikel  3.26m  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Degene die een helitraumacentrum drijft, draagt er zorg voor dat het geluidsvermogensniveau van hefschroefvliegtuigen die door hem worden ingezet voor het vervoer van mobiele medische teams niet hoger is dan 140 dB(A). 
+
+### Artikel  3.26n  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Degene die een ziekenhuis, niet zijnde een helitraumacentrum, drijft, draagt er zorg voor dat zijn voorziening ten behoeve van het landen en opstijgen van hefschroefvliegtuigen uitsluitend door hefschroefvliegtuigen wordt gebruikt indien dit gebruik bijzonder is aangewezen voor: 
+
+a. het vervoer van ongevalslachtoffers en zieken die spoedeisende medische zorg behoeven, met inbegrip van apparatuur en begeleidend personeel;  
+
+b. het vervoer van pasgeboren kinderen die spoedeisende medische zorg behoeven, met inbegrip van apparatuur en begeleidend personeel;  
+
+c. het vervoer van organen of transplantatieteams in het kader van transplantatie;  
+
+d. het vervoer van een lid van een mobiel medisch team dat, nadat het mobiel medisch team met een hefschroefvliegtuig op een ongevallenlocatie is ingezet, met een ongevalslachtoffer of zieke die spoedeisende medische zorg behoeft anders dan met een hefschroefvliegtuig naar het ziekenhuis is vervoerd;  
+
+e. het verplaatsen van een hefschroefvliegtuig in verband met de opleiding en training van de piloot tot ten hoogste 20 vliegbewegingen per ziekenhuis per kalenderjaar.   
+
+### Artikel  3.26o  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Degene die een helitraumacentrum drijft, draagt er zorg voor dat zijn voorziening ten behoeve van het landen en opstijgen van hefschroefvliegtuigen uitsluitend door hefschroefvliegtuigen wordt gebruikt indien dit gebruik bijzonder aangewezen is voor: 
+
+a. het vervoer van ongevalslachtoffers en zieken die spoedeisende medische zorg behoeven, met inbegrip van apparatuur en begeleidend personeel;  
+
+b. het vervoer van pasgeboren kinderen die spoedeisende medische zorg behoeven, met inbegrip van apparatuur en begeleidend personeel;  
+
+c. het vervoer van organen of transplantatieteams in het kader van transplantatie;  
+
+d. het vervoer van mobiele medische teams, met inbegrip van apparatuur naar en van ongevallenlocaties;  
+
+e. het verplaatsen van een hefschroefvliegtuig in verband met de komst van een ander hefschroefvliegtuig dat ongevalslachtoffers, zieken en pasgeboren kinderen die spoedeisende medische zorg behoeven, organen of transplantatieteams vervoert;  
+
+f. het verplaatsen van een hefschroefvliegtuig tot ten hoogste 400 vliegbewegingen per helitraumacentrum per kalenderjaar in verband met: 
+
+1°. onderhoud of reparatie;  
+
+2°. tankvluchten;  
+
+3°. opleiding en training van de piloot en van het mobiel medisch team.     
+
+### Artikel  3.26p  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Degene die het helitraumacentrum of het ziekenhuis, niet zijnde een helitraumacentrum drijft, registreert met betrekking tot het gebruik van zijn voorziening ten behoeve van het landen en opstijgen van hefschroefvliegtuigen ten minste de volgende gegevens: 
+
+a. de reden voor het gebruik van de voorziening;  
+
+b. de tijd van vertrek;  
+
+c. de tijd van aankomst.     
+2.  De registratie wordt binnen twee werkdagen na gebruik van de voorziening bijgewerkt en gedurende ten minste vijf jaar na het vastleggen in de registratie bewaard.  
+
+### Artikel  3.26q  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 3.26m is het degene die op 1 februari 2003 een helitraumacentrum dreef, tot het moment van vervanging van het hefschroefvliegtuig dat op die datum werd ingezet voor het vervoer van mobiele medische teams, toegestaan een hefschroefvliegtuig in te zetten met een geluidsvermogensniveau van ten hoogste 145 dB(A). 
 
 ### Afdeling  3.4  
 
@@ -2661,6 +2915,62 @@ b. het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel
 
 c. het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van verontreiniging van een oppervlaktewaterlichaam,   voldaan aan de bij ministeriële regeling gestelde eisen. 
 
+### §  3.4.10  
+
+####Opslaan of bewerken van ontplofbare stoffen of voorwerpen bij defensie-inrichtingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.54e  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op het opslaan of bewerken van gevaarlijke stoffen van de ADR klasse 1.1, 1.2, 1.3 of 1.4 binnen inrichtingen die in gebruik zijn bij de Nederlandse of een bondgenootschappelijke krijgsmacht. 
+
+### Artikel  3.54f  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Totdat voor inrichtingen die in gebruik zijn bij de Nederlandse of een bondgenootschappelijke krijgsmacht een omgevingsvergunning voor een categorie van activiteiten als bedoeld in artikel 2.2a, zevende lid, van het Besluit omgevingsrecht, is verleend, wordt voor de toepassing van artikel 3.54g uitgegaan van de munitie-QRA, die is opgesteld volgens de regels, gesteld krachtens artikel 2.6.7 van het Besluit algemene regels ruimtelijke ordening, en op grond waarvan de op het tijdstip van inwerkingtreding van artikel 3.54g geldende, krachtens artikel 2.6.5 van het Besluit algemene regels ruimtelijke ordening aangewezen veiligheidszones, zijn berekend. 
+
+### Artikel  3.54g  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Gevaarlijke stoffen van de ADR klasse 1.1, 1.2 of 1.3 worden binnen inrichtingen die in gebruik zijn bij de Nederlandse of een bondgenootschappelijke krijgsmacht zodanig opgeslagen of bewerkt dat: 
+
+a. de veiligheidszones van de activiteit niet groter zijn dan de veiligheidszones die volgen uit de munitie-QRA;  
+
+b. de hoeveelheid gevaarlijke stoffen van de ADR klasse 1.1, 1.2 of 1.3 per opslagvoorziening niet groter is dan de hoeveelheid die is gebruikt in de munitie-QRA die is ingediend bij de aanvraag voor de laatst verleende omgevingsvergunning voor die activiteit, en  
+
+c. de bouwkundige staat van de voorzieningen waarin gevaarlijke stoffen van de ADR klasse 1.1 of 1.2 of meer dan 50 kilogram NEG van klasse 1.3 worden opgeslagen gelijk is aan de staat waarvan is uitgegaan in de munitie-QRA die is ingediend bij de aanvraag voor de laatst verleende omgevingsvergunning voor die activiteit.     
+2.  In of op elke voorziening voor het opslaan of bewerken van gevaarlijke stoffen van de ADR klasse 1.1, 1.2 of 1.3 is duidelijk zichtbaar aangegeven welke hoeveelheid NEG per ADR klasse volgens het eerste lid, onderdeel b, aanwezig mag zijn.   
+3.  Indien sprake is van het gezamenlijk opslaan van de ADR klassen 1.1, 1.2 of 1.3, is de totale hoeveelheid NEG niet groter dan de maximaal toegestane hoeveelheid van de klasse met de meest dominante effecten, vastgesteld in de munitie-QRA die is ingediend bij de aanvraag voor de laatst verleende omgevingsvergunning voor die activiteit.   
+4.  In afwijking van het derde lid is de totale hoeveelheid NEG van een gezamenlijke opslag van de ADR klassen 1.2 en 1.3 niet groter dan de toegestane hoeveelheid van de ADR klasse 1.1, indien de gezamenlijke opslag van de ADR klassen 1.2 en 1.3 kan reageren als ADR klasse 1.1.   
+5.  Bij het opslaan of bewerken van gevaarlijke stoffen van de ADR klasse 1.1, 1.2, 1.3 of 1.4 binnen inrichtingen die in gebruik zijn bij de Nederlandse of een bondgenootschappelijke krijgsmacht wordt ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, voldaan aan de bij ministeriële regeling gestelde eisen.  
+
+### §  3.4.11  
+
+####Op- en overslaan van verwijderd asbest
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.54h  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het op- en overslaan van verwijderd asbest: 
+
+a. bij een inrichting waar uitvoering wordt gegeven aan titel 10.4 van de wet, of  
+
+b. dat afkomstig is van werkzaamheden die buiten de inrichting zijn verricht door degene die de inrichting drijft, in een hoeveelheid van ten hoogste 50 ton.     
+2.  Deze paragraaf is van overeenkomstige toepassing op een verwijderd asbesthoudend product.  
+
+### Artikel  3.54i  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In het belang van het doelmatig beheer van afvalstoffen wordt bij het op- en overslaan van asbest ten minste voldaan aan het tweede tot en met vierde lid.   
+2.  Het op- en overslaan van asbest geeft geen stofverspreiding die met het blote oog waarneembaar is.   
+3.  Asbest is uitsluitend aanwezig in een container en verpakt in niet luchtdoorlatend verpakkingsmateriaal van voldoende dikte en sterkte.   
+4.  Als de inrichtinghouder asbest van verschillende saneringen samenvoegt in een container, legt hij per container vast van welke saneringen het asbest afkomstig is. De drijver van de inrichting bewaart deze gegevens gedurende ten minste vijf jaar.   
+5.  Het vierde lid is niet van toepassing op asbest dat is ingenomen bij een inrichting waar uitvoering wordt gegeven aan titel 10.4 van de wet.  
+
 ### Afdeling  3.5  
 
 ####Agrarische activiteiten
@@ -2906,6 +3216,19 @@ c. de berekende hoeveelheid totaal stikstof en totaal fosfor in het drainagewate
 ### Artikel  3.74  
 
 In afwijking van de artikelen 3.72 en 3.73 kan het bevoegd gezag, indien het meten, berekenen, registreren of rapporteren, bedoeld in die artikelen niet doelmatig is, bij maatwerkvoorschrift een andere wijze van meten, berekenen, registreren of rapporteren bepalen. 
+
+### Artikel  3.74a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Indien op 1 april 2002 door middel van een systeem van onderbemaling werd gerecirculeerd, en: 
+
+a. recirculatie plaatsvindt door middel van een drainagestelsel met verzamelput en afvoer naar een centrale opvang waarin het drainwater wordt verwerkt;  
+
+b. een drainagekoker gelegen is op een diepte van ten hoogste 0,25 m boven de gemiddelde grondwaterstand en ten hoogste 1,25 m onder het maaiveld;  
+
+c. ten hoogste 10% van de totale hoeveelheid drainwater naar de bodem sijpelt;  
+
+d. door een door het bevoegd gezag geaccepteerde deskundige is beoordeeld of aan de in de onderdelen a tot en met c genoemde criteria wordt voldaan en een bewijs van de beoordeling, afgegeven door of namens degene die de beoordeling heeft uitgevoerd, binnen de inrichting wordt bewaard:   wordt het lozen van drainwater in de bodem aangemerkt als het lozen van drainwater waarvoor een maatwerkvoorschrift als bedoeld in artikel 2.2, derde lid, is vastgesteld. 
 
 ### §  3.5.2  
 
@@ -3358,6 +3681,15 @@ e. de uitbreiding dieren betreft die worden gehouden uitsluitend of in hoofdzaak
 2.  Het eerste lid is van overeenkomstige toepassing op het zodanig wijzigen van een huisvestingssysteem dat de ammoniakemissie per dierplaats toeneemt, tenzij de wijziging bestaat uit een aanpassing van het systeem die noodzakelijk is op grond van de wettelijke voorschriften op het gebied van dierenwelzijn en slechts voor zover het aantal dierplaatsen niet wordt uitgebreid.   
 3.  Voor het bepalen van de ammoniakemissie uit de dierenverblijven die de inrichting voorafgaand aan de uitbreiding, bedoeld in het eerste lid, zou mogen veroorzaken, worden de ammoniakemissie van de dieren waarvoor eerder een vergunning is verleend met toepassing van artikel 5, eerste lid, onderdelen c tot en met f, dan wel artikel 7, eerste lid, onderdelen b tot en met e, van de Wet ammoniak en veehouderij, en de ammoniakemissie van de dieren waarmee de inrichting op grond van het eerste lid, onderdelen b, c, d of e, is uitgebreid, niet meegerekend.  
 
+### Artikel  3.114a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Totdat met betrekking tot een inrichting die een activiteit uitvoert als bedoeld in artikel 3.111 waarvan een tot de inrichting behorend dierenverblijf geheel of gedeeltelijk is gelegen binnen een zeer kwetsbaar gebied of in een zone van 250 meter rondom een zodanig gebied een wijziging waarop artikel 3.113 of artikel 3.114 van toepassing is, is gemeld, worden binnen de inrichting niet meer landbouwhuisdieren per diercategorie gehouden en is de ammoniakemissie niet groter dan: 
+
+a. op grond van een vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht mochten worden gehouden, onderscheidenlijk mocht worden veroorzaakt tot het tijdstip waarop dit besluit op de inrichting van toepassing werd, of  
+
+b. op grond van de betrokken algemene maatregel van bestuur mochten worden gehouden, onderscheidenlijk mocht worden veroorzaakt, tot het van toepassing worden van dit besluit op de inrichting en waarvan in geval van oprichting of wijziging van de inrichting een melding als bedoeld in artikel 8.41, eerste lid, van de Wet milieubeheer was gedaan.   
+
 ### Artikel  3.115  
 
 1.  Het oprichten, uitbreiden, of wijzigen van een dierenverblijf met dieren met geuremissiefactor is verboden, indien de geurbelasting die de inrichting vanwege dierenverblijven waar dieren met geuremissiefactor worden gehouden veroorzaakt, op geurgevoelige objecten die zijn gelegen in de gebieden, bedoeld in tabel 3.115, na de oprichting, uitbreiding of wijziging meer bedraagt dan de in die tabel aangegeven waarden.  Tabel 3.115 geurbelasting ouE/m<sup>3</sup> (odour units per kubieke meter lucht) 
@@ -3431,6 +3763,16 @@ b. bij een dierenverblijf als bedoeld in artikel 3.116 het aantal dieren per die
 
 c. bij een dierenverblijf als bedoeld in artikel 3.117 het aantal dieren per diercategorie zonder geuremissiefactor niet toeneemt en de afstand tot een geurgevoelig object niet afneemt, indien die kleiner is dan de afstand, genoemd in artikel 3.117, eerste lid.    
 
+### Artikel  3.119a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Totdat met betrekking tot een inrichting die een activiteit verricht als bedoeld in artikel 3.111 een wijziging waarop de artikelen 3.115 tot en met 3.119 van toepassing zijn, is gemeld, worden binnen de inrichting niet meer landbouwhuisdieren per diercategorie gehouden, is de geurbelasting niet groter en is de afstand tot een geurgevoelig object niet kleiner dan: 
+
+a. op grond van een vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht mochten worden gehouden, mocht worden veroorzaakt onderscheidenlijk mocht bedragen tot het tijdstip waarop dit besluit op de inrichting van toepassing werd, of  
+
+b. op grond van de betrokken algemene maatregel van bestuur mochten worden gehouden, mocht worden veroorzaakt onderscheidenlijk mocht bedragen, tot het van toepassing worden van dit besluit op de inrichting en waarvan in geval van oprichting of wijziging van de inrichting een melding als bedoeld in artikel 8.41, eerste lid, van de Wet milieubeheer is gedaan.     
+2.  Het eerste lid is niet van toepassing op de afstand tot een geurgevoelig object indien deze is afgenomen anders dan door wijziging van de inrichting.  
+
 ### Artikel  3.120  
 
 Het aantal aanwezige dieren per diersoort wordt ten minste een keer per maand geregistreerd, waarbij de perioden tussen de registraties van een vergelijkbare tijdsduur zijn. De registraties zijn binnen de inrichting aanwezig en worden gedurende tien jaren bewaard. 
@@ -3463,6 +3805,14 @@ Indien landbouwhuisdieren worden gehouden in een huisvestingssysteem dat is voor
 6.  Indien uit de registratie, bedoeld in het vijfde lid, blijkt dat de parameters worden overschreden, worden onmiddellijk maatregelen getroffen om een goede werking van het luchtwassysteem te waarborgen.   
 7.  Ten aanzien van het gebruik en onderhoud van een luchtwassysteem, worden gedragsvoorschriften opgesteld, die ten minste voldoen aan de bij ministeriële regeling gestelde eisen.  
 
+### Artikel  3.125a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Aan een luchtwassysteem als bedoeld in artikel 3.125, achtste lid, wordt uiterlijk 1 juli 2015 een meting naar de emissiereductie van ammoniak uitgevoerd.   
+2.  Een meting als bedoeld in het eerste lid vindt plaats onder representatieve bedrijfscondities in de zomerperiode tussen 10.00 en 14.00 uur, waarbij de meting wordt uitgevoerd overeenkomstig artikel 2.8.   
+3.  Een afschrift van de rapportage van de meting wordt in de inrichting bewaard tot ten minste het tijdstip waarop twee jaren zijn verstreken na de eerstvolgende meting.   
+4.  Indien uit de meting blijkt dat niet wordt voldaan aan de emissiereductie van ammoniak, genoemd in de systeembeschrijving, op grond waarvan krachtens artikel 1 van de Wet ammoniak en veehouderij een emissiefactor voor dat huisvestingssysteem is vastgesteld, worden maatregelen getroffen om daar alsnog aan te voldoen en wordt binnen een jaar na het uitvoeren van de meting een herhalingsmeting uitgevoerd.  
+
 ### Artikel  3.126  
 
 1.  Bij het lozen van spuiwater van een luchtwassysteem wordt ten minste voldaan aan het tweede tot en met vierde lid.  
@@ -3493,6 +3843,76 @@ Deze paragraaf is van toepassing op het bereiden van brijvoer met plantaardige b
 ### Artikel  3.129b  
 
 Bij het bereiden van brijvoer wordt ten behoeve van het voorkomen dan wel, voor zover dat niet mogelijk is, het tot een aanvaardbaar niveau beperken van geurhinder, ten minste voldaan aan de bij ministeriële regeling gestelde eisen. 
+
+### §  3.5.10  
+
+####Kleinschalig vergisten van uitsluitend dierlijke meststoffen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.129c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het vergisten van dierlijke mest met een verwerkingscapaciteit van ten hoogste 25.000 kubieke meter mest per jaar.   
+2.  Onverminderd het eerste lid is deze paragraaf eveneens van toepassing op het voor of na het vergisten, bedoeld in het eerste lid: 
+
+a. biologisch behandelen van dierlijke meststoffen;  
+
+b. opslaan van digestaat van het vergisten van dierlijke meststoffen, zolang dat nog biologisch actief is;  
+
+c. opslaan, bewerken en transporteren van vergistinggas met een capaciteit voor de opslag in opslagtanks van ten hoogste 20.000 liter.    
+
+### Artikel  3.129d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een installatie voor het vergisten van dierlijke meststoffen en de opslag van digestaat dat nog biologisch actief is, is gasdicht en voorzien van een overdrukbeveiliging.   
+2.  Het is verboden digestaat dat nog biologisch actief is buiten de inrichting te brengen of buiten de vergistingstank te mengen met andere dierlijke meststoffen.   
+3.  Bij het vergisten van dierlijke meststoffen en de opslag van digestaat dat nog biologisch actief is, is emissie van vergistinggas verboden anders dan een emissie via de overdrukbeveiliging die plaatsvindt als gevolg van een incident of via een fakkel of andere maatregel als bedoeld in het vijfde lid.   
+4.  Een installatie voor het vergisten van dierlijke meststoffen, het opslaan van vergistinggas en het transporteren en bewerken van vergistinggas is voorzien van een elektronisch monitoringssysteem dat de goede werking van de installatie controleert en de inrichtinghouder waarschuwt bij incidenten die kunnen leiden tot onveilige situaties of de emissie van vergistinggas meldt. De inrichtinghouder draagt er zorg voor dat binnen een uur na de waarschuwing actie wordt ondernomen om incidenten die zijn gemeld door het systeem te verhelpen.   
+5.  Het bevoegd gezag kan, indien blijkt dat de inrichtinghouder onvoldoende maatregelen treft om uitstoot van vergistinggas bij incidenten te voorkomen, bij maatwerkvoorschrift voorschrijven dat een fakkel of andere maatregel wordt toegepast om vergistinggas bij incidenten te verbranden.  
+
+### Artikel  3.129e  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Vergistinggas bevat, op de plaats waar het de installatie, bedoeld in artikel 3.129d, eerste lid, verlaat, ten hoogste 430 milligram waterstofsulfide per normaal kubieke meter.   
+2.  Onverminderd het eerste lid bevat vergistinggas dat de inrichting via een leiding verlaat ten hoogste 15 milligram ammoniak per normaal kubieke meter.   
+3.  Een installatie voor het vergisten van dierlijke meststoffen heeft ten minste één monsternamepunt voor vergistinggas.   
+4.  Het vergistinggas wordt bij ingebruikname van de installatie en vervolgens maandelijks bemonsterd en geanalyseerd op het gehalte waterstofsulfide en, indien het tweede lid van toepassing is, op het gehalte ammoniak.   
+5.  De resultaten van de analyses worden ten minste vijf jaar binnen de inrichting bewaard.   
+6.  Het bevoegd gezag kan op verzoek van de drijver van de inrichting bij maatwerkvoorschrift bepalen dat het vierde en vijfde lid niet van toepassing zijn, indien de drijver van de inrichting zorgt voor een continue registratie van het gehalte waterstofsulfide en, indien het tweede lid van toepassing is, het gehalte ammoniak. In dat geval kan het bevoegd gezag bij maatwerkvoorschrift eisen stellen aan de toegepaste meetmethode en de verwerking van de meetonnauwkeurigheid.  
+
+### Artikel  3.129f  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tussen een gaszak met vergistinggas en buiten de inrichting gelegen kwetsbare en beperkt kwetsbare objecten is de afstand ten minste 50 meter, gerekend vanaf het middelpunt van de gaszak.   
+2.  Tussen een opslagtank voor vloeibaar biogas en buiten de inrichting gelegen kwetsbare en beperkt kwetsbare objecten is de afstand ten minste 50 meter, gerekend vanaf het aftappunt van de opslagtank.   
+3.  Binnen de afstanden, genoemd in het eerste en tweede lid, is overnachting en recreatief verblijf door derden niet toegestaan.  
+
+### Artikel  3.129g  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een voorziening voor het biologisch behandelen van dierlijke meststoffen voor of na het vergisten ligt op een afstand van ten minste 100 meter van een geurgevoelig object dat binnen de bebouwde kom is gelegen.   
+2.  Een voorziening voor het biologisch behandelen van dierlijke meststoffen voor of na het vergisten ligt op een afstand van ten minste 50 meter van een geurgevoelig object dat buiten de bebouwde kom is gelegen.   
+3.  Het bevoegd gezag kan, indien blijkt dat de geurhinder als gevolg van het biologisch behandelen van dierlijke meststoffen voor of na het vergisten een aanvaardbaar niveau overschrijdt, onverminderd artikel 2.7a, bij maatwerkvoorschrift eisen stellen aan: 
+
+a. de situering van de voorziening;  
+
+b. het gesloten uitvoeren van de voorziening;  
+
+c. de ligging en afvoerhoogte van het emissiepunt, indien emissies worden afgezogen;  
+
+d. de toepassing van een doelmatige ontgeuringsinstallatie.    
+
+### Artikel  3.129h  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het vergisten van dierlijke meststoffen en de activiteiten, bedoeld in artikel 3.129c, tweede lid, wordt ten behoeve van: 
+
+a. het realiseren van een verwaarloosbaar bodemrisico;  
+
+b. het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel, voor zover dat niet mogelijk is, het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan; of  
+
+c. het doelmatig verspreiden van emissies naar de buitenlucht,   ten minste voldaan aan de bij ministeriële regeling gestelde eisen. 
 
 ### Afdeling  3.6  
 
@@ -3791,6 +4211,117 @@ Deze paragraaf is van toepassing op inrichtingen waar een gemeente ter uitvoerin
 
 1.  Bij een inrichting waar een gemeente gelegenheid biedt om grove huishoudelijke afvalstoffen achter te laten wordt ten behoeve van een doelmatig beheer van afvalstoffen ten minste voldaan aan de bij ministeriële regeling gestelde eisen.   
 2.  In afwijking van artikel 2.12 is het bij een inrichting die voldoet aan de krachtens het eerste lid gestelde eisen toegestaan om deze grove huishoudelijke afvalstoffen te mengen met andere grove huishoudelijke afvalstoffen die wat betreft aard, samenstelling of concentraties niet vergelijkbaar zijn, mits de afvalstoffen geen gevaarlijke afvalstoffen zijn.  
+
+### §  3.8.3  
+
+####Buitenschietbanen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.157  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op het schieten op: 
+
+a. een buitenschietbaan die wordt gebruikt door de Nederlandse of een bondgenootschappelijke krijgsmacht waar minder dan 3 miljoen schoten per jaar worden afgevuurd;  
+
+b. een buitenschietbaan, niet zijnde een buitenschietbaan als bedoeld onder a, met beperkte onveilige zone;  
+
+c. een kleiduivenbaan.   
+
+### Artikel  3.158  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 2.9, eerste lid, worden bij het schieten op een buitenschietbaan ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van bodemverontreiniging de bij ministeriële regeling voorgeschreven maatregelen getroffen. 
+
+### Artikel  3.159  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De artikelen 2.17 tot en met 2.22 zijn niet van toepassing op een buitenschietbaan. 
+
+### Artikel  3.160  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een buitenschietbaan voldoet ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geluidhinder aan de norm van ten hoogste 50 dB B<sub>s,dan</sub> op de gevel van gevoelige gebouwen en bij gevoelige terreinen op de grens van het terrein.   
+2.  In afwijking van het eerste lid kan het bevoegd gezag in verband met nationale of operationele belangen bij maatwerkvoorschrift normen met een andere waarde vaststellen van ten hoogste 55 dB B<sub>s,dan</sub>.   
+3.  De geluidvoorschriften in een omgevingsvergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, voor een inrichting waarvan een buitenschietbaan deel uitmaakt, die in werking en onherroepelijk was tot het tijdstip van het in werking treden van het eerste lid, blijven van toepassing gedurende ten hoogste vijf jaar na dat tijdstip dan wel tot het tijdstip waarop het gebruik, het wapentype of de constructie van de buitenschietbaan wordt gewijzigd dan wel tot het tijdstip waarop een maatwerkvoorschrift als bedoeld in het tweede lid, wordt opgelegd.  
+
+### Artikel  3.161  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De berekening van de geluidbelasting wordt uitgevoerd overeenkomstig de bij ministeriële regeling gestelde eisen.   
+2.  De drijver van de inrichting registreert de bij ministeriële regeling te bepalen gegevens welke gedurende vijf kalenderjaren na dagtekening worden bewaard en ter inzage gehouden.  
+
+### Artikel  3.162  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het schieten op een buitenschietbaan wordt ten behoeve van het voorkomen van risico’s voor de omgeving en ongewone voorvallen, dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van de risico’s voor de omgeving en de kans dat ongewone voorvallen zich voordoen en de gevolgen hiervan, voldaan aan de bij ministeriele regeling gestelde eisen. 
+
+### §  3.8.4  
+
+####Coaten of lijmen van planten of onderdelen van planten
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.163  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op het coaten of lijmen van planten of onderdelen van planten, anders dan hout. 
+
+### Artikel  3.164  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het is verboden om in de buitenlucht planten of onderdelen van planten met behulp van een nevelspuit te coaten of lijmen. 
+
+### Artikel  3.165  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij het coaten of lijmen van planten of onderdelen van planten de emissieconcentratie van stofklasse S ten hoogste: 
+
+a. 5 milligram per normaal kubieke meter, indien de massastroom van stofklasse S naar de lucht gelijk is aan of groter is dan 200 gram per uur, en  
+
+b. 50 milligram per normaal kubieke meter, indien de massastroom van stofklasse S kleiner is dan 200 gram per uur.   
+
+### Artikel  3.166  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Degene die de inrichting drijft, treft bij het coaten of lijmen van planten of onderdelen van planten de emissiereducerende maatregelen met betrekking tot vluchtige organische stoffen die zijn gesteld bij ministeriële regeling tenzij deze niet kosteneffectief of technisch uitvoerbaar zijn. 
+
+### Artikel  3.167  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het coaten of lijmen van planten of onderdelen van planten worden ten behoeve van: 
+
+a. het voorkomen dan wel voor zover dat niet mogelijk is het beperken van diffuse emissies;  
+
+b. het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van stofhinder;  
+
+c. het doelmatig verspreiden van emissies naar de buitenlucht;  
+
+d. het voorkomen dan wel voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van geurhinder, en  
+
+e. het realiseren van een verwaarloosbaar bodemrisico,   de bij ministeriële regeling voorgeschreven maatregelen getroffen. 
+
+### §  3.8.5  
+
+####Fokken, houden of trainen van vogels of zoogdieren
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  3.168  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Deze paragraaf is van toepassing op het fokken, houden of trainen van meer dan 25 vogels of meer dan 5 zoogdieren.   
+2.  Deze paragraaf is niet van toepassing op het houden van landbouwhuisdieren.  
+
+### Artikel  3.169  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij het fokken, houden of trainen van vogels of zoogdieren wordt ten behoeve van: 
+
+a. het realiseren van een verwaarloosbaar bodemrisico, en  
+
+b. het voorkomen of voor zover dat niet mogelijk is het tot een aanvaardbaar niveau beperken van de geurhinder,   ten minste voldaan aan de bij ministeriële regeling gestelde eisen. 
 
 ### Hoofdstuk  4  
 
@@ -4623,6 +5154,81 @@ a. de som van de vrachten van de metalen chroom, koper, nikkel, lood, zink, tin 
 b. aannemelijk is dat de som van de vrachten van de metalen chroom, koper, nikkel, lood, zink, tin en zilver na het proces maar voor de eindzuivering minder dan 80 gram per dag bedraagt, met dien verstande dat het bij maatwerkvoorschrift toegestane som van de gehaltes van de metalen chroom, koper, nikkel, lood, zink, tin en zilver niet meer bedraagt dan 15 milligram per liter indien het de som van de metalen in een representatief etmaalmonster betreft of niet meer dan 45 milligram per liter indien het de som van de gehaltes van deze metalen in een steekmonster betreft.     
 3.  Het te lozen afvalwater, bedoeld in het tweede lid, kan op een doelmatige wijze worden bemonsterd.  
 
+### Artikel  4.74.0  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 6.2, vierde lid, kan het bevoegd gezag het lozen van afvalwater dat vrijkomt bij een of meer processen als bedoeld in de paragrafen 4.5.7, 4.5.8, 4.5.10 en 4.5.11 bij maatwerkvoorschrift voor een daarbij aangegeven termijn bepalen dat het lozen van afvalwater met een hogere waarde dan de waarden genoemd in kolom B van tabel 4.73 van artikel 4.73 is toegestaan, indien: 
+
+a. het lozen van afvalwater met een hogere waarde dan de waarden genoemd in kolom B van tabel 4.73 was toegestaan op grond van een vergunning op grond van artikel 1 van de Wet verontreiniging oppervlaktewateren dan wel artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, die tot het van toepassing worden van artikel 4.74 op de inrichting in werking en onherroepelijk was;  
+
+b. degene die de inrichting drijft aantoont dat bij het lozen niet aan de emissiegrenswaarden genoemd in kolom B van tabel 4.73 kan worden voldaan, en  
+
+c. het verzoek tot het stellen van het maatwerkvoorschrift binnen zes maanden na het van toepassing worden van artikel 4.74 op de inrichting bij het bevoegd gezag is gedaan.   
+
+### §  4.5.13  
+
+####Smelten en gieten van metalen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  4.74.1  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op: 
+
+a. het smelten en gieten van metalen met uitzondering van goud, zilver, platina en legeringen met ten minste 30% van deze metalen tot ten hoogste 500 kilo per jaar;  
+
+b. het maken en coaten van vormen en kernen in kleigebonden of chemisch gebonden zand ten behoeve van het gieten van metalen;  
+
+c. het maken van croning- en coldbox-kernen ten behoeve van het gieten van metalen;  
+
+d. het uitbreken en ontzanden van gietstukken;  
+
+e. de koude regeneratie van zand ten behoeve van het gieten van metalen;  
+
+f. het maken van de vorm met behulp van was, inclusief het verwijderen van de was, waaronder keramische vormen.   
+
+### Artikel  4.74.2  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van emissies van dioxines en polycyclische aromatische koolwaterstoffen naar lucht worden bij het smelten van metalen alleen metalen gesmolten die voldoen aan de bij ministeriële regeling gestelde eisen.   
+2.  Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij het smelten van metalen de emissieconcentratie van lood naar de lucht ten hoogste 0,5 milligram per normaal kubieke meter, indien de massastroom van lood naar de lucht gelijk is aan of groter is dan 2,5 gram per uur.  
+
+### Artikel  4.74.3  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij het maken en coaten van verloren gietvormen en kernen uit kleigebonden of chemische gebonden zand de emissieconcentratie van totaal stof ten hoogste 5 milligram per normaal kubieke meter, indien de massastroom van totaal stof naar de lucht gelijk is aan of groter is dan 200 gram per uur en ten hoogste 50 milligram per normaal kubieke meter indien de massastroom kleiner is dan 200 gram per uur; 
+
+### Artikel  4.74.4  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij het maken van croning- en coldbox-kernen de emissieconcentratie van: 
+
+a. totaal stof ten hoogste 20 milligram per normaal kubieke meter, indien de massastroom van totaal stof naar de lucht gelijk is aan of groter is dan 200 gram per uur en ten hoogste 50 milligram per normaal kubieke meter indien de massastroom kleiner is dan 200 gram per uur, en  
+
+b. aminen ten hoogste 5 milligram per normaal kubieke meter.   
+
+### Artikel  4.74.5  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij uitbreken van gietstukken de emissieconcentratie van totaal stof ten hoogste 5 milligram per normaal kubieke meter, indien de massastroom van totaal stof naar de lucht gelijk is aan of groter is dan 200 gram per uur en ten hoogste 50 milligram per normaal kubieke meter indien de massastroom kleiner is dan 200 gram per uur.   
+2.  Het eerste lid is niet van toepassing indien het gietstuk inclusief zandvorm vanwege het gewicht en de omvang niet verplaatsbaar is.   
+3.  Bij het uitbreken en ontzanden van het gietstuk, bedoeld in het tweede lid, wordt ten behoeve van het voorkomen dan wel voor zover dat niet mogelijk is het zoveel mogelijk beperken van emissies van totaal stof naar de lucht voldaan aan de bij ministeriële regeling gestelde eisen.  
+
+### Artikel  4.74.6  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Onverminderd de artikelen 2.5, eerste, vierde en vijfde lid, en 2.6 is bij het koud regenereren van zand, de emissieconcentratie van totaal stof ten hoogste 5 milligram per normaal kubieke meter, indien de massastroom van totaal stof naar de lucht gelijk is aan of groter is dan 200 gram per uur en ten hoogste 50 milligram per normaal kubieke meter indien de massastroom kleiner is dan 200 gram per uur. 
+
+### Artikel  4.74.7  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Bij de activiteiten, bedoeld in artikel 4.74.1, wordt ten behoeve van: 
+
+a. het doelmatig verspreiden van emissies naar de buitenlucht, en  
+
+b. het realiseren van een verwaarloosbaar bodemrisico,   voldaan aan de bij ministeriële regeling gestelde eisen. 
+
 ###Afdeling  4.5a  
 
 ####Activiteiten met betrekking tot steen
@@ -4786,6 +5392,11 @@ b. het gehalte aan chemisch zuurstofverbruik in enig steekmonster niet meer dan 
 ### Artikel  4.74p  
 
 Bij het op bekisting aanbrengen van ontkistingsmiddelen en het uitwassen van beton wordt ten behoeve van het realiseren van een verwaarloosbaar bodemrisico voldaan aan de bij ministeriële regeling gestelde eisen. 
+
+### Artikel  4.74p1  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 6.1, eerste lid, worden voor inrichtingen als bedoeld in categorie 11.3, onderdeel c, onder 2° en 3°, van bijlage I, bij het Besluit omgevingsrecht waarvoor tot de inwerkingtreding van deze paragraaf, een vergunning op grond van artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht in werking en onherroepelijk was, de voorschriften van die vergunning in afwijking van artikel 6.1, eerste lid, voor onbepaalde tijd aangemerkt als maatwerkvoorschriften, mits de voorschriften van de vergunning vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften op grond van artikel 2.20. 
 
 ### §  4.5a.6  
 
