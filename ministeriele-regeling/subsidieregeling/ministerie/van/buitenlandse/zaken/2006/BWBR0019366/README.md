@@ -3,7 +3,7 @@
 ##Regeling van 21 december 2005, nr. DJZ/BR/1307-2005, houdende nadere regels met betrekking tot de verstrekking van subsidies door de Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking (Subsidieregeling Ministerie van Buitenlandse Zaken 2006)
 
 De Minister van Buitenlandse Zaken en de Minister voor Ontwikkelingssamenwerking,  
-Gelet op de [artikelen 2](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en [3 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op de artikelen 2 en 3 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 Besluiten:     
 ### Afdeling  1  
 
@@ -19,9 +19,9 @@ In deze regeling wordt verstaan onder:
 
 a. ontwikkelingslanden: landen, vermeld in de door het Development Assistence Committee (DAC) van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) meest recent vastgestelde List of Recipients of Official Development Assistence;  
 
-b. Kaderwet: [Kaderwet subsidies Ministerie van Buitenlandse Zaken](../../../../../../../../wet/kaderwet/subsidies/ministerie/van/buitenlandse/zaken/BWBR0010178/README.md);  
+b. Kaderwet: Kaderwet subsidies Ministerie van Buitenlandse Zaken;  
 
-c. Subsidiebesluit: [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md).   
+c. Subsidiebesluit: Subsidiebesluit Ministerie van Buitenlandse Zaken.   
 
 ### Afdeling  2  
 
@@ -298,8 +298,8 @@ b. bijdragen, verstrekt door ten laste van de begroting van Buitenlandse Zaken o
 
 ### Artikel  4.4  
 
-1.  Subsidie wordt met toepassing van [artikel 7, tweede lid, van het Subsidiebesluit](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) verleend.   
-2.  In afwijking van [artikel 6, eerste lid, van het Subsidiebesluit](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) maakt de minister uiterlijk twaalf maanden voorafgaand aan het subsidietijdvak zijn beleidsregels bekend. Ten hoogste vijfentwintig aanvragen kunnen voor subsidieverlening in aanmerking komen.   
+1.  Subsidie wordt met toepassing van artikel 7, tweede lid, van het Subsidiebesluit verleend.   
+2.  In afwijking van artikel 6, eerste lid, van het Subsidiebesluit maakt de minister uiterlijk twaalf maanden voorafgaand aan het subsidietijdvak zijn beleidsregels bekend. Ten hoogste vijfentwintig aanvragen kunnen voor subsidieverlening in aanmerking komen.   
 3.  De beoordeling van de aanvragen vindt plaats in twee fasen. De eerste fase is gericht op de selectie van partners waarmee de minister een strategisch partnerschap wil aangaan. De tweede fase is gericht op de verstrekking van subsidie aan de maatschappelijke organisaties in de partnerschappen.   
 4.  Na de eerste fase maakt de minister het subsidieplafond voor toepassing van deze afdeling bekend.  
 
@@ -319,7 +319,7 @@ De beoordeling in de tweede fase vindt plaats aan de hand van een binnen het raa
 
 ### Artikel  4.7  
 
-Aan de subsidieverstrekking kan de voorwaarde worden verbonden dat ten aanzien van een deel van de verstrekte subsidie een overeenkomst als bedoeld in [artikel 4:36 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot stand komt.
+Aan de subsidieverstrekking kan de voorwaarde worden verbonden dat ten aanzien van een deel van de verstrekte subsidie een overeenkomst als bedoeld in artikel 4:36 van de Algemene wet bestuursrecht tot stand komt.
 
 ### Afdeling  5  
 
@@ -407,7 +407,14 @@ De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot 
 
 ### Artikel  7.2  
 
-De minister kan subsidie verlenen ten behoeve van activiteiten die strekken tot of dienstig zijn aan bevordering van duurzame vergroting van werkgelegenheid en economische groei in ontwikkelingslanden door versterking van het bedrijfsleven in die landen of van transacties in het economisch verkeer met een vernieuwend of stimulerend effect op de verbetering van het milieu in ontwikkelingslanden. Voor subsidieverlening in het kader van deze paragraaf komen uitsluitend bedrijven in aanmerking. 
+1.  De minister kan subsidie verlenen ten behoeve van: 
+
+a. activiteiten die strekken tot of dienstig zijn aan bevordering van een duurzame vergroting van werkgelegenheid en economische groei in ontwikkelingslanden door versterking van het bedrijfsleven in die landen,  
+
+b. transacties in het economisch verkeer met een vernieuwend of stimulerend effect op de verbetering van het milieu in ontwikkelingslanden, en  
+
+c. activiteiten die strekken of dienstig zijn aan de bevordering van de internationale economische betrekkingen en de buitenlandse handel.     
+2.  Voor subsidieverlening in het kader van deze paragraaf komen uitsluitend bedrijven en organisaties gericht op de behartiging van de belangen van het bedrijfsleven in aanmerking. 
 
 ### Paragraaf  3  
 
@@ -448,7 +455,7 @@ b. gebundelde of sectorale presentaties van Nederlandse cultuuruitingen in het b
 c. activiteiten met het oog op de uitvoering van culturele verdragen of internationale afspraken op het terrein van de cultuur, en  
 
 d. kleinschalige lokale culturele projecten in het buitenland, gericht op de plaatselijke bevolking met een herkenbare Nederlandse component.     
-2.  Subsidie voor activiteiten, bedoeld in het eerste lid, onder a en b, kan uitsluitend worden verleend aan sectorinstituten met een internationale taak die door de Minister van Onderwijs, Cultuur en Wetenschap zijn aangewezen en aan fondsen, bedoeld in [artikel 9 van de Wet op het specifiek cultuurbeleid](../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md).  
+2.  Subsidie voor activiteiten, bedoeld in het eerste lid, onder a en b, kan uitsluitend worden verleend aan sectorinstituten met een internationale taak die door de Minister van Onderwijs, Cultuur en Wetenschap zijn aangewezen en aan fondsen, bedoeld in artikel 9 van de Wet op het specifiek cultuurbeleid.  
 
 ### Artikel  8.3  
 
@@ -538,12 +545,12 @@ Voor de toepassing van deze afdeling wordt onder publiek private samenwerking ve
 ### Artikel   10.2  
 
 1.  De minister kan subsidie verlenen met het oog op de uitvoering van activiteiten, bedoeld in deze regeling, verricht in het kader van publiek private samenwerking.   
-2.  De minister kan daarbij buiten toepassing laten het ten aanzien van subsidiëring van de desbetreffende activiteiten vastgestelde subsidieplafond, het bepaalde ingevolge [artikel 7, tweede lid, van het Subsidiebesluit](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md), de artikelen 4.5 en 4.6 en het in deze regeling bepaalde ten aanzien van de hoedanigheid van de subsidieontvanger.   
+2.  De minister kan daarbij buiten toepassing laten het ten aanzien van subsidiëring van de desbetreffende activiteiten vastgestelde subsidieplafond, het bepaalde ingevolge artikel 7, tweede lid, van het Subsidiebesluit alsmede bepalingen van deze regeling.   
 3.  De subsidie wordt in de vorm van een activiteitensubsidie verleend, in voorkomend geval in aanvulling op een reeds aan dezelfde ontvanger verleende instellingssubsidie. De subsidieontvanger draagt zorg voor een zodanig beheer van de desbetreffende subsidiegelden dat gewaarborgd is dat de subsidie uitsluitend wordt besteed voor de activiteiten waarvoor zij is bestemd en dat daarvan afzonderlijk verslag kan worden gedaan.  
 
 ### Artikel  10.3  
 
-Indien de publiek private samenwerking niet over rechtspersoonlijkheid beschikt, kan de subsidie uitsluitend worden verleend aan een van de partijen in het samenwerkingsverband die wel over rechtspersoonlijkheid beschikt, onderverminderd [artikel 4, eerste lid, van het Subsidiebesluit](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). Op deze subsidieontvanger rusten alle aan de subsidie verbonden verplichtingen, onverschillig welk van de partijen in het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden. 
+Indien de publiek private samenwerking niet over rechtspersoonlijkheid beschikt, kan de subsidie uitsluitend worden verleend aan een van de partijen in het samenwerkingsverband die wel over rechtspersoonlijkheid beschikt, onderverminderd artikel 4, eerste lid, van het Subsidiebesluit. Op deze subsidieontvanger rusten alle aan de subsidie verbonden verplichtingen, onverschillig welk van de partijen in het samenwerkingsverband feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden. 
 
 ### Artikel  10.4  
 
@@ -556,11 +563,11 @@ Indien de publiek private samenwerking niet over rechtspersoonlijkheid beschikt,
 
 ### Artikel  10.5  
 
-1.  De minister kan in bijzondere gevallen binnen het raam van [artikel 2 van de Kaderwet](../../../../../../../../wet/kaderwet/subsidies/ministerie/van/buitenlandse/zaken/BWBR0010178/README.md) subsidie verlenen 
+1.  De minister kan in bijzondere gevallen binnen het raam van artikel 2 van de Kaderwet subsidie verlenen 
 
 a. ten behoeve van andere activiteiten dan bedoeld in deze regeling, of  
 
-b. in afwijking van een of meer bepalingen van deze regeling, daaronder begrepen de met het oog daarop bekendgemaakte beleidsregels op grond van [artikel 6 van het Subsidiebesluit](../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);   indien te subsidiëren activiteiten naar het oordeel van de minister een betekenisvolle bijdrage leveren aan de realisering van de beleidsdoelstellingen van de minister.   
+b. in afwijking van een of meer bepalingen van deze regeling, daaronder begrepen de met het oog daarop bekendgemaakte beleidsregels op grond van artikel 6 van het Subsidiebesluit;   indien te subsidiëren activiteiten naar het oordeel van de minister een betekenisvolle bijdrage leveren aan de realisering van de beleidsdoelstellingen van de minister.   
 2.  Een beschikking tot subsidiëring in afwijking van een of meer bepalingen van deze regeling vermeldt de bepalingen waarvan wordt afgeweken.  
 
 ### Afdeling  11  
@@ -569,11 +576,11 @@ b. in afwijking van een of meer bepalingen van deze regeling, daaronder begrepen
 
 ### Artikel  11.1  
 
-De [Subsidieregeling Ministerie van Buitenlandse Zaken](../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/BWBR0010173/README.md) en de [Subsidieregeling Algemene organisaties voor ontwikkelingssamenwerking](../../../../../../../../ministeriele-regeling/subsidieregeling/algemene/organisaties/voor/ontwikkelingssamenwerking/BWBR0013208/README.md) worden ingetrokken. 
+De Subsidieregeling Ministerie van Buitenlandse Zaken en de Subsidieregeling Algemene organisaties voor ontwikkelingssamenwerking worden ingetrokken. 
 
 ### Artikel  11.2  
 
-Deze regeling treedt in werking met ingang van 1 januari 2006. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 2005, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2006. 
+Deze regeling treedt in werking met ingang van 1 januari 2006 en vervalt met ingang van 1 juli 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 2005, treedt deze regeling in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2006. 
 
 ### Artikel  11.3  
 

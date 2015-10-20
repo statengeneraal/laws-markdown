@@ -553,7 +553,7 @@ e. de subsidie-ontvanger draagt er zorg voor dat de activiteiten ter uitvoering 
 
 ### Artikel  6.1  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010 en vervalt met ingang van 1 januari 2020. 
+Deze regeling treedt in werking met ingang van 1 januari 2010 en vervalt met ingang van 1 juli 2017. 
 
 ### Artikel  6.2  
 

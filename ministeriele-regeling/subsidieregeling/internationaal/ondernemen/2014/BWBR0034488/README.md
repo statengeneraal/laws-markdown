@@ -63,7 +63,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling internationaal ondernemen 2
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 1 januari 2014 en vervalt met ingang van 1 januari 2018. 
+Deze regeling treedt in werking met ingang van 1 januari 2014 en vervalt met ingang van 1 juli 2017. 
 Deze regeling zal met de bijlage en de toelichting in de Staatscourant worden geplaatst.  
 
 De 

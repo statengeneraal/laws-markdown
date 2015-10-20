@@ -1,13 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015 versie 2
+##Wijziging Reglement Participatiefonds 2015–2016, Stichting Participatiefonds voor het Onderwijs
 
-Ingangsdatum: 1 februari 2015     
 ### Hoofdstuk  1  
 
 ####Algemene bepalingen
 
-Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de Wet budgettering wachtgelden en instelling Participatiefonds (Stb. 1995, 155), het Besluit Participatiefonds (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen.   
+Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet op de Wet budgettering wachtgelden en instelling Participatiefonds (Stb. 1995, 155), het Besluit Participatiefonds (Stb. 1996, 384) en de statuten van de Stichting Participatiefonds voor het Onderwijs, het volgende reglement voor het Primair Onderwijs vast te stellen   
 ### Paragraaf  1.1  
 
 ####Begripsbepalingen
@@ -22,7 +21,7 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 5.  *Budget voor personeels- en arbeidsmarktbeleid:* het budget voor personeels- en arbeidsmarktbeleid dat werkgevers ontvangen op basis van Titel IV, Afdeling 6 van de WPO dan wel op basis van Titel V, Afdeling 6 van de WEC.  
 
-6.  *CAO PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs voor de periode 1 januari 2013 tot 1 januari 2014 is overeengekomen en welke tot nader order van kracht blijft.  
+6.  *CAO PO:* de collectieve arbeidsovereenkomst voor het primair onderwijs zoals die tussen de PO-Raad en de organisaties van werknemers in het onderwijs voor de periode 1 juli 2014 tot 1 juli 2015 is overeengekomen en welke tot nader order van kracht blijft.  
 
 7.  *Centrale diensten:* diensten zoals bedoeld in artikel 68 WPO en artikel 69 WEC.  
 
@@ -30,25 +29,23 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 9.  *Dienstverband in het kader van vervanging:* een tijdelijk dienstverband van een werknemer ter vervanging van een afwezige werknemer wegens de hieronder limitatief opgesomde gronden van afwezigheid. 
 
-1. Ziekteverlof als bedoeld in de ZAPO.  
+1. Ziekteverlof als bedoeld in de ZAPO;  
 
 2. Schorsing als bedoeld in de artikelen 3.13 tot en met 3.17 en 4.11 tot en met 4.16 CAO-PO.  
 
-3. Gecompenseerd vakantieverlof indien het zwangerschaps- en bevallingsverlof van de vrouwelijke werknemer dat samenvalt met de verlofperiode van de zomervakantie, zoals deze wordt vastgesteld in de Regeling spreiding zomervakanties van het Ministerie van OCW, voor maximaal 3 weken wordt gecompenseerd (artikel 8.2.6 CAO-PO).  
+3. Gecompenseerd vakantieverlof indien het zwangerschaps- en bevallingsverlof van de vrouwelijke werknemer dat samenvalt met een schoolvakantie. Indien werknemer in een schooljaar door ziekte minder dan 20 dagen vakantieverlof heeft genoten, heeft hij recht op (het restant van) het wettelijk minimum aan vakantiedagen als bedoeld in artikel 7:634 lid 1 BW  
 
-4. Vakantieverlof op grond van artikel 8,2, achtste lid van de CAO PO: indien werknemer in een schooljaar door ziekte minder dan 20 dagen vakantieverlof heeft genoten, heeft hij recht op (het restant van) het wettelijk minimum aan vakantiedagen als bedoeld in artikel 7:634 lid 1 BW  
+4. Verlof dat door het bevoegd gezag met toepassing van artikel 8B.2 CAO-PO opnieuw wordt verleend.  
 
-5. Verlof dat door het bevoegd gezag met toepassing van artikel 8.6 CAO-PO opnieuw wordt verleend.  
+5. Betaald dan wel onbetaald buitengewoon verlof (artikelen 8.7, 8.8, 8.9, 8.11, 8.12, 8.13 en 8.15 CAO-PO).  
 
-6. Betaald dan wel onbetaald buitengewoon verlof (artikelen 8.7, 8.8, 8.9, 8.11, 8.12, 8.13 en 8.15 CAO-PO).  
+6. Buitengewoon verlof als bedoeld in artikel 8.18 CAO-PO voor zover verleend met behoud van salaris.  
 
-7. Buitengewoon verlof als bedoeld in artikel 8.18 CAO-PO voor zover verleend met behoud van salaris.  
+7. Betaald dan wel onbetaald ouderschapsverlof (artikelen 8.19, 8.20 en 8.21 CAO-PO).  
 
-8. Betaald dan wel onbetaald ouderschapsverlof (artikelen 8.19, 8.20 en 8.21 CAO-PO).  
+8. Verlof wegens zwangerschap en/of bevalling.  
 
-9. Verlof wegens zwangerschap en/of bevalling.  
-
-10. Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   Vervanging voor deze gronden van afwezigheid wordt aangemerkt als vervanging in de zin van het reglement Participatiefonds.  
+9. Studieverlof van de leraar die gebruik maakt van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   Vervanging voor deze gronden van afwezigheid wordt aangemerkt als vervanging in de zin van het reglement Participatiefonds.  
 
 10.  *In- en doorstroombanen:* banen die worden vervuld door weknemers voor wie de werkgever destijds subsidie ontving als bedoeld in artikel 6, eerste lid van het van het Besluit in-en doorstroombanen (stb. 1999, 591)  
 
@@ -78,11 +75,11 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 23.  *Participatiefonds:* de rechtspersoon als bedoeld in artikel 184 van de WPO en in artikel 170 van de WEC waarbij de werkgever verplicht is aangesloten in verband met kosten van uitkeringen aan gewezen personeel en suppleties inzake arbeidsongeschiktheid.  
 
-24.  *Prestatiebox:* de Regeling prestatiebox primair onderwijs als bedoeld in de Staatscourant nr. 1417, d.d. 27 januari 2012.  
+24.  *Prestatiebox:* de Regeling prestatiebox primair onderwijs als bedoeld in de Staatscourant nr. 1417, d.d. 27 januari 2012  
 
 25.  *Reorganisatie:* een verandering in de organisatie van één of meer scholen of een Centrale Dienst dan wel Samenwerkingsverband, waaronder ook begrepen de opheffing van bestaande en/of de introductie van nieuwe functies, die gepaard gaan met ingrijpende personele gevolgen.  
 
-26.  *Samenwerkingsverband:* samenwerkingsverband zoals bedoeld in artikel 18 van de WPO en artikel 28a van de WEC.  
+26.  *Samenwerkingsverband:* samenwerkingsverband zoals bedoeld in artikel 18 van de WPO en artikel 28a van de WEC  
 
 27.  *Samenwerkende werkgevers:* besturen die in het kader van het sectorplan PO een gezamenlijk transfercentrum hebben opgericht.  
 
@@ -100,21 +97,21 @@ Het bestuur van de Stichting Participatiefonds voor het Onderwijs besluit, gelet
 
 34.  *Vergoedingsverzoek:* een op grond van artikel 138, tweede lid, van de WPO dan wel op grond van artikel 132, tweede lid, van de WEC, door de werkgever ingediende aanvraag in de zin van artikel 1:3, derde lid, van de Awb.  
 
-35.  *Vervanging (vervangingsbetrekking):* zie dienstverband in het kader van vervanging.  
+35.  *Vervanging (vervangingsbetrekking):* zie dienstverband in het kader van vervanging  
 
 36.  *Werkgelegenheidsbeleid:* de regeling werkgelegenheidsbeleid conform artikel 10.2 en 10.3 van de CAO PO.  
 
 37.  *Werkgever:* het bevoegd gezag als bedoeld in artikel 1 WPO en artikel 1 WEC, respectievelijk het bevoegd gezag van de rechtspersoon als bedoeld in artikel 68 WPO en artikel 69 WEC en het Regionaal Expertisecentrum, als bedoeld in artikel 28b WEC, tenzij het bevoegd gezag door de Minister van Onderwijs, Cultuur en Wetenschap, op grond van bezwaren van godsdienstige of levensbeschouwelijke aard is uitgezonderd van aansluiting bij de Stichting Participatiefonds voor het Onderwijs.  
 
-38.  *WEC:* Wet op de Expertisecentra (Stb. 1998, 469).  
+38.  *WEC:* Wet op de Expertisecentra (Stb. 1998, 469)  
 
-39.  *WPO:* Wet op het Primair Onderwijs (Stb. 1998, 495).  
+39.  *WPO:* Wet op het Primair Onderwijs (Stb. 1998, 495)  
 
-40.  *WOPO:* Regeling ‘Werkloosheidregeling onderwijspersoneel primair onderwijs.  
+40.  *WOPO:* Regeling ‘Werkloosheidregeling onderwijspersoneel primair onderwijs  
 
-41.  *WW:* Werkloosheidwet (Stb. 1986, 566).  
+41.  *WW:* Werkloosheidwet (Stb. 1986, 566)  
 
-42.  *ZAPO:* Regeling ‘Ziekte en Arbeidsongeschiktheid primair onderwijs.  
+42.  *ZAPO:* Regeling ‘Ziekte en Arbeidsongeschiktheid primair onderwijs  
 
 43.  *Zij-instromers:* onbevoegden met een geschiktheidsverklaring als bedoeld in artikel 176b WPO of artikel 162e WEC.       
 ### Hoofdstuk  2  
@@ -167,7 +164,9 @@ De werkgever:
 
 a. die een dienstverband van een werknemer beëindigt of een tijdelijk dienstverband niet voortzet; en  
 
-b. die wenst dat de uitkeringskosten die op grond van artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht,   dient bij het Participatiefonds een vergoedingsverzoek in. 
+b. die wenst dat de uitkeringskosten die op grond van artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC voor rekening van de werkgever komen, ten laste van het Participatiefonds worden gebracht,  
+
+c. dient bij het Participatiefonds een vergoedingsverzoek in.   
 
 ### Artikel  3:2  
 
@@ -180,7 +179,11 @@ De werkgever maakt bij de indiening van het vergoedingsverzoek gebruik van de mo
 ####Vereisten vergoedingsverzoek
 
 1.  De werkgever legt bij de indiening van het vergoedingsverzoek de gegevens en de documenten over die het Participatiefonds middels de module ‘vergoedingsverzoeken’ opvraagt.   
-2.  De werkgever die niet of niet volledig aan het bepaalde in het eerste lid kan voldoen deelt dit aan het Participatiefonds mee onder opgaaf van een deugdelijke motivering door toezending van ter zake overtuigende documenten  
+2.  De werkgever die niet of niet volledig aan het bepaalde in het eerste lid kan voldoen deelt dit aan het Participatiefonds mee onder opgaaf van een deugdelijke motivering door toezending van ter zake overtuigende documenten   
+3.  Bij het beëindigen van een dienstverband op grond van de artikelen 4:5, 4:11 of één van de artikelen in paragraaf 4.3, kan de werkgever met betrekking tot de in deze artikelen vervatte voorwaarden, behoudens de voorwaarde ‘ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie’, een beroep doen op een vrijstelling van toetsing aan de voorwaarden.   
+4.  Om voor de vrijstelling, zoals genoemd in het derde lid, in aanmerking te komen, legt de werkgever het formulier ‘verzoek vrijstellingsregeling’ en de daarin genoemde bewijsstukken / ter zake overtuigende documenten over.   
+5.  Indien uit de stukken, bedoeld in het vorige lid, naar het oordeel van het Participatiefonds blijkt dat daarmee is voldaan aan één of meerdere voorwaarden zoals die zijn vastgelegd in de in het derde lid genoemde artikelen uit het reglement Participatiefonds 2015–2016, wordt een vrijstelling voor die voorwaarden verleend.   
+6.  Indien uit de stukken, bedoeld in het vierde lid, naar het oordeel van het Participatiefonds niet blijkt dat daarmee is voldaan aan één of meerdere voorwaarden zoals die zijn vastgelegd in de in het derde lid genoemde artikelen uit het reglement Participatiefonds 2015–2016, wordt geen vrijstelling voor die voorwaarden verleend. De werkgever wordt in dat geval in de gelegenheid gesteld zijn aanvraag aan te vullen op de voet van artikel 4:5 van de Awb.’  
 
 ### Artikel  3:4  
 
@@ -209,9 +212,13 @@ b. de werkgever zich, in strijd met artikel 60 in samenhang gelezen met artikel 
 
 c. sprake is van een dienstverband in het kader van vervanging als bedoeld in paragraaf 1, onder 35, waaraan een regulier dienstverband is voorafgegaan en de werkgever niet heeft voldaan aan het verzoek van het Participatiefonds om binnen acht weken alsnog een vergoedingsverzoek te doen in het kader van de beëindiging van het reguliere dienstverband;  
 
-d. het vergoedingsverzoek van de werkgever onredelijk is;  
+d. het vergoedingsverzoek van de werkgever onredelijk is.  
 
-e. het beëindigen van een dienstverband of het niet voortzetten van een tijdelijk dienstverband in de risicosfeer van de werkgever valt.     
+e. het beëindigen van een dienstverband of het niet voortzetten van een tijdelijk dienstverband in de risicosfeer van de werkgever valt.  
+
+f. De werkgever het dienstverband niet herstelt terwijl hij daartoe op grond van artikel 7:682, eerste lid, onder b dan wel onder c, BW, is veroordeeld.  
+
+g. De kantonrechter de werknemer een billijke vergoeding heeft toegekend op de voet van artikel 7:682, eerste lid onder b, BW dan wel artikel 7:682, eerste lid, onder c, nu in die gevallen sprake is van ernstig verwijtbaar handelen of nalaten van de werkgever     
 2.  Als het Participatiefonds de beschikking als bedoeld in het eerste lid neemt, deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.  
 
 ### Artikel  3:7  
@@ -219,7 +226,7 @@ e. het beëindigen van een dienstverband of het niet voortzetten van een tijdeli
 ####Beslistermijn
 
 1.  Het Participatiefonds geeft binnen 8 weken nadat het vergoedingsverzoek is ontvangen een beschikking over het vergoedingsverzoek.   
-2.  Als een beschikking niet binnen 8 weken nadat het vergoedingsverzoek is ontvangen kan worden gegeven, deelt het Participatiefonds aan de werkgever mee, dat de beschikking uiterlijk binnen 16 weken nadat het vergoedingsverzoek is ontvangen tegemoet kan worden gezien.   
+2.  Als een beschikking niet binnen 8 weken nadat het vergoedingsverzoek is ontvangen kan worden gegeven, deelt het Participatiefonds aan de werkgever mee, dat de beschikking uiterlijk binnen 16 weken nadat het vergoedingsverzoek is ontvangen tegemoet kan worden gezien.   
 3.  De beslistermijn wordt van rechtswege opgeschort met ingang van de dag waarop het Participatiefonds de werkgever op grond van artikel 3:4 uitnodigt het vergoedingsverzoek aan te vullen, tot de dag waarop het vergoedingsverzoek is aangevuld of de daarvoor gestelde termijn ongebruikt is verstreken.  
 
 ### Paragraaf  3.2  
@@ -292,7 +299,7 @@ De werkgever maakt bij het verstrekken van de inlichtingen als bedoeld in artike
 
 ####Zelfstandig wachtgeldbeleid
 
-1.  De werkgever die zelfstandig wachtgeld-beleid als bedoeld in artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998-1999 voert, deelt aan het Participatiefonds mee dat hij zelfstandig wachtgeldbeleid voert.   
+1.  De werkgever die zelfstandig wachtgeld-beleid als bedoeld in artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998–1999 voert, deelt aan het Participatiefonds mee dat hij zelfstandig wachtgeldbeleid voert.   
 2.  Het Participatiefonds deelt het de Minister van Onderwijs, Cultuur en Wetenschap mee, dat de uitkeringskosten als bedoeld in artikel 138, tweede lid, van de WPO of artikel 132, tweede lid, van de WEC, niet ten laste van het Participatiefonds komen.   
 3.  Voor de huidige deelnemers aan zelfstandig wachtgeldbeleid is artikel 2 van het Reglement Participatiefonds voor het Primair Onderwijs 1998-1999 voor onbepaalde tijd van toepassing.  
 
@@ -372,7 +379,7 @@ b. over de personele gevolgen volgens de strekking van de tripartiete overeenkom
 
 ### Artikel  4:1  
 
-####Grondslag vergoedingsverzoek: beëindiging van het dienstverband door opzegging (artikel 3.7, eerste lid, CAO PO)
+####Grondslag vergoedingsverzoek: beëindiging van het dienstverband door opzegging (artikel 3.7, eerste lid, CAO PO)
 
 Als ontslag is genomen op grond van artikel 3.7, eerste lid, van de CAO PO, beëindiging van het dienstverband op verzoek van de werknemer, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:1:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
@@ -380,7 +387,7 @@ Als ontslag is genomen op grond van artikel 3.7, eerste lid, van de CAO PO, beë
 
 ####Meedelen reden ontslag
 
-1.  De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever heeft medegedeeld dat hij het dienstverband wenst te beëindigen.  
+1. De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever heeft medegedeeld dat hij het dienstverband wenst te beëindigen. 
 
 ### Artikel  4:2  
 
@@ -392,7 +399,7 @@ Als het dienstverband is beëindigd wegens dringende reden (ontslag op staande v
 
 ####Grondslag vergoedingsverzoek: ontbinding arbeidsovereenkomst door Kantonrechter (artikel 3.7, derde lid, CAO PO)
 
-Als het dienstverband is ontbonden op grond van 7:685 BW (uitspraak kantonrechter) conform artikel 3.7, derde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:3:1 tot en met 4:3:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband is ontbonden op grond van de artikelen 7:671b dan wel 7:671c BW (uitspraak kantonrechter) conform artikel 3.7, derde lid, van de CAO PO, dan komt de werkgever voor toewijzing van het vergoedingsverzoeking in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:3:1 tot en met 4:3:2 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:3:1  
 
@@ -400,7 +407,7 @@ Als het dienstverband is ontbonden op grond van 7:685 BW (uitspraak kantonrechte
 
 1.  Het dienstverband van de werknemer is beëindigd door een uitspraak van de kantonrechter.   
 2.  De werkgever legt daartoe over de beschikking van de kantonrechter.   
-3.  Uit de beschikking van de kantonrechter blijkt niet dat het geschil in overwegende mate aan de werkgever te wijten is.  
+3.  Uit de beschikking van de kantonrechter blijkt dat de ontbinding niet in overwegende mate aan de werkgever te wijten is.  
 
 ### Artikel  4:3:2  
 
@@ -409,11 +416,11 @@ Als het dienstverband is ontbonden op grond van 7:685 BW (uitspraak kantonrechte
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -464,11 +471,11 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -518,11 +525,11 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -535,7 +542,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 3.7, vierde lid, CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:6:1 tot en met 4:6:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:6:1 tot en met 4:6:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:6:1  
 
@@ -554,14 +561,14 @@ Als het dienstverband is beëindigd op grond van artikel 3.7, vierde lid, CAO PO
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:6:3  
 
@@ -581,9 +588,9 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Toetsingsdatum
 
-1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
-2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
-3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
+1.  Een vergoedingsverzoek op grond van dit artikelvan een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
+2.  Een vergoedingsverzoek op grond van dit artikelvan een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
+3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:6:5  
 
@@ -598,11 +605,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -653,11 +660,11 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -716,7 +723,7 @@ c. één of meer facturen van aanbieders voor begeleiding van werknemer; of
 
 d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de gesprekken met en/of de begeleiding van de werknemer hebben plaatsgevonden.    
 
-### Artikel  4:9:3 
+### Artikel  4:9:3  
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
@@ -731,11 +738,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -768,7 +775,7 @@ Als aan de werknemer, die minder dan 35% arbeidsongeschikt is verklaard in het k
 ####Meedelen reden ontslag aan werknemer
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.   
+2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit   
 3.  Tevens overlegt de werkgever een afschrift van de WIA-beschikking waaruit blijkt dat de werknemer minder dan 35% arbeidsongeschikt is verklaard door het UWV in het kader van de WIA.  
 
 ### Artikel  4:11:2  
@@ -782,7 +789,7 @@ a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen funct
 
 b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;  
 
-c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.     
+c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen     
 3.  Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals: 
 
 a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of  
@@ -808,11 +815,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -825,11 +832,11 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: gewichtige omstandigheden (Artikel 3.8, zevende lid, CAO PO) te weten kwalitatieve fricties
 
-Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:12:1 tot en met 4:12:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, met als reden dat er naar het oordeel van de werkgever sprake is gewichtige omstandigheden, zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat het naar het oordeel van de werkgever anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:12:1 tot en met 4:12:6 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:12:1  
 
-####Meedelen reden ontslagaan werknemer
+####Meedelen reden ontslag aan werknemer
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over het ontslagbesluit.   
@@ -844,14 +851,14 @@ Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, me
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van het ontslag.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:12:3  
 
@@ -871,9 +878,9 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ####Toetsingsdatum
 
-1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
-2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
-3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
+1.  Een vergoedingsverzoek op grond van dit artikelvan een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
+2.  Een vergoedingsverzoek op grond van dit artikelvan een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
+3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:12:5  
 
@@ -888,11 +895,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -912,7 +919,7 @@ Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, te
 ####Meedelen ontslagaan werknemer
 
 1.  De werkgever heeft de reden voor ontslag aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet gevergd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet.  
+2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet gevergd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet  
 
 ### Artikel  4:13:2  
 
@@ -953,11 +960,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -990,7 +997,7 @@ Als ontslag is verleend op grond van artikel 20a ZAPO vanwege het niet meewerken
 ####Meedelen reden ontslag aan werknemer
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijke grond niet heeft meegewerkt aan zijn re-integratie.   
+2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijke grond niet heeft meegewerkt aan zijn re-integratie   
 3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, ZAPO.  
 
 ### Paragraaf  4.2  
@@ -1033,7 +1040,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege onbekwaamheid/ongeschiktheid als bedoeld in artikel 3.8, tweede lid
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:19:1 tot en met 4:19:4 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van onbekwaamheid of ongeschiktheid van de werknemer voor de door hem uitgeoefende functie zoals bedoeld in artikel 3.8, tweede lid, van de CAO PO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:19:1 tot en met 4:19:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:19:1  
 
@@ -1075,7 +1082,7 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -1128,7 +1135,7 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -1141,7 +1148,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO): vanwege gewichtige omstandigheden zoals bedoeld in artikel 3.8 zevende lid vanwege kwalitatieve fricties
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:21:1 tot en met 4:21:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:21:1 tot en met 4:21:5 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:21:1  
 
@@ -1160,12 +1167,12 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO*, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:21:3  
 
@@ -1183,8 +1190,8 @@ a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers die 
 
 1.  Een vergoedingsverzoek op grond van dit artikel van een tijdelijk dienstverband dat eindigt per of na de laatste schooldag van een schooljaar en dat na 1 augustus van dat jaar niet wordt voortgezet, wordt getoetst als zijnde een niet voortgezet dienstverband per 1 augustus van het volgend schooljaar en getoetst op basis van het Reglement dat van kracht is in dat volgende schooljaar.   
 2.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.   
-3.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste of tweede lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
-4.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
+3.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet of beëindigd dienstverband per een andere datum dan genoemd in het eerste of tweede lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten of beëindigen van het dienstverband.   
+4.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:21:5  
 
@@ -1195,7 +1202,7 @@ a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -1258,7 +1265,7 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -1351,7 +1358,7 @@ b. andere ter zake overtuigende documenten waaruit blijkt dat de werknemer de we
 
 ### Artikel  4:28  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegensschorsing (artikel 3.13 t/m 3.17 CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, CAO PO); vanwege vervanging afwezige wegens schorsing (artikel 3.13 t/m 3.17 CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:28:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -1369,7 +1376,7 @@ b. de periode waarvoor de benoeming is aangegaan.
 
 ### Artikel  4:29  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof (artikel 8.2, zesde lid, CAO PO) en verleend verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8.2, achtste lid, CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof, vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de Wet arbeid en zorgen verleend en verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8B.1, vijfde lid, CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:29:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -1377,7 +1384,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder
 
 ####Aantonen vervanging wegens gecompenseerd vakantieverlof
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot op grond van artikel 8.2, zesde lid, of artikel 8.2, achtste lid van de CAO PO.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de Wet arbeid en zorg, of artikel 8B.1, vijfde lid van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -1393,7 +1400,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  4:30  
 
-####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (artikel 8.6 CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.4, onder b, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (artikel 8B.2 CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder b, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:30:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -1401,7 +1408,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder
 
 ####Aantonen vervanging wegens opnieuw verleend verlof
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8.6 van de CAO PO.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8B.2 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -1549,7 +1556,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor de eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
-3.  Als de werknemer de verklaring weigert te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
+3.  Als de werknemer de verklaring weigert te ondertekenen, dan overlegt de werkgever afschriften van andere ter zake overtuigende documenten met betrekking tot het herplaatsingsonderzoek zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn  
 
 ### Artikel  4:36  
 
@@ -1561,7 +1568,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 3.4, onder
 
 ####Aantonen vervanging wegens studieverlof op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het Scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die studieverlof genoot op grond van het scholingsfonds als bedoeld in het ‘Definitief akkoord Convenant Leerkracht van Nederland’ van 1 juli 2008.   
 2.  De werkgever legt daartoe over een afschrift van de akte van benoeming van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -1628,14 +1635,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:38:3  
 
@@ -1653,7 +1660,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:38:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 1.  Als het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -1671,7 +1678,7 @@ v. een vacature op de datum van beëindiging van het dienstverband.   Als van he
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:38:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:38:2 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  4:38:6  
 
@@ -1689,9 +1696,9 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 ####Toetsingsdatum
 
-1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
-2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
-3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
+1.  Een vergoedingsverzoek op grond van dit artikelvan een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
+2.  Een vergoedingsverzoek op grond van dit artikelvan een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
+3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:38:9  
 
@@ -1700,17 +1707,17 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de beëindigingsdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag`     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  4:39  
@@ -1731,7 +1738,7 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat 
 
 a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan; en  
 
@@ -1747,7 +1754,7 @@ c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere rede
 
 a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en  
 
-b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de looptijd van het sociaal plan, conform de in het sociaal plan gemaakte afspraken, is.     
+b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de looptijd van het sociaal plan, conform de in het sociaal plan gemaakte afspraken, is;     
 2.  De werkgever legt daartoe over het sociaal plan.   
 3.  Tevens overlegt de werkgever ter zake overtuigende documenten waaruit blijkt dat de werkgever en de bonden gezamenlijk van oordeel zijn dat het formatieve probleem, nog niet door middel van reductie van de omvang van het personeelsbestand, volledig was opgelost op de datum van de beëindiging van het dienstverband.  
 
@@ -1755,9 +1762,9 @@ b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de lo
 
 ####Toetsingsdatum
 
-1.  Een vergoedingsverzoek op grond van dit artikel van een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
-2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.   
-3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
+1.  Een vergoedingsverzoek op grond van dit artikelvan een per 1 augustus beëindigd dienstverband wordt getoetst op basis van het Reglement dat per 1 augustus van het volgend schooljaar van kracht is.   
+2.  Een vergoedingsverzoek op grond van dit artikelvan een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst.   
+3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van derijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
 ### Artikel  4:39:5  
 
@@ -1815,9 +1822,9 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  4:41:2  
 
-####Daling materiele bekostiging per 1 januari 2015
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2013, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘Kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  4:41:3  
@@ -1826,37 +1833,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan de werkgever op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-A. Het dienstverband wordt beëindigd per 1 augustus 2014, *of*   
+A. Het dienstverband wordt beëindigd per 1 augustus 2015, *of*   
 
-B. Het dienstverband wordt beëindigd per 1 januari 2015, *of*   
+B. Het dienstverband wordt beëindigd per 1 januari 2016, *of*   
 
-C. Het dienstverband wordt beëindigd per 1 augustus 2015     
-2. 
-De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 4:41:3 onder A, B of C:   
+C. Het dienstverband wordt beëindigd per 1 augustus 2016     
+2.  De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 4:41:3 onder A, B of C: 
 
-A. beëindiging dienstverband per 1 augustus 2014 
+A. beëindiging dienstverband per 1 augustus 2015 
 
-1. Indien het dienstverband wordt beëindigd per 1 augustus 2014 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 augustus 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. beëindiging dienstverband per 1 januari 2015 
+B. beëindiging dienstverband per 1 januari 2016 
 
-1. Indien het dienstverband wordt beëindigd per 1 januari 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 januari 2016 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-C. beëindiging dienstverband per 1 augustus 2015 
+C. beëindiging dienstverband per 1 augustus 2016 
 
-1. Indien het dienstverband wordt beëindigd per 1 augustus 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 augustus 2016 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.      
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2016 aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  4:41:4  
 
@@ -1871,17 +1877,17 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  4:42  
@@ -1903,7 +1909,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de beëindiging van het dienstverband is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de datum van de beëindiging van het dienstverband is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
 
 ### Artikel  4:42:3  
 
@@ -1921,7 +1927,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:42:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Wanneer van een werknemer het dienstverband op grond van een beëindigingsovereenkomst is beëindigd, dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -1933,7 +1939,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum 
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst en de beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van de datum van de beëindiging van het dienstverband.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van werknemer/werknemers van wie het dienstverband beëindigd is, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:43:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de werknemer van wie het dienstverband beëindigd is en die niet in de vacature, genoemd onder v. is benoemd. 
+v. een vacature op de datum van de beëindiging van het dienstverband.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van werknemer/werknemers van wie het dienstverband beëindigd is, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:42:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de werknemer van wie het dienstverband beëindigd is en die niet in de vacature, genoemd onder v. is benoemd. 
 
 ### Artikel  4:42:5  
 
@@ -1956,17 +1962,17 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  4:43  
@@ -1996,11 +2002,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de datum van de beëindiging van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, heeft de werkgever het ondersteuningsaanbod verlengd tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2013,7 +2019,7 @@ b. indien de werkgever geen gebruik heeft gemaakt van de modelbrief ‘aanbod ex
 
 ####Grondslag vergoedingsverzoek: ontslag vanwege opheffing betrekking (artikel 3.8 derde lid CAO PO) vanwege de daling of beëindiging van de gemeentelijke bijdrage voor in- en doorstroombanen (ID-banen) voor werkgevers met ontslagbeleid
 
-Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:44:1 tot en met 4:44:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een gemeentelijke bijdrage voor in- en doorstroombanen, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 4:44:1 tot en met 4:44:3 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd 
 
 ### Artikel  4:44:1  
 
@@ -2059,14 +2065,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:45:3  
 
@@ -2084,7 +2090,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:45:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -2096,16 +2102,16 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot iv. en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:45:5  
 
 ####Uitgestelde beëindiging van het dienstverband
 
 1.  Indien er sprake is van uitgesteld ontslag dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt.   
-2.  In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:45:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken.   
+2.  In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:45:2 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken.   
 3.  Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.   
-4.  De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.  
+4.  De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband.  
 
 ### Artikel  4:45:6  
 
@@ -2134,14 +2140,13 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
-4.  
-
+4. 
 a. De werkgever legt daartoe over: een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
 b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
@@ -2165,7 +2170,7 @@ Als de werkgever, die de regeling werkgelegenheidsbeleid als bedoeld in artikel 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat 
 
 a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan *en*   
 
@@ -2246,9 +2251,9 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  4:48:2  
 
-####Daling materiele bekostiging per 1 januari 2015
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging Materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging Materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘Kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  4:48:3  
@@ -2257,36 +2262,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-* Het dienstverband wordt beëindigd per 1 augustus 2014, *of*   
+* Het dienstverband wordt beëindigd per 1 augustus 2015, *of*   
 
-* Het dienstverband wordt beëindigd per 1 januari 2015, *of*   
+* Het dienstverband wordt beëindigd per 1 januari 2016, *of*   
 
-* Het dienstverband wordt beëindigd per 1 augustus 2015.     
+* Het dienstverband wordt beëindigd per 1 augustus 2016.     
 2.  De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 4:48:3 onder A, B of C: 
 
-A. beëindiging dienstverband per 1 augustus 2014 
+A. beëindiging dienstverband per 1 augustus 2015 
 
-1. Indien het ontslag geeffectueerd wordt per 1 augustus 2014 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. beëindiging dienstverband per 1 januari 2015 
+B. beëindiging dienstverband per 1 januari 2016 
 
-1. Indien het ontslag geeffectueerd wordt per 1 januari 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 januari 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-C. beëindiging dienstverband per 1 augustus 2015 
+C. beëindiging dienstverband per 1 augustus 2016 
 
-1. Indien het ontslag geeffectueerd wordt per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 augustus 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2015 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.      
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2016 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  4:48:4  
 
@@ -2301,17 +2306,17 @@ Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge vol
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  
 
 a. De werkgever legt daartoe over: een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  4:49  
@@ -2333,7 +2338,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband in mindering gebracht.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband in mindering gebracht.  
 
 ### Artikel  4:49:3  
 
@@ -2363,7 +2368,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum 
 
 iv. personeel dat, in de periode tussen de datum van ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:49:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd. 
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:49:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd. 
 
 ### Artikel  4:49:5  
 
@@ -2386,17 +2391,17 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  
 
 a. De werkgever legt daartoe over: een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  4:50  
@@ -2426,11 +2431,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, heeft de werkgever het ondersteuningsaanbod verlengd tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2454,7 +2459,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 ####Daling of beëindiging van een landelijk door de overheid beschikbare gestelde subsidie
 
 1.  De werkgever toont aan dat de landelijke subsidie is gedaald of beëindigd.   
-2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijke door de overheid beschikbaar gestelde subsidie of subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’ is gedaald of beëindigd.  
+2.  De werkgever legt daartoe over ter zake overtuigende documenten waaruit blijkt dat de landelijke door de overheid beschikbaar gestelde subsidie of subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’ is gedaald of beëindigd  
 
 ### Artikel  4:51:2  
 
@@ -2465,7 +2470,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  
 
@@ -2489,14 +2494,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 201–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:52:2  
 
@@ -2514,7 +2519,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:52:3  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
@@ -2522,7 +2527,7 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:52:1 in de schooljaren 2012–2013, 2013–2014 en 2013–2014 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:52:1 in de schooljaren 2013–2014, 2014–2015 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  4:52:5  
 
@@ -2547,7 +2552,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2560,7 +2565,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6, eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:53:1 tot en met 4:53:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 3.6, eerste lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 3.8, derde lid CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 4:53:1 tot en met 4:53:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  4:53:1  
 
@@ -2571,27 +2576,27 @@ Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van 
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:53:2  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis in geval van werknemers van wie het tijdelijke dienstverband niet wordt voortgezet
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers van wie het tijdelijke dienstverband niet wordt voortgezet, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:53:1.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers van wie het tijdelijke dienstverband niet wordt voortgezet, waarvan het tijdelijke dienstverband niet wordt voortgezet, op jaarbasis gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:53:1;   
 2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, van wie het tijdelijke dienstverband niet wordt voortgezet, bedoeld in artikel 4:53:2 aan de hand van de loonkostentool van het Participatiefonds.  
 
 ### Artikel  4:53:3  
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:52:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 4:53:1 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  4:53:4  
 
@@ -2610,7 +2615,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2659,9 +2664,9 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  4:55:1  
 
-####Daling materiele bekostiging per 1 januari 2015
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  4:55:2  
@@ -2670,36 +2675,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-* Het dienstverband wordt niet voortgezet per 1 augustus 2014, *of*   
+* Het dienstverband wordt niet voortgezet per 1 augustus 2015, *of*   
 
-* Het dienstverband wordt niet voortgezet per 1 januari 2015, *of*   
+* Het dienstverband wordt niet voortgezet per 1 januari 2016, *of*   
 
-* Het dienstverband wordt niet voortgezet per 1 augustus 2015.     
+* Het dienstverband wordt niet voortgezet per 1 augustus 2016     
 2.  De werkgever overlegt, afhankelijk van de datum waarop het tijdelijk dienstverband niet wordt voortgezet, de vergelijking zoals bepaald in artikel 4:55:3 onder A, B of C: 
 
-A. dienstverband wordt niet voortgezet per 1 augustus 2014 
+A. dienstverband wordt niet voortgezet per 1 augustus 2015 
 
-1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2014 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. dienstverband wordt niet voortgezet per 1 januari 2015 
+B. dienstverband wordt niet voortgezet per 1 januari 2016 
 
-1. Indien het dienstverband niet wordt voortgezet per 1 januari 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+1. Indien het dienstverband niet wordt voortgezet per 1 januari 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
-
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
-
-C. beëindiging dienstverband per 1 augustus 2015   
-
-1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
-
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
 3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
+
+C. beëindiging dienstverband per 1 augustus 2016 
+
+1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
+
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2016 aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  4:55:3  
 
@@ -2710,7 +2715,7 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden.     
+b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2731,7 +2736,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het van het niet voortzetten van het tijdelijk dienstverband is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband.  
 
 ### Artikel  4:56:2  
 
@@ -2749,7 +2754,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:56:3  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
@@ -2770,13 +2775,13 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden.     
+b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden;     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Paragraaf  4.5  
@@ -2800,7 +2805,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
 
-1. De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
+1.   De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
 ### Artikel  4:57:3  
 
@@ -2811,21 +2816,21 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:57:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4.57.2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4.57.2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:57:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:57:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:57:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -2836,7 +2841,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:57:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -2848,7 +2853,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:57:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:57:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:57:6  
 
@@ -2877,11 +2882,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -2908,7 +2913,7 @@ Als de werkgever, ontslag verleend op grond van artikel 3.8, derde lid, CAO PO, 
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat 
 
 i. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven *en*   
 
@@ -2955,11 +2960,11 @@ Als ontslag is verleend op grond van artikel 3.8, zevende lid, van de CAO PO, me
 
 ### Artikel  4:59:2  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
-### Artikel  4:59:3 
+### Artikel  4:59:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 
@@ -2968,20 +2973,20 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
 3.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:59:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:59:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:59:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:59:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -2992,7 +2997,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:59:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -3004,7 +3009,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:59:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:59:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:59:6  
 
@@ -3031,11 +3036,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever overlegt daartoe: 
 
@@ -3056,7 +3061,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  4:60:1  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
@@ -3069,14 +3074,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:60:3  
 
@@ -3094,7 +3099,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:60:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
@@ -3127,7 +3132,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3147,7 +3152,7 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat 
 
 I. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en  
 
@@ -3176,7 +3181,7 @@ b. het niet voortzetten van het tijdelijk dienstverband tijdens de looptijd van 
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 3.6, eerste lid en artikel 3.6, tweede lid CAO PO) vanwege gewichtige omstandigheden (artikel 3.8, zevende lid, cao PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 4:62:1 tot en met 4:62:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is gewichtige omstandigheden zoals bedoeld in artikel 3.8, zevende lid, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 4:62:1 tot en met 4:62:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  4:62:1  
 
@@ -3191,7 +3196,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
-### Artikel  4:62:3 
+### Artikel  4:62:3  
 
 ####Daling rijksbekostiging van personeel en financiële bijdragen van derden volgens vergelijking
 
@@ -3200,21 +3205,21 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
 3.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.   
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  4:62:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4;62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:62:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 4:62:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 4:62:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -3225,7 +3230,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  4:62:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -3237,7 +3242,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:45:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 4:62:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot iv. en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  4:62:6  
 
@@ -3266,7 +3271,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever overlegt daartoe: 
 
@@ -3293,11 +3298,11 @@ Als ontslag is verleend op grond van artikel 4.7 onder a, van de CAO PO, beëind
 
 ####Meedelen reden ontslag aan werknemer
 
-1. De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever verzocht heeft het dienstverband te beëindigen. 
+1.  De werkgever overlegt documenten, opgesteld voorafgaand aan de einddatum, waaruit blijkt dat de werknemer de werkgever verzocht heeft het dienstverband te beëindigen.  
 
 ### Artikel  5:2  
 
-####Grondslag vergoedingsverzoek: geen vacature na afloop lang buitengewoon verlof (Artikel 4.7 onder e, CAO PO)
+####Grondslag vergoedingsverzoek: geen vacature na afloop lang buitengewoon verlof (Artikel 4.7 onder e, CAO PO)
 
 Als ontslag is verleend op grond artikel 4.7 onder e, van de CAO PO, omdat na afloop van het lang buitengewoon verlof de werknemer bij gebrek aan een vacature niet in actieve dienst binnen de instelling dan wel bij de werkgever kan worden geplaatst, dan komt de werkgever voor toewijzing van het vergoedingsverzoek in aanmerking indien hij aan de voorwaarden genoemd in artikel 5:2:1 heeft voldaan en de in het artikel genoemde documenten heeft overgelegd. 
 
@@ -3333,7 +3338,7 @@ a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen funct
 
 b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;  
 
-c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.     
+c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen     
 3.  Weigert de werknemer de verklaring te ondertekenen, dan overlegt de werkgever andere ter zake overtuigende documenten zoals: 
 
 a. één of meer schriftelijke uitnodigingen aan werknemer voor gesprekken; of  
@@ -3359,11 +3364,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3424,11 +3429,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3528,11 +3533,11 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3564,14 +3569,14 @@ Als ontslag is verleend op grond artikel 4.7, onder k, CAO PO, met als reden dat
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in* artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:9:3  
 
@@ -3608,11 +3613,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3655,18 +3660,18 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 1.  Nadat de werkgever heeft geconcludeerd dat het niet mogelijk is om de werknemer voor zijn eigen functie te behouden, heeft de werkgever zich ingespannen om hem in een andere functie voor de eigen organisatie te behouden.   
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek ziekte en arbeidsongeschiktheid’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.  
 
-### Artikel  5:10:4 
+### Artikel  5:10:4  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3717,11 +3722,11 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3772,11 +3777,11 @@ d. de conclusie dat het verbetertraject niet of onvoldoende tot de noodzakelijke
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe overlegt daartoe over: 
 
@@ -3808,14 +3813,14 @@ Als het dienstverband is beëindigd op grond artikel 4.7, onder k, CAO PO, met a
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:13:3  
 
@@ -3852,11 +3857,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de einddatum van het dienstverband is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband van 10 jaar of korter;  
+a. minstens € 3.000,– bij een dienstverband van 10 jaar of korter;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -3889,7 +3894,7 @@ Als ontslag is verleend op grond artikel 20a ZAPO vanwege het niet meewerken aan
 ####Meedelen reden ontslag aan werknemer
 
 1.  De werkgever heeft de reden voor het ontslag aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijk grond niet heeft meegewerkt aan zijn re-integratie.   
+2.  De werkgever legt daartoe over het ontslagbesluit waaruit onderbouwd blijkt dat de werknemer zonder deugdelijk grond niet heeft meegewerkt aan zijn re-integratie   
 3.  Tevens overlegt de werkgever een afschrift van het advies van het UWV als bedoeld in artikel 20a, tweede lid, ZAPO.  
 
 ### Paragraaf  5.2  
@@ -3933,7 +3938,7 @@ a. welke beperkingen de werknemer heeft voor het uitoefenen van zijn eigen funct
 
 b. welke mogelijkheden zijn onderzocht om zijn eigen functie aan te passen;  
 
-c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen.     
+c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan te passen     
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever afschriften van andere ter zake overtuigende documenten zoals schriftelijke uitnodigingen aan de werknemer voor gesprekken, offertes van aanbieders voor begeleiding van werknemer of facturen van aanbieders voor begeleiding van de werknemer.  
 
 ### Artikel  5:18:3  
@@ -3945,7 +3950,7 @@ c. de conclusie dat het niet mogelijk is de eigen functie van de werknemer aan t
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4000,7 +4005,7 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4071,14 +4076,14 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan als bedoeld in artikel 19, tweede lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:23:3  
 
@@ -4112,7 +4117,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4132,7 +4137,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor het niet voortzetten van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over ter zake doende documenten waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet verlangd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet.  
+2.  De werkgever legt daartoe over ter zake doende documenten waaruit onderbouwd blijkt dat er sprake is van gewichtige omstandigheden op grond waarvan de werkgever van oordeel is dat redelijkerwijs niet verlangd kan worden dat het dienstverband van werknemer nog langer wordt voortgezet  
 
 ### Artikel  5:24:2  
 
@@ -4175,7 +4180,7 @@ d. andere ter zake overtuigende documenten waaruit blijkt dat, en wanneer de ges
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4286,7 +4291,7 @@ b. de periode waarvoor de aanstelling is aangegaan.
 
 ### Artikel  5:31  
 
-####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof (Artikel 8.2, onder 6, CAO PO) en verleend verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8.2, achtste lid, CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens gecompenseerd vakantieverlof, vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de Wet arbeid en zorgen verleend en verlof indien werknemer door ziekte minder dan 20 dagen vakantieverlof heeft genoten (artikel 8B.1, vijfde lid, CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, van de CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:31:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -4294,7 +4299,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder
 
 ####Aantonen vervanging wegens gecompenseerd vakantieverlof
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot op grond van artikel 8.2, zesde lid, of artikel 8.2, achtste lid, van de CAO PO.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die gecompenseerd vakantieverlof genoot vanwege eerder genoten zwangerschaps-bevallingsverlof op grond van de Wet arbeid en zorg, of artikel 8B.1, vijfde lid van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de werknemer die de afwezige werknemer heeft vervangen, waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -4310,7 +4315,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  5:32  
 
-####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (Artikel 8.6 CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, van de CAO PO); vanwege vervanging afwezige wegens opnieuw verleend verlof (Artikel 8B.2 CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:32:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -4318,7 +4323,7 @@ Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder
 
 ####Aantonen vervanging wegens opnieuw verleend verlof
 
-1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8.6 van de CAO PO.   
+1.  De werkgever toont aan dat de werknemer was benoemd in een tijdelijk dienstverband wegens vervanging van een afwezige werknemer die opnieuw verleend verlof genoot op grond van artikel 8B.2 van de CAO PO.   
 2.  De werkgever legt daartoe over een afschrift van de akte van aanstelling van de vervanger waarin is opgenomen: 
 
 a. de naam van de afwezige; en  
@@ -4334,7 +4339,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 ### Artikel  5:33  
 
-####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegensbuitengewoon verlof (Artikel 8.7 tot en met 8.9, artikel 8.11 tot en met 8.13, artikel 8.15 of artikel 8.18 CAO PO)
+####Grondslag vergoedingsverzoek: niet voortzetten van tijdelijk dienstverband (Artikel 4.4, onder a, CAO PO); vanwege vervanging afwezige wegens buitengewoon verlof (Artikel 8.7 tot en met 8.9, artikel 8.11 tot en met 8.13, artikel 8.15 of artikel 8.18 CAO PO)
 
 Als het tijdelijk dienstverband dat is aangegaan op grond van artikel 4.4, onder a, CAO PO, niet wordt voortgezet, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:33:1 heeft voldaan en de in dat artikel genoemde documenten heeft overgelegd. 
 
@@ -4498,7 +4503,7 @@ b. een afschrift van ter zake overtuigende documenten waaruit blijkt dat de werk
 
 Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat sprake is van het niet meewerken aan re-integratie als bedoeld in artikel 20a ZAPO, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:39:1 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
-### Artikel  5:39:1 
+### Artikel  5:39:1  
 
 ####Meedelen reden niet voortzetten dienstverband aan werknemer
 
@@ -4520,7 +4525,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Reden ontslag aan werknemer meedelen
 
-1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
+1.  De werkgever heeft de reden van het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
 
 ### Artikel  5:40:2  
@@ -4532,14 +4537,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de *WPO*, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:40:3  
 
@@ -4564,19 +4569,19 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 i. personeel in tijdelijke dienst dat gehandhaafd blijft;  
 
-ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is benoemd;  
+ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is benoemd;  
 
-iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
+iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
 
-iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is getreden;  
+iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:40:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:40:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
 
 ### Artikel  5:40:5  
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:40:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:40:2 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:40:6  
 
@@ -4605,11 +4610,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4636,7 +4641,7 @@ Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat 
 
 a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan *en*   
 
@@ -4654,7 +4659,7 @@ a. hij met de bonden overeenstemming heeft bereikt over de omvang van het format
 
 b. de beëindiging van het dienstverband met wederzijds goedvinden tijdens de looptijd van het sociaal plan, conform de in het sociaal plan gemaakte afspraken is; *dan wel*   
 
-a. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.     
+c. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.     
 2.  De werkgever legt daartoe over het sociaal plan.   
 3.  Tevens overlegt de werkgever ter zake overtuigende documenten waaruit blijkt dat de werkgever en de bonden gezamenlijk van oordeel zijn dat het formatieve probleem, nog niet door middel van reductie van de omvang van het personeelsbestand, volledig was opgelost op de datum van 
 
@@ -4698,7 +4703,7 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 
 a. hij met de bonden overeenstemming heeft bereikt over de omvang van het formatieve probleem dat zou kunnen leiden tot gedwongen ontslag na afloop van de tweede fase van het sociaal plan; en  
 
-b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.     
+b.. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gemaakte afspraken is.     
 2.  De werkgever legt daartoe over het sociaal plan.   
 3.  Tevens overlegt de werkgever ter zake overtuigende documenten waaruit blijkt dat de werkgever en de bonden gezamenlijk van oordeel zijn dat het formatieve probleem, nog niet volledig door middel van reductie van de omvang van het personeelsbestand, was opgelost op de datum ontslag.  
 
@@ -4719,14 +4724,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ####Reden ontslag aan werknemer meedelen
 
-1.  De werkgever heeft de reden van het ontslag aan aan de werknemer meegedeeld.   
+1.  De werkgever heeft de reden van het ontslag aan de werknemer meegedeeld.   
 2.  De werkgever legt daartoe over een afschrift van het ontslagbesluit.  
 
 ### Artikel  5:43:2  
 
-####Daling materiele bekostiging per 1 januari 2015
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  5:43:3  
@@ -4735,36 +4740,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-* Het dienstverband wordt beëindigd per 1 augustus 2014, *of*   
+* Het dienstverband wordt beëindigd per 1 augustus 2015, *of*   
 
-* Het dienstverband wordt beëindigd per 1 januari 2015, *of*   
+* Het dienstverband wordt beëindigd per 1 januari 2016, *of*   
 
-* Het dienstverband wordt beëindigd per 1 augustus 2015.     
+* Het dienstverband wordt beëindigd per 1 augustus 2016     
 2.  De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 5:43:3 onder A, B of C: 
 
-A. beëindiging dienstverband per 1 augustus 2014 
+A. beëindiging dienstverband per 1 augustus 2015 
 
-1. Indien het ontslag geeffectueerd wordt per 1 augustus 2014 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. beëindiging dienstverband per 1 januari 2015 
+B. beëindiging dienstverband per 1 januari 2016 
 
-1. Indien het ontslag geeffectueerd wordt per 1 januari 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 januari 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-C. beëindiging dienstverband per 1 augustus 2015 
+C. beëindiging dienstverband per 1 augustus 2016 
 
-1. Indien het ontslag geeffectueerd wordt per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het ontslag geeffectueerd wordt per 1 augustus 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2015 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.      
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere beëindigde dienstverbanden van schoonmaakpersoneel vanaf 1 januari 2016 tot en met de datum van ontslag aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  5:43:4  
 
@@ -4779,11 +4784,11 @@ Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge vol
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4811,7 +4816,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan het ontslag, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
 
 ### Artikel  5:44:3  
 
@@ -4836,13 +4841,13 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 i. personeel in tijdelijke dienst dat gehandhaafd blijft;  
 
-ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is benoemd;  
+ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is benoemd;  
 
-iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
+iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
 
-iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is getreden;  
+iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:44:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:44:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
 
 ### Artikel  5:44:5  
 
@@ -4873,11 +4878,11 @@ Als er meerdere ontslagen gemeld worden, overlegt de werkgever de onderlinge vol
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4890,7 +4895,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: Opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
-Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:45:1 tot en met 5:45:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 10.5 van de CAO-PO voert en er is sprake van een daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie, waaronder ook begrepen subsidie voor een combinatiefunctie als bedoeld in het document ‘bestuurlijke afspraken Impuls brede scholen’, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als ontslag is verleend op grond van artikel 4.7, onder d, CAO PO, te weten op grond van opheffing van de instelling of de dienst van de instelling of de betrekking en de werkgever heeft aan de voorwaarden genoemd in artikel 5:45:1 tot en met 5:45:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:45:1  
 
@@ -4913,11 +4918,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -4965,7 +4970,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:47:2  
 
@@ -4976,14 +4981,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:47:3  
 
@@ -5008,19 +5013,19 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 i. personeel in tijdelijke dienst dat gehandhaafd blijft;  
 
-ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is benoemd;  
+ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is benoemd;  
 
-iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
+iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
 
-iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is getreden;  
+iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:47:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:47:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
 
 ### Artikel  5:47:5  
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:47:2 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:47:2 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:47:6  
 
@@ -5049,11 +5054,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5073,14 +5078,14 @@ Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van 
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:48:2  
 
 ####Sociaal Plan in geval daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de rijksbekostiging van personeel en financiële bijdragen van derden de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling bekostiging bij werkgelegenheidsbeleid’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling bekostiging bij werkgelegenheidsbeleid” waaruit blijkt dat 
 
 a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de beëindiging van het dienstverband, een daling in de rijksbekostiging van personeel en financiële bijdragen van derden heeft voorgedaan *en*   
 
@@ -5132,7 +5137,7 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:49:2  
 
@@ -5166,13 +5171,13 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:50:2  
 
-####Daling materiele bekostiging per 1 januari 2014
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2014, vergeleken met de totale rijksbekostiging Materieel per 31 december 2013, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  5:50:3  
@@ -5181,36 +5186,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-* Het dienstverband wordt beëindigd per 1 augustus 2014, *of*   
+* Het dienstverband wordt beëindigd per 1 augustus 2015, *of*   
 
-* Het dienstverband wordt beëindigd per 1 januari 2015, *of*   
+* Het dienstverband wordt beëindigd per 1 januari 2016, *of*   
 
-* Het dienstverband wordt beëindigd per 1 augustus 2015.     
+* Het dienstverband wordt beëindigd per 1 augustus 2016     
 2.  De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 5:50:3 onder A, B of C: 
 
-A. beëindiging dienstverband per 1 augustus 2014 
+A. beëindiging dienstverband per 1 augustus 2015 
 
-1. Indien het dienstverband wordt beëindigd per 1 augustus 2014 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 augustus 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. beëindiging dienstverband per 1 januari 2015 
+B. beëindiging dienstverband per 1 januari 2016 
 
-1. Indien het dienstverband wordt beëindigd per 1 januari 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 januari 2016 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-C. beëindiging dienstverband per 1 augustus 2015 
+C. beëindiging dienstverband per 1 augustus 2016 
 
-1. Indien het dienstverband wordt beëindigd per 1 augustus 2015 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
+1. Indien het dienstverband wordt beëindigd per 1 augustus 2016 dan toont de werkgever aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere niet voortgezette/beëindigde dienstverbanden en natuurlijk verloop, minimaal gelijk is aan de omvang van het gemelde ontslag.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.      
+3. Tevens overlegt de werkgever een gespecificeerde opgave in loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere niet voortgezette/ beëindigde dienstverbanden van schoonmaakpersoneel in de periode vanaf 1 januari 2016 aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  5:50:4  
 
@@ -5225,11 +5230,11 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5249,7 +5254,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:51:2  
 
@@ -5257,7 +5262,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de beëindiging van het dienstverband is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van de beëindiging van het dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van de datum van de beëindiging van het dienstverband is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het dienstverband met wederzijds goedvinden is beëindigd, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.  
 
 ### Artikel  5:51:3  
 
@@ -5282,21 +5287,21 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 i. personeel in tijdelijke dienst dat gehandhaafd blijft;  
 
-ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is benoemd;  
+ii. personeel in tijdelijke dienst dat, in de periode tussen het sluiten van de beëindigingsovereenkomst of de ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is benoemd;  
 
-iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
+iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de datum van niet voortzetting/ beëindiging van het dienstverband, een uitbreiding van de betrekking heeft gehad;  
 
-iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/beëindiging van het dienstverband, in vaste dienst is getreden;  
+iv. personeel dat, in de periode tussen de datum van het sluiten van de beëindigingsovereenkomst of ontslagaanzegging en de van niet voortzetting/ beëindiging van het dienstverband, in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:51:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:51:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. t/m. v. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v. is benoemd.  
 
-### Artikel  5:51:5  
+### artikel  5:51:5  
 
 ####Afvloeiingsvolgorde
 
-Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
+Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betreft die in een Vast dienstverband was of waren benoemd, terwijl het tijdelijke dienstverband in dezelfde functie van één of meer werknemers niet wordt beëindigd. 
 
-### Artikel  5:51:6  
+### artikel  5:51:6  
 
 ####Toetsingsdatum
 
@@ -5304,7 +5309,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 2.  Een vergoedingsverzoek op grond van dit artikel van een beëindigd dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het beëindigen van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
-### Artikel  5:51:7  
+### artikel  5:51:7  
 
 ####Inspanning behoud werknemer voor eigen organisatie
 
@@ -5312,18 +5317,18 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer of werknemers betre
 2.  De werkgever legt daartoe over de modelverklaring ‘Herplaatsingsonderzoek’, die door beide partijen is ondertekend. Uit deze verklaring blijkt dat de werkgever met de werknemer de herplaatsingsmogelijkheden binnen de eigen organisatie en/of participerende organisaties binnen het samenwerkingsverband heeft besproken. Tevens blijkt daar uit dat de werkgever heeft geconcludeerd dat die mogelijkheden ontbreken of redelijkerwijs niet te realiseren zijn.   
 3.  Als de werknemer de verklaring weigert te ondertekenen, overlegt de werkgever andere ter zake overtuigende documenten zoals een brief aan de werknemer waarin de werkgever gemotiveerd meedeelt dat, en waarom, er geen herplaatsingsmogelijkheden zijn.  
 
-### Artikel  5:51:8  
+### artikel  5:51:8  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5332,7 +5337,7 @@ a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ wa
 b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
-### Artikel  5:52  
+### artikel  5:52  
 
 ####Grondslag vergoedingsverzoek: beëindiging met wederzijds goedvinden (artikel 4.7, onder k, vierde lid CAO PO) vanwege opheffing betrekking (artikel 4.7, onder d, CAO PO) vanwege daling of beëindiging van een landelijke door de overheid beschikbaar gestelde subsidie voor werkgever met ontslagbeleid
 
@@ -5343,7 +5348,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:52:2  
 
@@ -5359,11 +5364,11 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5383,7 +5388,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 ####Meedelen reden beëindiging dienstverband aan werknemer
 
 1.  De werkgever heeft de reden voor de beëindiging van het dienstverband aan de werknemer meegedeeld.   
-2.  De werkgever legt daartoe over de beëindigingsovereenkomst.  
+2.  De werkgever legt daartoe over de beëindigingsovereenkomst  
 
 ### Artikel  5:53:2  
 
@@ -5418,14 +5423,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen.  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:54:2  
 
@@ -5443,7 +5448,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:54:3  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
@@ -5451,7 +5456,7 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:54:5  
 
@@ -5459,7 +5464,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:54:1 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
-### Artikel  5:54:6  
+### artikel  5:54:6  
 
 ####Toetsingsdatum
 
@@ -5467,7 +5472,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 2.  Een vergoedingsverzoek op grond van dit artikel van een niet voortgezet dienstverband per een andere datum dan genoemd in het eerste lid van dit artikel, wordt per deze andere datum getoetst, indien de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich heeft voorgedaan direct voorafgaand aan de datum van het niet voortzetten van het dienstverband.   
 3.  Een vergoedingsverzoek van een beëindigd dienstverband op grond van dit artikel per 1 augustus van het volgend schooljaar, terwijl de daling van de rijksbekostiging van personeel en financiële bijdragen van derden zich eerder heeft voorgedaan maar de werkgever door het bepaalde van artikel 2.7 en 10.4, zesde lid, van de CAO-PO niet eerder tot beëindiging van het dienstverband kon overgaan, wordt getoetst op basis van het Reglement dat per die datum van 1 augustus van kracht is.  
 
-### Artikel  5:54:7  
+### artikel  5:54:7  
 
 ####Ondersteuning werknemer bij verwerven werkkring buiten eigen organisatie
 
@@ -5476,7 +5481,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5489,7 +5494,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege opheffing van de betrekking voor werkgever met werkgelegenheidsbeleid
 
-Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:55:1 tot en met 5:55:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van de CAO-PO voert en er is sprake van daling van de rijksbekostiging van personeel en financiële bijdragen van derden, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:55:1 tot en met 5:55:5 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:55:1  
 
@@ -5500,14 +5505,14 @@ Als de werkgever, die de werkgelegenheidsbeleid als bedoeld in artikel 10.2 van 
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen.  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO *en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in* artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:55:2  
 
@@ -5520,7 +5525,7 @@ d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de ande
 
 ####Uitgestelde beëindiging van het dienstverband
 
-Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2012–2013, 2013–2014 en 2014–2015 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2013 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
+Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan wordt de vergelijking op bestuursniveau over drie schooljaren gemaakt. In de vergelijking wordt de rijksbekostiging van personeel en financiële bijdragen van derden zoals beschreven in artikel 5:54:1 in de schooljaren 2013–2014, 2014–2015 en 2015–2016 vergeleken. Daarna volgt een vergelijking van de rijksbekostiging van personeel en financiële bijdragen van derden tot de datum waarop het dienstverband beëindigd is, ten opzichte van de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. De daling rijksbekostiging van personeel en financiële bijdragen van derden per 1 augustus 2014 wordt opgeteld bij de daling, of in mindering gebracht op de rijksbekostiging van personeel en financiële bijdragen van derden per de datum van beëindiging van het dienstverband. 
 
 ### Artikel  5:55:4  
 
@@ -5539,7 +5544,7 @@ Indien er sprake is van uitgestelde beëindiging van een dienstverband, dan word
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5552,7 +5557,7 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid, CAO PO) vanwege reorganisatie
 
-Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:56:4 voldaan en de in die artikelen genoemde documenten overgelegd. 
+Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de rechtspositionele gevolgen van een reorganisatie als bedoeld in artikel 13.2 lid 5 onder a van de CAO PO en in dat kader een met de bonden overeengekomen sociaal plan, zoals bedoeld in artikel 10.3 van de CAO PO uitvoert of heeft uitgevoerd, dan komt een vergoedingsverzoek voor toewijzing in aanmerking als het dienstverband dat voor bepaalde tijd is aangegaan op grond van artikel 4.6, tweede lid, van de CAO PO na het verstrijken van de tijd waarvoor deze is aangegaan, niet is voortgezet met als reden, opheffing van de instelling of de dienst van de instelling of de betrekking zoals bedoeld in artikel 4.7, onder d, CAO PO en de werkgever heeft aan de voorwaarden genoemd in artikel 5:56:1 tot en met 5:56:3 voldaan en de in die artikelen genoemde documenten overgelegd. 
 
 ### Artikel  5:56:1  
 
@@ -5588,9 +5593,9 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  5:57:1  
 
-####Daling materiele bekostiging per 1 januari 2015
+####Daling materiele bekostiging per 1 januari 2016
 
-1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2015, vergeleken met de totale rijksbekostiging Materieel per 31 december 2014, zijn gedaald.   
+1.  De werkgever toont aan dat de rijksbekostiging materieel op 1 januari 2016, vergeleken met de totale rijksbekostiging Materieel per 31 december 2015, zijn gedaald.   
 2.  De werkgever legt daartoe over de vergelijking van de rijksbekostiging Materieel. De werkgever gebruikt daarvoor de modelberekening ‘kostenvergelijking materieel’ van het Participatiefonds.  
 
 ### Artikel  5:57:2  
@@ -5599,36 +5604,36 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  In geval van een daling van de rijksbekostiging materiele instandhouding kan op drie data het dienstverband van schoonmaakpersoneel beëindigen: 
 
-* Het dienstverband wordt beëindigd per 1 augustus 2014, *of*   
+* Het dienstverband wordt beëindigd per 1 augustus 2015, *of*   
 
-* Het dienstverband wordt beëindigd per 1 januari 2015, *of*   
+* Het dienstverband wordt beëindigd per 1 januari 2016, *of*   
 
-* Het dienstverband wordt beëindigd per 1 augustus 2015.     
+* Het dienstverband wordt beëindigd per 1 augustus 2016     
 2.  De werkgever overlegt, afhankelijk van de ontslagdatum, de vergelijking zoals bepaald in artikel 5:57:3 onder A, B of C: 
 
-A. dienstverband wordt niet voortgezet per 1 augustus 2014 
+A. dienstverband wordt niet voortgezet per 1 augustus 2015 
 
-1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2014 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de verwachte omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-B. dienstverband wordt niet voortgezet per 1 januari 2015 
+B. dienstverband wordt niet voortgezet per 1 januari 2016 
 
-1. Indien het dienstverband niet wordt voortgezet per 1 januari 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+1. Indien het dienstverband niet wordt voortgezet per 1 januari 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2014 aan de hand van de loonkostentool van het Participatiefonds.    
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.    
 
-C. beëindiging dienstverband per 1 augustus 2015 
+C. beëindiging dienstverband per 1 augustus 2016 
 
-1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2015 dan wordt de materiele instandhouding over de jaren 2014 en 2015 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2015 ten opzichte van de vergoeding per 1 januari 2014, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
+1. Indien het dienstverband niet wordt voortgezet per 1 augustus 2016 dan wordt de materiele instandhouding over de jaren 2015 en 2016 vergeleken. De werkgever toont aan dat de daling van de vergoeding per 1 januari 2016 ten opzichte van de vergoeding per 1 januari 2015, inclusief andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel en natuurlijk verloop, minimaal gelijk is aan de omvang van het dienstverband dat niet wordt voortgezet.  
 
-2. De werkgever legt daartoe over een vergelijking over de jaren 2014 en 2015.  
+2. De werkgever legt daartoe over een vergelijking over de jaren 2015 en 2016.  
 
-3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2015 aan de hand van de loonkostentool van het Participatiefonds.      
+3. Tevens overlegt de werkgever een gespecificeerde opgave van de loonkosten van de omvang van het natuurlijk verloop van schoonmaakpersoneel en de andere dienstverbanden die niet worden voortgezet/beëindigd van schoonmaakpersoneel in een periode vanaf 1 januari 2016 aan de hand van de loonkostentool van het Participatiefonds.      
 
 ### Artikel  5:57:3  
 
@@ -5639,13 +5644,13 @@ C. beëindiging dienstverband per 1 augustus 2015
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden.     
+b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  5:58  
@@ -5660,7 +5665,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 1.  De werkgever toont aan dat het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband, direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband, vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband per de datum van het ontslag, is gedaald.   
 2.  De werkgever legt daartoe over documenten waaruit blijkt dat de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband direct voorafgaand aan de datum van het niet voortzetten van het tijdelijk dienstverband vergeleken met het bedrag dat gemoeid gaat met de totale bekostiging Centrale Dienst dan wel Samenwerkingsverband per de datum van het van het niet voortzetten van het tijdelijk dienstverband is gedaald.   
-3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband.  
+3.  Het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum waarop het tijdelijk dienstverband niet is voortgezet, wordt op het bedrag dat gemoeid is met de daling bekostiging voor de Centrale Dienst dan wel Samenwerkingsverband.  
 
 ### Artikel  5:58:2  
 
@@ -5707,13 +5712,13 @@ Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voo
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden.     
+b. minstens € 1.000,– bij een dienstverband langer dan 6 maanden maar korter dan 12 maanden;     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
 a. een afschrift van de modelbrief ‘verlengd aanbod ondersteuning extern’ waaruit blijkt dat hij het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag; of  
 
-b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag.     
+b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod ondersteuning extern’ dan overlegt hij andere ter zake overtuigende documenten waaruit blijkt dat de werkgever het aanbod aan de werknemer om hem te ondersteunen bij het verwerven van een werkkring buiten de eigen organisatie heeft verlengd tot 3 maanden na de eerste WW-dag     
 5.  Weigert de werknemer de verklaring zoals bedoeld in lid 2 van dit artikel te ondertekenen dan overlegt de werkgever andere ter zake overtuigende documenten waaruit blijkt dat de werkgever activiteiten heeft ingekocht om de werknemer te begeleiden naar ander werk, zoals een offerte en factuur, waarbij de waarde van de ingekochte activiteiten minstens overeenkomt met de bedragen zoals genoemd in lid 2 van dit artikel.  
 
 ### Artikel  5:59  
@@ -5738,7 +5743,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5766,7 +5771,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  5:60:2  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
@@ -5779,21 +5784,21 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:60:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:60:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:60:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:60:*1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel *5:60:3*.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel *5:60:3* aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -5816,7 +5821,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:60:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:60:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:60:6  
 
@@ -5828,7 +5833,7 @@ Een vergoedingsverzoek wordt afgewezen als het een werknemer betreft die in een 
 
 ####Vergelijking per onderwijssoort
 
-Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel 5:60:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
+Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die wordt geconfronteerd met een daling van de rijksbekostiging maakt de vergelijking, zoals genoemd in artikel *5:60*:3 voor de onderwijssoort waar de daling zich heeft voorgedaan. Is er een daling bij beide schoolsoorten dan maakt de werkgever per schoolsoort een vergelijking. 
 
 ### Artikel  5:60:8  
 
@@ -5845,11 +5850,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever legt daartoe over de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -5876,7 +5881,7 @@ Als de werkgever, ontslag verleend op grond van artikel 4.7, onder d, CAO PO, te
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat 
+2.  De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat 
 
 I. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en  
 
@@ -5936,20 +5941,20 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
 3.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:62:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:62:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel *5:62*:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:62:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -5960,7 +5965,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:62:5  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
 
 1.  Indien de werkgever een werknemer in vaste dienst heeft ontslagen dan geeft de werkgever aan of er op de datum van beëindiging van het dienstverband sprake is van: 
 
@@ -5972,7 +5977,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:62:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:62:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en iv. met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:62:6  
 
@@ -5999,11 +6004,11 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 1.  Nadat de werkgever heeft geconcludeerd dat de werknemer niet behouden kan blijven voor de eigen organisatie heeft hij de werknemer ondersteuning geboden bij het verwerven van een werkkring buiten de eigen organisatie.   
 2.  De werkgever overlegt daartoe de modelverklaring ‘aanbod ondersteuning extern’, die door beide partijen, voor de ontslagdatum is ondertekend. Uit de verklaring blijkt welke activiteiten de werkgever heeft ingekocht om de werknemer te begeleiden naar ander werk. De waarde van de ingekochte activiteiten hangt af van de duur van het dienstverband bij de werkgever en vertegenwoordigt een bedrag van: 
 
-a. minstens € 3.000,-- bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
+a. minstens € 3.000,– bij een dienstverband langer dan 12 maanden maar korter dan 10 jaar;  
 
-b. minstens € 4.000,-- bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
+b. minstens € 4.000,– bij een dienstverband langer dan 10 jaar maar korter dan 20 jaar;  
 
-c. minstens € 5.000,-- bij een dienstverband van 20 jaar of langer.     
+c. minstens € 5.000,– bij een dienstverband van 20 jaar of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever overlegt daartoe: 
 
@@ -6024,7 +6029,7 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 ### Artikel  5:63:1  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 1.  De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol.  
 
@@ -6037,14 +6042,14 @@ Als de werkgever, die de regeling ontslagbeleid als bedoeld in artikel 10.4 en 1
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
-3.  Tevens overlegt de werkgever een afschrift van de passage van het zorgplan 2013–2014 als bedoeld in artikel 19, tweede lid, onder b van de WPO en een afschrift van de passage van het ondersteuningsplan 2014–2015 als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+3.  Tevens overlegt de werkgever een afschrift van de passage van het ondersteuningsplan als bedoeld in artikel 18a, achtste lid, onder b van de WPO, over de inzet van de bekostiging van de zorgvoorzieningen in de periode tot en per de datum van de beëindiging van het dienstverband.   
 4.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+5.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:63:3  
 
@@ -6062,7 +6067,7 @@ c. De werkgever neemt tenslotte de loonkosten van de werknemer of de werknemers 
 
 ### Artikel  5:63:4  
 
-####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend.
+####Onderbouwing reden dat voor de juiste persoon/personen het vergoedingsverzoek is ingediend
 
 Indien de werkgever van een werknemer het tijdelijk dienstverband niet heeft voortgezet, dan geeft hij aan dat er op de datum waarop het dienstverband van rechtswege eindigde, geen vacature voor de functie van werknemer was waarin de werknemer benoemd had kunnen worden. 
 
@@ -6095,7 +6100,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever legt daartoe over: 
 
@@ -6115,7 +6120,7 @@ Als de werkgever met de centrales in het DGO overleg heeft gevoerd over de recht
 ####Sociaal Plan in geval daling bekostiging als gevolg van de invoering passend onderwijs
 
 1.  De werkgever toont aan dat hij met de vakcentrales in het DGO het sociaal plan is overeengekomen omdat hij wegens daling van de financiële bijdragen van derden als gevolg van de invoering passend onderwijs de werkgelegenheidsgarantie niet meer kon garanderen.   
-2.  De werkgever legt daartoe over de modelverklaring ‘Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs’ waaruit blijkt dat: 
+2.  De werkgever legt daartoe over de modelverklaring “Daling financiële bijdragen van derden als gevolg van de invoering passend onderwijs” waaruit blijkt dat: 
 
 I. de werkgever uitsluitend als gevolg van deze daling van de financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven en  
 
@@ -6144,7 +6149,7 @@ b. het ontslag meteen na afloop van fase twee conform de in het sociaal plan gem
 
 ####Grondslag vergoedingsverzoek: niet voortzetten tijdelijk dienstverband (artikel 4.6, eerste lid CAO PO) vanwege met name genoemde redenenvan gewichtige aard (artikel 4.7, onder k, CAO PO te weten kwalitatieve fricties, als gevolg van de invoering van passend onderwijs
 
-Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is van met name genoemde redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikelen 5:65:1 tot en met 5:65:7 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
+Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het is aangegaan niet wordt voortgezet omdat de werkgever van oordeel is dat er sprake is van met name genoemde redenen van gewichtige aard zoals bedoeld in artikel 4.7, onder k, van de CAO PO, vanwege kwalitatieve fricties, als gevolg van de invoering van passend onderwijs, omdat naar het oordeel van de werkgever het anders onmogelijk wordt het gevraagde onderwijs te verzorgen of de verlangde taken uit te voeren, dan komt de werkgever voor toewijzing van een vergoedingsverzoek in aanmerking indien de werkgever aan de voorwaarden genoemd in artikel 5:65:1 tot en met 5:65:9 heeft voldaan en de in die artikelen genoemde documenten heeft overgelegd. 
 
 ### Artikel  5:65:1  
 
@@ -6155,7 +6160,7 @@ Als het tijdelijk dienstverband na het verstrijken van het tijdvak waarvoor het 
 
 ### Artikel  5:65:2  
 
-####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol.
+####Overleg, gericht op overeenstemming conform vigerende regel overlegprotocol
 
 De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de strekking van het tripartiet convenant over de personele gevolgen overleg heeft gevoerd met het samenwerkingsverband, de betrokken besturen en de vakorganisaties, gericht op overeenstemming conform de vigerende regels van het overlegprotocol. 
 
@@ -6168,20 +6173,20 @@ De werkgever toont aan met ter zake overtuigende documenten dat hij volgens de s
 
 a. alle door de werkgever op bestuursniveau ontvangen bedragen rijksbekostiging van personeel en financiële bijdragen van derden, worden in de vergelijking opgenomen, tenzij in de volgende leden van dit artikel anders wordt vermeld;  
 
-b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+b. de bedragen die gemoeid gaan met het budget voor personeels- en arbeidsmarktbeleid worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2013–2014 en schooljaar 2014–2015 opgenomen;  
+c. de bedragen die gemoeid gaan met de Regeling prestatiebox primair onderwijs worden voor 65% in de vergelijking van schooljaar 2014–2015 en schooljaar 2015–2016 opgenomen;  
 
-d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
+d. het bedrag dat gemoeid is met de omvang van het natuurlijk verloop en de andere niet voortgezette/beëindigde dienstverbanden in de periode van zes maanden voorafgaand aan en per de datum van het ontslag wordt op het bedrag dat gemoeid is met de daling rijksbekostiging van personeel en financiële bijdragen van derden in mindering gebracht.     
 3.  Als de werkgever is aangesloten bij een samenwerkingsverband waarvan de aangesloten werkgevers hebben besloten dat zij zich gedragen als ware het samenwerkingsverband één werkgever voor wat betreft de rijksbekostiging van personeel en financiële bijdragen van derden, dan neemt de werkgever de bedragen rijksbekostiging van personeel en financiële bijdragen van derden op het niveau van het samenwerkingsverband in de vergelijking op.   
-4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2014–2015 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2013–2014 (herkenbaar) bij de vergelijking betrokken wordt.  
+4.  Indien er sprake is van een fusie en/of overdacht van instellingen dan wel besturen, houdt de werkgever hier rekening mee, zodat de verschillende jaren vergelijkbaar blijven. Dit betekent dat als in het schooljaar 2015–2016 een extra instelling onder het bevoegd gezag ressorteert, deze instelling in het schooljaar 2014–2015 (herkenbaar) bij de vergelijking betrokken wordt.  
 
 ### Artikel  5:65:4  
 
 ####Daling bekostiging groter of gelijk aan loonkosten op jaarbasis
 
-1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:65:2.   
-2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:2 aan de hand van de loonkostentool van het Participatiefonds.   
+1.  De werkgever toont aan dat het totale bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:1 op jaarbasis, gelijk of lager is dan het bedrag dat gemoeid is met de daling genoemd in artikel 5:65:3.   
+2.  De werkgever berekent daartoe het bedrag dat gemoeid is met de loonkosten van de werknemer of werknemers, bedoeld in artikel 5:65:3 aan de hand van de loonkostentool van het Participatiefonds.   
 3.  Bij de berekening van de totale loonkosten van meerdere werknemers brengt de werkgever de volgende rangorde aan: 
 
 a. De werkgever neemt eerst de loonkosten van de werknemer of de werknemers van wie het tijdelijk dienstverband niet is voortgezet, bij de berekening in aanmerking. De werkgever mag de volgorde van melden zelf bepalen.  
@@ -6204,7 +6209,7 @@ iii. personeel in vaste of tijdelijke dienst dat, in de periode tussen ontslagaa
 
 iv. personeel dat, in de periode tussen de datum van het sluiten van de ontslagaanzegging en de ontslagdatum in vaste dienst is getreden;  
 
-v. een vacature op de datum van ontslag.   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:65:2 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
+v. een vacature op de datum van ontslag;   Als van het gestelde onder i., ii., iii., iv. of v. sprake is, in die zin dat het personeel betreft dat werkzaam is in dezelfde functie als die van de ontslagen werknemer/werknemers, dan wordt het bedrag dat gemoeid is met de daling, genoemd in artikel 5:65:3 verminderd met het bedrag dat gemoeid is met het in dienst houden of nemen van personeel genoemd in i. tot en met iv. respectievelijk met het bedrag dat gemoeid is met de loonkosten van de ontslagen werknemer die niet in de vacature, genoemd onder v., is benoemd.  
 
 ### Artikel  5:65:6  
 
@@ -6233,7 +6238,7 @@ Een werkgever die zowel werkgever is in de zin van de WPO als van de WEC en die 
 
 a. minstens € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. minstens € 1.000,-- bij een dienstverband van 6 maanden of langer.     
+b. minstens € 1.000,– bij een dienstverband van 6 maanden of langer.     
 3.  Als de werknemer geen gebruik heeft gemaakt van de in dit artikel genoemde aangeboden ondersteuning bij het verwerven van een werkkring buiten de eigen organisatie, dan verlengt de werkgever het ondersteuningsaanbod tot drie maanden na de eerste WW-dag van de werknemer.   
 4.  De werkgever overlegt daartoe: 
 
@@ -6250,20 +6255,21 @@ b. als de werkgever geen gebruik maakt van de modelbrief ‘verlengd aanbod onde
 
 ####Citeerregel
 
-Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2014–2015’. 
+Dit reglement kan worden aangehaald als het ‘Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2015–2016’. 
 
 ### Artikel  6:2  
 
 ####Inwerkingtreding
 
-Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet in de periode van 1 februari 2015 tot en met 31 juli 2015, evenals op alle dienstverbanden die niet worden voortgezet omdat functie van de werknemer per 1 februari 2015 wordt opgeheven. 
+Dit reglement treedt in werking met ingang van de dag volgend op die, waarop het in de Staatscourant is gepubliceerd en heeft betrekking op alle dienstverbanden die zijn of worden beëindigd dan wel niet worden voortgezet per of na 1 augustus 2015. 
 
 ### Artikel  6:3  
 
 ####bekendmaking
 
-1.  Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.   
-2.  Het Participatiefonds plaatst dit reglement tevens op de internetsite van het Participatiefonds www.participatiefonds.nl  
+– 1. Dit reglement wordt bekendgemaakt middels publicatie in de Staatscourant.  
+
+– 2. Het Participatiefonds plaatst dit reglement tevens op de internetsite van het Participatiefonds www.participatiefonds.nl   
 
 ### Artikel  6:4  
 
@@ -6293,7 +6299,7 @@ Wijzigt het Reglement Participatiefonds voor het Primair Onderwijs en de Experti
 
 ### Bijlage  1  
 
-####: Modelverklaring gesprekkencyclus
+####Modelverklaring gesprekkencyclus
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd. Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest: 
 
@@ -6303,21 +6309,18 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 
 * de wijze waarop de werknemer met interne of externe ondersteuning de genoemde verbetering van zijn functioneren moest bereiken en de periode waarbinnen hij deze verbetering gerealiseerd moest hebben;  
 
-* de mededeling van de werkgever aan de werknemer dat hij tot de conclusie is gekomen dat het verbetertraject niet of onvoldoende heeft geleid tot de noodzakelijke verbetering in het functioneren.    
+* de mededeling van de werkgever aan de werknemer dat hij tot de conclusie is gekomen dat het verbetertraject niet of onvoldoende heeft geleid tot de noodzakelijke verbetering in het functioneren.   Datum: Plaats:  
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| Datum  | :  | --- | --- |
-| Plaats  | :  | --- | --- |
-| --- | --- | --- | --- |
-|  *Werkgever*   | --- |  *werknemer*   | --- |
-| Naam  | :  | Naam  | :  |
-| Handtekening  | :  | Handtekening  | :  |
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Werkgever*   |  *Werknemer*   |
+| Naam:  | Naam:  |
+| Handtekening:  | Handtekening:  |
 
 ### Bijlage  2  
 
-####: Modelverklaring gesprekkencyclus ziekte en arbeidsongeschiktheid
+####Modelverklaring gesprekkencyclus ziekte en arbeidsongeschiktheid
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: Werkgever en werknemer verklaren dat ze meerdere gesprekken met elkaar hebben gevoerd. Tijdens de gesprekken zijn tenminste de volgende onderwerpen aan de orde geweest: 
 
@@ -6325,61 +6328,52 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 
 * De mogelijkheden die zijn onderzocht om zijn functie aan diens beperkingen aan te passen;  
 
-* De conclusie van de werkgever dat het niet mogelijk is de eigen functie van de werknemer aan te passen.    
+* De conclusie van de werkgever dat het niet mogelijk is de eigen functie van de werknemer aan te passen.   Datum: Plaats:  
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| Datum  | :  | --- | --- |
-| Plaats  | :  | --- | --- |
-| --- | --- | --- | --- |
-|  *Werkgever*   | --- |  *Werknemer*   | --- |
-| Naam  | :  | Naam  | :  |
-| Handtekening  | :  | Handtekening  | :  |
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Werkgever*   |  *Werknemer*   |
+| Naam:  | Naam:  |
+| Handtekening:  | Handtekening:  |
 
 ### Bijlage  3  
 
-####: Modelverklaring herplaatsingsonderzoek
+####Modelverklaring herplaatsingsonderzoek
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever en werknemer hebben met elkaar de herplaatsingsmogelijkheden binnen de eigen organisatie besproken. De werkgever heeft de werknemer tenminste geïnformeerd over: 
 
 * de wijze waarop de werkgever herplaatsingsmogelijkheden binnen de eigen organisatie heeft onderzocht;  
 
-* de conclusie van werkgever dat herplaatsingsmogelijkheden binnen de eigen organisatie ontbreken of redelijkerwijs niet te realiseren zijn.    
+* de conclusie van werkgever dat herplaatsingsmogelijkheden binnen de eigen organisatie ontbreken of redelijkerwijs niet te realiseren zijn.   Datum: Plaats:  
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| Datum  | :  | --- | --- |
-| Plaats  | :  | --- | --- |
-| --- | --- | --- | --- |
-|  *Werkgever*   | --- |  *Werknemer*   | --- |
-| Naam  | :  | Naam  | :  |
-| Handtekening  | :  | Handtekening  | :  |
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Werkgever*   |  *Werknemer*   |
+| Naam:  | Naam:  |
+| Handtekening:  | Handtekening:  |
 
 ### Bijlage  4  
 
-####: Modelverklaring herplaatsingsonderzoek ziekte en arbeidsongeschiktheid
+####Modelverklaring herplaatsingsonderzoek ziekte en arbeidsongeschiktheid
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever en werknemer hebben met elkaar gesproken over herplaatsingsmogelijkheden binnen de eigen organisatie. De werkgever heeft de werknemer er tenminste over geïnformeerd dat: 
 
-* uit zorgvuldig onderzoek is gebleken dat voor de werknemer geen reële herplaatsingsmogelijkheden zijn;  
+* uit zorgvuldig onderzoek is gebleken dat voor de werknemer geen reële herplaatsingsmogelijkheden zijn  
 
-* de werkgever bij het onderzoek ook het resultaat van de WIA-claimbeoordeling heeft betrokken en indien er deskundigenoordeel van het UWV is aangevraagd, ook het deskundigenoordeel.    
+* de werkgever bij het onderzoek ook het resultaat van de WIA-claimbeoordeling heeft betrokken en indien er deskundigenoordeel van het UWV is aangevraagd, ook het deskundigenoordeel.   Datum: Plaats:  
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | --- | --- |
-| Datum  | :  | --- | --- |
-| Plaats  | :  | --- | --- |
-| --- | --- | --- | --- |
-|  *Werkgever*   | --- |  *Werknemer*   | --- |
-| Naam  | :  | Naam  | :  |
-| Handtekening  | :  | Handtekening  | :  |
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Werkgever*   |  *Werknemer*   |
+| Naam:  | Naam:  |
+| Handtekening:  | Handtekening:  |
 
 ### Bijlage  5  
 
-####: Modelverklaring aanbod ondersteuning extern
+####Modelverklaring aanbod ondersteuning extern
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: Naam werknemer: BSN: De werkgever verklaart de volgende activiteiten te hebben ingekocht om de werknemer te begeleiden naar ander werk:  
 
@@ -6397,36 +6391,36 @@ Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernumme
 | Andere begeleiding gericht op het vinden van een baan elders  | Ja/nee  | --- |
 |  *Totaalbedrag*   | --- | --- |
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| Datum  | :  | --- | --- |
-| Plaats  | :  | --- | --- |
-| --- | --- | --- | --- |
-|  *Werkgever*   | --- |  *Werknemer*   | --- |
-| Naam  | :  | Naam  | :  |
-| Handtekening  | :  | Handtekening  | :  |
+Datum: Plaats:  
 
-<sup>1</sup> De waarde is afhankelijk van de duur van het dienstverband bij de werkgever en vertegenwoordigen: bij een vast dienstverband, een bedrag van: 
+| --- | --- |
+|:---|:---|
+| --- | --- |
+|  *Werkgever*   |  *Werknemer*   |
+| Naam:  | Naam:  |
+| Handtekening:  | Handtekening:  |
 
-a. tenminste € 3.000,-- bij een dienstverband van minder dan 10 jaar;  
+De waarde is afhankelijk van de duur van het dienstverband bij de werkgever en vertegenwoordigen: bij een vast dienstverband, een bedrag van: 
 
-b. tenminste € 4.000,-- bij een dienstverband van tenminste 10 jaar maar minder dan 20 jaren;  
+a. tenminste € 3.000,– bij een dienstverband van minder dan 10 jaar;  
 
-c. tenminste € 5.000,-- bij een dienstverband van tenminste 20 jaren.   bij een tijdelijke dienstverband: 
+b. tenminste € 4.000,– bij een dienstverband van tenminste 10 jaar maar minder dan 20 jaren;  
+
+c. tenminste € 5.000,– bij een dienstverband van tenminste 20 jaren.   bij een tijdelijke dienstverband: 
 
 a. tenminste € 500,– bij een dienstverband van minder dan 6 maanden;  
 
-b. tenminste € 1.000,-- bij een dienstverband van tenminste 6 maanden.   
+b. tenminste € 1.000,– bij een dienstverband van tenminste 6 maanden.   
 
 ### Bijlage  6  
 
-####: Modelbrief verlengd aanbod ondersteuning extern
+####Modelbrief verlengd aanbod ondersteuning extern
 
-Geachte ......, Op (Vul in: datum einde dienstverband) wordt uw dienstverband als (Vul in: functie) bij (Vul in: naam van de school), een van de scholen van (vul in: naam werkgever) beëindigd. Op (Vul in: datum schriftelijk aanbod ondersteuning) hebben wij u schriftelijk ondersteuning aangeboden bij het verwerven van een werkkring buiten onze organisatie. Tot op heden heeft u nog geen gebruik gemaakt van ons aanbod. Hierbij bieden wij u wederom ondersteuning aan bij het verwerven van een werkkring buiten onze organisatie. Als u aanspraak maakt op een WW-uitkering dan blijft ons eerder aanbod voor de ondersteuning van kracht gedurende de eerste drie maanden na de eerste WW-dag. Voor informatie over ons aanbod verwijzen wij u naar de bijlage (Als bijlage toevoegen: schriftelijk aanbod externe ondersteuning). Wij wijzen u er op dat, indien u een recht op een WW-uitkering wordt toegekend, u verplicht bent mee te werken aan uw re-integratie op de arbeidsmarkt. Indien u niet meewerkt aan uw re-integratie dan kan het UWV hier consequenties aan verbinden in de vorm van een financiële sanctie. Hoogachtend,  *...*  
+Geachte ……, Op (Vul in: datum einde dienstverband) wordt uw dienstverband als (Vul in: functie) bij (Vul in: naam van de school), een van de scholen van (vul in: naam werkgever) beëindigd. Op (Vul in: datum schriftelijk aanbod ondersteuning) hebben wij u schriftelijk ondersteuning aangeboden bij het verwerven van een werkkring buiten onze organisatie. Tot op heden heeft u nog geen gebruik gemaakt van ons aanbod. Hierbij bieden wij u wederom ondersteuning aan bij het verwerven van een werkkring buiten onze organisatie. Als u aanspraak maakt op een WW-uitkering dan blijft ons eerder aanbod voor de ondersteuning van kracht gedurende de eerste drie maanden na de eerste WW-dag. Voor informatie over ons aanbod verwijzen wij u naar de bijlage (Als bijlage toevoegen: schriftelijk aanbod externe ondersteuning). Wij wijzen u er op dat, indien u een recht op een WW-uitkering wordt toegekend, u verplicht bent mee te werken aan uw re-integratie op de arbeidsmarkt. Indien u niet meewerkt aan uw re-integratie dan kan het UWV hier consequenties aan verbinden in de vorm van een financiële sanctie. Hoogachtend, … 
 
 ### Bijlage  7  
 
-####: Modelverklaring daling bekostiging bij werkgelegenheidsbeleid
+####Modelverklaring daling bekostiging bij werkgelegenheidsbeleid
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: De werkgever verklaart dat: 
 
@@ -6434,37 +6428,28 @@ a. zich in één of meer achterliggende schooljaren, direct voorafgaand aan de b
 
 b. de werkgever uitsluitend als gevolg van deze daling in de rijksbekostiging van personeel en financiële bijdragen van derden, de werkgelegenheidsgarantie niet meer kon handhaven *en*   
 
-c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.    
-
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Datum  | :  |
-| Plaats  | :  |
-| --- | --- |
-|  *Werkgever*   | --- |
-| Naam  | :  |
-| Handtekening  | :  |
+b. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van de rijksbekostiging van personeel en financiële bijdragen van derden.   Datum: Plaats:  *Werkgever*  Naam: Handtekening: 
 
 ### Bijlage  8  
 
-####: Modelverklaring daling financiele bijdrage van derden als gevolg van de invoering passend onderwijs
+####Modelverklaring daling financiele bijdrage van derden als gevolg van de invoering passend onderwijs
 
 Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: De werkgever verklaart dat: 
 
-a. direct voorafgaand aan de beëindiging van het dienstverband, een daling van financiële bijdragen van derden als gevolg van de invoering passend onderwijs heeft voorgedaan *en*   
+a. direct voorafgaand aan de beëindiging van het dienstverband, een daling van financiële bijdragen van derden als gevolg van de invoering passend onderwijs heeft voorgedaan en  
 
-b. de werkgever uitsluitend als gevolg van deze financiële bijdrage van derden werkgelegenheidsgarantie niet meer kon handhaven *en*   
+b. de werkgever uitsluitend als gevolg van deze financiële bijdrage van derden werkgelegenheidsgarantie niet meer kon handhaven en  
 
-c. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van financiële bijdragen van derden.    
+b. er derhalve aan het beëindigen van het dienstverband niet (mede) andere redenen van financiële aard ten grondslag liggen dan genoemde daling van financiële bijdragen van derden.   Datum: Plaats:  *Werkgever*  Naam: Handtekening: 
 
-| --- | --- |
-|:---|:---|
-| --- | --- |
-| Datum  | :  |
-| Plaats  | :  |
-| --- | --- |
-|  *Werkgever*   | --- |
-| Naam  | :  |
-| Handtekening  | :  |
+### Bijlage  9  
 
+####Verzoek vrijstellingsregeling
+
+Naam werkgever: Vertegenwoordigd door de heer / mevrouw: Functie: Werkgevernummer: De werkgever wenst, op grond van artikel 3:3, derde lid, in aanmerking te komen voor een vrijstelling van de toetsing van (één van) de volgende voorwaarden: 
+
+○ reden beëindiging dienstverband  
+
+○ Behoud eigen organisatie  
+
+○ Behoud eigen functie   De werkgever voegt bewijsstukken / ter zake overtuigende documenten toe waaruit blijkt dat UWV reeds in voldoende mate heeft getoetst of aan de bovengenoemde voorwaarden, zoals vastgelegd in het reglement Participatiefonds 2015–2016, is voldaan. Datum: Plaats:  *Werkgever*  Naam: Handtekening: 

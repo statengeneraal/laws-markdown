@@ -142,13 +142,17 @@ naderingsluchtverkeersleiding: luchtverkeersleiding voor aankomende of vertrekke
 
 navigatiediensten: de faciliteiten en diensten die luchtvaartuigen voorzien van informatie op het gebied van positionering en timing;
 
-Nederlands luchtvaartuig: een in Nederland geregistreerd luchtvaartuig;  
+Nederlands luchtvaartuig: een in Nederland geregistreerd luchtvaartuig; 
+
+onderzoeksverordening: Verordening (EU) nr. 996/2010 van het Europees Parlement en de Raad van 20 oktober 2010 inzake onderzoek en preventie van ongevallen en incidenten in de burgerluchtvaart en houdende intrekking van Richtlijn 94/56/EG (PbEU 2010, L295); 
 
 opsporingsambtenaar: de ambtenaar, bedoeld in artikel 11.3, eerste lid;  
 
 plaatsbepalingsdiensten: de faciliteiten en diensten voor het bepalen van de respectieve posities van luchtvaartuigen waarmee voor een veilige separatie wordt gezorgd;
 
 plaatselijke verkeersleiding: luchtverkeersleidingsdienst voor luchtvaartterreinverkeer;
+
+prestatieverordening: Verordening (EU) nr. 390/2013 van de Commissie van 3 mei 2013 houdende vaststelling van een prestatieregeling voor luchtvaartnavigatiediensten en netwerkfuncties (PbEU 2013, L128);
 
 regeling van luchtverkeersstromen: functie die tot doel heeft bij te dragen aan een veilige, ordelijke en vlotte doorstroming van het luchtverkeer door ervoor te zorgen dat de luchtverkeersleidingscapaciteit optimaal wordt benut en dat het verkeersvolume verenigbaar is met de door de betrokken luchtverkeersdienstverleners afgegeven capaciteit;
 
@@ -160,7 +164,7 @@ veiligheidscertificaat: verklaring dat de exploitant van de luchthaven met het v
 
 veiligheidsmanagementsysteem: een systeem voor het management van de orde en de veiligheid op de luchthaven;  
 
-vergoedingenverordening: verordening (EG) nr. 1794/2006 van de Commissie van de Europese Unie van 6 december 2006 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten (PbEU L 341); 
+vergoedingenverordening: Verordening (EU) nr. 391/2013 van de Commissie van 3 mei 2013 tot vaststelling van een gemeenschappelijk heffingenstelsel voor luchtvaartnavigatiediensten (PbEU 2013, L128); 
 
 verleners van luchtvaartnavigatiediensten: de openbare of particuliere lichamen die luchtvaartnavigatiediensten voor het luchtverkeer verlenen;
 
@@ -1166,20 +1170,21 @@ Bij algemene maatregel van bestuur kan worden bepaald dat de exploitant van een 
 a. luchtvaartnavigatiediensten voor «en route»-verkeer als bedoeld in de op 12 februari 1981 te Brussel gesloten Multilaterale Overeenkomst betreffende «en route»-heffingen (Trb. 1981, 181),  
 
 b. plaatselijke luchtvaartnavigatiediensten.     
-2.  De Eurocontrol-organisatie stelt jaarlijks of, indien noodzakelijk, ook gedurende het jaar de hoogte van het eenheidstarief, bedoeld in artikel 13 van de vergoedingenverordening, vast ter berekening van de vergoeding voor luchtvaartnavigatiediensten voor «en route»-verkeer.   
-3.  Onze Minister van Infrastructuur en Milieu stelt aan de hand van voorstellen van de desbetreffende verleners van plaatselijke luchtvaartnavigatiediensten, jaarlijks of, indien noodzakelijk, ook gedurende het jaar de hoogte van het eenheidstarief, bedoeld in artikel 13 van de vergoedingenverordening, vast ter berekening van de vergoeding voor plaatselijke luchtvaartnavigatiediensten.   
+2.  De Eurocontrol-organisatie stelt jaarlijks in het kader van de op 12 februari 1981 te Brussel gesloten Multilaterale Overeenkomst betreffende «en route»-heffingen (Trb. 1981, 181), de hoogte van het eenheidstarief, bedoeld in artikel 11 van de vergoedingenverordening, vast ter berekening van de vergoeding voor luchtvaartnavigatiediensten voor «en route»-verkeer». Ter voorbereiding daarvan leggen de verleners van luchtvaartnavigatiediensten aan «en route»-verkeer» Onze Minister van Infrastructuur en Milieu, jaarlijks vóór 15 mei een voorstel voor.   
+3.  Onze Minister van Infrastructuur en Milieu stelt jaarlijks de hoogte van het eenheidstarief, bedoeld in artikel 12 van de vergoedingenverordening, vast ter berekening van de vergoeding voor plaatselijke luchtvaartnavigatiediensten. Ter voorbereiding daarvan leggen de verleners van plaatselijke luchtvaartnavigatiediensten genoemde Minister jaarlijks vóór 15 mei een voorstel voor.   
 4.  De Eurocontrol-organisatie int de vergoeding ter bestrijding van de kosten voor luchtvaartnavigatiediensten voor «en route»-verkeer en draagt aan de desbetreffende verleners van deze diensten het hun toekomende deel van het geïnde bedrag af.   
 5.  De verleners van plaatselijke luchtvaartnavigatiediensten dragen zorg voor de inning van de vergoedingen ter bestrijding van de kosten van deze diensten en stemmen daartoe onderling af.   
-6.  Bij algemene maatregel van bestuur worden heffingszones als bedoeld in artikel 4 van de vergoedingenverordening vastgesteld en worden nadere voorschriften gesteld met betrekking tot de bekendmaking en de inning van vergoedingen, bedoeld in het vierde en het vijfde lid, en de termijnen binnen welke betaling van de vergoedingen plaats moet vinden.   
+6.  Bij algemene maatregel van bestuur worden heffingszones als bedoeld in artikel 5 van de vergoedingenverordening vastgesteld en worden nadere voorschriften gesteld met betrekking tot de bekendmaking en de inning van vergoedingen, bedoeld in het vierde en het vijfde lid, en de termijnen binnen welke betaling van de vergoedingen plaats moet vinden.   
 7.  De Eurocontrol-organisatie kan rechtsvorderingen tot inning van vergoedingen als bedoeld in het vierde lid en van andere vergoedingen uit hoofde van de op 12 februari 1981 te Brussel gesloten Multilaterale Overeenkomst betreffende «en route»-heffingen (Trb. 1981, 181) uitsluitend aanhangig maken bij de rechtbank Amsterdam.   
-8.  Bij algemene maatregel van bestuur kan overeenkomstig artikel 9 van de vergoedingenverordening vrijstelling worden verleend van betaling van vergoedingen voor luchtvaartnavigatiediensten.   
-9.  Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen voorschriften worden gesteld met betrekking tot het treffen van stimuleringsmaatregelen ter verbetering van het verlenen van luchtvaartnavigatiediensten.   
+8.  Bij algemene maatregel van bestuur kan overeenkomstig artikel 10 van de vergoedingenverordening vrijstelling worden verleend van betaling van vergoedingen voor luchtvaartnavigatiediensten.   
+9.  Bij regeling van Onze Minister van Infrastructuur en Milieu worden voorschriften gesteld met betrekking tot het treffen van stimuleringsmaatregelen als bedoeld in artikel 15, eerste lid van de vergoedingenverordening. De voorschriften betreffen in ieder geval financiële stimulansen op het prestatiekerngebied capaciteit.   
 10.  De in het eerste lid, onderdeel b, bedoelde vergoeding moet worden betaald zonder dat dit bij beschikking is vastgesteld.  
-11.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden voorschriften gesteld voor de raadpleging van vertegenwoordigers van luchtruimgebruikers over het vergoedingenbeleid.  
+11.  Bij regeling van Onze Minister van Verkeer en Waterstaat worden voorschriften gesteld voor de raadpleging van vertegenwoordigers van luchtruimgebruikers over het vergoedingenbeleid.   
+12.  Onze Minister van Infrastructuur en Milieu kan besluiten tot modulering van luchtvaartnavigatieheffingen als bedoeld in artikel 16 van de vergoedingenverordening. 
 
 ### Artikel  5.21  
 
-1.  De vergoedingenverordening en artikel 5.20 zijn niet van toepassing op bij algemene maatregel van bestuur aan te wijzen luchtvaartnavigatiediensten die worden verleend op luchthavens met minder dan 50.000 commerciële luchtvervoersbewegingen per jaar, ongeacht de maximale startmassa en het aantal passagierszitplaatsen. Daarbij worden de bewegingen geteld als de som van de starts en de landingen en berekend als een gemiddelde van de voorafgaande drie jaar.   
+1.  De vergoedingenverordening en artikel 5.20 zijn niet van toepassing op bij algemene maatregel van bestuur aan te wijzen luchtvaartnavigatiediensten die worden verleend op luchthavens met minder dan 70.000 IFR luchtvervoersbewegingen per jaar, ongeacht de maximale startmassa en het aantal passagierszitplaatsen. Daarbij worden de bewegingen geteld als de som van de starts en de landingen en berekend als een gemiddelde van de voorafgaande drie jaar.   
 2.  De gebruiker van luchtvaartnavigatiediensten als bedoeld in het eerste lid is een vergoeding verschuldigd ter bestrijding van de kosten van de verlening van deze diensten. Bij algemene maatregel van bestuur worden voorschriften gesteld ten aanzien van de hoogte, de berekening, de vaststelling, de inning en de bekendmaking van deze vergoeding, en de termijn binnen welke betaling van deze vergoeding plaats moet vinden.   
 3.  De in het tweede lid bedoelde vergoeding moet worden betaald zonder dat dit bij beschikking is vastgesteld.  
 4.  Voor de toepassing van het eerste lid wordt de North Sea Area Amsterdam zijnde het gebied dat als NSA Amsterdam is gedefinieerd in de door LVNL uitgegeven luchtvaartgids, volume I, hoofdstuk ENR 6-2-5 aangemerkt als luchthaven.   
@@ -3383,7 +3388,7 @@ b. voor zover het betreft de burgerluchtvaart de hiertoe bij besluit van Onze Mi
 c. voor zover het betreft het vervoer van gevaarlijke stoffen als bedoeld in titel 6.5 en de artikelen 10.7 en 10.8 van deze wet, met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, de hiertoe bij besluit van Onze Minister van Defensie aangewezen ambtenaren; de aanwijzing kan inhouden dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde artikelen gesteld bij of krachtens deze wet;  
 
 d. voor zover het betreft titel 8A.6 de hiertoe bij besluit van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aangewezen ambtenaren.   
-2. Met het toezicht op de naleving van hetgeen bepaald is bij of krachtens de kaderverordening, de luchtvaartnavigatiedienstenverordening, de luchtruimverordening en interoperabiliteitsverordening, zijn belast de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens een van de genoemde verordeningen. 
+2. Met het toezicht op de naleving van hetgeen bepaald is bij of krachtens de verordeningen als bedoeld in artikel 11.15, onderdeel b, onder 1° tot en met 8° en 10° tot en met 11°, zijn belast de hiertoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. De aanwijzing kan inhouden, dat de betrokken ambtenaar slechts belast is met het toezicht op de naleving van een of enkele in die aanwijzing genoemde hoofdstukken of artikelen gesteld bij of krachtens een van de genoemde verordeningen. 
 3.  Onze Minister van Verkeer en Waterstaat kan met het oog op de coördinatie van het beleid ten aanzien van het toezicht algemene aanwijzingen geven aan de ambtenaren, bedoeld in het eerste lid, onderdeel a.   
 4.  Van een besluit als bedoeld in het eerste lid, de onderdelen b tot en met d, of het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
@@ -3628,7 +3633,11 @@ b.het bepaalde bij of krachtens de volgende EG verordeningen:
 
 8°. de vergoedingenverordening; 
 
-9°. de basisverordening. 
+9°. de basisverordening; 
+
+10° de prestatieverordening;  
+
+11° artikel 21, tweede lid, van de onderzoeksverordening. 
 
 ### Artikel  11.16  
 
@@ -3646,9 +3655,11 @@ e. het bepaalde bij of krachtens:
 
 1°. Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten en tot intrekking van Verordening (EEG) nr. 259/91 (PbEU L 46);  
 
-2°. Hoofdstuk III van Verordening (EG) nr. 2111/2005 van het Europees Parlement en de Raad van de Europese Unie van 14 december 2005 betreffende de vaststelling van een communautaire lijst van luchtvaartmaatschappijen waaraan een exploitatieverbod binnen de Gemeenschap is opgelegd en het informeren van luchtreizigers over de identiteit van de exploiterende luchtvaartmaatschappij en tot intrekking van artikel 9 van richtlijn nr. 2004/36/EG (PbEU L 344) en  
+2°. Hoofdstuk III van Verordening (EG) nr. 2111/2005 van het Europees Parlement en de Raad van de Europese Unie van 14 december 2005 betreffende de vaststelling van een communautaire lijst van luchtvaartmaatschappijen waaraan een exploitatieverbod binnen de Gemeenschap is opgelegd en het informeren van luchtreizigers over de identiteit van de exploiterende luchtvaartmaatschappij en tot intrekking van artikel 9 van richtlijn nr. 2004/36/EG (PbEU L 344);  
 
-3°. Verordening (EG) nr. 1107/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU L 204).       
+3°. Verordening (EG) nr. 1107/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 inzake de rechten van gehandicapten en personen met beperkte mobiliteit die per luchtvervoer reizen (PbEU L 204) en  
+
+4°. artikel 21, tweede lid, van de onderzoeksverordening.      
 2.  Een bestuurlijke boete en een last onder dwangsom kunnen tezamen worden opgelegd.   
 3. De bestuurlijke boete bedraagt ten hoogste:
 
