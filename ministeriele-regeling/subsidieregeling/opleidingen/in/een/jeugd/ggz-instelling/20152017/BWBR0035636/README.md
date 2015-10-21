@@ -120,22 +120,33 @@ E.I. Schippers
 
 |--- | Naam  | Plaats  |
 |:---|:---|:---|
-| 1.  | Curium, Academisch Centrum Kinder- en Jeugdpsychiatrie  | Leiden  |
-| 2  | Mutsaersstichting  | Venlo  |
+| 1.  | Curium, Academisch centrum Kinder- en Jeugdpsychiatrie  | Leiden  |
+| 2.  | Mutsaersstichting  | Venlo  |
 | 3.  | Jeugdhulp Friesland  | Leeuwarden  |
-| 4.  | Jutz  | Breda  |
+| 4.  | Juzt  | Breda  |
+| 5.  | Dekker & Dooyeweerd  | Ede  |
+| 6.  | Dyslexiezorg Noord-Nederland DZNN  | Joure  |
+| 7.  | Heldring en Ambulatorium  | Zetten  |
+| 8.  | MOC ’t Kabouterhuis  | Amsterdam  |
+| 9.  | Orthopedagogische Praktijk Ermelo  | Ermelo  |
+| 10.  | Praktijk Rigtering B.V  | Arnhem  |
+| 11.  | Praktijk voor leer- en gedragsadviezen  | Hilversum  |
+| 12.  | Rebis  | Oeffelt  |
+| 13.  | Jarabee  | Hengeloo  |
+| 14.  | Centraal Nederland landelijke protestants-christelijke SBD  | Nunspeet  |
 
 ### Bijlage  2  
 
-####Subsidiebedrag per opleidingsplaats in fte
+####Subsidiebedrag per opleidingsplaats per fte
 
-|  *Nr. *   | Zorgopleiding  | Subsidiebedrag per voltijdse opleidingsplaats in €  |
+| nr.  | zorgopleiding  | Subsidiebedrag per opleidingsplaats  |
 |:---|:---|:---|
-| 1.  | Gezondheidszorgpsycholoog in ggz  | 28.800  |
-| 2.  | Klinisch psycholoog in ggz  | 35.000  |
-| 3.  | Psychiater in ggz  | 47.500  |
-| 4.  | Psychotherapeut in ggz  | 47.500  |
-| --- | Prijspeil 2013  | --- |
+| 1.  | Gezondheidszorgpsycholoog in ggz  | € 29.300  |
+| 2.  | Klinisch psycholoog in ggz  | € 35.700  |
+| 3.  | Psychiater in ggz  | € 48.300  |
+| 4.  | Psychotherapeut in ggz  | € 48.300  |
+| --- | --- | --- |
+| --- | Prijspeil 2015  | --- |
 
 ### Bijlage  3  
 

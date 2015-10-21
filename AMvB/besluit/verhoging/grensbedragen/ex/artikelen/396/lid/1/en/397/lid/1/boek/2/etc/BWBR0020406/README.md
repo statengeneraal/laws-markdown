@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Justitie van 22 augustus 2006, 5434909/06
 
 Gelet op de artikelen 11, 12 en 27 van de vierde richtlijn nr. 78/660/EEG van de Raad van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), zoals gewijzigd door richtlijn 2006/46/EG van het Europees Parlement en de Raad van 14 juni 2006, tot wijziging van Richtlijnen 78/660/EEG van de Raad betreffende de jaarrekening en van bepaalde vennootschapsvormen, 83/349/EEG van de Raad betreffende de geconsolideerde jaarrekening, 86/635/EEG van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen en 91/674/EEG van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van verzekeringsondernemingen (PbEU L 224);
 
-Gelet op [artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord, advies van 31 augustus 2006, nr. W03.06.0359/I;
 

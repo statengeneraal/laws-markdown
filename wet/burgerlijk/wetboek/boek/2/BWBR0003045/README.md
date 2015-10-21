@@ -4162,12 +4162,12 @@ b. naam en woonplaats van elke maatschappij die zijn financiële gegevens consol
 3.   Artikel 379 lid 4 is van overeenkomstige toepassing.   
 
 ### Artikel  380a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 Vermeld worden de niet in de balans of winst- en verliesrekening opgenomen gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen. 
 
 ### Artikel  380b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 Meegedeeld worden: 
 
@@ -4180,12 +4180,12 @@ c. de zetel van de rechtspersoon; en
 d. het door de Kamer van Koophandel toegekende nummer bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007, waaronder de rechtspersoon in het handelsregister is ingeschreven.   
 
 ### Artikel  380c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 De rechtspersoon doet opgave van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, het voorstel daartoe. 
 
 ### Artikel  380d  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 De rechtspersoon doet opgave van het aantal winstbewijzen en soortgelijke rechten, met vermelding van de bevoegdheden die zij geven. 
 
@@ -4415,10 +4415,10 @@ h. opgave van het bestaan van nevenvestigingen en van de landen waar nevenvestig
 
 #### *Verslag over betalingen aan overheden* 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 ### Artikel  392a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 1.  Bij algemene maatregel van bestuur worden ter uitvoering van richtlijnen van het Europees Parlement en de Raad van de Europese Unie houdende regels inzake de jaarrekening, regels gesteld met betrekking tot de verplichting van rechtspersonen uit bepaalde sectoren tot het opstellen en openbaar maken van een verslag dan wel een geconsolideerd verslag over betalingen die zij doen aan overheden en worden nadere regels gesteld omtrent de inhoud van het verslag.   
 2.  De openbaarmaking van het verslag, bedoeld in lid 1, geschiedt binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in artikel 394 lid 1, tweede volzin.  
@@ -4490,7 +4490,7 @@ c. vierde lid, eerste volzin, indien zij het jaarverslag en de overige in artike
 ####Vrijstellingen op grond van de omvang van het bedrijf van de rechtspersoon 
 
 ### Artikel  395a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-11-2015 
 
 1.  De leden 3 tot en met 6 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten: 
 

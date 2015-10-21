@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 21 november 2008, Generale Thesaurie, Directie Financiële Markten, Afdeling Marktgedrag/Effectenverkeer, nr. FM 2008-2941 M;
 
-Gelet op richtlijn nr. 2004/109/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390), richtlijn nr. 2007/14/EG van de Commissie van de Europese gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) en de [artikelen 5:25i](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:25w](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:33, eerste lid, onderdeel b, onder 4°, tweede volzin](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:38, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:44](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [5:45, tiende lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:46, vierde lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op richtlijn nr. 2004/109/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390), richtlijn nr. 2007/14/EG van de Commissie van de Europese gemeenschappen van 8 maart 2007 tot vaststelling van concrete uitvoeringsvoorschriften van een aantal bepalingen van richtlijn 2004/109/EG betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten (PbEU L 69) en de artikelen 5:25i, 5:25w, 5:33, eerste lid, onderdeel b, onder 4°, tweede volzin, 5:38, vierde lid, 5:44, 5:45, tiende lid en 5:46, vierde lid, van de Wet op het financieel toezicht;
 
 De Raad van State gehoord (advies van 8 december 2008, nr. W06.08.0504/III);
 
@@ -18,11 +18,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+In dit besluit wordt verstaan onder wet: Wet op het financieel toezicht. 
 
 ### Artikel  1a  
 
-Dit besluit berust mede op de [artikelen 5:19a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:25c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Dit besluit berust mede op de artikelen 5:19a en 5:25c van de wet. 
 
 ### Hoofdstuk  II  
 
@@ -45,12 +45,12 @@ b. voldoende informatie en uitleg om een goed inzicht te kunnen verschaffen in m
 
 ### Artikel  3  
 
-1.  Het halfjaarverslag van een uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die verplicht is een geconsolideerde jaarrekening op te maken, bevat: 
+1.  Het halfjaarverslag van een uitgevende instelling, bedoeld in artikel 5:25d, negende lid, van de wet, die verplicht is een geconsolideerde jaarrekening op te maken, bevat: 
 
 a. de transacties met verbonden partijen die in de eerste zes maanden van het lopende boekjaar hebben plaatsgevonden en die materiële gevolgen hebben gehad voor de financiële positie of resultaten van de uitgevende instelling in die periode; en  
 
 b. alle wijzigingen in de in het laatste algemeen verkrijgbaar gestelde jaarverslag beschreven transacties met verbonden partijen die materiële gevolgen kunnen hebben voor de financiële positie of resultaten van de uitgevende instelling in de eerste zes maanden van het lopende boekjaar.     
-2.  Indien de uitgevende instelling, bedoeld in [artikel 5:25d, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.  
+2.  Indien de uitgevende instelling, bedoeld in artikel 5:25d, negende lid, van de wet niet verplicht is een geconsolideerde jaarrekening op te maken, vermeldt het halfjaarverslag ten minste de van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met een verbonden een partij zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep.  
 
 ### Hoofdstuk  III  
 
@@ -58,16 +58,16 @@ b. alle wijzigingen in de in het laatste algemeen verkrijgbaar gestelde jaarvers
 
 ### Artikel  4  
 
-1.  Onder een rechtmatig belang als bedoeld in [artikel 5:25i, derde lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt in elk geval verstaan het voorkomen dat de algemeenverkrijgbaarstelling van: 
+1.  Onder een rechtmatig belang als bedoeld in artikel 5:25i, derde lid, onderdeel a, van de wet wordt in elk geval verstaan het voorkomen dat de algemeenverkrijgbaarstelling van: 
 
-a. informatie als bedoeld in [artikel 5:25i, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de uitkomst of het normale verloop van onderhandelingen waarbij de uitgevende instelling partij is, kan beïnvloeden;  
+a. informatie als bedoeld in artikel 5:25i, tweede lid, van de wet, de uitkomst of het normale verloop van onderhandelingen waarbij de uitgevende instelling partij is, kan beïnvloeden;  
 
-b. door het bestuur van de uitgevende instelling genomen besluiten voordat de op grond van [Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de statutendoor de raad van commissarissen of een daarmee vergelijkbaar orgaan vereiste goedgekeurd is verleend, samen met de gelijktijdige aankondiging dat deze goedkeuring nog geen feit is, aan een correcte beoordeling door het publiek in de weg kan staan;  
+b. door het bestuur van de uitgevende instelling genomen besluiten voordat de op grond van Boek 2 van het Burgerlijk Wetboek of de statutendoor de raad van commissarissen of een daarmee vergelijkbaar orgaan vereiste goedgekeurd is verleend, samen met de gelijktijdige aankondiging dat deze goedkeuring nog geen feit is, aan een correcte beoordeling door het publiek in de weg kan staan;  
 
-c. een besluit als bedoeld in [artikel 1:76 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), een verzoek als bedoeld in [artikel 3:160](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [3:161 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of het verlenen van liquiditeitssteun door de Nederlandsche Bank op grond van [artikel 8, eerste lid, van de Bankwet 1998](../../../../../../../wet/bankwet/1998/BWBR0009508/README.md), strijd oplevert met het belang van de betrokken financiële onderneming; en  
+c. een besluit als bedoeld in artikel 1:76 van de wet, een verzoek als bedoeld in artikel 3:160 of 3:161 van de wet of het verlenen van liquiditeitssteun door de Nederlandsche Bank op grond van artikel 8, eerste lid, van de Bankwet 1998, strijd oplevert met het belang van de betrokken financiële onderneming; en  
 
-d. het feit dat de Autoriteit Financiële Markten een verzoek of een mededeling als bedoeld in [artikel 2, eerste lid](../../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), onderscheidenlijk [artikel 3, eerste lid, van de Wet toezicht financiële verslaggeving](../../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md) heeft gedaan, invloed zou kunnen hebben op de koers van de effecten van de effectenuitgevende instelling, bedoeld in [artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving](../../../../../../../wet/wet/toezicht/financiële/verslaggeving/BWBR0020369/README.md), of op de koers van daarvan afgeleide effecten.     
-2.  Om de vertrouwelijkheid van informatie, bedoeld in [artikel 5:25i, derde lid, onderdeel c, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te kunnen waarborgen controleert de uitgevende instelling de toegang tot de informatie en treft de uitgevende instelling afdoende maatregelen waardoor deze toegang wordt beperkt tot personen voor wie het noodzakelijk is om in het kader van de normale uitoefening van werk, beroep of functie bekend te zijn met de informatie.  
+d. het feit dat de Autoriteit Financiële Markten een verzoek of een mededeling als bedoeld in artikel 2, eerste lid, onderscheidenlijk artikel 3, eerste lid, van de Wet toezicht financiële verslaggeving heeft gedaan, invloed zou kunnen hebben op de koers van de effecten van de effectenuitgevende instelling, bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, of op de koers van daarvan afgeleide effecten.     
+2.  Om de vertrouwelijkheid van informatie, bedoeld in artikel 5:25i, derde lid, onderdeel c, van de wet te kunnen waarborgen controleert de uitgevende instelling de toegang tot de informatie en treft de uitgevende instelling afdoende maatregelen waardoor deze toegang wordt beperkt tot personen voor wie het noodzakelijk is om in het kader van de normale uitoefening van werk, beroep of functie bekend te zijn met de informatie.  
 
 ### Hoofdstuk  IV  
 
@@ -75,7 +75,7 @@ d. het feit dat de Autoriteit Financiële Markten een verzoek of een mededeling 
 
 ### Artikel  5  
 
-1.  De veiligheid van een op grond van [artikel 5:25m van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uit te brengen persbericht wordt door de uitgevende instelling gewaarborgd zodanig dat het risico op gegevenswijziging en ongeoorloofde toegang zo veel mogelijk is uitgesloten en zekerheid bestaat over de bron van de gereglementeerde informatie.   
+1.  De veiligheid van een op grond van artikel 5:25m van de wet uit te brengen persbericht wordt door de uitgevende instelling gewaarborgd zodanig dat het risico op gegevenswijziging en ongeoorloofde toegang zo veel mogelijk is uitgesloten en zekerheid bestaat over de bron van de gereglementeerde informatie.   
 2.  De uitgevende instelling draagt er zorg voor dat eventuele tekortkomingen of storingen bij de algemeenverkrijgbaarstelling van gereglementeerde informatie via het persbericht zo spoedig mogelijk worden verholpen.   
 3.  De uitgevende instelling is niet verantwoordelijk voor fouten of tekortkomingen in de systemen van de media via welke de gereglementeerde informatie algemeen verkrijgbaar wordt gesteld.   
 4.  De uitgevende instelling stelt de gereglementeerde informatie volledig en onbewerkt en op zodanige wijze algemeen verkrijgbaar dat: 
@@ -100,7 +100,7 @@ a. de naam van de persoon die de gereglementeerde informatie algemeen verkrijgba
 
 b. de bijzonderheden over de beveiligingsvalidering;  
 
-c. de datum en het tijdstip waarop het persbericht, bedoeld in [artikel 5:25m, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) algemeen verkrijgbaar is gesteld;  
+c. de datum en het tijdstip waarop het persbericht, bedoeld in artikel 5:25m, tweede lid, van de wet algemeen verkrijgbaar is gesteld;  
 
 d. de drager waarop de gereglementeerde informatie algemeen verkrijgbaar is gesteld;  
 
@@ -108,7 +108,7 @@ e. de bijzonderheden over een eventueel embargo dat de uitgevende instelling voo
 
 ### Artikel  7  
 
-1.  Als instantie die belast is met de opslag van gereglementeerde informatie als bedoeld in [artikel 5:25m, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt de Autoriteit Financiële Markten aangewezen.   
+1.  Als instantie die belast is met de opslag van gereglementeerde informatie als bedoeld in artikel 5:25m, vijfde lid, van de wet wordt de Autoriteit Financiële Markten aangewezen.   
 2.  De Autoriteit Financiële Markten draagt er zorg voor dat: 
 
 a. de veiligheid van de opgeslagen gereglementeerde informatie zodanig gewaarborgd is dat het risico op gegevenswijziging en ongeoorloofde toegang zo veel mogelijk is uitgesloten en zekerheid bestaat over de bron van de gereglementeerde informatie;  
@@ -125,7 +125,7 @@ d. de centrale opslag van gereglementeerde informatie op zodanig wijze wordt ing
 
 ### Artikel  8  
 
-1.  Het jaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten: 
+1.  Het jaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge artikel 5:25v van de wet haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten: 
 
 a. een getrouw beeld van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling, alsmede een beschrijving van de voornaamste risico’s en onzekerheden waarmee zij geconfronteerd wordt. Het jaarverslag bevat een evenwichtige en volledige analyse van de ontwikkeling en de resultaten van de uitgevende instelling en haar groep en van de positie van de uitgevende instelling die in overeenstemming is met de omvang en de complexiteit van het bedrijf;  
 
@@ -136,7 +136,7 @@ c. informatie over de verwachte ontwikkeling van de uitgevende instelling.
 
 ### Artikel  9  
 
-1.  Het halfjaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten: 
+1.  Het halfjaarverslag van een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge artikel 5:25v van de wet haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften dient ten minste te bevatten: 
 
 a. een overzicht van de verslagperiode; en  
 
@@ -145,7 +145,7 @@ b. informatie over de waarschijnlijke toekomstige ontwikkeling van de uitgevende
 
 ### Artikel  10  
 
-Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge [artikel 5:25v van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften neemt in haar halfjaarlijkse en jaarlijkse financiële verslaggeving verklaringen op van de personen die krachtens de wetgeving van die staat verantwoordelijk zijn voor de jaarlijkse en halfjaarlijkse financiële verslaggeving ten aanzien van in elk geval: 
+Een uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is, die ingevolge artikel 5:25v van de wet haar halfjaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften neemt in haar halfjaarlijkse en jaarlijkse financiële verslaggeving verklaringen op van de personen die krachtens de wetgeving van die staat verantwoordelijk zijn voor de jaarlijkse en halfjaarlijkse financiële verslaggeving ten aanzien van in elk geval: 
 
 a. de conformiteit van de financiële overzichten met de toepasselijke verslaggevingsvoorschriften; en  
 
@@ -153,7 +153,7 @@ b. de getrouwheid van het overzicht in het jaarverslag.
 
 ### Artikel  11  
 
-1.  Een consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge [artikel 5:25v van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften en die op grond van de op haar toepasselijke wetgeving niet verplicht is haar enkelvoudige jaarrekening algemeen verkrijgbaar te stellen, neemt in haar geconsolideerde jaarrekening ten minste de volgende informatie op: 
+1.  Een consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge artikel 5:25v van de wet haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften en die op grond van de op haar toepasselijke wetgeving niet verplicht is haar enkelvoudige jaarrekening algemeen verkrijgbaar te stellen, neemt in haar geconsolideerde jaarrekening ten minste de volgende informatie op: 
 
 a. indien het een uitgevende instelling betreft waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt, de dividendberekening en het vermogen om dividend uit te keren; en  
 
@@ -162,9 +162,9 @@ b. de minimumvereisten ten aanzien van kapitaal en eigen vermogen, alsmede infor
 
 ### Artikel  12  
 
-1.  Een niet-consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge [artikel 5:25v van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften, stelt haar enkelvoudige jaarrekening op overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften tenzij de in de desbetreffende staat geldende of toegelaten verslaggevingsvoorschriften daaraan gelijkwaardig zijn, in welk geval de uitgevende instelling opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften.   
+1.  Een niet-consolidatieplichtige uitgevende instelling met zetel in een staat die geen lidstaat is en waarvan Nederland lidstaat van herkomst is en die ingevolge artikel 5:25v van de wet haar jaarlijkse financiële verslaggeving opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften, stelt haar enkelvoudige jaarrekening op overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften tenzij de in de desbetreffende staat geldende of toegelaten verslaggevingsvoorschriften daaraan gelijkwaardig zijn, in welk geval de uitgevende instelling opmaakt overeenkomstig de in die staat geldende wettelijke voorschriften.   
 2.  Indien de jaarrekening bedoeld in het eerste lid niet overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften is opgesteld, presenteert de uitgevende instelling deze jaarrekening in de vorm van aangepaste financiële overzichten.   
-3.  De jaarrekening, bedoeld in het eerste lid, dient door een accountant worden gecontroleerd. Indien de jaarrekening is opgesteld overeenkomstig de in de die staat die geen lidstaat is geldende voorschriften, kan de controle worden verricht door een onafhankelijk accountant, niet zijnde een accountant als bedoeld in [artikel 5:25a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die bevoegd is tot controle van de jaarrekening.  
+3.  De jaarrekening, bedoeld in het eerste lid, dient door een accountant worden gecontroleerd. Indien de jaarrekening is opgesteld overeenkomstig de in de die staat die geen lidstaat is geldende voorschriften, kan de controle worden verricht door een onafhankelijk accountant, niet zijnde een accountant als bedoeld in artikel 5:25a, van de wet die bevoegd is tot controle van de jaarrekening.  
 
 ### Hoofdstuk  VI  
 
@@ -172,11 +172,11 @@ b. de minimumvereisten ten aanzien van kapitaal en eigen vermogen, alsmede infor
 
 ### Artikel  13  
 
-Het prospectus, bedoeld in [artikel 5:19a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+Het prospectus, bedoeld in artikel 5:19a van de wet, bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
 ### Artikel  14  
 
-De jaarlijkse financiële verslaggeving, bedoeld in [artikel 5:25c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
+De jaarlijkse financiële verslaggeving, bedoeld in artikel 5:25c van de wet, bevat ten minste de gegevens bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.
 
 ### Hoofdstuk  VII  
 

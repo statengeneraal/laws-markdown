@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 24 november 2004, Directie Wetgeving, nr. 5320900/04/6;
 
-Gelet op [artikel 391 lid 4 en 5 van boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 391 lid 4 en 5 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 17 december 2004, nr. W03.04.0572/I);
 
@@ -15,13 +15,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit is van toepassing op een naamloze vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel. Dit besluit is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die geen beheerder is als bedoeld in dat artikel.   
-2.  Dit besluit, met uitzondering van artikel 3 lid 1, is van toepassing op een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en waarvan tevens aandelen worden verhandeld op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.   
-3.  Een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is vrijgesteld van toepassing van artikel 2a lid 2 en de artikelen 3 en 3a onder b en c, tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.  
+1.  Dit besluit is van toepassing op een naamloze vennootschap waarvan aandelen of certificaten van aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in dat artikel. Dit besluit is niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die geen beheerder is als bedoeld in dat artikel.   
+2.  Dit besluit, met uitzondering van artikel 3 lid 1, is van toepassing op een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht en waarvan tevens aandelen worden verhandeld op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.   
+3.  Een naamloze vennootschap waarvan uitsluitend effecten, niet zijnde aandelen, zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, is vrijgesteld van toepassing van artikel 2a lid 2 en de artikelen 3 en 3a onder b en c, tenzij van deze vennootschap aandelen zijn toegelaten tot de handel op een multilaterale handelsfaciliteit als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.  
 
 ### Artikel  2  
 
-Als gedragscode bedoeld in [artikel 391 lid 5 van boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt aangewezen de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 18499 d.d. 3 december 2009. 
+Als gedragscode bedoeld in artikel 391 lid 5 van boek 2 van het Burgerlijk Wetboek wordt aangewezen de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 18499 d.d. 3 december 2009. 
 
 ### Artikel  2a  
 
@@ -51,11 +51,11 @@ c. de samenstelling en het functioneren van het bestuur en de raad van commissar
 
 ### Artikel  3b  
 
-Voor zover het [Besluit artikel 10 overnamerichtlijn](../../../../../../../AMvB/besluit/artikel/10/overnamerichtlijn/BWBR0019731/README.md) van toepassing is op de naamloze vennootschap, neemt zij in de verklaring, genoemd in artikel 2a, de mededeling op die zij moet doen ingevolge [artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit](../../../../../../../AMvB/besluit/artikel/10/overnamerichtlijn/BWBR0019731/README.md) en neemt zij de gegevens op, genoemd in [artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Indien de verklaring wordt afgelegd op een wijze als bedoeld in artikel 2a lid 1 onder b, kan de verklaring een verwijzing bevatten naar het jaarverslag waar de mededelingen en de gegevens krachtens het [Besluit artikel 10 overnamerichtlijn](../../../../../../../AMvB/besluit/artikel/10/overnamerichtlijn/BWBR0019731/README.md) en [artikel 392 lid 1, onder e](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), beschikbaar zijn. 
+Voor zover het Besluit artikel 10 overnamerichtlijn van toepassing is op de naamloze vennootschap, neemt zij in de verklaring, genoemd in artikel 2a, de mededeling op die zij moet doen ingevolge artikel 1 lid 1, onderdelen c, d, f, h en i, van dat besluit en neemt zij de gegevens op, genoemd in artikel 392 lid 1, onder e, van Boek 2 van het Burgerlijk Wetboek. Indien de verklaring wordt afgelegd op een wijze als bedoeld in artikel 2a lid 1 onder b, kan de verklaring een verwijzing bevatten naar het jaarverslag waar de mededelingen en de gegevens krachtens het Besluit artikel 10 overnamerichtlijn en artikel 392 lid 1, onder e, beschikbaar zijn. 
 
 ### Artikel  3c  
 
-1.  Bij zijn onderzoek of het jaarverslag met de jaarrekening verenigbaar is, als bedoeld in [artikel 393 lid 3 van Boek 2 van het Burgerlijke wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), betrekt de accountant ook de mededeling en de gegevens die krachtens artikel 3a, onder a, en artikel 3b in de verklaring inzake corporate governance worden opgenomen.   
+1.  Bij zijn onderzoek of het jaarverslag met de jaarrekening verenigbaar is, als bedoeld in artikel 393 lid 3 van Boek 2 van het Burgerlijke wetboek, betrekt de accountant ook de mededeling en de gegevens die krachtens artikel 3a, onder a, en artikel 3b in de verklaring inzake corporate governance worden opgenomen.   
 2.  Ten aanzien van de overige mededelingen die krachtens dit besluit in de verklaring, genoemd in artikel 2a, opgenomen dienen te worden, gaat de accountant na of zij zijn opgenomen.  
 
 ### Artikel  4  

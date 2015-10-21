@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 20 februari 2012, nr. 5724295/12/6;
 
-Gelet op [artikel 74, vijfde lid, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md);
+Gelet op artikel 74, vijfde lid, van de Wet veiligheidsregio’s;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 21 maart 2012, nr. W03.12.0052/II);
 
@@ -24,7 +24,7 @@ a.  *Onze Minister:* Onze Minister van Veiligheid en Justitie;
 
 b.  *Instituut:* het Instituut Fysieke Veiligheid;  
 
-c.  *bestuur:* het bestuur van het Instituut Fysieke Veiligheid, bedoeld in [artikel 67 van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).   
+c.  *bestuur:* het bestuur van het Instituut Fysieke Veiligheid, bedoeld in artikel 67 van de Wet veiligheidsregio’s.   
 
 ### §  2  
 
@@ -40,7 +40,7 @@ c.  *bestuur:* het bestuur van het Instituut Fysieke Veiligheid, bedoeld in [art
 
 ### Artikel  3  
 
-Onze Minister kan voor incidentele bijdragen voor een bijzonder doel als bedoeld in [artikel 74, eerste lid, onder a, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) nadere regels vaststellen. 
+Onze Minister kan voor incidentele bijdragen voor een bijzonder doel als bedoeld in artikel 74, eerste lid, onder a, van de Wet veiligheidsregio’s nadere regels vaststellen. 
 
 ### Artikel  4  
 
@@ -52,15 +52,15 @@ De betaling van de bijdrage, bedoeld in artikel 2, eerste lid, vindt plaats in v
 
 ### Artikel  5  
 
-Het bestuur besteedt de bijdrage, bedoeld in artikel 2, aan de uitvoering van de taken, genoemd in [artikel 68, eerste lid, de onderdelen a, e, f, g en h, van de Wet veiligheidsregio’s](../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md). 
+Het bestuur besteedt de bijdrage, bedoeld in artikel 2, aan de uitvoering van de taken, genoemd in artikel 68, eerste lid, de onderdelen a, e, f, g en h, van de Wet veiligheidsregio’s. 
 
 ### Artikel  6  
 
 1.  Het bestuur zendt ten behoeve van de verantwoording over de besteding van de bijdragen, bedoeld in artikel 2, eerste lid, en artikel 3, uiterlijk 31 maart aan Onze Minister: 
 
-a. de jaarrekening en het jaarverslag, bedoeld in [Titel 9, Boek 2, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en  
+a. de jaarrekening en het jaarverslag, bedoeld in Titel 9, Boek 2, van het Burgerlijk Wetboek, en  
 
-b. de accountantsverklaring en het verslag van bevindingen, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).     
+b. de accountantsverklaring en het verslag van bevindingen, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.     
 2.  De accountant verricht zijn werkzaamheden met inachtneming van de daarover bij ministeriële regeling gestelde regels.   
 3.  Door Onze Minister aangewezen ambtenaren kunnen een onderzoek verrichten naar de rechtmatigheid van het beheer en de juistheid van de verslaglegging daarover, alsmede de doelmatigheid van het beheer, de organisatie en het beleid van het bestuur.   
 4.  Het bestuur geeft aan de krachtens het derde lid aangewezen ambtenaren desgevraagd inzage in de boeken en bescheiden en verstrekt alle inlichtingen die zij noodzakelijk achten voor de uitoefening van hun taak.   
@@ -76,7 +76,7 @@ Onze Minister kan de betalingen, bedoeld in artikel 4, geheel of gedeeltelijk op
 
 ### Artikel  8  
 
-Het [Besluit Nederlands bureau brandweerexamens](../../../../../AMvB/besluit/nederlands/bureau/brandweerexamens/BWBR0006484/README.md) en het [Besluit Nederlands instituut fysieke veiligheid](../../../../../AMvB/besluit/nederlands/instituut/fysieke/veiligheid/BWBR0007897/README.md) worden ingetrokken. 
+Het Besluit Nederlands bureau brandweerexamens en het Besluit Nederlands instituut fysieke veiligheid worden ingetrokken. 
 
 ### Artikel  9  
 

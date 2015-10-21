@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Justitie van 9 december 2003, Directie We
 
 Gelet op de artikelen 11, 12 en 27 van de vierde richtlijn nr. 78/660/EEG van de Raad van de Europese Gemeenschappen van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), zoals gewijzigd door richtlijn nr. 2003/38/EG van de Raad van de Europese Unie van 13 mei 2003, welke wijziging betrekking heeft op een herziening van de in euro uitgedrukte bedragen en zoals gewijzigd door richtlijn 2003/51/EG van het Europees Parlement en de Raad van 18 juni 2003 (PbEG L 178).
 
-Gelet op [artikel 398, vierde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 398, vierde lid, van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord, advies van 8 januari 2004, no. W03.03 0520/I;
 

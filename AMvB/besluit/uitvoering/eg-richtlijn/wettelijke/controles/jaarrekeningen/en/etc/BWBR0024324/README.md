@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 24 april 2007, Directie Wetgeving, nr. 5479513/07/6;
 
-Gelet op [artikel 21a Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [artikel 391 lid 5 en 6 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 21a Wet toezicht accountantsorganisaties en artikel 391 lid 5 en 6 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 14 juni 2007, nr. W03.07.0114/II);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van dit besluit wordt onder een organisatie van openbaar belang verstaan een organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md). 
+Voor de toepassing van dit besluit wordt onder een organisatie van openbaar belang verstaan een organisatie van openbaar belang als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties. 
 
 ### Artikel  2  
 
@@ -35,13 +35,13 @@ d. het beoordelen en monitoren van de onafhankelijkheid van de externe accountan
 
 Dit besluit is niet van toepassing op: 
 
-a. een dochtermaatschappij als bedoeld in [artikel 24a, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van een rechtspersoon die de in artikel 2, derde lid, onder a. tot en met d. genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;  
+a. een dochtermaatschappij als bedoeld in artikel 24a, eerste lid, van boek 2 van het Burgerlijk Wetboek van een rechtspersoon die de in artikel 2, derde lid, onder a. tot en met d. genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;  
 
-b. een bank waarop een vrijstelling als bedoeld in [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is indien een centrale kredietinstelling de in artikel 2, derde lid, onder a. tot en met d. genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;  
+b. een bank waarop een vrijstelling als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht van toepassing is indien een centrale kredietinstelling de in artikel 2, derde lid, onder a. tot en met d. genoemde taken heeft opgedragen aan een auditcommissie en die de best practice bepaling III.5.7 alsmede de principes V.2 en V.4 van de Nederlandse corporate governance code zoals gepubliceerd in Staatscourant nr. 250 d.d. 27 december 2004 heeft nageleefd en waarvan de samenstelling van de auditcommissie voldoet aan artikel 2, eerste lid en tweede lid, tweede volzin;  
 
-c. een beleggingsinstelling of icbe als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die is opgenomen in het register als bedoeld in [artikel 1:107 van de Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+c. een beleggingsinstelling of icbe als bedoeld in artikel 1:1 van de Wet op het financieel toezicht die is opgenomen in het register als bedoeld in artikel 1:107 van de Wet op het financieel toezicht;  
 
-d. een entiteit voor securisatiedoeleinden als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van artikel 2, derde lid.   
+d. een entiteit voor securisatiedoeleinden als bedoeld in artikel 1 van het Besluit prudentiële regels Wft, mits de onderneming aan het publiek bekent maakt waarom zij het niet dienstig acht een auditcommissie in te stellen, of een orgaan aan te wijzen in de zin van artikel 2, derde lid.   
 
 ### Artikel  4  
 

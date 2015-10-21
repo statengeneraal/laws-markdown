@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Justitie van 14 oktober 1999, no. 793681/
 
 Gelet op de artikelen 11, 12 en 27 van de vierde richtlijn nr. 78/660/EEG van de Raad van de Europese Gemeenschappen van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), zoals gewijzigd door richtlijn nr. 99/60/EG van de Raad van de Europese Unie van 17 juni 1999 (PbEG L 162), welke wijziging betrekking heeft op een herziening van de in ecu uitgedrukte bedragen;
 
-Gelet op [artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord, advies van 5 november 1999, no. W03.99.0518/l;
 

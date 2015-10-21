@@ -10,7 +10,7 @@ Overwegende dat economische en monetaire ontwikkelingen sedert 1984 de Raad van 
 
 Gelet op de artikelen 11, 12 en 27 van de vierde richtlijn van de Raad van de Europese Gemeenschappen van 25 juli 1978 (78/660/EEG) betreffende de jaarrekening van bepaalde vennootschapsvormen (*Pb EG* L 222 van 14 augustus 1978), zoals deze luiden sinds de richtlijn van de Raad van 8 november 1990 (90/604/EEG) tot wijziging van richtlijn 78/660/EEG betreffende de jaarrekening en van Richtlijn 83/349/EEG betreffende de geconsolideerde jaarrekening in verband met de afwijkingen voor kleine en middelgrote vennootschappen en de openbaarmaking van deze jaarrekening in ecu;
 
-Gelet op [artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 398 lid 4 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord, advies van 26 juli 1991, no. W03.91.0286;
 
@@ -19,11 +19,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De bedragen, genoemd in [artikel 396 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 5 miljoen en f 10 miljoen. 
+De bedragen, genoemd in artikel 396 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek worden verhoogd tot onderscheidenlijk f 5 miljoen en f 10 miljoen. 
 
 ### Artikel  2  
 
-De bedragen genoemd in [artikel 397 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 20 miljoen en f 40 miljoen. 
+De bedragen genoemd in artikel 397 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek worden verhoogd tot onderscheidenlijk f 20 miljoen en f 40 miljoen. 
 
 ### Artikel  3  
 

@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Justitie van 10 november 1983, nr. 615/68
 
 Overwegende dat ter uitvoering van de vierde richtlijn van de Raad van Europese Gemeenschappen inzake het vennootschapsrecht modellen moeten worden vastgesteld voor de inrichting van jaarrekeningen;
 
-Gelet op [artikel 363 lid 6 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 363 lid 6 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord, advies van 21 december 1983, nr. W03.83.0578/05.3.52;
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De balans van een naamloze of besloten vennootschap moet zijn ingericht overeenkomstig model A of model B, de winst- en verliesrekening overeenkomstig een der modellen E-H. Deze modellen zijn als bijlage bij dit besluit gevoegd.   
-2.   Is [artikel 396 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van toepassing, dan kan de vennootschap voor de balans ook model C of model D kiezen en voor de winst- en verliesrekening model I of model J. Deze modellen zijn bij dit besluit gevoegd.  
+2.   Is artikel 396 van boek 2 van het Burgerlijk Wetboek van toepassing, dan kan de vennootschap voor de balans ook model C of model D kiezen en voor de winst- en verliesrekening model I of model J. Deze modellen zijn bij dit besluit gevoegd.  
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 1.  Van de benamingen Vaste activa, Vlottende activa, Kortlopende schulden, Langlopende schulden, Voorzieningen en Eigen vermogen mag niet worden afgeweken.   
 2.   Andere benamingen mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.   
 3.   De uitkomsten van tussentellingen mogen worden ingevoegd en benoemd.   
-4.   Tussentellingen en eindtellingen in de modellen die niet worden genoemd in de [artikelen 364 tot en met 377 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of, voor zover het betreft banken dan wel, voor zover het betreft verzekeringsmaatschappijen, in de [artikelen 429 tot en met 440 van dat boek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), in het [Besluit jaarrekening banken](../../../../../AMvB/besluit/jaarrekening/banken/BWBR0005980/README.md) mogen onbenoemd blijven. Opeenvolgende tussentellingen die onderling niet verschillen wegens het ontbreken van tussenliggende posten, mogen worden samengevoegd.  
+4.   Tussentellingen en eindtellingen in de modellen die niet worden genoemd in de artikelen 364 tot en met 377 van boek 2 van het Burgerlijk Wetboek of, voor zover het betreft banken dan wel, voor zover het betreft verzekeringsmaatschappijen, in de artikelen 429 tot en met 440 van dat boek, in het Besluit jaarrekening banken mogen onbenoemd blijven. Opeenvolgende tussentellingen die onderling niet verschillen wegens het ontbreken van tussenliggende posten, mogen worden samengevoegd.  
 
 ### Artikel  6  
 
@@ -47,8 +47,8 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 1.  Aan de posten van de modellen mag een uitsplitsing worden toegevoegd; zij mogen door een uitsplitsing worden vervangen.   
 2.   Posten mogen worden ingevoegd, voor zover hun inhoud niet wordt gedekt door een in het gekozen model vermelde post die niet als "overige" is aangeduid.   
-3.   De in de [artikelen 377 lid 1 onder *c* ](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [437 lid 5 onder *c* van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en lid 9 lid 1 onder *c* van het [Besluit jaarrekening banken](../../../../../AMvB/besluit/jaarrekening/banken/BWBR0005980/README.md) bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in artikel 10 lid 3.   
-4.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.  
+3.   De in de artikelen 377 lid 1 onder *c*  en 437 lid 5 onder *c* van boek 2 van het Burgerlijk Wetboek en lid 9 lid 1 onder *c* van het Besluit jaarrekening banken bedoelde overige belastingen moeten in de winst- en verliesrekening worden opgenomen onmiddellijk voor de post resultaat na belastingen of onmiddellijk voor de post, bedoeld in artikel 10 lid 3.   
+4.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig artikel 389 van boek 2 van het Burgerlijk Wetboek zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.  
 
 ### Artikel  8  
 
@@ -58,7 +58,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 ### Artikel  9  
 
-Wanneer een bedrag onder meer dan een post zou kunnen worden opgenomen, moet in de toelichting worden vermeld onder welke andere post of posten het bedrag kon worden opgenomen, hoe groot het bedrag is en waarop het betrekking heeft, een en ander indien het in [artikel 362 lid 1 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde inzicht daardoor wordt gediend. 
+Wanneer een bedrag onder meer dan een post zou kunnen worden opgenomen, moet in de toelichting worden vermeld onder welke andere post of posten het bedrag kon worden opgenomen, hoe groot het bedrag is en waarop het betrekking heeft, een en ander indien het in artikel 362 lid 1 van boek 2 van het Burgerlijk Wetboek bedoelde inzicht daardoor wordt gediend. 
 
 ### Artikel  10  
 
@@ -87,36 +87,36 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 ### Artikel  16  
 
-1.  Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn de artikelen 3, 4, 5 leden 3 en 4, 6 lid 1, eerste zin, 7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15 van toepassing.   
+1.  Op banken als bedoeld in artikel 415 van boek 2 van het Burgerlijk Wetboek zijn de artikelen 3, 4, 5 leden 3 en 4, 6 lid 1, eerste zin, 7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15 van toepassing.   
 2.   De balans van een bank moet zijn ingericht overeenkomstig model K, de winst- en verliesrekening overeenkomstig de modellen L of M. Deze modellen zijn als bijlage bij dit besluit gevoegd.   
 3.   De van hoofdletters voorziene posten van model K en de met hoofdletters gedrukte posten van de modellen L en M worden vermeld, ook als deze in het geheel van de jaarrekening van te verwaarlozen betekenis zijn voor het wettelijk vereiste inzicht.   
 4.   Hypotheekbanken nemen op de balans onder de activa in plaats van de post "vorderingen op klanten" een tweetal posten op, die onderscheidenlijk luiden: vorderingen op klanten uit hypothecaire leningen en overige vorderingen op klanten. Onder de passiva nemen deze banken in plaats van de post "Schuldbewijzen" een tweetal posten op, die onderscheidenlijk luiden: pandbrieven en overige schuldbewijzen. Zij mogen de post "Kasmiddelen" samenvoegen met de post "Vorderingen op banken", tenzij de omvang van de kasmiddelen van betekenis is op het geheel van de activa.   
 5.   De benamingen gebruikt in de modellen K, L en M mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.   
 6.   Aan de posten van deze modellen mag een uitsplitsing worden toegevoegd.   
-7.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen onderscheidenlijk groepsmaatschappijen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaarde deelnemingen.   
+7.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig artikel 389 van boek 2 van het Burgerlijk Wetboek zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen onderscheidenlijk groepsmaatschappijen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaarde deelnemingen.   
 8.   Het aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen, wordt opgenomen onder de opbrengsten uit deelnemingen onderscheidenlijk groepsmaatschappijen en wordt in de toelichting vermeld.   
 9.   Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen L en M kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.  
 
 ###Artikel 16a 
 
-1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn de artikelen 3, 4, 5 leden 3 en 4, 6 lid 1, eerste zin, 7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15 van toepassing.
+1. Op verzekeringsmaatschappijen als bedoeld in artikel 427 van boek 2 van het Burgerlijk Wetboek zijn de artikelen 3, 4, 5 leden 3 en 4, 6 lid 1, eerste zin, 7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15 van toepassing.
 2.  De balans van een verzekeringsmaatschappij moet zijn ingericht overeenkomstig model N, de winst- en verliesrekening overeenkomstig model O. Voor de technische rekening schadeverzekering mag model P worden gebruikt, indien de beleggingen rechtstreeks aan het schadeverzekeringsbedrijf kunnen worden toegewezen. Deze modellen zijn als bijlage bij dit besluit gevoegd.
 3.  De benamingen gebruikt in de modellen N, O en P mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.
 4.  Aan de posten van de modellen mag een uitsplitsing worden toegevoegd.
 5.  Indien in de technische rekening levensverzekering van de bruto premies koopsommen uit winstdeling deel uitmaken, wordt het bedrag daarvan afzonderlijk in de toelichting vermeld.
 6.  Het aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen, wordt opgenomen onder de opbrengsten uit deelnemingen en wordt in de toelichting vermeld.
-7.  Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.
+7.  Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig artikel 389 van boek 2 van het Burgerlijk Wetboek zijn gewaardeerd, worden deze afzonderlijk van en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.
 8.  In de geconsolideerde jaarrekening van een verzekeringsmaatschappij mogen alle opbrengsten van beleggingen in de niet-technische rekening worden opgenomen. In model O vervallen dan in de technische rekeningen de posten opbrengsten uit beleggingen en beleggingslasten alsmede de posten niet-gerealiseerde winst op beleggingen en niet-gerealiseerd verlies op beleggingen. In plaats van de post opbrengsten uit beleggingen treedt de post toegerekende opbrengst van beleggingen.
 9.  Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen O en P kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.
 
 ### Artikel  16b  
 
-1.  Op beleggingsmaatschappijen of maatschappijen voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn de artikelen 2 tot en met 4, 5, leden 3 en 4, 6 lid 1, eerste zin, 7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3, en 15 van toepassing.   
+1.  Op beleggingsmaatschappijen of maatschappijen voor collectieve belegging in effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, zijn de artikelen 2 tot en met 4, 5, leden 3 en 4, 6 lid 1, eerste zin, 7 leden 1 tot en met 3, 8 tot en met 11, 12 lid 3, en 15 van toepassing.   
 2.   De balans van een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten moet zijn gericht overeenkomstig model Q of R, de winst- en verliesrekening overeenkomstig model S. Deze modellen zijn als bijlage bij dit besluit gevoegd.   
-3.   Indien een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten de tweede zin van [artikel 401, lid 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) toepast, neemt zij buiten de telling van de winst- en verliesrekening een post op onder de benaming "wijziging in de reserves uit hoofde van koersverschillen".   
+3.   Indien een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten de tweede zin van artikel 401, lid 2 van het Burgerlijk Wetboek toepast, neemt zij buiten de telling van de winst- en verliesrekening een post op onder de benaming "wijziging in de reserves uit hoofde van koersverschillen".   
 4.   Een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten die in onroerend goed belegt, mag in de winst- en verliesrekening, ten einde inzicht te verschaffen in het exploitatieresultaat met betrekking tot het onroerend goed, de afschrijvingen op beleggingen in onroerend goed alsmede de op deze beleggingen betrekking hebbende overige lasten en kosten onmiddellijk onder de opbrengsten uit beleggingen in terreinen en gebouwen opnemen.   
 5.   De benamingen gebruikt in de modellen Q, R en S mogen slechts worden vervangen door benamingen die in het gegeven geval op ten minste even duidelijke wijze de inhoud van de post of telling aanduiden.   
-6.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn gewaardeerd, worden deze afzonderlijk en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.  
+6.   Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig artikel 389 van boek 2 van het Burgerlijk Wetboek zijn gewaardeerd, worden deze afzonderlijk en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.  
 
 ### Artikel  17  
 

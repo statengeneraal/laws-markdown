@@ -6,12 +6,12 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 25 maart 2005, directie Wetgeving, nr. 5343836/05/6, gedaan mede namens Onze Minister van Financiën;
 
-Gelet op artikel 33, eerste lid, van de Vierde Richtlijn nr. 78/660/EEG van de Raad van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), gelet op Richtlijn nr. 2001/65/EG van het Europees Parlement en de Raad van 27 september 2001 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG en 86/635/EEG met betrekking tot de waarderingsregels voor de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen evenals van banken en andere financiële instellingen (PbEG L 283) en Richtlijn 2003/51/EG van het Europees Parlement en de Raad van 18 juni 2003 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG, 86/635/EEG en 91/674/EEG van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen, banken en andere financiële instellingen, en verzekeringsondernemingen (PbEG L 178) alsmede de [artikelen 384 lid 4](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [442 lid 1 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+Gelet op artikel 33, eerste lid, van de Vierde Richtlijn nr. 78/660/EEG van de Raad van 25 juli 1978 betreffende de jaarrekening van bepaalde vennootschapsvormen (PbEG L 222), gelet op Richtlijn nr. 2001/65/EG van het Europees Parlement en de Raad van 27 september 2001 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG en 86/635/EEG met betrekking tot de waarderingsregels voor de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen evenals van banken en andere financiële instellingen (PbEG L 283) en Richtlijn 2003/51/EG van het Europees Parlement en de Raad van 18 juni 2003 tot wijziging van de Richtlijnen 78/660/EEG, 83/349/EEG, 86/635/EEG en 91/674/EEG van de Raad betreffende de jaarrekening en de geconsolideerde jaarrekening van bepaalde vennootschapsvormen, banken en andere financiële instellingen, en verzekeringsondernemingen (PbEG L 178) alsmede de artikelen 384 lid 4 en 442 lid 1 van boek 2 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 29 april 2005, nr. W03.05.0104/I);
 
 Gezien het nader rapport van Onze Minister van Justitie van 7 juni 2005, nr. 5356030/05/6; uitgebracht mede namens Onze Minister van Financiën;
-Hebben goedgevonden en verstaan:
+Hebben goedgevonden en verstaan:  
 
 ###Artikel 1 
 
@@ -33,6 +33,11 @@ Onder de marktwaarde wordt verstaan het bedrag waarvoor een actief kan worden ve
 ###Artikel 5 
 
 Onder de opbrengstwaarde wordt verstaan het bedrag waartegen een actief maximaal kan worden verkocht, onder aftrek van de nog te maken kosten.
+
+### Artikel  5a  
+Treedt in werking per 01-11-2015 
+
+Waardering tegen marktwaarde is niet toegestaan voor een rechtspersoon als bedoeld in artikel 395a van Boek 2 van het Burgerlijk Wetboek.
 
 ###Artikel 6 
 
@@ -70,11 +75,11 @@ b.afgeleide financiële instrumenten zijn; of
 c.verzekeringsverplichtingen of pensioenverplichtingen zijn.
 3. Waardering tegen de actuele waarde is niet toegestaan voor:
 
-a.tot de vervaldag aangehouden niet-afgeleide financiële instrumenten, behoudens beleggingen van verzekeringsmaatschappijen als bedoeld in [artikel 442 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+a.tot de vervaldag aangehouden niet-afgeleide financiële instrumenten, behoudens beleggingen van verzekeringsmaatschappijen als bedoeld in artikel 442 van boek 2 van het Burgerlijk Wetboek;
 
-b.door de rechtspersoon verstrekte leningen of te innen vorderingen die geen deel uitmaken van de handelsportefeuille of van de beleggingen van verzekeringsmaatschappijen, bedoeld in [artikel 442 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);
+b.door de rechtspersoon verstrekte leningen of te innen vorderingen die geen deel uitmaken van de handelsportefeuille of van de beleggingen van verzekeringsmaatschappijen, bedoeld in artikel 442 van boek 2 van het Burgerlijk Wetboek;
 
-c.belangen in dochtermaatschappijen, in deelnemingen als bedoeld in [artikel 389 lid 1 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en in rechtspersonen waarin wordt deelgenomen volgens een onderlinge regeling tot samenwerking, door de rechtspersoon uitgegeven eigenvermogensinstrumenten, overeenkomsten die een eventuele inbreng in het kader van een samenwerking tussen ondernemingen behelzen, en andere financiële instrumenten met zodanig specifieke kenmerken dat verslaggeving over deze instrumenten volgens de algemeen aanvaarde praktijk niet tegen de actuele waarde dient te geschieden; en
+c.belangen in dochtermaatschappijen, in deelnemingen als bedoeld in artikel 389 lid 1 van boek 2 van het Burgerlijk Wetboek en in rechtspersonen waarin wordt deelgenomen volgens een onderlinge regeling tot samenwerking, door de rechtspersoon uitgegeven eigenvermogensinstrumenten, overeenkomsten die een eventuele inbreng in het kader van een samenwerking tussen ondernemingen behelzen, en andere financiële instrumenten met zodanig specifieke kenmerken dat verslaggeving over deze instrumenten volgens de algemeen aanvaarde praktijk niet tegen de actuele waarde dient te geschieden; en
 
 d.financiële instrumenten waarvan de actuele waarde met toepassing van het eerste lid niet betrouwbaar kan worden vastgesteld; zij worden tegen de verkrijgingsprijs gewaardeerd.
 4. Een grondstoffencontract dat elk der partijen het recht geeft op afwikkeling in contanten of in enig ander financieel instrument, wordt als afgeleid financieel instrument beschouwd, tenzij:
@@ -84,7 +89,7 @@ a.het grondstoffencontract werd gesloten en duurzaam dient ten behoeve van de ve
 b.het grondstoffencontract bij het sluiten voor het in onderdeel a bedoelde doel werd bestemd; en
 
 c.aangenomen mag worden dat de afwikkeling van het grondstoffencontract zal geschieden door levering van de grondstof.
-5. Activa of passiva waarvan de risico’s afgedekt zijn of zijn geweest door transacties als bedoeld in [artikel 384 lid 8 van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), kunnen worden gewaardeerd met inbegrip van de waardeveranderingen als bedoeld in dat lid.
+5. Activa of passiva waarvan de risico’s afgedekt zijn of zijn geweest door transacties als bedoeld in artikel 384 lid 8 van boek 2 van het Burgerlijk Wetboek, kunnen worden gewaardeerd met inbegrip van de waardeveranderingen als bedoeld in dat lid.
 
 ###Artikel 11 
 
@@ -101,7 +106,7 @@ Indien een deelneming tegen de netto-vermogenswaarde wordt gewaardeerd, zijn de 
 
 ###Artikel 13 
 
-Het [Besluit waardering activa](../../../../../AMvB/besluit/waardering/activa/BWBR0003645/README.md) wordt ingetrokken.
+Het Besluit waardering activa wordt ingetrokken.
 
 ###Artikel 14 
 
