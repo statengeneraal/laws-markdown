@@ -464,10 +464,6 @@ c. de behandeling van een aanvraag tot verlenging van een vergunning als bedoeld
 d. de behandeling van een aanvraag voor een document dat Onze Minister bij of krachtens deze wet kan verstrekken en geen betrekking heeft op een vergunning als bedoeld in artikel 5, eerste lid, onder b, of de aanwijzing van een instelling.     
 2.  De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld. 
 
-### Artikel  35  
-
-Onze Minister zendt binnen vijf jaar na inwerkingtreding van dit artikel en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de rechtmatigheid en de doeltreffendheid van het functioneren van de krachtens artikel 7a aangewezen instellingen. 
-
 ### Artikel  36  
 
 Wij stellen vast op welk tijdstip deze wet in werking treedt. Op dat tijdstip vervalt de Warenwet (*Stb.* 1919, 581), zoals die wet is gewijzigd bij de wet van 29 juni 1925 (*Stb.* 308).  

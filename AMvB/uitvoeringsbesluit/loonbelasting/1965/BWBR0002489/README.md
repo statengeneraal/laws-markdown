@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Dit besluit geeft uitvoering aan de artikelen 4, 7, 13bis, 18a, 18g, 18h, 19a, 31a, 33, 34, 35, 35f, 35g en 35n van de Wet op de loonbelasting 1964 en aan artikel 10a van de Algemene wet inzake rijksbelastingen.   
-2.   Dit besluit verstaat onder:  
+2.  Dit besluit verstaat onder:  
 
 a. wet: Wet op de loonbelasting 1964;   
 
@@ -56,17 +56,17 @@ b. bij wijze van arbeidstherapie werkzaam is.
 ### Artikel  2b  
 
 1.  Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de thuiswerker of van de hulp van de thuiswerker, die persoonlijk arbeid verricht tegen een bruto-inkomen, dat doorgaans over een maand ten minste zal bedragen 2/5 maal het bedrag, genoemd in artikel 8, eerste lid, onderdeel *a*, van de Wet minimumloon en minimumvakantiebijslag, dan wel, voor degene, die de leeftijd van 23 jaar nog niet heeft bereikt en wiens bruto-inkomen uitsluitend in verband met zijn leeftijd op een lager bedrag is vastgesteld, 2/5 maal het krachtens genoemde wet voor een werknemer van dezelfde leeftijd geldende bedrag.    
-2.   Het eerste lid is niet van toepassing met betrekking tot een arbeidsverhouding die is aangegaan voor korter dan een maand.    
-3.   Indien binnen een maand na het einde van een arbeidsverhouding met dezelfde opdrachtgever een nieuwe arbeidsverhouding wordt aangegaan, geldt het bepaalde in het tweede lid niet ten aanzien van die nieuwe arbeidsverhouding, tenzij de tijdvakken voor welke die arbeidsverhoudingen zijn aangegaan te zamen korter zijn dan een maand.    
-4.   Voor de toepassing van het eerste lid is met betrekking tot het bruto-inkomen van een thuiswerker en van de hulp van een thuiswerker artikel 5, eerste lid, van overeenkomstige toepassing.    
-5.   Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van de thuiswerker die zich doorgaans laat bijstaan door meer dan twee personen niet zijnde zijn echtgenoot of zijn tot zijn huishouden behorende minderjarige kinderen.   
+2.  Het eerste lid is niet van toepassing met betrekking tot een arbeidsverhouding die is aangegaan voor korter dan een maand.    
+3.  Indien binnen een maand na het einde van een arbeidsverhouding met dezelfde opdrachtgever een nieuwe arbeidsverhouding wordt aangegaan, geldt het bepaalde in het tweede lid niet ten aanzien van die nieuwe arbeidsverhouding, tenzij de tijdvakken voor welke die arbeidsverhoudingen zijn aangegaan te zamen korter zijn dan een maand.    
+4.  Voor de toepassing van het eerste lid is met betrekking tot het bruto-inkomen van een thuiswerker en van de hulp van een thuiswerker artikel 5 van overeenkomstige toepassing.    
+5.  Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van de thuiswerker die zich doorgaans laat bijstaan door meer dan twee personen niet zijnde zijn echtgenoot of zijn tot zijn huishouden behorende minderjarige kinderen.   
 
 ### Artikel  2c  
 
 1.  Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene, die persoonlijk arbeid verricht op doorgaans ten minste 2 dagen per week tegen een bruto-inkomen dat doorgaans over een week ten minste zal bedragen 2/5 maal het bedrag, genoemd in artikel 8, eerste lid, onderdeel *b*, van de Wet minimumloon en minimumvakantiebijslag, dan wel, voor degene, die de leeftijd van 23 jaar nog niet heeft bereikt en wiens bruto-inkomen uitsluitend in verband met zijn leeftijd op een lager bedrag is vastgesteld, 2/5 maal het krachtens genoemde wet voor een werknemer van dezelfde leeftijd geldende bedrag.    
-2.   Het eerste lid is niet van toepassing met betrekking tot een arbeidsverhouding die is aangegaan voor korter dan een maand.    
-3.   Indien binnen een maand na het einde van een arbeidsverhouding met dezelfde opdrachtgever een nieuwe arbeidsverhouding wordt aangegaan, geldt het bepaalde in het tweede lid niet ten aanzien van die nieuwe arbeidsverhouding, tenzij de tijdvakken voor welke die arbeidsverhoudingen zijn aangegaan te zamen korter zijn dan een maand.    
-4.   Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van degene die tegen beloning persoonlijk arbeid verricht, indien:  
+2.  Het eerste lid is niet van toepassing met betrekking tot een arbeidsverhouding die is aangegaan voor korter dan een maand.    
+3.  Indien binnen een maand na het einde van een arbeidsverhouding met dezelfde opdrachtgever een nieuwe arbeidsverhouding wordt aangegaan, geldt het bepaalde in het tweede lid niet ten aanzien van die nieuwe arbeidsverhouding, tenzij de tijdvakken voor welke die arbeidsverhoudingen zijn aangegaan te zamen korter zijn dan een maand.    
+4.  Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van degene die tegen beloning persoonlijk arbeid verricht, indien:  
 
 a. zijn arbeidsverhouding tevens is een arbeidsverhouding als bedoeld in artikel 2 of artikel 3 van de wet, ongeacht of hij ingevolge het bij of krachtens die artikelen bepaalde al dan niet werknemer is;   
 
@@ -83,8 +83,8 @@ Waar in de artikelen 2b en 2c wordt verwezen naar een in artikel 8, eerste lid, 
 
 ### Artikel  2e  
 
-1.   Artikel 2a is niet van toepassing met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.    
-2.   Artikel 2*b*, eerste lid, en artikel 2*c*, eerste lid, zijn niet van toepassing met betrekking tot de arbeidsverhouding van degene, die:  
+1.  Artikel 2a is niet van toepassing met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.    
+2.  Artikel 2*b*, eerste lid, en artikel 2*c*, eerste lid, zijn niet van toepassing met betrekking tot de arbeidsverhouding van degene, die:  
 
 a. arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;   
 
@@ -95,7 +95,7 @@ c. arbeid van overwegend geestelijke aard verricht;
 d. werkzaam is in een arbeidsverhouding, die in overwegende mate beheerst wordt door een familieverhouding;   
 
 e. anders dan bij wijze van beroep, als auteur of redactiemedewerker werkzaam is voor een uitgever.      
-3.   Voor de toepassing van het tweede lid, onderdeel a, wordt degene die melkvervoer verricht krachtens een vervoersovereenkomst en die daarvoor een eigen vervoermiddel pleegt te gebruiken, geacht dit vervoer te verrichten in de uitoefening van een bedrijf.    
+3.  Voor de toepassing van het tweede lid, onderdeel a, wordt degene die melkvervoer verricht krachtens een vervoersovereenkomst en die daarvoor een eigen vervoermiddel pleegt te gebruiken, geacht dit vervoer te verrichten in de uitoefening van een bedrijf.    
 4.  Artikel 2ca is niet van toepassing: 
 
 a. met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep;  
@@ -146,13 +146,13 @@ Als loon van een uitvoerder van aangenomen werk, en van een thuiswerker wordt aa
 
 ### Artikel  7  
 
-1.   De belasting naar het belastbare loon dat wordt genoten door de in artikel 33, tweede lid, onderdeel c, van de wet bedoelde werknemers, bedraagt het in de voor hen geldende loonbelastingtabel aangewezen percentage van het tabelloon, met dien verstande dat dit percentage wordt verhoogd tot 52 ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt dan wel, ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, zijn identiteit niet is vastgesteld overeenkomstig artikel 28, onderdeel f, van de wet, alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit weet of redelijkerwijs moet weten.    
+1.  De belasting naar het belastbare loon dat wordt genoten door de in artikel 33, tweede lid, onderdeel c, van de wet bedoelde werknemers, bedraagt het in de voor hen geldende loonbelastingtabel aangewezen percentage van het tabelloon, met dien verstande dat dit percentage wordt verhoogd tot 52 ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt dan wel, ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, zijn identiteit niet is vastgesteld overeenkomstig artikel 28, onderdeel f, van de wet, alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit weet of redelijkerwijs moet weten.    
 2.  Het tabelloon is: 
 
 a. in de gevallen, bedoeld in artikel 33, tweede lid, onderdeel c, onder 1°, van de wet: het loon in geld, nadat dit is verminderd met de door de inhoudingsplichtige voor zijn rekening genomen belasting;  
 
 b. in de gevallen, bedoeld in artikel 33, tweede lid, onderdeel c, onder 2°, van de wet: het loon vermeerderd met de bedragen, bedoeld in artikel 11, eerste lid, onderdeel j, onder 2°, van de wet.     
-3.   Het bepaalde in de vorige leden is niet van toepassing met betrekking tot uitkeringen ingevolge sociale verzekeringswetten die zonder tussenkomst van de inhoudingsplichtige worden genoten.   
+3.  Het bepaalde in de vorige leden is niet van toepassing met betrekking tot uitkeringen ingevolge sociale verzekeringswetten die zonder tussenkomst van de inhoudingsplichtige worden genoten.   
 
 ### Hoofdstuk  2a  
 
@@ -166,14 +166,14 @@ Vervallen per 01-01-2014
 
 ### Artikel  8  
 
-1.  De werknemer is gehouden voordat met de auto waarop de verklaring geen privé-gebruik, bedoeld in artikel 13bis, twaalfde lid, van de wet, betrekking heeft op kalenderjaarbasis meer dan 500 kilometer voor privédoeleinden wordt gereden, mede te delen dat hij om intrekking van de verklaring verzoekt.   
+1.  De werknemer is gehouden voordat met de auto waarop de verklaring geen privé-gebruik, bedoeld in artikel 13bis, elfde lid, van de wet, betrekking heeft op kalenderjaarbasis meer dan 500 kilometer voor privédoeleinden wordt gereden, mede te delen dat hij om intrekking van de verklaring verzoekt.   
 2.  De mededeling, bedoeld in het eerste lid, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
 3.  Het niet of niet tijdig doen van de mededeling, bedoeld in het eerste lid, en het niet doen van die mededeling op de in het tweede lid voorgeschreven wijze worden aangemerkt als een overtreding.   
 4.  De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het derde lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het eerste lid, is ontstaan.  
 
 ### Artikel  9  
 
-1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in artikel 13bis, achttiende lid, van de wet, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
+1.  Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in artikel 13bis, zeventiende lid, van de wet, geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.   
 2.  De werknemer is gehouden voordat met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden wordt gereden, door tussenkomst van de inhoudingsplichtige mede te delen dat hij de verklaring intrekt.   
 3.  De mededeling, bedoeld in het tweede lid, geschiedt door het toezenden van het daartoe langs elektronische weg ter beschikking gestelde modelformulier aan de inspecteur.   
 4.  Indien de inhoudingsplichtige weet of vermoedt dat de werknemer met de bestelauto waarop de verklaring, bedoeld in het eerste lid, betrekking heeft voor privédoeleinden heeft gereden, is de inhoudingsplichtige gehouden schriftelijk mededeling te doen van het ten onrechte niet intrekken van de verklaring door de werknemer.   
@@ -279,8 +279,8 @@ e.uitkeringen ingevolge een prepensioen als bedoeld in artikel 38a, zoals dit ar
 
 1.  Als loonbestanddelen, als bedoeld in artikel 18g, tweede lid, onderdeel a, van de wet komen in aanmerking alle loonbestanddelen, met uitzondering van het genot van een ter beschikking gestelde auto. Voorzover over loonbestanddelen pensioen wordt opgebouwd volgens een eindloonstelsel komen loonstijgingen in de periode die aanvangt vijf jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum in aanmerking tot ten hoogste 2 percent boven de gemiddelde loonindex voor de CAO-lonen per maand, inclusief bijzondere beloningen, zoals berekend door het Centraal Bureau voor de Statistiek, met dien verstande dat in elk geval in aanmerking komen loonstijgingen als gevolg van gangbare functiewijzigingen of gangbare leeftijdsperiodieken.    
 2.  Voor de toepassing van artikel 18g, tweede lid, onderdeel b, van de wet komen niet tot het regelmatig genoten loon behorende loonbestanddelen slechts in aanmerking voorzover de opbouw van het pensioen volgens een ander stelsel dan het eindloonstelsel plaatsvindt.  
-3. Voor de toepassing van artikel 18g, tweede lid, onderdeel c, van de wet mag een loonsverlaging buiten beschouwing blijven, voorzover deze het gevolg is van het terugtreden naar een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum.   
-4. Voor de toepassing van artikel 18g, tweede lid, onderdeel d, van de wet mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van ziekte of arbeidsongeschiktheid.
+3. Voor de toepassing van artikel 18g, tweede lid, onderdeel d, van de wet mag een loonsverlaging buiten beschouwing blijven, voorzover deze het gevolg is van het terugtreden naar een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum.   
+4. Voor de toepassing van artikel 18g, tweede lid, onderdeel e, van de wet mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van ziekte of arbeidsongeschiktheid.
 
 ### Artikel  10ba  
 
@@ -408,7 +408,7 @@ b. het bedrag van de schoolgelden.
 ### Artikel  10eb  
 
 1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 36.705.   
-2.  In afwijking van het eerste lid bezit een werknemer die in het wetenschappelijk onderwijs een Nederlandse graad of een hiermee gelijkwaardige buitenlandse graad heeft behaald en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 27.901.   
+2.  In afwijking van het eerste lid bezit een werknemer die in het wetenschappelijk onderwijs een Nederlandse mastergraad of een hiermee gelijkwaardige buitenlandse graad heeft behaald en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 27.901.   
 3.  In afwijking in zoverre van het eerste en tweede lid bezit een werknemer ook specifieke deskundigheid indien de werknemer: 
 
 a. in het kader van wetenschappelijk onderzoek of wetenschappelijk onderwijs in Nederland wordt tewerkgesteld bij een onderzoeksinstelling als bedoeld in artikel 1.11, onderdelen a of b, van het Vreemdelingenbesluit 2000, of  

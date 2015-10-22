@@ -19,6 +19,15 @@ a. werkgever: degene die een ander krachtens arbeidsovereenkomst naar burgerlijk
 
 b. werknemer: de ander, bedoeld onder a.   
 
+####Beperking toepassingsbereik
+
+Treedt in werking per 01-01-2016 
+
+### Artikel  1a  
+Treedt in werking per 01-01-2016 
+
+Deze wet is niet van toepassing ten aanzien van de aanpassing van de arbeidsduur van de werknemer die de in artikel 7, onderdeel a, van de Algemene Ouderdomswet bedoelde leeftijd heeft bereikt.
+
 ####Recht op aanpassing van de arbeidsduur 
 
 ### Artikel  2  

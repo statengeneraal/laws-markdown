@@ -1912,6 +1912,14 @@ c. de uitkomst van de vergelijking tussen het cumulatief aantal banen, bedoeld i
 
 Artikel 38h, achtste lid, vervalt met ingang van 1 januari van het vierde kalenderjaar na het kalenderjaar waarin de quotumheffing op grond van artikel 122n, eerste lid, is geactiveerd, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor de uitsluiting van de dwangsomregeling, bedoeld in artikel 38h, achtste lid. 
 
+### Artikel  122p  
+
+####Overgangsrecht in verband met de Wet werken na de AOW-gerechtigde leeftijd
+
+Treedt in werking per 01-01-2016 
+
+Artikel 40, eerste lid, aanhef en onderdeel a, blijft buiten toepassing op het ziekengeld op grond van de Ziektewet, alsmede de overlijdensuitkering, bedoeld in artikel 35 van de Ziektewet, vermeerderd met de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, dat is of wordt betaald aan de verzekerde ten aanzien van wie de eerste dag van ongeschiktheid tot werken is gelegen op of na de dag dat de verzekerde de leeftijd, bedoeld in artikel 7, onderdeel a, van de Algemene Ouderdomswet heeft bereikt en voor de dag van inwerkingtreding van artikel III, onderdeel D, van de Wet werken na de AOW-gerechtigde leeftijd. 
+
 ### Hoofdstuk  8  
 
 ####Slot- en strafbepalingen
