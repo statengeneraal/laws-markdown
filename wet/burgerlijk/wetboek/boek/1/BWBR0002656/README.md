@@ -658,7 +658,7 @@ Hij die wegens een zijn lichamelijke of geestelijke toestand onder curatele staa
 2.   Onze Minister van Justitie kan om gewichtige redenen ontheffing van het verbod verlenen aan hen die broeders, zusters of broeder en zuster door adoptie zijn.   
 
 ### Artikel  41a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 05-12-2015 
 
 Een huwelijk mag niet worden gesloten tussen hen die elkander, hetzij van nature hetzij familierechtelijk, als bloedverwanten bestaan in de derde of vierde graad in de zijlinie, tenzij de aanstaande echtgenoten bij de ambtenaar van de burgerlijke stand ieder een beëdigde verklaring hebben afgelegd, inhoudende dat zij hun vrije toestemming tot het huwelijk geven. 
 

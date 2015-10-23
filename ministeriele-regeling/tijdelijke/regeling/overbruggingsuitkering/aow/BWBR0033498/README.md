@@ -91,6 +91,23 @@ c. op 1 januari van het jaar waarin hij de leeftijd van 65 jaar bereikt een ver
 4.  Voor een persoon die de leeftijd van 65 jaar bereikt in de periode die aanvangt op 1 januari 2013 en eindigt voor 1 juli 2013, wiens uitkering op grond van een regeling als bedoeld in artikel 5 ingaat vóór of op 1 januari 2013 maar in of na de zesde kalendermaand voorafgaand aan de maand waarin de persoon de leeftijd van 65 jaar bereikt, wordt in afwijking van het eerste lid, onderdeel b, het inkomen van de persoon en zijn echtgenoot in aanmerking genomen over de kalendermaand volgend op de maand waarin het recht op een uitkering op grond van die regeling ingaat.   
 5.  De SVB stelt op verzoek het inkomen, bedoeld in het eerste lid, onderdeel b, vast op het gemiddelde inkomen per maand, gerekend over een periode van de twaalfde tot de zesde kalendermaand voorafgaand aan de maand waarin de leeftijd van 65 jaar wordt bereikt.  
 
+### Artikel  4a  
+
+####Uitbreiding recht op overbruggingsuitkering
+
+Treedt in werking per 01-01-2016 
+
+1.  Recht op een overbruggingsuitkering heeft de persoon die minimaal één kalenderjaar vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 1 januari 2013, is verzekerd of verzekerd is geweest op grond van de artikelen 6 en 6a van de AOW, alsmede de persoon, bedoeld in artikel 48, eerste lid, van de AOW, of de persoon, bedoeld in de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Financiën van 23 april 1985, nr. SZ/SV/VV/85/914, houdende spaarregeling gemoedsbezwaarden ex artikel 48 AOW (Stcrt. 87), indien hij: 
+
+a. op of na 1 januari 2016 de pensioengerechtigde leeftijd bereikt, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, en hetzij op de dag waarop de pensioengerechtigde leeftijd als hiervoor bedoeld wordt bereikt of de eerste dag van de maand voor of na die dag als gevolg van een in een regeling als bedoeld in artikel 5 genoemde leeftijdsgrens, geen recht meer heeft, of een lager recht heeft op een uitkering die tussen 1 januari 2013 en 1 juli 2015 reeds is ingegaan op grond van een regeling als bedoeld in artikel 5 dan wel na het bereiken van de volledige duur daarvan, een daarop aansluitende uitkering of uitkeringen op grond van een regeling als bedoeld in artikel 5; hetzij als gevolg van een in een regeling als bedoeld in artikel 5 genoemde leeftijdsgrens van 65 jaar, vanaf de pensioengerechtigde leeftijd als hiervoor bedoeld tot de pensioengerechtigde leeftijd geen recht heeft, of een lager recht heeft op een uitkering die tussen 1 januari 2013 en 1 juli 2015 reeds is ingegaan op grond van een regeling als bedoeld in artikel 5 dan wel na het bereiken van de volledige duur daarvan, een daarop aansluitende uitkering of uitkeringen op grond van een regeling als bedoeld in artikel 5;  
+
+b. over de zesde kalendermaand voorafgaande aan de maand waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, bereikt, een inkomen heeft dat gelijk is aan of lager dan 200% van het bruto-minimumloon, of indien hij een echtgenoot heeft, tezamen met die echtgenoot een gezamenlijk inkomen heeft dat gelijk is aan of lager is dan 300% van het bruto-minimumloon, en  
+
+c. op 1 januari van het jaar waarin hij de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, bereikt, een vermogen heeft dat niet meer bedraagt dan het bedrag, genoemd in artikel 5.5 van de Wet inkomstenbelasting 2001 of indien hij een echtgenoot heeft, tezamen met die echtgenoot een gezamenlijk vermogen heeft dat niet meer bedraagt dan tweemaal dat bedrag.     
+2.  In afwijking van artikel 2 worden voor de toepassing van het eerste lid, onderdeel b, niet als inkomen aangemerkt een eenmalige uitkering, een eenmalige tegemoetkoming of een eenmalige vergoeding.   
+3.  Gedeelten van kalenderjaren, na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, waarvoor rechthebbende verzekerd is geweest, worden voor de vaststelling of de rechthebbende minimaal één kalenderjaar verzekerd is geweest als bedoeld in het eerste lid, aanhef, samengesteld en herleid tot gehele kalenderjaren. Artikel 1, derde lid, van de Regeling herleiding gedeelten van kalenderjaren en jaarpremies is van overeenkomstige toepassing.   
+4.  De SVB stelt op verzoek het inkomen, bedoeld in het eerste lid, onderdeel b, vast op het gemiddelde inkomen per maand, gerekend over een periode van de twaalfde tot de zesde kalendermaand voorafgaand aan de maand waarin de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, wordt bereikt.  
+
 ### Artikel  5  
 
 ####Regelingen
@@ -204,6 +221,22 @@ b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, 
 6.  Op de samenstelling, bedoeld in het vierde en vijfde lid, is artikel 2, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.   
 7.  Ten aanzien van de persoon die slechts gedurende een gedeelte van een jaar verzekerd is geweest, is artikel 3 van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.  
 
+### Artikel  10a  
+
+####Korting uitbreiding overbruggingsuitkering
+
+Treedt in werking per 01-01-2016 
+
+1.  Op de bruto-overbruggingsuitkering, bedoeld in artikel 4a, wordt, na toepassing van artikel 9, eerste lid, een korting toegepast van 2%: 
+
+a. voor elk kalenderjaar dat de rechthebbende na het bereiken van de aanvangsleeftijd, doch vóór het bereiken van de pensioengerechtigde leeftijd, bedoeld in artikel 7a van de AOW, zoals dat artikel luidde op 18 juni 2015, niet verzekerd is geweest op grond van de artikelen 6 en 6a van de AOW;  
+
+b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, die de rechthebbende na het bereiken van de aanvangsleeftijd schuldig nalatig is geweest te betalen als bedoeld in artikel 61 van die wet.     
+2.  Gedeelten van kalenderjaren gedurende welke de rechthebbende in de periode, bedoeld in het eerste lid, niet verzekerd is geweest, worden voor de vaststelling van de korting samengesteld en herleid tot hele kalenderjaren. Op de samenstelling en herleiding is artikel 1, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.   
+3.  Gedeelten van jaarpremies die de rechthebbende schuldig nalatig is geweest te betalen, worden voor de vaststelling van de korting samengesteld en herleid tot gehele jaarpremies.   
+4.  Op de samenstelling, bedoeld in het derde lid, is artikel 2, derde en vierde lid, van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.   
+5.  Ten aanzien van de persoon die slechts gedurende een gedeelte van een jaar verzekerd is geweest, is artikel 3 van de Regeling herleiding gedeelten van kalenderjaren en van jaarpremies van overeenkomstige toepassing.  
+
 ### Artikel  11  
 
 ####Aftopping
@@ -211,6 +244,15 @@ b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, 
 1.  Indien de hoogte van de bruto-overbruggingsuitkering, vastgesteld op grond van de artikelen 8 tot en met 10, meer bedraagt dan het bruto-inkomen op grond van een regeling als bedoeld in artikel 5, over de zesde kalendermaand voorafgaand aan de maand waarin een rechthebbende de leeftijd van 65 jaar bereikt, wordt de hoogte van de overbruggingsuitkering vastgesteld op het lagere bedrag van dat inkomen.   
 2.  Indien de hoogte van de bruto-overbruggingsuitkering, vastgesteld op grond van de artikelen 8 tot en met 10, meer bedraagt dan het verschil tussen het inkomen op grond van een regeling als bedoeld in artikel 5 voorafgaand aan het bereiken van de leeftijd van 65 jaar, en het inkomen op grond van een regeling als bedoeld in artikel 5 dat is verlaagd bij het bereiken van de leeftijd van 65 jaar, wordt de overbruggingsuitkering vastgesteld ter hoogte van dat verschil.   
 3.  Indien een uitkering op grond van een regeling als bedoeld in artikel 5 ingaat vóór of op 1 januari 2013 maar in of na de zesde kalendermaand voorafgaand aan de maand waarin een rechthebbende de leeftijd van 65 jaar bereikt, wordt in afwijking van het eerste lid het inkomen in aanmerking genomen over de kalendermaand volgend op de maand waarin het recht op een uitkering op grond van die regeling ingaat.  
+
+### Artikel  11a  
+
+####Aftopping uitbreiding overbruggingsuitkering
+
+Treedt in werking per 01-01-2016 
+
+1.  Indien de hoogte van de bruto-overbruggingsuitkering, bedoeld in artikel 4a, vastgesteld op grond van de artikelen 8 tot en met 9 en 10a, meer bedraagt dan het bruto-inkomen op grond van een regeling als bedoeld in artikel 5, over de kalendermaand voorafgaand aan de maand waarin dit inkomen als gevolg van een in die regeling genoemde leeftijdsgrens, is geëindigd, wordt de hoogte van de overbruggingsuitkering vastgesteld op het lagere bedrag van dat inkomen.   
+2.  Indien de hoogte van de bruto-overbruggingsuitkering, bedoeld in artikel 4a, vastgesteld op grond van de artikelen 8 tot en met 9 en 10a, meer bedraagt dan het verschil tussen het bruto-inkomen op grond van een regeling als bedoeld in artikel 5 over de kalendermaand voorafgaand aan de maand waarin dit inkomen als gevolg van een in die regeling genoemde leeftijdsgrens is verlaagd bestaat en het bruto-inkomen op grond van een regeling als bedoeld in artikel 5 dat is verlaagd als gevolg van een in die regeling genoemde leeftijdsgrens, wordt de overbruggingsuitkering vastgesteld ter hoogte van dat verschil.  
 
 ### Artikel  12  
 

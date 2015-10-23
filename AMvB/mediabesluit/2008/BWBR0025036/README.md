@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 18 november 2008, nr. WJZ/75071 (8238), directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 2.23, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.35, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.70, onderdeel b](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.71, vierde lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.89, tweede lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.93](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.95, eerste lid, onderdeel a](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.123](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.136, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [3.25](../../../../wet/mediawet/2008/BWBR0025028/README.md), [5.1, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [5.2](../../../../wet/mediawet/2008/BWBR0025028/README.md), [6.24, tweede en derde lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [6.27](../../../../wet/mediawet/2008/BWBR0025028/README.md) en [8.20 van de Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md);
+Gelet op de artikelen 2.23, tweede lid, 2.35, tweede lid, 2.70, onderdeel b, 2.71, vierde lid, 2.89, tweede lid, 2.93, 2.95, eerste lid, onderdeel a, 2.123, 2.136, eerste lid, 3.25, 5.1, eerste lid, 5.2, 6.24, tweede en derde lid, 6.27 en 8.20 van de Mediawet 2008;
 
 De Raad van State gehoord (advies van 10 december 2008, nr. 08.003330);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*wet:* [Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md)   
+*wet:* Mediawet 2008   
 
 ### Hoofdstuk  2  
 
@@ -36,10 +36,10 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  1a  
 
-1.  De NPO maakt voorafgaand aan de start van een experiment betreffende een aanbodkanaal als bedoeld in [artikel 2.21a van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) de uitvoering van dat experiment bekend.   
+1.  De NPO maakt voorafgaand aan de start van een experiment betreffende een aanbodkanaal als bedoeld in artikel 2.21a van de wet de uitvoering van dat experiment bekend.   
 2.  De bekendmaking gaat vergezeld van een beschrijving van het experiment die in elk geval bevat: 
 
-a. de positie van het experiment binnen de publieke mediaopdracht, bedoeld in [artikel 2.1 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en de relatie met het andere media-aanbod van de landelijke publieke mediadienst;  
+a. de positie van het experiment binnen de publieke mediaopdracht, bedoeld in artikel 2.1 van de wet, en de relatie met het andere media-aanbod van de landelijke publieke mediadienst;  
 
 b. de doelstellingen van het experiment waaronder het beoogde publieksbereik, de doelgroepen en de behoeften van het publiek, mede in het licht van bestaand marktaanbod; en  
 
@@ -47,7 +47,7 @@ c. de duur en wijze van financiering van het experiment en de manier waarop het 
 
 ### Artikel  1b  
 
-1.  In de begroting, bedoeld in [artikel 2.147 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), wordt een beschrijving gegeven van: 
+1.  In de begroting, bedoeld in artikel 2.147 van de wet, wordt een beschrijving gegeven van: 
 
 a. de experimenten die worden uitgevoerd; en  
 
@@ -57,13 +57,13 @@ b. de voorgenomen experimenten in het komende kalenderjaar.
 ### Artikel  1c  
 
 1.  Een experiment is in duur beperkt tot een looptijd van maximaal een jaar, gerekend vanaf het tijdstip waarop het desbetreffende aanbodkanaal voor het publiek beschikbaar is.   
-2.  Als binnen de maximale looptijd van een experiment het desbetreffende aanbodkanaal in het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), of in de begroting, bedoeld in [artikel 2.147 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), met het oog op de instemming als bedoeld in [artikel 2.21, derde lid onderscheidenlijk vierde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) is opgenomen, kan het experiment worden voortgezet, totdat over de instemming is beslist.   
+2.  Als binnen de maximale looptijd van een experiment het desbetreffende aanbodkanaal in het concessiebeleidsplan, bedoeld in artikel 2.20 van de wet, of in de begroting, bedoeld in artikel 2.147 van de wet, met het oog op de instemming als bedoeld in artikel 2.21, derde lid onderscheidenlijk vierde lid, van de wet is opgenomen, kan het experiment worden voortgezet, totdat over de instemming is beslist.   
 3.  Een experiment heeft een beperkt publieksbereik, tenzij dit niet mogelijk is vanwege technische omstandigheden of tot onevenredig hoge kosten leidt.  
 
 ### Artikel  1d  
 
-1.  De totale kosten voor de landelijke publieke mediadienst van experimenten in enig kalenderjaar bedragen niet meer dan 2 procent van het totaal van de budgetten, bedoeld in [artikel 2.149, eerste lid, onderdelen a tot en met d en f, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).   
-2.  De NPO vermeldt in het verslag, bedoeld in [artikel 2.58 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), de uitgevoerde experimenten en de kosten per experiment in het afgelopen kalenderjaar.  
+1.  De totale kosten voor de landelijke publieke mediadienst van experimenten in enig kalenderjaar bedragen niet meer dan 2 procent van het totaal van de budgetten, bedoeld in artikel 2.149, eerste lid, onderdelen a tot en met d en f, van de wet.   
+2.  De NPO vermeldt in het verslag, bedoeld in artikel 2.58 van de wet, de uitgevoerde experimenten en de kosten per experiment in het afgelopen kalenderjaar.  
 
 ### §  2  
 
@@ -115,7 +115,7 @@ f. consumentenvoorlichting.
 
 ### Artikel  3a  
 
-In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evaluatie onderscheidenlijk de evaluatie, bedoeld in [artikel 2.184 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en de evaluatiecommissie, bedoeld in [artikel 2.185 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md). 
+In deze paragraaf worden onder evaluatie en evaluatiecommissie verstaan de evaluatie onderscheidenlijk de evaluatie, bedoeld in artikel 2.184 van de wet, en de evaluatiecommissie, bedoeld in artikel 2.185 van de wet. 
 
 ### Artikel  3b  
 
@@ -133,27 +133,27 @@ e. voldoet aan hoge journalistieke en professionele kwaliteitseisen; en
 
 f. voor iedereen toegankelijk is.     
 2.  Bij de evaluatie van elke afzonderlijke landelijke publieke media-instelling betrekt de evaluatiecommissie voorts de wijze waarop deze instelling heeft bijgedragen aan het volgen en stimuleren van technologische ontwikkelingen en het benutten van de mogelijkheden om media-aanbod aan het publiek aan te bieden via nieuwe media- en verspreidingstechnieken.   
-3.  Bij de evaluatie, bedoeld in het eerste en tweede lid, betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan realisering van doelstellingen voor het media-aanbod en het publieksbereik van het concessiebeleidsplan, bedoeld in [artikel 2.20 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en van de prestatieovereenkomst, bedoeld in [artikel 2.22 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).  
+3.  Bij de evaluatie, bedoeld in het eerste en tweede lid, betrekt de evaluatiecommissie de wijze waarop deze instelling heeft bijgedragen aan realisering van doelstellingen voor het media-aanbod en het publieksbereik van het concessiebeleidsplan, bedoeld in artikel 2.20 van de wet, en van de prestatieovereenkomst, bedoeld in artikel 2.22 van de wet.  
 
 ### Artikel  3c  
 
-1.  Bij de evaluatie van een afzonderlijke omroeporganisatie die een erkenning als bedoeld in [artikel 2.23, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) heeft verkregen, betrekt de evaluatiecommissie voorts: 
+1.  Bij de evaluatie van een afzonderlijke omroeporganisatie die een erkenning als bedoeld in artikel 2.23, eerste lid, van de wet heeft verkregen, betrekt de evaluatiecommissie voorts: 
 
 a. de wijze waarop de missie en de identiteit van de omroeporganisatie zijn geformuleerd en uitgewerkt in doelstellingen voor het media-aanbod en het publieksbereik; en  
 
 b. de mate waarin de omroeporganisatie in onderdeel a bedoelde doelstellingen heeft gerealiseerd.     
-2.  Bij de evaluatie van een omroepvereniging die een voorlopige erkenning als bedoeld in [artikel 2.23, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) heeft verkregen, betrekt de evaluatiecommissie voorts: 
+2.  Bij de evaluatie van een omroepvereniging die een voorlopige erkenning als bedoeld in artikel 2.23, tweede lid, van de wet heeft verkregen, betrekt de evaluatiecommissie voorts: 
 
 a. de criteria, bedoeld in het eerste lid; en  
 
 b. de mate waarin deze instelling heeft voldaan aan de eis om zich naar stroming en naar voorgenomen media-aanbod wat betreft genre, inhoud en doelgroepen zodanig te onderscheiden van de erkende omroeporganisaties dat de verscheidenheid van het media-aanbod van de landelijke publieke mediadienst is vergroot en een vernieuwende bijdrage is geleverd aan de uitvoering van de publieke mediaopdracht op landelijk niveau.     
 3.  Bij de evaluatie van de NOS en de NTR betrekt de evaluatiecommissie voorts: 
 
-a. de wijze waarop deze instellingen de taken, bedoeld in [artikel 2.34a, eerste en tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) onderscheidenlijk [artikel 2.35, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), en in het bijzonder de taken, bedoeld in artikel 2 onderscheidenlijk artikel 3, hebben uitgevoerd;  
+a. de wijze waarop deze instellingen de taken, bedoeld in artikel 2.34a, eerste en tweede lid, van de wet onderscheidenlijk artikel 2.35, eerste lid, van de wet, en in het bijzonder de taken, bedoeld in artikel 2 onderscheidenlijk artikel 3, hebben uitgevoerd;  
 
 b. de mate waarin deze instellingen eigen doelstellingen voor media-aanbod en publieksbereik hebben gerealiseerd; en  
 
-c. de wijze waarop deze instellingen zorg dragen voor interne pluriformiteit van hun media-aanbod als bedoeld in [artikel 2.34e van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) onderscheidenlijk [artikel 2.37a van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md).    
+c. de wijze waarop deze instellingen zorg dragen voor interne pluriformiteit van hun media-aanbod als bedoeld in artikel 2.34e van de wet onderscheidenlijk artikel 2.37a van de wet.    
 
 ### Afdeling  2  
 
@@ -165,8 +165,8 @@ c. de wijze waarop deze instellingen zorg dragen voor interne pluriformiteit van
 
 ### Artikel  4  
 
-1.  Het programma-aanbod van de regionale en de lokale publieke mediadienst bedoeld in [artikel 2.70, aanhef en onderdeel b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), bestaat voor ten minste vijftig procent uit aanbod dat door de media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.   
-2.  Als [artikel 2.71, derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) op een lokale publieke media-instelling van toepassing is, zijn de gedeelten, bedoeld in [artikel 2.71, vierde lid, onderdelen a en b, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), ten minste de helft.  
+1.  Het programma-aanbod van de regionale en de lokale publieke mediadienst bedoeld in artikel 2.70, aanhef en onderdeel b, van de wet, bestaat voor ten minste vijftig procent uit aanbod dat door de media-instelling zelf of uitsluitend in haar opdracht is geproduceerd.   
+2.  Als artikel 2.71, derde lid, van de wet op een lokale publieke media-instelling van toepassing is, zijn de gedeelten, bedoeld in artikel 2.71, vierde lid, onderdelen a en b, van de wet, ten minste de helft.  
 
 ### §  2  
 
@@ -174,7 +174,7 @@ c. de wijze waarop deze instellingen zorg dragen voor interne pluriformiteit van
 
 ### Artikel  4a  
 
-Het totaalbudget, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), wordt zodanig over de regionale omroepen verdeeld dat aan de hieronder genoemde regionale omroepen een bijdrage in de kosten wordt verstrekt waarvan de hoogte maximaal het achter de desbetreffende omroep vermelde percentage van het totaalbudget bedraagt:  
+Het totaalbudget, bedoeld in artikel 2.170, eerste lid, van de wet, wordt zodanig over de regionale omroepen verdeeld dat aan de hieronder genoemde regionale omroepen een bijdrage in de kosten wordt verstrekt waarvan de hoogte maximaal het achter de desbetreffende omroep vermelde percentage van het totaalbudget bedraagt:  
 
 | Regionale omroep  | Percentage  |
 |:---|:---|
@@ -194,7 +194,7 @@ Het totaalbudget, bedoeld in [artikel 2.170, eerste lid, van de wet](../../../..
 
 ### Artikel  4b  
 
-Bij ministeriële regeling worden regels gesteld over de inhoud, de inrichting en het tijdstip van indiening van een aanvraag voor een bijdrage als bedoeld in [artikel 2.170, tweede lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) en over de inhoud en inrichting van de begroting van een regionale publieke media-instelling. 
+Bij ministeriële regeling worden regels gesteld over de inhoud, de inrichting en het tijdstip van indiening van een aanvraag voor een bijdrage als bedoeld in artikel 2.170, tweede lid, van de wet en over de inhoud en inrichting van de begroting van een regionale publieke media-instelling. 
 
 ### Afdeling  3  
 
@@ -298,7 +298,7 @@ b. de vermelding van sponsors van evenementen;
 
 c. liefdadigheidsacties;  
 
-d. de vermelding van boek- en filmtitels en culturele evenementen in de titel van een programma in andere gevallen dan bedoeld in [artikel 2.108, tweede en derde lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md); en  
+d. de vermelding van boek- en filmtitels en culturele evenementen in de titel van een programma in andere gevallen dan bedoeld in artikel 2.108, tweede en derde lid, van de wet; en  
 
 e. de vermelding van (co)producenten, derden die bijdragen hebben verstrekt die niet als sponsoring worden aangemerkt, facilitaire bedrijven, auteursrechthebbenden, vacaturebanken, loterijen en opname- en uitzendlocaties.   De in de eerste volzin bedoelde regeling wordt door Onze Minister goedgekeurd. 
 
@@ -308,7 +308,7 @@ e. de vermelding van (co)producenten, derden die bijdragen hebben verstrekt die 
 
 ### Artikel  14b  
 
-Het percentage, bedoeld in [artikel 2.116, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) is 16,5. 
+Het percentage, bedoeld in artikel 2.116, eerste lid, van de wet is 16,5. 
 
 ### Artikel  15  
 
@@ -322,7 +322,7 @@ Het percentage, bedoeld in [artikel 2.116, eerste lid, van de wet](../../../../w
 
 ### Artikel  16  
 
-Inkomsten uit programmabladen van een omroeporganisatie kunnen jaarlijks tot ten hoogste het bedrag dat nodig is om een eventueel verlies van de desbetreffende omroeporganisatie te dekken, worden besteed aan verenigingsactiviteiten als bedoeld in [artikel 2.136 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md). Bij de bepaling van het resultaat blijven veranderingen in de waarde van materiële vaste activa als gevolg van herwaarderingen buiten beschouwing. De gebruikelijke jaarlijkse afschrijvingen van de materiële vaste activa worden niet als herwaarderingen aangemerkt. 
+Inkomsten uit programmabladen van een omroeporganisatie kunnen jaarlijks tot ten hoogste het bedrag dat nodig is om een eventueel verlies van de desbetreffende omroeporganisatie te dekken, worden besteed aan verenigingsactiviteiten als bedoeld in artikel 2.136 van de wet. Bij de bepaling van het resultaat blijven veranderingen in de waarde van materiële vaste activa als gevolg van herwaarderingen buiten beschouwing. De gebruikelijke jaarlijkse afschrijvingen van de materiële vaste activa worden niet als herwaarderingen aangemerkt. 
 
 ### Afdeling  5  
 
@@ -330,7 +330,7 @@ Inkomsten uit programmabladen van een omroeporganisatie kunnen jaarlijks tot ten
 
 ### Artikel  16a  
 
-Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in [artikel 2.23 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten als bedoeld in [artikel 2.136 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) tot een bedrag van € 750.000 reserveren voor die verenigingsactiviteiten.
+Omroeporganisaties die een erkenning of een voorlopige erkenning als bedoeld in artikel 2.23 van de wet hebben verkregen, kunnen netto inkomsten uit contributies en verenigingsactiviteiten als bedoeld in artikel 2.136 van de wet tot een bedrag van € 750.000 reserveren voor die verenigingsactiviteiten.
 
 ### Hoofdstuk  3  
 
@@ -383,12 +383,12 @@ b. de andere hiervoor bedoelde wedstrijd of wedstrijden op dezelfde dag wordt of
 
 ### Artikel  22  
 
-1.  Voor de toepassing van [artikel 6.24 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) worden twee of meer instellingen als één instelling aangemerkt, als: 
+1.  Voor de toepassing van artikel 6.24 van de wet worden twee of meer instellingen als één instelling aangemerkt, als: 
 
 a. een instelling direct of indirect zodanige zeggenschap of feitelijke invloed heeft in één of meer instellingen dat deze in belangrijke mate het beleid van die instelling of instellingen kan bepalen of aanmerkelijke invloed heeft op de inhoud van dat beleid; of  
 
 b. een natuurlijk persoon of groep van natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed heeft in twee of meer instellingen dat deze in belangrijke mate het beleid van die instellingen kan bepalen of aanmerkelijke invloed heeft op de inhoud van dat beleid.     
-2.  Bij ministeriële regeling kan in overeenstemming met Onze Minister van Economische Zaken worden bepaald dat in afwijking van [artikel 6.24, eerste lid, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) voor de verspreiding van radioprogramma-aanbod van eenzelfde instelling meer frequentieruimte mag worden gebruikt dan één FM-frequentie of samenstel van FM frequenties.  
+2.  Bij ministeriële regeling kan in overeenstemming met Onze Minister van Economische Zaken worden bepaald dat in afwijking van artikel 6.24, eerste lid, van de wet voor de verspreiding van radioprogramma-aanbod van eenzelfde instelling meer frequentieruimte mag worden gebruikt dan één FM-frequentie of samenstel van FM frequenties.  
 
 ### §  2  
 
@@ -398,7 +398,7 @@ b. een natuurlijk persoon of groep van natuurlijke personen direct of indirect e
 
 1.  Het Commissariaat verleent toestemming voor het verzorgen van een omroepdienst via een omroepzender binnen een gebied van beperkte omvang, welke omroepdienst uitsluitend bestemd is voor in Nederland gelegerde militairen van buitenlandse strijdkrachten en hun gezinnen.   
 2.  De toestemming wordt verleend aan de bevoegde militaire autoriteiten van een bij de Noord-atlantische verdragsorganisatie (Navo) aangesloten land waarvan strijdkrachten in Nederland zijn gelegerd, voor het gebruik door instellingen of personen van de buitenlandse strijdkrachten die daartoe door hen worden aangewezen.   
-3.  Ten aanzien van het gebruik van de toestemming zijn de [artikelen 2.89](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.90](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.106 tot en met 2.109](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.114](../../../../wet/mediawet/2008/BWBR0025028/README.md) voor zover het betreft de [artikelen 2.107](../../../../wet/mediawet/2008/BWBR0025028/README.md) en [2.108](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.124](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.141, eerste lid](../../../../wet/mediawet/2008/BWBR0025028/README.md), [2.142](../../../../wet/mediawet/2008/BWBR0025028/README.md), [4.1 tot en met 4.6](../../../../wet/mediawet/2008/BWBR0025028/README.md), [7.11](../../../../wet/mediawet/2008/BWBR0025028/README.md), [7.18](../../../../wet/mediawet/2008/BWBR0025028/README.md) en [7.19, eerste lid, onderdeel a, van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md) van overeenkomstige toepassing.  
+3.  Ten aanzien van het gebruik van de toestemming zijn de artikelen 2.89, 2.90, 2.106 tot en met 2.109, 2.114 voor zover het betreft de artikelen 2.107 en 2.108, 2.124, 2.141, eerste lid, 2.142, 4.1 tot en met 4.6, 7.11, 7.18 en 7.19, eerste lid, onderdeel a, van de wet van overeenkomstige toepassing.  
 
 ### Artikel  24  
 
@@ -461,16 +461,16 @@ g. de intrekking, wijziging en terugvordering van subsidies.
 
 ### Hoofdstuk  6a  
 
-####Invoering [Mediawet 2008](../../../../wet/mediawet/2008/BWBR0025028/README.md)
+####Invoering Mediawet 2008
 
 ### Artikel  29a  
 
-1.  De voorzitter en de andere leden van het bestuur van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel in [artikel 78 van de Mediawet](../../../../wet/mediawet/BWBR0004149/README.md), zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 voorzitter onderscheidenlijk lid van de eerste raad van toezicht van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.74 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), voor het resterende gedeelte van hun benoemingstermijn.   
-2.  De leden van de programmaraad van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 81 van de Mediawet](../../../../wet/mediawet/BWBR0004149/README.md), zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 lid van de adviesraad van de Stichting Radio Nederland Wereldomroep, bedoeld in [artikel 2.80 van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), voor het resterende gedeelte van hun benoemingstermijn.  
+1.  De voorzitter en de andere leden van het bestuur van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel in artikel 78 van de Mediawet, zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 voorzitter onderscheidenlijk lid van de eerste raad van toezicht van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel 2.74 van de wet, voor het resterende gedeelte van hun benoemingstermijn.   
+2.  De leden van de programmaraad van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel 81 van de Mediawet, zoals dat artikel op 31 december 2008 luidde, zijn met ingang van 1 januari 2009 lid van de adviesraad van de Stichting Radio Nederland Wereldomroep, bedoeld in artikel 2.80 van de wet, voor het resterende gedeelte van hun benoemingstermijn.  
 
 ### Artikel  29b  
 
-De eerste benoeming van de leden van de raad van toezicht van de NOS op grond van [artikel 2.34c van de wet](../../../../wet/mediawet/2008/BWBR0025028/README.md), zoals dat artikel luidt met ingang van het tijdstip waarop artikel Ia van de wet van 2 juli 2009 tot wijziging van de Mediawet 2008 in verband met de erkenning en de financiering van de publieke omroep in werking is getreden, geschiedt niet op voordracht van de raad van toezicht van de NOS. 
+De eerste benoeming van de leden van de raad van toezicht van de NOS op grond van artikel 2.34c van de wet, zoals dat artikel luidt met ingang van het tijdstip waarop artikel Ia van de wet van 2 juli 2009 tot wijziging van de Mediawet 2008 in verband met de erkenning en de financiering van de publieke omroep in werking is getreden, geschiedt niet op voordracht van de raad van toezicht van de NOS. 
 
 ### Hoofdstuk  7  
 
@@ -478,19 +478,19 @@ De eerste benoeming van de leden van de raad van toezicht van de NOS op grond va
 
 ### Artikel  31  
 
-Het [besluit van 31 oktober 1989, houdende regels over de rechtspositie en de bezoldiging van de voorzitter en de leden van het Commissariaat voor de Media en van zijn personeel alsmede van de voorzitter en de leden van het bestuur van het Bedrijfsfonds voor de Pers en zijn personeel](../../../../AMvB/besluit/rechtspositie/en/bezoldiging/voorzitter/en/leden/van/commissariaat/etc/BWBR0004641/README.md) (Stb. 1989, 499) wordt ingetrokken. 
+Het besluit van 31 oktober 1989, houdende regels over de rechtspositie en de bezoldiging van de voorzitter en de leden van het Commissariaat voor de Media en van zijn personeel alsmede van de voorzitter en de leden van het bestuur van het Bedrijfsfonds voor de Pers en zijn personeel (Stb. 1989, 499) wordt ingetrokken. 
 
 ### Artikel  32  
 
-De [regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, van 20 juni 2001, nr. MLB/JZ/2001/25.459](../../../../ministeriele-regeling/rechtspositie/en/bezoldiging/commissariaat/voor/de/media/en/bedrijfsfonds/etc/BWBR0012595/README.md) (Stcrt. 2001, nr. 119) wordt ingetrokken. 
+De regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, van 20 juni 2001, nr. MLB/JZ/2001/25.459 (Stcrt. 2001, nr. 119) wordt ingetrokken. 
 
 ### Artikel  33  
 
-De [regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 17 februari 1988, houdende overdracht bevoegdheid tot ontheffing verbod reclame-uitingen binnenlandse omroep aan het Commissariaat voor de Media](../../../../ministeriele-regeling/overdracht/bevoegdheid/tot/ontheffing/verbod/reclame-uitingen/binnenlandse/etc/BWBR0004296/README.md) (Stcrt. 1988, nr. 49) wordt ingetrokken. 
+De regeling van de Minister van Welzijn, Volksgezondheid en Cultuur van 17 februari 1988, houdende overdracht bevoegdheid tot ontheffing verbod reclame-uitingen binnenlandse omroep aan het Commissariaat voor de Media (Stcrt. 1988, nr. 49) wordt ingetrokken. 
 
 ### Artikel  34  
 
-Na inwerkingtreding van dit besluit berust [artikel 8 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](../../../../ministeriele-regeling/regeling/aanwijzing/en/gebruik/frequentieruimte/commerciële/radio-omroep/etc/BWBR0014740/README.md) op artikel 22, tweede lid, van dit besluit. 
+Na inwerkingtreding van dit besluit berust artikel 8 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003 op artikel 22, tweede lid, van dit besluit. 
 
 ### Artikel  35  
 
