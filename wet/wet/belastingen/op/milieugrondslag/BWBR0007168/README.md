@@ -754,8 +754,8 @@ a.in gevallen waarin een voorschotnota wordt uitgereikt of, indien geen voorscho
 b. in gevallen waarin geen voorschotnota wordt uitgereikt of voorschotbedrag wordt ontvangen, maar wel een factuur wordt uitgereikt: op het tijdstip van de uitreiking van de factuur; 
 
 c. in overige gevallen: op het tijdstip waarop de levering plaatsvindt.   
-2.   Voor de toepassing van het eerste lid, onderdeel a, onder 1°, worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.   
-3.   In afwijking van het eerste lid wordt de belasting bij toepassing van artikel 50, derde lid, onderdelen b, c en d, verschuldigd op het tijdstip waarop het verbruik plaatsvindt.  
+2.  Voor de toepassing van het eerste lid, onderdeel a, onder 1°, worden de hoeveelheden aardgas en elektriciteit, waarop de voorschotnota dan wel het voorschotbedrag is gebaseerd, aangemerkt als geleverde hoeveelheden.   
+3.  In afwijking van het eerste lid wordt de belasting bij toepassing van artikel 50, derde lid, onderdelen b, c en d, verschuldigd op het tijdstip waarop het verbruik plaatsvindt.  
 4. Indien de verrekening, bedoeld in artikel 47, eerste lid, onderdeel e, leidt tot een lager bedrag dan over de verbruiksperiode aan belasting is voldaan, wordt het verschil in mindering gebracht op de aangifte over het tijdvak waarin de eindfactuur is uitgereikt. 
 
 ### Artikel 57 
@@ -1079,9 +1079,9 @@ Vervallen per 01-01-2013
 ### Artikel  89  
 
 1.  De in een tijdvak verschuldigd geworden belasting moet op aangifte worden voldaan.   
-2.   Bij toepassing van artikel 40, tweede lid, dient in afwijking in zoverre van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen, de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.   
+2.  Bij toepassing van artikel 40, tweede lid, dient in afwijking in zoverre van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen, de belasting uiterlijk op de dag na het in artikel 40, tweede lid, bedoelde tijdstip op aangifte te worden voldaan.   
 3.  In afwijking van het tweede lid kan de inspecteur, bij toepassing van artikel 33, tweede lid, op verzoek toestemming verlenen om de verschuldigd geworden belasting in een door hem te bepalen tijdvak uiterlijk binnen één maand na het einde van dat tijdvak op aangifte te voldoen. Het door de inspecteur te bepalen tijdvak bedraagt maximaal één kwartaal.   
-4.   Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag. Het verzoek om teruggaaf geschiedt bij de aangifte over het tijdvak waarover de belasting berekend is.  
+4.  Indien de berekening van de verschuldigde belasting leidt tot een negatief bedrag verleent de inspecteur op verzoek van de belastingplichtige teruggaaf van dit bedrag. Het verzoek om teruggaaf geschiedt bij de aangifte over het tijdvak waarover de belasting berekend is.  
 
 ### Afdeling  2  
 
