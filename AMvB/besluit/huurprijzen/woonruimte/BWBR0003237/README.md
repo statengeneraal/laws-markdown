@@ -71,13 +71,13 @@ c. indien zich een omstandigheid voordoet als bedoeld in bijlage II, onder 1, ca
 
 ### Artikel  8a  
 
-De huurprijs van een woonruimte wordt vermeerderd met 15% van de maximale huurprijsgrens, behorende bij de kwaliteit van die woonruimte, indien: 
+De maximale huurprijsgrens, behorende bij de kwaliteit van een woonruimte, wordt met 15% vermeerderd, indien: 
 
-a. deze behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder g, van de Monumentenwet 1988,  
+a. die woonruimte behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder g, van de Monumentenwet 1988,  
 
-b. deze niet bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van die wet,  
+b. die woonruimte niet bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van die wet,  
 
-c. deze is gebouwd voor 1945 en  
+c. die woonruimte is gebouwd voor 1945, en  
 
 d. door de verhuurder noodzakelijkerwijs gelden zijn besteed voor de instandhouding van de monumentale waarde van die woonruimte.   
 
@@ -187,34 +187,19 @@ J. de Ruiter
 | indien in het geheel géén privé-buitenruimte:  | af: 5 punten  | --- |
 | carport  | 2 punten  | --- |
 | --- | --- | --- |
-| 9.* Woonvorm:*   | --- | --- |
-| --- | --- | --- |
-|  *Eengezinshuizen:*   | --- | --- |
-| --- | --- | --- |
-| vrijstaande woning   | 17 punten  | --- |
-| hoekwoning  | 15 punten  | --- |
-| tussenwoning/eindwoning   | 12 punten  | --- |
-| --- | --- | --- | --- | --- |
-|  * Woningen in meergezinshuizen:*   |  *met lift*   | --- |  *zonder lift*   | --- |
-| --- | --- | --- | --- | --- |
-| begane grond  | 6 punten  | --- | 6 punten  | --- |
-| 1e verdieping  | 5 punten  | --- | 3 punten  | --- |
-| 2e verdieping  | 4 punten  | --- | 1 punt  | --- |
-| 3e verdieping  | 4 punten  | --- | 0 punten  | --- |
-| 4e verdieping en hoger  | 4 punten  | --- | 0 punten  | --- |
-| --- | --- | --- | --- | --- |
-| 16 of minder woningen per liftschacht  | 2 punten per woning extra  | --- |
-| --- | --- | --- | --- | --- |
-|  * Duplex:* bovenwoning  | 1 punt  | --- | --- | --- |
-|  benedenwoning  | 4 punten  | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| 10.* Woonomgeving:*   | ten hoogste 25 punten  | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| 11.* Hinderlijke situaties:*   | af ten hoogste 40 punten  | --- | --- | --- |
-| --- | --- | --- | --- | --- |
-| 12.* Bijzondere voorzieningen:*   | --- | --- | --- | --- |
-| Uitsluitend bij serviceflatwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 11 toegekende punten.  | --- |
-|13.*Punten voor schaarstegebied:*  |  –  indien ten aanzien van een woning die is gelegen in een gemeente, genoemd in bijlage III , de laatstelijk onherroepelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning, hoger is dan € 2.900: bij: 25 punten     –  in alle andere gevallen dan hiervoor bedoeld en indien een woning is gelegen in een gemeente, genoemd in bijlage III: bij: 15 punten.     | --- |
+| 9.*Punten voor de WOZ-waarde:*   | --- | --- |
+|- de voor de woning laatstelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken met een minimum van € 40.000:  |bij: 1 punt per € 7.900 van die waarde, | --- |
+| - die waarde, gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, en vervolgens gedeeld door € 120:   |bij: een aantal punten gelijk aan de uitkomst van de berekening. | --- |
+|Indien een woning is gebouwd in het kalenderjaar 2015, 2016, 2017, 2018 of 2019 en ten aanzien daarvan het totaal aantal punten na saldering van de punten van de onderdelen 1 tot en met 8, 110 of meer is, worden minimaal 40 punten toegekend. | --- | --- |
+|Bij ministeriële regeling worden elk jaar, met ingang van 1 juli, de bedragen, genoemd in de eerste volzin, aangepast met de factor iw, bedoeld in artikel 10.3, vijfde lid, van de Wet inkomstenbelasting 2001, met dien verstande dat het op basis daarvan berekende bedrag naar boven wordt afgerond op hele euro’s. | --- | --- |
+|10. 
+Vervallen. | --- | --- |
+|11.   
+Vervallen. | --- | --- |
+|12.* Bijzondere voorzieningen:*   | --- | --- |
+| Uitsluitend bij zorgwoningen:  | bij: 35% van de ingevolge de onderdelen 1 tot en met 8 toegekende punten.  | --- |
+|13. 
+Vervallen. | --- | --- |
 |14. *Beschermd monument:* |– indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988:  |bij: 50 punten |
 
 * maximaal 4 punten** voor de energieprestatie wordt de duplexwoning gewaardeerd als meergezinswoning*** maximaal verdubbeling in verband met kwaliteitsbijtelling (zie toelichting)
@@ -223,7 +208,7 @@ J. de Ruiter
 
 ####Inleiding 
 
-Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel.  Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in artikel 234 van Boek 7 van het Burgerlijk Wetboek zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.  Binnen het in artikel 234 van Boek 7 van het Burgerlijk Wetboek omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd.  Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming en sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten.  Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen.  Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt.  Indien er sprake is van een serviceflatwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 11 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de serviceflatwoning volgens de onderdelen 1 tot en met 11 onvoldoende tot zijn recht komt.  
+Deze toelichting op het woningwaarderingsstelsel vormt een integraal onderdeel van dat stelsel.  Het woningwaarderingsstelsel heeft op zelfstandige woonruimte betrekking, in het navolgende kortweg als 'woning' aangeduid. Hierbij zij opgemerkt dat in artikel 234 van Boek 7 van het Burgerlijk Wetboek zelfstandige woningen worden omschreven als woningen met een eigen toegang welke de bewoner kan bewonen zonder daarbij afhankelijk te zijn van wezenlijke voorzieningen buiten de woning.  Binnen het in artikel 234 van Boek 7 van het Burgerlijk Wetboek omschreven begrip zelfstandige woning zal redelijkerwijs ook begrepen kunnen worden de zogenaamde onvrije woning, te weten een woning waarbij de bewoner voor wezenlijke voorzieningen niet afhankelijk is van gemeenschappelijke voorzieningen, maar waarbij verscheidene vertrekken uitkomen op een gemeenschappelijke verkeersruimte. Indien deze vertrekken afsluitbaar zijn en bereikbaar via een gemeenschappelijke verkeersruimte waarover anderen niet krachtens zakelijk of persoonlijk recht bij uitsluiting zeggenschap hebben, wordt deze woning als zelfstandige woning gewaardeerd.  Tot het gehuurde behorende vertrekken, overige ruimten en voorzieningen (verwarming en sanitair), die buiten de woning, doch binnen het woongebouw zijn gelegen, worden overeenkomstig dit woningwaarderingsstelsel gewaardeerd, mits het mogelijk is het gebruik ervan door derden uit te sluiten.  Gemeenschappelijke vertrekken, overige ruimten, of voorzieningen (verwarming, keuken of sanitair) voor verscheidene zelfstandige woningen, welke binnen het woongebouw zijn gelegen, worden overeenkomstig het woningwaarderingsstelsel gewaardeerd; de punten worden evenredig over het aantal zelfstandige woningen binnen het woongebouw verdeeld, ongeacht de grootte van de afzonderlijke woningen.  Alleen die onderdelen worden in punten gewaardeerd, die tot de onroerende zaak behoren. Door de bewoner onverplicht en voor eigen rekening aangebrachte verbeteringen worden niet met punten gewaardeerd, tenzij de verhuurder voor deze verbeteringen een vergoeding aan de huurder heeft verstrekt.  Indien er sprake is van een zorgwoning - de begripsomschrijving is opgenomen onder punt 12 van deze toelichting - wordt het puntentotaal van de waardering volgens de onderdelen 1 tot en met 8 van het woningwaarderingsstelsel met een percentage van 35 verhoogd. Deze verhoging wordt gegeven vanwege het medegebruik door de huurders van dergelijke woningen van de in het woongebouw en de daarbij behorende onroerende aanhorigheden aanwezige voorzieningen, hetwelk in de waardering van de kwaliteit van de zorgwoning volgens de onderdelen 1 tot en met 8 onvoldoende tot zijn recht komt.  
 
 ### 1  
 
@@ -275,139 +260,31 @@ Privé-buitenruimten zijn tot de woning behorende buitenruimten, waarvan de bewo
 
 ### 9  
 
-####Woonvorm 
+####Punten voor de WOZ-waarde 
 
-Onder een vrijstaande woning wordt een woning verstaan, die los staat van andere bouwwerken welke niet tot de onroerende zaak behoren, met in ieder geval aan drie zijden een privé-buitenruimte, waarbij bovendien langs twee van de gevels de privé-buitenruimte ten minste gemiddeld 2,5 meter breed is (al of niet bebouwd met een tot de woning behorende schuur of garage). Onder een hoekwoning wordt een eengezinswoning verstaan met een privé-buitenruimte langs een van de zijgevels van gemiddeld ten minste 2,5 meter breed (al dan niet bebouwd met een tot de woning behorende schuur of garage). Een hoekwoning zonder deze ruimte van gemiddeld 2,5 meter, geldt als eindwoning.  Drive-in woningen worden als eengezinswoning gewaardeerd.  Maisonettes worden gewaardeerd als een woning in een meergezinshuis; de verdiepingshoogte van het hoofdwoonvertrek is bepalend voor het puntenaantal van de woonvorm.  Als de vloer van het hoofdwoonvertrek van de benedenwoning in een meergezinshuis 1,5 meter of meer boven het maaiveld ligt, wordt deze woning aangemerkt als een etagewoning op de eerste verdieping.  De waardering van woningen met een gemeenschappelijke binnentrap en/of overloop - de zogenaamde onvrije woningen - wordt gelijk gesteld aan die van duplex woningen, met dien verstande dat aan een dergelijke woning in een meergezinshuis op de 2e verdieping of hoger geen punten worden toegekend.  Bij meergezinshuis met 16 woningen of minder per liftschacht, kunnen per woning 2 punten worden bijgeteld.  Bij een serviceflatwoningen wordt het puntentotaal ingevolge het waarderingsstelsel nog vermeerderd met een toeslag van 35%; verwezen wordt verder naar de toelichting op onderdeel 12.  
+Onder WOZ-waarde wordt voor de toepassing van dit onderdeel van de puntenwaardering verstaan: de voor een woning laatstelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken, met een minimumwaarde van € 40.000. Indien de WOZ-waarde betrekking heeft op een gebouwd eigendom in aanbouw als bedoeld in artikel 17, vierde lid, van de Wet waardering onroerende zaken, wordt bij de puntentoekenning uitgegaan van de waarde van de woning als ware de bouw voltooid. Daarbij wordt uitgegaan van de geobjectiveerde stichtingskosten die op grond van de Uitvoeringsregeling instructie waardebepaling Wet waardering onroerende zaken ten grondslag heeft gelegen aan de beschikking op grond van die wet. Indien een woning is gebouwd in het kalenderjaar 2015, 2016, 2017, 2018 of 2019 en ten aanzien daarvan het totaal aantal punten na saldering van de punten van de onderdelen 1 tot en met 8, minimaal 110 punten betreft, bedraagt het aantal punten voor de WOZ-waarde minimaal 40 punten. Afronding van de oppervlakte op hele vierkante meters vindt plaats na saldering van de oppervlakte van alle vertrekken en de overige ruimten; bij 0,5 m² of meer wordt afgerond naar boven, bij minder dan 0,5 m² naar beneden. De totale waardering in punten vindt na saldering en afronding plaats. Bij 0,5 punten of meer wordt afgerond naar boven op hele punten, bij minder dan 0,5 punten wordt afgerond naar beneden op hele punten.
 
 ### 10  
 
-#### Woonomgeving 
-
-Aan de woonomgeving kunnen maximaal 25 punten worden toegekend. Het verdient aanbeveling om de kwaliteit van de woonomgeving te beoordelen op de aspecten, die in tabel a zijn genoemd. Aan de gekozen aspecten dient een zodanig gewicht te worden gegeven dat het maximaal aantal te behalen punten bij waardering van de gekozen aspecten steeds 25 is. In de lijst van aspecten zijn tevens maatstaven opgenomen voor het beoordelen van de aspecten. In een aantal gevallen wordt de loopafstand als maatstaf aanbevolen. Een overzicht van wat als regel als loopafstand wordt gehanteerd, is opgenomen in tabel b.  Het verdient aanbeveling om de waardering van de omgevingskwaliteit bij woningen binnen één woongebouw, voor alle woningen gelijk te stellen.  
-
-### Tabel a  
-
-#### Overzicht van liggingsaspecten 
-
-| Aspecten  | Maatstaven  |
-|:---|:---|
-| 1.  | Aankledingsgroen (zijn er groenstrokenplantsoenen, bomen e.d. in de buurt aanwezig?)  |   –  niet aanwezig      –  in beperkte mate aanwezig     –  in ruime mate aanwezig      |
-| --- | --- | --- |
-| 2.  | Openbaar gebruiksgroen (is er een buurt- of wijkpark(je), een bos of ander terrein, geschikt en toegankelijk voor recreatie, in de omgeving van de woning?)  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| --- | --- | --- |
-| 3.  | Speelgelegenheid voor jonge kinderen (is er geschikte speelruimte of aangelegde speelgelegenheid voor jonge kinderen, bijvoorbeeld een speelplaats, zandbak e.d.?)  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| --- | --- | --- |
-| 4.  | Speelgelegenheid voor oudere kinderen (is er geschikte speelruimte of aangelegde speelgelegenheid voor oudere kinderen, bijvoorbeeld trapveld, speelweide, e.d.?)  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| --- | --- | --- |
-| 5.  | Basisonderwijs  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| --- | --- | --- |
-| 6.  | Winkels voor dagelijkse levensbehoeften  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| --- | --- | --- |
-| 7.  | Stedelijke voorzieningen (grootwinkelbedrijven, horeca, bioscopen, enz.)  |   –  niet aanwezig      –  in beperkte mate aanwezig     –  in ruime mate aanwezig      |
-| --- | --- | --- |
-| 8.  | Bereikbaarheid van de woningen (zijn er mogelijkheden om in de directe omgeving van de woning op de openbare weg voor korte tijd te parkeren?)  |   –  niet aanwezig      –  in beperkte mate aanwezig     –  in ruime mate aanwezig      |
-| --- | --- | --- |
-| 9.  | Openbare parkeergelegenheid (voor lang parkeren)  |   –  niet voldoende aanwezig binnen redelijke afstand     –  voldoende aanwezig binnen redelijke afstand     –  in ruime mate aanwezig binnen redelijke afstand      |
-| --- | --- | --- |
-| 10.  | Halte van het openbaar vervoer (bus of tram)  |   –  niet binnen loopafstand aanwezig     –  binnen loopafstand aanwezig     –  op korte afstand aanwezig      |
-| 11.  | Verkeersoverlast en -onveiligheid (geluidshinder, trillingen, onveilige verkeerssituaties)  | woningen gelegen aan:    –  straat met overwegend doorgaand verkeer     –  straat met overwegend buurtverkeer     –  straat zonder gemotoriseerd verkeer      |
-| --- | --- | --- |
-| 12.  | Onderhoudstoestand woonomgeving (hoe is de onderhoudstoestand van bestrating en openbaar groen in de buurt?)  |   –  slecht onderhouden     –  redelijk onderhouden     –  goed onderhouden      |
-| --- | --- | --- |
-| 13.  | Ligging nabij bedrijven waarvan hinder wordt ondervonden in de vorm van lawaai, stank, verkeersoverlast, opslag of vervuiling  |   –  veel hinder     –  weinig hinder      –  geen hinder      |
-
-### Tabel b  
-
-####Loopafstanden tot de belangrijkste wijkvoorzieningen 
-
-| --- | --- |
-|:---|:---|
-| I. Openbaar gebruiksgroen   | ca. 400-800 meter  |
-| II. Speelgelegenheid voor jonge kinderen   | ca. 100-200 meter  |
-| III. Speelgelegenheid voor oudere kinderen  | ca. 400-800 meter  |
-| IV. Basisonderwijs  | ca. 400-800 meter  |
-| V. Winkels voor dagelijkse levensbehoeften   | ca. 400-800 meter  |
-| VI. Openbare parkeergelegenheid voor lang parkeren  | ca. 100-200 meter  |
-| VII. Halte van het openbaar vervoer (bus of tram)  | ca. 400-800 meter  |
-
-####Puntenboeken 
-
-Teneinde huurder en verhuurder inzicht te bieden in de waardering van de woonomgeving die de huurcommissie doorgaans als redelijk zal beschouwen, worden «puntenboeken» door het bestuur en de zittingsvoorzitters opgesteld op basis van de door hen geformuleerde regels. De puntenboeken zijn openbaar en liggen bij de huurcommissie ter inzage. In deze puntenboeken wordt de omgevingswaardering van de buurt, de straat of het straatdeel of de woning vermeld.  De waardering van de woonomgeving kan zowel per woning plaatsvinden, als per gebied. Indien voor een waardering per gebied wordt gekozen (wijk, buurt, straat of straatdeel), verdient het aanbeveling om de gebiedsgrootte in ieder geval te beperken tot ongeveer 400 * 400 meter.  
-
-####Aftopping omgevingswaardering bij kleinere woningen 
-
-De waardering van de woonomgeving kan bij kleine woningen worden afgetopt. Bij woningen waarvan de som van vertrek- en oppervlakte van overige ruimten kleiner is dan 35 m<sup>2</sup> wordt aanbevolen om de omgevingswaardering die eigenlijk van kracht is, te verminderen met 25%.  
+Vervallen. 
 
 ### 11  
 
-####Hinderlijke situaties 
-
-Er kunnen zich gevallen voordoen van hinder in de woonomgeving. Indien deze hinder zo groot is dat de waardering van de woonomgeving daaraan geen recht doet, kan een aftrek worden toegepast van totaal maximaal 40 punten. Aftrek is uitsluitend mogelijk voor hinderlijke situaties waarmee niet al op andere wijze bij de waardering rekening is gehouden. Hierbij kan vooral worden gedacht aan ernstige geluidsoverlast ten gevolge van weg-, spoor- en vliegverkeer of industrie, aan ernstig verval van de buurt of aan hinder door stadsvernieuwingsactiviteiten en aan in de directe omgeving van de woning optredende niet-incidentele bodem- of luchtverontreiniging. Onderstaand wordt ingegaan op de voornaamste hinderlijke situaties, waarbij voor geluidsoverlast door verkeersmiddelen en door industrie, alsmede voor stadsvernieuwingsactiviteiten een nadere normering met bijbehorende daarvoor geldende (beperkte) aftrek wordt aangegeven. 
-
-####Geluidsoverlast 
-
-Geluidsoverlast kan leiden tot een aftrek van maximaal 35 punten, voorzover deze overlast niet van incidentele aard is. Maatstaf voor de puntenaftrek is de gevelbelasting, in etmaalwaarde, per geluidsbron. Daarbij wordt onderscheid gemaakt tussen overlast ten gevolge van wegverkeer, spoorwegverkeer en industrie. Alleen indien het in tabel c vermelde geluidsniveau zich voordoet, wordt een aftrek als in die tabel vermeld toegepast. 
-
-### Tabel c  
-
-####Puntenaftrek in verband met geluidsoverlast 
-
-|Geluidsbelasting aan de gevel |Weg* |Spoor |Industrie |Vliegverkeer |
-|:---|:---|:---|:---|:---|
-|51 tot en met 55 dB(A) |– |– | 2 | --- |
-|56 tot en met 60 dB(A) |– |– | 5 | --- |
-|61 tot en met 65 dB(A) | --- | --- |10 | --- |
-|66 tot en met 70 dB(A) | --- | --- |35 | --- |
-|59 tot en met 63 dB | 2 | 2 | --- | --- |
-|64 tot en met 68 dB | 5 | 5 | --- | --- |
-|69 tot en met 73 dB |10 |10 | --- | --- |
-|meer dan 73 dB |35 |35 | --- | --- |
-|41 tot en met 45 ke | --- | --- | --- | 5 |
-|46 tot en met 55 ke | --- | --- | --- |10 |
-|56 tot en met 65 ke | --- | --- | --- |15 |
-|meer dan 65 ke | --- | --- | --- |35 |
-
-* De geluidsbelasting van de weg is exclusief de aftrek op grond van artikel 110g Wet geluidhinder.Bij hinder van meer dan één geluidsbron wordt de aftrek gekozen van de bron die tot de hoogste puntenaftrek leidt. De aftrek in verband met wegverkeer geldt alleen bij wegen met een verkeersintensiteit van ten minste gemiddeld 2400 voertuigen per etmaal.  Bij een geluidsbelasting aan de gevel van woningen met een puntenaftrek volgens bovenstaande tabel kunnen maatregelen zijn dan wel worden getroffen om de geluidsoverlast van de woningen te beperken. Indien als gevolg van deze maatregelen het geluidsniveau binnen de woningen minder dan 43 dB voor weg- en spoorweglawaai en minder dan 33 dB voor industrielawaai bedraagt, wordt de puntenaftrek gehalveerd.  
-
-####Stadsvernieuwingsaftrek 
-
-Aanbevolen wordt een aftrek voor buurten die ernstig in verval zijn of waar stadsvernieuwingsactiviteiten in uitvoering zijn, van ten hoogste 10 punten. De aftrek wordt slechts toegepast in gebieden die aangewezen zijn overeenkomstig artikel 3.5 van de Wet ruimtelijke ordening. 
-
-####Puntenboeken 
-
-Het verdient aanbeveling dat daar waar relatief vaak een puntenaftrek vanwege hinderlijke situaties gegeven kan worden, door het bestuur en de zittingsvoorzitters, op basis van de door hen geformuleerde regels, van de desbetreffende buurt, straat of straatdelen, in de puntenboeken met betrekking tot de waardering van de kwaliteit van de woonomgeving, tevens de puntenaftrek wordt vermeld die in het kader van de waardering van hinderlijke situaties doorgaans door de huurcommissie als redelijk zal worden beschouwd. Deze puntenboeken zijn openbaar en liggen bij de huurcommissie ter inzage. 
+Vervallen.
 
 ### 12  
 
-####Serviceflatwoningen 
+####Zorgwoningen
 
-Onder serviceflatwoning wordt voor de toepassing van dit onderdeel van de puntenwaardering verstaan: een in een woongebouw gelegen woonruimte die een zelfstandige woning vormt en waarbij de op deze woonruimte betrekking hebbende overeenkomst van huur en verhuur ten minste mede omvat:  
+Onder zorgwoning wordt voor de toepassing van dit onderdeel van de puntenwaardering verstaan: een in een woongebouw gelegen woonruimte die een zelfstandige woning vormt, waarbij woongebouw en woning geschikt en bestemd zijn voor mensen met een fysieke beperking, hetgeen in ieder geval blijkt uit een drempelloze toegankelijkheid en doorgankelijkheid, en waarbij de op deze woonruimte betrekking hebbende overeenkomst van huur en verhuur ten minste mede omvat: 
 
-a. de aanwezigheid in de woning van een noodoproepinstallatie;   
+a) de aanwezigheid in de woning van een noodoproepinstallatie;  
 
-b. het verstrekken van maaltijden vanwege de verhuurder;   
-
-c. de levering vanwege de verhuurder indien nodig van medische, dan wel paramedische zorg van eenvoudige aard;   
-
-d. het gebruik van de tot het woongebouw of zijn onroerende aanhorigheden ten minste behorende ruimten voor recreatie en voor het verstrekken van logies aan door de huurder aangewezen derden;   
-
-e. leveringen en diensten vanwege de verhuurder aan de huurder, strekkende tot het verwezenlijken van het gebruik van de onder d bedoelde ruimten overeenkomstig de bestemming.    Uitdrukkelijk zij vermeld dat bovenstaande opsomming van elementen niet limitatief is; ook andere elementen kunnen onderdeel uitmaken van de overeenkomst.  Essentiële elementen zijn derhalve:  
-
-- een in de woning aanwezige noodoproepinstallatie (onderdeel a); in of in de onmiddellijke nabijheid van het gebouw dient permanent iemand aanwezig te zijn, die op een oproep onmiddellijk reageert;   
-
-- het verstrekken aan de huurder vanwege de verhuurder van maaltijden (onderdeel b); de verstrekking van maaltijden kan ook plaatsvinden in speciaal daarvoor bestemde ruimten of in de recreatiezaal;   
-
-- de levering indien nodig van (para)medische hulp van eenvoudige aard vanwege de verhuurder (onderdeel c); het betreft het aanbrengen van verbandmiddelen e.d., zo nodig in overleg met de behandelend arts;   
-
-- het gebruik van tot het woongebouw of de aanhorigheden behorende ruimten voor recreatie (waar bijvoorbeeld ook hobbies kunnen worden beoefend) en voor het bieden van logies aan familie of kennissen van de huurder bij bezoeken van langer dan een dag (onderdeel d);   
-
-- leveringen en diensten vanwege de verhuurder aan de huurder, strekkende tot een gebruik overeenkomstig de bestemming van de hierboven genoemde ruimtes (zoals materiaal voor recreatie en bedden en beddegoed voor logies) (onderdeel e).    Voor de goede orde zij opgemerkt dat de woorden 'vanwege de verhuurder' zijn gebruikt om aan te geven dat die vormen van service niet door de verhuurder zelf behoeven te worden verleend, maar ook via een andere natuurlijke persoon of rechtspersoon kunnen worden verleend, mits het maar op een (mede) door de verhuurder opgezette en met de huurder in onverbrekelijke samenhang met de huurovereenkomst overeengekomen constructie berust.  De aandacht wordt er verder nog op gevestigd dat de jurisprudentie inzake de huurwetgeving (onder meer HR 28 juni 1985, NJ 86-38 en HR 19 februari 1993, NJ 93-247) keer op keer laat zien dat de benaming welke partijen aan hun overeenkomst en aan de verschillende woonruimtevormen hebben gegeven, niet doorslaggevend is.  
+b) het gebruik van de tot het woongebouw of zijn onroerende aanhorigheden ten minste behorende gemeenschappelijke ruimten voor maaltijden of recreatie, en die voor dit gebruik zijn ingericht.   De drempelloze toegankelijkheid en doorgankelijkheid moet in ieder geval blijken uit een minimale breedte van 1,2 meter van alle gangen waar de bewoners doorheen moeten om de eigen woning en andere relevante ruimten in het complex te kunnen bereiken. Ook moeten er voorzieningen zijn (liften of hellingbanen) bij drempels van 0,02 meter of hoger.
 
 ### 13  
 
-####Waardering woning in schaarstegebied
-
-In bijlage III zijn de gemeenten die gelegen zijn in het zogenoemde schaarstegebied opgenomen. Indien een woning is gelegen in een van die gemeenten en de laatstelijk onherroepelijk vastgestelde waarde op voet van hoofdstuk IV van de Wet waardering onroerende zaken gedeeld door het aantal m<sup>2</sup> van de vertrekken en de overige ruimten, bedoeld in de onderdelen 1 en 2, van die woning hoger is dan € 2 900, worden 25 punten toegekend. In alle andere gevallen worden ten aanzien van een woning die is gelegen in een van die gemeenten, 15 punten toegekend. 
+Vervallen. 
 
 ###14 
 
@@ -419,7 +296,7 @@ Indien woonruimte bestaat uit of deel uitmaakt van een beschermd monument als be
 
 ####Slotopmerking 
 
-Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij serviceflatwoningen geldende toeslag) afgerond op hele punten. Bij 0,5 punten of meer wordt afgerond naar boven op hele punten, bij minder dan 0,5 punten wordt afgerond naar beneden op hele punten.  
+Het puntentotaal per woning wordt na eindsaldering (met inbegrip van de bij zorgwoningen geldende toeslag) afgerond op hele punten. Bij 0,5 punten of meer wordt afgerond naar boven op hele punten, bij minder dan 0,5 punten wordt afgerond naar beneden op hele punten.  
 
 ### B  
 
@@ -706,155 +583,6 @@ b. ernstig het woongenot schaadt, waarvan bijvoorbeeld sprake is bij:
 4. Onderhoudsgebreken of tekortkomingen als bedoeld in artikel 8 van onderdeel 1, categorie A, of als bedoeld in onderdeel 1, categorie B of C, aan de eigen woonwagen kunnen niet van invloed zijn op de huurprijs van de standplaats.  
 
 5. Maatgevend voor de beoordeling is het tijdstip waarop de huurovereenkomst is ingegaan. Indien partijen in onderling overleg wijziging in de situatie hebben gebracht, geldt de gewijzigde situatie als uitgangspunt.   
-
-### Bijlage  III  
-
-####bij het Besluit huurprijzen woonruimte
-
-Gemeenten in schaarstegebied:  
-
-| gemeente  |
-|:---|
-| Aalsmeer  |
-| Alkmaar  |
-| Amersfoort  |
-| Amstelveen  |
-| Amsterdam  |
-| Apeldoorn  |
-| Asten  |
-| Baarn  |
-| Barneveld  |
-| Beemster  |
-| Bergeijk  |
-| Bergen (Noord-Holland)  |
-| Bernheze  |
-| Best  |
-| Bladel  |
-| Blaricum  |
-| Bloemendaal  |
-| Boekel  |
-| Boxmeer  |
-| Boxtel  |
-| Bunnik  |
-| Bunschoten  |
-| Buren  |
-| Bussum  |
-| Cranendonck  |
-| Cuijk  |
-| Culemborg  |
-| De Bilt  |
-| De Ronde Venen  |
-| Deurne  |
-| Diemen  |
-| Edam-Volendam  |
-| Ede  |
-| Eemnes  |
-| Eersel  |
-| Eindhoven  |
-| Elburg  |
-| Epe  |
-| Ermelo  |
-| Geldermalsen  |
-| Geldrop-Mierlo  |
-| Gemert-Bakel  |
-| Graft-De Rijp  |
-| Grave  |
-| Haaren  |
-| Haarlem  |
-| Haarlemmerliede c.a.  |
-| Haarlemmermeer  |
-| Harderwijk  |
-| Hattem  |
-| Heemstede  |
-| Heerde  |
-| Heerhugowaard  |
-| Heeze-Leende  |
-| Heiloo  |
-| Helmond  |
-| ’s Hertogenbosch  |
-| Heusden  |
-| Hillegom  |
-| Hilversum  |
-| Houten  |
-| Huizen  |
-| IJsselstein  |
-| Kaag en Braassem  |
-| Katwijk  |
-| Laarbeek  |
-| Landerd  |
-| Landsmeer  |
-| Langedijk  |
-| Laren  |
-| Leiden  |
-| Leiderdorp  |
-| Leusden  |
-| Lingewaal  |
-| Lisse  |
-| Lopik  |
-| Maasdonk  |
-| Maasdriel  |
-| Mill en Sint Hubert  |
-| Montfoort  |
-| Muiden  |
-| Naarden  |
-| Neder-Betuwe  |
-| Neerijnen  |
-| Nieuwegein  |
-| Nijkerk  |
-| Noordwijk  |
-| Noordwijkerhout  |
-| Nuenen c.a.  |
-| Nunspeet  |
-| Oegstgeest  |
-| Oirschot  |
-| Oldebroek  |
-| Oostzaan  |
-| Oss  |
-| Ouder-Amstel  |
-| Oudewater  |
-| Purmerend  |
-| Putten  |
-| Renswoude  |
-| Reusel-De Mierden  |
-| Rhenen  |
-| Schermer  |
-| Scherpenzeel  |
-| Schijndel  |
-| Sint Anthonis  |
-| Sint-Michielsgestel  |
-| Sint-Oedenrode  |
-| Soest  |
-| Someren  |
-| Son en Breugel  |
-| Stichtse Vecht  |
-| Teylingen  |
-| Tiel  |
-| Uden  |
-| Uithoorn  |
-| Utrecht  |
-| Utrechtse Heuvelrug  |
-| Valkenswaard  |
-| Veenendaal  |
-| Veghel  |
-| Veldhoven  |
-| Vianen  |
-| Voorschoten  |
-| Voorst  |
-| Vught  |
-| Waalre  |
-| Wageningen  |
-| Waterland  |
-| Weesp  |
-| West Maas en Waal  |
-| Wijdemeren  |
-| Wijk bij Duurstede  |
-| Woerden  |
-| Woudenberg  |
-| Zaltbommel  |
-| Zandvoort  |
-| Zeevang  |
-| Zeist  |
-| Zoeterwoude  |
 
 ### Bijlage  IIIa  
 

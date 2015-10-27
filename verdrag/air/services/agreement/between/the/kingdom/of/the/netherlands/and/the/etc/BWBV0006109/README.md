@@ -4,20 +4,20 @@
 
 ####Air Services Agreement between the Kingdom of the Netherlands and the Republic of Rwanda
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-Preamble The Kingdom of the Netherlands and the Republic of Rwanda, hereinafter referred to as the “Contracting Parties”, Being parties to the [Convention on International Civil Aviation](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) opened for signature at Chicago on 7 December 1944; Desiring to contribute to the progress of international aviation; Desiring to guarantee the highest level of safety and security in international air transport; Desiring to conclude an Agreement for the purpose of establishing air services between their Territories and beyond, supplementary to the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md);   Have agreed as follows:     
+Preamble The Kingdom of the Netherlands and the Republic of Rwanda, hereinafter referred to as the “Contracting Parties”, Being parties to the Convention on International Civil Aviation opened for signature at Chicago on 7 December 1944; Desiring to contribute to the progress of international aviation; Desiring to guarantee the highest level of safety and security in international air transport; Desiring to conclude an Agreement for the purpose of establishing air services between their Territories and beyond, supplementary to the Convention;   Have agreed as follows:     
 ### CHAPTER  I  
 
 ####INTRODUCTION
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  1  
 
 ####Definitions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 For the purpose of this Agreement: 
 
@@ -27,11 +27,11 @@ b) the terms “Agreed Service” and “Specified Route” mean: international 
 
 c) the term “Agreement” means: this Agreement, its Annex drawn up in application thereof, as well as any amendment to the Agreement or the Annex;  
 
-d) the terms “Air Service”, “International Air Service” and “Airline” shall have the meaning respectively assigned to them in [Article 96 of the Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md);  
+d) the terms “Air Service”, “International Air Service” and “Airline” shall have the meaning respectively assigned to them in Article 96 of the Convention;  
 
 e) the term “Change of Aircraft” means: the operation of one of the Agreed Services by a Designated Airline in such a way that one or more sectors of the Specified Route are flown by different aircraft;  
 
-f) the term “the Convention” means: the [Convention on International Civil Aviation](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md), opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under [Article 90 of that Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) and any amendment of the [Annexes](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) or the Convention under Articles 90 and [94](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;  
+f) the term “the Convention” means: the Convention on International Civil Aviation, opened for signature at Chicago on 7 December 1944, and includes any Annex adopted under Article 90 of that Convention and any amendment of the Annexes or the Convention under Articles 90 and 94 thereof, insofar as those Annexes and amendments have become effective for, or been ratified by both Contracting Parties;  
 
 g) the term “Designated Airline” means: the Airline which has been designated and authorized in accordance with Article 3 of this Agreement (Designation and Authorization);  
 
@@ -49,19 +49,19 @@ k) the term “User Charge” means: a charge imposed on Airlines for the provis
 
 l) the term “Capacity” means: the combination of frequency per week and (the configuration of) the type of aircraft used on the route offered to the public by the Designated Airline;  
 
-m) the term “EU Member State” means: a State that is now or in the future a Contracting Party to the [Treaty on the European Union](../../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) and the [Treaty on the functioning of the European Union](../../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md).   
+m) the term “EU Member State” means: a State that is now or in the future a Contracting Party to the Treaty on the European Union and the Treaty on the functioning of the European Union.   
 
 ### CHAPTER  II  
 
 ####OBJECTIVES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  2  
 
 ####Grant of Rights
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Each Contracting Party grants to the other Contracting Party, except as otherwise specified in the Annex, the following rights for the conduct of international air transportation by the Designated Airline(s) of the other Contracting Party: 
 
@@ -76,7 +76,7 @@ c) while operating an Agreed Service on a Specified Route, the right to make sto
 
 ####Designation and Authorization
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Either Contracting Party shall have the right to designate, by written notification through diplomatic channels to the other Contracting Party, two Airlines for passenger/combined services and two Airlines for all cargo services to operate International Air Services on the Specified Routes in the Annex and to substitute another Airline for an Airline previously designated.   
 2.  On receipt of such a notification, each Contracting Party shall, without delay, grant to the Airline(s) so designated by the other Contracting Party the appropriate operating authorizations subject to the provisions of this Article, unless it is not satisfied that: 
@@ -106,7 +106,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Revocation and Suspension of Authorization
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Each Contracting Party shall have the right to withhold, revoke, suspend or limit the operating authorizations of an Airline designated by the other Contracting Party: 
 
@@ -130,7 +130,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 (iv) in case the other Contracting Party is not maintaining and administering the standards set forth in Article 15 (Safety) of this Agreement;  
 
-(v) in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md); or  
+(v) in the event of failure by such Airline to qualify before the Aeronautical Authorities of the Contracting Party assessing the authorization, under the laws and regulations normally and reasonably applied to the operation of International Air Services by these Authorities in conformity with the Convention; or  
 
 (vi) in case the Airline otherwise fails to operate in accordance with the conditions prescribed under this Agreement.     
 2.  Unless immediate action is essential to prevent further non-compliance with paragraph 1 of this Article, the rights established by this Article shall be exercised only after consultation with the other Contracting Party. Unless otherwise agreed by the Contracting Parties, such consultations shall begin within a period of sixty (60) days from the date of receipt of the request.   
@@ -140,13 +140,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####COMMERCIAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  5  
 
 ####Prices
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Each Contracting Party shall allow Prices for air transportation to be established by each Designated Airline based upon commercial considerations in the marketplace. Intervention by the Contracting Parties shall be limited to: 
 
@@ -163,7 +163,7 @@ c) protection of Airlines from Prices that are artificially low due to direct or
 
 ####Commercial Activities
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  The Designated Airline(s) of each Contracting Party shall be allowed: 
 
@@ -202,7 +202,7 @@ f) These provisions shall be applicable to passenger, combination and all-cargo 
 
 ####Change of Aircraft
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  On any segment or segments of the Specified Routes, a Designated Airline may perform international air transportation without any limitation as to change at any point on the Specified Route, in type or number of aircraft operated, provided that in the outbound direction the transportation beyond such point is a continuation of the transportation from the Territory of the Contracting Party that has designated the Airline and, in the inbound direction, the transportation to the Territory of the Contracting Party that has designated the Airline is a continuation of the transportation from beyond such point.   
 2.  For the purpose of Change of Aircraft operations, a Designated Airline may use its own equipment and, subject to national regulations, leased equipment, and may operate under commercial and/or cooperative marketing arrangements with (an) other Airline(s).   
@@ -212,24 +212,24 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Fair Competition
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Each Contracting Party shall allow a fair and equal opportunity for each Designated Airline to compete in providing the international air transportation governed by this Agreement.   
 2.  Each Contracting Party shall take all appropriate action within its jurisdiction to eliminate all forms of discrimination or unfair competitive practices adversely affecting the competitive position of a Designated Airline of the other Contracting Party.   
-3.  Each Contracting Party shall allow each Designated Airline to determine the frequency and Capacity of the international air transportation it offers based upon commercial considerations in the marketplace. Consistent with this right, neither Contracting Party shall unilaterally limit the volume of traffic, frequency or regularity of service, or the aircraft type(s) operated by the Designated Airline(s) of the other Contracting Party, except as may be required for customs, technical, operational, or environmental reasons under uniform conditions consistent with [Article 15 of the Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md).   
+3.  Each Contracting Party shall allow each Designated Airline to determine the frequency and Capacity of the international air transportation it offers based upon commercial considerations in the marketplace. Consistent with this right, neither Contracting Party shall unilaterally limit the volume of traffic, frequency or regularity of service, or the aircraft type(s) operated by the Designated Airline(s) of the other Contracting Party, except as may be required for customs, technical, operational, or environmental reasons under uniform conditions consistent with Article 15 of the Convention.   
 4.  Neither Contracting Party shall impose on the other Contracting Party’s Designated Airlines a first-refusal requirement, uplift ratio, no-objection fee, or any other requirement with respect to Capacity, frequency or traffic that would be inconsistent with the purposes of this Agreement.  
 
 ### CHAPTER  IV  
 
 ####FINANCIAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  9  
 
 ####Taxes, Customs Duties and Charges
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Aircraft operating on International Air Services by the Designated Airline(s) of either Contracting Party, as well as their regular equipment, spare parts, supplies of fuels and lubricants, Stores as well as advertising and promotional material kept on board such aircraft shall, on the basis of reciprocity, be exempt from all customs duties, inspection fees and similar national or local duties and charges, on arrival in the Territory of the Contracting Party, provided such equipment and supplies remain on board the aircraft up to such time as they are re-exported.   
 2.  With regard to regular equipment, spare parts, supplies of fuels and lubricants and Stores introduced into the Territory of one Contracting Party by or on behalf of a Designated Airline of the other Contracting Party or taken on board the aircraft operated by such Designated Airline and intended solely for use on board that aircraft while operating International Air Services, no duties and charges, including customs duties and inspection fees imposed in the Territory of the first Contracting Party, shall be applied, even when these supplies are to be used on the parts of the journey performed over the Territory of the Contracting Party in which they are taken on board. The Articles referred to above may be required to be kept under customs supervision and control. The provisions of this paragraph cannot be interpreted in such a way that a Contracting Party can be made subject to the obligation to refund customs duties which already have been levied on the items referred to above.   
@@ -242,7 +242,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####User Charges
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 User Charges that may be imposed and or controlled by the competent charging authorities or bodies of each Contracting Party on the Airlines of the other Contracting Party shall be just, reasonable, not unjustly discriminatory, and equitably appointed among categories of users. In any event, any such User Charges shall be assessed on the Airlines of the other Contracting Party on terms not less favourable than the most favorable terms available to any other Airline at the time the charges are assessed. User Charges imposed on the Airlines of the other Contracting Party may reflect, but shall not exceed, the full cost to the competent charging authorities or bodies of providing the appropriate airport, airport environmental, air navigation, and aviation security facilities and services at the airport or within the airport system. Such full cost may include a reasonable return on assets, after depreciation. Facilities and services for which charges are made shall be provided on an efficient and economic basis. Each Contracting Party shall encourage consultations between the competent charging authorities or bodies in its Territory and the Airlines using the services and facilities, and shall encourage the competent charging authorities or bodies and the Airlines to exchange such information as may be necessary to permit an accurate review of the reasonableness of the charges in accordance with the principles of paragraphs 1 and 2 of this Article. Each Contracting Party shall encourage the competent charging authorities to provide users with reasonable notice of any proposal for charges to enable users to express their views before changes are made. Neither Contracting Party shall be held to be in breach of a provision of this Article, unless: (i) it fails to undertake a review of the charge or practice that is the subject of complaint by the other Contracting Party within a reasonable amount of time; or (ii) following such a review it fails to take all steps within its power to remedy any charge or practice that is inconsistent with this Article. 
 
@@ -250,7 +250,7 @@ User Charges that may be imposed and or controlled by the competent charging aut
 
 ####Double Taxation
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Income and profits from the operation of aircraft in international traffic shall be taxable only in the State in which the place of effective management of the Designated Airline is situated.   
 2.  Gains from the alienation of aircraft operated in international traffic shall be taxable only in the State in which the place of effective management of the Designated Airline is situated.   
@@ -262,7 +262,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Transfer of Funds
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  The Designated Airline(s) of each Contracting Party shall be entitled to transfer, from the Territory of sale to their home Territory the excess, in the Territory of sale, of receipts over expenditure. Included in such net transfer shall be revenues from sales, made directly or through agents, of air transport services, and ancillary or supplemental services, and normal commercial interest earned on such revenues while on deposit awaiting transfer.   
 2.  The Designated Airline(s) of each Contracting Party shall receive approval for such transfer within at most thirty (30) days of application, into any currency, at the official rate of exchange for conversion of local currency, as at the date of sale.   
@@ -272,13 +272,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####REGULATORY PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  13  
 
 ####Application of Laws, Regulations and Procedures
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  The laws, regulations and procedures of either Contracting Party relating to the entrance or entry into or departure from its Territory of aircraft engaged in International Air Services, or to the operation and navigation of such aircraft, shall be complied with by the Designated Airline(s) of the other Contracting Party upon their entrance into, and until and including their departure from, the said Territory.   
 2.  The laws, regulations and procedures of either Contracting Party relating to immigration, passports, or other approved travel documents, entry, clearance, customs and quarantine shall be complied with, by crews or passengers and/or on behalf of cargo and mail carried by aircraft of the Designated Airline(s) of the other Contracting Party upon their entrance into, and until and including their departure from the Territory of the said Contracting Party.   
@@ -290,25 +290,25 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Recognition of Certificates and Licenses
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-1.  Certificates of airworthiness, certificates of competency and licenses issued, or rendered in reciprocity, by one Contracting Party and still valid, shall be recognized as valid by the other Contracting Party for the purpose of operating the Agreed Services on the Specified Routes, provided that the requirements under which such certificates and licenses were issued, or rendered in reciprocity, are equal to or higher than the minimum requirements which are, or may be in the future, established under the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md).   
+1.  Certificates of airworthiness, certificates of competency and licenses issued, or rendered in reciprocity, by one Contracting Party and still valid, shall be recognized as valid by the other Contracting Party for the purpose of operating the Agreed Services on the Specified Routes, provided that the requirements under which such certificates and licenses were issued, or rendered in reciprocity, are equal to or higher than the minimum requirements which are, or may be in the future, established under the Convention.   
 2.  Each Contracting Party, however, reserves the right to refuse to recognize, for flights above its Territory, certificates of competency and licenses granted to or validated for its own nationals by the other Contracting Party.  
 
 ### Article  15  
 
 ####Safety
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Each Contracting Party may request consultations at any time concerning safety standards in any area relating to air crew, aircraft or their operation adopted by the other Contracting Party. Such consultations shall take place within 30 (thirty) days of that request.   
-2.  If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md), the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of Article 4 of this Agreement (Revocation and Suspension of Authorization).   
-3.  Notwithstanding the obligations mentioned in [Article 33 of the Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) it is agreed that any Aircraft operated by or, under a lease arrangement, on behalf of the Airline or Airlines of one Contracting Party on Services to or from the Territory of the other Contracting Party may, while within the Territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft, to check both the validity of the aircraft documents and those of its crew and the apparent conditions of the aircraft and its equipment (ramp inspections), provided this does not lead to unreasonable delay.   
+2.  If, following such consultations, one Contracting Party finds that the other Contracting Party does not effectively maintain and administer safety standards and requirements in any such area that are at least equal to the minimum standards established at that time pursuant to the Convention, the first Contracting Party shall notify the other Contracting Party of those findings and the steps considered necessary to conform with those minimum standards, and that other Contracting Party shall take appropriate corrective action. Failure by the other Contracting Party to take appropriate action within fifteen (15) days or such longer period as may be agreed, shall be grounds for the application of Article 4 of this Agreement (Revocation and Suspension of Authorization).   
+3.  Notwithstanding the obligations mentioned in Article 33 of the Convention it is agreed that any Aircraft operated by or, under a lease arrangement, on behalf of the Airline or Airlines of one Contracting Party on Services to or from the Territory of the other Contracting Party may, while within the Territory of the other Contracting Party, be made the subject of an examination by the authorized representatives of the other Contracting Party, on board and around the aircraft, to check both the validity of the aircraft documents and those of its crew and the apparent conditions of the aircraft and its equipment (ramp inspections), provided this does not lead to unreasonable delay.   
 4.  If any such ramp inspection or series of ramp inspections gives rise to: 
 
-a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md); or  
+a) serious concerns that an aircraft or the operation of an aircraft does not comply with the minimum standards established at that time pursuant to the Convention; or  
 
-b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md),   the Contracting Party carrying out the inspection shall, for the purpose of [Article 33 of the Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md), be free to conclude that the requirements under which the certificate or licenses in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md).   
+b) serious concerns that there is a lack of effective maintenance and administration of safety standards established at that time pursuant to the Convention,   the Contracting Party carrying out the inspection shall, for the purpose of Article 33 of the Convention, be free to conclude that the requirements under which the certificate or licenses in respect of that aircraft or in respect of the crew of that aircraft had been issued or rendered valid, or that the requirements under which that aircraft is operated, are not equal to or above the minimum standards established pursuant to the Convention.   
 5.  In the event that access for the purpose of undertaking a ramp inspection of an aircraft operated by the Airline or Airlines of one Contracting Party in accordance with paragraph 3 of this Article is denied by the representative of that Airline or Airlines, the other Contracting Party shall be free to infer that serious concerns of the type referred to in paragraph 4 of this Article arise and to draw the conclusions referred to in that paragraph.   
 6.  Each Contracting Party reserves the right to suspend or vary the operating authorization of an Airline or Airlines of the other Contracting Party immediately in the event the first Contracting Party concludes, whether as a result of a ramp inspection, a series of ramp inspections, a denial of access for ramp inspection, consultations or otherwise, that immediate action is essential to the safety of the Airline’s operation.   
 7.  Any action by one Contracting Party in accordance with the previous paragraphs of this Article shall be discontinued once the basis for the taking of that action ceases to exist.   
@@ -318,12 +318,12 @@ b) serious concerns that there is a lack of effective maintenance and administra
 
 ####Aviation Security
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-1.  Consistent with their rights and obligations under international law, the Contracting Parties reaffirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall in particular act in conformity with the provisions of the [Convention on Offences and Certain Other Acts Committed on Board Aircraft](../../../../../../../../../../../../../../verdrag/convention/on/offences/and/certain/other/acts/committed/on/board/aircraft/BWBV0004659/README.md), signed at Tokyo on 14 September 1963, the [Convention for the Suppression of Unlawful Seizure of Aircraft](../../../../../../../../../../../../../../verdrag/convention/for/the/suppression/of/unlawful/seizure/of/aircraft/BWBV0004424/README.md), signed at The Hague on 16 December 1970, the [Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation](../../../../../../../../../../../../../../verdrag/convention/for/the/suppression/of/unlawful/acts/against/the/safety/of/etc/BWBV0003604/README.md), signed at Montreal on 23 September 1971, the [Montreal Supplementary Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation](../../../../../../../../../../../../../../verdrag/protocol/for/the/suppression/of/unlawful/acts/of/violence/at/airports/etc/BWBV0002152/README.md), signed at Montreal on 24 February 1988, the [Convention on the Marketing of Plastic Explosives for the Purpose of Detection](../../../../../../../../../../../../../../verdrag/convention/on/the/marking/of/plastic/explosives/for/the/purpose/of/etc/BWBV0003003/README.md), signed at Montreal on 1 March 1991 and any aviation security agreement that becomes binding on both Contracting Parties.   
+1.  Consistent with their rights and obligations under international law, the Contracting Parties reaffirm that their obligation to each other to protect the security of civil aviation against acts of unlawful interference forms an integral part of this Agreement. Without limiting the generality of their rights and obligations under international law, the Contracting Parties shall in particular act in conformity with the provisions of the Convention on Offences and Certain Other Acts Committed on Board Aircraft, signed at Tokyo on 14 September 1963, the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on 16 December 1970, the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, signed at Montreal on 23 September 1971, the Montreal Supplementary Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, signed at Montreal on 24 February 1988, the Convention on the Marketing of Plastic Explosives for the Purpose of Detection, signed at Montreal on 1 March 1991 and any aviation security agreement that becomes binding on both Contracting Parties.   
 2.  The Contracting Parties shall provide upon request all necessary assistance to each other to prevent acts of unlawful seizure of civil aircraft and other unlawful acts against the safety of such aircraft, their passengers and crew, airports and air navigation facilities, and any other threat to the security of civil aviation.   
 3.  When an incident or threat of an incident of unlawful seizure of civil aircraft or other unlawful acts against the safety of such aircraft, their passengers and crew, airports or air navigation facilities occurs, the Contracting Parties shall assist each other by facilitating communications and other appropriate measures intended to terminate rapidly and safely such incident or threat thereof.   
-4.  The Contracting Parties shall, in their mutual relations, act in conformity with the aviation security provisions established by the International Civil Aviation Organization and designated as [Annexes to the Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) to the extent that such security provisions are applicable to the Contracting Parties. Each Contracting Party shall require that its Airlines and the operators of airports in its Territory act in conformity with such aviation security provisions.   
+4.  The Contracting Parties shall, in their mutual relations, act in conformity with the aviation security provisions established by the International Civil Aviation Organization and designated as Annexes to the Convention to the extent that such security provisions are applicable to the Contracting Parties. Each Contracting Party shall require that its Airlines and the operators of airports in its Territory act in conformity with such aviation security provisions.   
 5.  Each Contracting Party agrees that its Airlines shall be required to observe the aviation security provisions referred to in paragraph 4 of this Article required by the other Contracting Party for entry into the Territory of that other Contracting Party. For departure from, or while within, the Territory of the Netherlands, Airlines shall be required to observe aviation security provisions in conformity with European Union law. For departure from, or while within, the Territory of Rwanda, Airlines shall be required to observe aviation security provisions in conformity with the law in force in that country, as well as African Union relevant regulations applicable to security. Each Contracting Party shall ensure that adequate security measures are effectively applied within its Territory to protect the aircraft and to inspect passengers, crew, carry-on items, baggage, cargo and aircraft Stores prior to and during boarding or loading, and that those measures are adjusted to meet any increased threat to the security of civil aviation. Each Contracting Party agrees that security provisions required by the other Contracting Party for departure from and while within the Territory of that other Contracting Party must be observed. Each Contracting Party shall also act favourably upon any request from the other Contracting Party for reasonable special security measures to meet a particular threat.   
 6.  With full regard and mutual respect for each other’s sovereignty, a Contracting Party may adopt security measures for entry into its Territory. Where possible, that Contracting Party shall take into account the security measures already applied by the other Contracting Party and any views that the other Contracting Party may offer. Each Contracting Party recognises, however, that nothing in this Article limits the rights of a Contracting Party to refuse entry into its Territory of any flight of flights that it deems to present a threat to its security.   
 7.  A Contracting Party may take emergency measures to meet a specific security threat. Such measures shall be notified immediately to the other Contracting Party.   
@@ -334,13 +334,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####PROCEDURAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  17  
 
 ####Timetable
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Neither Contracting Party shall require the filing of schedules, programs for flights nor operational plans by Designated Airline(s) of the other Contracting Party for approval, except as may be required on a non-discriminatory basis to enforce the uniform conditions foreseen by paragraph 2 of Article 8 (Fair Competition) of this Agreement or as may be specifically authorized in the Annex to this Agreement. If a Contracting Party requires filings for information purposes, it shall minimize the administrative burdens of filing requirements and procedures on air transportation intermediaries and on Designated Airlines of the other Contracting Party. 
 
@@ -348,7 +348,7 @@ Neither Contracting Party shall require the filing of schedules, programs for fl
 
 ####Consultation and Amendment
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  In a spirit of close cooperation the Aeronautical Authorities of the Contracting Parties may consult each other from time to time with a view to ensuring the implementation of, and satisfactory compliance with, the provisions of this Agreement.   
 2.  Either Contracting Party may request consultations with a view to amend this Agreement and or its Annex. These consultations shall begin within sixty (60) days from the date of the receipt of the request by the other Contracting Party, unless otherwise agreed. Such consultations may be conducted through discussion or by correspondence.   
@@ -359,7 +359,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Settlement of Disputes
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  If any dispute arises between the Contracting Parties relating to the interpretation or application of this Agreement, the Contracting Parties shall in the first place endeavour to settle their dispute by bilateral negotiations.   
 2.  If the Contracting Parties fail to reach a settlement by negotiation, the dispute may at the request of either Contracting Party be submitted for decision to a tribunal of three arbitrators, one to be named by each Contracting Party and the third to be agreed upon by the two arbitrators so chosen, provided that such third arbitrator shall not be a national of either Contracting Party or a national of an EU Member State. Each of the Contracting Parties shall designate an arbitrator within a period of sixty (60) days from the date of receipt by either Contracting Party from the other Contracting Party of a diplomatic note requesting arbitration of the dispute and the third arbitrator shall be agreed upon within a further period of sixty (60) days. If either of the Contracting Parties fails to designate its own arbitrator within the period of sixty (60) days or if the third arbitrator is not agreed upon within the period indicated, the President of the Council of the International Civil Aviation Organization may be requested by either Contracting Party to appoint an arbitrator or arbitrators.   
@@ -369,13 +369,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####FINAL PROVISIONS
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Article  20  
 
 ####Duration and Termination
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Either Contracting Party may, at any time, give notice in writing through diplomatic channels to the other Contracting Party of its decision to terminate this Agreement.   
 2.  Such notice shall be simultaneously communicated to the International Civil Aviation Organization. In such case this Agreement shall terminate twelve (12) months after the date of receipt of the notice by the other Contracting Party, unless the notice to terminate is withdrawn by agreement between the Contracting Parties before the expiry of this period. In the absence of acknowledgement of receipt of the notice of termination by the other Contracting Party, such notice shall be deemed to have been received fourteen (14) working days after the receipt of that notice by the International Civil Aviation Organization.  
@@ -384,7 +384,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Registration with ICAO
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 This Agreement shall be registered with the International Civil Aviation Organization. 
 
@@ -392,9 +392,9 @@ This Agreement shall be registered with the International Civil Aviation Organiz
 
 ####Applicability of Multilateral Agreements and Conventions
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-1.  The provisions of the [Convention](../../../../../../../../../../../../../../verdrag/convention/on/international/civil/aviation/BWBV0005507/README.md) shall be applicable to this Agreement.   
+1.  The provisions of the Convention shall be applicable to this Agreement.   
 2.  If a multilateral agreement or convention, accepted by both Contracting Parties, concerning any matter covered by this Agreement, enters into force, the relevant provisions of that multilateral agreement or convention shall supersede the relevant provisions of this Agreement.   
 3.  The Contracting Parties may consult each other to determine the consequences for the Agreement of the supersession, as mentioned under paragraph 2 of this Article and to agree upon required amendments to the Agreement.  
 
@@ -402,7 +402,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Applicability of the Agreement
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 As regards the Kingdom of the Netherlands this Agreement shall apply to the territory in Europe. 
 
@@ -410,7 +410,7 @@ As regards the Kingdom of the Netherlands this Agreement shall apply to the terr
 
 ####Entry into Force
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 This Agreement shall enter into force on the first day of the second month following the date on which the Contracting Parties have informed each other in writing that the formalities and constitutional requirements in their respective countries have been complied with. 
 
@@ -418,7 +418,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 
 ####Annex: Route schedule
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ###Route Schedule
 

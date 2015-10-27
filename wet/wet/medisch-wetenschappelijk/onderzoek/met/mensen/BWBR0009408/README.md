@@ -48,15 +48,17 @@ o.geneesmiddel voor onderzoek: een farmaceutische vorm van een werkzame stof of 
 
 p.onderzoekersdossier: het geheel van de klinische en niet klinische gegevens over het geneesmiddel of de geneesmiddelen voor onderzoek die relevant zijn voor de bestudering van het geneesmiddel of de geneesmiddelen voor onderzoek bij mensen;
 
-q.ongewenst voorval: een schadelijk verschijnsel bij een patiënt of een proefpersoon bij een klinisch onderzoek aan wie een geneesmiddel wordt toegediend dat niet noodzakelijk met die behandeling verband houdt;
+q. ongewenst voorval: een schadelijk verschijnsel bij een proefpersoon dat niet noodzakelijk met het wetenschappelijk onderzoek verband houdt; 
 
 r.bijwerking: een schadelijke en niet gewenste reactie op een geneesmiddel voor onderzoek, ongeacht de toegediende dosis;
 
-s.ernstig ongewenst voorval of ernstige bijwerking: een ongewenst voorval of een bijwerking die, ongeacht de dosis, dodelijk is, levensgevaar oplevert voor de proefpersoon, opname in een ziekenhuis of verlenging van de opname noodzakelijk maakt, blijvende of significante invaliditeit of arbeidsongeschiktheid veroorzaakt dan wel zich uit in aangeboren afwijking of misvorming;
+s. ernstig ongewenst voorval: een ongewenst voorval dat dodelijk is, levensgevaar oplevert voor de proefpersoon, opname in een ziekenhuis of verlenging van de opname noodzakelijk maakt, blijvende of significante invaliditeit of arbeidsongeschiktheid veroorzaakt dan wel zich uit in een aangeboren afwijking of misvorming; 
 
-t.onverwachte bijwerking: een bijwerking waarvan de aard en de ernst niet overeenkomen met de informatie over het product zoals opgenomen in het onderzoekersdossier voor een geneesmiddel voor onderzoek waarvoor geen vergunning is afgegeven of in het geval van een geneesmiddel waarvoor een marktvergunning is afgegeven, de in de bijsluiter vervatte samenvatting van de kenmerken van het product;
+t. ernstige bijwerking: een bijwerking die dodelijk is, levensgevaar oplevert voor de proefpersoon, opname in een ziekenhuis of verlenging van de opname noodzakelijk maakt, blijvende of significante invaliditeit of arbeidsongeschiktheid veroorzaakt dan wel zich uit in een aangeboren afwijking of misvorming; 
 
-u.schriftelijke toestemming: geïnformeerde, schriftelijke, gedagtekende en ondertekende toestemming om aan een wetenschappelijk onderzoek deel te nemen.   
+u.onverwachte bijwerking: een bijwerking waarvan de aard en de ernst niet overeenkomen met de informatie over het product zoals opgenomen in het onderzoekersdossier voor een geneesmiddel voor onderzoek waarvoor geen vergunning is afgegeven of in het geval van een geneesmiddel waarvoor een marktvergunning is afgegeven, de in de bijsluiter vervatte samenvatting van de kenmerken van het product;
+
+v.schriftelijke toestemming: geïnformeerde, schriftelijke, gedagtekende en ondertekende toestemming om aan een wetenschappelijk onderzoek deel te nemen.   
 2.  Het onderwerpen van personen aan handelingen en het opleggen aan personen van een bepaalde gedragswijze uitsluitend ten behoeve van de hulpverlening aan hen is onder het eerste lid, onder b, niet begrepen.    
 3.  Deze wet is niet van toepassing op wetenschappelijk onderzoek voor het verrichten waarvan een vergunning is vereist op grond van de Wet op het bevolkingsonderzoek en, met uitzondering van de artikelen 7 en 9 en de artikelen 8, 11 en 33, voor zover deze betrekking hebben op artikel 7, op wetenschappelijk onderzoek waarvan het onderzoeksprotocol ingevolge de Embryowet een positief oordeel heeft gekregen van de ingevolge artikel 3 van de Embryowet bevoegde commissie.   
 
@@ -76,7 +78,7 @@ b. van de centrale commissie, wanneer het betreft:
 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge artikel 19 bij de centrale commissie berust;   
 
 4°. overige bij algemene maatregel van bestuur aangewezen vormen van wetenschappelijk onderzoek waarvan beoordeling door de centrale commissie gewenst is gelet op de aan het onderzoek verbonden maatschappelijke, ethische of juridische aspecten.       
-3.  De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de paragrafen 2 en 3 en de artikelen 9, 11 en 12 en, voorzover het wetenschappelijk onderzoek met geneesmiddelen betreft, paragraaf 5a.   
+3.  De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de paragrafen 2 en 3 en de artikelen 9, 10, 11 en 12 en, voorzover het wetenschappelijk onderzoek met geneesmiddelen betreft, paragraaf 5a.   
 
 ###Artikel 2a 
 
@@ -175,7 +177,7 @@ d. de bezwaren die het onderzoek voor de proefpersoon met zich zou kunnen brenge
 
 ### Paragraaf  4  
 
-####Verplichtingen van degene die het wetenschappelijk onderzoek verricht 
+####Verplichtingen van diegenen die het wetenschappelijk onderzoek verrichten of uitvoeren
 
 ### Artikel  8  
 
@@ -188,16 +190,33 @@ Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de p
 
 ### Paragraaf  5  
 
-####Verdere verplichtingen van degene die het wetenschappelijk onderzoek uitvoert 
-
 ### Artikel  10  
 
-1.  Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de proefpersoon ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan de proefpersoon, dan wel indien deze ingevolge deze wet niet bevoegd was tot het geven van toestemming, aan degene die daartoe in zijn plaats bevoegd was en aan de commissie die ingevolge artikel 2 als laatste haar oordeel heeft gegeven, met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader positief oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de proefpersoon opschorting of beëindiging niet toelaat.    
-2.  Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de in het eerste lid bedoelde commissie eveneens mededeling van de voortijdige beëindiging van een onderzoek binnen vijftien dagen na de dag waarop het onderzoek voortijdig beëindigd is.  
+1.  Degene die het wetenschappelijk onderzoek uitvoert, rapporteert alle ernstige ongewenste voorvallen, met uitzondering van de ernstige ongewenste voorvallen waarover volgens het onderzoeksprotocol geen onmiddellijke rapportage door degene die het wetenschappelijk onderzoek uitvoert, is vereist, onmiddellijk aan degene die het wetenschappelijk onderzoek verricht. De onmiddellijke rapportage wordt gevolgd door gedetailleerde schriftelijke rapporten, waarin de proefpersonen met codenummer worden aangeduid.   
+2.  Degene die het wetenschappelijk onderzoek verricht, rapporteert alle ernstige ongewenste voorvallen, met uitzondering van die ernstige ongewenste voorvallen waarover volgens het onderzoeksprotocol geen rapportage is vereist, aan de ingevolge artikel 2, tweede lid, bevoegde commissie en, indien dit niet de centrale commissie is, in afschrift aan de centrale commissie.   
+3.  Tenzij in het onderzoeksprotocol andere termijnen zijn bepaald, geschiedt de rapportage, bedoeld in het tweede lid, zo spoedig mogelijk en: 
+
+a. binnen zeven dagen nadat degene die het wetenschappelijk onderzoek verricht kennis heeft genomen van de voorvallen, indien het voorvallen betreft die tot de dood van een proefpersoon hebben geleid of kunnen leiden, waarbij een aanvullende termijn van acht dagen geldt waarbinnen relevante informatie over de nasleep van het voorval wordt overgelegd;  
+
+b. binnen vijftien dagen nadat degene die het wetenschappelijk onderzoek verricht kennis heeft genomen van de voorvallen, indien het andere voorvallen betreft.     
+4.  Indien er tijdens het wetenschappelijk onderzoek gegronde redenen zijn om aan te nemen dat voortzetting van het wetenschappelijk onderzoek zou leiden tot onaanvaardbare risico’s voor de proefpersoon, schort degene die het wetenschappelijk onderzoek verricht de uitvoering van het onderzoek op tot een nader positief oordeel is verkregen van de ingevolge artikel 2, tweede lid, bevoegde commissie.   
+5.  Onder opgave van redenen doet degene die het wetenschappelijk onderzoek verricht aan de ingevolge artikel 2, tweede lid, bevoegde commissie:
+
+a. onmiddellijk mededeling van een beslissing tot opschorting van het onderzoek;  
+
+b. binnen vijftien dagen mededeling van een beslissing tot voortijdige beëindiging van het onderzoek.     
+6.  Voor de toepassing van dit artikel wordt onder ernstig ongewenst voorval mede verstaan een zodanig verschijnsel bij een proefpersoon dat zich naar het oordeel van degene die het wetenschappelijk onderzoek uitvoert tijdens het onderzoek zou hebben kunnen ontwikkelen tot een ernstig ongewenst voorval, maar waarbij dit ernstig ongewenst voorval zich als gevolg van ingrijpen niet heeft verwezenlijkt.   
+7.  De centrale commissie brengt ieder kalenderjaar verslag uit van het aantal ernstige ongewenste voorvallen in het voorafgaande kalenderjaar, met uitzondering van die ernstige ongewenste voorvallen waarover volgens het onderzoeksprotocol geen rapportage is vereist.  
 
 ### Artikel  11  
 
-Degene die het wetenschappelijk onderzoek uitvoert, draagt er zorg voor dat de proefpersoon tijdig wordt ingelicht over het bepaalde in de artikelen 6, zesde lid, tweede volzin, en negende lid, 7, 9, 10 en 12 en over het verloop van het onderzoek. De verstrekte inlichtingen worden desgevraagd aangevuld. Gelijke verplichting geldt ten opzichte van de andere personen van wie op grond van artikel 6 de toestemming is vereist.  
+1.  Degene die het wetenschappelijk onderzoek uitvoert, draagt er zorg voor dat de proefpersoon tijdig wordt ingelicht over: 
+
+a. het bepaalde in de artikelen 6, zesde lid, tweede volzin, en negende lid, 7, 9 en 12; en  
+
+b. het verloop van het onderzoek, waaronder in ieder geval worden begrepen situaties als bedoeld in artikel 10, vierde lid.     
+2.  De verstrekte inlichtingen worden desgevraagd aangevuld.   
+3.  De verplichtingen, bedoeld in het eerste en tweede lid, gelden tevens ten opzichte van de andere personen van wie op grond van artikel 6 de toestemming is vereist.  
 
 ### Artikel  12  
 
@@ -213,7 +232,7 @@ Degene die het wetenschappelijk onderzoek uitvoert draagt er zorg voor dat, alvo
 
 ### Artikel 13a 
 
-Op wetenschappelijk onderzoek met geneesmiddelen is naast het bepaalde in de paragrafen 1 tot en met 5 het bepaalde in deze paragraaf van toepassing.
+Op wetenschappelijk onderzoek met geneesmiddelen is naast het bepaalde in de paragrafen 1 tot en met 4 het bepaalde in deze paragraaf van toepassing.
 
 ### Artikel 13b 
 
@@ -228,7 +247,7 @@ Het is verboden in het kader van gentherapie wetenschappelijk onderzoek met gene
 
 Onverminderd het bepaalde in paragraaf 2 kan de ingevolge artikel 2, tweede lid, bevoegde commissie slechts een positief oordeel geven over een onderzoeksprotocol dat betrekking heeft op wetenschappelijk onderzoek met geneesmiddelen indien:
 
-a.degene die het wetenschappelijk onderzoek verricht of zijn wettelijk vertegenwoordiger op het grondgebied van de Europese Gemeenschap gevestigd is;
+a.degene die het wetenschappelijk onderzoek verricht of zijn wettelijk vertegenwoordiger op het grondgebied van de Europese Unie gevestigd is;
 
 b.de geneesmiddelen voor onderzoek of in voorkomend geval de hulpmiddelen voor toediening, behoudens indien het wetenschappelijk onderzoek met geregistreerde geneesmiddelen betreft, gratis ter beschikking worden gesteld door degene die het wetenschappelijk onderzoek verricht;
 
@@ -306,7 +325,7 @@ c.de in artikel 13i, eerste of vijfde lid, bedoelde instantie geen gemotiveerde 
 ### Artikel 13l 
 
 1. Degene die het onderzoek verricht stelt de ingevolge artikel 2, tweede lid, bevoegde commissie, de in artikel 13i, eerste of vijfde lid, bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen negentig dagen na het einde van een wetenschappelijk onderzoek met geneesmiddelen ervan op de hoogte dat het onderzoek beëindigd is. 
-2. Wanneer het onderzoek voortijdig moet worden stopgezet, stelt degene die het onderzoek verricht de ingevolge artikel 2, tweede lid, bevoegde commissie, de in artikel 13i, eerste of vijfde lid, bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen vijftien dagen na de stopzetting onder opgaaf van redenen op de hoogte.
+2. Wanneer het onderzoek voortijdig moet worden stopgezet, stelt degene die het onderzoek verricht de in artikel 13i, eerste of vijfde lid, bedoelde instantie en in voorkomend geval de bevoegde instantie van een andere lidstaat binnen vijftien dagen na de stopzetting onder opgaaf van redenen op de hoogte.
 
 ### Artikel 13m 
 
@@ -321,10 +340,9 @@ Indien de centrale commissie of Onze Minister, ingeval artikel 13i, vijfde lid v
 
 ### Artikel 13o 
 
-1. Degene die het wetenschappelijk onderzoek met geneesmiddelen uitvoert, rapporteert alle ernstige ongewenste voorvallen, met uitzondering van de ernstige ongewenste voorvallen waarover volgens het protocol of het onderzoekersdossier geen onmiddellijke rapportage is vereist, onmiddellijk aan degene die het wetenschappelijk onderzoek verricht. De onmiddellijke rapportage wordt gevolgd door gedetailleerde schriftelijke rapporten, waarin de proefpersonen met een codenummer worden aangeduid. 
-2. Ongewenste voorvallen of abnormale laboratoriumwaarden die volgens het protocol voor de veiligheidsbeoordeling van cruciaal belang zijn, worden binnen de in het protocol vermelde termijn aan degene die het wetenschappelijk onderzoek verricht, gerapporteerd. 
-3. Degene die het wetenschappelijk onderzoek uitvoert, verstrekt aan degene die het wetenschappelijk onderzoek verricht, en aan de ingevolge artikel 2, tweede lid, bevoegde commissie die als laatste haar oordeel heeft gegeven, alle gevraagde aanvullende informatie over gerapporteerde sterfgevallen. 
-4. Degene die het wetenschappelijk onderzoek verricht, houdt gedetailleerde registers bij van alle ongewenste voorvallen die hem door degene die het wetenschappelijk onderzoek uitvoert, worden gerapporteerd. Deze informatie wordt op verzoek overgedragen aan de Inspectie voor de Gezondheidszorg en de centrale commissie of Onze Minister indien artikel 13i, vijfde lid, van toepassing is en de bevoegde instanties van de lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek wordt verricht.
+1. Ongewenste voorvallen of abnormale laboratoriumwaarden die volgens het protocol voor de veiligheidsbeoordeling van cruciaal belang zijn, worden binnen de in het protocol vermelde termijn aan degene die het wetenschappelijk onderzoek verricht, gerapporteerd. 
+2. Degene die het wetenschappelijk onderzoek uitvoert, verstrekt aan degene die het wetenschappelijk onderzoek verricht, en aan de ingevolge artikel 2, tweede lid, bevoegde commissie die als laatste haar oordeel heeft gegeven, alle gevraagde aanvullende informatie over gerapporteerde sterfgevallen. 
+3. Degene die het wetenschappelijk onderzoek verricht, houdt gedetailleerde registers bij van alle ongewenste voorvallen die hem door degene die het wetenschappelijk onderzoek uitvoert, worden gerapporteerd. Deze informatie wordt op verzoek overgedragen aan de Inspectie voor de Gezondheidszorg en de centrale commissie of Onze Minister indien artikel 13i, vijfde lid, van toepassing is en de bevoegde instanties van de lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek wordt verricht.
 
 ### Artikel 13p 
 
@@ -406,13 +424,13 @@ Als vergoeding voor de met de beoordeling gemoeide kosten kunnen de commissie en
 
 ### Artikel  21  
 
-1.  Bij algemene maatregel van bestuur kan worden bepaald dat de op grond van artikel 16 erkende commissies nagaan of bij de maatregel aan te wijzen vormen van wetenschappelijk onderzoek waarover de desbetreffende commissie ingevolge artikel 2 haar oordeel heeft gegeven, een verloop nemen dat in noemenswaardige mate voor de proefpersoon ongunstiger is dan in het onderzoeksprotocol is voorzien. In dat geval kan de commissie een nader oordeel over het onderzoeksprotocol geven.  De tweede volzin van artikel 10 , eerste lid, is van toepassing.    
+1.  Bij algemene maatregel van bestuur kan worden bepaald dat de op grond van artikel 16 erkende commissies nagaan of bij de maatregel aan te wijzen vormen van wetenschappelijk onderzoek waarover de desbetreffende commissie ingevolge artikel 2 haar oordeel heeft gegeven, een verloop nemen dat in noemenswaardige mate voor de proefpersoon ongunstiger is dan in het onderzoeksprotocol is voorzien. In dat geval kan de commissie een nader oordeel over het onderzoeksprotocol geven. Artikel 10, vierde lid, is van toepassing.    
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld betreffende de wijze waarop de commissies de in het eerste lid bedoelde taak uitoefenen.    
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van de centrale commissie, voor zover deze ingevolge artikel 2, tweede lid, onderdeel b, onder 2°, 3° en 4°, is belast met de beoordeling van onderzoeksprotocollen.   
 
 ### Artikel  22  
 
-1.  De commissie zendt aan de centrale commissie afschrift van elk ingevolge deze wet gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan binnen zeven dagen na de dag waarop het oordeel gegeven is. Voorts doet de commissie van de in artikel 10, tweede lid, bedoelde mededelingen binnen zeven dagen na ontvangst ervan melding bij de centrale commissie.   
+1.  De commissie zendt aan de centrale commissie afschrift van elk ingevolge deze wet gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan binnen zeven dagen na de dag waarop het oordeel gegeven is. Voorts doet de commissie van de in artikel 10, vijfde lid, onderdeel b, bedoelde mededelingen binnen zeven dagen na ontvangst ervan melding bij de centrale commissie.   
 2.  De commissie brengt jaarlijks vóór 1 april verslag uit van haar werkzaamheden in het afgelopen kalenderjaar. Dit verslag wordt gezonden aan de centrale commissie en wordt overigens door de commissie, tegen betaling der kosten, voor een ieder verkrijgbaar gesteld.    
 3.  De commissie verleent aan de centrale commissie alle medewerking die voor de vervulling van haar taak redelijkerwijs nodig is.   
 
@@ -455,6 +473,11 @@ Bij ministeriële regeling kan worden bepaald dat toezending van informatie, die
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake het toezicht op de naleving van het bepaalde bij of krachtens deze wet met betrekking tot wetenschappelijk onderzoek met geneesmiddelen.
 
+### Artikel  29  
+
+1.  Indien het betreft wetenschappelijk onderzoek met geneesmiddelen wordt van de inspectie, bedoeld in artikel 28, eerste lid, een verslag opgesteld dat ter beschikking wordt gesteld aan degene die het wetenschappelijk onderzoek verricht. Voor zover het verslag persoonsgegevens betreft als bedoeld in hoofdstuk 2, paragraaf 2, van de Wet bescherming persoonsgegevens, blijft opname in het verslag daarvan achterwege, tenzij daardoor kennelijk geen inbreuk wordt gemaakt op de persoonlijke levenssfeer.   
+2.  Het verslag wordt daarnaast op een met redenen omkleed verzoek en uitsluitend ter beschikking gesteld aan lidstaten van de Europese Unie, de centrale commissie, de commissie en aan het Europees Bureau voor de geneesmiddelenbeoordeling.  
+
 ### Artikel  30  
 
 De toepassing van deze wet door de commissies geschiedt met inachtneming van de voor de rijksdienst geldende nationale en internationale voorschriften ter beveiliging van gegevens waarvan geheimhouding door het belang van de Staat of van zijn bondgenoten is geboden.  
@@ -480,7 +503,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  33  
 
 1.  Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in artikel 6, eerste lid.    
-2.  Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van artikel 2, eerste lid of tweede lid, of 7 dan wel in strijd met een verplichting, vervat in de paragrafen 5 en 5a of in strijd met een gedragslijn bedoeld in artikel 13n. Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de artikelen 4, 5 en 13c, degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee en degene die wetenschappelijk onderzoek uitvoert terwijl de commissie een door haar gegeven positief oordeel over het onderzoeksprotocol heeft opgeschort dan wel ingetrokken of de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, de uitvoering van het onderzoek heeft opgeschort.   
+2.  Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van artikel 2, eerste lid of tweede lid, of 7 dan wel in strijd met een verplichting, vervat in de artikelen 10, 11, 12 en 13 en paragraaf 5a, of in strijd met een gedragslijn bedoeld in artikel 13n. Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de artikelen 4, 5 en 13c, degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee en degene die wetenschappelijk onderzoek uitvoert terwijl de commissie een door haar gegeven positief oordeel over het onderzoeksprotocol heeft opgeschort dan wel ingetrokken of de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, de uitvoering van het onderzoek heeft opgeschort.   
 3.  De in het eerste lid strafbaar gestelde feiten zijn misdrijven; de in het tweede lid strafbaar gestelde feiten zijn overtredingen.   
 
 ### Paragraaf  9  

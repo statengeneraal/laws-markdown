@@ -114,7 +114,7 @@ VI.  *Algemene bepalingen*
 
 VII.  *Toepassing*  
 
-1.In het geval van gezinsleden van diplomaten, consulaire ambtenaren of van het administratieve en technische of dienstverlenende personeel dat werkzaam is bij diplomatieke, consulaire en permanente vertegenwoordigingen kan de toepassing van dit Verdrag worden uitgebreid tot Aruba, Curaçao, Sint Maarten of het Caribisch deel van Nederland door middel van een kennisgeving door de Regering van het Koninkrijk der Nederlanden aan de Regering van de Verenigde Staten van Amerika.
+1.In het geval van gezinsleden van diplomaten, consulaire ambtenaren of van het administratieve en technische of dienstverlenende personeel dat werkzaam is bij diplomatieke, consulaire en permanente vertegenwoordigingen kan de toepassing van deze Overeenkomst worden uitgebreid tot Aruba, Curaçao, Sint Maarten of het Caribisch deel van Nederland door middel van een kennisgeving door de Regering van het Koninkrijk der Nederlanden aan de Regering van de Verenigde Staten van Amerika.
 
 2.Deze Overeenkomst is niet van toepassing op gezinsleden van NAVO-personeel van de Verenigde Staten in Nederland van wie de werkvergunning voorwerp is van een andere overeenkomst die van kracht is tussen het Koninkrijk der Nederlanden en de NAVO. 
 

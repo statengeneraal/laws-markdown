@@ -529,7 +529,7 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 
 ### Artikel  39  
 
-Niet strafbaar is hij die een feit begaat dat hem wegens de gebrekkige ontwikkeling of ziekelijke storing zijner geestvermogens niet kan worden toegerekend. Blijkt dat het begane feit hem wegens de gebrekkige ontwikkeling of ziekelijke storing zijner geestvermogens niet kan worden toegerekend, dan kan de rechter gelasten dat hij in een krankzinnigengesticht worde geplaatst gedurende een proeftijd, den termijn van een jaar niet te boven gaande. [vervallen] 
+Niet strafbaar is hij die een feit begaat dat hem wegens de gebrekkige ontwikkeling of ziekelijke storing zijner geestvermogens niet kan worden toegerekend. Blijkt dat het begane feit hem wegens de gebrekkige ontwikkeling of ziekelijke storing zijner geestvermogens niet kan worden toegerekend, dan kan de rechter gelasten dat hij in een krankzinnigengesticht worde geplaatst gedurende een proeftijd, den termijn van een jaar niet te boven gaande. 
 
 ### Artikel  39a  
 

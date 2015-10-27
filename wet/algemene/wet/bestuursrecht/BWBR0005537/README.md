@@ -46,27 +46,27 @@ h. de commissie van toezicht betreffende de inlichtingen- en veiligheidsdiensten
 ### Artikel  1:2  
 
 1.  Onder belanghebbende wordt verstaan: degene wiens belang rechtstreeks bij een besluit is betrokken.    
-2.   Ten aanzien van bestuursorganen worden de hun toevertrouwde belangen als hun belangen beschouwd.    
-3.   Ten aanzien van rechtspersonen worden als hun belangen mede beschouwd de algemene en collectieve belangen die zij krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden in het bijzonder behartigen.   
+2.  Ten aanzien van bestuursorganen worden de hun toevertrouwde belangen als hun belangen beschouwd.    
+3.  Ten aanzien van rechtspersonen worden als hun belangen mede beschouwd de algemene en collectieve belangen die zij krachtens hun doelstellingen en blijkens hun feitelijke werkzaamheden in het bijzonder behartigen.   
 
 ### Artikel  1:3  
 
 1.  Onder besluit wordt verstaan: een schriftelijke beslissing van een bestuursorgaan, inhoudende een publiekrechtelijke rechtshandeling.    
-2.   Onder beschikking wordt verstaan: een besluit dat niet van algemene strekking is, met inbegrip van de afwijzing van een aanvraag daarvan.    
-3.   Onder aanvraag wordt verstaan: een verzoek van een belanghebbende, een besluit te nemen.    
+2.  Onder beschikking wordt verstaan: een besluit dat niet van algemene strekking is, met inbegrip van de afwijzing van een aanvraag daarvan.    
+3.  Onder aanvraag wordt verstaan: een verzoek van een belanghebbende, een besluit te nemen.    
 4.  Onder beleidsregel wordt verstaan: een bij besluit vastgestelde algemene regel, niet zijnde een algemeen verbindend voorschrift, omtrent de afweging van belangen, de vaststelling van feiten of de uitleg van wettelijke voorschriften bij het gebruik van een bevoegdheid van een bestuursorgaan.  
 
 ### Artikel  1:4  
 
 1.  Onder bestuursrechter wordt verstaan: een onafhankelijk, bij de wet ingesteld orgaan dat met bestuursrechtspraak is belast.   
 2.  Onder hogerberoepsrechter wordt verstaan: een bestuursrechter die in hoger beroep oordeelt.  
-3.   Een tot de rechterlijke macht behorend gerecht wordt als bestuursrechter aangemerkt voor zover hoofdstuk 8 of de Wet administratiefrechtelijke handhaving verkeersvoorschriften - met uitzondering van hoofdstuk VIII - van toepassing of van overeenkomstige toepassing is.   
+3.  Een tot de rechterlijke macht behorend gerecht wordt als bestuursrechter aangemerkt voor zover hoofdstuk 8 of de Wet administratiefrechtelijke handhaving verkeersvoorschriften - met uitzondering van hoofdstuk VIII - van toepassing of van overeenkomstige toepassing is.   
 
 ### Artikel  1:5  
 
 1.  Onder het maken van bezwaar wordt verstaan: het gebruik maken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij het bestuursorgaan dat het besluit heeft genomen.    
-2.   Onder het instellen van administratief beroep wordt verstaan: het gebruik maken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij een ander bestuursorgaan dan hetwelk het besluit heeft genomen.    
-3.   Onder het instellen van beroep wordt verstaan: het instellen van administratief beroep, dan wel van beroep bij een bestuursrechter.   
+2.  Onder het instellen van administratief beroep wordt verstaan: het gebruik maken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij een ander bestuursorgaan dan hetwelk het besluit heeft genomen.    
+3.  Onder het instellen van beroep wordt verstaan: het instellen van administratief beroep, dan wel van beroep bij een bestuursrechter.   
 
 ### Artikel  1:6  
 
@@ -94,7 +94,7 @@ e. besluiten en handelingen ter uitvoering van de Wet toetsing levensbeëindigin
 ### Artikel  1:8  
 
 1.  Indien door een bestuursorgaan ingevolge enig wettelijk voorschrift van het ontwerp van een besluit kennis moet worden gegeven alvorens een zodanig besluit kan worden genomen, geldt dat voorschrift niet indien het voorgenomen besluit uitsluitend strekt tot uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie.    
-2.   Het eerste lid is niet van toepassing op de overlegging van het ontwerp van een algemene maatregel van bestuur of ministeriële regeling aan de Staten-Generaal, indien:  
+2.  Het eerste lid is niet van toepassing op de overlegging van het ontwerp van een algemene maatregel van bestuur of ministeriële regeling aan de Staten-Generaal, indien:  
 
 a. bij de wet is bepaald dat door of namens een der Kamers der Staten-Generaal of door een aantal leden daarvan de wens te kennen kan worden gegeven dat het onderwerp of de inwerkingtreding van die algemene maatregel van bestuur of ministeriële regeling bij de wet wordt geregeld, of   
 
@@ -115,13 +115,13 @@ Deze titel is van overeenkomstige toepassing op voorstellen van wet.
 ### Artikel  2:1  
 
 1.  Een ieder kan zich ter behartiging van zijn belangen in het verkeer met bestuursorganen laten bijstaan of door een gemachtigde laten vertegenwoordigen.    
-2.   Het bestuursorgaan kan van een gemachtigde een schriftelijke machtiging verlangen.   
+2.  Het bestuursorgaan kan van een gemachtigde een schriftelijke machtiging verlangen.   
 
 ### Artikel  2:2  
 
 1.  Het bestuursorgaan kan bijstand of vertegenwoordiging door een persoon tegen wie ernstige bezwaren bestaan, weigeren.    
 2.   De belanghebbende en de in het eerste lid bedoelde persoon worden van de weigering onverwijld schriftelijk in kennis gesteld.    
-3.   Het eerste lid is niet van toepassing ten aanzien van advocaten.   
+3.  Het eerste lid is niet van toepassing ten aanzien van advocaten.   
 
 ###Artikel 2:3 
 
@@ -131,12 +131,12 @@ Deze titel is van overeenkomstige toepassing op voorstellen van wet.
 ### Artikel  2:4  
 
 1.  Het bestuursorgaan vervult zijn taak zonder vooringenomenheid.    
-2.   Het bestuursorgaan waakt ertegen dat tot het bestuursorgaan behorende of daarvoor werkzame personen die een persoonlijk belang bij een besluit hebben, de besluitvorming beïnvloeden.   
+2.  Het bestuursorgaan waakt ertegen dat tot het bestuursorgaan behorende of daarvoor werkzame personen die een persoonlijk belang bij een besluit hebben, de besluitvorming beïnvloeden.   
 
 ### Artikel  2:5  
 
 1.  Een ieder die is betrokken bij de uitvoering van de taak van een bestuursorgaan en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.    
-2.   Het eerste lid is mede van toepassing op instellingen en daartoe behorende of daarvoor werkzame personen die door een bestuursorgaan worden betrokken bij de uitvoering van zijn taak, en op instellingen en daartoe behorende of daarvoor werkzame personen die een bij of krachtens de wet toegekende taak uitoefenen.   
+2.  Het eerste lid is mede van toepassing op instellingen en daartoe behorende of daarvoor werkzame personen die door een bestuursorgaan worden betrokken bij de uitvoering van zijn taak, en op instellingen en daartoe behorende of daarvoor werkzame personen die een bij of krachtens de wet toegekende taak uitoefenen.   
 
 ### Afdeling  2.2  
 
@@ -145,7 +145,7 @@ Deze titel is van overeenkomstige toepassing op voorstellen van wet.
 ### Artikel  2:6  
 
 1.  Bestuursorganen en onder hun verantwoordelijkheid werkzame personen gebruiken de Nederlandse taal, tenzij bij wettelijk voorschrift anders is bepaald.    
-2.   In afwijking van het eerste lid kan een andere taal worden gebruikt indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.   
+2.  In afwijking van het eerste lid kan een andere taal worden gebruikt indien het gebruik daarvan doelmatiger is en de belangen van derden daardoor niet onevenredig worden geschaad.   
 
 ### Afdeling  2.3  
 
@@ -197,7 +197,7 @@ Aan het vereiste van ondertekening is voldaan door een elektronische handtekenin
 a. is afdeling 3.2 slechts van toepassing, voor zover de aard van de besluiten zich daartegen niet verzet;   
 
 b. zijn de afdelingen 3.6 en 3.7 niet van toepassing.      
-2.   Op andere handelingen van bestuursorganen dan besluiten zijn de afdelingen 3.2 tot en met 3.4 van overeenkomstige toepassing, voor zover de aard van de handelingen zich daartegen niet verzet.   
+2.  Op andere handelingen van bestuursorganen dan besluiten zijn de afdelingen 3.2 tot en met 3.4 van overeenkomstige toepassing, voor zover de aard van de handelingen zich daartegen niet verzet.   
 
 ### Afdeling  3.2  
 
@@ -214,7 +214,7 @@ Het bestuursorgaan gebruikt de bevoegdheid tot het nemen van een besluit niet vo
 ### Artikel  3:4  
 
 1.  Het bestuursorgaan weegt de rechtstreeks bij het besluit betrokken belangen af, voor zover niet uit een wettelijk voorschrift of uit de aard van de uit te oefenen bevoegdheid een beperking voortvloeit.    
-2.   De voor een of meer belanghebbenden nadelige gevolgen van een besluit mogen niet onevenredig zijn in verhouding tot de met het besluit te dienen doelen.   
+2.  De voor een of meer belanghebbenden nadelige gevolgen van een besluit mogen niet onevenredig zijn in verhouding tot de met het besluit te dienen doelen.   
 
 ### Afdeling  3.3  
 
@@ -223,12 +223,12 @@ Het bestuursorgaan gebruikt de bevoegdheid tot het nemen van een besluit niet vo
 ### Artikel  3:5  
 
 1.  In deze afdeling wordt verstaan onder adviseur: een persoon of college, bij of krachtens wettelijk voorschrift belast met het adviseren inzake door een bestuursorgaan te nemen besluiten en niet werkzaam onder verantwoordelijkheid van dat bestuursorgaan.    
-2.   Deze afdeling is niet van toepassing op het horen van de Raad van State.   
+2.  Deze afdeling is niet van toepassing op het horen van de Raad van State.   
 
 ### Artikel  3:6  
 
 1.  Indien aan de adviseur niet reeds bij wettelijk voorschrift een termijn is gesteld, kan het bestuursorgaan aangeven binnen welke termijn een advies wordt verwacht. Deze termijn mag niet zodanig kort zijn, dat de adviseur zijn taak niet naar behoren kan vervullen.    
-2.   Indien het advies niet tijdig wordt uitgebracht staat het enkele ontbreken daarvan niet in de weg aan het nemen van het besluit.   
+2.  Indien het advies niet tijdig wordt uitgebracht staat het enkele ontbreken daarvan niet in de weg aan het nemen van het besluit.   
 
 ### Artikel  3:7  
 
@@ -523,12 +523,12 @@ a. de naam en het adres van de aanvrager;
 b. de dagtekening;   
 
 c. een aanduiding van de beschikking die wordt gevraagd.      
-2.   De aanvrager verschaft voorts de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.   
+2.  De aanvrager verschaft voorts de gegevens en bescheiden die voor de beslissing op de aanvraag nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.   
 
 ### Artikel  4:3  
 
 1.  De aanvrager kan weigeren gegevens en bescheiden te verschaffen voor zover het belang daarvan voor de beslissing van het bestuursorgaan niet opweegt tegen het belang van de eerbiediging van de persoonlijke levenssfeer, met inbegrip van de bescherming van medische en psychologische onderzoeksresultaten, of tegen het belang van de bescherming van bedrijfs- en fabricagegegevens.    
-2.   Het eerste lid is niet van toepassing op bij wettelijk voorschrift aangewezen gegevens en bescheiden waarvan is bepaald dat deze dienen te worden overgelegd.   
+2.  Het eerste lid is niet van toepassing op bij wettelijk voorschrift aangewezen gegevens en bescheiden waarvan is bepaald dat deze dienen te worden overgelegd.   
 
 ###Artikel 4:3a 
 
@@ -547,14 +547,14 @@ a.de aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in beh
 b.de aanvraag geheel of gedeeltelijk is geweigerd op grond van artikel 2:15, of
 
 c.de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking, mits de aanvrager de gelegenheid heeft gehad de aanvraag binnen een door het bestuursorgaan gestelde termijn aan te vullen.   
-2.   Indien de aanvraag of een van de daarbij behorende gegevens of bescheiden in een vreemde taal is gesteld en een vertaling daarvan voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking noodzakelijk is, kan het bestuursorgaan besluiten de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen een door het bestuursorgaan gestelde termijn de aanvraag met een vertaling aan te vullen.    
-3.   Indien de aanvraag of een van de daarbij behorende gegevens of bescheiden omvangrijk of ingewikkeld is en een samenvatting voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking noodzakelijk is, kan het bestuursorgaan besluiten de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen een door het bestuursorgaan gestelde termijn de aanvraag met een samenvatting aan te vullen.    
-4.   Een besluit om de aanvraag niet te behandelen wordt aan de aanvrager bekendgemaakt binnen vier weken nadat de aanvraag is aangevuld of nadat de daarvoor gestelde termijn ongebruikt is verstreken.   
+2.  Indien de aanvraag of een van de daarbij behorende gegevens of bescheiden in een vreemde taal is gesteld en een vertaling daarvan voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking noodzakelijk is, kan het bestuursorgaan besluiten de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen een door het bestuursorgaan gestelde termijn de aanvraag met een vertaling aan te vullen.    
+3.  Indien de aanvraag of een van de daarbij behorende gegevens of bescheiden omvangrijk of ingewikkeld is en een samenvatting voor de beoordeling van de aanvraag of voor de voorbereiding van de beschikking noodzakelijk is, kan het bestuursorgaan besluiten de aanvraag niet te behandelen, mits de aanvrager de gelegenheid heeft gehad binnen een door het bestuursorgaan gestelde termijn de aanvraag met een samenvatting aan te vullen.    
+4.  Een besluit om de aanvraag niet te behandelen wordt aan de aanvrager bekendgemaakt binnen vier weken nadat de aanvraag is aangevuld of nadat de daarvoor gestelde termijn ongebruikt is verstreken.   
 
 ### Artikel  4:6  
 
 1.  Indien na een geheel of gedeeltelijk afwijzende beschikking een nieuwe aanvraag wordt gedaan, is de aanvrager gehouden nieuw gebleken feiten of veranderde omstandigheden te vermelden.    
-2.   Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan zonder toepassing te geven aan artikel 4:5 de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.   
+2.  Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan het bestuursorgaan zonder toepassing te geven aan artikel 4:5 de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking.   
 
 ### Afdeling  4.1.2  
 
@@ -567,7 +567,7 @@ c.de verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van 
 a. de afwijzing zou steunen op gegevens over feiten en belangen die de aanvrager betreffen, en   
 
 b. die gegevens afwijken van gegevens die de aanvrager ter zake zelf heeft verstrekt.      
-2.   Het eerste lid geldt niet indien sprake is van een afwijking van de aanvraag die slechts van geringe betekenis voor de aanvrager kan zijn.   
+2.  Het eerste lid geldt niet indien sprake is van een afwijking van de aanvraag die slechts van geringe betekenis voor de aanvrager kan zijn.   
 
 ### Artikel  4:8  
 
@@ -576,7 +576,7 @@ b. die gegevens afwijken van gegevens die de aanvrager ter zake zelf heeft verst
 a. de beschikking zou steunen op gegevens over feiten en belangen die de belanghebbende betreffen, en   
 
 b. die gegevens niet door de belanghebbende zelf ter zake zijn verstrekt.      
-2.   Het eerste lid geldt niet indien de belanghebbende niet heeft voldaan aan een wettelijke verplichting gegevens te verstrekken.   
+2.  Het eerste lid geldt niet indien de belanghebbende niet heeft voldaan aan een wettelijke verplichting gegevens te verstrekken.   
 
 ### Artikel  4:9  
 
@@ -618,7 +618,7 @@ c. het intrekken of ten nadele van de ontvanger wijzigen van een subsidieverleni
 ### Artikel  4:13  
 
 1.  Een beschikking dient te worden gegeven binnen de bij wettelijk voorschrift bepaalde termijn of, bij het ontbreken van zulk een termijn, binnen een redelijke termijn na ontvangst van de aanvraag.    
-2.   De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een mededeling als bedoeld in artikel 4:14, derde lid, heeft gedaan.  
+2.  De in het eerste lid bedoelde redelijke termijn is in ieder geval verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven, noch een mededeling als bedoeld in artikel 4:14, derde lid, heeft gedaan.  
 
 ### Artikel  4:14  
 
@@ -1995,8 +1995,8 @@ Een beslissing inzake de procedure ter voorbereiding van een besluit is niet vat
 ### Artikel  6:4  
 
 1.  Het maken van bezwaar geschiedt door het indienen van een bezwaarschrift bij het bestuursorgaan dat het besluit heeft genomen.    
-2.   Het instellen van administratief beroep geschiedt door het indienen van een beroepschrift bij het beroepsorgaan.    
-3.   Het instellen van beroep bij een bestuursrechter geschiedt door het indienen van een beroepschrift bij die rechter.   
+2.  Het instellen van administratief beroep geschiedt door het indienen van een beroepschrift bij het beroepsorgaan.    
+3.  Het instellen van beroep bij een bestuursrechter geschiedt door het indienen van een beroepschrift bij die rechter.   
 
 ### Artikel  6:5  
 
@@ -2009,8 +2009,8 @@ b. de dagtekening;
 c. een omschrijving van het besluit waartegen het bezwaar of beroep is gericht;   
 
 d. de gronden van het bezwaar of beroep.      
-2.   Bij het beroepschrift wordt zo mogelijk een afschrift van het besluit waarop het geschil betrekking heeft, overgelegd.    
-3.   Indien het bezwaar- of beroepschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van het bezwaar of beroep noodzakelijk is, dient de indiener zorg te dragen voor een vertaling.   
+2.  Bij het beroepschrift wordt zo mogelijk een afschrift van het besluit waarop het geschil betrekking heeft, overgelegd.    
+3.  Indien het bezwaar- of beroepschrift in een vreemde taal is gesteld en een vertaling voor een goede behandeling van het bezwaar of beroep noodzakelijk is, dient de indiener zorg te dragen voor een vertaling.   
 
 ###Artikel 6:6 
 
@@ -2027,14 +2027,14 @@ De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weke
 ### Artikel  6:8  
 
 1.  De termijn vangt aan met ingang van de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt.    
-2.   De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.    
-3.   De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.    
+2.  De termijn voor het indienen van een bezwaarschrift tegen een besluit waartegen alleen door een of meer bepaalde belanghebbenden administratief beroep kon worden ingesteld, vangt aan met ingang van de dag na die waarop de beroepstermijn ongebruikt is verstreken.    
+3.  De termijn voor het indienen van een beroepschrift tegen een besluit dat aan goedkeuring is onderworpen, vangt aan met ingang van de dag na die waarop het besluit, inhoudende de goedkeuring van dat besluit, op de voorgeschreven wijze is bekendgemaakt.    
 4.  De termijn voor het indienen van een beroepschrift tegen een besluit dat is voorbereid met toepassing van afdeling 3.4 vangt aan met ingang van de dag na die waarop het besluit overeenkomstig artikel 3:44, eerste lid, onderdeel a, ter inzage is gelegd.  
 
 ### Artikel  6:9  
 
 1.  Een bezwaar- of beroepschrift is tijdig ingediend indien het voor het einde van de termijn is ontvangen.    
-2.   Bij verzending per post is een bezwaar- of beroepschrift tijdig ingediend indien het voor het einde van de termijn ter post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen.   
+2.  Bij verzending per post is een bezwaar- of beroepschrift tijdig ingediend indien het voor het einde van de termijn ter post is bezorgd, mits het niet later dan een week na afloop van de termijn is ontvangen.   
 
 ### Artikel  6:10  
 
@@ -2043,7 +2043,7 @@ De termijn voor het indienen van een bezwaar- of beroepschrift bedraagt zes weke
 a. wel reeds tot stand was gekomen, of   
 
 b. nog niet tot stand was gekomen, maar de indiener redelijkerwijs kon menen dat dit wel reeds het geval was.      
-2.   De behandeling van het bezwaar of beroep kan worden aangehouden tot het begin van de termijn.   
+2.  De behandeling van het bezwaar of beroep kan worden aangehouden tot het begin van de termijn.   
 
 ### Artikel  6:11  
 
@@ -2067,12 +2067,12 @@ Geen beroep bij de bestuursrechter kan worden ingesteld door een belanghebbende 
 ### Artikel  6:14  
 
 1.  Het orgaan waarbij het bezwaar- of beroepschrift is ingediend, bevestigt de ontvangst daarvan schriftelijk.    
-2.   Het orgaan waarbij het beroepschrift is ingediend, geeft daarvan zo spoedig mogelijk kennis aan het bestuursorgaan dat het bestreden besluit heeft genomen.   
+2.  Het orgaan waarbij het beroepschrift is ingediend, geeft daarvan zo spoedig mogelijk kennis aan het bestuursorgaan dat het bestreden besluit heeft genomen.   
 
 ### Artikel  6:15  
 
 1.  Indien het bezwaar- of beroepschrift wordt ingediend bij een onbevoegd bestuursorgaan of bij een onbevoegde bestuursrechter, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender.    
-2.   Het eerste lid is van overeenkomstige toepassing indien in plaats van een bezwaarschrift een beroepschrift is ingediend of omgekeerd.    
+2.  Het eerste lid is van overeenkomstige toepassing indien in plaats van een bezwaarschrift een beroepschrift is ingediend of omgekeerd.    
 3.  Het tijdstip van indiening bij het onbevoegde orgaan is bepalend voor de vraag of het bezwaar- of beroepschrift tijdig is ingediend, behoudens in geval van kennelijk onredelijk gebruik van procesrecht.  
 
 ### Artikel  6:16  
@@ -2112,7 +2112,7 @@ Een besluit waartegen bezwaar is gemaakt of beroep is ingesteld, kan, ondanks sc
 ### Artikel  6:23  
 
 1.  Indien beroep kan worden ingesteld tegen de beslissing op het bezwaar of beroep, wordt daarvan bij de bekendmaking van de beslissing melding gemaakt.    
-2.   Hierbij wordt vermeld door wie, binnen welke termijn en bij welk orgaan beroep kan worden ingesteld.   
+2.  Hierbij wordt vermeld door wie, binnen welke termijn en bij welk orgaan beroep kan worden ingesteld.   
 
 ### Artikel  6:24  
 
@@ -2143,7 +2143,7 @@ e. het besluit is genomen op basis van een uitspraak waarin de bestuursrechter m
 f. het beroep zich richt tegen het niet tijdig nemen van een besluit,  
 
 g. het besluit is genomen op grond van een voorschrift als genoemd in de bij deze wet behorende Regeling rechtstreeks beroep dan wel het besluit anderszins in die regeling is omschreven.     
-2.   Tegen de beslissing op het bezwaar kan beroep worden ingesteld met toepassing van de voorschriften die gelden voor het instellen van beroep tegen het besluit waartegen bezwaar is gemaakt.   
+2.  Tegen de beslissing op het bezwaar kan beroep worden ingesteld met toepassing van de voorschriften die gelden voor het instellen van beroep tegen het besluit waartegen bezwaar is gemaakt.   
 
 ### Artikel  7:1a  
 
@@ -2161,7 +2161,7 @@ g. het besluit is genomen op grond van een voorschrift als genoemd in de bij dez
 ### Artikel  7:2  
 
 1.  Voordat een bestuursorgaan op het bezwaar beslist, stelt het belanghebbenden in de gelegenheid te worden gehoord.    
-2.   Het bestuursorgaan stelt daarvan in ieder geval de indiener van het bezwaarschrift op de hoogte alsmede de belanghebbenden die bij de voorbereiding van het besluit hun zienswijze naar voren hebben gebracht.   
+2.  Het bestuursorgaan stelt daarvan in ieder geval de indiener van het bezwaarschrift op de hoogte alsmede de belanghebbenden die bij de voorbereiding van het besluit hun zienswijze naar voren hebben gebracht.   
 
 ### Artikel  7:3  
 
@@ -2180,13 +2180,13 @@ e. aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daa
 ### Artikel  7:4  
 
 1.  Tot tien dagen voor het horen kunnen belanghebbenden nadere stukken indienen.    
-2.   Het bestuursorgaan legt het bezwaarschrift en alle verder op de zaak betrekking hebbende stukken voorafgaand aan het horen gedurende ten minste een week voor belanghebbenden ter inzage.    
-3.   Bij de oproeping voor het horen worden belanghebbenden gewezen op het eerste lid en wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.    
-4.   Belanghebbenden kunnen van deze stukken tegen vergoeding van ten hoogste de kosten afschriften verkrijgen.    
-5.   Voor zover de belanghebbenden daarmee instemmen, kan toepassing van het tweede lid achterwege worden gelaten.    
-6.   Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het tweede lid voorts achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van de toepassing van deze bepaling wordt mededeling gedaan.    
-7.   Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen.    
-8.   Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de desbetreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is.   
+2.  Het bestuursorgaan legt het bezwaarschrift en alle verder op de zaak betrekking hebbende stukken voorafgaand aan het horen gedurende ten minste een week voor belanghebbenden ter inzage.    
+3.  Bij de oproeping voor het horen worden belanghebbenden gewezen op het eerste lid en wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.    
+4.  Belanghebbenden kunnen van deze stukken tegen vergoeding van ten hoogste de kosten afschriften verkrijgen.    
+5.  Voor zover de belanghebbenden daarmee instemmen, kan toepassing van het tweede lid achterwege worden gelaten.    
+6.  Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het tweede lid voorts achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van de toepassing van deze bepaling wordt mededeling gedaan.    
+7.  Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen.    
+8.  Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de desbetreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is.   
 
 ### Artikel  7:5  
 
@@ -2195,14 +2195,14 @@ e. aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daa
 a. een persoon die niet bij de voorbereiding van het bestreden besluit betrokken is geweest, of   
 
 b. meer dan een persoon van wie de meerderheid, onder wie degene die het horen leidt, niet bij de voorbereiding van het besluit betrokken is geweest.      
-2.   Voor zover niet bij wettelijk voorschrift anders is bepaald, besluit het bestuursorgaan of het horen in het openbaar plaatsvindt.   
+2.  Voor zover niet bij wettelijk voorschrift anders is bepaald, besluit het bestuursorgaan of het horen in het openbaar plaatsvindt.   
 
 ### Artikel  7:6  
 
 1.  Belanghebbenden worden in elkaars aanwezigheid gehoord.    
-2.   Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.    
-3.   Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.    
-4.   Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Artikel 7:4, zesde lid, tweede volzin, zevende en achtste lid, is van overeenkomstige toepassing.   
+2.  Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.    
+3.  Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.    
+4.  Het bestuursorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Artikel 7:4, zesde lid, tweede volzin, zevende en achtste lid, is van overeenkomstige toepassing.   
 
 ### Artikel  7:7  
 
@@ -2233,14 +2233,14 @@ c. dit nodig is in verband met de naleving van wettelijke procedurevoorschriften
 ### Artikel  7:11  
 
 1.  Indien het bezwaar ontvankelijk is, vindt op grondslag daarvan een heroverweging van het bestreden besluit plaats.    
-2.   Voor zover de heroverweging daartoe aanleiding geeft, herroept het bestuursorgaan het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit.   
+2.  Voor zover de heroverweging daartoe aanleiding geeft, herroept het bestuursorgaan het bestreden besluit en neemt het voor zover nodig in de plaats daarvan een nieuw besluit.   
 
 ### Artikel  7:12  
 
 1.  De beslissing op het bezwaar dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge artikel 7:3 van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.    
 2.  De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden is gericht, dan wordt de beslissing tevens bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is, tenzij het bestreden besluit in stand wordt gelaten.   
-3.   Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan de belanghebbenden die in bezwaar of bij de voorbereiding van het bestreden besluit hun zienswijze naar voren hebben gebracht.    
-4.   Bij de mededeling, bedoeld in het derde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.   
+3.  Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan de belanghebbenden die in bezwaar of bij de voorbereiding van het bestreden besluit hun zienswijze naar voren hebben gebracht.    
+4.  Bij de mededeling, bedoeld in het derde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het tweede lid heeft plaatsgevonden.   
 
 ### Artikel  7:13  
 
@@ -2252,11 +2252,11 @@ b. waarvan de voorzitter geen deel uitmaakt van en niet werkzaam is onder verant
 
 c. die voldoet aan eventueel bij wettelijk voorschrift gestelde andere eisen.      
 2.  Indien een commissie over het bezwaar zal adviseren, deelt het bestuursorgaan dit zo spoedig mogelijk mede aan de indiener van het bezwaarschrift.   
-3.   Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid dat geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan.    
-4.   De commissie beslist over de toepassing van artikel 7:4, zesde lid, van artikel 7:5, tweede lid, en, voor zover bij wettelijk voorschrift niet anders is bepaald, van artikel 7:3.    
-5.   Een vertegenwoordiger van het bestuursorgaan wordt voor het horen uitgenodigd en wordt in de gelegenheid gesteld een toelichting op het standpunt van het bestuursorgaan te geven.    
-6.   Het advies van de commissie wordt schriftelijk uitgebracht en bevat een verslag van het horen.    
-7.   Indien de beslissing op het bezwaar afwijkt van het advies van de commissie, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.   
+3.  Het horen geschiedt door de commissie. De commissie kan het horen opdragen aan de voorzitter of een lid dat geen deel uitmaakt van en niet werkzaam is onder verantwoordelijkheid van het bestuursorgaan.    
+4.  De commissie beslist over de toepassing van artikel 7:4, zesde lid, van artikel 7:5, tweede lid, en, voor zover bij wettelijk voorschrift niet anders is bepaald, van artikel 7:3.    
+5.  Een vertegenwoordiger van het bestuursorgaan wordt voor het horen uitgenodigd en wordt in de gelegenheid gesteld een toelichting op het standpunt van het bestuursorgaan te geven.    
+6.  Het advies van de commissie wordt schriftelijk uitgebracht en bevat een verslag van het horen.    
+7.  Indien de beslissing op het bezwaar afwijkt van het advies van de commissie, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.   
 
 ### Artikel  7:14  
 
@@ -2281,7 +2281,7 @@ Indien door een ander dan de aanvrager bezwaar is gemaakt tegen een besluit op a
 ### Artikel  7:16  
 
 1.  Voordat een beroepsorgaan op het beroep beslist, stelt het belanghebbenden in de gelegenheid te worden gehoord.    
-2.   Het beroepsorgaan stelt daarvan in ieder geval de indiener van het beroepschrift op de hoogte, alsmede het bestuursorgaan dat het besluit heeft genomen en de belanghebbenden die bij de voorbereiding van het besluit of bij de behandeling van het bezwaarschrift hun zienswijze naar voren hebben gebracht.   
+2.  Het beroepsorgaan stelt daarvan in ieder geval de indiener van het beroepschrift op de hoogte, alsmede het bestuursorgaan dat het besluit heeft genomen en de belanghebbenden die bij de voorbereiding van het besluit of bij de behandeling van het bezwaarschrift hun zienswijze naar voren hebben gebracht.   
 
 ### Artikel  7:17  
 
@@ -2298,26 +2298,26 @@ d. de belanghebbende niet binnen een door het bestuursorgaan gestelde redelijke 
 ### Artikel  7:18  
 
 1.  Tot tien dagen voor het horen kunnen belanghebbenden nadere stukken indienen.    
-2.   Het beroepsorgaan legt het beroepschrift en alle verder op de zaak betrekking hebbende stukken voorafgaand aan het horen gedurende ten minste een week voor belanghebbenden ter inzage.    
-3.   Bij de oproeping voor het horen worden belanghebbenden gewezen op het eerste lid en wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.    
-4.   Belanghebbenden kunnen van deze stukken tegen vergoeding van ten hoogste de kosten afschriften verkrijgen.    
-5.   Voor zover de belanghebbenden daarmee instemmen, kan toepassing van het tweede lid achterwege worden gelaten.    
-6.   Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het tweede lid voorts achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van de toepassing van deze bepaling wordt mededeling gedaan.    
-7.   Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen.    
-8.   Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de desbetreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is.   
+2.  Het beroepsorgaan legt het beroepschrift en alle verder op de zaak betrekking hebbende stukken voorafgaand aan het horen gedurende ten minste een week voor belanghebbenden ter inzage.    
+3.  Bij de oproeping voor het horen worden belanghebbenden gewezen op het eerste lid en wordt vermeld waar en wanneer de stukken ter inzage zullen liggen.    
+4.  Belanghebbenden kunnen van deze stukken tegen vergoeding van ten hoogste de kosten afschriften verkrijgen.    
+5.  Voor zover de belanghebbenden daarmee instemmen, kan toepassing van het tweede lid achterwege worden gelaten.    
+6.  Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het tweede lid voorts achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Van de toepassing van deze bepaling wordt mededeling gedaan.    
+7.  Gewichtige redenen zijn in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting bestaat een verzoek om informatie, vervat in deze stukken, in te willigen.    
+8.  Indien een gewichtige reden is gelegen in de vrees voor schade aan de lichamelijke of geestelijke gezondheid van een belanghebbende, kan inzage van de desbetreffende stukken worden voorbehouden aan een gemachtigde die hetzij advocaat hetzij arts is.   
 
 ### Artikel  7:19  
 
 1.  Het horen geschiedt door het beroepsorgaan.    
-2.   Bij of krachtens de wet kan het horen worden opgedragen aan een adviescommissie waarin een of meer leden zitting hebben die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het beroepsorgaan.    
-3.   Het horen geschiedt in het openbaar, tenzij het beroepsorgaan op verzoek van een belanghebbende of om gewichtige redenen ambtshalve anders beslist.   
+2.  Bij of krachtens de wet kan het horen worden opgedragen aan een adviescommissie waarin een of meer leden zitting hebben die geen deel uitmaken van en niet werkzaam zijn onder verantwoordelijkheid van het beroepsorgaan.    
+3.  Het horen geschiedt in het openbaar, tenzij het beroepsorgaan op verzoek van een belanghebbende of om gewichtige redenen ambtshalve anders beslist.   
 
 ### Artikel  7:20  
 
 1.  Belanghebbenden worden in elkaars aanwezigheid gehoord.    
-2.   Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.    
-3.   Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.    
-4.   Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Artikel 7:18, zesde lid, tweede volzin, zevende en achtste lid, is van overeenkomstige toepassing.   
+2.  Ambtshalve of op verzoek kunnen belanghebbenden afzonderlijk worden gehoord, indien aannemelijk is dat gezamenlijk horen een zorgvuldige behandeling zal belemmeren of dat tijdens het horen feiten of omstandigheden bekend zullen worden waarvan geheimhouding om gewichtige redenen is geboden.    
+3.  Wanneer belanghebbenden afzonderlijk zijn gehoord, wordt ieder van hen op de hoogte gesteld van het verhandelde tijdens het horen buiten zijn aanwezigheid.    
+4.  Het beroepsorgaan kan, al dan niet op verzoek van een belanghebbende, toepassing van het derde lid achterwege laten, voor zover geheimhouding om gewichtige redenen is geboden. Artikel 7:18, zesde lid, tweede volzin, zevende en achtste lid, is van overeenkomstige toepassing.   
 
 ### Artikel  7:21  
 
@@ -2354,10 +2354,10 @@ Voor zover het beroepsorgaan het beroep ontvankelijk en gegrond acht, vernietigt
 ### Artikel  7:26  
 
 1.  De beslissing op het beroep dient te berusten op een deugdelijke motivering, die bij de bekendmaking van de beslissing wordt vermeld. Daarbij wordt, indien ingevolge artikel 7:17 van het horen is afgezien, tevens aangegeven op welke grond dat is geschied.    
-2.   Indien de beslissing afwijkt van het advies van een commissie als bedoeld in artikel 7:19, tweede lid, worden in de beslissing de redenen voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.    
-3.   De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden was gericht, dan wordt de beslissing bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is.    
-4.   Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan het bestuursorgaan tegen welks besluit het beroep was gericht, aan degenen tot wie het bestreden besluit was gericht en aan de belanghebbenden die in beroep hun zienswijze naar voren hebben gebracht.    
-5.   Bij de mededeling, bedoeld in het vierde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het derde lid heeft plaatsgevonden.   
+2.  Indien de beslissing afwijkt van het advies van een commissie als bedoeld in artikel 7:19, tweede lid, worden in de beslissing de redenen voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.    
+3.  De beslissing wordt bekendgemaakt door toezending of uitreiking aan degenen tot wie zij is gericht. Betreft het een besluit dat niet tot een of meer belanghebbenden was gericht, dan wordt de beslissing bekendgemaakt op dezelfde wijze als waarop dat besluit bekendgemaakt is.    
+4.  Zo spoedig mogelijk na de bekendmaking van de beslissing wordt hiervan mededeling gedaan aan het bestuursorgaan tegen welks besluit het beroep was gericht, aan degenen tot wie het bestreden besluit was gericht en aan de belanghebbenden die in beroep hun zienswijze naar voren hebben gebracht.    
+5.  Bij de mededeling, bedoeld in het vierde lid, is artikel 6:23 van overeenkomstige toepassing en wordt met het oog op de aanvang van de beroepstermijn zo duidelijk mogelijk aangegeven wanneer de bekendmaking van de beslissing overeenkomstig het derde lid heeft plaatsgevonden.   
 
 ### Artikel  7:27  
 
@@ -2496,9 +2496,9 @@ De Afdeling bestuursrechtspraak van de Raad van State, de Centrale Raad van Bero
 ### Artikel  8:10  
 
 1.  De zaken die bij de rechtbank aanhangig worden gemaakt, worden in behandeling genomen door een enkelvoudige kamer.    
-2.   Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer. De enkelvoudige kamer kan ook in andere gevallen een zaak naar een meervoudige kamer verwijzen.    
-3.   Indien een zaak naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door één rechter, kan zij deze verwijzen naar een enkelvoudige kamer.    
-4.   Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.   
+2.  Indien een zaak naar het oordeel van de enkelvoudige kamer ongeschikt is voor behandeling door één rechter, verwijst zij deze naar een meervoudige kamer. De enkelvoudige kamer kan ook in andere gevallen een zaak naar een meervoudige kamer verwijzen.    
+3.  Indien een zaak naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door één rechter, kan zij deze verwijzen naar een enkelvoudige kamer.    
+4.  Verwijzing kan geschieden in elke stand van het geding. Een verwezen zaak wordt voortgezet in de stand waarin zij zich bevindt.   
 
 ### Artikel  8:10a  
 
@@ -2544,13 +2544,13 @@ b. de dag waarop zij is genomen.
 
 1.  De rechtbank kan een bij haar aanhangig gemaakte zaak ter verdere behandeling verwijzen naar de rechtbank waar een andere zaak aanhangig is gemaakt, indien naar haar oordeel behandeling van die zaken door één rechtbank gewenst is.   
 2.  Een verzoek tot verwijzing kan worden gedaan tot de aanvang van het onderzoek ter zitting.    
-3.   Indien de rechtbank waarnaar een zaak is verwezen, instemt met de verwijzing, worden de op de zaak betrekking hebbende stukken aan haar toegezonden.    
+3.  Indien de rechtbank waarnaar een zaak is verwezen, instemt met de verwijzing, worden de op de zaak betrekking hebbende stukken aan haar toegezonden.    
 4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing indien beroep in eerste aanleg kan worden ingesteld bij een gerechtshof. 
 
 ### Artikel  8:14  
 
 1.  De bestuursrechter kan zaken over hetzelfde of een verwant onderwerp ter behandeling voegen en de behandeling van gevoegde zaken splitsen.    
-2.   Een verzoek daartoe kan worden gedaan tot de sluiting van het onderzoek ter zitting.   
+2.  Een verzoek daartoe kan worden gedaan tot de sluiting van het onderzoek ter zitting.   
 
 ### Afdeling  8.1.4  
 
@@ -2563,10 +2563,10 @@ Op verzoek van een partij kan elk van de rechters die een zaak behandelen, worde
 ### Artikel  8:16  
 
 1.  Het verzoek wordt gedaan zodra de feiten of omstandigheden aan de verzoeker bekend zijn geworden.    
-2.   Het verzoek geschiedt schriftelijk en is gemotiveerd. Na de aanvang van het onderzoek ter zitting onderscheidenlijk na de aanvang van het horen van partijen of getuigen in het vooronderzoek kan het ook mondeling geschieden.    
-3.   Alle feiten of omstandigheden moeten tegelijk worden voorgedragen.    
-4.   Een volgend verzoek om wraking van dezelfde rechter wordt niet in behandeling genomen, tenzij feiten of omstandigheden worden voorgedragen die pas na het eerdere verzoek aan de verzoeker bekend zijn geworden.    
-5.   Geschiedt het verzoek ter zitting, dan wordt het onderzoek ter zitting geschorst.   
+2.  Het verzoek geschiedt schriftelijk en is gemotiveerd. Na de aanvang van het onderzoek ter zitting onderscheidenlijk na de aanvang van het horen van partijen of getuigen in het vooronderzoek kan het ook mondeling geschieden.    
+3.  Alle feiten of omstandigheden moeten tegelijk worden voorgedragen.    
+4.  Een volgend verzoek om wraking van dezelfde rechter wordt niet in behandeling genomen, tenzij feiten of omstandigheden worden voorgedragen die pas na het eerdere verzoek aan de verzoeker bekend zijn geworden.    
+5.  Geschiedt het verzoek ter zitting, dan wordt het onderzoek ter zitting geschorst.   
 
 ### Artikel  8:17  
 
@@ -2575,22 +2575,22 @@ Een rechter wiens wraking is verzocht, kan in de wraking berusten.
 ### Artikel  8:18  
 
 1.  Het verzoek om wraking wordt zo spoedig mogelijk ter zitting behandeld door een meervoudige kamer waarin de rechter wiens wraking is verzocht, geen zitting heeft.    
-2.   De verzoeker en de rechter wiens wraking is verzocht, worden in de gelegenheid gesteld te worden gehoord. De bestuursrechter kan ambtshalve of op verzoek van de verzoeker of de rechter wiens wraking is verzocht, bepalen dat zij niet in elkaars aanwezigheid zullen worden gehoord.    
-3.   De bestuursrechter beslist zo spoedig mogelijk. De bestuursrechter spreekt de beslissing in het openbaar uit. De beslissing is gemotiveerd en wordt onverwijld aan de verzoeker, de andere partijen en de rechter wiens wraking was verzocht medegedeeld.    
-4.   In geval van misbruik kan de bestuursrechter bepalen dat een volgend verzoek niet in behandeling wordt genomen. Hiervan wordt in de beslissing melding gemaakt.    
-5.   Tegen de beslissing staat geen rechtsmiddel open.   
+2.  De verzoeker en de rechter wiens wraking is verzocht, worden in de gelegenheid gesteld te worden gehoord. De bestuursrechter kan ambtshalve of op verzoek van de verzoeker of de rechter wiens wraking is verzocht, bepalen dat zij niet in elkaars aanwezigheid zullen worden gehoord.    
+3.  De bestuursrechter beslist zo spoedig mogelijk. De bestuursrechter spreekt de beslissing in het openbaar uit. De beslissing is gemotiveerd en wordt onverwijld aan de verzoeker, de andere partijen en de rechter wiens wraking was verzocht medegedeeld.    
+4.  In geval van misbruik kan de bestuursrechter bepalen dat een volgend verzoek niet in behandeling wordt genomen. Hiervan wordt in de beslissing melding gemaakt.    
+5.  Tegen de beslissing staat geen rechtsmiddel open.   
 
 ### Artikel  8:19  
 
 1.  Op grond van feiten of omstandigheden als bedoeld in artikel 8:15 kan elk van de rechters die een zaak behandelen, verzoeken zich te mogen verschonen.    
-2.   Het verzoek geschiedt schriftelijk en is gemotiveerd. Na de aanvang van het onderzoek ter zitting, onderscheidenlijk na de aanvang van het horen van partijen of getuigen in het vooronderzoek kan het ook mondeling geschieden.    
-3.   Geschiedt het verzoek ter zitting, dan wordt het onderzoek ter zitting geschorst.   
+2.  Het verzoek geschiedt schriftelijk en is gemotiveerd. Na de aanvang van het onderzoek ter zitting, onderscheidenlijk na de aanvang van het horen van partijen of getuigen in het vooronderzoek kan het ook mondeling geschieden.    
+3.  Geschiedt het verzoek ter zitting, dan wordt het onderzoek ter zitting geschorst.   
 
 ### Artikel  8:20  
 
 1.  Het verzoek om verschoning wordt zo spoedig mogelijk behandeld door een meervoudige kamer waarin de rechter die om verschoning heeft verzocht, geen zitting heeft.    
-2.   De bestuursrechter beslist zo spoedig mogelijk. De beslissing is gemotiveerd en wordt onverwijld aan partijen en de rechter die om verschoning had verzocht medegedeeld.    
-3.   Tegen de beslissing staat geen rechtsmiddel open.   
+2.  De bestuursrechter beslist zo spoedig mogelijk. De beslissing is gemotiveerd en wordt onverwijld aan partijen en de rechter die om verschoning had verzocht medegedeeld.    
+3.  Tegen de beslissing staat geen rechtsmiddel open.   
 
 ### Afdeling  8.1.5  
 
@@ -2599,40 +2599,40 @@ Een rechter wiens wraking is verzocht, kan in de wraking berusten.
 ### Artikel  8:21  
 
 1.  Natuurlijke personen, onbekwaam om in rechte te staan, worden in het geding vertegenwoordigd door hun vertegenwoordigers naar burgerlijk recht. De wettelijke vertegenwoordiger behoeft niet de machtiging van de kantonrechter, bedoeld in artikel 349 van Boek 1 van het Burgerlijk Wetboek.    
-2.   De in het eerste lid bedoelde personen kunnen zelf in het geding optreden, indien zij tot redelijke waardering van hun belangen in staat kunnen worden geacht.    
-3.   Indien geen wettelijke vertegenwoordiger aanwezig is, of deze niet beschikbaar is en de zaak spoedeisend is, kan de bestuursrechter een voorlopige vertegenwoordiger benoemen. De benoeming vervalt zodra een wettelijke vertegenwoordiger aanwezig is of de wettelijke vertegenwoordiger weer beschikbaar is.   
+2.  De in het eerste lid bedoelde personen kunnen zelf in het geding optreden, indien zij tot redelijke waardering van hun belangen in staat kunnen worden geacht.    
+3.  Indien geen wettelijke vertegenwoordiger aanwezig is, of deze niet beschikbaar is en de zaak spoedeisend is, kan de bestuursrechter een voorlopige vertegenwoordiger benoemen. De benoeming vervalt zodra een wettelijke vertegenwoordiger aanwezig is of de wettelijke vertegenwoordiger weer beschikbaar is.   
 
 ### Artikel  8:22  
 
 1.  In geval van faillissement of surséance van betaling of toepassing van de schuldsaneringsregeling natuurlijke personen zijn de artikelen 25, 27 en 31 van de Faillissementswet van overeenkomstige toepassing.    
-2.   De artikelen 25, tweede lid, en 27 vinden geen toepassing, indien partijen vóór de faillietverklaring zijn uitgenodigd om op een zitting van de bestuursrechter te verschijnen.   
+2.  De artikelen 25, tweede lid, en 27 vinden geen toepassing, indien partijen vóór de faillietverklaring zijn uitgenodigd om op een zitting van de bestuursrechter te verschijnen.   
 
 ### Artikel  8:23  
 
 1.  Een bestuursorgaan dat een college is, wordt in het geding vertegenwoordigd door een of meer door het bestuursorgaan aangewezen leden.    
-2.   De Kroon wordt in het geding vertegenwoordigd door Onze Minister wie het aangaat onderscheidenlijk door een of meer van Onze Ministers wie het aangaat.   
+2.  De Kroon wordt in het geding vertegenwoordigd door Onze Minister wie het aangaat onderscheidenlijk door een of meer van Onze Ministers wie het aangaat.   
 
 ### Artikel  8:24  
 
 1.  Partijen kunnen zich laten bijstaan of door een gemachtigde laten vertegenwoordigen.    
-2.   De bestuursrechter kan van een gemachtigde een schriftelijke machtiging verlangen.    
-3.   Het tweede lid is niet van toepassing ten aanzien van advocaten.   
+2.  De bestuursrechter kan van een gemachtigde een schriftelijke machtiging verlangen.    
+3.  Het tweede lid is niet van toepassing ten aanzien van advocaten.   
 
 ### Artikel  8:25  
 
 1.  De bestuursrechter kan bijstand of vertegenwoordiging door een persoon tegen wie ernstige bezwaren bestaan, weigeren.    
-2.   De betrokken partij en de in het eerste lid bedoelde persoon worden onverwijld in kennis gesteld van de weigering en de reden daarvoor.    
-3.   Het eerste lid is niet van toepassing ten aanzien van advocaten.   
+2.  De betrokken partij en de in het eerste lid bedoelde persoon worden onverwijld in kennis gesteld van de weigering en de reden daarvoor.    
+3.  Het eerste lid is niet van toepassing ten aanzien van advocaten.   
 
 ### Artikel  8:26  
 
 1.  De bestuursrechter kan tot de sluiting van het onderzoek ter zitting ambtshalve, op verzoek van een partij of op hun eigen verzoek, belanghebbenden in de gelegenheid stellen als partij aan het geding deel te nemen.    
-2.   Indien de bestuursrechter vermoedt dat er onbekende belanghebbenden zijn, kan hij in de *Staatscourant* doen aankondigen dat een zaak bij hem aanhangig is. Naast de aankondiging in de *Staatscourant* kan ook een ander middel voor de aankondiging worden gebruikt.   
+2.  Indien de bestuursrechter vermoedt dat er onbekende belanghebbenden zijn, kan hij in de *Staatscourant* doen aankondigen dat een zaak bij hem aanhangig is. Naast de aankondiging in de *Staatscourant* kan ook een ander middel voor de aankondiging worden gebruikt.   
 
 ### Artikel  8:27  
 
 1.  Partijen die door de bestuursrechter zijn opgeroepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen, al dan niet voor het geven van inlichtingen, zijn verplicht te verschijnen en de verlangde inlichtingen te geven. Partijen worden hierop gewezen, alsmede op artikel 8:31.    
-2.   Indien het een rechtspersoon betreft of een bestuursorgaan dat een college is, kan de bestuursrechter een of meer bepaalde bestuurders onderscheidenlijk een of meer bepaalde leden oproepen.   
+2.  Indien het een rechtspersoon betreft of een bestuursorgaan dat een college is, kan de bestuursrechter een of meer bepaalde bestuurders onderscheidenlijk een of meer bepaalde leden oproepen.   
 
 ### Artikel  8:28  
 
@@ -2646,10 +2646,10 @@ Partijen aan wie door de bestuursrechter is verzocht schriftelijk inlichtingen t
 ### Artikel  8:29  
 
 1.  Partijen die verplicht zijn inlichtingen te geven dan wel stukken over te leggen, kunnen, indien daarvoor gewichtige redenen zijn, het geven van inlichtingen dan wel het overleggen van stukken weigeren of de bestuursrechter mededelen dat uitsluitend hij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken.    
-2.   Gewichtige redenen zijn voor een bestuursorgaan in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting zou bestaan een verzoek om informatie, vervat in de over te leggen stukken, in te willigen.    
+2.  Gewichtige redenen zijn voor een bestuursorgaan in ieder geval niet aanwezig, voor zover ingevolge de Wet openbaarheid van bestuur de verplichting zou bestaan een verzoek om informatie, vervat in de over te leggen stukken, in te willigen.    
 3.   De bestuursrechter beslist of de in het eerste lid bedoelde weigering onderscheidenlijk de beperking van de kennisneming gerechtvaardigd is.    
-4.   Indien de bestuursrechter heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.    
-5.   Indien de bestuursrechter heeft beslist dat de beperking van de kennisneming gerechtvaardigd is, kan hij slechts met toestemming van de andere partijen mede op de grondslag van die inlichtingen onderscheidenlijk die stukken uitspraak doen. Indien de toestemming wordt geweigerd, wordt de zaak verwezen naar een andere kamer.  
+4.  Indien de bestuursrechter heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.    
+5.  Indien de bestuursrechter heeft beslist dat de beperking van de kennisneming gerechtvaardigd is, kan hij slechts met toestemming van de andere partijen mede op de grondslag van die inlichtingen onderscheidenlijk die stukken uitspraak doen. Indien de toestemming wordt geweigerd, wordt de zaak verwezen naar een andere kamer.  
 
 ### Artikel  8:30  
 
@@ -2662,7 +2662,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 ### Artikel  8:32  
 
 1.  De bestuursrechter kan, indien de vrees bestaat dat kennisneming van stukken door een partij haar lichamelijke of geestelijke gezondheid zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de bestuursrechter bijzondere toestemming heeft gekregen.    
-2.   De bestuursrechter kan, indien kennisneming van stukken door een partij de persoonlijke levenssfeer van een ander onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de bestuursrechter bijzondere toestemming heeft gekregen.   
+2.  De bestuursrechter kan, indien kennisneming van stukken door een partij de persoonlijke levenssfeer van een ander onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de bestuursrechter bijzondere toestemming heeft gekregen.   
 
 ### Afdeling  8.1.6  
 
@@ -2671,9 +2671,9 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 ### Artikel  8:33  
 
 1.  Ieder die door de bestuursrechter als getuige wordt opgeroepen, is verplicht aan de oproeping gevolg te geven en getuigenis af te leggen.    
-2.   In de oproeping worden vermeld de plaats en het tijdstip waarop de getuige zal worden gehoord, de feiten waarop het horen betrekking zal hebben en de gevolgen die zijn verbonden aan het niet verschijnen.    
+2.  In de oproeping worden vermeld de plaats en het tijdstip waarop de getuige zal worden gehoord, de feiten waarop het horen betrekking zal hebben en de gevolgen die zijn verbonden aan het niet verschijnen.    
 3.  De artikelen 165, tweede en derde lid, 172, 173, eerste lid, eerste volzin, tweede en derde lid, 174, eerste lid, 175, 176, eerste en derde lid, 177, eerste lid en 178 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing   
-4.   De bestuursrechter kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.   
+4.  De bestuursrechter kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.   
 
 ### Artikel  8:34  
 
@@ -2688,7 +2688,7 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 ### Artikel  8:36  
 
 1.  Aan de door de bestuursrechter opgeroepen getuigen, deskundigen en tolken en de deskundigen die een onderzoek als bedoeld in artikel 8:47, eerste lid, hebben ingesteld, wordt ten laste van het Rijk een vergoeding toegekend. Het bij en krachtens de Wet tarieven in strafzaken bepaalde is van overeenkomstige toepassing.    
-2.   De partij die een getuige of deskundige heeft meegebracht of opgeroepen, dan wel aan wie een verslag van een deskundige is uitgebracht, is aan deze een vergoeding verschuldigd. Het bij en krachtens de Wet tarieven in strafzaken bepaalde is van overeenkomstige toepassing.   
+2.  De partij die een getuige of deskundige heeft meegebracht of opgeroepen, dan wel aan wie een verslag van een deskundige is uitgebracht, is aan deze een vergoeding verschuldigd. Het bij en krachtens de Wet tarieven in strafzaken bepaalde is van overeenkomstige toepassing.   
 
 ### Afdeling  8.1.7  
 
@@ -2697,19 +2697,19 @@ Indien een partij niet voldoet aan de verplichting te verschijnen, inlichtingen 
 ### Artikel  8:37  
 
 1.  Oproepingen, de uitnodiging om op een zitting van de bestuursrechter te verschijnen, alsmede de verzending van een afschrift van de uitspraak en van het proces-verbaal van de mondelinge uitspraak geschieden door de griffier bij aangetekende brief of bij brief met ontvangstbevestiging, tenzij de bestuursrechter anders bepaalt.    
-2.   Voor het overige geschiedt de verzending van stukken door de griffier bij gewone brief, tenzij de bestuursrechter anders bepaalt.    
+2.  Voor het overige geschiedt de verzending van stukken door de griffier bij gewone brief, tenzij de bestuursrechter anders bepaalt.    
 3.   In een brief wordt de datum van verzending vermeld.   
 
 ### Artikel  8:38  
 
 1.  Indien de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk een week daarna in de basisregistratie personen stond ingeschreven op het op het stuk vermelde adres, dan verzendt hij het stuk zo spoedig mogelijk bij gewone brief.    
-2.   In de overige gevallen waarin de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt, verbetert hij, indien mogelijk, het op het stuk vermelde adres en verzendt hij het stuk opnieuw bij aangetekende brief of bij brief met ontvangstbevestiging.   
+2.  In de overige gevallen waarin de griffier een bij aangetekende brief of bij brief met ontvangstbevestiging verzonden stuk terug ontvangt, verbetert hij, indien mogelijk, het op het stuk vermelde adres en verzendt hij het stuk opnieuw bij aangetekende brief of bij brief met ontvangstbevestiging.   
 
 ### Artikel  8:39  
 
 1.  De griffier zendt de op de zaak betrekking hebbende stukken zo spoedig mogelijk aan partijen, voor zover de bestuursrechter niet op grond van de artikelen 8:29 of 8:32 anders heeft beslist.    
-2.   De griffier kan de toezending van zeer omvangrijke stukken of van stukken die bezwaarlijk kunnen worden vermenigvuldigd, achterwege laten. Hij stelt partijen daarvan in kennis en vermeldt daarbij dat deze stukken gedurende een door hem te bepalen termijn van ten minste een week ter griffie ter inzage worden gelegd.    
-3.   Partijen kunnen afschriften van of uittreksels uit de in het tweede lid bedoelde stukken verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
+2.  De griffier kan de toezending van zeer omvangrijke stukken of van stukken die bezwaarlijk kunnen worden vermenigvuldigd, achterwege laten. Hij stelt partijen daarvan in kennis en vermeldt daarbij dat deze stukken gedurende een door hem te bepalen termijn van ten minste een week ter griffie ter inzage worden gelegd.    
+3.  Partijen kunnen afschriften van of uittreksels uit de in het tweede lid bedoelde stukken verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  8:40  
 
@@ -2766,19 +2766,19 @@ De bestuursrechter beslecht het hem voorgelegde geschil zoveel mogelijk definiti
 ### Artikel  8:43  
 
 1.  De bestuursrechter kan de indiener van het beroepschrift in de gelegenheid stellen schriftelijk te repliceren. In dat geval wordt het bestuursorgaan in de gelegenheid gesteld schriftelijk te dupliceren. De bestuursrechter stelt de termijnen voor repliek en dupliek vast.    
-2.   De bestuursrechter stelt andere partijen dan de in het eerste lid bedoelde in de gelegenheid om ten minste eenmaal een schriftelijke uiteenzetting over de zaak te geven. Hij stelt hiervoor een termijn vast.   
+2.  De bestuursrechter stelt andere partijen dan de in het eerste lid bedoelde in de gelegenheid om ten minste eenmaal een schriftelijke uiteenzetting over de zaak te geven. Hij stelt hiervoor een termijn vast.   
 
 ### Artikel  8:44  
 
 1.  De bestuursrechter kan partijen oproepen om in persoon dan wel in persoon of bij gemachtigde te verschijnen om te worden gehoord, al dan niet voor het geven van inlichtingen. Indien niet alle partijen worden opgeroepen, worden de niet opgeroepen partijen in de gelegenheid gesteld het horen bij te wonen en een uiteenzetting over de zaak te geven.    
-2.   Van het geven van inlichtingen wordt door de griffier een proces-verbaal opgemaakt.    
-3.   Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.   
+2.  Van het geven van inlichtingen wordt door de griffier een proces-verbaal opgemaakt.    
+3.  Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.   
 
 ### Artikel  8:45  
 
 1.  De bestuursrechter kan partijen en anderen verzoeken binnen een door hem te bepalen termijn schriftelijk inlichtingen te geven en onder hen berustende stukken in te zenden.    
-2.   Bestuursorganen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. Artikel 8:29 is van overeenkomstige toepassing.    
-3.   Werkgevers van partijen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. Artikel 8:29 is van overeenkomstige toepassing.    
+2.  Bestuursorganen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. Artikel 8:29 is van overeenkomstige toepassing.    
+3.  Werkgevers van partijen zijn, ook als zij geen partij zijn, verplicht aan het verzoek, bedoeld in het eerste lid, te voldoen. Artikel 8:29 is van overeenkomstige toepassing.    
 4.  Van het voornemen van de bestuursrechter tot het vragen van inlichtingen of advies aan de Europese Commissie krachtens artikel 15, eerste lid, van Verordening (EG) nr. 1/2003 van de Raad van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1) wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent de te vragen inlichtingen of het te vragen advies binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.   
 5.  Op het verstrekken van inlichtingen of advies door de Europese Commissie is artikel 8:29 van overeenkomstige toepassing.   
 6.  Partijen kunnen binnen vier weken na de dag van verzending aan hen van de inlichtingen of het advies van de Europese Commissie schriftelijk hun zienswijze met betrekking tot de inlichtingen of het advies naar voren brengen. De bestuursrechter kan deze termijn verlengen. 
@@ -2793,22 +2793,22 @@ De bestuursrechter beslecht het hem voorgelegde geschil zoveel mogelijk definiti
 ### Artikel  8:46  
 
 1.  De bestuursrechter kan getuigen oproepen.    
-2.   De bestuursrechter deelt de namen en woonplaatsen van de getuigen, de plaats en het tijdstip waarop dezen zullen worden gehoord en de feiten waarop het horen betrekking zal hebben, ten minste een week tevoren aan partijen mee.    
-3.   De artikelen 179, eerste, tweede en derde lid, eerste volzin, en 180, eerste tot en met derde en vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
+2.  De bestuursrechter deelt de namen en woonplaatsen van de getuigen, de plaats en het tijdstip waarop dezen zullen worden gehoord en de feiten waarop het horen betrekking zal hebben, ten minste een week tevoren aan partijen mee.    
+3.  De artikelen 179, eerste, tweede en derde lid, eerste volzin, en 180, eerste tot en met derde en vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.   
 
 ### Artikel  8:47  
 
 1.  De bestuursrechter kan een deskundige benoemen voor het instellen van een onderzoek.    
-2.   Bij de benoeming worden vermeld de opdracht die moet worden vervuld en de termijn, bedoeld in het vierde lid.    
-3.   Van het voornemen tot het benoemen van een deskundige als bedoeld in het eerste lid wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent het onderzoek binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.    
-4.   De bestuursrechter stelt een termijn binnen welke de deskundige aan hem een schriftelijk verslag van het onderzoek uitbrengt.    
-5.   Partijen kunnen binnen vier weken na de dag van verzending van het verslag aan hen schriftelijk hun zienswijze met betrekking tot het verslag naar voren brengen.    
-6.   De bestuursrechter kan de in het vijfde lid bedoelde termijn verlengen.   
+2.  Bij de benoeming worden vermeld de opdracht die moet worden vervuld en de termijn, bedoeld in het vierde lid.    
+3.  Van het voornemen tot het benoemen van een deskundige als bedoeld in het eerste lid wordt aan partijen mededeling gedaan. De bestuursrechter kan partijen in de gelegenheid stellen om hun wensen omtrent het onderzoek binnen een door hem te bepalen termijn schriftelijk aan hem kenbaar te maken.    
+4.  De bestuursrechter stelt een termijn binnen welke de deskundige aan hem een schriftelijk verslag van het onderzoek uitbrengt.    
+5.  Partijen kunnen binnen vier weken na de dag van verzending van het verslag aan hen schriftelijk hun zienswijze met betrekking tot het verslag naar voren brengen.    
+6.  De bestuursrechter kan de in het vijfde lid bedoelde termijn verlengen.   
 
 ### Artikel  8:48  
 
 1.  De arts die voor het instellen van een onderzoek als bedoeld in artikel 8:47, eerste lid, een persoon moet onderzoeken, kan de voor het onderzoek van belang zijnde inlichtingen over deze persoon inwinnen bij de behandelend arts of de behandelende artsen, de verzekeringsarts en de adviserend arts van het bestuursorgaan.    
-2.   Zij verstrekken de gevraagde inlichtingen voor zover daardoor de persoonlijke levenssfeer van de betrokken persoon niet onevenredig wordt geschaad.   
+2.  Zij verstrekken de gevraagde inlichtingen voor zover daardoor de persoonlijke levenssfeer van de betrokken persoon niet onevenredig wordt geschaad.   
 
 ### Artikel  8:49  
 
@@ -2817,16 +2817,16 @@ De bestuursrechter kan tolken benoemen.
 ### Artikel  8:50  
 
 1.  De bestuursrechter kan een onderzoek ter plaatse instellen. Hij heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.    
-2.   Bestuursorganen verlenen de medewerking die in het belang van het onderzoek is vereist.    
-3.   Van plaats en tijdstip van het onderzoek wordt aan partijen mededeling gedaan. Zij kunnen bij het onderzoek aanwezig zijn.    
+2.  Bestuursorganen verlenen de medewerking die in het belang van het onderzoek is vereist.    
+3.  Van plaats en tijdstip van het onderzoek wordt aan partijen mededeling gedaan. Zij kunnen bij het onderzoek aanwezig zijn.    
 4.   Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt.    
-5.   Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.   
+5.  Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.   
 
 ### Artikel  8:51  
 
 1.  De bestuursrechter kan aan de griffier opdragen een onderzoek ter plaatse in te stellen. Deze heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van de hem opgedragen taak nodig is. De bestuursrechter is bevoegd tot het geven van een machtiging tot binnentreden.    
 2.   Artikel 8:50, tweede en derde lid, is van overeenkomstige toepassing.    
-3.   Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.   
+3.  Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.   
 
 ### Afdeling  8.2.2a  
 
@@ -2866,7 +2866,7 @@ Indien de bestuursrechter in hoogste aanleg uitspraak doet, kan hij het bestuurs
 ### Artikel  8:52  
 
 1.  De bestuursrechter kan, indien de zaak spoedeisend is, bepalen dat deze versneld wordt behandeld.    
-2.   In dat geval kan de bestuursrechter:  
+2.  In dat geval kan de bestuursrechter:  
 
 a. de in artikel 8:41, vijfde lid, bedoelde termijn verkorten,   
 
@@ -2879,7 +2879,7 @@ d.  artikel 8:47, derde lid, geheel of gedeeltelijk buiten toepassing laten,
 e. de in artikel 8:47, vijfde lid, bedoelde termijn verkorten, en  
 
 f. de in artikel 8:58, eerste lid, bedoelde termijn verkorten.    
-3.   Indien de bestuursrechter bepaalt dat de zaak versneld wordt behandeld, bepaalt hij tevens zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet hij daarvan onverwijld mededeling aan partijen. Artikel 8:56 is niet van toepassing.   
+3.  Indien de bestuursrechter bepaalt dat de zaak versneld wordt behandeld, bepaalt hij tevens zo spoedig mogelijk het tijdstip waarop de zitting zal plaatsvinden en doet hij daarvan onverwijld mededeling aan partijen. Artikel 8:56 is niet van toepassing.   
 
 ### Artikel  8:53  
 
@@ -2900,7 +2900,7 @@ b. het beroep kennelijk niet-ontvankelijk is,
 c. het beroep kennelijk ongegrond is, of   
 
 d. het beroep kennelijk gegrond is.      
-2.   In de uitspraak na toepassing van het eerste lid worden partijen gewezen op artikel 8:55, eerste lid.   
+2.  In de uitspraak na toepassing van het eerste lid worden partijen gewezen op artikel 8:55, eerste lid.   
 
 ### Artikel  8:54a  
 
@@ -2986,7 +2986,7 @@ d. de termijn als bedoeld in artikel 8:51b, derde lid, ongebruikt is verstreken,
 ### Artikel  8:58  
 
 1.  Tot tien dagen voor de zitting kunnen partijen nadere stukken indienen.    
-2.   Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8:56, gewezen.   
+2.  Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8:56, gewezen.   
 
 ### Artikel  8:59  
 
@@ -2995,9 +2995,9 @@ De bestuursrechter kan een partij oproepen om in persoon dan wel in persoon of b
 ### Artikel  8:60  
 
 1.  De bestuursrechter kan getuigen oproepen en deskundigen en tolken benoemen.    
-2.   De opgeroepen getuige en de deskundige of de tolk die zijn benoeming heeft aanvaard en door de bestuursrechter wordt opgeroepen, zijn verplicht aan de oproeping gevolg te geven. De artikelen 172 en 178 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing. In de oproeping van de deskundige worden vermeld de opdracht die moet worden vervuld, de plaats en het tijdstip waarop de opdracht moet worden vervuld en de gevolgen die zijn verbonden aan het niet verschijnen.    
-3.   Namen en woonplaatsen van de opgeroepen getuigen en deskundigen en de feiten waarop het horen betrekking zal hebben onderscheidenlijk de opdracht die moet worden vervuld, worden bij de uitnodiging, bedoeld in artikel 8:56, aan partijen zoveel mogelijk medegedeeld.    
-4.   Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk een week voor de dag van de zitting aan de bestuursrechter en aan de andere partijen mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8:56, gewezen.   
+2.  De opgeroepen getuige en de deskundige of de tolk die zijn benoeming heeft aanvaard en door de bestuursrechter wordt opgeroepen, zijn verplicht aan de oproeping gevolg te geven. De artikelen 172 en 178 van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing. In de oproeping van de deskundige worden vermeld de opdracht die moet worden vervuld, de plaats en het tijdstip waarop de opdracht moet worden vervuld en de gevolgen die zijn verbonden aan het niet verschijnen.    
+3.  Namen en woonplaatsen van de opgeroepen getuigen en deskundigen en de feiten waarop het horen betrekking zal hebben onderscheidenlijk de opdracht die moet worden vervuld, worden bij de uitnodiging, bedoeld in artikel 8:56, aan partijen zoveel mogelijk medegedeeld.    
+4.  Partijen kunnen getuigen en deskundigen meebrengen of bij aangetekende brief of deurwaardersexploit oproepen, mits daarvan uiterlijk een week voor de dag van de zitting aan de bestuursrechter en aan de andere partijen mededeling is gedaan, met vermelding van namen en woonplaatsen. Op deze bevoegdheid worden partijen in de uitnodiging, bedoeld in artikel 8:56, gewezen.   
 
 ### Artikel  8:60a  
 
@@ -3007,23 +3007,23 @@ De bestuursrechter kan een partij oproepen om in persoon dan wel in persoon of b
 ### Artikel  8:61  
 
 1.  De voorzitter heeft de leiding van de zitting.    
-2.   De griffier houdt aantekening van het verhandelde ter zitting.    
+2.  De griffier houdt aantekening van het verhandelde ter zitting.    
 3.  De griffier maakt van de zitting een proces-verbaal op: 
 
 a. indien de bestuursrechter dit ambtshalve of op verzoek van een partij die daarbij belang heeft, bepaalt, of  
 
 b. op verzoek van de hogerberoepsrechter of de Hoge Raad.     
-4.   Het bevat de namen van de rechter of de rechters die de zaak behandelt onderscheidenlijk behandelen, die van partijen en van hun vertegenwoordigers of gemachtigden die op de zitting zijn verschenen en van degenen die hen hebben bijgestaan, en die van de getuigen, deskundigen en tolken die op de zitting zijn verschenen.    
-5.   Het houdt een vermelding in van hetgeen op de zitting met betrekking tot de zaak is voorgevallen.    
-6.   Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.    
-7.   Aan het proces-verbaal kunnen overgelegde pleitnotities worden gehecht.    
-8.   De bestuursrechter kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.    
+4.  Het bevat de namen van de rechter of de rechters die de zaak behandelt onderscheidenlijk behandelen, die van partijen en van hun vertegenwoordigers of gemachtigden die op de zitting zijn verschenen en van degenen die hen hebben bijgestaan, en die van de getuigen, deskundigen en tolken die op de zitting zijn verschenen.    
+5.  Het houdt een vermelding in van hetgeen op de zitting met betrekking tot de zaak is voorgevallen.    
+6.  Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.    
+7.  Aan het proces-verbaal kunnen overgelegde pleitnotities worden gehecht.    
+8.  De bestuursrechter kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.    
 9.  De griffier die een proces-verbaal opmaakt, zendt dit aan partijen. 
 
 ### Artikel  8:62  
 
 1.  De zitting is openbaar.    
-2.   De bestuursrechter kan bepalen dat het onderzoek ter zitting geheel of gedeeltelijk zal plaatshebben met gesloten deuren:  
+2.  De bestuursrechter kan bepalen dat het onderzoek ter zitting geheel of gedeeltelijk zal plaatshebben met gesloten deuren:  
 
 a. in het belang van de openbare orde of de goede zeden,   
 
@@ -3036,22 +3036,22 @@ d. indien openbaarheid het belang van een goede rechtspleging ernstig zou schade
 ### Artikel  8:63  
 
 1.  Op het horen van getuigen en deskundigen is artikel 179, tweede en derde lid, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing. Op het horen van getuigen is artikel 179, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering van overeenkomstige toepassing.    
-2.   De bestuursrechter kan afzien van het horen van door een partij meegebrachte of opgeroepen getuigen en deskundigen indien hij van oordeel is dat dit redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak.    
-3.   Indien een door een partij opgeroepen getuige of deskundige niet is verschenen, kan de bestuursrechter deze oproepen. In dat geval schorst de bestuursrechter het onderzoek ter zitting.   
+2.  De bestuursrechter kan afzien van het horen van door een partij meegebrachte of opgeroepen getuigen en deskundigen indien hij van oordeel is dat dit redelijkerwijs niet kan bijdragen aan de beoordeling van de zaak.    
+3.  Indien een door een partij opgeroepen getuige of deskundige niet is verschenen, kan de bestuursrechter deze oproepen. In dat geval schorst de bestuursrechter het onderzoek ter zitting.   
 
 ### Artikel  8:64  
 
 1.  De bestuursrechter kan het onderzoek ter zitting schorsen. Hij kan daarbij bepalen dat het vooronderzoek wordt hervat.    
-2.   Indien bij de schorsing geen tijdstip van de nadere zitting is bepaald, bepaalt de bestuursrechter dit zo spoedig mogelijk. De griffier doet zo spoedig mogelijk mededeling aan partijen van het tijdstip van de nadere zitting.    
-3.   In de gevallen waarin schorsing van het onderzoek ter zitting heeft plaatsgevonden, wordt de zaak op de nadere zitting hervat in de stand waarin zij zich bevond.    
-4.   De bestuursrechter kan bepalen dat het onderzoek ter zitting opnieuw wordt aangevangen.    
+2.  Indien bij de schorsing geen tijdstip van de nadere zitting is bepaald, bepaalt de bestuursrechter dit zo spoedig mogelijk. De griffier doet zo spoedig mogelijk mededeling aan partijen van het tijdstip van de nadere zitting.    
+3.  In de gevallen waarin schorsing van het onderzoek ter zitting heeft plaatsgevonden, wordt de zaak op de nadere zitting hervat in de stand waarin zij zich bevond.    
+4.  De bestuursrechter kan bepalen dat het onderzoek ter zitting opnieuw wordt aangevangen.    
 5.  De bestuursrechter kan bepalen dat de nadere zitting achterwege blijft indien partijen daarvoor toestemming hebben gegeven. Artikel 8:57, tweede en derde lid, is van toepassing.  
 
 ### Artikel  8:65  
 
 1.  De bestuursrechter sluit het onderzoek ter zitting, wanneer hij van oordeel is dat het is voltooid.    
-2.   Voordat het onderzoek ter zitting wordt gesloten, hebben partijen het recht voor het laatst het woord te voeren.    
-3.   Zodra het onderzoek ter zitting is gesloten, deelt de voorzitter mee wanneer uitspraak zal worden gedaan.   
+2.  Voordat het onderzoek ter zitting wordt gesloten, hebben partijen het recht voor het laatst het woord te voeren.    
+3.  Zodra het onderzoek ter zitting is gesloten, deelt de voorzitter mee wanneer uitspraak zal worden gedaan.   
 
 ### Afdeling  8.2.6  
 
@@ -3060,28 +3060,28 @@ d. indien openbaarheid het belang van een goede rechtspleging ernstig zou schade
 ### Artikel  8:66  
 
 1.  Tenzij mondeling uitspraak wordt gedaan, doet de bestuursrechter binnen zes weken na de sluiting van het onderzoek schriftelijk uitspraak.    
-2.   In bijzondere omstandigheden kan de bestuursrechter deze termijn met ten hoogste zes weken verlengen.    
-3.   Van deze verlenging wordt aan partijen mededeling gedaan.   
+2.  In bijzondere omstandigheden kan de bestuursrechter deze termijn met ten hoogste zes weken verlengen.    
+3.  Van deze verlenging wordt aan partijen mededeling gedaan.   
 
 ### Artikel  8:67  
 
 1.  De bestuursrechter kan na de sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen. De uitspraak kan voor ten hoogste een week worden verdaagd onder aanzegging aan partijen van het tijdstip van de uitspraak.    
-2.   De mondelinge uitspraak bestaat uit de beslissing en de gronden van de beslissing.    
-3.   Van de mondelinge uitspraak wordt door de griffier een proces-verbaal opgemaakt.    
-4.   Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.    
-5.   De bestuursrechter spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit, in tegenwoordigheid van de griffier. Daarbij wordt vermeld door wie, binnen welke termijn en bij welke bestuursrechter welk rechtsmiddel kan worden aangewend.    
-6.   De mededeling, bedoeld in het vijfde lid, tweede volzin, wordt in het proces-verbaal vermeld.   
+2.  De mondelinge uitspraak bestaat uit de beslissing en de gronden van de beslissing.    
+3.  Van de mondelinge uitspraak wordt door de griffier een proces-verbaal opgemaakt.    
+4.  Het wordt door de voorzitter en de griffier ondertekend. Bij verhindering van de voorzitter of de griffier wordt dit in het proces-verbaal vermeld.    
+5.  De bestuursrechter spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit, in tegenwoordigheid van de griffier. Daarbij wordt vermeld door wie, binnen welke termijn en bij welke bestuursrechter welk rechtsmiddel kan worden aangewend.    
+6.  De mededeling, bedoeld in het vijfde lid, tweede volzin, wordt in het proces-verbaal vermeld.   
 
 ### Artikel  8:68  
 
 1.  Indien de bestuursrechter van oordeel is dat het onderzoek niet volledig is geweest, kan hij het heropenen. De bestuursrechter bepaalt daarbij op welke wijze het onderzoek wordt voortgezet.    
-2.   De griffier doet zo spoedig mogelijk mededeling daarvan aan partijen.   
+2.  De griffier doet zo spoedig mogelijk mededeling daarvan aan partijen.   
 
 ### Artikel  8:69  
 
 1.  De bestuursrechter doet uitspraak op de grondslag van het beroepschrift, de overgelegde stukken, het verhandelde tijdens het vooronderzoek en het onderzoek ter zitting.    
-2.   De bestuursrechter vult ambtshalve de rechtsgronden aan.    
-3.   De bestuursrechter kan ambtshalve de feiten aanvullen.   
+2.  De bestuursrechter vult ambtshalve de rechtsgronden aan.    
+3.  De bestuursrechter kan ambtshalve de feiten aanvullen.   
 
 ### Artikel  8:69a  
 
@@ -3127,7 +3127,7 @@ Indien de bestuursrechter een beschikking tot het opleggen van een bestuurlijke 
 ### Artikel  8:74  
 
 1.  Indien de bestuursrechter het beroep gegrond verklaart, houdt de uitspraak tevens in dat aan de indiener van het beroepschrift het door hem betaalde griffierecht wordt vergoed door het bestuursorgaan.    
-2.   In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht door het bestuursorgaan geheel of gedeeltelijk wordt vergoed.   
+2.  In de overige gevallen kan de uitspraak inhouden dat het betaalde griffierecht door het bestuursorgaan geheel of gedeeltelijk wordt vergoed.   
 
 ### Artikel  8:75  
 
@@ -3159,8 +3159,8 @@ d. de naam van de rechter of de namen van de rechters die de zaak heeft ondersch
 e. de dag waarop de beslissing is uitgesproken, en   
 
 f. door wie, binnen welke termijn en bij welke bestuursrechter welk rechtsmiddel kan worden aangewend.      
-2.   Indien de uitspraak strekt tot gegrondverklaring van het beroep, wordt in de uitspraak vermeld welke geschreven of ongeschreven rechtsregel of welk algemeen rechtsbeginsel geschonden wordt geoordeeld.    
-3.   De uitspraak wordt ondertekend door de voorzitter en de griffier. Bij verhindering van de voorzitter of de griffier wordt dit in de uitspraak vermeld.   
+2.  Indien de uitspraak strekt tot gegrondverklaring van het beroep, wordt in de uitspraak vermeld welke geschreven of ongeschreven rechtsregel of welk algemeen rechtsbeginsel geschonden wordt geoordeeld.    
+3.  De uitspraak wordt ondertekend door de voorzitter en de griffier. Bij verhindering van de voorzitter of de griffier wordt dit in de uitspraak vermeld.   
 
 ### Artikel  8:78  
 
@@ -3169,7 +3169,7 @@ De bestuursrechter spreekt de beslissing, bedoeld in artikel 8:77, eerste lid, o
 ### Artikel  8:79  
 
 1.  Binnen twee weken na de dagtekening van de uitspraak zendt de griffier kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan partijen.    
-2.   Anderen dan partijen kunnen afschriften of uittreksels van de uitspraak of van het proces-verbaal van de mondelinge uitspraak verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.    
+2.  Anderen dan partijen kunnen afschriften of uittreksels van de uitspraak of van het proces-verbaal van de mondelinge uitspraak verkrijgen. Met betrekking tot de kosten is het bij en krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.    
 3.  In afwijking van het tweede lid verstrekt de griffier, indien de uitspraak betrekking heeft op de toepassing van de artikelen 101 of 102 van het Verdrag betreffende de werking van de Europese Unie, overeenkomstig artikel 15, tweede lid, van de in artikel 8:45, vierde lid, genoemde verordening onverwijld en kosteloos een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak aan de Europese Commissie. De verstrekking geschiedt door tussenkomst van de Raad voor de rechtspraak, tenzij het een uitspraak van de Hoge Raad of van de Afdeling bestuursrechtspraak van de Raad van State betreft. 
 
 ### Artikel  8:80  
@@ -3204,8 +3204,8 @@ b. de bestuursrechter uitspraak als bedoeld in artikel 8:66, eerste lid, heeft g
 ### Artikel  8:81  
 
 1.  Indien tegen een besluit bij de bestuursrechter beroep is ingesteld dan wel, voorafgaand aan een mogelijk beroep bij de bestuursrechter, bezwaar is gemaakt of administratief beroep is ingesteld, kan de voorzieningenrechter van de bestuursrechter die bevoegd is of kan worden in de hoofdzaak, op verzoek een voorlopige voorziening treffen indien onverwijlde spoed, gelet op de betrokken belangen, dat vereist.    
-2.   Indien bij de bestuursrechter beroep is ingesteld, kan een verzoek om voorlopige voorziening worden gedaan door een partij in de hoofdzaak.    
-3.   Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om voorlopige voorziening worden gedaan door de indiener van het bezwaarschrift, onderscheidenlijk door de indiener van het beroepschrift of door de belanghebbende die geen recht heeft tot het instellen van administratief beroep.    
+2.  Indien bij de bestuursrechter beroep is ingesteld, kan een verzoek om voorlopige voorziening worden gedaan door een partij in de hoofdzaak.    
+3.  Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om voorlopige voorziening worden gedaan door de indiener van het bezwaarschrift, onderscheidenlijk door de indiener van het beroepschrift of door de belanghebbende die geen recht heeft tot het instellen van administratief beroep.    
 4.   De artikelen 6:4, derde lid, 6:5, 6:6, 6:14, 6:15, 6:17, 6:19 en 6:21 zijn van overeenkomstige toepassing. De indiener van het verzoekschrift die bezwaar heeft gemaakt dan wel beroep heeft ingesteld, legt daarbij een afschrift van het bezwaar- of beroepschrift over.    
 5.  Indien een verzoek om voorlopige voorziening is gedaan nadat bezwaar is gemaakt of administratief beroep is ingesteld en op dit bezwaar of beroep wordt beslist voordat de zitting heeft plaatsgevonden, wordt de verzoeker in de gelegenheid gesteld beroep bij de bestuursrechter in te stellen. Het verzoek om voorlopige voorziening wordt gelijkgesteld met een verzoek dat wordt gedaan hangende het beroep bij de bestuursrechter.  
 
@@ -3226,13 +3226,13 @@ b. omdat de belanghebbende tot wie het bestreden besluit is gericht, aan de voor
 
 1.  Partijen worden zo spoedig mogelijk uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting te verschijnen. Binnen een door de voorzieningenrechter te bepalen termijn zendt het bestuursorgaan de op de zaak betrekking hebbende stukken aan hem. De artikelen 8:45, vierde tot en met zesde lid, en 8:45a zijn van overeenkomstige toepassing, met dien verstande dat de voorzieningenrechter kan bepalen dat de in deze artikelen bedoelde zienswijzen mondeling ter zitting naar voren worden gebracht. Artikel 8:58 is van overeenkomstige toepassing, met dien verstande dat tot één dag voor de zitting nadere stukken kunnen worden ingediend. De artikelen 8:59, 8:60, 8:60a, tweede lid, en 8:61 tot en met 8:65 zijn van overeenkomstige toepassing, met dien verstande dat getuigen en deskundigen kunnen worden meegebracht of opgeroepen zonder dat de in artikel 8:60, vierde lid, eerste volzin, bedoelde mededeling is gedaan.   
 2.   Indien administratief beroep is ingesteld, wordt het beroepsorgaan eveneens uitgenodigd om op de zitting te verschijnen. Het beroepsorgaan wordt in de gelegenheid gesteld ter zitting een uiteenzetting over de zaak te geven.    
-3.   Indien de voorzieningenrechter kennelijk onbevoegd is of het verzoek kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, kan de voorzieningenrechter uitspraak doen zonder toepassing van het eerste lid.    
-4.   Indien onverwijlde spoed dat vereist en partijen daardoor niet in hun belangen worden geschaad, kan de voorzieningenrechter ook in andere gevallen uitspraak doen zonder toepassing van het eerste lid.   
+3.  Indien de voorzieningenrechter kennelijk onbevoegd is of het verzoek kennelijk niet-ontvankelijk, kennelijk ongegrond of kennelijk gegrond is, kan de voorzieningenrechter uitspraak doen zonder toepassing van het eerste lid.    
+4.  Indien onverwijlde spoed dat vereist en partijen daardoor niet in hun belangen worden geschaad, kan de voorzieningenrechter ook in andere gevallen uitspraak doen zonder toepassing van het eerste lid.   
 
 ### Artikel  8:84  
 
 1.  De voorzieningenrechter doet zo spoedig mogelijk schriftelijk of mondeling uitspraak.    
-2.   De uitspraak strekt tot:  
+2.  De uitspraak strekt tot:  
 
 a. onbevoegdverklaring van de voorzieningenrechter,   
 
@@ -3242,13 +3242,13 @@ c. afwijzing van het verzoek, of
 
 d. gehele of gedeeltelijke toewijzing van het verzoek.      
 3.  De voorzieningenrechter kan aan de gehele of gedeeltelijke toewijzing van het verzoek de voorwaarde verbinden dat de indiener van het verzoekschrift financiële zekerheid stelt ten behoeve van de rechtspersoon waartoe het bestuursorgaan behoort.  
-4.   De griffier zendt onverwijld een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak kosteloos aan partijen.    
-5.   De artikelen 8:67, tweede tot en met vijfde lid, 8:68, 8:69, 8:72, vierde lid, tweede volzin, aanhef en onder b, en zesde lid, 8:75, 8:75a , 8:76, 8:77, eerste en derde lid, 8:78, artikel 8:79, tweede en derde lid, en 8:80 zijn van overeenkomstige toepassing.   
+4.  De griffier zendt onverwijld een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak kosteloos aan partijen.    
+5.  De artikelen 8:67, tweede tot en met vijfde lid, 8:68, 8:69, 8:72, vierde lid, tweede volzin, aanhef en onder b, en zesde lid, 8:75, 8:75a , 8:76, 8:77, eerste en derde lid, 8:78, artikel 8:79, tweede en derde lid, en 8:80 zijn van overeenkomstige toepassing.   
 
 ### Artikel  8:85  
 
 1.  De voorzieningenrechter kan in zijn uitspraak bepalen wanneer de voorlopige voorziening vervalt.    
-2.   De voorlopige voorziening vervalt in ieder geval zodra:  
+2.  De voorlopige voorziening vervalt in ieder geval zodra:  
 
 a. de termijn voor het instellen van beroep bij de bestuursrechter tegen het besluit dat op bezwaar of in administratief beroep is genomen, ongebruikt is verstreken,   
 
@@ -3265,8 +3265,8 @@ c. de bestuursrechter uitspraak heeft gedaan.
 ### Artikel  8:87  
 
 1.  De voorzieningenrechter kan, ook ambtshalve, een voorlopige voorziening opheffen of wijzigen, ook als zij is getroffen met toepassing van artikel 8:72, vijfde lid.    
-2.   De artikelen 8:81, tweede, derde en vierde lid, en 8:82 tot en met 8:86 zijn van overeenkomstige toepassing. Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om opheffing of wijziging eveneens worden gedaan door een belanghebbende die door de voorlopige voorziening rechtstreeks in zijn belang wordt getroffen, door het bestuursorgaan of door het beroepsorgaan.    
-3.   Indien een verzoek om opheffing of wijziging is gedaan door het bestuursorgaan of het beroepsorgaan en het verzoek geheel of gedeeltelijk wordt toegewezen, kan de uitspraak inhouden dat het betaalde griffierecht door de griffier aan het bestuursorgaan wordt terugbetaald.   
+2.  De artikelen 8:81, tweede, derde en vierde lid, en 8:82 tot en met 8:86 zijn van overeenkomstige toepassing. Indien voorafgaand aan een mogelijk beroep bij de bestuursrechter bezwaar is gemaakt of administratief beroep is ingesteld, kan een verzoek om opheffing of wijziging eveneens worden gedaan door een belanghebbende die door de voorlopige voorziening rechtstreeks in zijn belang wordt getroffen, door het bestuursorgaan of door het beroepsorgaan.    
+3.  Indien een verzoek om opheffing of wijziging is gedaan door het bestuursorgaan of het beroepsorgaan en het verzoek geheel of gedeeltelijk wordt toegewezen, kan de uitspraak inhouden dat het betaalde griffierecht door de griffier aan het bestuursorgaan wordt terugbetaald.   
 
 ###Titel  8.4 
 

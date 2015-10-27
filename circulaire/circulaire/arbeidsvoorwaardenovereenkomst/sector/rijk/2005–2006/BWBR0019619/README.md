@@ -6,18 +6,26 @@
 
 ####Inleiding
 
+Materieel uitgewerkt per 16-03-2008 
+
 Op 18 januari 2006 heb ik met drie van de vier centrales van overheidspersoneel een overeenkomst gesloten over de arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk over de contractperiode 1 januari 2005 tot en met 31 december 2006. Een afschrift van deze Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006 is als bijlage 1 bijgevoegd. De formalisering en uitwerking daarvan is ter hand genomen. Met deze circulaire informeer ik u over de inhoud van de gesloten overeenkomst. Deze circulaire en de Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006 zijn ook geplaatst op de internetsite van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het internetadres is: www.minbzk.nl. De locatie is: Overheidspersoneel/Arbeidsvoorwaarden Rijksoverheid/publicaties.    
 ### II  
 
 ####Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006
 
+Materieel uitgewerkt per 16-03-2008 
+
 In dit onderdeel wordt zoveel mogelijk de paragraafindeling van de Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006 aangehouden.   
 
 ####Ad 2 Salarisverhoging, procentuele eindejaarsuitkering, nominale eindejaarsuitkering (ad 3) en levensloop
 
+Materieel uitgewerkt per 16-03-2008 
+
 ### 2.1  
 
 ####Salarisverhoging
+
+Materieel uitgewerkt per 16-03-2008 
 
 Met ingang van 1 januari 2006 worden de salarissen van het personeel van de sector Rijk structureel verhoogd met 2%. 
 ###a. Salarisbedragen per 1 januari 2006
@@ -25,15 +33,15 @@ Met ingang van 1 januari 2006 worden de salarissen van het personeel van de sec
 In verband met de salarisverhoging van 2% komen de salarisbedragen per 1 januari 2006 te luiden zoals aangegeven in de bij deze circulaire als bijlage 2 gevoegde inpassingstabel. Als bijlage 3 is bijgevoegd een overzicht van de schalen van het BBRA 1984 per 1 januari 2006. 
 ###b. Aanpassing van toelagen, vergoedingen en dergelijke
 
-Toelagen die zijn toegekend met toepassing van het [BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en toelagen die krachtens een BBRA-overgangsregeling nog van toepassing zijn, dienen in het algemeen in verband met de algemene salarisverhoging te worden verhoogd met ingang van 1 januari 2006. Veelal vindt dit automatisch plaats, bijvoorbeeld voor toelagen die zijn uitgedrukt in een percentage van het salaris van de ambtenaar of die overeenkomen met één of meer periodieke salarisverhogingen in de salarisreeks. Hiervoor kan onder meer worden gedacht aan de toelage onregelmatige dienst ([artikel 17, tweede lid, BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)). Indien zo’n automatische aanpassing niet plaatsvindt, dient – behalve in gevallen als hierna bedoeld – met ingang van 1 januari 2006 een verhoging te worden toegepast van 2%. Dit geldt bijvoorbeeld voor de vaste toelage onregelmatige dienst ([artikel 17, vierde lid, BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md)). Ten slotte zijn er toelagen die geen aanpassing behoren te ondergaan, bijvoorbeeld op grond van hun aard of op grond van de desbetreffende toekenningsbeschikking. Deze toelagen blijven dus ongewijzigd. In verband met de algemene salarisverhoging per 1 januari 2006 wordt per die datum ingevolge 
+Toelagen die zijn toegekend met toepassing van het BBRA 1984 en toelagen die krachtens een BBRA-overgangsregeling nog van toepassing zijn, dienen in het algemeen in verband met de algemene salarisverhoging te worden verhoogd met ingang van 1 januari 2006. Veelal vindt dit automatisch plaats, bijvoorbeeld voor toelagen die zijn uitgedrukt in een percentage van het salaris van de ambtenaar of die overeenkomen met één of meer periodieke salarisverhogingen in de salarisreeks. Hiervoor kan onder meer worden gedacht aan de toelage onregelmatige dienst (artikel 17, tweede lid, BBRA 1984). Indien zo’n automatische aanpassing niet plaatsvindt, dient – behalve in gevallen als hierna bedoeld – met ingang van 1 januari 2006 een verhoging te worden toegepast van 2%. Dit geldt bijvoorbeeld voor de vaste toelage onregelmatige dienst (artikel 17, vierde lid, BBRA 1984). Ten slotte zijn er toelagen die geen aanpassing behoren te ondergaan, bijvoorbeeld op grond van hun aard of op grond van de desbetreffende toekenningsbeschikking. Deze toelagen blijven dus ongewijzigd. In verband met de algemene salarisverhoging per 1 januari 2006 wordt per die datum ingevolge 
 
-– [artikel 13, derde lid, van de Overgangsregeling BBRA 1984](../../../../../../../AMvB/overgangsregeling/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003631/README.md) de gehandhaafde EHBO-toelage verhoogd van € 8,99 tot € 9,17 per maand.  
+– artikel 13, derde lid, van de Overgangsregeling BBRA 1984 de gehandhaafde EHBO-toelage verhoogd van € 8,99 tot € 9,17 per maand.  
 
-– [artikel 7, eerste lid, van het Besluit personenchauffeurs Rijksdienst](../../../../../../../AMvB/besluit/personenchauffeurs/rijksdienst/BWBR0010015/README.md) de vaste toelage voor het werken op onregelmatige uren van € 135,46 verhoogd tot € 138,17 per maand.  
+– artikel 7, eerste lid, van het Besluit personenchauffeurs Rijksdienst de vaste toelage voor het werken op onregelmatige uren van € 135,46 verhoogd tot € 138,17 per maand.  
 
-– [artikel 7, derde lid, van de Raamregeling Telewerken](../../../../../../../ministeriele-regeling/raamregeling/telewerken/BWBR0012316/README.md) de vergoeding van de kosten voor gebruik van privé-ruimte van € 64,19 verhoogd tot € 65,47 per maand.  
+– artikel 7, derde lid, van de Raamregeling Telewerken de vergoeding van de kosten voor gebruik van privé-ruimte van € 64,19 verhoogd tot € 65,47 per maand.  
 
-– [artikel 10 van het Tijdelijk besluit sociaal flankerend beleid sector Rijk 2004](../../../../../../../AMvB/tijdelijk/besluit/sociaal/flankerend/beleid/sector/rijk/2004/BWBR0017859/README.md) de tegemoetkoming in verband met kosten bij verhuizing bij herplaatsing of plaatsing in een passende functie van € 13 025,31 verhoogd tot € 13 285,82.   
+– artikel 10 van het Tijdelijk besluit sociaal flankerend beleid sector Rijk 2004 de tegemoetkoming in verband met kosten bij verhuizing bij herplaatsing of plaatsing in een passende functie van € 13 025,31 verhoogd tot € 13 285,82.   
 ###c. Minimumbedrag van de vakantie-uitkering
 
 In verband met de algemene salarisverhoging wordt het minimumbedrag van de vakantie-uitkering per 1 januari 2006 verhoogd van € 137,22 tot € 139,96 per maand. 
@@ -43,6 +51,8 @@ In verband met genoemde salarismaatregel is met ingang van de salarisbetaling va
 ### 2.2  
 
 ####Procentuele eindejaarsuitkering
+
+Materieel uitgewerkt per 16-03-2008 
 
 ###a. Verhoging en uitbetaling procentuele eindejaarsuitkering betreffende het jaar 2005
 
@@ -57,9 +67,11 @@ In november 2007 wordt de procentuele eindejaarsuitkering betaald van 1,6% van h
 
 ####Nominale eindejaarsuitkering
 
+Materieel uitgewerkt per 16-03-2008 
+
 ###a. Verhoging en uitbetaling nominale eindejaarsuitkering betreffende het jaar 2006
 
-Ook voor de nominale eindejaarsuitkering zal de jaarlijkse betaalmaand wijzigen van december in november. De uitkering zal voortaan gebaseerd worden op een periode van twaalf maanden, aanvangend met de maand december van het voorafgaande jaar. Met de centrales is een bedrag van € 1000,00 overeengekomen, zodat administratief technisch in de eerste elf maanden van dit jaar € 90,91 (= € 1000/11) als eindejaarsuitkering opgebouwd wordt. Vanaf 1 december 2006 wordt dit bedrag aangepast tot € 91,67 (= € 1100/12) ten behoeve van de ‘opbouw’ van de eindejaarsuitkering van € 1100,00 die in november 2007 uitbetaald wordt. In verband met het feit dat de nominale eindejaarsuitkering mede is bedoeld als compensatie voor de kosten van de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) wordt in 2006 een overgangsmaatregel getroffen om de uitbetaling van de nominale eindejaarsuitkering te verdelen over het jaar. De nominale eindejaarsuitkering van € 1000,00 op jaarbasis wordt in 2006 daarom betaalbaar gesteld in de maanden april, augustus en november. De uitbetaling in april heeft betrekking op de maanden januari tot en met april en bedraagt € 363,64 (4 × € 90,91). De uitbetaling in augustus heeft betrekking op de maanden mei tot en met augustus en bedraagt eveneens € 363,64. De uitbetaling in november heeft ten slotte betrekking op de maanden september t/m november en bedraagt € 272,73 (3 × € 90,91). Voor werknemers met een minder dan volledige arbeidsduur gelden genoemde bedragen naar evenredigheid. 
+Ook voor de nominale eindejaarsuitkering zal de jaarlijkse betaalmaand wijzigen van december in november. De uitkering zal voortaan gebaseerd worden op een periode van twaalf maanden, aanvangend met de maand december van het voorafgaande jaar. Met de centrales is een bedrag van € 1000,00 overeengekomen, zodat administratief technisch in de eerste elf maanden van dit jaar € 90,91 (= € 1000/11) als eindejaarsuitkering opgebouwd wordt. Vanaf 1 december 2006 wordt dit bedrag aangepast tot € 91,67 (= € 1100/12) ten behoeve van de ‘opbouw’ van de eindejaarsuitkering van € 1100,00 die in november 2007 uitbetaald wordt. In verband met het feit dat de nominale eindejaarsuitkering mede is bedoeld als compensatie voor de kosten van de Zorgverzekeringswet wordt in 2006 een overgangsmaatregel getroffen om de uitbetaling van de nominale eindejaarsuitkering te verdelen over het jaar. De nominale eindejaarsuitkering van € 1000,00 op jaarbasis wordt in 2006 daarom betaalbaar gesteld in de maanden april, augustus en november. De uitbetaling in april heeft betrekking op de maanden januari tot en met april en bedraagt € 363,64 (4 × € 90,91). De uitbetaling in augustus heeft betrekking op de maanden mei tot en met augustus en bedraagt eveneens € 363,64. De uitbetaling in november heeft ten slotte betrekking op de maanden september t/m november en bedraagt € 272,73 (3 × € 90,91). Voor werknemers met een minder dan volledige arbeidsduur gelden genoemde bedragen naar evenredigheid. 
 ###b. Verhoging nominale eindejaarsuitkering vanaf 2007
 
 In november 2007 wordt de nominale eindejaarsuitkering betaald van € 1100,00. Deze uitkering wordt over de periode van december 2006 tot en met november van 2007 opgebouwd met € 91,67 (= € 1100/12) per maand. Het bedrag van de nominale eindejaarsuitkering wordt vanaf 2007 geïndexeerd met het percentage van de algemene salariswijziging voor het personeel werkzaam in de sector Rijk.    
@@ -67,17 +79,21 @@ In november 2007 wordt de nominale eindejaarsuitkering betaald van € 1100,00.
 
 ####Doorwerking naar uitkeringen en pensioenen
 
-Zowel de structurele salarisverhoging als de structurele verhoging van de procentuele en nominale eindejaarsuitkering hebben een algemeen karakter en werken daarom door naar alle voor 1 januari 2006 ingegane ontslaggebonden uitkeringen, zoals de wachtgelden op basis van het [Rijkswachtgeldbesluit 1959](../../../../../../../AMvB/rijkswachtgeldbesluit/1959/BWBR0002326/README.md) en de uitkeringen op basis van de [Uitkeringsregeling 1966](../../../../../../../AMvB/uitkeringsregeling/1966/BWBR0002537/README.md), de [Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk](../../../../../../../AMvB/suppletieregeling/gedeeltelijk/arbeidsongeschikten/sector/rijk/BWBR0007758/README.md), het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md) en het [Besluit ontslaguitkering substantieel bezwarende functies](../../../../../../../ministeriele-regeling/besluit/ontslaguitkering/substantieel/bezwarende/functies/BWBR0011088/README.md). Met het UWV vindt overleg plaats over de precieze uitvoering van de aan te passen uitkeringen. De structurele verhogingen van het salaris en de eindejaarsuitkering zijn pensioengevend.    
+Materieel uitgewerkt per 16-03-2008 
+
+Zowel de structurele salarisverhoging als de structurele verhoging van de procentuele en nominale eindejaarsuitkering hebben een algemeen karakter en werken daarom door naar alle voor 1 januari 2006 ingegane ontslaggebonden uitkeringen, zoals de wachtgelden op basis van het Rijkswachtgeldbesluit 1959 en de uitkeringen op basis van de Uitkeringsregeling 1966, de Suppletieregeling gedeeltelijk arbeidsongeschikten sector Rijk, het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk en het Besluit ontslaguitkering substantieel bezwarende functies. Met het UWV vindt overleg plaats over de precieze uitvoering van de aan te passen uitkeringen. De structurele verhogingen van het salaris en de eindejaarsuitkering zijn pensioengevend.    
 ### 2.5 
 
 ####Levensloopregeling rijkspersoneel
+
+Materieel uitgewerkt per 16-03-2008 
 
 ###a. Verhoging procentuele eindejaarsuitkering
 
 In het in 2005 afgesloten hoofdlijnenakkoord is 0,8% van het jaarsalaris beschikbaar gesteld ten behoeve van levensloop. Dit bedrag is aangewend om de procentuele eindejaarsuitkering te verhogen. Omwille van administratieve eenvoud wordt de eindejaarsuitkering in de levensloopregeling rijkspersoneel echter niet als nieuwe bron voor levensloopsparen opgenomen. De verhoogde eindejaarsuitkering biedt de ambtenaren op jaarbasis extra ruimte voor het levensloopsparen ten laste van de bestaande bronnen. 
 ###b. Relatie met pensioen en sociale verzekeringswetgeving
 
-Afgesproken is om de pensioenopbouw tijdens levensloopverlof te beperken tot een aaneengesloten periode van maximaal 18 maanden. Hierbij is aansluiting gezocht met de periode, die in de [Wet ‘Wijzigingswet Ziektewet, enz. in verband met het wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof’](../../../../../../../wet/wijzigingswet/ziektewet/wao/ww/en/enkele/andere/wetten/inzake/wegnemen/van/etc/BWBR0009686/README.md) genoemd wordt als maximale verlofperiode, die geen gevolgen heeft voor de toepassing van de sociale verzekeringswetgeving. 
+Afgesproken is om de pensioenopbouw tijdens levensloopverlof te beperken tot een aaneengesloten periode van maximaal 18 maanden. Hierbij is aansluiting gezocht met de periode, die in de Wet ‘Wijzigingswet Ziektewet, enz. in verband met het wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof’ genoemd wordt als maximale verlofperiode, die geen gevolgen heeft voor de toepassing van de sociale verzekeringswetgeving. 
 ###b.1 Verduidelijking
 
 Met de vakorganisaties is ter verduidelijking van de huidige levensloopregeling afgesproken dat tijdens het levensloopverlof de voortgezette pensioenopbouw gebaseerd wordt op de levensloopuitkering en niet op het inkomen alsof geen sprake zou zijn van verlof. 
@@ -86,52 +102,64 @@ Met de vakorganisaties is ter verduidelijking van de huidige levensloopregeling 
 Op basis van recente afspraken in de Pensioenkamer zal het Abp het pensioenreglement wijzigen zodat de pensioenopbouw gedurende de eerste 12 maanden van het levensloopverlof voortgezet wordt op basis van een zogenaamde op collectiviteit gebaseerde doorsnee-premie (inclusief de gebruikelijke verdeling daarvan tussen werkgever en werknemer). Voor de pensioenopbouw na die 12 maanden zal een sectorale pensioenpremie van toepassing zijn. Hierover moeten in het SOR nog afspraken met de vakorganisaties worden gemaakt. 
 ###b.3 Sociale verzekeringen
 
-Als het aaneengesloten levensloopverlof niet langer dan 18 maanden duurt, zijn er zoals gezegd geen gevolgen voor het recht op een uitkering op grond van de [Werkloosheidswet](../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (WW), [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) (WIA) en [Ziektewet](../../../../../../../wet/ziektewet/BWBR0001888/README.md) (ZW). Met de [Wet ‘Wijzigingswet Ziektewet, enz.](../../../../../../../wet/wijzigingswet/ziektewet/enz./BWBR0005427/README.md) in verband met het wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof’ is geregeld, dat een werknemer geen nadeel ondervindt van een periode van onbetaald verlof, mits die periode beperkt blijft tot maximaal 18 maanden. Duurt het verlof (voltijd) langer dan 18 maanden, dan kan dit gevolgen hebben voor de hoogte van het dagloon bij de uitvoering van de sociale verzekeringswetgeving en de wekeneis. De wekeneis is het aantal weken dat minimaal moet zijn gewerkt (op dit moment 26 weken van de laatste 39 weken, wordt per 1 april 2006: 26 weken van de laatste 36 weken) om in aanmerking te komen voor een WW-uitkering. 
+Als het aaneengesloten levensloopverlof niet langer dan 18 maanden duurt, zijn er zoals gezegd geen gevolgen voor het recht op een uitkering op grond van de Werkloosheidswet (WW), Wet werk en inkomen naar arbeidsvermogen (WIA) en Ziektewet (ZW). Met de Wet ‘Wijzigingswet Ziektewet, enz. in verband met het wegnemen van belemmeringen in sociale verzekeringswetten bij het opnemen van onbetaald verlof’ is geregeld, dat een werknemer geen nadeel ondervindt van een periode van onbetaald verlof, mits die periode beperkt blijft tot maximaal 18 maanden. Duurt het verlof (voltijd) langer dan 18 maanden, dan kan dit gevolgen hebben voor de hoogte van het dagloon bij de uitvoering van de sociale verzekeringswetgeving en de wekeneis. De wekeneis is het aantal weken dat minimaal moet zijn gewerkt (op dit moment 26 weken van de laatste 39 weken, wordt per 1 april 2006: 26 weken van de laatste 36 weken) om in aanmerking te komen voor een WW-uitkering. 
 ###c. Overgeschreven vakantie-uren
 
-Ambtenaren hebben het recht om overgeschreven vakantie-uren uit voorgaande kalenderjaren te gebruiken als bron voor het sparen voor levensloopverlof. Daarbij wordt voor de waardebepaling van de vakantie-uren aangesloten bij de systematiek van [artikel 22 lid 15 van het ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). Deze afspraak gaat direct in en geldt dus ook voor bestaande vakantie-uren over de periode liggend voor 1 januari 2006. De relevante regelgeving zal hierop worden aangepast. 
+Ambtenaren hebben het recht om overgeschreven vakantie-uren uit voorgaande kalenderjaren te gebruiken als bron voor het sparen voor levensloopverlof. Daarbij wordt voor de waardebepaling van de vakantie-uren aangesloten bij de systematiek van artikel 22 lid 15 van het ARAR. Deze afspraak gaat direct in en geldt dus ook voor bestaande vakantie-uren over de periode liggend voor 1 januari 2006. De relevante regelgeving zal hierop worden aangepast. 
 ###d. Ouderschapsverlof en levensloopverlof
 
-De rijksregeling voor doorbetaald ouderschapsverlof beoogt de ambtenaar een inkomen over de opgenomen verlofuren te garanderen van 75% van de bezoldiging. De werkgever krijgt bij verlening van ouderschapsverlof een fiscale tegemoetkoming in de vorm van een afdrachtvermindering voor de loonheffing. Deze fiscale tegemoetkoming komt per 1 januari 2007 te vervallen. Om de meerkosten voor de werkgever die hierdoor ontstaan te beperken zal, vanaf 2007, op de bezoldiging van de ambtenaar die ouderschapsverlof opneemt een extra bruto inhouding plaatsvinden. Deze inhouding is gelijk aan de ouderschapsverlofkorting die de ambtenaar krachtens fiscale regels kan ontvangen (50% van het wettelijke minimumloon per opgenomen ouderschapsverlofuur). Bij aanvang van het ouderschapsverlof wordt op het bruto-inkomen over de verlofuren, naast de vermindering met 25%, een extra korting toegepast ter grootte van de maximale ouderschapsverlofkorting waarvoor de betrokken ambtenaar in aanmerking kan komen. Indien na afloop van het jaar waarin ouderschapsverlof is genoten uit de aanslag van de belastingdienst het werkelijke bedrag van de ouderschapsverlofkorting blijkt volgt zo nodig een terugbetaling van hetgeen aanvankelijk teveel is ingehouden. Uiteraard is dit dan een bruto-bedrag (er is immers ook bruto ingehouden) waarover loonbelasting en premies verschuldigd zijn. Dit geldt ook als uit de belastingaanslag blijkt dat de heffingskorting door de belastinginspecteur op nul is gesteld, bijvoorbeeld in verband met de vergelijking van belastingplichtig inkomen over twee kalenderjaren. Voor de goede orde: indien bij de aanslag geen heffingskorting is bepaald omdat de ambtenaar deze niet heeft aangevraagd of niet voldeed aan de voorwaarden voor toekenning daarvan vindt geen verrekening plaats met hetgeen aanvankelijk is ingehouden. [Artikel 33g van het ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) zal worden aangepast. NB. Aangezien de aanpassing van de regeling op 1 januari 2007 in gaat, kan dit betekenen dat een werknemer in 2006 zowel recht heeft op een ouderschapsverlofkorting als op doorbetaling van 75% van de bezoldiging voor de ouderschapsverlofuren.     
+De rijksregeling voor doorbetaald ouderschapsverlof beoogt de ambtenaar een inkomen over de opgenomen verlofuren te garanderen van 75% van de bezoldiging. De werkgever krijgt bij verlening van ouderschapsverlof een fiscale tegemoetkoming in de vorm van een afdrachtvermindering voor de loonheffing. Deze fiscale tegemoetkoming komt per 1 januari 2007 te vervallen. Om de meerkosten voor de werkgever die hierdoor ontstaan te beperken zal, vanaf 2007, op de bezoldiging van de ambtenaar die ouderschapsverlof opneemt een extra bruto inhouding plaatsvinden. Deze inhouding is gelijk aan de ouderschapsverlofkorting die de ambtenaar krachtens fiscale regels kan ontvangen (50% van het wettelijke minimumloon per opgenomen ouderschapsverlofuur). Bij aanvang van het ouderschapsverlof wordt op het bruto-inkomen over de verlofuren, naast de vermindering met 25%, een extra korting toegepast ter grootte van de maximale ouderschapsverlofkorting waarvoor de betrokken ambtenaar in aanmerking kan komen. Indien na afloop van het jaar waarin ouderschapsverlof is genoten uit de aanslag van de belastingdienst het werkelijke bedrag van de ouderschapsverlofkorting blijkt volgt zo nodig een terugbetaling van hetgeen aanvankelijk teveel is ingehouden. Uiteraard is dit dan een bruto-bedrag (er is immers ook bruto ingehouden) waarover loonbelasting en premies verschuldigd zijn. Dit geldt ook als uit de belastingaanslag blijkt dat de heffingskorting door de belastinginspecteur op nul is gesteld, bijvoorbeeld in verband met de vergelijking van belastingplichtig inkomen over twee kalenderjaren. Voor de goede orde: indien bij de aanslag geen heffingskorting is bepaald omdat de ambtenaar deze niet heeft aangevraagd of niet voldeed aan de voorwaarden voor toekenning daarvan vindt geen verrekening plaats met hetgeen aanvankelijk is ingehouden. Artikel 33g van het ARAR zal worden aangepast. NB. Aangezien de aanpassing van de regeling op 1 januari 2007 in gaat, kan dit betekenen dat een werknemer in 2006 zowel recht heeft op een ouderschapsverlofkorting als op doorbetaling van 75% van de bezoldiging voor de ouderschapsverlofuren.     
 
-####Ad 3. Vaste eindejaarsuitkering en tegemoetkoming [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)
+####Ad 3. Vaste eindejaarsuitkering en tegemoetkoming Zorgverzekeringswet
+
+Materieel uitgewerkt per 16-03-2008 
 
 ### 3.1 
 
 #### Nominale eindejaarsuitkering
+
+Materieel uitgewerkt per 16-03-2008 
 
 Zie hiervoor onderdeel 2.3    
 ### 3.2 
 
 ####Tegemoetkoming
 
-###a. Intrekking [Besluit tegemoetkoming ziektekosten rijkspersoneel](../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) (Btzr)
+Materieel uitgewerkt per 16-03-2008 
 
-Met ingang van 1 januari 2006 komt het [Btzr](../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) te vervallen. De Btzr-tegemoetkoming voor de maanden oktober t/m december 2005 die in januari t/m maart 2006 zou worden uitbetaald, is in verband hiermee vervroegd uitbetaald in december 2005. 
+###a. Intrekking Besluit tegemoetkoming ziektekosten rijkspersoneel (Btzr)
+
+Met ingang van 1 januari 2006 komt het Btzr te vervallen. De Btzr-tegemoetkoming voor de maanden oktober t/m december 2005 die in januari t/m maart 2006 zou worden uitbetaald, is in verband hiermee vervroegd uitbetaald in december 2005. 
 ###b. Eenmalige uitkering voor partners e.d.
 
-Ambtenaren die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner als bedoeld in [artikel 1, eerste lid, onderdeel b, onder 1°, van de Btzr](../../../../../../../AMvB/besluit/tegemoetkoming/ziektekosten/rijkspersoneel/BWBR0006855/README.md) ontvangen in februari 2006 een eenmalige bruto uitkering van € 450,00 vermenigvuldigd met de deeltijdfactor, zoals die gold op 1 december 2005. De deeltijdfactor mag niet groter zijn dan één. De eenmalige uitkering behoort tot de variabele toelagen, die tot het pensioengevend inkomen horen per 1 januari van het jaar volgend op het jaar waarin deze zijn genoten. 
-###c. Intrekking [Regeling ziektekostenvoorziening rijkspersoneel ](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md)(Zvr-regeling)
+Ambtenaren die in december 2005 recht hadden op een Btzr-tegemoetkoming voor een partner als bedoeld in artikel 1, eerste lid, onderdeel b, onder 1°, van de Btzr ontvangen in februari 2006 een eenmalige bruto uitkering van € 450,00 vermenigvuldigd met de deeltijdfactor, zoals die gold op 1 december 2005. De deeltijdfactor mag niet groter zijn dan één. De eenmalige uitkering behoort tot de variabele toelagen, die tot het pensioengevend inkomen horen per 1 januari van het jaar volgend op het jaar waarin deze zijn genoten. 
+###c. Intrekking Regeling ziektekostenvoorziening rijkspersoneel (Zvr-regeling)
 
-Met ingang van 1 januari 2006 komt de [Zvr-regeling](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) te vervallen. Ambtenaren en andere betrokkenen in de zin van de [Zvr-regeling](../../../../../../../AMvB/regeling/ziektekostenvoorziening/rijkspersoneel/BWBR0008818/README.md) kunnen ook over 2005 dan wel over een resterende periode over 2005 nog een aanvraag voor een Zvr-tegemoetkoming indienen.     
+Met ingang van 1 januari 2006 komt de Zvr-regeling te vervallen. Ambtenaren en andere betrokkenen in de zin van de Zvr-regeling kunnen ook over 2005 dan wel over een resterende periode over 2005 nog een aanvraag voor een Zvr-tegemoetkoming indienen.     
 
 ####Ad 4. Aanvulling in het eerste ziektejaar
 
-Omdat het op grond van de[ WIA](../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) mogelijk is tot een versnelde arbeidsongeschikt-heidskeuring over te gaan, is in de Arbeidsvoorwaardenovereenkomst de afspraak gemaakt dat indien deze keuring leidt tot een IVA-uitkering deze uitkering gedurende het eerste ziektejaar wordt aangevuld tot 100%.    
+Materieel uitgewerkt per 16-03-2008 
+
+Omdat het op grond van de WIA mogelijk is tot een versnelde arbeidsongeschikt-heidskeuring over te gaan, is in de Arbeidsvoorwaardenovereenkomst de afspraak gemaakt dat indien deze keuring leidt tot een IVA-uitkering deze uitkering gedurende het eerste ziektejaar wordt aangevuld tot 100%.    
 
 ####Ad 6. Regeling kinderopvang
 
-De [Regeling werkgeversbijdrage kinderopvang rijkspersoneel](../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/rijkspersoneel/BWBR0017415/README.md) kent een tijdelijke bijdrage van de kant van de rijkswerkgever ingeval de werkgever van de partner van een rijksambtenaar minder bijdraagt dan 1/6 deel van de kosten. Deze tijdelijke extra bijdrage geldt voor de jaren 2005, 2006 en 2007. Afgesproken is deze tijdelijke extra bijdrage te verlengen waardoor deze over de jaren 2006 en 2007 gelijk is aan de tijdelijke extra bijdrage over het jaar 2005. Vanaf het jaar 2008 vindt de in bovengenoemde regeling bepaalde afbouw plaats.    
+Materieel uitgewerkt per 16-03-2008 
+
+De Regeling werkgeversbijdrage kinderopvang rijkspersoneel kent een tijdelijke bijdrage van de kant van de rijkswerkgever ingeval de werkgever van de partner van een rijksambtenaar minder bijdraagt dan 1/6 deel van de kosten. Deze tijdelijke extra bijdrage geldt voor de jaren 2005, 2006 en 2007. Afgesproken is deze tijdelijke extra bijdrage te verlengen waardoor deze over de jaren 2006 en 2007 gelijk is aan de tijdelijke extra bijdrage over het jaar 2005. Vanaf het jaar 2008 vindt de in bovengenoemde regeling bepaalde afbouw plaats.    
 
 ####Ad 9. Arbeidsmarktbeleid
 
-###a. Wijziging in [ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md)
+Materieel uitgewerkt per 16-03-2008 
 
-De tekst van [artikel 71b in het ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) over de loopbaanscan verandert. De bestaande tekst wordt vervangen door: 
+###a. Wijziging in ARAR
+
+De tekst van artikel 71b in het ARAR over de loopbaanscan verandert. De bestaande tekst wordt vervangen door: 
 
 1. Vanaf 3 jaar na aanvaarding van een functie heeft de ambtenaar de mogelijkheid om, op kosten van de werkgever, eenmaal per vijf jaar een vertrouwelijke loopbaanscan te doen, met behulp van een professionele loopbaandeskundige.  
 
-2. De ambtenaar kan de uitkomsten van de loopbaanscan inbrengen in het jaarlijks gesprek bedoeld in [artikel 71](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), ter ondersteuning van het maken van afspraken over de verdere loopbaan.   
+2. De ambtenaar kan de uitkomsten van de loopbaanscan inbrengen in het jaarlijks gesprek bedoeld in artikel 71, ter ondersteuning van het maken van afspraken over de verdere loopbaan.   
 ###b. Infrastructurele voorzieningen
 
 1. Het Expertisecentrum voor Loopbaan en Mobiliteit kan een loopbaanscan bieden in samenwerking met departementale centra voor loopbaan en mobiliteit. Hiervan kunnen departementen gebruik maken.  
@@ -147,15 +175,21 @@ De tekst van het Arbeidsmarktconvenant zal uiterlijk in april 2006 in het SOR wo
 
 ####Ad 11. Medezeggenschap
 
-In de praktijk blijken de wettelijke voorzieningen en rechten van ondernemingsraden niet altijd toereikend om voldoende participatie in de werknemersvertegenwoordiging te bewerkstelligen. Met de vakorganisaties is afgesproken om in het [ARAR](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) op te nemen, dat bij de aanvang van elke nieuwe zittingsperiode van de OR, bestuurder en ondernemingsraad in overleg de voor het OR-werk benodigde capaciteit vaststellen en deze afhankelijk van de verkiezingsuitslag – via herschikking – aan de verkozen personen (voor zover in deeltijd en door hen gewenst) dan wel hun werkteam of afdeling toe te kennen. Bij een viertal ministeries vinden, bekostigd door het A+O fonds Rijk, pilots plaats met instrumenten om de belangstelling voor participatie in de medezeggenschap alsnog te vergroten. Deze pilots hebben betrekking op kwaliteitsverbetering, individuele meerwaarde, collectieve meerwaarde voor de organisatie en de meerwaarde van de medezeggenschap in de sector Rijk. De ervaring met deze pilots zal leiden tot brede beleidsvoorstellen.     
+Materieel uitgewerkt per 16-03-2008 
+
+In de praktijk blijken de wettelijke voorzieningen en rechten van ondernemingsraden niet altijd toereikend om voldoende participatie in de werknemersvertegenwoordiging te bewerkstelligen. Met de vakorganisaties is afgesproken om in het ARAR op te nemen, dat bij de aanvang van elke nieuwe zittingsperiode van de OR, bestuurder en ondernemingsraad in overleg de voor het OR-werk benodigde capaciteit vaststellen en deze afhankelijk van de verkiezingsuitslag – via herschikking – aan de verkozen personen (voor zover in deeltijd en door hen gewenst) dan wel hun werkteam of afdeling toe te kennen. Bij een viertal ministeries vinden, bekostigd door het A+O fonds Rijk, pilots plaats met instrumenten om de belangstelling voor participatie in de medezeggenschap alsnog te vergroten. Deze pilots hebben betrekking op kwaliteitsverbetering, individuele meerwaarde, collectieve meerwaarde voor de organisatie en de meerwaarde van de medezeggenschap in de sector Rijk. De ervaring met deze pilots zal leiden tot brede beleidsvoorstellen.     
 ### III  
 
 ####Overige onderwerpen
+
+Materieel uitgewerkt per 16-03-2008 
 
 Voor de onderwerpen uit de paragrafen 3 het 6<sup>e</sup> punt, 5, 7, 8, 10 en 12 t/m 14 van de arbeidsvoorwaardenovereenkomst treft u geen nadere toelichting aan in deze circulaire, maar verwijs ik u naar de tekst van de overeenkomst.    
 ### IV  
 
 ####Slotopmerkingen
+
+Materieel uitgewerkt per 16-03-2008 
 
 Zodra de formalisering, voor zover noodzakelijk, van de overeengekomen maatregelen tot stand is gekomen, zal ik u daarover informeren. Vooruitlopend op de formalisering verzoek ik u om zo nodig vast uitvoering te geven aan de in deze circulaire genoemde maatregelen. Medewerkers van de afdelingen Personeelszaken van geadresseerden kunnen over de desbetreffende onderwerpen inlichtingen verkrijgen bij onderstaande personen:  
 
@@ -191,6 +225,8 @@ R.IJ.M. Kuipers
 
 ####Arbeidsvoorwaardenovereenkomst Sector Rijk 2005–2006
 
+Materieel uitgewerkt per 16-03-2008 
+
 ![229037](http://wetten.overheid.nl/Illustration/229037)
 ![229038](http://wetten.overheid.nl/Illustration/229038)
 ![229039](http://wetten.overheid.nl/Illustration/229039)
@@ -206,6 +242,8 @@ R.IJ.M. Kuipers
 ### Bijlage  2 
 
 ####Inpassingstabel per 1 januari 2006 voor de salarisbedragen
+
+Materieel uitgewerkt per 16-03-2008 
 
 | Nr.  | 1-5-2003  | 1-1-2006  |
 |:---|:---|:---|
@@ -276,7 +314,9 @@ R.IJ.M. Kuipers
 
 ### Bijlage 3 
 
-####Schalen van het [BBRA 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) per 1 januari 2006 ( 2%-stijging)
+####Schalen van het BBRA 1984 per 1 januari 2006 ( 2%-stijging)
+
+Materieel uitgewerkt per 16-03-2008 
 
 | Nr.  | Salaris  | Salaris  | SCHAAL  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | Salaris  | Nr.  |--- | 1-5-2003  | 1-1-2006  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 1-1-2006  |--- |--- | euro  | euro  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | euro  |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|

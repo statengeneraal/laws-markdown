@@ -456,8 +456,8 @@ l. de onderwerpen genoemd in artikel 4.10.
 
 1.  Het mandaat van de directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de directeur ter beschikking is gesteld op basis van een door het diensthoofd en de DG-controller goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor de directeur verantwoordelijk is met een maximum bedrag per (meerjarige) verplichting als vermeld in bijlage 1 van dit besluit.   
 2.  De directeur is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door de Minister, de Secretaris-generaal of het diensthoofd, met instemming van de DG-Controller en binnen het vastgestelde budget dat aan het diensthoofd ter beschikking is gesteld.   
-3.  In afwijking van het eerste en het tweede lid geldt voor de directeur van een baten-lastendienst of agentschap dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt.   
-4.  De directeur legt over het door hem gevoerde financiële beheer verantwoording af aan het diensthoofd. 
+3.  De directeur legt over het door hem gevoerde financiële beheer verantwoording af aan het diensthoofd.   
+4.  In afwijking van de voorgaande leden geldt voor een directeur van een baten-lastendienst of agentschap dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt. Voor het aangaan van financiële verplichtingen en het doen van uitgaven geldt voor de directeur een maximum bedrag per (meerjarige) verplichting als vermeld in bijlage 1 van dit besluit. 
 
 ### Paragraaf  4  
 
@@ -592,13 +592,15 @@ J.W.E. Spies
 
 ###Bijlage 1 
 
-Maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als bedoeld in de artikelen 4.11, eerste lid, 6.7, eerste lid, en 6.8, vijfde lid, van het Mandaatbesluit BZK 2012. Bedragen zijn per (meerjarige) verplichting, in euro’s en inclusief BTW. Deze bijlage is niet van toepassing op agentschappen/baten-lasten diensten.  
+Maximumbedragen voor het aangaan van financiële verplichtingen en het doen van uitgaven, als bedoeld in de artikelen 4.11, eerste lid, 6.7, eerste lid, en 6.8, vijfde lid, van het Mandaatbesluit BZK 2012. Bedragen zijn per (meerjarige) verplichting, in euro’s en inclusief BTW. Deze bijlage is niet van toepassing op het Rijksvastgoedbedrijf.  
 
 | --- | --- |
 |:---|:---|
 | Diensthoofd  | tot € 10.000.000  |
 | --- | --- |
 | Directeur  | tot € 2.000.000  |
+| --- | --- |
+|Directeur agentschap of baten-lastendienst |tot € 5.000.000 |
 | --- | --- |
 | Middenmanager/programmamanager afdelingshoofd/bureauhoofd  | tot € 30.000  |
 | --- | --- |
