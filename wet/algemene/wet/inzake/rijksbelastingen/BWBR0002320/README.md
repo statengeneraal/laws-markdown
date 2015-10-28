@@ -93,6 +93,13 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 1.  De bevoegdheid van een directeur, inspecteur of ontvanger is niet bepaald naar een geografische indeling van het Rijk.   
 2.  Bij ministeriële regeling worden regels gesteld omtrent de hoofdlijnen van de inrichting van de rijksbelastingdienst alsmede omtrent de functionaris, bedoeld in artikel 2, derde lid, onderdeel b, onder wie een belastingplichtige ressorteert.  
 
+### Artikel  3a  
+Treedt in werking per 01-11-2015 
+
+1.  In afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht wordt in het verkeer tussen belastingplichtigen of inhoudingsplichtigen en de inspecteur of het bestuur van ’s Rijks belastingen een bericht uitsluitend elektronisch verzonden.   
+2.  Bij ministeriële regeling wordt bepaald op welke wijze het elektronische berichtenverkeer plaatsvindt.   
+3.  Bij ministeriële regeling kunnen berichten en groepen van belastingplichtigen of inhoudingsplichtigen worden aangewezen waarvoor, alsmede omstandigheden worden aangewezen waaronder, het berichtenverkeer kan plaatsvinden anders dan langs elektronische weg.  
+
 ### Artikel  4  
 
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.    

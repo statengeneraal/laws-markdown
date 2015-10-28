@@ -3,7 +3,7 @@
 ##Wijzigingsregeling Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994
 
 De Staatssecretaris van Financiën,
-Gelet op de [artikelen 6, eerste lid](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [8, eerste en tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
+Gelet op de artikelen 6, eerste lid, en 8, eerste en tweede lid, van de Algemene wet inzake rijksbelastingen;
 Besluit:
 
 ###Artikel I 
@@ -16,7 +16,7 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ###Artikel III 
 
-1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vindt wat betreft het in artikel I, onderdeel B opgenomen [artikel 20, tweede lid](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/algemene/wet/inzake/rijksbelastingen/1994/BWBR0006736/README.md), voor het eerst toepassing ten aanzien van:
+1. Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vindt wat betreft het in artikel I, onderdeel B opgenomen artikel 20, tweede lid, voor het eerst toepassing ten aanzien van:
 
 a.de inkomstenbelasting, met betrekking tot het kalenderjaar 2004, tenzij de administratieplichtige in de loop van dat jaar is geëmigreerd of overleden;
 

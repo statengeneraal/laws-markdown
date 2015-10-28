@@ -47,8 +47,8 @@ i. de Dienst Concernstaf en Bedrijfsvoering (DCB);
 
 j. het Bureau Digitale Overheid.     
 2.  De dienstonderdelen bestaan uit organisatieonderdelen waarvan de inrichting nader kan worden beschreven op een wijze als bedoeld in artikel 15, tweede lid.   
-3.  De in het eerste lid, onder a, d, e, g, h en j genoemde dienstonderdelen ressorteren onder de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
-4.  De in het eerste lid, onder b, c, f en i, genoemde dienstonderdelen ressorteren wat betreft beleid en uitvoering onder de Minister voor Wonen en Rijksdienst.   
+3.  De in het eerste lid, onder a, c, g, i en j, genoemde dienstonderdelen ressorteren onder de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
+4.  De in het eerste lid, onder b, d, e, f en h, genoemde dienstonderdelen ressorteren wat betreft beleid en uitvoering onder de Minister voor Wonen en Rijksdienst.   
 5.  De secretaris-generaal geeft rechtstreeks leiding aan de leidinggevende functionarissen van de dienstonderdelen, genoemd in het eerste lid, met uitzondering van de baten-lastendienst Dienst van de Huurcommissie die ressorteert onder het bestuur van de Huurcommissie.  
 
 ### Artikel  3  
@@ -153,17 +153,15 @@ d. de directie Informatiseringsbeleid Rijk (IR);
 
 e. de programmadirectie Opdrachtgeverschap Rijkskantoren (POR);  
 
-f. de baten-lastendienst Shared Service Centrum ICT Haaglanden (SSC-ICT Haaglanden);  
+f. vervallen;  
 
-g. de baten-lastendienst P-Direkt;  
+g. vervallen; 
 
-h. de baten-lastendienst Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR);  
+h. vervallen; 
 
-i. de baten-lastendienst Doc-Direkt (D-Direkt);  
+i. vervallen;  
 
-j. de baten-lastendienst Logius;  
-
-k. de baten-lastendienst FM-Haaglanden (FMH).    
+j. de baten-lastendienst Logius.    
 
 ### Paragraaf  3.3  
 
@@ -279,6 +277,22 @@ e. de directie Financiën (FIN);
 f. de directie Bestuur en Bedrijfsvoering (B&B);  
 
 g. het Atelier Rijksbouwmeester (ARbm).    
+
+### Artikel  9a  
+
+1.  De directeur-generaal Rijksvastgoedbedrijf geeft leiding aan de uitvoeringsorganisaties.   
+2.  De uitvoeringsorganisaties dragen zorg voor het uitvoeren van rijksbrede voorzieningen op het terrein van de bedrijfsvoering   
+3.  De uitvoeringsorganisaties bedoeld in het eerste lid betreffen de volgende organisatieonderdelen: 
+
+a. de baten-lastendienst Shared Service Centrum ICT Haaglanden (SSC-ICT Haaglanden);  
+
+b. de baten-lastendienst P-Direkt (P-Direkt);  
+
+c. de baten-lastendienst Uitvoeringsorganisatie Bedrijfsvoering Rijk (UBR);  
+
+d. de directie Doc-Direkt (D-Direkt);  
+
+e. de baten-lastendienst FM-Haaglanden (FMH).    
 
 ### Paragraaf  3.6  
 

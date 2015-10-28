@@ -80,7 +80,7 @@ s. Verordening 1272/2009: Verordening (EU) nr. 1272/2009 van de Commissie van 11
 
 t.  *Verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad(PbEU 2004, L 139);  
 
-u.  *Verordening 950/2014:* Gedelegeerde verordening (EU) Nr. 950/2014 van de Commissie van 4 september 2014 tot opening van een tijdelijke buitengewone regeling voor de particuliere opslag van bepaalde soorten kaas en tot voorafgaande vaststelling van het steunbedrag (PbEU 2014, L 265);  
+u.  *verordening 2015/1852:* Gedelegeerde verordening (EU) nr. 2015/1852 van de Commissie van 15 oktober 2015 tot opening van een tijdelijke buitengewone regeling voor de particuliere opslag van bepaalde soorten kaas en tot voorafgaande vaststelling van het steunbedrag (PbEU 2015, L 271);  
 
 v.  *Verordening 854/2004:* Verordening (EG) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PbEU 2004, L 139);  
 
@@ -198,7 +198,7 @@ Opslagpartijen boter, vermeld op de inslagopgave, bedoeld in artikel 82, eerste 
 
 ### Artikel  18  
 
-1.  Onverminderd het bepaalde in artikel 17 kunnen de op grond van deze regeling verschuldigde zekerheden tevens worden gesteld hetzij door betaling in contanten hetzij in de vorm van een aan de minister gericht telefaxbericht, inhoudende een garantie van onbeperkte duur, uitsluitend door die hoofdkantoren van banken, die daartoe met de minister een overeenkomst hebben gesloten.   
+1.  Onverminderd het bepaalde in artikel 17 kunnen de op grond van deze regeling verschuldigde zekerheden tevens worden gesteld hetzij door betaling in contanten hetzij in de vorm van een aan de minister gericht bericht, met gebruikmaking van een door de minister beschikbaar gesteld middel, inhoudende een garantie van onbeperkte duur, uitsluitend door die hoofdkantoren van banken, die daartoe met de minister een overeenkomst hebben gesloten.   
 2.  Indien de zekerheid wordt gesteld door middel van overschrijving op het in artikel 17, eerste lid, bedoelde rekeningnummer wordt daarbij melding gemaakt van het woord ‘Zekerheid’, en zodanig dat de aard van de zekerheid kenbaar is, in voorkomend geval in combinatie met het desbetreffende contractnummer.  
 
 ### Hoofdstuk  2  
@@ -702,93 +702,72 @@ Zo spoedig mogelijk na de uitslag zendt het opslagpand, met gebruikmaking van ee
 
 ### Artikel  87m  
 
-De Minister kan op basis van een steunaanvraag op grond van artikel 4, eerste lid, van Verordening 950/2014 steun verlenen voor de particuliere opslag van kaas, als bedoeld in artikel 1 van Verordening 950/2014. Hij doet zulks in overeenstemming met Verordening 950/2014. 
+1. De minister kan op basis van een steunaanvraag op grond van artikel 4, eerste lid, van verordening 2015/1852 steun verlenen voor de particuliere opslag van kaas, als bedoeld in artikel 1 van verordening 2015/1852. Hij doet zulks in overeenstemming met verordening 2015/1852.  
+2.  De aan Nederland toegekende maximale producthoeveelheid, bedoeld in artikel 1 van verordening 2015/1852, wordt verdeeld op basis van de volgorde van binnenkomst van de aanvragen, bedoeld in het eerste lid.   
+3.  Indien een aanvraag als bedoeld in het eerste lid niet volledig is, wordt deze niet in aanmerking genomen voor het verdelen van de maximale producthoeveelheid, bedoeld in het tweede lid, tot de aanvraag is aangevuld. 
 
 ### Artikel  87n  
 
-Een aanvraag om de in artikel 87n bedoelde steun wordt ingediend bij de Minister met gebruikmaking van een door de Mnister ter beschikking gesteld formulier. 
+Een aanvraag om de in artikel 87m bedoelde steun wordt ingediend bij de minister met gebruikmaking van een door de minister ter beschikking gesteld middel. 
 
 ### Artikel  87o  
 
-1.  Kaas wordt geacht van een gezonde handelskwaliteit, als bedoeld in artikel 3, eerste lid, van verordening 950/2014, te zijn indien deze op deugdelijke wijze gefabriceerd is door een zuivelonderneming die is erkend op grond van artikel 3, eerste lid, van verordening 854/2004.   
-2.  De minimumouderdom van kaas, bedoeld in artikel 3, eerste lid, van Verordening 950/2014, bedraagt 28 dagen.  
+1.  Kaas wordt geacht van een gezonde handelskwaliteit, als bedoeld in artikel 3, eerste lid, van verordening 2015/1852, te zijn indien deze op deugdelijke wijze gefabriceerd is door een zuivelonderneming die is erkend op grond van artikel 3, eerste lid, van verordening 854/2004.   
+2.  De minimumouderdom van overige kazen, bedoeld in artikel 3, eerste lid, van verordening 2015/1852, bedraagt 28 dagen.  
 
 ### Artikel  87p  
 
 1.  Op de verpakking van de kaas worden het caseïnemerk en een uniek volgnummer vermeld.   
-2.  In de administratie van het opslagpand is elke kaas traceerbaar en worden de volgende gegevens vastgelegd: 
+2.  In de administratie van het opslagpand is elke kaas traceerbaar en worden de gegevens, bedoeld in artikel 7, tweede lid, onderdelen a tot en met d en f, en derde lid, van verordening 2015/1852 alsmede het opslagpartijnummer van het opslagpand vastgelegd.   
+3.  Voor de toepassing van artikel 7, eerste lid, onderdeel d, van verordening 2015/1852 kan worden afgezien van het markeren van de individuele opgeslagen producten met de in dat artikellid bedoelde informatie, indien: 
 
-a. het erkenningsnummer van de fabriek;  
+a. bij opslag op de pallets of boxpallets, per partij en per pallet of boxpallet, op een duidelijk zichtbare plaats een label wordt aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet of boxpallet en de datum van fysieke inslag worden vermeld, en  
 
-b. de lidstaat van productie;  
-
-c. de datum van productie;  
-
-d. de datum van fysieke inslag in het opslagpand of het vrieshuis;  
-
-e. het productiepartijnummer;  
-
-f. het opslagpartijnummer van het opslagpand, en  
-
-h. het gewicht en het aantal verpakte kazen.     
-2.  Het eerste lid, onderdelen d en f, is niet van toepassing mits de volgende voorwaarden in acht zijn genomen: 
-
-a. bij opslag wordt op de pallets of boxpallets, per partij en per pallet of boxpallet, op een duidelijk zichtbare plaats een label aangebracht waarop het opslagpartijnummer, het aantal verpakkingen op de pallet of boxpallet en de datum van fysieke inslag worden vermeld, en  
-
-b. het opslagpand of het vrieshuis houdt een register bij waarin op de dag van inslag de in het vorige lid bedoelde gegevens worden opgenomen.    
+b. de beheerder van het opslagpand een register bijhoudt waarin de gegevens bedoeld in artikel 7, eerste lid, onderdeel d, van verordening 2015/1852 worden opgenomen.    
 
 ### Artikel  87q  
 
 1.  Particuliere opslag van kaas vindt plaats in opslagpanden die een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een verpakking met een inhoud van 25 kilogram gewogen kan worden.   
-2.  In afwijking van het eerste lid vind de opslag van diepgevroren wrongel plaats in vrieshuizen die: 
+2.  In afwijking van het eerste lid vind de opslag van diepgevroren wrongel plaats in opslagpanden die: 
 
-a. een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een verpakking met een inhoud van 25 kilogram gewogen kan worden, en  
+a. beschikken over vriesfaciliteiten; 
 
-b. beschikken over een bemonsteringsruimte.     
-3.  Een beheerder van een opslagpand of vrieshuis draagt er zorg voor dat de kaas in particuliere opslag op dusdanige wijze wordt opgeslagen dat de individuele kazen bereikbaar zijn voor een controle door de Minister.  
+b. een van een geldig ijkmerk voorziene weegschaal – met een gewichtsaanduiding tot op de tien gram nauwkeurig – beschikbaar hebben waarop een verpakking met een inhoud van 25 kilogram gewogen kan worden, en  
+
+c. beschikken over een bemonsteringsruimte.     
+3.  Een beheerder van een opslagpand draagt er zorg voor dat de kaas in particuliere opslag op dusdanige wijze wordt opgeslagen dat de individuele kazen bereikbaar zijn voor een controle door de minister.  
 
 ### Artikel  87r  
 
-1.  Het is niet toegestaan partijen kaas in particuliere opslag zonder toestemming van de Minister te verplaatsen naar een opslagruimte die niet via het eigen terrein bereikbaar is.   
-2.  Toestemming als bedoeld in het eerste lid wordt op aanvraag slechts verleend in geval van overmacht.   
-3.  Indien de verplaatsing reeds heeft plaatsgevonden en de aanvraag tot verplaatsing buiten de opslaglocatie niet wordt gehonoreerd, wordt de aanvraag door de Minister aangemerkt als een uitslagmelding en als een aanvraag tot vaststelling van de steun voor de betreffende partij of partijen.  
+1.  Het is niet toegestaan partijen kaas in particuliere opslag zonder toestemming van de minister te verplaatsen naar een opslagruimte die niet via het eigen terrein bereikbaar is.   
+2.  Toestemming als bedoeld in het eerste lid wordt aangevraagd bij de minister, met gebruikmaking van een door de minister beschikbaar gesteld middel.  
+3.  Toestemming als bedoeld in het eerste lid wordt slechts verleend in geval van overmacht.   
+4.  Indien de verplaatsing reeds heeft plaatsgevonden en de aanvraag tot verplaatsing buiten de opslaglocatie niet wordt gehonoreerd, wordt de aanvraag door de minister aangemerkt als een uitslagmelding en als een aanvraag tot vaststelling van de steun voor de betreffende partij of partijen.  
 
 ### Artikel  87s  
 
-1.  De houder van het opslagpand of het vrieshuis kan de Minister verzoeken om kaas onder de in Bijlage 1 vermelde voorwaarden in stellingen of koelcellen op te mogen slaan die na de inslagcontrole door de Minister worden verzegeld.   
-2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de Minister met gebruikmaking van een door de Minister beschikbaar gesteld formulier.  
+1.  De contractant of de beheerder van het opslagpand kan de minister verzoeken om kaas onder de in Bijlage 1 vermelde voorwaarden in stellingen of koelcellen op te mogen slaan die na de inslagcontrole door de minister worden verzegeld.   
+2.  De in het eerste lid bedoelde aanvraag wordt ingediend bij de minister met gebruikmaking van een door de minister beschikbaar gesteld middel.  
 
 ### Artikel  87t  
 
-De op de inslagopgave, bedoeld in artikel 87h, eerste lid, vermelde opslagpartijen kaas kunnen slechts bestaan uit een partij die in dezelfde erkende fabriek is geproduceerd. 
+De op de inslagopgave, bedoeld in artikel 87u, eerste lid, vermelde opslagpartijen kaas kunnen slechts bestaan uit een partij die in dezelfde erkende fabriek is geproduceerd. 
 
 ### Artikel  87u  
 
-1.  Degene die kaas in het kader van dit hoofdstuk opslaat, verstrekt aan de Minister binnen uiterlijk achtentwintig dagen gerekend vanaf de productiedatum een opgave van de ingeslagen hoeveelheden. Deze opgave geschiedt schriftelijk of elektronisch door gebruikmaking van een door de Minister beschikbaar gesteld formulier.   
+1.  Degene die kaas in het kader van dit hoofdstuk opslaat verstrekt aan de minister, met gebruikmaking van een door de minister beschikbaar gesteld middel, een opgave van de ingeslagen hoeveelheden.   
 2.  De in het eerste lid bedoelde inslagopgave is tevens de aanvraag tot sluiting van een contract in het kader van dit hoofdstuk.  
 
 ### Artikel  87v  
 
-1.  De houder van het opslagpand of het vrieshuis maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
-2.  Het in het eerste lid bedoelde inslagbewijs bevat in ieder geval de navolgende gegevens: 
+1.  De houder van het opslagpand maakt een inslagbewijs op van de ingeslagen partijen. De contractant ontvangt hiervan een exemplaar.   
+2.  Het in het eerste lid bedoelde inslagbewijs bevat in ieder geval: 
 
-a. de inslagdatum;  
+a. de gegevens bedoeld in artikel 7, tweede lid, van verordening 2015/1852;  
 
-b. het opslagpartijnummer;  
+b. het opslagpartijnummer, en  
 
-c. het erkenningsnummer van de fabriek;  
-
-d. het productiepartijnummer of in voorkomend geval de productiepartijnummers;  
-
-e. de productiedatum of in voorkomend geval de productiedata;  
-
-g. het aantal verpakkingseenheden;  
-
-h. de opslagperiode;  
-
-i. de hoeveelheid in kilogrammen, en  
-
-j. het adres van de locatie waar de kaas fysiek ligt opgeslagen.     
+c. het productiepartijnummer of in voorkomend geval de productiepartijnummers.     
 3.  In voorkomend geval wordt de hoeveelheid per productiepartijnummer en productiedatum gespecificeerd.  
 
 ### Artikel  87w  
@@ -797,20 +776,21 @@ De uitslag bedraagt ten minste 500 kilogram per opslagpartij met dien verstande 
 
 ### Artikel  87x  
 
-1.  De kennisgeving bedoeld in artikel 8, derde lid, van Verordening 950/2014 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de kaas wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
-2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een door de Minister beschikbaar gesteld formulier.   
-3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als aanvraag om betaling van steun als bedoeld in artikel 11, eerste lid, van Verordening 950/2014.   
-4.  Ook de uitslag van partijen kaas waarvoor geen steun kan worden verleend, wordt aan de Minister gemeld met gebruikmaking van een door de Minister beschikbaar gesteld formulier.  
-
-### Artikel  87y  
-
-Zo spoedig mogelijk na de uitslag zendt het opslagpand, met gebruikmaking van een door de Minister beschikbaar gesteld formulier, bevestiging van de uitslag aan de Minister. 
+1.  De kennisgeving bedoeld in artikel 9, derde lid, van verordening 2015/1852 vindt plaats ten minste twee werkdagen vóór 10:00 uur voor het einde van de maximale opslagperiode, of vóór aanvang van de uitslag wanneer de kaas wordt uitgeslagen voordat de maximale contractuele opslagperiode is verstreken.   
+2.  Voor de kennisgeving, bedoeld in het eerste lid, wordt gebruik gemaakt van een door de minister beschikbaar gesteld middel.   
+3.  De in het eerste lid bedoelde kennisgeving wordt tevens aangemerkt als betalingsaanvraag als bedoeld in artikel 12, eerste lid, van verordening 2015/1852.   
+4.  Ook de uitslag van partijen kaas waarvoor geen steun kan worden verleend, wordt aan de minister gemeld met gebruikmaking van een door de minister beschikbaar gesteld formulier.  
 
 ### Artikel  87z  
 
-1.  De Minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 10. eerste lid, van Verordening 950/2014.   
-2.  De contractant dient een verzoek om een voorschot in bij de Minister conform een bij de Minister op te vragen formulier.   
+1.  De minister is bevoegd tot verlening van een voorschot op grond van het bepaalde in artikel 11, eerste lid, van verordening 2015/1852.   
+2.  De contractant dient een verzoek om een voorschot in bij de minister met gebruikmaking van een door de minister beschikbaar gesteld middel.   
 3.  Het voorschot wordt berekend over alle opslagpartijen waarvan de contractuele opslag in één kalendermaand aanvangt.  
+
+### Artikel  87aa  
+
+1.  Wanneer de maximale producthoeveelheid die aan Nederland is toegewezen in de bijlage van verordening 2015/1852 is uitgeput beëindigt de minister de mogelijkheid om steunaanvragen als bedoeld in artikel 4, eerste lid, van verordening 2015/1852 in te dienen met ingang van het moment waarop het plafond is bereikt.   
+2.  Na de beëindiging, bedoeld in het eerste lid, ingediende steunaanvragen komen niet meer in aanmerking voor steun als bedoeld in artikel 1 van verordening 2015/1852.  
 
 ### Hoofdstuk  6  
 

@@ -23,7 +23,7 @@ De personen, werkzaam in de functie van (senior) rechercheur, medewerker infodes
 
 ### Artikel  3  
 
-1.  De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, als genoemd in onderdeel 7.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar.   
+1.  De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, als genoemd in onderdeel 7.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar, aangevuld met de wetten op het gebied van de volksgezondheid, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.  
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
 3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.  
 

@@ -145,11 +145,11 @@ b. de administratie van de stichting zodanig is ingericht dat daaruit blijkt:
 3.  In afwijking van het eerste lid is, met betrekking tot de schenkbelasting, de belastingplichtige begiftigde, alsmede de schenker die de belastbare schenking heeft gedaan, die niet binnen twee maanden na het einde van het kalenderjaar waarin de schenking heeft plaatsgevonden is uitgenodigd tot het doen van aangifte, gehouden de inspecteur om uitnodiging tot het doen van aangifte te verzoeken.  
 4.  Het verzoek wordt ingediend binnen twee weken na het verstrijken van de in het eerste, tweede en derde lid bedoelde tijdvakken.   
 5.  Voor de toepassing van het eerste lid wordt een belastingschuld waarvan de grootte eerst kan worden vastgesteld na afloop van het tijdvak waarover de belasting wordt geheven, geacht te zijn ontstaan op het tijdstip waarop dat tijdvak of de belastingplicht eindigt.   
-6.   Het eerste lid is niet van toepassing, indien over het tijdvak waarover de belasting wordt geheven reeds een aanslag is opgelegd, dan wel redelijkerwijs moet worden aangenomen dat over dat tijdvak, na verrekening van voorheffingen, geen belasting verschuldigd is of geen aanslag zal worden opgelegd.  
+6.  Het eerste lid is niet van toepassing, indien over het tijdvak waarover de belasting wordt geheven reeds een aanslag is opgelegd, dan wel redelijkerwijs moet worden aangenomen dat over dat tijdvak, na verrekening van voorheffingen, geen belasting verschuldigd is of geen aanslag zal worden opgelegd.  
 
 ### Artikel  3  
 
-1.   Met betrekking tot de belastingen welke op aangifte moeten worden voldaan of afgedragen, is de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, die niet reeds is uitgenodigd tot het doen van aangifte, gehouden vóór het tijdstip waarop de belasting moet worden betaald, de inspecteur om uitnodiging tot het doen van aangifte te verzoeken.    
+1.  Met betrekking tot de belastingen welke op aangifte moeten worden voldaan of afgedragen, is de belastingplichtige, onderscheidenlijk de inhoudingsplichtige, die niet reeds is uitgenodigd tot het doen van aangifte, gehouden vóór het tijdstip waarop de belasting moet worden betaald, de inspecteur om uitnodiging tot het doen van aangifte te verzoeken.    
 2.  Een rechtspersoon als bedoeld in artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer, die weet of redelijkerwijs moet vermoeden dat een verkrijging van aandelen in die rechtspersoon heeft plaatsgehad onder de in die bepaling genoemde omstandigheden, is gehouden vóór het tijdstip waarop de belasting ter zake van die verkrijging moet worden betaald, de inspecteur om uitnodiging tot het doen van aangifte te verzoeken, zo de rechtspersoon niet reeds met het oog op die verkrijging is uitgenodigd tot het doen van aangifte.   
 3.  Een vereniging als bedoeld in artikel 4, eerste lid, onderdeel b, van de Wet op belastingen van rechtsverkeer, die voor een bepaald kalenderjaar niet reeds is uitgenodigd tot het doen van aangifte, is gehouden binnen veertien dagen na afloop daarvan de inspecteur om uitnodiging tot het doen van aangifte te verzoeken.   
 
@@ -436,7 +436,7 @@ f. de kansspelbelasting.
 ### Artikel  35  
 
 1.  Van de belastingen, genoemd in het tweede lid van dit artikel zijn, met inachtneming van hetgeen is bepaald in de artikelen 36, 37, 38 en 39, vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere Mogendheden, met uitzondering van honoraire consulaire vertegenwoordigingen.   
-2.   De in het eerste lid bedoelde vrijstelling vindt toepassing met betrekking tot: 
+2.  De in het eerste lid bedoelde vrijstelling vindt toepassing met betrekking tot: 
 
 a. de omzetbelasting;  
 
@@ -483,8 +483,8 @@ g. het bedrag van de belasting dat ter zake van de levering of de dienst is vers
 
 ### Artikel  37  
 
-1.   De vrijstelling van motorrijtuigenbelasting, bedoeld in de artikelen 33 en 35, wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in artikel 33 bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in artikel 35, eerste lid, bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.   
-2.   De vrijstelling van motorrijtuigenbelasting wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99.   
+1.  De vrijstelling van motorrijtuigenbelasting, bedoeld in de artikelen 33 en 35, wordt verleend voor motorrijtuigen bestemd voor persoonlijk gebruik door de in artikel 33 bedoelde personen of bestemd voor officieel gebruik ten behoeve van de in artikel 35, eerste lid, bedoelde diplomatieke en beroepsconsulaire vertegenwoordigingen.   
+2.  De vrijstelling van motorrijtuigenbelasting wordt slechts verleend indien voor het motorrijtuig een CD-kenteken is afgegeven, dan wel een BN/GN-kenteken in de serie 70-00 tot en met 88-99 of in de serie 90-00 tot en met 99-99.   
 
 ### Artikel  38  
 
@@ -498,12 +498,12 @@ g. het bedrag van de belasting dat ter zake van de levering of de dienst is vers
 
 ### Artikel  40  
 
-1.   Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-strijdkrachten die in een andere lidstaat van de Europese Unie zijn gevestigd, dan wel gelegerd, met uitzondering van NAVO-strijdkrachten van die lidstaat zelf.   
-2.   Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan personeelsleden van de in het eerste lid bedoelde instellingen.   
-3.   Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lidstaat die voor de instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
+1.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan diplomatieke en consulaire vertegenwoordigingen, internationale organisaties en NAVO-strijdkrachten die in een andere lidstaat van de Europese Unie zijn gevestigd, dan wel gelegerd, met uitzondering van NAVO-strijdkrachten van die lidstaat zelf.   
+2.  Een voorwaardelijke vrijstelling van omzetbelasting wordt verleend aan personeelsleden van de in het eerste lid bedoelde instellingen.   
+3.  Bij het verlenen van de in het eerste lid bedoelde vrijstellingen zijn de voorwaarden, zoals de andere lidstaat die voor de instelling, dan wel het personeelslid heeft vastgesteld voor de vrijstelling van omzetbelasting ter zake van prestaties in het binnenlandse vrije verkeer, van overeenkomstige toepassing. De vrijstellingen worden niet verleend voor goederen die bestemd zijn voor gebruik binnen Nederland, noch voor diensten verricht met betrekking tot dergelijke goederen.   
 4.  De in het eerste en tweede lid bedoelde vrijstellingen worden slechts verleend, indien de instelling, dan wel het personeelslid een originele, door of namens de andere lidstaat gewaarmerkte verklaring overlegt waaruit blijkt dat ter zake aanspraak op vrijstelling van omzetbelasting bestaat. Voor deze verklaring dient gebruik te worden gemaakt van het EU-document ter uitvoering van de vrijstelling omzetbelasting en accijns bij intracommunautaire aankopen door ambassades en consulaten en de leden daarvan, internationale organisaties en bepaalde functionarissen daarvan, en NAVO-onderdelen.   
 5.  De in het eerste lid en tweede lid bedoelde vrijstelling kan direct worden verleend indien de instelling, dan wel het personeelslid, tijdig een geldige verklaring als bedoeld in het vierde lid ter beschikking stelt aan de ondernemer die de prestatie verricht. De in het eerste en tweede lid bedoelde vrijstelling kan worden verleend in de vorm van teruggaaf van belasting indien het bedrag van de vergoeding per factuur ten minste € 225 bedraagt.   
-6.   De vrijstelling vervalt wanneer niet of niet langer wordt voldaan aan de in het derde lid bedoelde voorwaarden. De alsdan verschuldigde omzetbelasting bedraagt ten hoogste het bedrag waarvan vrijstelling werd verleend.   
+6.  De vrijstelling vervalt wanneer niet of niet langer wordt voldaan aan de in het derde lid bedoelde voorwaarden. De alsdan verschuldigde omzetbelasting bedraagt ten hoogste het bedrag waarvan vrijstelling werd verleend.   
 
 ### Artikel  41  
 
