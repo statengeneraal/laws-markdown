@@ -3,14 +3,12 @@
 ##Regeling van het College voor examens van 17 juni 2014, nummer CvE-14.01696, houdende vaststelling van toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens VO in 2016 (Regeling toegestane hulpmiddelen voor de centrale examens VO 2016)
 
 Het College voor examens,  
-Gelet op [artikel 2, tweede lid, aanhef en onderdeel g van de Wet College voor examens](../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);
+Gelet op artikel 2, tweede lid, aanhef en onderdeel g van de Wet College voor examens;
 Besluit:    
 
 ### Artikel  1  
 
 ####Hulpmiddelen
-
-Treedt in werking per 01-08-2015 
 
 Bij de centrale examens 2016 zijn de algemene hulpmiddelen toegestaan, zoals vermeld in bijlage 1A voor het vmbo en bijlage 1B voor havo en vwo. 
 
@@ -18,15 +16,11 @@ Bij de centrale examens 2016 zijn de algemene hulpmiddelen toegestaan, zoals ver
 
 ####Hulpmiddelen kandidaten met een beperking
 
-Treedt in werking per 01-08-2015 
-
-Bij de centrale examens 2016 zijn met betrekking tot kandidaten met een beperking, bij toepassing van [artikel 55 Eindexamenbesluit](../../../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), *Afwijking wijze van examineren*, hulpmiddelen toegestaan, zoals vermeld in bijlage 2. 
+Bij de centrale examens 2016 zijn met betrekking tot kandidaten met een beperking, bij toepassing van artikel 55 Eindexamenbesluit, *Afwijking wijze van examineren*, hulpmiddelen toegestaan, zoals vermeld in bijlage 2. 
 
 ### Artikel  3  
 
 ####Bekendmaking
-
-Treedt in werking per 01-08-2015 
 
 De regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaatst. De bijlagen kunnen ook geraadpleegd worden op Examenblad.nl. 
 
@@ -34,15 +28,11 @@ De regeling zal met de bijlagen en toelichting in de Staatscourant worden geplaa
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-08-2015 
-
 Deze regeling treedt in werking op 1 augustus 2015. 
 
 ### Artikel  8  
 
 ####Citeertitel
-
-Treedt in werking per 01-08-2015 
 
 Deze regeling kan worden aangehaald als Regeling toegestane hulpmiddelen voor de centrale examens VO 2016. 
 
@@ -53,8 +43,6 @@ H.W. Laan
 ### Bijlage 1a 
 
 ####bij de Regeling rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens VO in 2016 van 17 juni 2014, nummer CVE-14.01696
-
-Treedt in werking per 01-08-2015 
 
 ####Hulpmiddelen vmbo 2016
 
@@ -106,15 +94,13 @@ Bij de centrale examens Nederlands GL/TL en in de papieren centrale examens Nede
 
 ####rekenmachine
 
-Bij wiskunde KB en GL/TL, nask 1 KB en GL/TL, nask 2 GL/TL en bij de cspe’s GL voor bouw-breed, bouwtechniek-metselen, bouwtechniek-timmeren, bouwtechniek-schilderen en bouwtechniek- fijnhoutbewerking moet de rekenmachine naast de grondbewerkingen tevens beschikken over toetsen voor pi, x tot de y<sup>e</sup> macht, x kwadraat, 1/x en sin/cos/tan in graden (en hun inversen). Bij de overige vakken en bij alle vakken BB zijn de grondbewerkingen optellen, aftrekken, vermenigvuldigen en delen voldoende. Meer mogelijkheden mag, maar: de rekenmachine mag niet één of meer van de volgende eigenschappen hebben: lichtnetaansluiting tijdens het examen, opladen tijdens het examen, schrijfrol, alarm of ander geluid, alfanumeriek (letters op scherm)*, grafieken weergeven, zend- of ontvanginstallatie. Meerregeligheid van het scherm wordt in de criteria niet genoemd. Dit houdt in dat een meerregelige machine niet is verboden als hij aan de overige criteria voldoet. Wel is het zo dat de meerregelige machines mogelijkheden hebben die bij de eenregelige ontbreken, zoals het maken van tabellen. Bij de huidige centrale examens is niet gebleken is dat die extra mogelijkheden de kandidaat voordeel bieden. Ook bij de digitale centrale examens is de rekenmachine een toegestaan hulpmiddel. 
-
-* Bedoeld is dat er geen teksten kunnen worden ingevoerd of uitgelezen, zoals bijvoorbeeld met de mobiele telefoon wel kan. De letters ‘sin’ als afkorting van sinus worden in dit verband dus niet als alfanumeriek beschouwd.   
+Bij wiskunde KB en GL/TL, nask 1 KB en GL/TL, nask 2 GL/TL en bij de cspe’s GL voor bouw-breed, bouwtechniek-metselen, bouwtechniek-timmeren, bouwtechniek-schilderen en bouwtechniek- fijnhoutbewerking moet de rekenmachine naast de grondbewerkingen tevens beschikken over toetsen voor pi, x tot de y<sup>e</sup> macht, x kwadraat, 1/x en sin/cos/tan in graden (en hun inversen). Bij wiskunde BB moet de rekenmachine naast de grondbewerkingen beschikken over toetsen voor x kwadraat en (tweedemachts) worteltrekken. Bij alle overige vakken zijn de grondbewerkingen optellen, aftrekken, vermenigvuldigen en delen voldoende. Meer mogelijkheden mag, maar: de rekenmachine mag niet één of meer van de volgende eigenschappen hebben: lichtnetaansluiting tijdens het examen, opladen tijdens het examen, schrijfrol, alarm of ander geluid, alfanumeriek (letters op scherm)*, grafieken weergeven, zend- of ontvanginstallatie. Meerregeligheid van het scherm wordt in de criteria niet genoemd. Dit houdt in dat een meerregelige machine niet is verboden als hij aan de overige criteria voldoet. Wel is het zo dat de meerregelige machines mogelijkheden hebben die bij de eenregelige ontbreken, zoals het maken van tabellen. Bij de huidige centrale examens is niet gebleken is dat die extra mogelijkheden de kandidaat voordeel bieden. Ook bij de digitale centrale examens is de rekenmachine een toegestaan hulpmiddel. * Bedoeld is dat er geen teksten kunnen worden ingevoerd of uitgelezen, zoals bijvoorbeeld met de mobiele telefoon wel kan. De letters ‘sin’ als afkorting van sinus worden in dit verband dus niet als alfanumeriek beschouwd. 
 
 ### 3.5  
 
 ####informatieboek bij nask 1 en nask 2
 
-Bij het centraal examen nask 1 in alle leerwegen en nask 2 in de gemengde en theoretische leerweg heeft de kandidaat op het centraal examen informatiemateriaal nodig. Goedgekeurd zijn: Voor BB: BINAS vmbo-basis, informatieboek nask 1 (2<sup>e</sup> editie, ISBN 978-90-01-80067-3) Voor KB en GL/TL: BINAS vmbo-kgt, informatieboek voor nask 1 en nask 2 (2<sup>e</sup> editie, ISBN 978.90.01.80069.7) 
+Bij het centraal examen nask 1 in alle leerwegen en nask 2 in de gemengde en theoretische leerweg heeft de kandidaat op het centraal examen informatiemateriaal nodig. Goedgekeurd zijn: Voor BB: BINAS vmbo-basis, informatieboek nask 1 (2e editie, ISBN 978-90-01-80067-3) Voor KB en GL/TL: BINAS vmbo-kgt, informatieboek voor nask 1 en nask 2 (2e editie, ISBN *978.90.01.80069.7*) Voor deze edities van Binas zijn errata uitgegeven. Zie voor deze errata de site www.noordhoffuitgevers.nl (zoekterm errata Binas). Het is toegestaan deze fouten in Binas te verbeteren. 
 
 ### 4  
 
@@ -130,7 +116,7 @@ Bij de exameneenheid Meetkunde van het centraal examen wiskunde in BB, KB en GL/
 
 ####computer
 
-Bij alle schriftelijke examens is de computer toegestaan als schrijfgerei. De school kan dat toestaan voor alle kandidaten, kan het ook toestaan voor speciale groepen kandidaten bijvoorbeeld de dyslectische kandidaten. Als de computer als schrijfgerei wordt gebruikt, is het van belang dat kandidaten geen toegang hebben tot verboden hulpmiddelen (zoals een digitale atlas of een digitaal woordenboek), en moet ook o.m. de opslag (bijvoorbeeld uitprinten) worden geregeld. Op www.cve.nl: HomePublicatiesOverig staan aanwijzingen voor scholen die de computer als schrijfgerei willen inzetten.  *Bij elke inzet van de computer geldt tevens onverkort de lijst van toegestane hulpmiddelen. Met andere woorden: ook naast een computerexamen of voor een kandidaat die schrijft op de computer, is o.m. een (papieren) woordenboek toegestaan. Uit een kleine praktijkproef is gebleken dat deze op het eerste gezicht wellicht anachronistische oplossing goed uitvoerbaar is.*  
+Bij alle schriftelijke examens is de computer toegestaan als schrijfgerei. De school kan dat toestaan voor alle kandidaten. De school kan het ook toestaan voor speciale groepen kandidaten, bijvoorbeeld de dyslectische kandidaten. De spellingcontrole mag zonder meer worden gebruikt bij centrale examens waarbij de spelling niet wordt beoordeeld. Als de computer als schrijfgerei wordt ingezet bij de centrale examens Nederlands vmbo GL/TL, de papieren centrale examens Nederlands vmbo BB en KB en Engels vmbo GL/TL dient de spellingcontrole uitgeschakeld te zijn. Als de computer als schrijfgerei wordt gebruikt is het van belang dat kandidaten geen toegang hebben tot verboden hulpmiddelen (zoals een digitale atlas of een digitaal woordenboek), en moet ook o.m. de opslag (bijvoorbeeld uitprinten) worden geregeld. Bovenstaande regels gelden ook (bij de centrale examens waarbij spelling wordt beoordeeld) indien een kandidaat van de tekstverwerker gebruik maakt vanwege zijn beperking. Ook dan dient de spellingcontrole te worden uitgeschakeld. Dit geldt voor zowel kandidaten met een visuele of fysieke beperking als voor dyslectische kandidaten. Ook bij speciale schrijfsoftware voor dyslectische leerlingen mag de spellingcontrole niet worden gebruikt. Als een kandidaat bijvoorbeeld vanwege zware dyslexie niet goed kan schrijven zonder de ondersteuning van spellingcontrole, dan kan de school de volgende oplossing hanteren: De spellingcontrole mag worden ingeschakeld, voor spellingfouten moet de maximale aftrek worden toegepast ongeacht het aantal gemaakte spellingfouten. Van dit extra hulpmiddel moet melding worden gedaan aan de inspectie en het gebruik moet vermeld worden op het procesverbaal. Bij het centraal examen Nederlands vmbo GL/TL en bij de papieren centrale examens Nederlands vmbo BB en KB geldt als de spellingcontrole is ingeschakeld: de twee punten voor spellingsfouten worden afgetrokken van de maximale score voor taalgebruik. Deze score is dan dus maximaal 2. Op deze maximale score wordt de aftrek toegepast voor de overige aspecten van taalgebruik zoals vermeld in het correctievoorschrift, waaronder hoofdlettergebruik en interpunctie. Omdat voor spelling al de maximale aftrek is toegepast, zijn de spelfouten die met spellingcontrole worden gemaakt, niet meer relevant. Bij het centraal examen Engels vmbo GL/TL geldt als de spellingcontrole is ingeschakeld: het maximale aantal punten voor taalverzorging (voor de verdubbeling) wordt verlaagd van 4 naar 3. Eventuele met spellingcontrole gemaakte spelfouten leiden niet tot meer aftrek.  *Bij elke inzet van de computer geldt tevens onverkort de lijst van toegestane hulpmiddelen. Met andere woorden: ook naast een computerexamen of voor een kandidaat die schrijft op de computer, is o.m. een (papieren) woordenboek toegestaan.*  Op www.hetcvte.nl/publicaties/overig staan aanwijzingen voor scholen die de computer als schrijfgerei willen inzetten. 
 
 ### 4.3  
 
@@ -141,8 +127,6 @@ De lijst geeft een opsomming van de toegestane hulpmiddelen. Een kandidaat die b
 ### Bijlage 1b 
 
 ####bij de Regeling rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens VO in 2016 van 17 juni 2014, nummer CVE-14.01696
-
-Treedt in werking per 01-08-2015 
 
 ####Hulpmiddelen havo en vwo 2016
 
@@ -270,7 +254,7 @@ Voor de Binas uitgave (5<sup>e</sup> druk of 6<sup>e</sup> editie) voor havo/vwo
 
 ####computer
 
-Bij alle schriftelijke examens is de computer toegestaan als schrijfgerei. De school kan dat toestaan voor alle kandidaten, kan het ook toestaan voor speciale groepen kandidaten bijvoorbeeld de dyslectische kandidaten. Als de computer als schrijfgerei wordt gebruikt, is het van belang dat kandidaten geen toegang hebben tot verboden hulpmiddelen (zoals een digitale atlas of een digitaal woordenboek), en moet ook o.m. de opslag (bijvoorbeeld uitprinten) worden geregeld. Op www.cve.nl staan aanwijzingen voor scholen die de computer als schrijfgerei willen inzetten.  *Bij elke inzet van de computer geldt tevens onverkort de lijst van toegestane hulpmiddelen. Met andere woorden: ook naast een computerexamen of voor een kandidaat die schrijft op de computer, is o.m. een (papieren) woordenboek toegestaan.*  
+Bij alle schriftelijke examens is de computer toegestaan als schrijfgerei. De school kan dat toestaan voor alle kandidaten. De school kan het ook toestaan voor speciale groepen kandidaten, bijvoorbeeld de dyslectische kandidaten. De spellingcontrole mag zonder meer worden gebruikt bij centrale examens waarbij de spelling niet wordt beoordeeld. Als de computer als schrijfgerei wordt ingezet bij de centrale examens Nederlands vwo en havo dient de spellingcontrole uitgeschakeld te zijn. Als de computer als schrijfgerei wordt gebruikt is het van belang dat kandidaten geen toegang hebben tot verboden hulpmiddelen (zoals een digitale atlas of een digitaal woordenboek), en moet ook o.m. de opslag (bijvoorbeeld uitprinten) worden geregeld. Bovenstaande regels gelden ook (bij de centrale examens waarbij spelling wordt beoordeeld) indien een kandidaat van de tekstverwerker gebruik maakt vanwege zijn beperking. Ook dan dient de spellingcontrole te worden uitgeschakeld. Dit geldt voor zowel kandidaten met een visuele of fysieke beperking, als voor dyslectische kandidaten. Ook bij speciale schrijfsoftware voor dyslectische leerlingen mag de spellingcontrole niet worden gebruikt. Als een kandidaat bijvoorbeeld vanwege zware dyslexie niet goed kan schrijven zonder de ondersteuning van spellingcontrole, dan kan de school de volgende oplossing hanteren: De spellingcontrole mag worden ingeschakeld, voor spellingfouten moet de maximale aftrek worden toegepast ongeacht het aantal gemaakte spellingfouten. Van dit extra hulpmiddel moet melding worden gedaan aan de inspectie en het gebruik moet vermeld worden op het proces-verbaal. Bij het centraal examen Nederlands havo en vwo wordt volgens deze regel bij gebruik van de spellingcontrole de maximale aftrek van 4 punten toegepast.  *Bij elke inzet van de computer geldt tevens onverkort de lijst van toegestane hulpmiddelen. Met andere woorden: ook naast een computerexamen of voor een kandidaat die schrijft op de computer, is o.m. een (papieren) woordenboek toegestaan.*  Op www.hetcvte.nl/publicaties/overig staan aanwijzingen voor scholen die de computer als schrijfgerei willen inzetten. 
 
 ### 4.2  
 
@@ -288,8 +272,6 @@ De regeling legt de toegestane hulpmiddelen vast voor het centraal examen. Er is
 
 ####bij de Regeling rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens VO in 2016 van 17 juni 2014, nummer CVE-14.01696
 
-Treedt in werking per 01-08-2015 
-
 ####Hulpmiddelen kandidaten met een beperking 2016
 
 ### 1  
@@ -302,7 +284,7 @@ Sinds 2013 wordt door het CvE jaarlijks bij het begin van het cursusjaar een bro
 
 ####Toegestane hulpmiddelen 2016
 
-Ten behoeve van de toegankelijkheid van de school- en centrale examens voor leerlingen met een beperking kan de directeur op grond van [artikel 55 van het Eindexamenbesluit](../../../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) aanvullende maatregelen treffen, die passen binnen de kaders van de examinering. Ten behoeve van de centrale examinering biedt het College voor Examens aangepaste examens aan met dezelfde exameneisen, die het mogelijk maken de exameneisen te toetsen bij kandidaten met een beperking. In deze bijlage wordt het aanbod van aangepaste examens beschreven met de daarbij behorende afnameregels. Deze vallen onder, en binnen het kader van, de algemene regels in artikel 55 van het Eindexamenbesluit. De algemene regels zoals verwoord in dit artikel van het Eindexamenbesluit (onder andere omtrent tijdverlenging, melding aan de inspectie en aanwezigheid van een deskundigenverklaring) zijn ook van toepassing bij het gebruik van door het College voor Examens geleverde aangepaste examens. 
+Ten behoeve van de toegankelijkheid van de school- en centrale examens voor leerlingen met een beperking kan de directeur op grond van artikel 55 van het Eindexamenbesluit aanvullende maatregelen treffen, die passen binnen de kaders van de examinering. Ten behoeve van de centrale examinering biedt het College voor Examens aangepaste examens aan met dezelfde exameneisen, die het mogelijk maken de exameneisen te toetsen bij kandidaten met een beperking. In deze bijlage wordt het aanbod van aangepaste examens beschreven met de daarbij behorende afnameregels. Deze vallen onder, en binnen het kader van, de algemene regels in artikel 55 van het Eindexamenbesluit. De algemene regels zoals verwoord in dit artikel van het Eindexamenbesluit (onder andere omtrent tijdverlenging, melding aan de inspectie en aanwezigheid van een deskundigenverklaring) zijn ook van toepassing bij het gebruik van door het College voor Examens geleverde aangepaste examens. 
 
 ####Kandidaten met een visuele beperking
 

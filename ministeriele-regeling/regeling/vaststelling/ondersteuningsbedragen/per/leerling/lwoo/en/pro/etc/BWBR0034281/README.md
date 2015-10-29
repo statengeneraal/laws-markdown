@@ -29,13 +29,13 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ####Vaststelling ondersteuningsbedrag per leerling per 1 januari 2015
 
-Het ondersteuningsbedrag, bedoeld in artikel 8, derde lid, van het Formatiebesluit WVO, dat beschikbaar wordt gesteld voor extra ondersteuning van geïndiceerde leerlingen in het praktijkonderwijs en leerwegondersteunend onderwijs, bedraagt voor het kalenderjaar 2015 per leerling: 
+Het ondersteuningsbedrag, bedoeld in artikel 8, derde lid, van het Formatiebesluit WVO, dat beschikbaar wordt gesteld voor extra ondersteuning van geïndiceerde leerlingen in het praktijkonderwijs en leerwegondersteunend onderwijs, bedraagt voor 2015 per leerling: 
 
-a. € 3.914,32 voor schoolsoortgroep 1;  
+a. € 3.971,08 voor schoolsoortgroep 1;  
 
-b. € 4.222,50 voor schoolsoortgroep 3; en  
+b. € 4.283,73 voor schoolsoortgroep 3; en  
 
-c. € 4.018,48 voor schoolsoortgroep 4.   
+c. € 4.076,75 voor schoolsoortgroep 4.   
 
 ### Artikel  3  
 

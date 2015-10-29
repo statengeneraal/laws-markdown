@@ -1,0 +1,58 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Circulaire toepassing Wet werk en zekerheid bij de Rijksoverheid
+
+####Inleiding
+
+Treedt in werking per 01-11-2015 
+
+In de kabinetsreactie van 29 mei 2015 op de door de Tweede Kamer aangenomen motie van de leden Van Weyenberg, Heerma en Mulder<sup> 1 Tweede Kamer, vergaderjaar 2014–2015, 33 818, nr. 70 </sup> is uiteengezet op welke wijze de Rijksoverheid handelt in de geest van de Wet werk en zekerheid (Wwz). Deze circulaire bevat een toelichting op welke wijze de rijksdienst uitvoering dient te geven aan deze kabinetsreactie.    
+
+####Wet werk en zekerheid
+
+Treedt in werking per 01-11-2015 
+
+De Wwz is een belangrijke uitwerking van het Sociaal Akkoord en heeft als doel de balans tussen de bescherming van flexibele en vaste contracten te herstellen. Deze nieuwe balans voor de arbeidsmarkt wordt bereikt door een herziening van het flexrecht, het ontslagrecht en de Werkloosheidswet. De aanpassingen van de Wwz aangaande het flexrecht en het ontslagrecht zijn doorgevoerd in het Burgerlijk Wetboek (BW). Deze wijzigingen zijn niet op rijksambtenaren van toepassing, omdat rijksambtenaren een eigen rechtspositie hebben, zoals het Algemeen Rijksambtenarenreglement (ARAR). Het BW, inclusief de hierin met de Wwz aangebrachte wijzigingen, is wel van toepassing op de uitzendkrachten en payrollwerknemers bij de Rijksoverheid. Het betreft hier primair de arbeidsverhouding tussen uitlenende organisatie en de uitzendkracht of payrollwerknemer. Uiteraard is voor de Rijksoverheid vanuit het oogpunt van goed werkgeverschap de geest van de Wwz leidend bij de inhuur van en omgang met uitzendkrachten. Datzelfde geldt als het gaat om payrollwerknemers mede in relatie tot het afbouwen van payrolling.    
+
+####Uitgangspunt Rijk
+
+Treedt in werking per 01-11-2015 
+
+Eén van de doelstellingen van de Wwz is het terugdringen van oneigenlijk gebruik van flexibele contractvormen en arbeidsrelaties. De Wwz sluit flexibele contractvormen echter niet uit, omdat de huidige economie vraagt om voldoende flexibiliteit voor zowel werkgevers als werknemers. Ook voor de Rijksoverheid geldt dat voldoende flexibiliteit is gewenst. Op dit moment komen flexibele arbeidsrelaties in diverse vormen voor bij de overheid, zoals ambtenaren met tijdelijke aanstellingen, gedetacheerde ambtenaren, werknemers van detacheringsbureau’s, uitzendkrachten, payrollwerknemers of zzp-ers. Al deze vormen blijven, met uitzondering van payrolling, mogelijk. Op basis van op mijn circulaire van 1 april 2014 moet payrolling worden afgebouwd en mag niet meer voorkomen na 1 mei 2016. Daarnaast moet echter voorkomen worden dat personeel langdurig op basis van flexibele contractvormen wordt te werk gesteld daar waar in feite sprake is van structurele werkzaamheden. Het handelen in de geest van de Wwz bij de Rijksoverheid betekent dan ook dat de inzet van flexibele contractvormen zich beperkt tot tijdelijke werkzaamheden. Voor structurele werkzaamheden geldt dat deze werkzaamheden zullen worden verricht op basis van een aanstelling als ambtenaar. Om een bijzondere reden kan er bij structurele werkzaamheden sprake zijn van een tijdelijke invulling. Onderstaand enkele voorbeelden waar inzet van flexibele contractvormen mogelijk is: 
+
+− werkzaamheden waarbij bij aanvang er een concrete einddatum vaststaat of deze einddatum is verbonden aan oplevering van een specifiek project;  
+
+− als opstap richting een door de medewerker te vervullen functie;  
+
+− vervanging van een afwezige medewerker wegens ziekte, zwangerschap, ouderschapsverlof, etc.;  
+
+− oplossen van -tijdelijke- tekorten in personele capaciteit, zowel in kwantitatieve als in kwalitatieve zin zoals de inzet van specialistische deskundigheid, in geval van piekbelasting, etc.   De inzet van tijdelijk personeel is ook gerechtvaardigd bij verwachte afbouw, vermindering of wijziging van werkzaamheden, zoals bijvoorbeeld bij krimp vanwege een aangekondigde reorganisatie of overgang naar een nieuwe werkwijze. Dat is ook logisch omdat de betreffende werkzaamheden op termijn komen te vervallen. Oneigenlijk gebruik van tijdelijke aanstellingen en uitzendcontracten, zoals opeenvolgende langdurige inzet voor steeds dezelfde (structurele) werkzaamheden past uiteraard niet bij de bedrijfsvoering van de Rijksoverheid. Het hanteren van, of meewerken aan, draaideurconstructies om de ketenbepaling uit het BW of het ARAR te omzeilen, om zodoende het ontstaan van vaste contracten bij de uitzendwerkgever, of vaste aanstelling bij het Rijk, te voorkomen, zijn dan ook niet toegestaan. Onderstaand enige aanvullende toelichting bij enkele specifieke vormen van flexibele contractvormen en arbeidsrelaties.    
+
+####Tijdelijke aanstellingen
+
+Treedt in werking per 01-11-2015 
+
+In artikel 6, tweede lid, van het ARAR zijn de gronden voor een tijdelijke aanstelling van een ambtenaar opgenomen, waarmee dus kan worden voorzien in tijdelijke werkzaamheden. De tijdelijke aanstelling voor een proeftijd<sup> 2 Artikel 6, tweede lid, onderdeel a, ARAR </sup> is bedoeld als een instrument om een nieuw aan te stellen ambtenaar te beoordelen bij de invulling van structurele werkzaamheden. Bij goed functioneren van de ambtenaar volgt een vaste aanstelling. In het geval deze aanstelling na de vastgestelde proeftijd stilzwijgend wordt voortgezet, ontstaat ook een vaste aanstelling. Bij de overige gronden voor een tijdelijke aanstelling wordt bij stilzwijgende voorzetting, geacht deze tijdelijke aanstelling op dezelfde voorwaarden en vastgestelde periode, maar maximaal voor één jaar, te worden voortgezet. Indien deze tijdelijke aanstellingen niet kunnen worden voortgezet, vraagt goed werkgeverschap tijdig de betrokken ambtenaar hierover te informeren. Handelend in de geest van Wwz is tijdig, één maand voor het aflopen van de duur van de tijdelijke aanstelling.    
+
+####Uitzendarbeid
+
+Treedt in werking per 01-11-2015 
+
+Naast de tijdelijke aanstelling als ambtenaar kan voor tijdelijk werk ook gebruik worden gemaakt van uitzendkrachten. Het is echter niet de bedoeling dat via uitzendarbeid langdurige dezelfde (structurele) werkzaamheden worden verricht. Evenzo geldt dit voor werknemers van detacheringsbureau’s.    
+
+####Uitvoering circulaire
+
+Treedt in werking per 01-11-2015 
+
+De uitvoering van deze circulaire vraagt dat bij het aflopen van tijdelijke aanstellingen of contracten met tijdelijk personeel na inwerkingtreding circulaire, dat voorafgaande aan een eventuele (tijdelijke) verlenging van deze aanstelling of contract, een beoordeling plaatsvindt of er sprake is van tijdelijke werkzaamheden of van gerechtvaardigde (zie hiervoor) tijdelijke vervulling van structurele werkzaamheden. Deze beoordeling moet op hoog ambtelijk niveau plaatsvinden. In het geval er sprake is van tijdelijke werkzaamheden of dat de reden voor de tijdelijke vervulling van structurele werkzaamheden nog aanwezig is, dan is de (tijdelijke) verlenging van deze aanstelling of contract geoorloofd. Indien echter uit de beoordeling volgt dat sprake is van structurele werkzaamheden die ten onrechte worden vervuld op uitzendbasis of op basis van een tijdelijke aanstelling, dienen deze werkzaamheden op basis van een aanstelling als ambtenaar te worden ingevuld. Dit hoeft echter niet te betekenen dat de persoon die de werkzaamheden op tijdelijke basis verricht, wordt aangesteld op deze functie. Er moet rekening worden gehouden met de geldende rechtspositieregelgeving en vacaturebeleid, zoals de voorrangspositie voor bepaalde groepen ambtenaren.    
+
+####Payrolling
+
+Treedt in werking per 01-11-2015 
+
+Ten aanzien van payrolling geldt een bijzonder regime dat deels afwijkt van het bovenstaande. Zoals eerder aangegeven moet payrolling worden afgebouwd en mag niet meer voorkomen na 1 mei 2016. In de eerder genoemde kabinetsreactie is daarbij bepaald dat bij de verdere afbouw het Rijk als lijn zal hanteren dat payrollwerknemers die structurele werkzaamheden verrichten door het Rijk in dienst worden genomen. Dit geldt in ieder geval voor de payrollwerknemers met een arbeidsovereenkomst voor onbepaalde tijd. Deze personen dienen een vaste aanstelling als ambtenaar te verkrijgen; dit wil zeggen dat het aflopen van een payrollcontract niet leidt tot een vacature. Ook payrollkrachten met een arbeidsovereenkomst voor bepaalde tijd die structurele werkzaamheden verrichten, komen in beginsel in aanmerking voor een aanstelling als ambtenaar. Anders dan bij payrollers met een arbeidsovereenkomst voor onbepaalde tijd, geldt voor deze groep dat het beëindigen van de payrollovereenkomst leidt tot een vacature, waarbij voor de vervulling rekening wordt gehouden met de geldende rechtspositieregelgeving en vacaturebeleid, zoals de voorrangspositie voor bepaalde groepen ambtenaren. Payrollcontracten voor bepaalde tijd lopen in beginsel van rechtswege af voor 1 mei 2016. Het Rijk zal niet meewerken aan constructies waarbij payrollwerknemers worden vervangen door uitzendkrachten of andere externen als sprake is van structurele werkzaamheden. Ik verzoek u met de inhoud van deze circulaire rekening te houden en daaraan uitvoering te geven.     
+
+De 
+Minister voor Wonen en Rijksdienst, namens deze, 
+O.F.J. Welling  
+Plaatsvervangend directeur-generaal Organisatie en Bedrijfsvoering Rijk    

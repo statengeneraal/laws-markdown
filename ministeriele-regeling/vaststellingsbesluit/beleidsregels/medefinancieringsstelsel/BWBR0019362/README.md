@@ -3,12 +3,12 @@
 ##Besluit van de Minister voor Ontwikkelingssamenwerking van 21 december 2005, nr. DJZ/BR/1308-2005, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Beleidsregels Medefinancieringsstelsel)
 
 De Minister voor Ontwikkelingssamenwerking,  
-Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [artikelen 4.1 tot en met 4.16 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken en de artikelen 4.1 tot en met 4.16 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van [Afdeling 4, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 ](../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md)(Medefinancieringsstelsel) voor de periode 2007 tot en met 2010 gelden de als bijlage bij dit besluit gevoegde beleidsregels. 
+Voor subsidieverlening op grond van Afdeling 4, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Medefinancieringsstelsel) voor de periode 2007 tot en met 2010 gelden de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 

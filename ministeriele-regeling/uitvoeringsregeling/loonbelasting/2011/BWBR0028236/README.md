@@ -455,7 +455,7 @@ bingeval op jaarbasis aanspraken worden verleend voor 19 of minder vakantiedagen
 1.  Ten aanzien van de loon uit tegenwoordige dienstbetrekking genietende werknemer die met betrekking tot een kalenderkwartaal als student of scholier wordt aangemerkt en die schriftelijk, gedagtekend en ondertekend te kennen heeft gegeven dat te zijnen aanzien het kwartaal als loontijdvak wordt aangemerkt, kan, in afwijking in zoverre van artikel 25, eerste lid, van de wet, voor loonbetalingen waarvan het inhoudingstijdstip in dat kwartaal is gelegen, dat kwartaal als loontijdvak worden aangemerkt.   
 2.  Voor de toepassing van het eerste lid wordt met betrekking tot een kalenderkwartaal als student of scholier aangemerkt: 
 
-a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift, een voorwaardelijke gift of een prestatiebeurs op grond van de Wet studiefinanciering 2000 of de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+a. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een gift of een prestatiebeurs op grond van de Wet studiefinanciering 2000 of de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 b. de werknemer die bij het begin van het kalenderkwartaal recht heeft op een tegemoetkoming op grond van hoofdstuk 4 van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten;  
 

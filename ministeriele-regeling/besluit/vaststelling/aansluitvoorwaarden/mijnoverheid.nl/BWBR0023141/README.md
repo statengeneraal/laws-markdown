@@ -3,7 +3,7 @@
 ##Besluit vaststelling aansluitvoorwaarden MijnOverheid.nl
 
 De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gezien het [Besluit beheer Persoonlijke Internetpagina](../../../../../../ministeriele-regeling/besluit/beheer/persoonlijke/internetpagina/BWBR0021970/README.md) van 25 mei 2007;
+Gezien het Besluit beheer Persoonlijke Internetpagina van 25 mei 2007;
 Besluit:    
 
 ### Artikel  1  
@@ -69,7 +69,7 @@ In deze aansluitvoorwaarden en de daarbij behorende bijlagen wordt verstaan onde
 
 17. persoonsgegeven: elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
 
-18. webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van [afdeling 2.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+18. webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van afdeling 2.3 van de Algemene wet bestuursrecht;  
 
 19. website: https://www.mijnoverheid.nl/.   
 
@@ -192,7 +192,7 @@ In deze gebruiksvoorwaarden wordt verstaan onder:
 
 10. persoonsgegeven: elk gegeven betreffende een geïdentificeerde of identificeerbare natuurlijke persoon;  
 
-11. webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van [afdeling 2.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+11. webdienst: een binnen MijnOverheid.nl beschikbare elektronische dienst van de aanbieder ten behoeve van het elektronische berichtenverkeer tussen de gebruiker en de aanbieder in de zin van afdeling 2.3 van de Algemene wet bestuursrecht;  
 
 12. website: http://www.mijnoverheid.nl.   
 
@@ -220,7 +220,7 @@ c. het hergebruik van de eigen persoonsgegevens door de gebruiker binnen MijnOve
 
 d. de gebruiker binnen MijnOverheid.nl archiveringsmogelijkheden bieden van het elektronisch berichtenverkeer met de aanbieder;  
 
-e. het mogelijk maken om aan de gebruiker berichten inzake MijnOverheid.nl te versturen, of vanuit de aanbieder aan de gebruiker berichten inzake webdiensten te versturen.   3. De gebruiker is verantwoordelijk voor de juistheid en volledigheid van de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens. 4. MijnOverheid.nl geeft anderen dan de gebruiker geen inzage in de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens. De door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens worden niet aan derden, zoals aanbieders, verstrekt, tenzij daarvoor een wettelijke grondslag bestaat of tenzij de gebruiker daarvoor ondubbelzinnige toestemming heeft gegeven. 5. BZK kan loggegevens verstrekken aan de aanbieder en kan de aanbieder verzoeken om loggegevens indien dit noodzakelijk is in verband met het goede beheer van MijnOverheid.nl of van de daarbinnen aangeboden webdiensten. 6. De verwerking van persoonsgegevens binnen MijnOverheid.nl vindt plaats overeenkomstig de vigerende wettelijke bepalingen. De verwerking van persoonsgegevens binnen MijnOverheid.nl is op grond van [artikel 27van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) gemeld bij het College bescherming persoonsgegevens en is onder meldingsnummer 1327633 in het register van het College bescherming persoonsgegevens opgenomen. 
+e. het mogelijk maken om aan de gebruiker berichten inzake MijnOverheid.nl te versturen, of vanuit de aanbieder aan de gebruiker berichten inzake webdiensten te versturen.   3. De gebruiker is verantwoordelijk voor de juistheid en volledigheid van de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens. 4. MijnOverheid.nl geeft anderen dan de gebruiker geen inzage in de door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens. De door de gebruiker binnen MijnOverheid.nl bewaarde persoonsgegevens worden niet aan derden, zoals aanbieders, verstrekt, tenzij daarvoor een wettelijke grondslag bestaat of tenzij de gebruiker daarvoor ondubbelzinnige toestemming heeft gegeven. 5. BZK kan loggegevens verstrekken aan de aanbieder en kan de aanbieder verzoeken om loggegevens indien dit noodzakelijk is in verband met het goede beheer van MijnOverheid.nl of van de daarbinnen aangeboden webdiensten. 6. De verwerking van persoonsgegevens binnen MijnOverheid.nl vindt plaats overeenkomstig de vigerende wettelijke bepalingen. De verwerking van persoonsgegevens binnen MijnOverheid.nl is op grond van artikel 27van de Wet bescherming persoonsgegevens gemeld bij het College bescherming persoonsgegevens en is onder meldingsnummer 1327633 in het register van het College bescherming persoonsgegevens opgenomen. 
 
 #### *Artikel 6 Privacy binnen de webdiensten* 
 

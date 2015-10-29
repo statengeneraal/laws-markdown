@@ -3,14 +3,14 @@
 ##Besluit van de Minister voor Ontwikkelingssamenwerking van 19 juni 2006, nr. DVL/0803/2006, tot vaststelling van beleidsregels voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Draagvlakbevordering ontwikkelingssamenwerking)
 
 De Minister voor Ontwikkelingssamenwerking,  
-Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 
-Gelet op de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op de artikelen 9.1 en 9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden voor de periode 2007–2010 de als bijlage bij dit besluit gevoegde beleidsregels. 
+Voor subsidieverlening op grond van de artikelen 9.1 en 9.2 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 gelden voor de periode 2007–2010 de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
@@ -100,7 +100,7 @@ In de taakafbakening tussen het ministerie van Buitenlandse Zaken en NCDO richt 
 
 #### *V. Beschikbaar bedrag* 
 
-De [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) bevat in de [artikelen 9.1](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) en [9.2](../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) de grondslag voor subsidiëring van activiteiten met het oog op meningsvorming, voorlichting en bevordering van het draagvlak voor ontwikkelingssamenwerking NCDO ontvangt op die titel nagenoeg al haar financiële middelen in het raamwerk van een meerjaren-programmafinanciering van het ministerie van Buitenlandse Zaken voor de periode 2007–2010. De ruimte voor dit subsidiekader NCDO is maximaal € 148 miljoen, verdeeld over gelijke jaartranches van maximaal € 37 miljoen. Wanneer de minister daartoe aanleiding ziet, kan dit bedrag worden verhoogd, ten behoeve van de uitvoering van specifieke activiteiten. 
+De Subsidieregeling Ministerie van Buitenlandse Zaken 2006 bevat in de artikelen 9.1 en 9.2 de grondslag voor subsidiëring van activiteiten met het oog op meningsvorming, voorlichting en bevordering van het draagvlak voor ontwikkelingssamenwerking NCDO ontvangt op die titel nagenoeg al haar financiële middelen in het raamwerk van een meerjaren-programmafinanciering van het ministerie van Buitenlandse Zaken voor de periode 2007–2010. De ruimte voor dit subsidiekader NCDO is maximaal € 148 miljoen, verdeeld over gelijke jaartranches van maximaal € 37 miljoen. Wanneer de minister daartoe aanleiding ziet, kan dit bedrag worden verhoogd, ten behoeve van de uitvoering van specifieke activiteiten. 
 
 #### *VI. Toetsing* 
 

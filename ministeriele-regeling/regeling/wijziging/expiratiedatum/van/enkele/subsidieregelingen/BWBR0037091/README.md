@@ -39,4 +39,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking, 
-S.A.M. Dijksma     
+L. Ploumen     

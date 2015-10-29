@@ -15,6 +15,14 @@ Besluit:
 1.  Het regionaal zorgbudget, zoals bedoeld in artikel 77, vierde lid, van de Wet op het voortgezet onderwijs, is bedoeld voor aanvullende ondersteuning voor leerlingen van de scholen in het voortgezet onderwijs. Het regionaal zorgbudget wordt verstrekt aan samenwerkingsverbanden als bedoeld in artikel 1 van de Wet op het voorgezet onderwijs.   
 2.  Het bedrag per leerling voor de berekening van het regionaal zorgbudget voor 2015 bedraagt € 87,–.  
 
+### Artikel  1a  
+
+####Grondslag
+
+Treedt in werking per 01-01-2016 
+
+Deze regeling berust op artikel 8a van het Bekostigingsbesluit WVO. 
+
 ### Artikel  2  
 
 ####Overgangsregeling regionaal zorgbudget

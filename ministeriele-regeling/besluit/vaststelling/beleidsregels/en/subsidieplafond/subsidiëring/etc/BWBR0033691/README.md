@@ -2,14 +2,14 @@
 
 ##Besluit van de minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 11 juli 2013, nr. MinBuza-2013.207602, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (SWMM)
 
-Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 
-Gelet op [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) met het oog op de financiering van activiteiten op het gebied van waterzekerheid en waterveiligheid die strekken tot structurele armoedebestrijding en duurzame economische groei (SWMM) gelden de als bijlage bij dit besluit gevoegde beleidsregels. 
+Voor subsidieverlening op grond van artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met het oog op de financiering van activiteiten op het gebied van waterzekerheid en waterveiligheid die strekken tot structurele armoedebestrijding en duurzame economische groei (SWMM) gelden de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ Voor subsidieverlening op grond van [artikel 4.8 van de Subsidieregeling Ministe
 
 ### Artikel  4  
 
-De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). 
+De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken. 
 
 ### Artikel  5  
 
@@ -139,7 +139,7 @@ Voor de subsidiëring van activiteiten in het kader van SWMM stelt de minister v
 
 * kosten van duurzame kapitaalgoederen (hardware) die ingezet worden in het productieproces, met uitzondering van gebouwen en land.  
 
-* kosten voor technische assistentie, zoals projectmanagement, training, advieskosten, certificering.   Op grond van [artikel 9 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) wordt de subsidie geweigerd indien de subsidie wordt aangevraagd na aanvang van de activiteiten. Voor de goede orde wordt opgemerkt dat activiteiten die vóór de indiening van de aanvraag worden uitgevoerd ter voorbereiding van het project niet leiden tot weigering van de subsidie, maar dat de kosten daarvan niet voor subsidie in aanmerking komen. De vereiste eigen financiële bijdrage van het aanvragende partnerschap is vastgesteld op minimaal 15% van het totale budget. Een groter aandeel eigen bijdrage wordt aangemoedigd. De prijs- kwaliteitverhouding wordt meegewogen tijdens de beoordeling. Een derde deel van de eigen bijdrage mag samengesteld zijn uit andere subsidies (niet afkomstig van het Ministerie van Buitenlandse Zaken) en middelen afkomstig van not-for-profit organisaties. Dit betekent dat minimaal 10% van het totale programma budget uit middelen afkomstig van bedrijven moet bestaan. 
+* kosten voor technische assistentie, zoals projectmanagement, training, advieskosten, certificering.   Op grond van artikel 9 van het Subsidiebesluit Ministerie van Buitenlandse Zaken wordt de subsidie geweigerd indien de subsidie wordt aangevraagd na aanvang van de activiteiten. Voor de goede orde wordt opgemerkt dat activiteiten die vóór de indiening van de aanvraag worden uitgevoerd ter voorbereiding van het project niet leiden tot weigering van de subsidie, maar dat de kosten daarvan niet voor subsidie in aanmerking komen. De vereiste eigen financiële bijdrage van het aanvragende partnerschap is vastgesteld op minimaal 15% van het totale budget. Een groter aandeel eigen bijdrage wordt aangemoedigd. De prijs- kwaliteitverhouding wordt meegewogen tijdens de beoordeling. Een derde deel van de eigen bijdrage mag samengesteld zijn uit andere subsidies (niet afkomstig van het Ministerie van Buitenlandse Zaken) en middelen afkomstig van not-for-profit organisaties. Dit betekent dat minimaal 10% van het totale programma budget uit middelen afkomstig van bedrijven moet bestaan. 
 
 ### 2.6  
 
@@ -177,7 +177,7 @@ De partnerschappen en de voorstellen die in het kader van SWMM voor subsidie in 
 
 ####Leidend bij de beoordeling
 
-De bepalingen van de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen zullen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in deze beleidsregels zijn neergelegd. Daarnaast zijn de beleidsregels van toepassing zoals vastgesteld in het Standaardkader Ontwikkelingssamenwerking<sup> 9 Besluit van de Staatssecretaris van Buitenlandse Zaken van 24 juli 2012, nr. MinBuZa-2012.16922, tot vaststelling van beleidsregels houdende algemene bepalingen van subsidieverlening ten behoeve van activiteiten in het kader van ontwikkelingssamenwerking (Standaardkader ontwikkelingssamenwerking), Stcrt. 2012, nr. 15896. </sup>. Indien de beleidsregels voor SWMM afwijken van het Standaardkader Ontwikkelingssamenwerking hebben de beleidsregels voor SWMM voorrang. De beoordeling van de aanvragen en de toekenning en verdeling van beschikbare middelen vindt plaats via een tender: van alle aanvragen die voldoen aan de maatstaven van deze beleidsregels, wordt de kwaliteit beoordeeld volgens dezelfde criteria. De aanvragen die het beste voldoen aan de criteria komen als eerste voor subsidie in aanmerking. De minister besluit tot subsidieverlening overeenkomstig deze rangorde. 
+De bepalingen van de Algemene wet bestuursrecht, het Subsidiebesluit Ministerie van Buitenlandse Zaken en de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen zullen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in deze beleidsregels zijn neergelegd. Daarnaast zijn de beleidsregels van toepassing zoals vastgesteld in het Standaardkader Ontwikkelingssamenwerking<sup> 9 Besluit van de Staatssecretaris van Buitenlandse Zaken van 24 juli 2012, nr. MinBuZa-2012.16922, tot vaststelling van beleidsregels houdende algemene bepalingen van subsidieverlening ten behoeve van activiteiten in het kader van ontwikkelingssamenwerking (Standaardkader ontwikkelingssamenwerking), Stcrt. 2012, nr. 15896. </sup>. Indien de beleidsregels voor SWMM afwijken van het Standaardkader Ontwikkelingssamenwerking hebben de beleidsregels voor SWMM voorrang. De beoordeling van de aanvragen en de toekenning en verdeling van beschikbare middelen vindt plaats via een tender: van alle aanvragen die voldoen aan de maatstaven van deze beleidsregels, wordt de kwaliteit beoordeeld volgens dezelfde criteria. De aanvragen die het beste voldoen aan de criteria komen als eerste voor subsidie in aanmerking. De minister besluit tot subsidieverlening overeenkomstig deze rangorde. 
 
 ### 3.2  
 

@@ -10,8 +10,6 @@ Besluit:
 
 ####Gegevenslevering door lokale bibliotheken
 
-Treedt in werking per 01-01-2015 
-
 1.  Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een lokale bibliotheek jaarlijks gegevens over het voorgaande kalenderjaar aan.   
 2.  De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde bijlage I en zijn onderverdeeld in de volgende categorieën: 
 
@@ -31,8 +29,6 @@ f. baten en lasten.
 
 ####Gegevenslevering landelijke digitale bibliotheek
 
-Treedt in werking per 01-01-2015 
-
 1.  Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert de Koninklijke Bibliotheek jaarlijks gegevens over de landelijke digitale bibliotheek over het voorgaande kalenderjaar aan.   
 2.  De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde bijlage II en zijn onderverdeeld in de volgende categorieën: 
 
@@ -45,8 +41,6 @@ c. lidmaatschap.
 ### Artikel  3  
 
 ####Gegevenslevering provinciale ondersteuningsinstellingen
-
-Treedt in werking per 01-01-2015 
 
 1.  Ten behoeve van de beleidsontwikkeling door de Minister van Onderwijs, Cultuur en Wetenschap levert een provinciale ondersteuningsinstelling jaarlijks gegevens over het voorgaande kalenderjaar aan.   
 2.  De aan te leveren gegevens staan vermeld in de bij deze regeling gevoegde bijlage III en zijn onderverdeeld in de volgende categorieën: 
@@ -61,8 +55,6 @@ c. overige ondersteuningsactiviteiten.
 
 ####Aanleverdatum
 
-Treedt in werking per 01-01-2015 
-
 1.  De lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek leveren de gegevens jaarlijks voor 1 mei aan.   
 2.  De eerste aanlevering van de gegevens door de lokale bibliotheken en de Koninklijke Bibliotheek vindt plaats in het jaar 2016 en de eerste aanlevering door de provinciale ondersteuningsinstellingen vindt plaats in 2017.  
 
@@ -70,23 +62,17 @@ Treedt in werking per 01-01-2015
 
 ####Wijze van aanlevering
 
-Treedt in werking per 01-01-2015 
-
 De gegevens worden digitaal aangeleverd op een daartoe bestemde wijze op de website van de Koninklijke Bibliotheek. 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  7  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling gegevenslevering openbare bibliotheekvoorzieningen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -98,8 +84,6 @@ M. Bussemaker
 ### Bijlage  I  
 
 ####: Lokale bibliotheken
-
-Treedt in werking per 01-01-2015 
 
 De volgende gegevens worden aangeleverd door lokale bibliotheken. Voor zover niet anders vermeld gaat het bij aantallen om de stand op 31 december van het jaar waarover de gegevens worden aangeleverd. 
 
@@ -143,8 +127,6 @@ Inkomsten gebruikers Inkomsten specifieke dienstverlening Inkomsten specifieke d
 
 ####: Landelijke digitale bibliotheek
 
-Treedt in werking per 01-01-2015 
-
 De volgende gegevens worden aangeleverd door de Koninklijke Bibliotheek. Voor zover niet anders vermeld gaat het bij aantallen om de stand op 31 december van het jaar waarover de gegevens worden aangeleverd. 
 
 ### a  
@@ -166,6 +148,5 @@ Uitleningen: e-boeken jeugd (fictie; exclusief verlenging) Uitleningen: e-boeken
 Aantal accounts jeugd (t/m 17 jaar) Aantal accounts volwassenen Aantal actieve accounts jeugd (t/m 17 jaar) Aantal actieve accounts volwassenen Aantal nieuwe accounts jeugd (t/m 17 jaar) Aantal nieuwe accounts volwassenen Aantal vervallen accounts jeugd (t/m 17 jaar) Aantal vervallen accounts volwassenen 
 
 ###Bijlage III 
-Treedt in werking per 01-01-2015 
 
 Niet opgenomen.

@@ -2,16 +2,16 @@
 
 ##Regeling modellen keuringsrapport 2012
 
-Gelet op [artikel 29, eerste en tweede lid, van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);
+Gelet op artikel 29, eerste en tweede lid, van de Regeling erkenning en keuringsbevoegdheid APK;
 Besluit:    
 
 ### Artikel  1  
 
-Het model keuringsrapport als bedoeld in [artikel 29, tweede lid, van de Regeling erkenning en keuringsbevoegdheid APK](../../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md) wordt vastgesteld overeenkomstig bijlage 1. 
+Het model keuringsrapport als bedoeld in artikel 29, tweede lid, van de Regeling erkenning en keuringsbevoegdheid APK wordt vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 
-Het model vervangend keuringsbewijs als bedoeld in [artikel 80, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt vastgesteld overeenkomstig bijlage 2. 
+Het model vervangend keuringsbewijs als bedoeld in artikel 80, eerste lid, van de Wegenverkeerswet 1994 wordt vastgesteld overeenkomstig bijlage 2. 
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ b. ra2: onderdelen, niet zijnde onderdelen van het brandstofsysteem, het remsyst
 
 ### Artikel  5  
 
-De [Regeling modellen keuringsrapport 2010](../../../../../../zbo/regeling/modellen/keuringsrapport/2010/BWBR0027079/README.md), Stcrt 2010, nr. 677 van 19 januari 2010 wordt ingetrokken met ingang van 1 april 2012. 
+De Regeling modellen keuringsrapport 2010, Stcrt 2010, nr. 677 van 19 januari 2010 wordt ingetrokken met ingang van 1 april 2012. 
 
 ### Artikel  6  
 
