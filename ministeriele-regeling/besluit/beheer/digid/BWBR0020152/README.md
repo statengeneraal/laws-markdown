@@ -6,7 +6,7 @@ De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties,  Besluit:
 
 ### Artikel  1  
 
-De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties (voor deze de Directeur Generaal Management Openbare Sector) is belast met de zorg voor de instandhouding van de overheidstoegangsvoorziening DigiD, bedoeld in [artikel 1 van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening](../../../../../AMvB/tijdelijk/besluit/nummergebruik/overheidstoegangsvoorziening/BWBR0017449/README.md). 
+De Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties (voor deze de Directeur Generaal Management Openbare Sector) is belast met de zorg voor de instandhouding van de overheidstoegangsvoorziening DigiD, bedoeld in artikel 1 van het Tijdelijk besluit nummergebruik overheidstoegangsvoorziening. 
 
 ### Artikel  2  
 

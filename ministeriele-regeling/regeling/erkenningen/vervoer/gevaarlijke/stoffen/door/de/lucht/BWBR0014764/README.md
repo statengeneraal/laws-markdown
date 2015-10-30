@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht) 
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 6.55, zesde lid, van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 9, derde lid, van het Besluit vervoer gevaarlijke stoffen door de lucht](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0013514/README.md).
+Gelet op artikel 6.55, zesde lid, van de Wet luchtvaart en artikel 9, derde lid, van het Besluit vervoer gevaarlijke stoffen door de lucht.
 Besluit:      
 ### Hoofdstuk  1 
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 a. *minister:* Minister van Infrastructuur en Milieu;  
 
-b. *certificaat:* een door een erkende opleidingsinstelling als bedoeld in [artikel 1, onderdeel a, van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht](../../../../../../../../../../ministeriele-regeling/regeling/erkenning/opleidingsinstellingen/en/examinering/vervoer/etc/BWBR0014765/README.md) afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 9 van die regeling](../../../../../../../../../../ministeriele-regeling/regeling/erkenning/opleidingsinstellingen/en/examinering/vervoer/etc/BWBR0014765/README.md).    
+b. *certificaat:* een door een erkende opleidingsinstelling als bedoeld in artikel 1, onderdeel a, van de Regeling erkenning opleidingsinstellingen en examinering vervoer gevaarlijke stoffen door de lucht afgegeven certificaat inzake het vervoer van gevaarlijke stoffen door de lucht als bedoeld in artikel 9 van die regeling.    
 
 ### Hoofdstuk 2 
 
@@ -58,9 +58,9 @@ i. indien van toepassing een afschrift van de vigerende vergunning ingevolge de 
 
 ### Artikel  4  
 
-De minister verleent een erkenning als bedoeld in [artikel 6.55 van de wet](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) indien de aanvrager aantoont, dat hij: 
+De minister verleent een erkenning als bedoeld in artikel 6.55 van de wet indien de aanvrager aantoont, dat hij: 
 
-a. handelingen verricht verband houdend met het vervoer van gevaarlijke stoffen door de lucht als bedoeld in [artikel 6.51 van de wet](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+a. handelingen verricht verband houdend met het vervoer van gevaarlijke stoffen door de lucht als bedoeld in artikel 6.51 van de wet;  
 
 b. per vestiging voortdurend over tenminste één medewerker beschikt die in het bezit is van een geldig certificaat;  
 
@@ -125,4 +125,4 @@ M.H.  Schultz van Haegen
 
 ###*Beschikking*
 
-* Inspectie Verkeer en Waterstaat * Datum Date Nummer Number Onderwerp Subject Bewijs van erkenning Certificate of recognition Onderstaand bedrijf wordt erkend; en toegestaan om de werkzaamheden te verrichten van afzender/vrachtagent/grondafhandelaar/luchtvaartmaatschappij/E-statushouder als bedoeld in [hoofdstuk 6 titel 6.5 artikel 6.55 van de Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [paragraaf 4, artikel 9 van het Besluit vervoer gevaarlijke stoffen door de lucht](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0013514/README.md) Hereby the folllowing company will be recognised to perform the activities of a shipper/freightforwarder/cargo groundhandler/aircarrier/E-holder as specified in the Aviation Act [chapter 6 title 6.5 article 6.55](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) and the transport of dangerous goods by air decree, [paragraphe 4, article 9](../../../../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/door/de/lucht/BWBR0013514/README.md) Bedrijf Company: Tradename: Handelsnaam Erkenning Recognition: Datum van afgifte Date of issue: De Minister van Verkeer en Waterstaat, The Minister of Transport, Public Works and Watermanagement, on behalf, 
+* Inspectie Verkeer en Waterstaat * Datum Date Nummer Number Onderwerp Subject Bewijs van erkenning Certificate of recognition Onderstaand bedrijf wordt erkend; en toegestaan om de werkzaamheden te verrichten van afzender/vrachtagent/grondafhandelaar/luchtvaartmaatschappij/E-statushouder als bedoeld in hoofdstuk 6 titel 6.5 artikel 6.55 van de Wet luchtvaart en paragraaf 4, artikel 9 van het Besluit vervoer gevaarlijke stoffen door de lucht Hereby the folllowing company will be recognised to perform the activities of a shipper/freightforwarder/cargo groundhandler/aircarrier/E-holder as specified in the Aviation Act chapter 6 title 6.5 article 6.55 and the transport of dangerous goods by air decree, paragraphe 4, article 9 Bedrijf Company: Tradename: Handelsnaam Erkenning Recognition: Datum van afgifte Date of issue: De Minister van Verkeer en Waterstaat, The Minister of Transport, Public Works and Watermanagement, on behalf, 

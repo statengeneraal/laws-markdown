@@ -214,16 +214,6 @@ c. samenwerkende bevoegde gezagsorganen die een gezamenlijke ERD-som hebben van 
 5.  Een bevoegd gezag overlegt bij de aanvraag als bedoeld in het eerste lid, een door de PMR of, indien sprake is van een PGMR, door de PGMR ondertekende verklaring waaruit blijkt dat de aanvraag met instemming van de PMR dan wel PGMR is gedaan. Indien deze verklaring bij de aanvraag ontbreekt, neemt het Vervangingsfonds de aanvraag niet in behandeling.   
 6.  Binnen acht weken na ontvangst van de aanvraag als bedoeld in het eerste lid, besluit het Vervangingsfonds of het eigenrisicodragerschap wordt verleend.  
 
-### Artikel  7  
-
-####Wijzigingen bevoegd gezag ERD-som van ten minste 20 miljoen euro
-
-1.  Een bevoegd gezag dat eigenrisicodrager is, informeert het Vervangingsfonds over wijzigingen die optreden als gevolg van fusie of splitsing van dit bevoegd gezag.   
-2.  Het bevoegd gezag informeert het Vervangingsfonds uiterlijk binnen 8 weken voordat de wijzigingen, bedoeld in het eerste lid, zullen plaatsvinden.   
-3.  De wijzigingen dan wel het niet tijdig informeren door het bevoegd gezag kunnen het Vervangingsfonds aanleiding geven het eigenrisicodragerschap te herzien.   
-4.  Na fusie of splitsing van het bevoegd gezag dat eigenrisicodrager is, toetst het Vervangingsfonds opnieuw ten aanzien van de ERD-som, genoemd in artikel 6, vierde lid en de instemming van de PMR dan wel de PGMR als bedoeld in artikel 6, vijfde lid. Resteert een ERD-som van 20 miljoen euro of meer, dan blijft het bevoegd gezag eigenrisicodrager.   
-5.  Indien na de toetsing als bedoeld in het vierde lid een ERD-som resteert van minder dan 20 miljoen euro, dan verliest het bevoegd gezag het eigenrisicodragerschap met ingang van de eerste dag van het daaropvolgende schooljaar.  
-
 ### Artikel  8  
 
 ####Aanvraag bevoegd gezag met een ERD-som lager dan 20 miljoen euro
@@ -247,15 +237,6 @@ d. het bevoegd gezag toont aan:
 5.  Het bestuur stelt per kalenderjaar het ziekteverzuimpercentage als bedoeld in het vierde lid, onder d, onder 1° vast en baseert dit percentage op het gemiddelde ziekteverzuimpercentage in het primair onderwijs in Nederland van twee kalenderjaren hieraan voorafgaand.   
 6.  Het Vervangingsfonds toetst het verzuimpercentage van het bevoegd gezag als bedoeld in het vierde lid, onder d op basis van de door het bevoegd gezag aan DUO aangeleverde gegevens.   
 7.  Binnen acht weken na ontvangst van de aanvraag als bedoeld in het eerste lid, besluit het Vervangingsfonds of het eigenrisicodragerschap wordt verleend.  
-
-### Artikel  9  
-
-####Wijzigingen bevoegd gezag ERD-som lager dan 20 miljoen euro
-
-1.  Een bevoegd gezag dat eigenrisicodrager is, informeert het Vervangingsfonds over wijzigingen die optreden als gevolg van fusie of splitsing van dit bevoegd gezag.   
-2.  Het bevoegd gezag informeert het Vervangingsfonds uiterlijk binnen 8 weken voordat de wijzigingen, bedoeld in het eerste lid, zullen plaatsvinden.   
-3.  De wijzigingen dan wel het niet tijdig informeren door het bevoegd gezag kunnen het Vervangingsfonds aanleiding geven het eigenrisicodragerschap te herzien.   
-4.  Na fusie of splitsing van het bevoegd gezag dat eigenrisicodrager is, toetst het Vervangingsfonds opnieuw ten aanzien van de voorwaarden, genoemd in artikel 8, vierde lid.  
 
 ### Artikel  10  
 
@@ -285,31 +266,6 @@ f. maatregelen die zijn genomen ter borging van de instandhouding van de samenwe
 10.  Binnen acht weken na ontvangst van de aanvraag, besluit het Vervangingsfonds of het eigenrisicodragerschap wordt verleend.   
 11.  Voorafgaand aan de aanvraag, kunnen samenwerkende bevoegde gezagsorganen bij het Vervangingsfonds advies aanvragen of de vereiste onderwerpen in het concept-samenwerkingsplan compleet zijn en voldoende zijn uitgewerkt.   
 12.  De aanvraag voor het advies, genoemd in het elfde lid, wordt uiterlijk 15 april van het betreffende kalenderjaar bij het Vervangingsfonds ingediend. Binnen twee weken na ontvangst van de aanvraag ontvangt de aanvrager een advies. Aan dit advies kunnen geen rechten worden ontleend.  
-
-### Artikel  11  
-
-####Wijzigingen samenwerkende bevoegde gezagsorganen
-
-1.  De samenwerkende bevoegde gezagsorganen die eigenrisicodrager zijn, informeren het Vervangingsfonds over wijzigingen die optreden ten aanzien van de samenwerkende bevoegde gezagsorganen. Deze wijzigingen kunnen betrekking hebben op: 
-
-a. de samenstelling van de samenwerkende bevoegde gezagsorganen als gevolg van uittreding;  
-
-b. de samenstelling van de samenwerkende bevoegde gezagsorganen als gevolg van toetreding;  
-
-c. de wijziging in het samenwerkingsplan van de samenwerkende bevoegde gezagsorganen.     
-2.  De samenwerkende bevoegde gezagsorganen informeren het Vervangingsfonds uiterlijk binnen 8 weken voordat de wijzigingen, bedoeld in het eerste lid, zullen plaatsvinden.   
-3.  De wijzigingen dan wel het niet tijdig informeren door de samenwerkende bevoegde gezagsorganen kunnen het Vervangingsfonds aanleiding geven het eigenrisicodragerschap te herzien.   
-4.  Bij de wijziging als bedoeld in het eerste lid, onder a, vindt opnieuw toetsing plaats ten aanzien van de gezamenlijke ERD-som van de samenwerkende bevoegde gezagsorganen. Resteert een gezamenlijke ERD-som van 20 miljoen euro of meer, dan blijven de bevoegde gezagsorganen die samenwerken eigenrisicodrager. Resteert een ERD-som van minder dan 20 miljoen euro, dan vervalt bij deze bevoegde gezagsorganen het eigenrisicodragerschap per de eerste dag van het nieuwe schooljaar.   
-5.  Bij de wijziging als bedoeld in het eerste lid, onder a, vindt ten aanzien van het bevoegd gezagsorgaan dat als gevolg van uittreding geen deel meer uitmaakt van de samenwerkende bevoegde gezagsorganen opnieuw toetsing plaats ten aanzien van de voorwaarden als bedoeld in artikel 6 dan wel artikel 8.   
-6.  Bij de wijziging als bedoeld in het eerste lid, onder b, overlegt ieder toetredend bevoegd gezag een daarop gerichte aanvraag bij het Vervangingsfonds. Deze aanvraag gaat vergezeld van: 
-
-a. een door de PMR of, indien sprake is van een PGMR, door de PGMR van elk van de deelnemende bevoegde gezagsorganen ondertekende verklaring waaruit blijkt dat de aanvraag met instemming van de PMR dan wel PGMR is gedaan;  
-
-b. de vereiste standaard kengetallen zoals genoemd in bijlage 1 van dit Reglement;  
-
-c. een ondertekende verklaring van samenwerkende bevoegde gezagsorganen dat het samenwerkingsplan ongewijzigd is;  
-
-d. een ondertekende verklaring van de samenwerkende bevoegde gezagsorganen dat deze toetreding toestaan volgens het geldende samenwerkingsplan.   Het Vervangingsfonds toetst deze aanvraag aan bovenstaande voorwaarden. Indien niet aan deze voorwaarden is voldaan, wordt aan het bevoegde gezagsorgaan dat toe wil treden het eigenrisicodragerschap niet verleend.  
 
 ### Artikel  12  
 
@@ -344,12 +300,6 @@ d. een ondertekende verklaring van de samenwerkende bevoegde gezagsorganen dat d
 ### §  3.1  
 
 ####Premie
-
-### Artikel  15  
-
-####Premie
-
-De door het bevoegde gezag verschuldigde premie is gelijk aan het premiepercentage vermenigvuldigd met de premiegrondslag. 
 
 ### Artikel  16  
 
@@ -765,16 +715,6 @@ Een bevoegd gezag kan bij het bestuur een aanvraag indienen om in aanmerking te 
 1.  In de bijlagen die onderdeel uitmaken van dit Reglement, zijn nadere voorschriften omschreven met betrekking tot informatie, administratie, bewaarplicht en de uitvoeringstechnische aspecten van dit Reglement.   
 2.  Het bevoegd gezag voert een administratie met betrekking tot het bepaalde in dit Reglement, of laat deze administratie voeren.   
 3.  Het bevoegd gezag bewaart de administratie, genoemd in het tweede lid, gedurende een periode van vijf kalenderjaren en stelt deze ter beschikking van controleurs die het bestuur daartoe heeft aangewezen.  
-
-### Artikel  41  
-
-####Toepassing Reglement
-
-1.  Indien het bevoegd gezag niet dan wel niet tijdig voldoet aan de bepalingen in het Reglement dan wel deze bepalingen onjuist toepast, en als gevolg hiervan ten onrechte bekostiging door het Vervangingsfonds heeft plaatsgevonden, vordert het bestuur het ten onrechte uitgekeerde bedrag terug als onverschuldigde betaling.   
-2.  Indien het bevoegd gezag niet dan wel niet tijdig voldoet aan de bepalingen in het Reglement dan wel deze bepalingen onjuist toepast, en als gevolg hiervan geen of te weinig premie heeft afgedragen, vordert het bestuur de ten onrechte niet of te weinig afgedragen premie in.   
-3.  Een vordering als bedoeld in het eerste en het tweede lid kan worden verrekend met andere door het Vervangingsfonds aan het bevoegd gezag verschuldigde bedragen.   
-4.  Een vordering op grond van het eerste en tweede lid van dit artikel wordt vermeerderd met een administratieve heffing ter hoogte van 10 procent van de vordering. De omvang van de administratieve heffing is beperkt tot maximaal de kosten van de bij het bevoegd gezag uitgevoerde controle.   
-5.  In afwijking van het vierde lid legt het Vervangingsfonds de administratieve heffing niet eerder op dan nadat het Vervangingsfonds het bevoegd gezag eerst een schriftelijke waarschuwing heeft gegeven. Indien het bevoegd gezag niet eerder een schriftelijk waarschuwing van het Vervangingsfonds heeft ontvangen, legt het Vervangingsfonds de administratieve heffing als bedoeld in het vierde lid op.  
 
 ### Artikel  42  
 

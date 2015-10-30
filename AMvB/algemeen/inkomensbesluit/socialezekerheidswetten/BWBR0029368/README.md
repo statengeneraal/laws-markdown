@@ -510,8 +510,7 @@ c. een wettelijke buitenlandse uitkering wegens arbeidsongeschiktheid.
 a. door de uitkeringsgerechtigde reeds voor het intreden van de werkloosheid werd ontvangen naast de dienstbetrekking waaruit hij werkloos is geworden; of  
 
 b. door de uitkeringsgerechtigde na het intreden van de werkloosheid wordt ontvangen uit werkzaamheden die voor het intreden van de werkloosheid reeds werden verricht naast de dienstbetrekking waaruit de werkloosheid is ontstaan of een dienstbetrekking waarvoor de dienstbetrekking waaruit de werkloosheid is ontstaan in de plaats is getreden.     
-7.  In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend een uitkering die door de uitkeringsgerechtigde reeds werd ontvangen voorafgaand aan het ontstaan van de dienstbetrekking waaruit het recht op uitkering op grond van de Werkloosheidswet is ontstaan.   
-8.  In afwijking van het vierde lid, onderdeel a, wordt niet tot inkomen in verband met arbeid gerekend het inkomen dat op grond van de Werkloosheidswet reeds in aanmerking genomen is voor een uitkering op grond van de Werkloosheidswet. 
+7.  In afwijking van het vierde lid, onderdeel a, wordt niet tot het inkomen in verband met arbeid gerekend een uitkering die door de uitkeringsgerechtigde wordt ontvangen en die betrekking heeft op een andere dienstbetrekking dan de dienstbetrekking, waaruit de werkloosheid is ontstaan en die dienstbetrekkingen op enig moment naast elkaar werden vervuld.  
 
 ### Artikel  3:6  
 

@@ -170,8 +170,6 @@ c. dat voor 5 juli 2006 in dienst was bij een bevoegd gezag en door het Rijk we
 
 ####Aansluiting bij het Vervangingsfonds
 
-Treedt in werking per 31-10-2015 
-
 ### §  2.1  
 
 ####Wettelijk verplichte aansluiting en vrijwillige aanmelding
@@ -219,8 +217,6 @@ Treedt in werking per 01-01-2016
 
 ####Eigenrisicodragerschap
 
-Treedt in werking per 31-10-2015 
-
 ### Artikel  5  
 
 ####Doelgroep
@@ -248,8 +244,6 @@ Indien aan een bevoegd gezag de status van eigenrisicodrager wordt verleend, kom
 
 ####Aanvraag bevoegd gezag ERD-som van ten minste 20 miljoen euro
 
-Treedt in werking per 31-10-2015 
-
 1.  Een bevoegd gezag kan bij het Vervangingsfonds een schriftelijke aanvraag indienen tot verlening van het eigenrisicodragerschap.   
 2.  Het Vervangingsfonds verleent het eigenrisicodragerschap per 1 januari.   
 3.  Uiterlijk acht weken voorafgaand aan deze datum dient de aanvraag door het Vervangingsfonds te zijn ontvangen.   
@@ -272,8 +266,6 @@ Treedt in werking per 01-01-2016
 ### Artikel  9  
 
 ####Aanvraag bevoegd gezag met een ERD-som lager dan 20 miljoen euro
-
-Treedt in werking per 31-10-2015 
 
 1.  Een bevoegd gezag kan bij het Vervangingsfonds een schriftelijke aanvraag indienen tot verlening van het eigenrisicodragerschap.   
 2.  Het Vervangingsfonds verleent het eigenrisicodragerschap per 1 januari.   
@@ -309,8 +301,6 @@ Treedt in werking per 01-01-2016
 ### Artikel  11  
 
 ####Aanvraag samenwerkende bevoegde gezagsorganen
-
-Treedt in werking per 31-10-2015 
 
 1.  Samenwerkende bevoegde gezagsorganen kunnen bij het Vervangingsfonds een schriftelijke aanvraag indienen tot verlening van het eigenrisicodragerschap.   
 2.  Het Vervangingsfonds verleent het eigenrisicodragerschap per 1 januari.   
@@ -387,8 +377,6 @@ Treedt in werking per 01-01-2016
 ### Artikel  15  
 
 ####Aanvraag eigenrisicodragerschap per 1 januari 2016
-
-Treedt in werking per 31-10-2015 
 
 1.  In afwijking van artikel 7, derde lid, artikel 9, derde lid en artikel 11, derde lid, geldt voor een aanvraag voor het eigenrisicodragerschap per 1 januari 2016 het bepaalde onder a en b. 
 
@@ -822,13 +810,9 @@ c. voor de toepassing van de bonus-malus regeling als bedoeld in paragraaf 3.2 v
 
 ####Financiële varianten
 
-Treedt in werking per 31-10-2015 
-
 ### §  5.1  
 
 ####Algemene bepalingen
-
-Treedt in werking per 31-10-2015 
 
 ### Artikel  40  
 
@@ -841,8 +825,6 @@ Dit hoofdstuk is uitsluitend van toepassing op bevoegde gezagsorganen die eigenr
 ### Artikel  41  
 
 ####Aanmelding financiële variant
-
-Treedt in werking per 31-10-2015 
 
 1.  Een bevoegd gezag waaraan het Vervangingsfonds de status van eigenrisicodrager heeft verleend, kan zich aanmelden voor één van de financiële varianten als bedoeld in artikel 47.   
 2.  De aanmelding kan alleen door een individueel bevoegd gezag plaatsvinden.   

@@ -623,7 +623,7 @@ i. de vastgestelde wachttermijn.
 
 ####Aantekening door de dierenarts in administratie houder van dieren
 
-1.  Onverminderd de artikelen 5.16 en 5.19 van de Regeling diergeneesmiddelen en artikel 5.2 tekent de dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het Besluit diergeneesmiddelen bij toepassing van een diergeneesmiddel als bedoeld in de artikelen 2.13 en 4.12 van de Regeling diergeneesmiddelen in de administratie van de houder van dieren aan: 
+1.  Onverminderd artikel 5.16 van de Regeling diergeneesmiddelen en de artikelen 5.1 en 5.2 tekent de dierenarts en, in voorkomend geval, een andere persoon als bedoeld in artikel 5.8, eerste lid, onderdeel c, van het Besluit diergeneesmiddelen bij toepassing van een diergeneesmiddel als bedoeld in de artikelen 2.13 en 4.12 van de Regeling diergeneesmiddelen in de administratie van de houder van dieren aan: 
 
 a. de datum van de behandeling met diergeneesmiddelen voor zover door de dierenarts uitgevoerd;  
 
@@ -647,7 +647,7 @@ De dierenarts informeert de houder van dieren:
 
 a. voorafgaand aan de toepassing van een diergeneesmiddel als bedoeld in de artikelen 5.1 en 5.2 van het besluit over de toepassing van middelen in afwijking van de in de vergunning voor het in de handel brengen vermelde toepassing of over de ex tempore bereiding en toepassing van een diergeneesmiddel en over de mogelijk daaraan verbonden risico’s.  
 
-b. onverminderd artikel 5.16 van de Regeling diergeneesmiddelen en de artikelen 5.2 en 5.3, bij aflevering of bij het voorschrijven van diergeneesmiddelen als bedoeld in de artikelen 2.13 en 4.12 van het Besluit diergeneesmiddelen, schriftelijk, indien de diergeneesmiddelen bestemd zijn voor dieren, die gehouden worden voor de productie van levensmiddelen over: 
+b. onverminderd artikel 5.16 van de Regeling diergeneesmiddelen en de artikelen 5.2 en 5.3, bij aflevering of bij het voorschrijven van diergeneesmiddelen als bedoeld in de artikelen 2.13 en 4.12 van de Regeling diergeneesmiddelen, schriftelijk, indien de diergeneesmiddelen bestemd zijn voor dieren, die gehouden worden voor de productie van levensmiddelen over: 
 
 1º. naam en hoeveelheid van het afgeleverde diergeneesmiddel, en  
 
@@ -749,7 +749,7 @@ c. de datum van aflevering of toepassing van het diergeneesmiddel;
 
 d. de naam en het registratienummer van het diergeneesmiddel;  
 
-e. de EAN-code van het diergeneesmiddel;  
+e. indien beschikbaar, de EAN-code van het diergeneesmiddel;  
 
 f. de afgeleverde of toegepaste hoeveelheid van het diergeneesmiddel;  
 
