@@ -9,13 +9,9 @@ Besluit:
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  1  
 
 ####Definities
-
-Treedt in werking per 01-11-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -55,13 +51,9 @@ In deze regeling wordt verstaan onder:
 
 ####Voorzieningen voor elektronisch berichtenverkeer en informatieverschaffing
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  2  
 
 ####Gebruik MijnOverheid
-
-Treedt in werking per 01-11-2015 
 
 1.  De Minister maakt een MijnOverheid-account aan voor een ieder die: 
 
@@ -84,13 +76,9 @@ d. beschikt of kan beschikken over een DigiD.
 
 ####Voorzieningen voor elektronische authenticatie
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  3  
 
 ####Gebruik DigiD
-
-Treedt in werking per 01-11-2015 
 
 1.  DigiD kan alleen door de beoogde gebruiker worden aangevraagd. Een aanvraag geschiedt via www.digid.nl of, indien het tweede lid onder c, van toepassing is, via www.svb.nl.   
 2.  DigiD wordt slechts verstrekt aan een beoogde gebruiker die: 
@@ -111,8 +99,6 @@ c. als niet-ingezetene is ingeschreven in de basisregistratie personen, een burg
 
 ####BSN-koppelregister
 
-Treedt in werking per 01-11-2015 
-
 1.  De gebruiker van een privaat authenticatiemiddel, die dit middel wil gebruiken voor de afname van diensten in het publieke domein, maakt dit kenbaar aan de private authenticatiedienst van zijn keuze.   
 2.  De private authenticatiedienst die de mogelijkheid, bedoeld in het eerste lid, biedt, schakelt het BSN-Koppelregister in, teneinde het voor gebruiker mogelijk te maken met zijn authenticatiemiddel toegang te verkrijgen tot elektronische diensten in het publieke domein.  
 
@@ -120,13 +106,9 @@ Treedt in werking per 01-11-2015
 
 ####Voorzieningen voor elektronische registratie van machtigingen
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  5  
 
 ####Gebruik DigiD Machtigen
-
-Treedt in werking per 01-11-2015 
 
 1.  Een vertegenwoordigde of beoogd gemachtigde kan een aanvraag tot registratie van een machtiging doen via machtigen.digid.nl of via een afnemer die het aanvragen faciliteert.   
 2.  De aanvraag en registratie van een machtiging kunnen betrekking hebben op een of meerdere diensten van een of meerdere afnemers en kennen een vooraf bepaalde geldigheidsduur.   
@@ -141,13 +123,9 @@ Treedt in werking per 01-11-2015
 
 ####Werking, beveiliging en betrouwbaarheid
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  6  
 
 ####Veiligheid
-
-Treedt in werking per 01-11-2015 
 
 1.  Teneinde de veiligheid, betrouwbaarheid, beschikbaarheid en continuïteit van MijnOverheid, DigiD, DigiD Machtigen en het BSN-Koppelregister te waarborgen, neemt de Minister passende maatregelen om inbreuken op en aantastingen van de beveiliging en de processen van de voorzieningen te voorkomen. Hierbij wordt in ieder geval voldaan aan: 
 
@@ -166,8 +144,6 @@ d. de Voorschriften Informatiebeveiliging Rijksdienst.
 
 ####Maatregelen
 
-Treedt in werking per 01-11-2015 
-
 1.  De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaarheid van MijnOverheid, DigiD, DigiD Machtigen en het BSN-Koppelregister onderbreken, indien sprake is van een storing of aantasting van de betrouwbaarheid van de voorziening of van een beveiligingsincident. Indien mogelijk wordt voorafgaand informatie verstrekt over de aard en verwachte duur van de onderbreking. Dit geschiedt voor MijnOverheid, DigiD en DigiD Machtigen via mijn.overheid.nl, www.digid.nl of machtigen.digid.nl.   
 2.  Teneinde aantasting van de beveiliging of misbruik of oneigenlijk gebruik van MijnOverheid, DigiD, DigiD Machtigen en het BSN-Koppelregister te signaleren en adequaat te beëindigen, kan de Minister: 
 
@@ -181,13 +157,9 @@ c. bij geconstateerd misbruik of oneigenlijk gebruik de toegang tot de voorzieni
 
 ####Slotbepalingen
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  8  
 
 ####Intrekking besluiten
-
-Treedt in werking per 01-11-2015 
 
 De volgende besluiten worden ingetrokken: 
 
@@ -201,15 +173,11 @@ c. het Besluit vaststelling aansluitvoorwaarden MijnOverheid.nl.
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-11-2015 
-
 Deze regeling treedt in werking met ingang van 1 november 2015. 
 
 ### Artikel  10  
 
 ####Citeertitel
-
-Treedt in werking per 01-11-2015 
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen GDI. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

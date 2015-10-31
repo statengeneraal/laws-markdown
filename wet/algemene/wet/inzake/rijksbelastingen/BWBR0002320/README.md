@@ -94,7 +94,6 @@ b. een voorlopige conserverende aanslag niet wordt verrekend met een conserveren
 2.  Bij ministeriële regeling worden regels gesteld omtrent de hoofdlijnen van de inrichting van de rijksbelastingdienst alsmede omtrent de functionaris, bedoeld in artikel 2, derde lid, onderdeel b, onder wie een belastingplichtige ressorteert.  
 
 ### Artikel  3a  
-Treedt in werking per 01-11-2015 
 
 1.  In afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht wordt in het verkeer tussen belastingplichtigen of inhoudingsplichtigen en de inspecteur of het bestuur van ’s Rijks belastingen een bericht uitsluitend elektronisch verzonden.   
 2.  Bij ministeriële regeling wordt bepaald op welke wijze het elektronische berichtenverkeer plaatsvindt.   
@@ -239,15 +238,9 @@ d. die is gevestigd in het Koninkrijk, in een andere lidstaat van de Europese Un
 a. de in de uitnodiging gevraagde gegevens duidelijk, stellig en zonder voorbehoud op bij ministeriële regeling te bepalen wijze in te vullen, te ondertekenen en in te leveren of toe te zenden, alsmede   
 
 b. de in de uitnodiging gevraagde bescheiden of andere gegevensdragers, dan wel de inhoud daarvan, op bij ministeriële regeling te bepalen wijze in te leveren of toe te zenden.      
-2.  Bij ministeriële regeling kan worden bepaald: 
-
-a.voor welke belastingen of groepen van belastingplichtigen of inhoudingsplichtigen het doen van aangifte uitsluitend langs elektronische weg kan geschieden, en
-
-b.onder welke voorwaarden hiervan door de inspecteur bij voor bezwaar vatbare beschikking ontheffing kan worden verleend. De in dit lid bedoelde belastingplichtigen kunnen uitsluitend betreffen administratieplichtigen in de zin van artikel 52, tweede lid.  
-3.   Het doen van aangifte is geen aanvraag in de zin van artikel 1:3, derde lid, van de Algemene wet bestuursrecht.    
-4.   Bij ontvangst van de aangifte wordt desverlangd een ontvangstbevestiging afgegeven.    
-5.   Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden de inspecteur ontheffing kan verlenen van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden.    
-6.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op verzoeken aan de inspecteur tot ontheffing op grond van bepalingen krachtens het tweede lid, onderdeel b. 
+2.   Het doen van aangifte is geen aanvraag in de zin van artikel 1:3, derde lid, van de Algemene wet bestuursrecht.    
+3.   Bij ontvangst van de aangifte wordt desverlangd een ontvangstbevestiging afgegeven.    
+4.   Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden de inspecteur ontheffing kan verlenen van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden.   
 
 ### Artikel  9  
 

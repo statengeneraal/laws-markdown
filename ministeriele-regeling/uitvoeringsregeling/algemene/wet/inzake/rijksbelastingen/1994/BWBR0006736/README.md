@@ -163,8 +163,7 @@ De in de artikelen 2 en 3 omschreven verplichtingen gelden mede voor de in de ar
 
 ### Artikel  4a  
 
-1. Het uitnodigen tot het doen van aangifte geschiedt door het uitreiken of toezenden van een aangiftebrief waaruit blijkt de wijze van het doen van aangifte, een omschrijving van de gevraagde gegevens of bescheiden en de termijn waarbinnen aangifte moet worden gedaan. 
-2. Indien de aangifte ingevolge artikel 20 langs elektronische weg wordt gedaan, kan de aangiftebrief langs elektronische weg verzonden worden.
+Het uitnodigen tot het doen van aangifte geschiedt door het uitreiken of toezenden van een aangiftebrief waaruit blijkt de wijze van het doen van aangifte, een omschrijving van de gevraagde gegevens of bescheiden en de termijn waarbinnen aangifte moet worden gedaan.
 
 ### Hoofdstuk  4  
 
@@ -172,26 +171,7 @@ De in de artikelen 2 en 3 omschreven verplichtingen gelden mede voor de in de ar
 
 ### Artikel  20  
 
-1.  Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in artikel 4a, aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.   
-2.  Aangifte door een administratieplichtige als bedoeld in artikel 52, tweede lid, van de wet wordt langs elektronische weg gedaan indien het betreft: 
-
-a. de inkomstenbelasting: ingeval de administratieplichtige, bedoeld in artikel 52, tweede lid, onderdeel b, van de wet binnenlands belastingplichtige is;  
-
-b. de vennootschapsbelasting: ingeval de administratieplichtige binnenlands belastingplichtige is;  
-
-c.de omzetbelasting; 
-
-d.de loonbelasting;
-
-e.de accijns;
-
-f.de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten;
-
-g.de verpakkingenbelasting;
-
-h.de verhuurderheffing.  
-3.  De in het tweede lid bedoelde verplichting geldt niet indien de inspecteur een papieren aangiftebiljet uitreikt. De inspecteur kan een papieren aangiftebiljet uitreiken indien de aangifte betrekking heeft op een gedeelte van een tijdvak.   
-4.  Het tweede lid is niet van toepassing met betrekking tot pseudo-eindheffing als bedoeld in artikel 32bb van de Wet op de loonbelasting 1964. 
+Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in artikel 4a, aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
 ### Artikel  20a  
 
@@ -218,7 +198,7 @@ b. de belastingplichtige het stuk dat deze gegevens bevat duidelijk, stellig en 
 
 ### Artikel  21a  
 
-Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging van andere goederen dan de goederen, bedoeld in artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer, waarvan een notariële akte is opgemaakt, wordt door de notaris namens de verkrijger aangifte gedaan, door het aanbieden ter registratie van de akte en het langs elektronische weg aanbieden van de gegevens, bedoeld in artikel 4 van de Uitvoeringsregeling Registratiewet 1970, op de wijze, bedoeld in dat artikel. In de akte wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de akte voorts vermeld voor welk totaalbedrag deze roerende zaak of zaken werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. De in de vorige volzin bedoelde roerende zaak of zaken worden in de akte of in een annexe die bij de minuut is opgemaakt opgenomen. De inspecteur kan de notaris om een kopie van de annexe verzoeken. In de akte worden alle gegevens opgenomen waarvan kennisneming van belang is of kan zijn voor de heffing van de overdrachtsbelasting.
+Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging van andere goederen dan de goederen, bedoeld in artikel 4, eerste lid, onderdeel a, van de Wet op belastingen van rechtsverkeer, waarvan een notariële akte is opgemaakt, wordt door de notaris namens de verkrijger aangifte gedaan, door het aanbieden ter registratie van de akte en het aanbieden van de gegevens, bedoeld in artikel 4 van de Uitvoeringsregeling Registratiewet 1970, op de wijze, bedoeld in dat artikel. In de akte wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de akte voorts vermeld voor welk totaalbedrag deze roerende zaak of zaken werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. De in de vorige volzin bedoelde roerende zaak of zaken worden in de akte of in een annexe die bij de minuut is opgemaakt opgenomen. De inspecteur kan de notaris om een kopie van de annexe verzoeken. In de akte worden alle gegevens opgenomen waarvan kennisneming van belang is of kan zijn voor de heffing van de overdrachtsbelasting.
 
 ### Artikel  21b  
 
@@ -249,10 +229,6 @@ b. het bedrag van de voorlopige aanslag niet aanmerkelijk afwijkt van het bedrag
 ### Artikel  24  
 
 Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en een relevante wijziging optreedt in de omstandigheden die van belang zijn voor de opgelegde of op te leggen voorlopige aanslag, doet de belastingplichtige daarvan zo spoedig mogelijk op de door de inspecteur aangewezen wijze mededeling aan de inspecteur. Deze mededeling wordt geacht een verzoek om herziening als bedoeld in artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001 te zijn. 
-
-### Artikel  24a  
-
-Een verzoek tot vaststelling van een voorlopige aanslag voor de inkomstenbelasting of de vennootschapsbelasting alsmede een verzoek tot herziening als bedoeld in artikel 9.5, eerste lid, van de Wet inkomstenbelasting 2001, onderscheidenlijk artikel 27, tweede lid, van de Wet op de vennootschapsbelasting 1969, van een dergelijke voorlopige aanslag wordt op de door de inspecteur aangegeven wijze langs elektronische weg gedaan, ingeval het verzoek wordt gedaan door een administratieplichtige als bedoeld in artikel 52, tweede lid, van de wet die binnenlands belastingplichtige is. 
 
 ### Hoofdstuk  6  
 

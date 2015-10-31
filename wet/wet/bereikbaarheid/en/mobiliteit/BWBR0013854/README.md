@@ -79,7 +79,7 @@ De mobiliteitstarieven worden geheven en ingevorderd met overeenkomstige toepass
 2.  Het passeren van een betaalpoort met een motorrijtuig wordt aangemerkt als het doen van aangifte.   
 4.  In afwijking van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen wordt het verschuldigd geworden mobiliteitstarief onverwijld na het doen van aangifte betaald. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën worden nadere regels gesteld inzake de voldoening.   
 4.  Een mobiliteitstarief kan op elektronische wijze worden geheven. De aangifte wordt alsdan op elektronische wijze gedaan op het tijdstip dat een betaalpoort wordt gepasseerd, door het in werking stellen van op de betaalpoort aanwezige betalingsapparatuur gelijktijdig met betaling van het verschuldigde mobiliteitstarief. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën worden nadere regels gesteld inzake de elektronische aangifte en voldoening.   
-5.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is, met uitzondering van artikel 8, tweede lid, niet van toepassing op de in het tweede en het vierde lid bedoelde aangiften.  
+5.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is niet van toepassing op de in het tweede en het vierde lid bedoelde aangiften.  
 
 ### Artikel  7  
 

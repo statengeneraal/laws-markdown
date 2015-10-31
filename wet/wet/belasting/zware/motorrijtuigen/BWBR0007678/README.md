@@ -176,7 +176,7 @@ b. met vier assen of meer en in de categorie:
 1.  De belasting moet op aangifte worden voldaan.   
 2.   In afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.   
 3.   Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van tijdvak, tarief alsmede identiteit en nationaliteit van het motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.   
-4.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is, met uitzondering van artikel 8, derde lid, van die wet, niet van toepassing op de in het derde lid bedoelde aangifte.  
+4.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is, met uitzondering van artikel 8, tweede lid, van die wet, niet van toepassing op de in het derde lid bedoelde aangifte.  
 
 ### Hoofdstuk  V  
 

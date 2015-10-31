@@ -30,15 +30,15 @@ e.de Kaderwet: de Kaderwet zelfstandige bestuursorganen.
 
 a. aan rechthebbenden en betalingsplichtigen inzicht verschaft in haar algemene en financiële beleid door: 
 
-(i) het jaarlijks opstellen en openbaar maken van een jaarverslag en een jaarrekening overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek;  
+(i) het jaarlijks opstellen en openbaar maken van een bestuursverslag en een jaarrekening overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek;  
 
 (ii) openbaarmaking van de nevenfuncties van bestuurders, leden van de raad van toezicht, leden van een adviserend orgaan en van degene of degenen die met de dagelijkse leiding van een collectieve beheersorganisatie is of zijn belast;  
 
 (iii) openbaarmaking van de statuten, de geschillenregeling, het repartitiereglement, de tarieven, de tariefgrondslagen, de licentievoorwaarden, kortingsregelingen, de mate van representativiteit, de mate van legitimiteit en de wijze waarop wel of geen vrijwaring wordt gegeven voor claims van niet-vertegenwoordigde rechthebbenden;  
 
-(iv) openbaarmaking van de beheerskosten in het jaarverslag;  
+(iv) openbaarmaking van de beheerskosten in het bestuursverslag;  
 
-(v) in het jaarverslag de wijze van beheer en de verdeling van gelden toe te lichten, waarbij ten minste wordt vermeld in welk jaar de verdeelde gelden waren geïnd en voor welk deel van de gelden geen rechthebbenden zijn gevonden in de drie kalenderjaren volgend op het kalenderjaar van inning;    
+(v) in het bestuursverslag de wijze van beheer en de verdeling van gelden toe te lichten, waarbij ten minste wordt vermeld in welk jaar de verdeelde gelden waren geïnd en voor welk deel van de gelden geen rechthebbenden zijn gevonden in de drie kalenderjaren volgend op het kalenderjaar van inning;    
 
 b. voldoende is toegerust om haar taken naar behoren te kunnen uitoefenen;   
 
@@ -52,10 +52,10 @@ f. gelijke gevallen op gelijke wijze behandelt;
 
 g. een doelmatig financieel beleid voert en de geïnde vergoedingen in de drie kalenderjaren volgend op het kalenderjaar van inning onder de rechthebbenden verdeelt;  
 
-h. streeft naar beperking van de beheerskosten voor de inning, het beheer en de verdeling van gelden tot een nader bij algemene maatregel van bestuur te bepalen drempel van het in een bepaald kalenderjaar geïnde of door een of meer organisaties verdeelde bedrag aan vergoedingen, bij overschrijding waarvan in het jaarverslag en ten genoegen van het College met redenen omkleed wordt aangegeven waaraan deze overschrijding te wijten is;  
+h. streeft naar beperking van de beheerskosten voor de inning, het beheer en de verdeling van gelden tot een nader bij algemene maatregel van bestuur te bepalen drempel van het in een bepaald kalenderjaar geïnde of door een of meer organisaties verdeelde bedrag aan vergoedingen, bij overschrijding waarvan in het bestuursverslag en ten genoegen van het College met redenen omkleed wordt aangegeven waaraan deze overschrijding te wijten is;  
 
 i. met alle collectieve beheersorganisaties aan wie een betalingsplichtige een vergoeding is verschuldigd een gezamenlijke jaarlijkse factuur opstelt en uitreikt aan die betalingsplichtige.    
-3.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven betreffende de in het tweede lid genoemde eisen waaraan een collectieve beheersorganisatie moet voldoen. Deze voorschriften kunnen in het bijzonder betrekking hebben op de inhoud van het jaarverslag, de naleving van een bij algemene maatregel van bestuur aan te wijzen gedragscode en de wijze waarop de representativiteit en legitimiteit dienen te worden aangetoond. Bij algemene maatregel van bestuur kunnen tevens regels worden gegeven over de inrichting en het bestuur van een collectieve beheersorganisatie alsmede over de hoogte en de vorm van de bezoldiging van leden van een adviserend orgaan en het toezicht daarop.   
+3.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven betreffende de in het tweede lid genoemde eisen waaraan een collectieve beheersorganisatie moet voldoen. Deze voorschriften kunnen in het bijzonder betrekking hebben op de inhoud van het bestuursverslag, de naleving van een bij algemene maatregel van bestuur aan te wijzen gedragscode en de wijze waarop de representativiteit en legitimiteit dienen te worden aangetoond. Bij algemene maatregel van bestuur kunnen tevens regels worden gegeven over de inrichting en het bestuur van een collectieve beheersorganisatie alsmede over de hoogte en de vorm van de bezoldiging van leden van een adviserend orgaan en het toezicht daarop.   
 4.  Dit lid is nog niet in werking getreden.   
 5.  De voordracht voor een krachtens het derde en vierde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. 
 

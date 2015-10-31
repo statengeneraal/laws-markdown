@@ -563,9 +563,7 @@ h. de met de loonbelasting en premie volksverzekeringen verrekende arbeidskortin
 
 ####Eerstedagsmelding
 
-1.  De eerstedagsmelding, bedoeld in artikel 28, eerste lid, onderdeel g, van de wet, wordt langs elektronische weg gedaan.   
-2.  Ingeval met toepassing van artikel 20, derde lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994 voor de loonbelasting ontheffing is verleend van de in het tweede lid van dat artikel genoemde verplichting tot het doen van aangifte langs elektronische weg, wordt, in afwijking van het eerste lid, de eerstedagsmelding gedaan door het invullen, ondertekenen en inleveren of toezenden van het door de inspecteur uitgereikte of toegezonden meldingsformulier.   
-3.  De eerstedagsmelding bevat: 
+1.  De eerstedagsmelding, bedoeld in artikel 28, eerste lid, onderdeel g, van de wet, bevat: 
 
 a. het loonheffingennummer van de inhoudingsplichtige;  
 
@@ -575,8 +573,8 @@ c. de naam van de werknemer;
 
 d. de geboortedatum van de werknemer;  
 
-e. de datum van aanvang van de werkzaamheden. Ingeval de eerstedagsmelding ingevolge het tweede lid met een meldingsformulier wordt gedaan, bevat de eerstedagsmelding tevens de naam van de inhoudingsplichtige.     
-4.  De vorige leden zijn niet van toepassing ingeval de werknemer zijn werkzaamheden aanvangt bij een inhoudingsplichtige die met de zonder onderbreking voorafgaande inhoudingsplichtige van de werknemer behoort tot dezelfde samenhangende groep inhoudingsplichtigen in de zin van artikel 27e van de wet.  
+e. de datum van aanvang van de werkzaamheden.     
+2.  De eerstedagsmelding, bedoeld in het eerste lid, hoeft niet te worden gedaan ingeval de werknemer zijn werkzaamheden aanvangt bij een inhoudingsplichtige die met de zonder onderbreking voorafgaande inhoudingsplichtige van de werknemer behoort tot dezelfde samenhangende groep inhoudingsplichtigen in de zin van artikel 27e van de wet.  
 
 ### Artikel  7.7  
 

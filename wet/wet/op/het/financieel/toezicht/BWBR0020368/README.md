@@ -2133,7 +2133,7 @@ d. de criteria en prestaties waar de variabele beloning op wordt gebaseerd, waar
 
 ### Artikel  1:120  
 
-1.  Een financiële onderneming waarop artikel 1:117 van toepassing is, neemt, indien zij verplicht is een jaarverslag op te stellen, in haar jaarverslag een beschrijving op van haar beloningsbeleid. Indien zij over een website beschikt, maakt zij deze beschrijving ook op haar website openbaar.   
+1.  Een financiële onderneming waarop artikel 1:117 van toepassing is, neemt, indien zij verplicht is een bestuursverslag op te stellen, in haar bestuursverslag een beschrijving op van haar beloningsbeleid. Indien zij over een website beschikt, maakt zij deze beschrijving ook op haar website openbaar.   
 2.  In de beschrijving neemt de onderneming eveneens op: 
 
 a. hoeveel onder haar verantwoordelijkheid werkzame natuurlijke personen een totale jaarlijkse beloning van 1 miljoen euro of meer ontvangen, alsmede het bedrijfsonderdeel waar zij in hoofdzaak werkzaamheden voor verrichten;  
@@ -5845,8 +5845,8 @@ b. passiva worden gewaardeerd tegen het bedrag waarvoor ze kunnen worden overged
 
 ### Artikel  3:71  
 
-1.  Een afwikkelonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, pensioenbewaarder, premiepensioeninstelling, verzekeraar of wisselinstelling met zetel in Nederland verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, onderscheidenlijk 391, eerste lid, en 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van de verstrekking van de jaarrekening, het jaarverslag en de overige gegevens.   
+1.  Een afwikkelonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, pensioenbewaarder, premiepensioeninstelling, verzekeraar of wisselinstelling met zetel in Nederland verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, onderscheidenlijk 391, eerste lid, en 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van de verstrekking van de jaarrekening, het bestuursverslag en de overige gegevens.   
 3.  Onverminderd het bepaalde in Titel 9 van Boek 2 van het Burgerlijk Wetboek kan de Nederlandsche Bank op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste lid indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
 ### Artikel  3:72  
@@ -5909,7 +5909,7 @@ Een bank met zetel in een andere lidstaat die haar bedrijf uitoefent vanuit een 
 
 ### Artikel  3:76  
 
-1.  Een bank met zetel in een andere lidstaat die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, de geconsolideerde jaarrekening en het jaarverslag.   
+1.  Een bank met zetel in een andere lidstaat die haar bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, de geconsolideerde jaarrekening en het bestuursverslag.   
 2.  De jaarrekening is voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant, dan wel door een deskundige die ingevolge het recht van de lidstaat waar de bank haar zetel heeft, bevoegd is de jaarrekening te onderzoeken.  
 
 ### Artikel  3:77  
@@ -5935,8 +5935,8 @@ Artikel 3:75 is van overeenkomstige toepassing op banken, levensverzekeraars en 
 
 ### Artikel  3:81  
 
-1.  Een bank, levensverzekeraar of schadeverzekeraar met zetel in een staat die geen lidstaat is, die haar onderscheidenlijk zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor, verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, de geconsolideerde jaarrekening en het jaarverslag.   
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van de verstrekking van de jaarrekening, de geconsolideerde jaarrekening en het jaarverslag.   
+1.  Een bank, levensverzekeraar of schadeverzekeraar met zetel in een staat die geen lidstaat is, die haar onderscheidenlijk zijn bedrijf uitoefent vanuit een in Nederland gelegen bijkantoor, verstrekt binnen zes maanden na afloop van het boekjaar aan de Nederlandsche Bank de jaarrekening, de geconsolideerde jaarrekening en het bestuursverslag.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze van de verstrekking van de jaarrekening, de geconsolideerde jaarrekening en het bestuursverslag.   
 3.  De jaarrekening is voorzien van een verklaring omtrent de getrouwheid, dan wel een met de verklaring omtrent de getrouwheid overeenkomende verklaring, afgegeven door een accountant, dan wel door een deskundige die ingevolge het recht van de staat waar de financiële onderneming, bedoeld in het eerste lid, haar zetel heeft, bevoegd is de jaarrekening te onderzoeken.  
 
 ### Artikel  3:82  
@@ -9321,20 +9321,20 @@ Een Nederlandse beheerder van een beleggingsinstelling verstrekt aan de Autorite
 
 ### Artikel  4:37o  
 
-1.  Een Nederlandse beheerder van een beleggingsinstelling verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening en een jaarverslag van: 
+1.  Een Nederlandse beheerder van een beleggingsinstelling verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening en een bestuursverslag van: 
 
 a. de door hem beheerde Europese beleggingsinstellingen; of  
 
 b. de door hem beheerde beleggingsinstellingen waarin hij rechten van deelneming aanbiedt in een lidstaat.     
-2.  Een buitenlandse beheerder van een beleggingsinstelling verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening en een jaarverslag van de door hem beheerde Nederlandse beleggingsinstellingen.   
+2.  Een buitenlandse beheerder van een beleggingsinstelling verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening en een bestuursverslag van de door hem beheerde Nederlandse beleggingsinstellingen.   
 3.  De jaarrekening, bedoeld in het eerste en tweede lid, wordt opgesteld overeenkomstig de jaarrekeningstandaarden van: 
 
 a. de lidstaat van herkomst van de beleggingsinstelling; en  
 
 b. de staat die geen lidstaat is waar de beleggingsinstelling haar zetel heeft.     
-4.  De jaarrekening en het jaarverslag, bedoeld in het eerste en tweede lid, zijn voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant dan wel door een deskundige die ingevolge het recht van de staat waar de beleggingsinstelling haar zetel heeft, bevoegd is de jaarrekening en het jaarverslag te onderzoeken.   
-5.  Een jaarrekening en een jaarverslag, als bedoeld in het eerste en tweede lid, worden op verzoek verstrekt aan deelnemers.   
-6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking en inhoud van de jaarrekening en het jaarverslag, bedoeld in het eerste, tweede en vijfde lid.   
+4.  De jaarrekening en het bestuursverslag, bedoeld in het eerste en tweede lid, zijn voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant dan wel door een deskundige die ingevolge het recht van de staat waar de beleggingsinstelling haar zetel heeft, bevoegd is de jaarrekening en het bestuursverslag te onderzoeken.   
+5.  Een jaarrekening en een bestuursverslag, als bedoeld in het eerste en tweede lid, worden op verzoek verstrekt aan deelnemers.   
+6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking en inhoud van de jaarrekening en het bestuursverslag, bedoeld in het eerste, tweede en vijfde lid.   
 7.  Het eerste tot en met het zesde lid zijn niet van toepassing op beheerders van beleggingsinstellingen die beleggingsinstellingen beheren waarvan de rechten van deelneming zijn toegelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt en niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald.  
 
 ### Artikel  4:37p  
@@ -9448,10 +9448,10 @@ b. te verwachten gevolgen voor het in dienst houden van de werknemers en bestuur
 
 1.  Indien een beleggingsinstelling controle verkrijgt in een niet-beursgenoteerde uitgevende instelling: 
 
-a. verzoekt de beheerder van de beleggingsinstelling de niet-beursgenoteerde uitgevende instelling binnen de volgens het toepasselijke recht geldende termijn een jaarverslag op te maken en daarin de bij of krachtens algemene maatregel van bestuur te bepalen gegevens op te nemen en verzoekt het bestuur van de niet-beursgenoteerde uitgevende instelling het jaarverslag ter beschikking te stellen aan de vertegenwoordigers van de werknemers van de niet-beursgenoteerde uitgevende instelling of, bij ontstentenis van die vertegenwoordigers, aan de werknemers zelf; of  
+a. verzoekt de beheerder van de beleggingsinstelling de niet-beursgenoteerde uitgevende instelling binnen de volgens het toepasselijke recht geldende termijn een bestuursverslag op te maken en daarin de bij of krachtens algemene maatregel van bestuur te bepalen gegevens op te nemen en verzoekt het bestuur van de niet-beursgenoteerde uitgevende instelling het bestuursverslag ter beschikking te stellen aan de vertegenwoordigers van de werknemers van de niet-beursgenoteerde uitgevende instelling of, bij ontstentenis van die vertegenwoordigers, aan de werknemers zelf; of  
 
-b. neemt de beheerder van de beleggingsinstelling de bij of krachtens algemene maatregel van bestuur te bepalen gegevens, bedoeld in onderdeel a, op in de jaarrekening en het jaarverslag van de beleggingsinstelling, bedoeld in artikel 4:37o.     
-2.  Indien het eerste lid, onderdeel a, is toegepast stelt de beheerder van de beleggingsinstelling het jaarverslag, bedoeld in het eerste lid, onderdeel a, ter beschikking aan de deelnemers van de beleggingsinstelling binnen zes maanden na afloop van het boekjaar, doch niet later dan de volgens het toepasselijke recht geldende termijn voor het opstellen van het jaarverslag van de niet-beursgenoteerde uitgevende instelling.   
+b. neemt de beheerder van de beleggingsinstelling de bij of krachtens algemene maatregel van bestuur te bepalen gegevens, bedoeld in onderdeel a, op in de jaarrekening en het bestuursverslag van de beleggingsinstelling, bedoeld in artikel 4:37o.     
+2.  Indien het eerste lid, onderdeel a, is toegepast stelt de beheerder van de beleggingsinstelling het bestuursverslag, bedoeld in het eerste lid, onderdeel a, ter beschikking aan de deelnemers van de beleggingsinstelling binnen zes maanden na afloop van het boekjaar, doch niet later dan de volgens het toepasselijke recht geldende termijn voor het opstellen van het bestuursverslag van de niet-beursgenoteerde uitgevende instelling.   
 3.  Indien het eerste lid, onderdeel b, is toegepast, verzoekt de beheerder van de beleggingsinstelling het bestuur van de niet-beursgenoteerde uitgevende instelling de gegevens, bedoeld in het eerste lid, onderdeel b, binnen zes maanden na afloop van het boekjaar ter beschikking te stellen aan de vertegenwoordigers van de werknemers van de niet-beursgenoteerde uitgevende instelling of, bij ontstentenis van die vertegenwoordigers, aan de werknemers zelf.  
 
 ### Artikel  4:37v  
@@ -9621,7 +9621,7 @@ b. rechten van deelneming.
 
 1.  Een beheerder van een icbe beschikt over een website.   
 2.  De beheerder rangschikt informatie op de website, voorzover relevant, per afzonderlijke door hem beheerde icbe.   
-3.  De beheerder vermeldt het adres van de website in het prospectus, bedoeld in artikel 4:49, eerste lid, in de halfjaarcijfers en in het jaarverslag van de beheerder en de door hem beheerde icbe’s, bedoeld in artikel 4:51, eerste en tweede lid.   
+3.  De beheerder vermeldt het adres van de website in het prospectus, bedoeld in artikel 4:49, eerste lid, in de halfjaarcijfers en in het bestuursverslag van de beheerder en de door hem beheerde icbe’s, bedoeld in artikel 4:51, eerste en tweede lid.   
 4.  Indien de beheerder ingevolge deze wet beschikbaar te stellen of te verstrekken informatie op zijn website publiceert of anderszins in elektronische vorm beschikbaar stelt, vermeldt hij daarbij dat desgevraagd een afschrift van die informatie wordt verstrekt en, indien van toepassing, welke kosten daaraan verbonden zijn.  
 
 ### Artikel  4:46a  
@@ -9688,18 +9688,18 @@ i. indien van toepassing: het fondsreglement van het fonds voor collectieve bele
 
 ### Artikel  4:51  
 
-1.  Een beheerder van een icbe, icbe of bewaarder van een icbe verstrekt binnen vier maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening, een jaarverslag en overige gegevens als bedoeld in de artikelen 361, eerste lid, 391, eerste lid, onderscheidenlijk 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
+1.  Een beheerder van een icbe, icbe of bewaarder van een icbe verstrekt binnen vier maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening, een bestuursverslag en overige gegevens als bedoeld in de artikelen 361, eerste lid, 391, eerste lid, onderscheidenlijk 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
 2.  Een beheerder van een icbe of icbe verstrekt binnen negen weken na afloop van de eerste helft van het boekjaar halfjaarcijfers aan de Autoriteit Financiële Markten.   
-3. De beheerder van een icbe, icbe of bewaarder van een icbe stelt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, en de halfjaarcijfers, bedoeld in het tweede lid, op overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek, met uitzondering van artikel 396, zevende lid, van Boek 2 van het Burgerlijk Wetboek, voor zover het de vrijstelling van de verplichting, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, betreft, en artikel 403 van Boek 2 van het Burgerlijk Wetboek voor zover het een beheerder van een icbe betreft.  
-4.  Indien een icbe bestaat uit subfondsen, neemt de beheerder van een icbe of de icbe de relevante financiële gegevens met betrekking tot de subfondsen op in de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, en de halfjaarcijfers, bedoeld in het tweede lid, van de icbe.  
-5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking en de inhoud van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, en van de halfjaarcijfers, bedoeld in het tweede lid.   
+3. De beheerder van een icbe, icbe of bewaarder van een icbe stelt de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid, en de halfjaarcijfers, bedoeld in het tweede lid, op overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek, met uitzondering van artikel 396, zevende lid, van Boek 2 van het Burgerlijk Wetboek, voor zover het de vrijstelling van de verplichting, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, betreft, en artikel 403 van Boek 2 van het Burgerlijk Wetboek voor zover het een beheerder van een icbe betreft.  
+4.  Indien een icbe bestaat uit subfondsen, neemt de beheerder van een icbe of de icbe de relevante financiële gegevens met betrekking tot de subfondsen op in de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid, en de halfjaarcijfers, bedoeld in het tweede lid, van de icbe.  
+5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking en de inhoud van de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid, en van de halfjaarcijfers, bedoeld in het tweede lid.   
 6.  Onverminderd het bepaalde in Titel 9 van Boek 2 van het Burgerlijk Wetboek kan de Autoriteit Financiële Markten op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste, tweede of derde lid of van het op grond van het vijfde lid bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
 ### Artikel  4:52  
 
-1.  Een beheerder van een icbe, icbe of bewaarder van een icbe maakt binnen vier maanden na afloop van het boekjaar de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:51, eerste lid, openbaar.   
+1.  Een beheerder van een icbe, icbe of bewaarder van een icbe maakt binnen vier maanden na afloop van het boekjaar de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in artikel 4:51, eerste lid, openbaar.   
 2.  Een beheerder van een icbe of icbe maakt binnen negen weken na afloop van de eerste helft van het boekjaar de halfjaarcijfers, bedoeld in artikel 4:51, tweede lid, openbaar.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de openbaarmaking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, en van de halfjaarcijfers, bedoeld in het tweede lid.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de openbaarmaking van de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid, en van de halfjaarcijfers, bedoeld in het tweede lid.   
 4.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste of tweede lid of het op grond van het derde lid bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
 ### Artikel  4:52a  
@@ -10120,7 +10120,7 @@ b. rechten van pensioendeelnemers en pensioengerechtigden.
 
 a. op hun verzoek: 
 
-1°. de jaarrekening en het jaarverslag in verband met de premieregeling die hen recht geeft op het ontvangen van een pensioenuitkering of ingevolge waarvan de pensioengerechtigden een pensioenuitkering ontvangen;  
+1°. de jaarrekening en het bestuursverslag in verband met de premieregeling die hen recht geeft op het ontvangen van een pensioenuitkering of ingevolge waarvan de pensioengerechtigden een pensioenuitkering ontvangen;  
 
 2°. de in artikel 3:267a bedoelde verklaring inzake de beleggingsbeginselen;    
 
@@ -10326,10 +10326,10 @@ De artikelen 4:83, 4:84, en 4:87, tweede lid, onderdeel b, zijn niet van toepass
 
 ### Artikel  4:85  
 
-1.  Een beleggingsonderneming met zetel in Nederland verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening, een jaarverslag en overige gegevens als bedoeld in de artikelen 361, eerste lid, 391, eerste lid, onderscheidenlijk 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
-2.  Voorzover de beleggingsonderneming, bedoeld in het eerste lid, niet aan Titel 9 van Boek 2 van het Burgerlijk Wetboek is onderworpen, is die titel, met uitzondering van artikel 396, zevende lid, voor zover het de vrijstelling van de verplichting, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, betreft, van overeenkomstige toepassing op de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid.   
-3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid.   
-4.  Een beleggingsonderneming met zetel in een staat die geen lidstaat is, verstrekt binnen zes maanden na afloop van het boekjaar een jaarrekening en een jaarverslag aan de Autoriteit Financiële Markten. Het derde lid is van overeenkomstige toepassing.   
+1.  Een beleggingsonderneming met zetel in Nederland verstrekt binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten een jaarrekening, een bestuursverslag en overige gegevens als bedoeld in de artikelen 361, eerste lid, 391, eerste lid, onderscheidenlijk 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
+2.  Voorzover de beleggingsonderneming, bedoeld in het eerste lid, niet aan Titel 9 van Boek 2 van het Burgerlijk Wetboek is onderworpen, is die titel, met uitzondering van artikel 396, zevende lid, voor zover het de vrijstelling van de verplichting, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, betreft, van overeenkomstige toepassing op de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid.   
+3.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de verstrekking van de jaarrekening, het bestuursverslag en de overige gegevens, bedoeld in het eerste lid.   
+4.  Een beleggingsonderneming met zetel in een staat die geen lidstaat is, verstrekt binnen zes maanden na afloop van het boekjaar een jaarrekening en een bestuursverslag aan de Autoriteit Financiële Markten. Het derde lid is van overeenkomstige toepassing.   
 5.  De jaarrekening van de beleggingsonderneming, bedoeld in het vierde lid, is voorzien van een verklaring omtrent de getrouwheid, dan wel een met een verklaring omtrent de getrouwheid overeenkomende verklaring, afgegeven door een accountant, dan wel door een deskundige die ingevolge het recht van de staat waar de beleggingsonderneming haar zetel heeft, bevoegd is de jaarrekening te onderzoeken.   
 6.  Onverminderd het bepaalde in Titel 9 van Boek 2 van het Burgerlijk Wetboek kan de Autoriteit Financiële Markten op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van dit artikel, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
@@ -11152,24 +11152,24 @@ b. icbe’s.
 
 a. de door een accountant gecontroleerde jaarrekening;  
 
-b. het jaarverslag; en  
+b. het bestuursverslag; en  
 
 c. verklaringen van de bij de uitgevende instelling als ter zake verantwoordelijk aangewezen personen, met duidelijke vermelding van naam en functie, van het feit dat, voor zover hun bekend, 
 
 1°. de jaarrekening een getrouw beeld geeft van de activa, de passiva, de financiële positie en de winst of het verlies van de uitgevende instelling en de gezamenlijk in de consolidatie opgenomen ondernemingen; en  
 
-2°. het jaarverslag een getrouw beeld geeft omtrent de toestand op de balansdatum, de gang van zaken gedurende het boekjaar van de uitgevende instelling en van de met haar verbonden ondernemingen waarvan de gegevens in haar jaarrekening zijn opgenomen en dat in het jaarverslag de wezenlijke risico’s waarmee de uitgevende instelling wordt geconfronteerd, zijn beschreven.       
+2°. het bestuursverslag een getrouw beeld geeft omtrent de toestand op de balansdatum, de gang van zaken gedurende het boekjaar van de uitgevende instelling en van de met haar verbonden ondernemingen waarvan de gegevens in haar jaarrekening zijn opgenomen en dat in het bestuursverslag de wezenlijke risico’s waarmee de uitgevende instelling wordt geconfronteerd, zijn beschreven.       
 3.  Indien de uitgevende instelling zetel heeft in Nederland wordt voor de toepassing van dit artikel verstaan onder: 
 
 a. de jaarrekening: de jaarrekening, bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek alsmede de gegevens die op grond van artikel 392, eerste lid, van Boek 2 van het Burgerlijk Wetboek hieraan moeten worden toegevoegd;  
 
-b. het jaarverslag: het jaarverslag, bedoeld in artikel 391 van Boek 2 van het Burgerlijk Wetboek.     
+b. het bestuursverslag: het bestuursverslag, bedoeld in artikel 391 van Boek 2 van het Burgerlijk Wetboek.     
 4.  Indien de uitgevende instelling zetel heeft in een andere lidstaat wordt voor de toepassing van dit artikel verstaan onder: 
 
 a. de jaarrekening: de jaarrekening die met inachtneming van het recht van die lidstaat ter uitvoering van de richtlijn jaarrekening of de richtlijn geconsolideerde jaarrekening en, voor zover toepasselijk, overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften is opgemaakt, alsmede de door de accountant, die belast was met de controle van die jaarrekening, ondertekende en gedagtekende verklaring over de door hem uitgevoerde controle en, indien de uitgevende instelling tevens moederonderneming in de zin van de richtlijn geconsolideerde jaarrekening is, de jaarrekening die is opgemaakt met inachtneming van het recht van die lidstaat ter uitvoering van de richtlijn jaarrekening;  
 
-b. het jaarverslag: het jaarverslag dat is opgesteld met inachtneming van het recht van die lidstaat ter uitvoering van artikel 46 van de richtlijn jaarrekening of artikel 36 van de richtlijn geconsolideerde jaarrekening.     
-5.  Indien de uitgevende instelling zetel heeft in een staat die geen lidstaat is en Nederland lidstaat van herkomst is, geeft de uitgevende instelling ten aanzien van de jaarrekening en het jaarverslag overeenkomstige toepassing aan het derde lid.   
+b. het bestuursverslag: het bestuursverslag dat is opgesteld met inachtneming van het recht van die lidstaat ter uitvoering van artikel 46 van de richtlijn jaarrekening of artikel 36 van de richtlijn geconsolideerde jaarrekening.     
+5.  Indien de uitgevende instelling zetel heeft in een staat die geen lidstaat is en Nederland lidstaat van herkomst is, geeft de uitgevende instelling ten aanzien van de jaarrekening en het bestuursverslag overeenkomstige toepassing aan het derde lid.   
 6.  Indien een beleggingsinstelling de jaarlijkse financiële verslaggeving ingevolge dit deel opstelt, neemt de beheerder van de beleggingsinstelling de bij of krachtens algemene maatregel van bestuur te bepalen gegevens op in de jaarlijkse financiële verslaggeving of in een gelijktijdig met de jaarlijkse financiële verslaggeving algemeen verkrijgbaar te stellen document.  
 7.  Indien tussen het algemeen verkrijgbaar stellen van de jaarlijkse financiële verslaggeving en de vaststelling daarvan, feiten of omstandigheden blijken die onontbeerlijk zijn voor het vormen van een verantwoord oordeel omtrent het vermogen, het resultaat, de solvabiliteit en de liquiditeit van de uitgevende instelling als bedoeld in artikel 362, zesde lid, eerste volzin, van Boek 2 van het Burgerlijk Wetboek, stelt de uitgevende instelling onverwijld een bericht hieromtrent algemeen verkrijgbaar.   
 8.  Indien de vastgestelde jaarlijkse financiële verslaggeving afwijkt van de opgemaakte jaarlijkse financiële verslaggeving, stelt de uitgevende instelling na vaststelling onverwijld een bericht hieromtrent algemeen verkrijgbaar.   
@@ -11182,15 +11182,15 @@ b. het jaarverslag: het jaarverslag dat is opgesteld met inachtneming van het re
 
 a. de halfjaarrekening;  
 
-b. het halfjaarverslag; en  
+b. het halfjaarlijks bestuursverslag; en  
 
 c. verklaringen van de bij de uitgevende instelling als ter zake verantwoordelijk aangewezen personen, met duidelijke vermelding van naam en functie, van het feit dat, voor zover hun bekend,: 
 
 1°. de halfjaarrekening een getrouw beeld geeft van de activa, de passiva, de financiële positie en de winst of het verlies van de uitgevende instelling en de gezamenlijke in de consolidatie opgenomen ondernemingen; en  
 
-2°. het halfjaarverslag een getrouw overzicht geeft van de in het achtste en, voor zover van toepassing, negende lid bedoelde informatie.       
+2°. het halfjaarlijks bestuursverslag een getrouw overzicht geeft van de in het achtste en, voor zover van toepassing, negende lid bedoelde informatie.       
 3.  Indien de halfjaarlijkse financiële verslaggeving is gecontroleerd of beperkt is beoordeeld door een accountant wordt de door hem ondertekende en gedagtekende verklaring of beoordeling samen met de halfjaarlijkse financiële verslaggeving algemeen verkrijgbaar gesteld.   
-4.  Indien de halfjaarlijkse financiële verslaggeving niet door een accountant is gecontroleerd of beperkt is beoordeeld, wordt dat door de uitgevende instelling in haar halfjaarverslag vermeld.   
+4.  Indien de halfjaarlijkse financiële verslaggeving niet door een accountant is gecontroleerd of beperkt is beoordeeld, wordt dat door de uitgevende instelling in haar halfjaarlijks bestuursverslag vermeld.   
 5.  De halfjaarrekening van een uitgevende instelling met zetel in Nederland: 
 
 a. wordt opgemaakt met inachtneming van de ter zake overeenkomstig artikel 3 van de IAS-verordening goedgekeurde voorschriften, indien de uitgevende instelling op grond van Titel 9 van Boek 2 van het Burgerlijk Wetboek verplicht is een geconsolideerde jaarrekening op te maken; of  
@@ -11202,9 +11202,9 @@ a. wordt opgemaakt met inachtneming van de ter zake overeenkomstig artikel 3 van
 
 b. bevat de verkorte balans, de verkorte winst- en verliesrekening en de toelichtingen daarop, indien de uitgevende instelling niet verplicht is een geconsolideerde jaarrekening op te maken.     
 7.  Bij het opmaken van de verkorte balans en de verkorte winst- en verliesrekening, bedoeld in het vijfde lid, onderdeel b en zesde lid, onderdeel b, past de uitgevende instelling dezelfde beginselen en grondslagen inzake indeling en waardering toe als bij de jaarlijkse financiële verslaggeving.   
-8.  Het halfjaarverslag bevat ten minste een opsomming van belangrijke gebeurtenissen die zich de eerste zes maanden van het desbetreffende boekjaar hebben voorgedaan en het effect daarvan op de halfjaarrekening, alsmede een beschrijving van de voornaamste risico’s en onzekerheden voor de overige zes maanden van het desbetreffende boekjaar.   
-9.  Indien van een uitgevende instelling aandelen zijn toegelaten tot de handel op een gereglementeerde markt, bevat het halfjaarverslag eveneens de belangrijkste transacties met verbonden partijen.   
-10.  Indien de uitgevende instelling zetel heeft in een staat die geen lidstaat is en Nederland lidstaat van herkomst is, geeft de uitgevende instelling ten aanzien van de halfjaarrekening en het halfjaarverslag overeenkomstige toepassing aan het vijfde en het zevende lid.  
+8.  Het halfjaarlijks bestuursverslag bevat ten minste een opsomming van belangrijke gebeurtenissen die zich de eerste zes maanden van het desbetreffende boekjaar hebben voorgedaan en het effect daarvan op de halfjaarrekening, alsmede een beschrijving van de voornaamste risico’s en onzekerheden voor de overige zes maanden van het desbetreffende boekjaar.   
+9.  Indien van een uitgevende instelling aandelen zijn toegelaten tot de handel op een gereglementeerde markt, bevat het halfjaarlijks bestuursverslag eveneens de belangrijkste transacties met verbonden partijen.   
+10.  Indien de uitgevende instelling zetel heeft in een staat die geen lidstaat is en Nederland lidstaat van herkomst is, geeft de uitgevende instelling ten aanzien van de halfjaarrekening en het halfjaarlijks bestuursverslag overeenkomstige toepassing aan het vijfde en het zevende lid.  
 
 ### Artikel  5:25e  
 
@@ -11374,8 +11374,8 @@ Indien een uitgevende instelling voornemens is haar statuten te wijzigen, deelt 
 1.  Een uitgevende instelling met zetel in Nederland zendt binnen vijf dagen na vaststelling van de jaarrekening de vastgestelde jaarrekening aan de Autoriteit Financiële Markten.   
 2.  Een uitgevende instelling met zetel in Nederland die de jaarrekening niet binnen zes maanden na afloop van het boekjaar heeft vastgesteld, doet daarvan onverwijld mededeling aan de Autoriteit Financiële Markten.   
 3.  De Autoriteit Financiële Markten zendt binnen drie dagen na de toezending, bedoeld in het eerste lid, of de mededeling, bedoeld in het tweede lid, de jaarrekening aan het handelsregister, bedoeld in artikel 394, eerste of tweede lid, van Boek 2 van het Burgerlijk Wetboek. Indien het een mededeling betreft als bedoeld in het tweede lid, wordt de opgemaakte jaarrekening, bedoeld in artikel 5:25c, aan het handelsregister toegestuurd onder vermelding van het feit dat deze niet is vastgesteld.   
-4.  Gelijktijdig met de jaarrekening zendt de uitgevende instelling aan de Autoriteit Financiële Markten het jaarverslag, bedoeld in artikel 391 van Boek 2 van het Burgerlijk Wetboek, en de gegevens die op grond van artikel 392 van Boek 2 van het Burgerlijk Wetboek aan de jaarrekening en het jaarverslag worden toegevoegd.   
-5.  Gelijktijdig met de jaarrekening zendt de Autoriteit Financiële Markten het jaarverslag en de overige gegevens, bedoeld in het vierde lid, aan het handelsregister.  
+4.  Gelijktijdig met de jaarrekening zendt de uitgevende instelling aan de Autoriteit Financiële Markten het bestuursverslag, bedoeld in artikel 391 van Boek 2 van het Burgerlijk Wetboek, en de gegevens die op grond van artikel 392 van Boek 2 van het Burgerlijk Wetboek aan de jaarrekening en het bestuursverslag worden toegevoegd.   
+5.  Gelijktijdig met de jaarrekening zendt de Autoriteit Financiële Markten het bestuursverslag en de overige gegevens, bedoeld in het vierde lid, aan het handelsregister.  
 
 ### §  5.1a.2.4  
 
@@ -12401,7 +12401,7 @@ Een ontheffing van het verbod, bedoeld in artikel 6a, eerste lid, van de Wet toe
 1. Een institutionele belegger met zetel in Nederland en een belegd vermogen waartoe aandelen of certificaten van aandelen behoren die zijn toegelaten tot de handel op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is doet mededeling over de naleving van de principes en best practice bepalingen van de op grond van artikel 391, vijfde lid, van Boek 2 van het Burgerlijk Wetboek aangewezen gedragscode, die zijn gericht tot de institutionele belegger. Indien de institutionele belegger die principes of best practice bepalingen in het laatst afgesloten boekjaar niet of niet geheel heeft nageleefd of niet voornemens is deze in het lopende en daarop volgende boekjaar geheel na te leven, doet hij daarvan gemotiveerd opgave. 
 2. De institutionele belegger doet de mededeling en opgave, bedoeld in het eerste lid, ten minste eenmaal per boekjaar:
 
-a.in zijn jaarverslag;
+a.in zijn bestuursverslag;
 
 b.op zijn website; of
 

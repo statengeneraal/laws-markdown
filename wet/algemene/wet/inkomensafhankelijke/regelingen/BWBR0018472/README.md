@@ -209,6 +209,12 @@ a. een door de Belastingdienst/Toeslagen verbeurde dwangsom € 10 bedraagt voo
 b. de Belastingdienst/Toeslagen geen dwangsom verbeurt indien de toekenning van de tegemoetkoming leidt tot een na te betalen of terug te vorderen bedrag kleiner dan € 30.     
 3.  Voor de toepassing van dit hoofdstuk kan Onze Minister bij ministeriële regeling paragraaf 4.1.3.2 van de Algemene wet bestuursrecht voor een bij die regeling te bepalen periode geheel of gedeeltelijk buiten toepassing verklaren indien er sprake is van een ernstige verstoring in het uitvoeringsproces, die het naar zijn oordeel aannemelijk maakt dat door belanghebbenden, als direct gevolg van de ernstige storing, massaal een beroep wordt gedaan op de dwangsomregeling, bedoeld in deze paragraaf. Na het tot stand komen van deze ministeriële regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken. 
 
+###Artikel 13 
+
+1.  In afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht wordt in het verkeer tussen belanghebbenden en de Belastingdienst/Toeslagen een bericht uitsluitend elektronisch verzonden.   
+2.  Bij ministeriële regeling wordt bepaald op welke wijze het elektronische berichtenverkeer plaatsvindt.   
+3.  Bij ministeriële regeling kunnen berichten en groepen van belanghebbenden worden aangewezen waarvoor, alsmede omstandigheden worden aangewezen waaronder, het berichtenverkeer kan plaatsvinden anders dan langs elektronische weg. 
+
 ### Paragraaf  2  
 
 ####Tegemoetkoming

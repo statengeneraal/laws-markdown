@@ -1410,7 +1410,7 @@ c.de dagtekening van het aanslagbiljet: de dagtekening van de schriftelijke kenn
 
 ### Artikel  126  
 
-Bij de heffing van waterschapsbelastingen blijven van de Algemene wet buiten toepassing de artikelen 2, vierde lid, 3, 37 tot en met 39, 47a, 48, 52, 53, 54, 55, 62, 71, 76, 80, tweede, derde en vierde lid, 82, 84, 86, 87 en 90 tot en met 95. Bij de heffing van waterschapsbelastingen die op andere wijze worden geheven, blijven bovendien de artikelen 5, 6 tot en met 9, 11, tweede lid, en 12 van die wet buiten toepassing. 
+Bij de heffing van waterschapsbelastingen blijven van de Algemene wet buiten toepassing de artikelen 2, vierde lid, 3, 3a, 37 tot en met 39, 47a, 48, 52, 53, 54, 55, 62, 71, 76, 80, tweede, derde en vierde lid, 82, 84, 86, 87 en 90 tot en met 95. Bij de heffing van waterschapsbelastingen die op andere wijze worden geheven, blijven bovendien de artikelen 5, 6 tot en met 9, 11, tweede lid, en 12 van die wet buiten toepassing. 
 
 ###Artikel 126a 
 
@@ -1475,7 +1475,7 @@ Op overtreding van een in de belastingverordening voorkomende bepaling betreffen
 
 ### Artikel  138  
 
-1.  Bij de invordering van waterschapsbelastingen blijven van de Invorderingswet 1990 buiten toepassing de artikelen 5, 20, 21, 59, 62 en 69. Bij de invordering van waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, blijft bovendien artikel 8, eerste lid, van die wet, buiten toepassing.   
+1.  Bij de invordering van waterschapsbelastingen blijven van de Invorderingswet 1990 buiten toepassing de artikelen 5, 7c, 20, 21, 59, 62 en 69. Bij de invordering van waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, blijft bovendien artikel 8, eerste lid, van die wet, buiten toepassing.   
 2.   Met betrekking tot waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, kan in de belastingverordening worden bepaald dat een andere ambtenaar van het waterschap dan de met de invordering van waterschapsbelastingen belaste ambtenaar van het waterschap mede wordt belast met de invordering van die belastingen.    
 3.   Voor waterschapsbelastingen ter zake van onroerende zaken, voor zover deze worden geheven van de eigenaar of van de genothebbende krachtens een beperkt recht, heeft het waterschap een voorrecht op de onroerende zaken waarop de aanslag in een zodanige belasting betrekking heeft, en op de beperkte rechten waaraan die zaken zijn onderworpen. Het voorrecht gaat boven hypotheek en boven alle andere voorrechten, met uitzondering van het voorrecht van artikel 288 onder a, alsmede dat van artikel 284 van Boek 3 van het Burgerlijk Wetboek, voor zover de daar bedoelde kosten na de vaststelling van de aanslag zijn gemaakt.   
 

@@ -9,21 +9,15 @@ Besluit:
 
 ####Elektronisch berichtenverkeer
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  1  
 
 ####Reikwijdte
-
-Treedt in werking per 01-11-2015 
 
 Deze regeling geeft uitvoering aan artikel 3a, tweede en derde lid, van de Algemene wet inzake rijksbelastingen, artikel 7c, tweede en derde lid, van de Invorderingswet 1990 en artikel 13, tweede en derde lid, van de Algemene wet inkomensafhankelijke regelingen. 
 
 ### Artikel  2  
 
 ####Van verplichting tot verzending berichten langs elektronische weg uitgezonderde groepen
-
-Treedt in werking per 01-11-2015 
 
 Voor de volgende groepen kan het berichtenverkeer, bedoeld in de artikelen 3a van de Algemene wet inzake rijksbelastingen, artikel 7c, van de Invorderingswet 1990 en artikel 13 van de Algemene wet inkomensafhankelijke regelingen anders dan langs elektronische weg plaatsvinden: 
 
@@ -55,8 +49,6 @@ e. belanghebbenden als bedoeld in artikel 33 van de Uitvoeringsregeling Algemene
 
 ####De wijze waarop elektronisch berichtenverkeer plaatsvindt en van verplichting tot verzending langs elektronische weg uitgezonderde berichten
 
-Treedt in werking per 01-11-2015 
-
 1.  De wijze waarop het elektronisch berichtenverkeer plaatsvindt en de berichten waarvoor het berichtenverkeer anders dan langs elektronische weg kan plaatsvinden zijn opgenomen in de bij deze regeling behorende bijlage.   
 2.  In afwijking van de bijlage kan de inspecteur een papieren aangiftebiljet uitreiken aan ondernemers indien de aangifte betrekking heeft op een gedeelte van een tijdvak.  
 
@@ -64,13 +56,9 @@ Treedt in werking per 01-11-2015
 
 ####Wijziging van enige andere regelingen
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  4  
 
 ####Wijziging van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994
-
-Treedt in werking per 01-11-2015 
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
@@ -78,29 +66,21 @@ Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
 ####Wijziging van de Uitvoeringsregeling loonbelasting 2011
 
-Treedt in werking per 01-11-2015 
-
 Wijzigt de Uitvoeringsregeling loonbelasting 2011. 
 
 ### Hoofdstuk  3  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  6  
 
 ####Inwerkingtreding
-
-Treedt in werking per 01-11-2015 
 
 Deze regeling treedt in werking met ingang van 1 november 2015. 
 
 ### Artikel  7  
 
 ####Citeertitel
-
-Treedt in werking per 01-11-2015 
 
 Deze regeling wordt aangehaald als: Regeling elektronisch berichtenverkeer Belastingdienst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -112,8 +92,6 @@ E. Wiebes
 ### Bijlage 
 
 ####behorende bij de Regeling elektronisch berichtenverkeer Belastingdienst
-
-Treedt in werking per 01-11-2015 
 
 | wet  | onderdeel  | omschrijving  | niet uitsluitend digitaal  | wel uitsluitend digitaal  | voorziening  | authenticatiemiddel  |
 |:---|:---|:---|:---|:---|:---|:---|

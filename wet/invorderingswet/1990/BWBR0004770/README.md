@@ -134,7 +134,6 @@ d. de belastingaanslag.
 Een vordering op de ontvanger tot uitbetaling van een bedrag aan inkomstenbelasting is niet vatbaar voor vervreemding of verpanding. In afwijking van de eerste volzin is vervreemding of verpanding wel mogelijk aan een financiële onderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht. 
 
 ### Artikel  7c  
-Treedt in werking per 01-11-2015 
 
 1.  In afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht wordt in het verkeer tussen belastingschuldigen en de directeur, de ontvanger of de belastingdeurwaarder een bericht uitsluitend elektronisch verzonden.   
 2.  Bij ministeriële regeling wordt bepaald op welke wijze het elektronische berichtenverkeer plaatsvindt.   
@@ -146,7 +145,7 @@ Treedt in werking per 01-11-2015
 
 ### Artikel  8  
 
-1.  De ontvanger maakt de belastingaanslag bekend door toezending of uitreiking van het door de inspecteur voor de belastingschuldige opgemaakte aanslagbiljet, met dien verstande dat een uitnodiging tot betaling, door de inspecteur vastgesteld in de vorm van een elektronisch bericht, door de ontvanger langs elektronische weg aan de belastingschuldige wordt toegezonden.    
+1.  De ontvanger maakt de belastingaanslag bekend door verzending of uitreiking van het door de inspecteur voor de belastingschuldige opgemaakte aanslagbiljet.   
 2.   Een belastingaanslag is door de belastingschuldige in zijn geheel verschuldigd.   
 
 ### Artikel  9  

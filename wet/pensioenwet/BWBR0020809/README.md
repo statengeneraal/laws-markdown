@@ -769,7 +769,7 @@ c. de toeslagverlening.
 
 ####Informatie over uitvoeringskosten
 
-1.  Een pensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
+1.  Een pensioenfonds neemt in zijn bestuursverslag informatie op over de uitvoeringskosten over het verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.  
 
 ### Artikel  46  
@@ -780,7 +780,7 @@ c. de toeslagverlening.
 
 a. het voor hem geldende pensioenreglement;  
 
-b. het jaarverslag en de jaarrekening van de pensioenuitvoerder;  
+b. het bestuursverslag en de jaarrekening van de pensioenuitvoerder;  
 
 c. de uitvoeringsovereenkomst of het uitvoeringsreglement;  
 
@@ -1560,9 +1560,9 @@ b. in contacten met personen en instanties voor zover deze zelf bevoegd zijn geb
 
 ### Artikel  96  
 
-####Informatie in jaarverslag over dwangsommen en bestuurlijke boeten
+####Informatie in bestuursverslag over dwangsommen en bestuurlijke boeten
 
-Een pensioenuitvoerder vermeldt in zijn jaarverslag of in het afgelopen boekjaar: 
+Een pensioenuitvoerder vermeldt in zijn bestuursverslag of in het afgelopen boekjaar: 
 
 a. aan de pensioenuitvoerder dwangsommen en bestuurlijke boeten zijn opgelegd, en zo ja, hoeveel deze in totaal hebben bedragen;  
 
@@ -1684,10 +1684,10 @@ b. op voordracht van de vertegenwoordigers van de pensioengerechtigden in het ve
 ####Samenstelling en taken raad van toezicht en visitatiecommissie
 
 1.  De raad van toezicht of de visitatiecommissie bestaat uit ten minste drie natuurlijke personen. De leden van de raad van toezicht of de visitatiecommissie zijn onafhankelijk en laten dit tot uiting komen in het toezicht.   
-2.  De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het pensioenfonds. De raad van toezicht is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken en de uitoefening van de bevoegdheden aan het verantwoordingsorgaan en de werkgever, het belanghebbendenorgaan en in het jaarverslag. De raad van toezicht staat het bestuur met raad ter zijde. Artikel 9 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing op de leden van de raad van toezicht.   
+2.  De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het pensioenfonds. De raad van toezicht is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken en de uitoefening van de bevoegdheden aan het verantwoordingsorgaan en de werkgever, het belanghebbendenorgaan en in het bestuursverslag. De raad van toezicht staat het bestuur met raad ter zijde. Artikel 9 van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing op de leden van de raad van toezicht.   
 3.  Aan de goedkeuring van de raad van toezicht zijn onderworpen de besluiten van het bestuur tot vaststelling van: 
 
-a. het jaarverslag en de jaarrekening;  
+a. het bestuursverslag en de jaarrekening;  
 
 b. de profielschets voor bestuurders;  
 
@@ -1704,7 +1704,7 @@ g. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artik
 5.  De raad van toezicht meldt disfunctioneren van het bestuur aan het verantwoordingsorgaan, het belanghebbendenorgaan en aan de partij die bevoegd is tot benoeming van het bestuur. Indien de partij die bevoegd is tot benoeming van het bestuur naar aanleiding van de melding niet binnen een redelijke termijn, naar tevredenheid van de raad van toezicht, handelt, meldt de raad van toezicht het disfunctioneren van het bestuur aan De Nederlandsche Bank N.V.   
 6.  De raad van toezicht stelt een profielschets op voor leden van de raad van toezicht.   
 7.  Het bestuur van het pensioenfonds en de raad van toezicht komen ten minste tweemaal per kalenderjaar in vergadering bijeen.   
-8.  De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het pensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en de werkgever, het belanghebbendenorgaan en in het jaarverslag.   
+8.  De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het pensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en de werkgever, het belanghebbendenorgaan en in het bestuursverslag.   
 9.  Het pensioenfonds verstrekt desgevraagd aan de raad van toezicht of de visitatiecommissie tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.   
 10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel die onder meer betrekking hebben op de bevoegdheden van de raad van toezicht ten aanzien van benoeming en ontslag van bestuurders.  
 
@@ -1743,7 +1743,7 @@ Bestuurders en leden van de raad van toezicht van een pensioenfonds hebben voldo
 
 ####Diversiteit
 
-In het jaarverslag van een pensioenfonds wordt gerapporteerd over de samenstelling naar leeftijd en geslacht van het verantwoordingsorgaan, het belanghebbendenorgaan en het bestuur en over de inspanningen die zijn verricht om diversiteit in de organen van het pensioenfonds te bevorderen. 
+In het bestuursverslag van een pensioenfonds wordt gerapporteerd over de samenstelling naar leeftijd en geslacht van het verantwoordingsorgaan, het belanghebbendenorgaan en het bestuur en over de inspanningen die zijn verricht om diversiteit in de organen van het pensioenfonds te bevorderen. 
 
 ### Artikel  108  
 
@@ -1873,7 +1873,7 @@ b. indien dit wordt verzocht door ten minste 1% van de deelnemers, gewezen deeln
 #### *Taken verantwoordingsorgaan* 
 
 1.  Het bestuur van het pensioenfonds legt verantwoording af aan het verantwoordingsorgaan over het beleid en de wijze waarop het is uitgevoerd.   
-2.  Het verantwoordingsorgaan heeft de bevoegdheid een oordeel te geven over het handelen van het bestuur aan de hand van het jaarverslag, de jaarrekening en andere informatie, waaronder de bevindingen van het intern toezicht, over het door het bestuur uitgevoerde beleid, evenals over beleidskeuzes voor de toekomst. Dit oordeel wordt, samen met de reactie van het bestuur daarop, bekend gemaakt en in het jaarverslag opgenomen.   
+2.  Het verantwoordingsorgaan heeft de bevoegdheid een oordeel te geven over het handelen van het bestuur aan de hand van het bestuursverslag, de jaarrekening en andere informatie, waaronder de bevindingen van het intern toezicht, over het door het bestuur uitgevoerde beleid, evenals over beleidskeuzes voor de toekomst. Dit oordeel wordt, samen met de reactie van het bestuur daarop, bekend gemaakt en in het bestuursverslag opgenomen.   
 3.  Het pensioenfonds stelt het verantwoordingsorgaan in de gelegenheid advies uit te brengen over: 
 
 a. het beleid inzake beloningen;  
@@ -1922,7 +1922,7 @@ a. het nemen van maatregelen van algemene strekking;
 
 b. wijziging van de statuten en reglementen van het pensioenfonds;  
 
-c. vaststelling van het jaarverslag, de jaarrekening en de actuariële en bedrijfstechnische nota, bedoeld in artikel 145;  
+c. vaststelling van het bestuursverslag, de jaarrekening en de actuariële en bedrijfstechnische nota, bedoeld in artikel 145;  
 
 d. het sluiten, wijzigen of beëindigen van een uitvoeringsovereenkomst;  
 
@@ -1941,7 +1941,7 @@ j. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid.
 4.  Het belanghebbendenorgaan adviseert het bestuur naar aanleiding van de melding van disfunctioneren van het bestuur, bedoeld in artikel 104, vijfde lid.   
 5.  Bij het vragen van advies wordt aan het belanghebbendenorgaan een overzicht verstrekt van de beweegredenen voor het besluit en van de gevolgen die het besluit naar verwachting voor de deelnemers, gewezen deelnemers en pensioengerechtigden zal hebben.   
 6.  Het bestuur van het pensioenfonds legt verantwoording af aan het belanghebbendenorgaan over het beleid en de wijze waarop het is uitgevoerd.   
-7.  Het belanghebbendenorgaan heeft de bevoegdheid een oordeel te geven over het handelen van het bestuur aan de hand van het jaarverslag, de jaarrekening en andere informatie, waaronder de bevindingen van het intern toezicht, over het door het bestuur uitgevoerde beleid, evenals over beleidskeuzes voor de toekomst. Dit oordeel wordt, samen met de reactie van het bestuur daarop, bekend gemaakt en in het jaarverslag opgenomen.   
+7.  Het belanghebbendenorgaan heeft de bevoegdheid een oordeel te geven over het handelen van het bestuur aan de hand van het bestuursverslag, de jaarrekening en andere informatie, waaronder de bevindingen van het intern toezicht, over het door het bestuur uitgevoerde beleid, evenals over beleidskeuzes voor de toekomst. Dit oordeel wordt, samen met de reactie van het bestuur daarop, bekend gemaakt en in het bestuursverslag opgenomen.   
 8.  Besluiten van het bestuur kunnen bij of krachtens de statuten worden onderworpen aan de goedkeuring van het belanghebbendenorgaan, voor zover uit de wet niet anders voortvloeit. De statuten voorzien in een regeling voor geschillen over goedkeuring van besluiten door het belanghebbendenorgaan.   
 9.  Het bestuur heeft in ieder geval goedkeuring nodig van het belanghebbendenorgaan voor elk voorgenomen besluit met betrekking tot: 
 
@@ -2191,9 +2191,9 @@ c. de korting op de pensioenaanspraken en pensioenrechten op grond van artikel 1
 
 ### Artikel  130  
 
-####Vermelding premie in jaarrekening en jaarverslag
+####Vermelding premie in jaarrekening en bestuursverslag
 
-Een pensioenfonds vermeldt in zijn jaarrekening en jaarverslag: 
+Een pensioenfonds vermeldt in zijn jaarrekening en bestuursverslag: 
 
 a. de hoogte van de totale kostendekkende premie, bedoeld in artikel 128, eerste lid;  
 
@@ -2205,7 +2205,7 @@ c. de hoogte van de totale feitelijke premie.
 
 ####Vermelding premiecomponenten
 
-Onverminderd artikel 130 vermeldt een pensioenfonds in zijn jaarrekening en jaarverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
+Onverminderd artikel 130 vermeldt een pensioenfonds in zijn jaarrekening en bestuursverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
 
 ### Artikel  131  
 
@@ -2274,7 +2274,7 @@ b. beleggingen in de bijdragende onderneming worden beperkt tot ten hoogste 5% v
 c. de beleggingen worden gewaardeerd op basis van marktwaardering.     
 2.  Bij of krachtens algemene maatregel van bestuur worden ter waarborging van het prudente beleggingsbeleid nadere regels gesteld.   
 3.  De eisen die zijn opgenomen in het eerste lid, aanhef en onderdeel b, en de regels die op grond van het tweede lid worden gesteld ten aanzien van de diversificatie van waarden zijn niet van toepassing op beleggingen in staatsobligaties.   
-4.  Een pensioenfonds vermeldt in zijn jaarverslag op welke wijze in het beleggingsbeleid rekening wordt gehouden met milieu en klimaat, mensenrechten en sociale verhoudingen. 
+4.  Een pensioenfonds vermeldt in zijn bestuursverslag op welke wijze in het beleggingsbeleid rekening wordt gehouden met milieu en klimaat, mensenrechten en sociale verhoudingen. 
 
 ### Artikel  136  
 
@@ -2415,9 +2415,9 @@ c. een beschrijving van de overige sturingsmiddelen.
 
 ### Artikel  146  
 
-####Jaarrekening en jaarverslag
+####Jaarrekening en bestuursverslag
 
-Een pensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van het boekjaar de jaarrekening en het jaarverslag overeenkomstig titel 9, Boek 2 van het Burgerlijk Wetboek vast, met dien verstande dat artikel 390 van genoemd wetboek niet van toepassing is en dat de in artikel 360, derde lid, 396 en 397 van genoemd wetboek geformuleerde uitzonderingen niet van toepassing zijn. 
+Een pensioenfonds met zetel in Nederland stelt binnen zes maanden na afloop van het boekjaar de jaarrekening en het bestuursverslag overeenkomstig titel 9, Boek 2 van het Burgerlijk Wetboek vast, met dien verstande dat artikel 390 van genoemd wetboek niet van toepassing is en dat de in artikel 360, derde lid, 396 en 397 van genoemd wetboek geformuleerde uitzonderingen niet van toepassing zijn. 
 
 ### Artikel  147  
 
