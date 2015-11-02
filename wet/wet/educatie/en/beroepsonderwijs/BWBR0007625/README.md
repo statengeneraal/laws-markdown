@@ -865,10 +865,10 @@ Onze Minister kan jaarlijks het bedrag vaststellen dat ten hoogste beschikbaar i
 
 ### Artikel  2.5.4  
 
-####Jaarverslag
+####Bestuursverslag
 
-1.  Het bevoegd gezag stelt jaarlijks een jaarverslag over het afgelopen jaar vast en maakt het openbaar. Het jaarverslag bevat ten minste het verslag, bedoeld in artikel 1.3.6, tweede lid, voorzover dat in het desbetreffende jaar is uitgebracht, dan wel de hoofdpunten van laatstgenoemd verslag, alsmede de hoofdpunten van de bevindingen van de inspectie met betrekking tot de examens. Ook legt het bevoegd gezag in het jaarverslag verantwoording af over de omgang met een branchecode voor goed bestuur. Bij ministeriële regeling kan een branchecode worden aangewezen.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van het jaarverslag.  
+1.  Het bevoegd gezag stelt jaarlijks een bestuursverslag over het afgelopen jaar vast en maakt het openbaar. Het bestuursverslag bevat ten minste het verslag, bedoeld in artikel 1.3.6, tweede lid, voorzover dat in het desbetreffende jaar is uitgebracht, dan wel de hoofdpunten van laatstgenoemd verslag, alsmede de hoofdpunten van de bevindingen van de inspectie met betrekking tot de examens. Ook legt het bevoegd gezag in het bestuursverslag verantwoording af over de omgang met een branchecode voor goed bestuur. Bij ministeriële regeling kan een branchecode worden aangewezen.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van het bestuursverslag.  
 
 ### Artikel  2.5.5  
 
@@ -1794,8 +1794,8 @@ b. voor een eenjarige basisberoepsopleiding en voor de specialistenopleiding ten
 
 c. voor een tweejarige basisberoepsopleiding en voor een tweejarige vakopleiding ten minste 2000 klokuren omvat, waarvan ten minste 1250 begeleide onderwijsuren en ten minste 450 klokuren beroepspraktijkvorming, met dien verstande dat in het eerste studiejaar ten minste 700 begeleide onderwijsuren worden verzorgd;  
 
-d. voor een driejarige vakopleiding en de middenkaderopleiding ten minste 3000 klokuren omvat, waarvan ten minste 1800 begeleide onderwijsuren en ten minste 900 klokuren beroepspraktijkvorming, met dien verstande dat in het eerste studiejaar ten minste 700 begeleide onderwijsuren worden verzorgd.   Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan de onder a tot en met d genoemde aantallen mits de opleiding aantoonbaar van voldoende kwaliteit is. In het geval het onderwijsprogramma minder uren omvat, legt het bevoegd gezag hierover verantwoording af in het jaarverslag, bedoeld in artikel 2.5.4 dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.   
-4.  Het onderwijsprogramma voor een opleiding in de beroepsbegeleidende leerweg voldoet aan de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming, bedoeld in het eerste lid, indien het bevoegd gezag voor de deelnemer een onderwijsprogramma verzorgt dat elk studiejaar ten minste 850 klokuren omvat, waarvan ten minste 200 begeleide onderwijsuren en ten minste 610 klokuren beroepspraktijkvorming. Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan de genoemde aantallen mits de opleiding aantoonbaar van voldoende kwaliteit is. In het geval het onderwijsprogramma minder uren omvat, legt het bevoegd gezag hierover verantwoording af in het jaarverslag, bedoeld in artikel 2.5.4 dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.   
+d. voor een driejarige vakopleiding en de middenkaderopleiding ten minste 3000 klokuren omvat, waarvan ten minste 1800 begeleide onderwijsuren en ten minste 900 klokuren beroepspraktijkvorming, met dien verstande dat in het eerste studiejaar ten minste 700 begeleide onderwijsuren worden verzorgd.   Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan de onder a tot en met d genoemde aantallen mits de opleiding aantoonbaar van voldoende kwaliteit is. In het geval het onderwijsprogramma minder uren omvat, legt het bevoegd gezag hierover verantwoording af in het bestuursverslag, bedoeld in artikel 2.5.4 dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.   
+4.  Het onderwijsprogramma voor een opleiding in de beroepsbegeleidende leerweg voldoet aan de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming, bedoeld in het eerste lid, indien het bevoegd gezag voor de deelnemer een onderwijsprogramma verzorgt dat elk studiejaar ten minste 850 klokuren omvat, waarvan ten minste 200 begeleide onderwijsuren en ten minste 610 klokuren beroepspraktijkvorming. Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan de genoemde aantallen mits de opleiding aantoonbaar van voldoende kwaliteit is. In het geval het onderwijsprogramma minder uren omvat, legt het bevoegd gezag hierover verantwoording af in het bestuursverslag, bedoeld in artikel 2.5.4 dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.   
 5.  Het onderwijsprogramma, bedoeld in het derde en vierde lid, omvat alle onderwijsactiviteiten, gericht op het bereiken van de onderwijs- en vormingsdoelen van de opleiding, waaraan door de deelnemer wordt deelgenomen onder verantwoordelijkheid en toezicht van het bevoegd gezag en bestaat uitsluitend uit begeleide onderwijsuren en beroepspraktijkvorming.   
 6.  De begeleide onderwijsuren, bedoeld in het eerste, derde, vierde en vijfde lid, zijn klokuren waarin onderwijs wordt gegeven onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de artikelen 4.2.1 en 4.2.2, niet zijnde uren die deel uit maken van de beroepspraktijkvorming.   
 7.  Indien in het laatste studiejaar van de basisberoepsopleiding of de vakopleiding de studieduur van de opleiding gerekend vanaf 1 september en naar boven afgerond op hele maanden minder is dan 10 maanden, worden het aantal begeleide onderwijsuren en het aantal klokuren beroepspraktijkvorming, genoemd in het derde lid, onder b, c en d en het vierde lid, in dat studiejaar evenredig verlaagd. De laatste twee volzinnen van het derde en vierde lid zijn van overeenkomstige toepassing.   
@@ -2680,7 +2680,7 @@ a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden 
 
 b. het goedkeuren van het bestuursreglement;  
 
-c. het goedkeuren van de begroting, de jaarrekening, het jaarverslag en, indien van toepassing, het strategisch meerjarenplan van de instelling;  
+c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag en, indien van toepassing, het strategisch meerjarenplan van de instelling;  
 
 d. het toezien op de naleving van wettelijke verplichtingen en de omgang met de branchecode, bedoeld in artikel 2.5.4, eerste lid, door het college van bestuur;  
 
@@ -2688,7 +2688,7 @@ e. het toezien op de rechtmatige verwerving en op de doelmatige en rechtmatige b
 
 f. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek die verslag uitbrengt aan de raad, en  
 
-g. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met f, in het jaarverslag van de instelling.     
+g. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met f, in het bestuursverslag van de instelling.     
 4.  Het college van bestuur voorziet de raad van toezicht van onafhankelijke administratieve ondersteuning.   
 5.  De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben daarin zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen.   
 6.  De statuten van de rechtspersoon die een bijzondere instelling in stand houdt, voorzien in een regeling die waarborgt dat de ondernemingsraad invloed kan uitoefenen op de samenstelling van de raad van toezicht van de desbetreffende instelling. De bedoelde regeling houdt ten minste in dat de ondernemingsraad in de gelegenheid wordt gesteld om 
@@ -2756,7 +2756,7 @@ c. indien de instelling een of meer organisatorische eenheden omvat:
 
 ####Functionele scheiding bestuur en toezicht
 
-In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen bestuur en toezicht worden aangebracht binnen het bestuur van de rechtspersoon waarvan de instelling uitgaat. De artikelen 9.1.4, tweede tot en met vijfde lid, 9.1.4a en 9.1.7 zijn van overeenkomstige toepassing. Het bevoegd gezag draagt zorg voor een deugdelijke scheiding tussen bestuur en toezicht, vermeldt in de statuten of het bestuursreglement de wijze waarop deze wordt gewaarborgd en vermeldt jaarlijks in het jaarverslag, bedoeld in artikel 2.5.4, de redenen voor de afwijking. 
+In afwijking van artikel 9.1.4, eerste lid, kan een functionele scheiding tussen bestuur en toezicht worden aangebracht binnen het bestuur van de rechtspersoon waarvan de instelling uitgaat. De artikelen 9.1.4, tweede tot en met vijfde lid, 9.1.4a en 9.1.7 zijn van overeenkomstige toepassing. Het bevoegd gezag draagt zorg voor een deugdelijke scheiding tussen bestuur en toezicht, vermeldt in de statuten of het bestuursreglement de wijze waarop deze wordt gewaarborgd en vermeldt jaarlijks in het bestuursverslag, bedoeld in artikel 2.5.4, de redenen voor de afwijking. 
 
 ### Titel  2  
 

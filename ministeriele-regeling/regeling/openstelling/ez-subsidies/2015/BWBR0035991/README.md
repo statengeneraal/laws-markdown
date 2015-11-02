@@ -26,18 +26,20 @@ Besluit:
 | Titel 2.9 Subsidie kosten vaccinatie pluimvee ter bestrijding van salmonella  | 2.9.2  | --- | --- | Tijdstip waarop de regeling van de Minister van Economische Zaken van 2 oktober 2015 houdende wijziging van de Regeling nationale EZ-subsidies en wijziging van de Regeling openstelling EZ-subsidies 2015 in verband met subsidie voor genotyperingskosten TSE in werking is getreden tot en met 31-12-2015  | € 180.000 voor de aankoop van gevaccineerd fokpluimvee of vermeerderingspluimvee voor de consumptie-ei-sector;  € 4.800.000 voor de aankoop van gevaccineerde leghennen of pluimvee dat daarvoor wordt opgefokt.  |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | --- | 06-01-2015 t/m 15-09-2015  | --- |
 | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | --- | 06-01-2015 t/m 15-10-2015  | --- |
+|Titel 3.2: TKI-toeslag | 3.2.2, onderdeel b  | --- | --- | 16-11-2015 t/m  14-10-2016  | --- |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | HTSM/ICT  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Tuinbouw & Uitgangsmaterialen  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Logistiek  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Life Sciences and Health  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Water  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
+|Titel 3.3 | 3.3.4 en 3.3.6  | --- | Water  | 2-11-2015 t/m  6-11-2015  | € 166.667, waarvan ten hoogste € 66.667 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Chemie/Biobased economy  | 19-5-2015 t/m  15-9-2015  | € 400.000, waarvan ten hoogste  € 200.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Creatieve Industrie  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Agri&Food  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.3:  TKI MKB-versterking  | 3.3.4 en 3.3.6  | --- | Energie  | 19-5-2015 t/m  15-9-2015  | € 200.000, waarvan ten hoogste  € 100.000 voor netwerkactiviteiten  |
 | Titel 3.4  | 3.4.4 en 3.4.15a  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 3.900.000  |
 | Titel 3.4  | 3.4.8  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 1.500.000  |
-| Titel 3.4  | 3.4.20  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 11.000.000  |
+| Titel 3.4  | 3.4.20  | --- | --- | 19-5-2015 t/m  15-9-2015  | € 12.500.000  |
 |Titel 3.5: Innovatieprestatiecontracten  | 3.5.17  | --- | --- | 08-10-2015 t/m 05-11-2015  | 3.000.000  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
 | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | --- | 10-06-2015 t/m 23-06-2015  | 9.162.500  |
@@ -46,7 +48,7 @@ Besluit:
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 20.000.000  |
 | Titel 3.9: Innovatiekredieten  | 3.9.2  | Technische ontwikkelingsprojecten  | --- | 01-01-2015 t/m 31-12-2015  | 40.000.000  |
 | Titel 3.10: Seed capital technostarters  | 3.10.2  | --- | --- | 01-01-2015 t/m 31-03-2015  | 24.000.000  |
-| Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | --- | 01-01-2015 t/m 31-12-2015  | 400.000.000  |
+| Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (banken en kredietinstellingen in de zin van de Wet financiële markten BES)  | --- | 01-01-2015 t/m 31-12-2015  | € 505.000.000  |
 | Titel 3.11: Borgstelling MKB-kredieten  | 3.11.2  | Bedrijfsborgstellingskredieten (door de minister aangewezen kredietverstrekkers)  | --- | 01-01-2015 t/m 31-12-2015  | 25.000.000  |
 | Titel 3.12: Groeifaciliteit  | 3.12.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 85.000.000  |
 | Titel 3.13: Garantie ondernemingsfinanciering  | 3.13.2 en 3.14.2  | --- | --- | 01-01-2015 t/m 31-12-2015  | 200.000.000  |

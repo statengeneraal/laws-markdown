@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken, Landbouw en Innovatie,   
+a. Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voorzover het betreft het onderwijs op het gebied van landbouw en natuurlijke omgeving, Onze Minister van Economische Zaken,   
 
 b. de inspectie: de Inspectie van het onderwijs,  
 
@@ -99,30 +99,28 @@ o. persoonsgebonden nummer: burgerservicenummer, bedoeld in artikel 1, onderdeel
 1.  Het toezicht op het onderwijs is opgedragen aan de inspectie.   
 2.  Het toezicht omvat de volgende taken: 
 
-a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen,  
+a. het beoordelen en bevorderen van de kwaliteit van het onderwijs, daaronder begrepen de kwaliteit van het onderwijspersoneel, aan instellingen als bedoeld in de onderwijswetten met uitzondering van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, het beoordelen en bevorderen van de kwaliteit van de uitoefening van de taken van de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, en het beoordelen van de kwaliteitsvoorwaarden van de voorschoolse educatie op peuterspeelzalen en kindercentra, bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen,  
 
 b. het beoordelen en bevorderen van de naleving van de bij of krachtens een onderwijswet gegeven voorschriften,  
 
 c. het beoordelen en bevorderen van de kwaliteit van het stelsel voor hoger onderwijs, met inbegrip van het stelsel van accreditatie, bedoeld in artikel 1.1, onderdelen q, r en s, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en het onderzoeken van de kwaliteit van het onderwijs aan een instelling voor hoger onderwijs anders dan ten behoeve van de accreditatie in het hoger onderwijs, bedoeld in hoofdstuk 5a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek,  
 
-d. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer van de bekostigde instellingen,  
+d. het beoordelen en bevorderen van de financiële rechtmatigheid door in ieder geval het verrichten van onderzoek naar de rechtmatige verkrijging van de bekostiging, naar de controlerapporten van de door het bestuur aangewezen accountant, naar de rechtmatigheid van de bestedingen en naar de rechtmatigheid van het financieel beheer van de bekostigde instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven,  
 
-e. het beoordelen en bevorderen van de rechtmatigheid en de doeltreffendheid van de uitoefening van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens hoofdstuk 1, afdelingen 3 en 6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, met uitzondering van de bij of krachtens artikel 1.50b vastgestelde bepalingen omtrent de kwaliteit van voorschoolse educatie,  
+e. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en  
 
-f. het rapporteren over de ontwikkeling van het onderwijs en over de uitoefening van de taken door de instellingen, de samenwerkingsverbanden en de kenniscentra beroepsonderwijs bedrijfsleven, in het bijzonder over de kwaliteit daarvan, en  
-
-g. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.     
+f. het verrichten van andere bij of krachtens de wet aan de inspectie opgedragen taken.     
 3.  Onze Minister kan de inspectie mandaat verlenen om: 
 
-a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van artikel 164 van de Wet op het primair onderwijs, artikel 146 van de Wet op de expertisecentra, artikel 104 van de Wet op het voortgezet onderwijs, artikel 11.1 van de Wet educatie en beroepsonderwijs of artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
+a. de bekostiging voor ten hoogste vijftien procent in te houden of geheel of gedeeltelijk op te schorten, op grond van artikel 164 van de Wet op het primair onderwijs, artikel 129 van de Wet primair onderwijs BES, artikel 146 van de Wet op de expertisecentra, artikel 104 van de Wet op het voortgezet onderwijs, artikel 184 van de Wet voortgezet onderwijs BES, artikel 11.1 van de Wet educatie en beroepsonderwijs, artikel 10.2 van de Wet educatie en beroepsonderwijs BES of artikel 15.1 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 b. een subsidie lager vast te stellen, te wijzigen, of gedeeltelijk in te trekken of terug te vorderen op grond van de afdelingen 4.2.5 tot en met 4.2.7 van de Algemene wet bestuursrecht;  
 
-c. bij of krachtens de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet educatie en beroepsonderwijs of de Wet op het hoger onderwijs en wetenschappelijk onderzoek correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;  
+c. bij of krachtens de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet op de expertisecentra, de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES, de Wet educatie en beroepsonderwijs, de Wet educatie en beroepsonderwijs BES of de Wet op het hoger onderwijs en wetenschappelijk onderzoek correcties aan te brengen of bedragen in mindering te brengen op de bekostiging;  
 
-d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de artikelen 6.1.5, 6.1.5b, 6.2.3, 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs te geven, of een besluit als bedoeld in de artikelen 6.1.4, 6.1.5b, 6.2.2, 6.2.3b en 6.3.2 van die wet te nemen;  
+d. voor zover het niet de enige opleiding in zijn soort betreft, een waarschuwing als bedoeld in de artikelen 6.1.5, 6.1.5b, 6.2.3, 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de artikelen 6.2.3, 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te geven, of een besluit als bedoeld in de artikelen 6.1.4, 6.1.5b, 6.2.2, 6.2.3b en 6.3.2 van de Wet educatie en beroepsonderwijs en de artikelen 6.2.1, 6.2.4 en 6.3.1 van de Wet educatie en beroepsonderwijs BES te nemen;  
 
-e. de bestuurlijke boete op te leggen, bedoeld in artikel 27 van de Leerplichtwet 1969; of  
+e. de bestuurlijke boete op te leggen, bedoeld in artikel 27 van de Leerplichtwet 1969 of artikel 39 van de Leerplichtwet BES; of  
 
 f. te beslissen op een tegen een besluit als bedoeld in de onderdelen a tot en met e ingediend bezwaarschrift.    
 
@@ -213,8 +211,7 @@ c. indien de ernst van de situatie waarop de melding betrekking heeft daartoe aa
 
 ####Reikwijdte
 
-1.  De artikelen 11, 12 en 15 zijn niet van toepassing op de instellingen voor hoger onderwijs.   
-2.  Hoofdstuk 3 is niet van toepassing op de uitvoering van de taken, opgedragen aan het college van burgemeester en wethouders bij of krachtens hoofdstuk 1, afdelingen 3 en 6 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
+De artikelen 11, 12 en 15 zijn niet van toepassing op de instellingen voor hoger onderwijs. 
 
 ### Artikel  11  
 
@@ -249,7 +246,7 @@ h. voor wat betreft de kwaliteit van het onderwijspersoneel:
 1°. de eisen van bevoegdheid en bekwaamheid,  
 
 2°. het personeelsbeleid, voor zover het betreft de duurzame borging van de kwaliteit van het onderwijspersoneel.       
-4.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het derde lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de kwaliteitsverbeteringen die de instelling heeft gerealiseerd.   
+4.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het derde lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na na ten hoogste één jaar onderzoek naar de kwaliteitsverbeteringen die de instelling heeft gerealiseerd.   
 5.  De inspectie stelt het bestuur in kennis van de datum en het doel van een onderzoek, bedoeld in het derde of vierde lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek. Indien de inspectie dit nodig oordeelt, verricht zij onderzoek zonder deze kennisgeving.   
 6.  Bij de uitvoering van een onderzoek, bedoeld in het derde of vierde lid, kan de inspectie onafhankelijke deskundigen betrekken.   
 7.  Het tweede lid, onderdeel c en het derde lid, onderdeel h, zijn van overeenkomstige toepassing op de instellingen, bedoeld in de Wet educatie en beroepsonderwijs.  
@@ -322,7 +319,8 @@ Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langd
 ####Informeren van Onze Minister
 
 1.  Indien de inspectie oordeelt dat de kwaliteit van het onderwijs ernstig of langdurig tekortschiet dan wel de naleving van voorschriften als bedoeld in de artikelen 11 en 12a tekortschiet, informeert zij Onze Minister en kan zij voorstellen doen over te treffen maatregelen.   
-2.  De inspectie stelt het bestuur van de betreffende instelling in kennis van haar voorstellen aan Onze Minister.  
+2.  De inspectie informeert Onze Minister indien naar het oordeel van de inspectie de kwaliteit van het onderwijs op een instelling die bestaat uit een school als bedoeld in de Wet op het primair onderwijs, op een instelling die bestaat uit een school als bedoeld in de Wet op de expertisecentra, of op een instelling waar onderwijs wordt gegeven van de soorten en leerwegen, genoemd in artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs, of een school voor praktijkonderwijs als bedoeld in de Wet op het voortgezet onderwijs, langer dan een jaar ernstig tekortschiet zonder dat de kwaliteitsverbeteringen, bedoeld in artikel 11, vierde lid, voldoende zijn gerealiseerd.  
+3.  De inspectie stelt het bestuur van de betreffende instelling in kennis van haar voorstellen aan Onze Minister.  
 
 ### Artikel  15  
 
@@ -353,11 +351,13 @@ Artikel 4 en artikel 8, eerste tot en met derde lid, zijn van overeenkomstige to
 
 1.  Artikel 11 is van overeenkomstige toepassing, met dien verstande dat de inspectie het onderzoek tevens verricht aan de hand van aspecten van kwaliteit, te weten: 
 
-a. de wijze waarop invulling is gegeven aan het ondersteuningsplan, bedoeld in artikel 18a van de Wet op het primair onderwijs en artikel 17a van de Wet op het voortgezet onderwijs, en de wijze waarop het wordt uitgevoerd;  
+a. de wijze waarop invulling is gegeven aan het ondersteuningsplan, bedoeld in artikel 18a van de Wet op het primair onderwijs en artikel 17a van de Wet op het voortgezet onderwijs, en de wijze waarop het wordt uitgevoerd,  
 
-b. het aantal leerplichtige jongeren wonend in het gebied van het samenwerkingsverband dat niet is ingeschreven bij een school als bedoeld in de Leerplichtwet 1969, en  
+b. het aantal leerplichtige jongeren wonend in het gebied van het samenwerkingsverband dat niet is ingeschreven bij een school als bedoeld in de Leerplichtwet 1969,  
 
-c. het aantal leerplichtige leerlingen van scholen in het samenwerkingsverband dat het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken zonder geldige reden niet meer volgt.     
+c. het aantal leerplichtige leerlingen van scholen in het samenwerkingsverband dat het onderwijs aan de school waaraan hij is ingeschreven gedurende een aaneengesloten periode van ten minste vier weken zonder geldige reden niet meer volgt, en  
+
+d. de wijze waarop een samenwerkingsverband zorg draagt voor de kwaliteit van het onderwijs aan een orthopedagogisch-didactisch centrum als bedoeld in artikel 18a, lid 10a, van de Wet op het primair onderwijs en artikel 17a, lid 10a, van de Wet op het voortgezet onderwijs.    
 2.  De artikelen 12, 13, 14 en 15 zijn van overeenkomstige toepassing. 
 
 ###Artikel 15d 
@@ -441,13 +441,13 @@ De artikelen 20, 21, 22 en 23 zijn van overeenkomstige toepassing, met dien vers
 
 ### Hoofdstuk  3d  
 
-####Toezicht kenniscentra beroepsonderwijs bedrijfsleven
+####Toezicht Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven
 
 ### Artikel  15l  
 
 ####Reikwijdte
 
-Dit hoofdstuk is van toepassing op het toezicht op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs. 
+Dit hoofdstuk is van toepassing op het toezicht op de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  15m  
 
@@ -459,8 +459,8 @@ De artikelen 4, artikel 8, eerste tot en met derde lid, en 9 zijn van overeenkom
 
 ####Uitoefening van het toezicht
 
-1.  Ter uitvoering van de in artikel 3, tweede lid, bedoelde taken, onderzoekt de inspectie jaarlijks de kwaliteit van de uitoefening van de wettelijke taken door de kenniscentra, bedoeld in de artikelen 1.5.2 van de Wet educatie en beroepsonderwijs en 10b4 van de Wet op het voortgezet onderwijs.   
-2.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het eerste lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de verbeteringen die het kenniscentrum heeft gerealiseerd.   
+1.  Ter uitvoering van de in artikel 3, tweede lid, bedoelde taken, onderzoekt de inspectie jaarlijks de kwaliteit van de uitoefening van de wettelijke taken door de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in de artikelen 1.5.1 van de Wet educatie en 10b4 van de Wet op het voortgezet onderwijs.   
+2.  Indien de inspectie naar aanleiding van het onderzoek, bedoeld in het eerste lid, oordeelt dat de kwaliteit tekortschiet, verricht zij na een door haar aangegeven termijn onderzoek naar de verbeteringen die de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven heeft gerealiseerd.   
 3.  De inspectie stelt het bestuur in kennis van de datum en het doel van het onderzoek, bedoeld in het eerste of tweede lid. Kennisgeving geschiedt ten minste vier weken voor aanvang van een onderzoek. Indien de inspectie dit nodig oordeelt, verricht zij onderzoek zonder deze kennisgeving.   
 4.  Bij de uitvoering van een onderzoek als bedoeld in het eerste of tweede lid, kan de inspectie onafhankelijke deskundigen betrekken.   
 5.  De artikelen 12, 13, 14 en 15 zijn van overeenkomstige toepassing.  
@@ -508,7 +508,7 @@ De inspectie draagt zorg voor een verantwoorde uitoefening van het toezicht.
 ####Klachtadviesprocedure en -commissie
 
 1.  Er is een klachtadviescommissie belast met de behandeling van en advisering over klachten over gedragingen van de inspectie. Op de behandeling van en advisering over klachten is de in afdeling 9.1.3 van de Algemene wet bestuursrecht geregelde procedure van toepassing.   
-2.  De klachtadviescommissie bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Economische Zaken, Landbouw en Innovatie. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter. De benoeming geschiedt voor de tijd van ten hoogste vier jaar.   
+2.  De klachtadviescommissie bestaat uit ten minste drie leden, die worden benoemd en ontslagen door Onze Minister van Onderwijs, Cultuur en Wetenschap na overleg met Onze Minister van Economische Zaken. De leden maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van de inspectie. De leden kiezen uit hun midden een voorzitter. De benoeming geschiedt voor de tijd van ten hoogste vier jaar. Herbenoeming kan tweemaal en telkens voor ten hoogste vier jaar plaatsvinden.   
 3.  De voorzitter en leden zijn afzonderlijk of gezamenlijk deskundig op het gebied van onderwijs, in het bijzonder op het gebied van de vrijheid van richting en inrichting, toezicht en klachtbehandeling.   
 4.  De klachtadviescommissie bepaalt haar eigen werkwijze.  
 
@@ -577,11 +577,11 @@ f. het meldingsregister relatief verzuim te voorzien van de gegevens die noodzak
 
 1.  In het basisregister onderwijs zijn de volgende gegevens opgenomen: 
 
-a. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op het primair onderwijs, tezamen met de andere gegevens, genoemd in artikel 178a, tweede en zevende lid, van de Wet op het primair onderwijs;  
+a. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op het primair onderwijs, tezamen met de andere gegevens, genoemd in artikel 178a, tweede en zevende lid, van de Wet op het primair onderwijs, en artikel 164a, leden 2a en 2b, van de Wet op de expertisecentra;  
 
-b. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op de expertisecentra, tezamen met de andere gegevens, genoemd in artikel 164a, tweede en achtste lid, van de Wet op de expertisecentra;  
+b. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op de expertisecentra, tezamen met de andere gegevens, artikel 164a, tweede lid, lid 2a, lid 2b, en achtste lid, van de Wet op de expertisecentra;  
 
-c. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op het voortgezet onderwijs, tezamen met de andere gegevens, genoemd in artikel 103b, tweede en achtste lid, van de Wet op het voortgezet onderwijs;  
+c. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een uit de openbare kas bekostigde school als bedoeld in de Wet op het voortgezet onderwijs, tezamen met de andere gegevens, genoemd in artikel 103b, tweede en achtste lid, van de Wet op het voortgezet onderwijs, en artikel 164a, leden 2a en 2b, van de Wet op de expertisecentra;  
 
 c1. de persoonsgebonden nummers van de leerlingen die zijn ingeschreven of ingeschreven zijn geweest aan een school die is aangewezen op grond van artikel 56 van de Wet op het voortgezet onderwijs, tezamen met de andere gegevens, bedoeld in artikel 103b, tweede en achtste lid, in samenhang met artikel 58, zevende lid, onderdeel a, van die wet; 
 
@@ -589,7 +589,7 @@ d. de persoonsgebonden nummers van de deelnemers aan een opleiding voortgezet al
 
 d1. de persoonsgebonden nummers van de deelnemers aan een opleiding educatie die zijn ingeschreven of ingeschreven zijn geweest aan een andere dan een in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs bedoelde instelling of een instelling als bedoeld in die wet voor een opleiding educatie ten aanzien waarvan toepassing is gegeven aan artikel 1.4a.1, eerste lid, van de Wet educatie en beroepsonderwijs, tezamen met de andere gegevens, bedoeld in artikel 2.3.6a, tweede en vijfde lid, in samenhang met artikel 1.4a.1, achtste lid, onderdeel a, van die wet; 
 
-e. de persoonsgebonden nummers van de deelnemers aan een beroepsopleiding die zijn ingeschreven of ingeschreven zijn geweest aan een uit ’s Rijks kas bekostigde instelling als bedoeld in de Wet educatie en beroepsonderwijs, tezamen met de andere gegevens, genoemd in artikel 2.5.5a, tweede en zevende lid, van de Wet educatie en beroepsonderwijs;  
+e. de persoonsgebonden nummers van de deelnemers aan een beroepsopleiding die zijn ingeschreven of ingeschreven zijn geweest aan een uit ’s Rijks kas bekostigde instelling als bedoeld in de Wet educatie en beroepsonderwijs, tezamen met de andere gegevens, genoemd in artikel 2.5.5a, tweede en zevende lid, van de Wet educatie en beroepsonderwijs, en artikel 164a, leden 2a en 2b van de Wet op de expertisecentra;  
 
 e1. de persoonsgebonden nummers van de deelnemers aan een beroepsopleiding die zijn ingeschreven of ingeschreven zijn geweest aan een andere dan een in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs bedoelde instelling of een instelling als bedoeld in die wet voor een beroepsopleiding ten aanzien waarvan toepassing is gegeven aan artikel 1.4.1, eerste lid, van de Wet educatie en beroepsonderwijs, tezamen met de andere gegevens, bedoeld in artikel 2.5.5a, tweede en zevende lid, in samenhang met artikel 1.4.1, zesde lid, onderdeel a, van die wet; 
 
@@ -663,9 +663,9 @@ b. het Uitvoeringsinstituut werknemersverzekeringen, voor zover dat noodzakelijk
 a. Onze Minister gegevens te verstrekken ten behoeve van de beleidsvoorbereiding; en  
 
 b. de gemeenten gegevens te verstrekken ten behoeve van de toekenning van uitkeringen, bedoeld in artikel 2 van de Wet participatiebudget, aan instellingen, en ten behoeve van de begrotings- en beleidsvoorbereiding inzake de gemeentelijke taken op het gebied van het onderwijs.     
-8.  Het Centraal bureau voor de statistiek mag de gegevens die het op grond van het zevende lid heeft ontvangen, openbaar maken in de vorm van overzichten die betrekking hebben op afzonderlijke scholen, instellingen of opleidingen, mits aan deze overzichten geen herkenbare gegevens over een afzonderlijk persoon of een afzonderlijk huishouden kunnen worden ontleend.   
+8.  Het Centraal bureau voor de statistiek kan de gegevens die het op grond van het zevende lid heeft ontvangen, alsmede de daaraan door het Centraal bureau voor de statistiek gekoppelde gegevens van belang voor statistische doeleinden op het gebied van arbeid als bedoeld in artikel 33, tweede lid, onderdeel e, van de Wet structuur uitvoeringsorganisatie werk en inkomen, openbaar maken in de vorm van overzichten die betrekking hebben op afzonderlijke scholen, instellingen of opleidingen, mits aan deze overzichten geen herkenbare gegevens over een afzonderlijk persoon of een afzonderlijk huishouden kunnen worden ontleend.   
 9.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens verstrekt aan de rijksbelastingdienst, voor zover dat noodzakelijk is voor de uitvoering van de wetgeving op het gebied van rijksbelastingen zoals bedoeld in artikel 1, tweede lid, van de Algemene wet inzake rijksbelastingen.   
-10.  Uit het basisregister onderwijs worden kosteloos aan kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs de gegevens, bedoeld in artikel 2.5.5a, tweede lid, onderdelen c, d, i en j, van die wet, alsmede de leeftijd van de deelnemer bij aanvang van de beroepspraktijkvorming verstrekt.   
+10.  Uit het basisregister onderwijs worden kosteloos aan de Samenwerkingsorganisatie beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs de gegevens, bedoeld in artikel 2.5.5a, tweede lid, onderdelen c, d, i en j, van die wet, alsmede de leeftijd van de deelnemer bij aanvang van de beroepspraktijkvorming verstrekt.   
 11.  Uit het basisregister onderwijs worden desgevraagd kosteloos persoonsgegevens en andere gegevens verstrekt aan Onze Minister van Sociale Zaken en Werkgelegenheid voor zover dit noodzakelijk is voor de uitvoering van zijn taken op grond van de Wet inburgering.   
 12.  Aan de instellingen en organen, genoemd in het eerste tot en met het elfde lid, wordt geen rechtstreekse toegang tot het basisregister verleend.   
 13.  Onze Minister verstrekt uit het basisregister onderwijs geen persoonsgebonden nummer van een leerling, deelnemer, student of extraneus ter uitvoering van artikel 107, tweede lid, van de Vreemdelingenwet 2000, tenzij deze gegevens noodzakelijk zijn voor nakoming van verplichtingen als referent in de zin van die wet dan wel voor het toezicht op de naleving van de wettelijke voorschriften met betrekking tot referenten in de zin van die wet.   
