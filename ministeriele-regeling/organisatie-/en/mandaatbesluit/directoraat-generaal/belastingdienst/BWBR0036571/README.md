@@ -3,7 +3,7 @@
 ##Het nieuwe Organisatie- en mandaatbesluit directoraat-generaal Belastingdienst, zoals laatstelijk gewijzigd bij besluit van 19 december 2006
 
 De Minister van Infrastructuur en Milieu,  
-Gelet opartikel 11 van het Organisatie- en mandaatbesluit ministerie van Financiën;
+Gelet op artikel 11 van het Organisatie- en mandaatbesluit ministerie van Financiën;
 
 Gehoord de Ondernemingsraad van het directoraat-generaal Belastingdienst;
 

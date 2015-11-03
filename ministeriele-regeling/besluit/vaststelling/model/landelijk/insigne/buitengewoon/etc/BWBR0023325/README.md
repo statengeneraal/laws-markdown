@@ -3,7 +3,7 @@
 ##Besluit van 31 december 2007, houdende vaststelling van het model van een landelijk insigne voor de buitengewoon opsporingsambtenaar
 
 De Minister van Justitie,  
-Gelet op [artikel 26a van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md);
+Gelet op artikel 26a van het Besluit buitengewoon opsporingsambtenaar;
 Besluit:    
 
 ### Artikel  1  
@@ -22,6 +22,11 @@ Het insigne/badge is uitgevoerd in donkergrijze stof met een donkergrijze afwerk
 
 Dit besluit treedt in werking met ingang van 1 januari 2008 
 
+### Artikel  4a  
+
+1.  De Staat der Nederlanden (Ministerie van Veiligheid en Justitie) maakt ten aanzien van het auteursrecht op het in artikel 2 en 3 van dit besluit omschreven insigne een voorbehoud als bedoeld in artikel 15b van de Auteurswet.   
+2.  Een afbeelding van het insigne zoals geregistreerd bij het Benelux Merkenbureau onder inschrijvingsnummer 0817662 wordt als bijlage bij deze regeling opgenomen.  
+
 ### Artikel  5  
 
 Dit besluit wordt aangehaald als: ‘Besluit vaststelling model landelijk insigne buitengewoon opsporingsambtenaar’. 
@@ -32,4 +37,9 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H. Hirsch Ballin     
+E.M.H. Hirsch Ballin    
+
+###Bijlage 
+
+![256249](http://wetten.overheid.nl/Illustration/256249)
+

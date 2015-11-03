@@ -1324,6 +1324,15 @@ Het bevoegd gezag bepaalt welke beroepsopleidingen de instelling verzorgt. Ten a
 2.  Bij ministeriële regeling worden voorschriften gegeven omtrent de wijze waarop de melding wordt gedaan.   
 3.  Onze Minister maakt de melding openbaar.  
 
+### Artikel  6.1.2a  
+
+####Zorgplicht keuzedelen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bevoegd gezag zorgt ervoor dat de instelling voldoende keuzedelen verzorgt waar deelnemers uit kunnen kiezen in het kader van hun beroepsopleiding.   
+2.  Het bevoegd gezag kan één of meer onderdelen van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onder b tot en met d, aanbieden die niet behoren tot de kwalificaties of de keuzedelen, mits deze onderdelen betrekking hebben op persoonlijke, culturele of levensbeschouwelijke vorming, aantoonbaar van voldoende kwaliteit zijn en niet samenvallen met onderdelen van de desbetreffende kwalificatie. Bij toepassing van de eerste volzin legt het bevoegd gezag hierover verantwoording af in het jaarverslag, bedoeld in artikel 2.5.4, dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.  
+
 ### Artikel  6.1.3  
 
 ####Zorgplicht arbeidsmarktperspectief, belang beroepsopleidingen en doelmatigheid

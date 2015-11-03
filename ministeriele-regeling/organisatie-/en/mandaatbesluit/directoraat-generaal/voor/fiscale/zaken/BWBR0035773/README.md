@@ -14,8 +14,6 @@ Besluit:
 
 ####Algemene leiding
 
-Treedt in werking per 23-11-2014 
-
 1.  De directeur-generaal voor Fiscale Zaken en de plaatsvervangend directeur-generaal voor Fiscale Zaken vormen de algemene leiding van het directoraat-generaal voor Fiscale Zaken.   
 2.  Een van de directeuren van het directoraat-generaal voor Fiscale Zaken is tevens de plaatsvervangend directeur-generaal voor Fiscale Zaken.   
 3.  In de bij dit besluit behorende bijlage 2 wordt vastgesteld welke directeur tevens plaatsvervangend directeur-generaal is.  
@@ -23,8 +21,6 @@ Treedt in werking per 23-11-2014
 ### Artikel  2  
 
 ####Organisatie, taken en verantwoordelijkheden
-
-Treedt in werking per 23-11-2014 
 
 1.  De organisatie en taken van de onder de directeur-generaal voor Fiscale Zaken ressorterende directies worden vastgesteld zoals weergegeven in de bij dit besluit behorende bijlage 1.   
 2.  De directeuren zijn verantwoordelijk voor hun beleidsterreinen zoals genoemd in bijlage 1, voor de samenhang tussen hun beleidsterreinen en voor de bijbehorende bedrijfsvoering.   
@@ -34,15 +30,11 @@ Treedt in werking per 23-11-2014
 
 ####Budgethouderschap
 
-Treedt in werking per 23-11-2014 
-
 In bijlage 2 zijn de budgethouders aangewezen alsmede de budgetten waarvoor zij bevoegd zijn. De budgethouders zijn bevoegd verplichtingen – met financiële consequenties – aan te gaan en uitgaven goed te keuren binnen hun budgetten en passend binnen hun taken. 
 
 ### Artikel  4  
 
 ####Mandaat primaire processen
-
-Treedt in werking per 23-11-2014 
 
 1.  De directeuren van de in bijlage 1 genoemde directies en hun plaatsvervangers hebben binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of de algemene leiding van het directoraat-generaal voor Fiscale Zaken gegeven richtlijnen mandaat tot het nemen van besluiten en afdoen van stukken betreffende alle beleidsaangelegenheden die behoren tot hun werkterrein genoemd in bijlage 1.   
 2.  De in het eerste lid toegekende mandaten kunnen binnen het kader van hun taken ook worden uitgeoefend door de onder de directeuren ressorterende functionarissen die daartoe worden gemandateerd in bijlage 2.   
@@ -52,8 +44,6 @@ Treedt in werking per 23-11-2014
 ### Artikel  5  
 
 ####Mandaat bedrijfsvoering
-
-Treedt in werking per 23-11-2014 
 
 1.  De directeuren van de in bijlage 1 genoemde directies en hun plaatsvervangers hebben, binnen het kader van hun jaarplannen en binnen door de minister of namens de minister door de secretaris-generaal of directeur-generaal voor Fiscale Zaken gegeven richtlijnen en behoudens de bepalingen in het Organisatie- en Mandaatbesluit ministerie van Financiën, mandaat tot het nemen van besluiten en afdoen van stukken betreffende alle bedrijfsvoeringsaangelegenheden die behoren tot hun werkterrein genoemd in bijlage 1.   
 2.  De in het eerste lid toegekende mandaten kunnen binnen het kader van hun taken ook worden uitgeoefend door de onder de directeuren ressorterende functionarissen die daartoe worden gemandateerd in bijlage 2.   
@@ -106,15 +96,11 @@ j. korting bezoldiging bij arbeidsongeschiktheid;
 
 ####Mandaatregister
 
-Treedt in werking per 23-11-2014 
-
 Onderdeel van deze regeling vormt een mandaatregister dat is opgenomen in bijlage 2. Het mandaatregister bevat handtekeningen en parafen van de in de artikelen 3, 4 en 5 gemandateerde functionarissen. 
 
 ### Artikel  7  
 
 ####Verantwoordelijkheden
-
-Treedt in werking per 23-11-2014 
 
 De in artikel 3 en artikel 4 tweede lid gemandateerde functionarissen zijn verantwoordelijk voor een adequate uitvoering van het toegekende mandaat. 
 
@@ -122,23 +108,17 @@ De in artikel 3 en artikel 4 tweede lid gemandateerde functionarissen zijn veran
 
 ####Intrekking andere regelingen
 
-Treedt in werking per 23-11-2014 
-
 De volgende regeling wordt ingetrokken: Organisatie- en mandaatbesluit directoraat-generaal voor Fiscale Zaken, zoals laatstelijk gewijzigd bij besluit van 25 mei 2010.
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Treedt in werking per 23-11-2014 
-
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 mei 2014. 
 
 ### Artikel  10  
 
 ####Citeertitel
-
-Treedt in werking per 23-11-2014 
 
 Deze regeling wordt aangehaald als: Organisatie- en mandaatbesluit directoraat-generaal voor Fiscale Zaken. 
 
@@ -148,8 +128,6 @@ A. Berg
 ### Bijlage 1 
 
 ####bij het organisatie- en mandaatbesluit directoraat-generaal voor fiscale zaken
-
-Treedt in werking per 23-11-2014 
 
 ####Organisatie en taken van de directies van het directoraat-generaal voor Fiscale Zaken
 
@@ -320,6 +298,5 @@ c. de *afdeling Omzetbelasting, Assurantiebelasting en Overdrachtsbelasting* met
 * als mede het formuleren over en het inbrengen van een Nederlands standpunt ten aanzien van Europese wetgevende voorstellen op bovengenoemde terreinen.       
 
 ###Bijlage 2 
-Treedt in werking per 23-11-2014 
 
 Niet opgenomen.
