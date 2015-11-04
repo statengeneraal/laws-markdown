@@ -3,14 +3,14 @@
 ##Regeling cusumsysteem boordcomputer taxi
 
 De Directie van de Dienst Wegverkeer,  
-Gelet op [artikel 24, eerste lid, van de Regeling erkenning werkplaatsen boordcomputer taxi](../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md), Stcrt. 2011, nr 18616;
+Gelet op artikel 24, eerste lid, van de Regeling erkenning werkplaatsen boordcomputer taxi, Stcrt. 2011, nr 18616;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *steekproef:* mededeling uitoefening toezicht na melding als bedoeld in [artikel 17 van de Regeling erkenning werkplaatsen boordcomputer taxi](../../../../../../ministeriele-regeling/regeling/erkenning/werkplaatsen/boordcomputer/taxi/BWBR0030525/README.md)  
+a.  *steekproef:* mededeling uitoefening toezicht na melding als bedoeld in artikel 17 van de Regeling erkenning werkplaatsen boordcomputer taxi  
 
 b.  *cusumsysteem:* het systeem van bonus- en strafpunten;  
 

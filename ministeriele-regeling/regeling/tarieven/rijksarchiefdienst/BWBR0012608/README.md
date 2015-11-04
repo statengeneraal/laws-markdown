@@ -3,7 +3,7 @@
 ##Regeling tarieven Rijksarchiefdienst
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen;  
-Gelet op [artikel 19 van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md),
+Gelet op artikel 19 van de Archiefwet 1995,
 Besluit:     
 
 ### Artikel  1  
@@ -12,7 +12,7 @@ Vastgesteld worden de in de bijlage opgenomen tarieven.
 
 ### Artikel  2  
 
-De [Regeling Tarieven Rijksarchiefdienst](../../../../../ministeriele-regeling/regeling/tarieven/rijksarchiefdienst/BWBR0007766/README.md) van 4 mei 1999/nr. 99851, gepubliceerd op 12 mei 1999, Stcrt. 90, wordt ingetrokken.  
+De Regeling Tarieven Rijksarchiefdienst van 4 mei 1999/nr. 99851, gepubliceerd op 12 mei 1999, Stcrt. 90, wordt ingetrokken.  
 
 ### Artikel  3  
 
@@ -20,7 +20,7 @@ Deze regeling treedt in werking met ingang van 1 juli 2001 en zal met de daarbij
 
 ### Artikel  4  
 
-Deze regeling kan worden aangehaald als [Regeling tarieven rijksarchiefdienst](../../../../../ministeriele-regeling/regeling/tarieven/rijksarchiefdienst/BWBR0007766/README.md).  
+Deze regeling kan worden aangehaald als Regeling tarieven rijksarchiefdienst.  
 
 ### Artikel  5  
 
@@ -32,7 +32,6 @@ Algemene Rijksarchivaris,
 M.W. van  Boven     
 
 ###Bijlage 
-Treedt in werking op een nader te bepalen tijdstip 
 
 Per dienst of levering worden drie tarieven vermeld: het 1e is het f-tarief per 1 juli 2001; het 2e is het €-tarief per 1 juli 2001; het 3e is het €-tarief per 1 januari 2002.
 
@@ -52,7 +51,7 @@ Door iedere archiefbewaarplaats wordt bekend gemaakt in welke vormen en formaten
 
 ####Fotokopieën
 
-In opdracht:A4 en folio per afdruk: f 0,75/€ 0,34/€ 0,30A3 per afdruk: f 1,00/€ 0,45/€ 0,40Zelfbediening (toegestaan mits geen archiefstuk):A4 en folio per afdruk: f 0,25/€ 0,11/€ 0,10A3 per afdruk: f 0,50/€ 0,22/€ 0,20Met toepassing van [artikel 17, tweede lid, van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) worden geen fotokopieën gemaakt van:
+In opdracht:A4 en folio per afdruk: f 0,75/€ 0,34/€ 0,30A3 per afdruk: f 1,00/€ 0,45/€ 0,40Zelfbediening (toegestaan mits geen archiefstuk):A4 en folio per afdruk: f 0,25/€ 0,11/€ 0,10A3 per afdruk: f 0,50/€ 0,22/€ 0,20Met toepassing van artikel 17, tweede lid, van de Archiefwet 1995 worden geen fotokopieën gemaakt van:
 
 archiefbescheiden daterend van vóór 1600
 

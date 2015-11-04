@@ -4,20 +4,20 @@
 
 ####Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Het Koninkrijk der Nederlanden en De Bondsrepubliek Duitsland Geleid door de wens een nieuw verdrag te sluiten tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen,   Zijn het volgende overeengekomen:     
 ### HOOFDSTUK  I  
 
 ####REIKWIJDTE VAN HET VERDRAG
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  1  
 
 ####Personen op wie het Verdrag van toepassing is
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide verdragsluitende staten. 
 
@@ -25,7 +25,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een of van beide 
 
 ####Belastingen waarop het Verdrag van toepassing is
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Dit Verdrag is van toepassing op belastingen naar het inkomen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een verdragsluitende staat, van een deelstaat of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen van een staat of deelstaat.   
 2.  Als belastingen naar het inkomen worden beschouwd alle belastingen die worden geheven naar het gehele inkomen of naar bestanddelen van het inkomen, waaronder begrepen belastingen naar voordelen verkregen uit de vervreemding van roerende of onroerende zaken, belastingen naar het totale bedrag van de door ondernemingen betaalde lonen of salarissen, alsmede belastingen naar waardevermeerdering.   
@@ -54,13 +54,13 @@ dd) de dividendbelasting;   (hierna te noemen: „Nederlandse belasting”).
 
 ####BEGRIPSOMSCHRIJVINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  3  
 
 ####Algemene begripsomschrijvingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voor de toepassing van dit Verdrag, tenzij de context anders vereist: 
 
@@ -101,7 +101,7 @@ bb) wat Nederland betreft, de minister van Financiën of zijn bevoegde vertegenw
 
 ####Inwoner
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een verdragsluitende staat” iedere persoon die, ingevolge de wetgeving van die staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding, plaats van oprichting of enige andere soortgelijke omstandigheid en omvat tevens de staat zelf, een deelstaat en elk staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van een staat of deelstaat. Deze uitdrukking omvat echter niet een persoon die in die staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die staat.   
 2.  Indien een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide verdragsluitende staten is, wordt zijn positie als volgt bepaald: 
@@ -120,7 +120,7 @@ d) indien hij onderdaan is van beide staten of van geen van beide, regelen de be
 
 ####Vaste inrichting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.   
 2.  De uitdrukking „vaste inrichting” omvat in het bijzonder: 
@@ -167,13 +167,13 @@ f) het aanhouden van een vaste bedrijfsinrichting, uitsluitend voor een combinat
 
 ####BELASTINGHEFFING NAAR HET INKOMEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  6  
 
 ####Inkomsten uit onroerende zaken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Inkomsten verkregen door een inwoner van een verdragsluitende staat uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere verdragsluitende staat zijn gelegen, mogen in die andere staat worden belast.   
 2.  De uitdrukking „onroerende zaken” heeft de betekenis welke die uitdrukking heeft volgens de wetgeving van de verdragsluitende staat waar de desbetreffende zaken zijn gelegen. De uitdrukking omvat in ieder geval de zaken die bij de onroerende zaken behoren, levende en dode have van landbouw- en bosbedrijven, rechten waarop de bepalingen van het privaatrecht betreffende de grondeigendom van toepassing zijn, vruchtgebruik van onroerende zaken en rechten op veranderlijke of vaste vergoedingen ter zake van de exploitatie, of concessie tot exploitatie, van minerale aardlagen, bronnen en andere natuurlijke rijkdommen; schepen, binnenschepen en luchtvaartuigen worden niet als onroerende zaken beschouwd.   
@@ -184,7 +184,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Winst uit onderneming
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De voordelen van een onderneming van een verdragsluitende staat zijn slechts in die staat belastbaar, tenzij de onderneming in de andere verdragsluitende staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen die in overeenstemming met de bepalingen van het tweede lid aan de vaste inrichting kunnen worden toegerekend in die andere staat worden belast.   
 2.  Voor de toepassing van dit artikel en van artikel 22 zijn de voordelen die in elk van de verdragsluitende staten aan de vaste inrichting bedoeld in het eerste lid kunnen worden toegerekend de voordelen die zij naar verwachting zou behalen, in het bijzonder via haar handelen met andere onderdelen van de onderneming, indien zij een afzonderlijke en zelfstandige onderneming zou zijn die dezelfde of soortgelijke werkzaamheden zou uitoefenen onder dezelfde of soortgelijke omstandigheden, rekening houdend met de door de onderneming via de vaste inrichting en andere onderdelen van de onderneming uitgeoefende functies, gebruikte vermogensbestanddelen en genomen risico’s.   
@@ -197,7 +197,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Zeevaart, binnenvaart en luchtvervoer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de verdragsluitende staat waarin de plaats van de werkelijke leiding van de onderneming is gelegen.   
 2.  Voordelen uit de exploitatie van binnenschepen zijn slechts belastbaar in de verdragsluitende staat waarin de plaats van de werkelijke leiding van de onderneming is gelegen.   
@@ -213,7 +213,7 @@ b) het gebruik of de verhuur van containers (daaronder begrepen opleggers en hul
 
 ####Gelieerde ondernemingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Indien 
 
@@ -226,7 +226,7 @@ b) dezelfde personen onmiddellijk of middellijk deelnemen aan de leiding van, aa
 
 ####Dividenden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Dividenden betaald door een lichaam dat inwoner is van een verdragsluitende staat aan een inwoner van de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  Deze dividenden mogen echter ook in de verdragsluitende staat waarvan het lichaam dat de dividenden betaalt inwoner is, overeenkomstig de wetgeving van die staat, worden belast, maar indien de uiteindelijk gerechtigde tot de dividenden een inwoner van de andere verdragsluitende staat is, mag de aldus geheven belasting niet overschrijden: 
@@ -245,7 +245,7 @@ c) 15 percent van het brutobedrag van de dividenden in alle overige gevallen.   
 
 ####Interest
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Interest afkomstig uit een verdragsluitende staat die wordt verkregen door een inwoner van de andere verdragsluitende staat die de uiteindelijke gerechtigde is, is slechts in die andere staat belastbaar.   
 2.  De uitdrukking „interest”, zoals gebezigd in dit artikel, betekent inkomsten uit schuldvorderingen van welke aard ook, al dan niet verzekerd door hypotheek, al dan niet aanspraak gevend op een aandeel in de winst van de schuldenaar, en in het bijzonder inkomsten uit overheidsleningen en inkomsten uit obligaties of schuldbewijzen, waaronder begrepen de aan zodanige leningen, obligaties of schuldbewijzen verbonden premies en prijzen. In rekening gebrachte boetes voor te late betaling worden voor de toepassing van dit artikel niet als interest aangemerkt.   
@@ -256,7 +256,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Royalty’s
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Royalty’s afkomstig uit een verdragsluitende staat die worden verkregen door een inwoner van de andere verdragsluitende staat die de uiteindelijke gerechtigde is, zijn slechts in die andere staat belastbaar.   
 2.  De uitdrukking „royalty’s”, zoals gebezigd in dit artikel, betekent vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, of voor informatie omtrent ervaringen op het gebied van nijverheid, handel of wetenschap.   
@@ -267,7 +267,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vermogenswinsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voordelen verkregen door een inwoner van een verdragsluitende staat uit de vervreemding van onroerende zaken als bedoeld in artikel 6 en die zijn gelegen in de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  Voordelen verkregen door een inwoner van een verdragsluitende staat uit de vervreemding van aandelen van een lichaam, of daarmee vergelijkbare belangen, niet zijnde aandelen die worden verhandeld aan een erkende effectenbeurs, die meer dan 75 percent van hun waarde middellijk of onmiddellijk ontlenen aan onroerende zaken gelegen in de andere verdragsluitende staat, niet zijnde onroerende zaken waarin dat lichaam of de houders van die belangen hun bedrijf uitoefenen, mogen in die andere verdragsluitende staat worden belast. Deze voordelen zijn echter uitsluitend belastbaar in de eerstgenoemde staat indien: 
@@ -284,7 +284,7 @@ b) de voordelen voortvloeien uit een reorganisatie, fusie, splitsing of soortgel
 
 ####Inkomsten uit dienstbetrekking
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Onder voorbehoud van de bepalingen van de artikelen 15, 17, 18 en 19 zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een verdragsluitende staat ter zake van een dienstbetrekking slechts in die staat belastbaar, tenzij de dienstbetrekking in de andere verdragsluitende staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere staat worden belast.   
 2.  Niettegenstaande de bepalingen van het eerste lid, is de beloning verkregen door een inwoner van een verdragsluitende staat ter zake van een in de andere verdragsluitende staat uitgeoefende dienstbetrekking slechts in de eerstbedoelde staat belastbaar, indien: 
@@ -301,7 +301,7 @@ c) de beloning niet ten laste komt van een vaste inrichting die de werkgever in 
 
 ####Directeursbeloningen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Directeursbeloningen en andere beloningen verkregen door een inwoner van een verdragsluitende staat in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere verdragsluitende staat, mogen in die andere staat worden belast.   
 2.  De uitdrukking „lid van de raad van beheer” omvat zowel personen die zijn belast met de algemene leiding van het lichaam als personen die zijn belast met het toezicht daarop.  
@@ -310,7 +310,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Artiesten en sportbeoefenaars
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Niettegenstaande de bepalingen van de artikelen 7 en 14, mogen inkomsten verkregen door een inwoner van een verdragsluitende staat als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere verdragsluitende staat, worden belast in die andere staat.   
 2.  Indien inkomsten ter zake van persoonlijke werkzaamheden die door een artiest of een sportbeoefenaar in die hoedanigheid worden verricht, niet aan de artiest of sportbeoefenaar zelf toekomen, maar aan een andere persoon, mogen die inkomsten, niettegenstaande de bepalingen van de artikelen 7 en 14, worden belast in de verdragsluitende staat waarin de werkzaamheden van de artiest of sportbeoefenaar worden verricht.   
@@ -320,7 +320,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Pensioenen, lijfrenten en socialezekerheidsuitkeringen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Onder voorbehoud van de bepalingen van artikel 18, tweede lid, zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een verdragsluitende staat alsmede lijfrenten betaald aan een inwoner van een verdragsluitende staat slechts in die staat belastbaar. Pensioenen en andere uitkeringen betaald krachtens de bepalingen van een socialezekerheidsstelsel van een verdragsluitende staat (socialezekerheidspensioenen) aan een inwoner van de andere verdragsluitende staat zijn slechts in die andere staat belastbaar.   
 2.  Niettegenstaande de bepalingen van het eerste lid, mag een pensioen of andere soortgelijke beloning, alsmede een lijfrente of socialezekerheidspensioen ook worden belast in de verdragsluitende staat waaruit het afkomstig is, in overeenstemming met de wetgeving van die staat, indien het totale bruto bedrag ervan in enig kalenderjaar de som van 15.000 euro te boven gaat.   
@@ -338,7 +338,7 @@ b) wat de Bondsrepubliek Duitsland betreft: een vaste som, periodiek betaalbaar 
 
 ####Overheidsfuncties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Salarissen, lonen en andere soortgelijke beloningen, betaald door een verdragsluitende staat, deelstaat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, aan een natuurlijke persoon ter zake van diensten verleend aan die staat, deelstaat of dat staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam daarvan, zijn slechts in die staat belastbaar. Deze salarissen, lonen en andere soortgelijke beloningen zijn echter slechts in de andere verdragsluitende staat belastbaar, indien de diensten in die staat worden verleend en de natuurlijke persoon een inwoner is van die staat die: 
 
@@ -353,7 +353,7 @@ b) niet uitsluitend voor het verlenen van de diensten inwoner van die staat werd
 
 ####Bezoekende hoogleraren en docenten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Vergoedingen en andere beloningen die een hoogleraar of docent, die inwoner is van een verdragsluitende staat en die in de andere verdragsluitende staat verblijft met het doel gedurende een tijdvak van ten hoogste twee jaar, te rekenen vanaf de datum waarop het onderwijs of de wetenschappelijke activiteiten daadwerkelijk aanvangen, onderwijs te geven of zich met wetenschappelijk onderzoek bezig te houden aan een universiteit, hogeschool of andere inrichting voor onderwijs of wetenschappelijk onderzoek in die andere staat, voor dat onderwijs of dat onderzoek ontvangt, zijn vrijgesteld van belasting in de andere verdragsluitende staat indien deze vergoedingen of andere beloningen niet afkomstig zijn uit die andere verdragsluitende staat.   
 2.  Dit artikel is niet van toepassing op inkomsten uit het verrichten van wetenschappelijk onderzoek, indien dit onderzoek niet wordt verricht in het algemeen belang, maar in de eerste plaats voor het persoonlijk nut van een bepaalde persoon of bepaalde personen.  
@@ -362,7 +362,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Studenten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een verdragsluitende staat inwoner was van de andere verdragsluitende staat en die uitsluitend voor zijn studie of opleiding in de eerstbedoelde staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die staat niet belastbaar, mits deze vergoedingen afkomstig zijn uit bronnen buiten die staat. 
 
@@ -370,7 +370,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ####Overige inkomsten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Bestanddelen van het inkomen van een inwoner van een verdragsluitende staat, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die staat belastbaar.   
 2.  De bepalingen van het eerste lid zijn niet van toepassing op inkomsten, niet zijnde inkomsten uit onroerende zaken zoals omschreven in artikel 6, tweede lid, indien de genieter van die inkomsten, die inwoner is van een verdragsluitende staat, in de andere verdragsluitende staat een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting en het recht of de zaak ter zake waarvan de inkomsten worden betaald tot het bedrijfsvermogen van die vaste inrichting behoort. In dat geval zijn de bepalingen van artikel 7 van toepassing.  
@@ -379,13 +379,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####VERMIJDEN VAN DUBBELE BELASTING
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  22  
 
 ####Vermijden van dubbele belasting
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  In het geval van een inwoner van de Bondsrepubliek Duitsland wordt de belasting als volgt vastgesteld: 
 
@@ -425,13 +425,13 @@ d) Niettegenstaande de bepalingen van het tweede lid, onderdeel b, verleent Nede
 
 ####BIJZONDERE BEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  23  
 
 ####Toepassing van het Verdrag in bijzondere gevallen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Dit Verdrag mag niet zodanig worden uitgelegd dat de verdragsluitende staten worden belet hun nationale wettelijke bepalingen ter voorkoming van het ontgaan of vermijden van belasting toe te passen.   
 2.  Op verzoek van de belastingplichtige raadplegen de bevoegde autoriteiten elkaar in overeenstemming met artikel 25, derde lid, indien de nationale wettelijke bepalingen als bedoeld in het eerste lid leiden tot dubbele belastingheffing of indien de belastingplichtige meent dat de belastingheffing niet in overeenstemming is met de bepalingen van dit Verdrag.  
@@ -440,7 +440,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Non-discriminatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Onderdanen van een verdragsluitende staat worden in de andere verdragsluitende staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmee verband houdende verplichtingen waaraan onderdanen van die andere staat onder dezelfde omstandigheden, in het bijzonder met betrekking tot woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in artikel 1, ook van toepassing op personen die geen inwoner zijn van een of van beide verdragsluitende staten.   
 2.  Staatlozen die inwoner zijn van een verdragsluitende staat worden in geen van de verdragsluitende staten aan enige belastingheffing of daarmee verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmee verband houdende verplichtingen waaraan onderdanen van de desbetreffende staat onder dezelfde omstandigheden, in het bijzonder met betrekking tot de woonplaats, zijn of kunnen worden onderworpen.   
@@ -458,7 +458,7 @@ b) de bevoegde autoriteit van de eerstbedoelde staat ermee instemt dat de pensio
 
 ####Procedure voor onderling overleg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Indien een persoon van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de verdragsluitende staat waarvan hij inwoner is, of, indien zijn geval valt onder artikel 24, eerste lid, aan die van de verdragsluitende staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.   
 2.  De bevoegde autoriteit tracht, indien het bezwaar haar gegrond voorkomt en indien zij niet zelf in staat is tot een bevredigende oplossing te komen, het geval in onderling overleg met de bevoegde autoriteit van de andere verdragsluitende staat op te lossen teneinde belastingheffing die niet in overeenstemming is met het Verdrag, te vermijden. De bereikte overeenstemming wordt ten uitvoer gelegd niettegenstaande de eventuele verjaringstermijnen in de nationale wetgeving van de verdragsluitende staten.   
@@ -474,7 +474,7 @@ b) de bevoegde autoriteiten er niet in slagen om binnen twee jaar nadat het geva
 
 ####Boekenonderzoeken op grensoverschrijdende bedrijventerreinen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Indien een onderneming van een van de verdragsluitende staten een vaste bedrijfsinrichting heeft die zich geheel of gedeeltelijk bevindt op het deel van een grensoverschrijdend bedrijventerrein dat behoort tot het grondgebied van de andere verdragsluitende staat en het recht tot belastingheffing over de inkomsten van deze onderneming of over de inkomsten uit dienstbetrekking van werknemers die voor deze onderneming werkzaam zijn, toekomt aan de eerstgenoemde verdragsluitende staat, dan mag de eerstgenoemde staat in zoverre zelfstandig boekenonderzoeken verrichten voor de vaststelling van de fiscale omstandigheden in deze vaste bedrijfsinrichting. De andere staat heeft het recht aan het boekenonderzoek deel te nemen.   
 2.  De verdragsluitende staat op het grondgebied waarvan de uitvoering van een boekenonderzoek als bedoeld in het eerste lid is voorzien, moet daarvan ten minste twee weken voor de geplande aanvang van het voorgenomen onderzoek door de andere verdragsluitende staat in kennis worden gesteld. In de kennisgeving dient mededeling te worden gedaan van: 
@@ -496,7 +496,7 @@ e) welke belastingmiddelen en tijdvakken het onderzoek omvat.   Na afsluiting va
 
 ####Uitwisseling van informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De bevoegde autoriteiten van de verdragsluitende staten wisselen de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van dit Verdrag of voor de toepassing of de handhaving van de nationale wetgeving betreffende belastingen van elke soort en benaming die worden geheven ten behoeve van een verdragsluitende staat, een deelstaat of van een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, voor zover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van informatie wordt niet beperkt door de artikelen 1 en 2.   
 2.  Alle uit hoofde van het eerste lid door een verdragsluitende staat ontvangen informatie wordt op dezelfde wijze geheim gehouden als informatie die volgens de nationale wetgeving van die staat is verkregen en wordt alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke en bestuursrechtelijke instanties) die betrokken zijn bij de vaststelling of invordering van, de handhaving of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de in het eerste lid bedoelde belastingen, of het toezicht daarop. Deze personen of autoriteiten mogen alleen voor deze doeleinden van de informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. Niettegenstaande de voorgaande bepalingen mag de informatie voor andere doeleinden worden gebruikt, indien zij ingevolge het recht van beide staten voor deze andere doeleinden mag worden gebruikt en de bevoegde autoriteit van de staat die haar heeft verstrekt met dit gebruik instemt.   
@@ -515,7 +515,7 @@ c) informatie te verstrekken die een handelsgeheim, zakelijk geheim, industrieel
 
 ####Bijstand bij de invordering van belastingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De verdragsluitende staten verlenen elkaar bijstand bij de invordering van belastingvorderingen. Deze bijstand wordt niet beperkt door de artikelen 1 en 2. De bevoegde autoriteiten van de verdragsluitende staten kunnen in onderlinge overeenstemming de wijze van toepassing van dit artikel regelen.   
 2.  Onder de uitdrukking „belastingvordering” als gebezigd in dit artikel wordt verstaan een bedrag verschuldigd in verband met belastingen van elke soort en benaming die worden geheven ten behoeve van de verdragsluitende staten, een deelstaat of een staatkundig onderdeel of plaatselijk publiekrechtelijk lichaam van een verdragsluitende staat of deelstaat, voor zover de belastingheffing uit hoofde daarvan niet in strijd is met dit Verdrag of met een ander instrument waarbij de verdragsluitende staten partij zijn, alsmede interest, administratieve boetes en de kosten van invordering of van conservatoire maatregelen die verband houden met dat bedrag.   
@@ -542,7 +542,7 @@ d) bijstand te verlenen in gevallen waarin de administratieve last voor die staa
 
 ####Procedures voor belastingheffing aan de bron
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Elke verdragsluitende staat voorziet in vrijstelling van belastingheffing aan de bron door toepassing van zijn nationale procedures. De bevoegde autoriteiten van de verdragsluitende staten kunnen evenwel in onderlinge overeenstemming de wijze van toepassing van vrijstelling van belastingheffing aan de bron regelen. 
 
@@ -550,7 +550,7 @@ Elke verdragsluitende staat voorziet in vrijstelling van belastingheffing aan de
 
 ####Leden van diplomatieke vertegenwoordigingen en consulaire posten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van diplomatieke vertegenwoordigingen of consulaire posten ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.   
 2.  Voor de toepassing van het Verdrag wordt een natuurlijke persoon die deel uitmaakt van een diplomatieke vertegenwoordiging of consulaire post van een verdragsluitende staat in de andere verdragsluitende staat of in een derde staat en die een onderdaan is van de zendstaat, geacht inwoner van de zendstaat te zijn, indien hij daarin aan dezelfde verplichtingen ter zake van belastingen naar het inkomen is onderworpen als inwoners van die staat.   
@@ -560,7 +560,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bijlage  en Protocol 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst tot regeling van de wijze van toepassing van de arbitrageprocedure maken een integrerend onderdeel uit van dit Verdrag. 
 
@@ -568,7 +568,7 @@ De Bijlage, het aan dit Verdrag gehechte Protocol en de Onderlinge Overeenkomst 
 
 ####Uitbreiding tot andere gebieden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de delen van het Koninkrijk der Nederlanden die niet in Europa zijn gelegen en belastingen heffen die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Een dergelijke uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, tussen de verdragsluitende staten nader vast te stellen en overeen te komen bij diplomatieke notawisseling of op andere wijze in overeenstemming met hun grondwettelijke procedures.   
 2.  De verdragsluitende staten kunnen overeenkomen dat de beëindiging van het Verdrag niet medebrengt, dat tevens de uitbreiding van het Verdrag tot enig deel van het Koninkrijk der Nederlanden waartoe het ingevolge dit artikel is uitgebreid, wordt beëindigd.  
@@ -577,13 +577,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####SLOTBEPALINGEN
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  33  
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk uitgewisseld te ’s-Gravenhage.   
 2.  Het Verdrag treedt in werking op de eerste dag van de tweede maand na de uitwisseling van de akten van bekrachtiging en wordt van toepassing: 
@@ -595,16 +595,16 @@ aa) in het geval van belastingen geheven aan de bron, ter zake van bedragen beta
 bb) in het geval van overige belastingen, ter zake van belastingen geheven over tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.    
 
 b) in Nederland: voor belastingjaren en -tijdvakken beginnend op of na 1 januari van het kalenderjaar volgend op het kalenderjaar waarin het Verdrag in werking is getreden.     
-3.  Na de inwerkingtreding van het Verdrag houdt de [Overeenkomst tussen de Bondsrepubliek Duitsland en Nederland van 16 juni 1959 tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied in de versie gewijzigd bij het Aanvullende Protocol van 13 maart 1980, het Tweede Aanvullende Protocol van 21 mei 1991, alsmede het derde aanvullende protocol van 4 juni 2004](../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/bondsrepubliek/etc/BWBV0004851/README.md) (hierna: „de Overeenkomst van 1959”) op van toepassing te zijn.   
+3.  Na de inwerkingtreding van het Verdrag houdt de Overeenkomst tussen de Bondsrepubliek Duitsland en Nederland van 16 juni 1959 tot het vermijden van dubbele belasting op het gebied van belastingen van het inkomen en van het vermogen alsmede van verscheidene andere belastingen en tot het regelen van andere aangelegenheden op belastinggebied in de versie gewijzigd bij het Aanvullende Protocol van 13 maart 1980, het Tweede Aanvullende Protocol van 21 mei 1991, alsmede het derde aanvullende protocol van 4 juni 2004 (hierna: „de Overeenkomst van 1959”) op van toepassing te zijn.   
 4.  Niettegenstaande het tweede lid, is bepaling XIV van het protocol ook op alle openstaande gevallen van toepassing.   
-5.  Niettegenstaande het derde lid, blijft de [Overeenkomst van 1959](../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/bondsrepubliek/etc/BWBV0004851/README.md), zoals gewijzigd, van toepassing op belastingen, belastingjaren en -tijdvakken waarop dit Verdrag ingevolge het tweede lid nog niet van toepassing is.   
-6.  Niettegenstaande het tweede en derde lid, indien een persoon uit hoofde van de [Overeenkomst van 1959](../../../../../../../../../../../../verdrag/overeenkomst/tussen/het/koninkrijk/der/nederlanden/en/de/bondsrepubliek/etc/BWBV0004851/README.md) recht zou hebben op grotere voordelen dan uit hoofde van dit Verdrag, blijft de Overeenkomst van 1959 naar keuze van een dergelijke persoon met betrekking tot deze persoon volledig van toepassing gedurende een tijdvak van één jaar, te rekenen vanaf de datum waarop de bepalingen van dit Verdrag van toepassing zouden zijn uit hoofde van het tweede lid.  
+5.  Niettegenstaande het derde lid, blijft de Overeenkomst van 1959, zoals gewijzigd, van toepassing op belastingen, belastingjaren en -tijdvakken waarop dit Verdrag ingevolge het tweede lid nog niet van toepassing is.   
+6.  Niettegenstaande het tweede en derde lid, indien een persoon uit hoofde van de Overeenkomst van 1959 recht zou hebben op grotere voordelen dan uit hoofde van dit Verdrag, blijft de Overeenkomst van 1959 naar keuze van een dergelijke persoon met betrekking tot deze persoon volledig van toepassing gedurende een tijdvak van één jaar, te rekenen vanaf de datum waarop de bepalingen van dit Verdrag van toepassing zouden zijn uit hoofde van het tweede lid.  
 
 ### Artikel  34  
 
 ####Beëindiging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Dit Verdrag blijft van kracht totdat het door een verdragsluitende staat wordt beëindigd. Een verdragsluitende staat kan het Verdrag langs diplomatieke weg beëindigen door middel van een kennisgeving van beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van beëindiging is gedaan, indien de kennisgeving is gedaan tijdens de eerste zes maanden van een kalenderjaar. Indien kennisgeving van beëindiging is gedaan tijdens de laatste zes maanden van een kalenderjaar, houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar volgend op het kalenderjaar waarin de kennisgeving van beëindiging is gedaan. Beëindiging is niet mogelijk vóór het eerste kalenderjaar na het verstrijken van een tijdvak van vijf jaar na de datum van de inwerkingtreding. Kennisgeving van beëindiging wordt geacht door een verdragsluitende staat te zijn gedaan op de datum van ontvangst van de kennisgeving door de andere verdragsluitende partij. 
 
@@ -612,7 +612,7 @@ GEDAAN te Berlijn op 12 april 2012, in tweevoud, in de Nederlandse en de Duitse 
 
 ####Bijlage bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien de plaats van de werkelijke leiding van een rechtspersoon zich bevindt op een grensoverschrijdend bedrijventerrein en de gemeenschappelijke grens tussen de verdragsluitende staten loopt door de vaste bedrijfsinrichting waarin de plaats van de werkelijke leiding zich bevindt, dan wordt de rechtspersoon ingevolge artikel 4, vierde lid, geacht uitsluitend inwoner te zijn van de volgende verdragsluitende staat: 
 
@@ -650,12 +650,12 @@ De Bondsrepubliek Duitsland heeft het recht tot belastingheffing over de inkomst
 
 ####Protocol bij het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen ondertekend op 12 april 2012
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland zijn in aanvulling op het Verdrag van 12 april 2012 tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen de volgende bepalingen overeengekomen die een integrerend bestanddeel vormen van voornoemd Verdrag:  
 
 ### I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Met betrekking tot het Verdrag in zijn geheel 
 
@@ -667,7 +667,7 @@ Met betrekking tot het Verdrag in zijn geheel
 
 ####Ad artikel 4 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Het is wel te verstaan dat een persoon, anders dan een natuurlijke persoon, geacht wordt in Nederland aan belasting te zijn onderworpen indien de persoon voor de toepassing van de Wet op de vennootschapsbelasting 1969 inwoner is van Nederland, mits het door die persoon verworven inkomen krachtens de Nederlandse belastingwetgeving wordt behandeld als inkomen van die persoon en niet als het inkomen van de begunstigden, leden of participanten van of in die persoon. Niettegenstaande de voorgaande volzin is een persoon geen inwoner van Nederland indien die persoon in Nederland slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in Nederland. 
 
@@ -675,7 +675,7 @@ Het is wel te verstaan dat een persoon, anders dan een natuurlijke persoon, geac
 
 ####Ad artikel 5, derde lid 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien een onderneming van een verdragsluitende staat plaatsen van uitvoering van een bouwwerk of van constructie- of installatiewerkzaamheden in de andere staat exploiteert, wordt het volgende in aanmerking genomen bij de berekening van de duur van twaalf maanden: 
 
@@ -693,7 +693,7 @@ Indien een onderneming van een verdragsluitende staat plaatsen van uitvoering va
 
 ####Ad artikelen 5 , 6 , 7  en 13 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Het is wel te verstaan dat rechten tot exploratie en exploitatie van natuurlijke rijkdommen worden beschouwd als onroerende zaken die zijn gelegen in de verdragsluitende staat op wiens zeebodem en de ondergrond daarvan deze rechten betrekking hebben, alsmede dat deze rechten geacht worden te behoren tot de activa van een vaste inrichting in die staat. Voorts is het wel te verstaan dat de hiervoor genoemde rechten ook omvatten rechten op belangen bij of voordelen uit vermogensbestanddelen die voortvloeien uit die exploratie of exploitatie. 
 
@@ -701,7 +701,7 @@ Het is wel te verstaan dat rechten tot exploratie en exploitatie van natuurlijke
 
 ####Ad artikel 7 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien een vaste inrichting in een verdragsluitende staat van een natuurlijke persoon die inwoner is van de andere verdragsluitende staat wordt omgezet in een lichaam in overeenstemming met het recht van de eerstgenoemde verdragsluitende staat, wordt de onttrekking van de beloning door de natuurlijke persoon vanaf het tijdstip van de intentie tot omzetting („Vorgründungsgesellschaft”, „voorperiode” of „voor-voor periode”) tot het tijdstip waarop aan alle wettelijke voorwaarden voor de oprichting van het lichaam is voldaan, aangemerkt als inkomen als bedoeld in artikel 7. 
 
@@ -709,7 +709,7 @@ Indien een vaste inrichting in een verdragsluitende staat van een natuurlijke pe
 
 ####Ad artikelen 7 , 17  en 21 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Het is wel te verstaan dat niettegenstaande de bepalingen van de artikelen 7, 17 en 21 elke beloning genoemd in het Besluit van het Europees Parlement 2005/684/EG, Euratom, d.d. 28 september 2005, of de opvolger(s) daarvan, houdende aanneming van het Statuut van de leden van het Europees Parlement, en verkregen door een lid of een voormalig lid van het Europees Parlement slechts belastbaar is in de verdragsluitende staat waarin dit lid of voormalige lid is gekozen.   
 2.  Het eerste lid is van overeenkomstige toepassing op pensioenen die op grond van de in het eerste lid genoemde verordening worden toegekend aan de echtgenoot, de partner of kinderen van het lid of voormalige lid van het Europees Parlement.   
@@ -719,7 +719,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ad artikelen 8 , 13 , 14  en 21 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Voor de toepassing van de artikelen 8, 13, 14 en 21 wordt de Koninklijke Luchtvaartmaatschappij N.V. (KLM N.V.) zo lang Nederland de uitsluitende heffingsbevoegdheid heeft ter zake van de onderneming van KLM N.V. uit hoofde van het tussen Nederland en Frankrijk gesloten belastingverdrag, geacht haar plaats van de werkelijke leiding in Nederland te hebben.   
 2.  Het bepaalde in het eerste lid is eveneens van toepassing indien de luchtvervoeractiviteiten van de huidige KLM N.V. geheel of grotendeels zouden worden voortgezet door een andere persoon. Die persoon zal geacht worden inwoner van Nederland te zijn.  
@@ -728,7 +728,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ad artikel 10 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Een pensioenfonds is een pensioenregeling met rechtspersoonlijkheid die 
 
@@ -762,7 +762,7 @@ e. bij haar werkzaamheden onderworpen is aan toezicht.
 
 ####Ad artikelen 10  en 11 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Niettegenstaande het bepaalde in de artikelen 10 en 11 van dit Verdrag mogen dividenden en interest worden belast in de verdragsluitende staat waaruit zij afkomstig zijn, en volgens het recht van die staat, 
 
@@ -774,7 +774,7 @@ b. op voorwaarde dat zij aftrekbaar zijn bij het vaststellen van de winst van de
 
 ####Ad artikelen 10  en 13 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten. 
 
@@ -782,7 +782,7 @@ Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (ged
 
 ####Ad artikel 12 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien de reikwijdte van de „Nederlandse innovatiebox” wordt uitgebreid tot wetenschappelijk werk dat niet zelf is ontwikkeld, treden Nederland en de Bondsrepubliek Duitsland met elkaar in overleg teneinde vast te stellen of wijziging van dit artikel vereist is. 
 
@@ -790,7 +790,7 @@ Indien de reikwijdte van de „Nederlandse innovatiebox” wordt uitgebreid tot 
 
 ####Ad artikelen 14 , 15 , 16  en 18 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Een natuurlijke persoon die inwoner is van Nederland en inkomen, beloningen of voordelen verkrijgt uit de Bondsrepubliek Duitsland die volgens de artikelen 14, 15, 16 en het eerste lid van artikel 18 in de Bondsrepubliek Duitsland mogen worden belast, kan kiezen voor een vermindering van belasting toegekend door Nederland voor zover het totaalbedrag van de verschuldigde Nederlandse en Duitse belasting, tezamen met de bedragen van de door de desbetreffende inwoners verschuldigde premies voor de Nederlandse volksverzekeringen of daarmee vergelijkbare bijdragen en premies die op grond van de Duitse regelgeving inzake sociale zekerheid verschuldigd zijn, hoger is dan het bedrag aan Nederlandse belasting en premies volksverzekeringen in Nederland die van hen zouden zijn geheven, indien dat inkomen, die beloningen of die voordelen afkomstig zouden zijn geweest uit Nederland en Nederland ter zake van dat inkomen, die beloningen of die voordelen van hen belastingen en premies volksverzekeringen zou hebben geheven. Deze compensatie wordt gerealiseerd door de door de desbetreffende inwoners verschuldigde Duitse belasting, bijdragen en premies over hun inkomen, beloningen en voordelen op grond van de Duitse regelgeving ter zake van sociale zekerheid, voor zover deze bijdragen en premies vergelijkbaar zijn met de premies uit hoofde van de Nederlandse algemene sociale verzekeringen, aan te merken als ingehouden Nederlandse loonbelasting en de Duitse belasting, bijdragen en premies te verrekenen met de in Nederland verschuldigde belasting en premies volksverzekeringen.   
 2.  De bevoegde autoriteiten regelen in onderlinge overeenstemming in welke mate de bijdragen en premies op grond van de regelgeving in Nederland ter zake van volksverzekeringen en bijdragen en premies op grond van de Duitse regelgeving ter zake van sociale zekerheid vergelijkbaar zijn voor de toepassing van het eerste lid van dit artikel.   
@@ -800,7 +800,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ad artikel 17 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Voordelen uit „vitaliteitssparen” zoals dat onderdeel vormt van de Wet inkomstenbelasting 2001 zijn uitsluitend belastbaar in de verdragsluitende staat waaruit deze afkomstig zijn. Voor de toepassing van dit artikel is de eerste volzin van artikel 17, vijfde lid, van overeenkomstige toepassing. 
 
@@ -808,7 +808,7 @@ Voordelen uit „vitaliteitssparen” zoals dat onderdeel vormt van de Wet inkom
 
 ####Ad artikelen 17  en 18 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Een pensioen afkomstig uit Nederland valt onder de reikwijdte van artikel 18, tweede lid, voor zover het recht op dit pensioen is opgebouwd in het kader van een publiekrechtelijke dienstbetrekking, ongeacht door wie dit pensioen wordt uitbetaald. Indien de aanspraak op een pensioen deels in het kader van een particuliere dienstbetrekking en deels in het kader van een publiekrechtelijke dienstbetrekking is opgebouwd, wordt het deel van dit pensioen dat onder artikel 17 valt en het deel dat onder artikel 18, tweede lid, valt naar evenredigheid bepaald op grond van het aantal jaren gedurende welke de aanspraak op dit pensioen is opgebouwd onderscheidenlijk in het kader van de particuliere dienstbetrekking en in het kader van de publiekrechtelijke dienstbetrekking ten opzichte van het totale aantal jaren waarover de aanspraak op dat pensioen is opgebouwd. 
 
@@ -816,7 +816,7 @@ Een pensioen afkomstig uit Nederland valt onder de reikwijdte van artikel 18, tw
 
 ####Ad artikel 23 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Het is wel te verstaan dat de Duitse wettelijke bepalingen ter zake van het voorkomen van het ontgaan van belasting en het vermijden van belasting primair bestaan uit artikel 42 van de Duitse belastingwet („Abgabenordnung”), artikel 50d, derde lid, van de Duitse Wet op de inkomstenbelasting („Einkommensteuergesetz”) en de hoofdstukken vier, vijf en zeven van de Duitse Wet op de Externe Belastingrelaties („Aussensteuergesetz”) alsmede uit de rechtsopvolgers van de voornoemde bepalingen, voor zover deze gelijk of in wezenlijke mate gelijk zijn aan de bepalingen die zij vervangen, waarbij de bepaling van artikel 2, vierde lid, tweede volzin naar behoren in acht wordt genomen.   
 2.  Het is wel te verstaan dat de Nederlandse wettelijke bepalingen ter zake van het voorkomen van het ontgaan van belasting en het vermijden van belasting mede het leerstuk van wetsontduiking (fraus legis) omvatten.   
@@ -828,7 +828,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ad artikel 24 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De beperkingen van de tweede volzin van artikel 1, lid 3, juncto artikel 1a, lid 1, nummer 2, derde volzin, van de Duitse wet op de inkomstenbelasting („Einkommensteuergesetz”) zijn niet van toepassing op echtgenoten die in Nederland wonen. Hierbij wordt voorondersteld dat de echtgenoot die belastingplichtig is in de Bondsrepubliek Duitsland persoonlijk voldoet aan de voorwaarden van artikel 1, lid 3, van de Duitse Wet op de inkomstenbelasting („Einkommensteuergesetz”).   
 2.  Het vijfde lid van artikel 24 belet een verdragsluitende staat niet belastingheffing van inkomen op geconsolideerde grondslag („Organschaft” of „fiscale eenheid”) te beperken tot personen die inwoner zijn van die staat of tot vaste inrichtingen in die staat.  
@@ -837,7 +837,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Ad artikel 25 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De bevoegde autoriteiten van de staten kunnen ter zake van een overeengekomen regeling in het kader van een procedure voor onderling overleg als bedoeld in artikel 25, tevens overeenkomen dat de staat, waarin ingevolge eerdergenoemde regeling sprake is van een additionele belastingheffing, met betrekking tot deze additionele belastingheffing geen belastingverhogingen, administratieve boetes, interest en kosten zal opleggen. 
 
@@ -845,7 +845,7 @@ De bevoegde autoriteiten van de staten kunnen ter zake van een overeengekomen re
 
 ####Ad artikel 27 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Indien uit hoofde van het Verdrag persoonsgegevens worden uitgewisseld zijn de volgende aanvullende bepalingen van toepassing: 
 
@@ -867,7 +867,7 @@ f. De verdragsluitende staten beschermen de uit hoofde van artikel 27 uitgewisse
 
 ####Ad artikel 29 
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Investeringsregelingen of samenwerkingsverbanden 
 
@@ -890,7 +890,7 @@ GEDAAN te Berlijn op 12 april 2012, in tweevoud, in de Nederlandse en de Duitse 
 
 ####Onderlinge overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de wijze van toepassing van de arbitrageprocedure voorzien in artikel 25, vijfde lid, van het verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen naar het inkomen, ondertekend te Berlijn op 12 april 2012
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Op zaken die worden voorgelegd uit hoofde van artikel 25, vijfde lid, van het Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belastingen naar het inkomen, ondertekend te Berlijn op 12 april 2012 („het Verdrag”), zijn de volgende regels en procedures van toepassing. De bevoegde autoriteiten van Nederland en Duitsland kunnen deze overeenkomst wijzigen of aanvullen door middel van een onderlinge notawisseling.    
 
@@ -898,7 +898,7 @@ Op zaken die worden voorgelegd uit hoofde van artikel 25, vijfde lid, van het Ve
 
 ####Verzoek om voorlegging van een zaak voor arbitrage
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Een verzoek uit hoofde van artikel 25, vijfde lid, van het Verdrag (het „verzoek om arbitrage”) om voorlegging voor arbitrage van onopgeloste kwesties voortvloeiend uit een onderlinge overlegprocedure wordt schriftelijk gedaan en gezonden aan een van de bevoegde autoriteiten. Het verzoek bevat voldoende gegevens ter aanduiding van de zaak. Het verzoek gaat tevens vergezeld van een schriftelijke verklaring van elk van de personen die hetzij het verzoek hebben ingediend, hetzij rechtstreeks bij de zaak betrokken zijn, dat in dezelfde kwesties niet reeds uitspraak is gedaan door een rechterlijke instantie of bestuursrechtelijk lichaam van een van de verdragsluitende staten. Binnen 10 dagen na ontvangst van het verzoek zendt de bevoegde autoriteit die het heeft ontvangen een afschrift van het verzoek en de begeleidende verklaringen toe aan de andere bevoegde autoriteit. 
 
@@ -906,7 +906,7 @@ Een verzoek uit hoofde van artikel 25, vijfde lid, van het Verdrag (het „verzo
 
 ####Termijn voor voorlegging van een zaak voor arbitrage
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Een verzoek om arbitrage kan na twee jaar na de datum waarop een zaak ingevolge artikel 25, eerste lid, is voorgelegd aan de bevoegde autoriteit van een verdragsluitende staat slechts worden ingediend indien de zaak ook is voorgelegd aan de bevoegde autoriteit van de andere staat. Daartoe wordt een zaak uitsluitend geacht te zijn voorgelegd aan een bevoegde autoriteit indien deze bevoegde autoriteit de informatie heeft ontvangen die nodig is voor een materiële behandeling ten behoeve van onderling overleg. Deze informatie kan omvatten: 
 
@@ -932,7 +932,7 @@ i. alle specifieke aanvullende informatie waar een bevoegde autoriteit binnen dr
 
 ####Terms of reference
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Binnen drie maanden nadat het verzoek om arbitrage door beide bevoegde autoriteiten is ontvangen, komen de bevoegde autoriteiten overeen welke kwesties door de arbitrage-instantie moeten worden opgelost en delen deze schriftelijk mede aan de persoon die het verzoek om arbitrage heeft ingediend. Dit zijn de „Terms of reference” voor de zaak. Niettegenstaande de volgende paragrafen, kunnen de bevoegde autoriteiten in de Terms of reference ook procedureregels opnemen die de regels in de paragrafen van deze overeenkomst aanvullen of ervan afwijken en indien nodig, andere aangelegenheden betreffen. 
 
@@ -940,7 +940,7 @@ Binnen drie maanden nadat het verzoek om arbitrage door beide bevoegde autoritei
 
 ####Uitblijven van mededeling van de Terms of reference
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien de Terms of reference niet binnen de termijn bedoeld in de voorgaande paragraaf 3 zijn medegedeeld aan de persoon die het verzoek om arbitrage heeft ingediend, kunnen die persoon en elke bevoegde autoriteit binnen een maand na afloop van die termijn elkaar schriftelijk een lijst van de door arbitrage op te lossen kwesties toezenden. Alle gedurende die termijn aldus toegezonden lijsten vormen de voorlopige Terms of reference. Binnen een maand nadat alle arbiters zijn benoemd als voorzien in paragraaf 5 hierna, zenden de arbiters de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend een op basis van de aldus toegezonden lijsten herziene versie van de voorlopige Terms of reference toe. Binnen een maand nadat zij beide de herziene versie hebben ontvangen, kunnen de bevoegde autoriteiten andere Terms of reference overeenkomen en deze schriftelijk toezenden aan de arbiters en de persoon die het verzoek om arbitrage heeft ingediend. Indien zij dat binnen die termijn doen, vormen deze andere Terms of reference de Terms of reference voor de zaak. Indien de bevoegde autoriteiten binnen die termijn geen andere Terms of reference overeenkomen en toezenden, vormt de herziene versie van de voorlopige Terms of reference opgesteld door de arbiters de Terms of reference voor de zaak. 
 
@@ -948,7 +948,7 @@ Indien de Terms of reference niet binnen de termijn bedoeld in de voorgaande par
 
 ####Keuze van arbiters
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Binnen drie maanden nadat de Terms of reference door de persoon die het verzoek om arbitrage heeft ingediend zijn ontvangen, of, indien paragraaf 4 van toepassing is, binnen vier maanden nadat het verzoek om arbitrage is ontvangen door beide bevoegde autoriteiten, benoemen de bevoegde autoriteiten elk een arbiter. Binnen twee maanden nadat de laatste benoeming heeft plaatsgevonden, benoemen de aldus benoemde arbiters een derde arbiter die als voorzitter zal optreden. Indien een benoeming niet binnen de vereiste termijn geschiedt, wordt (worden) de ontbrekende arbiter(s) binnen vijftien dagen na ontvangst van een verzoek daartoe van de persoon die het verzoek om arbitrage heeft ingediend benoemd door de hoogstgeplaatste functionaris van het Secretariaat van het Centre for Tax Policy and Administration van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die geen onderdaan is van een van de verdragsluitende staten. Dezelfde procedure is met de noodzakelijke aanpassingen van toepassing indien het na aanvang van de arbitrageprocedure noodzakelijk blijkt een arbiter te vervangen, ongeacht de redenen daarvoor. Tenzij de Terms of reference anders voorzien, is de wijze van beloning gelijk aan de methode gehanteerd in de Gedragscode bij het EG-arbitrageverdrag. 
 
@@ -956,7 +956,7 @@ Binnen drie maanden nadat de Terms of reference door de persoon die het verzoek 
 
 ####Gestroomlijnde arbitrageprocedure
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien de bevoegde autoriteiten dat aangeven in de Terms of reference (op voorwaarde dat deze niet zijn overeengekomen na de aanwijzing van de arbiters ingevolge paragraaf 4 hierboven), zijn onverminderd de paragrafen 5, 11, 15, 16, 17 en 19, de volgende regels van toepassing: 
 
@@ -970,7 +970,7 @@ c. Binnen een maand na ontvangst van het laatste van de antwoorden van de bevoeg
 
 ####Voorwaarden voor en benoeming van arbiters
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Een ieder, met inbegrip van ambtenaren van een verdragsluitende staat, kan worden benoemd als arbiter, tenzij die persoon in eerdere fasen betrokken is geweest bij de zaak die aanleiding is voor de arbitrageprocedure. Een arbiter wordt geacht te zijn benoemd wanneer een brief ter bevestiging van die benoeming is ondertekend door zowel de persoon of personen die bevoegd is of zijn tot benoeming van die arbiter als door de arbiter zelf. 
 
@@ -978,7 +978,7 @@ Een ieder, met inbegrip van ambtenaren van een verdragsluitende staat, kan worde
 
 ####Verstrekking van informatie en vertrouwelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Uitsluitend voor de toepassing van de bepalingen van de artikelen 25 en 27 en van de nationale wetgeving van de verdragsluitende staten inzake de verzending en vertrouwelijkheid van de informatie betreffende de zaak die tot de arbitrageprocedure leidt, wordt elke arbiter benoemd als gevolmachtigd vertegenwoordiger van de bevoegde autoriteit die die arbiter heeft benoemd of, indien die arbiter niet uitsluitend door een bevoegde autoriteit is benoemd, van de bevoegde autoriteit waaraan de zaak die tot de arbitrageprocedure leidt oorspronkelijk was voorgelegd. Derhalve zijn de arbiters onderworpen aan dezelfde strikte vereisten omtrent vertrouwelijkheid die gelden ten aanzien van de informatie met betrekking tot de zaak die op de bevoegde autoriteiten zelf van toepassing zijn. 
 
@@ -986,7 +986,7 @@ Uitsluitend voor de toepassing van de bepalingen van de artikelen 25 en 27 en va
 
 ####Verzuim tijdig informatie te verstrekken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Niettegenstaande de paragrafen 5 en 6, indien beide bevoegde autoriteiten overeenkomen dat het verzuim een kwestie binnen de in artikel 25, vijfde lid, voorziene termijn van twee jaar op te lossen vooral te wijten is aan het nalaten van een persoon die rechtstreeks wordt getroffen door de zaak tijdig relevante informatie te verstrekken, kunnen de bevoegde autoriteiten de benoeming van de arbiter uitstellen gedurende een tijdvak dat overeenkomt met de vertraging bij het verstrekken van die informatie. 
 
@@ -994,7 +994,7 @@ Niettegenstaande de paragrafen 5 en 6, indien beide bevoegde autoriteiten overee
 
 ####Regels omtrent procedure en bewijsvoering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Met inachtneming van deze overeenkomst en de Terms of reference nemen de arbiters de regels omtrent procedure en bewijsvoering aan die zij nodig achten ter beantwoording van de vragen vervat in de Terms of reference. Zij hebben toegang tot alle informatie, met inbegrip van vertrouwelijke informatie, die nodig is om over de voor arbitrage voorgelegde kwesties te beslissen. Tenzij de bevoegde autoriteiten anders overeenkomen, wordt informatie die niet aan beide bevoegde autoriteiten ter beschikking stond voordat het verzoek om arbitrage door beide was ontvangen niet in aanmerking genomen ten behoeve van de uitspraak. 
 
@@ -1002,7 +1002,7 @@ Met inachtneming van deze overeenkomst en de Terms of reference nemen de arbiter
 
 ####Deelname door de persoon die om de arbitrage heeft verzocht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De persoon die het verzoek om arbitrage heeft ingediend kan zijn standpunt, hetzij rechtstreeks, hetzij via zijn vertegenwoordigers, op dezelfde wijze schriftelijk voorleggen aan de arbiters als bij de regeling voor onderling overleg. Daarnaast kan deze persoon met toestemming van de arbiters zijn standpunt tijdens de arbitrageprocedure mondeling presenteren. 
 
@@ -1010,7 +1010,7 @@ De persoon die het verzoek om arbitrage heeft ingediend kan zijn standpunt, hetz
 
 ####Logistieke maatregelen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Tenzij anders overeengekomen door de bevoegde autoriteiten, is de bevoegde autoriteit waaraan de zaak die tot de arbitrage leidt oorspronkelijk was voorgelegd verantwoordelijk voor de logistieke maatregelen voor de bijeenkomsten van de arbiters en stelt zij het nodige administratieve personeel voor de uitvoering van het arbitrageproces ter beschikking. Het aldus ter beschikking gestelde personeel rapporteert over elke daarmee verband houdende aangelegenheid uitsluitend aan de voorzitter van de arbiters. 
 
@@ -1018,7 +1018,7 @@ Tenzij anders overeengekomen door de bevoegde autoriteiten, is de bevoegde autor
 
 ####Kosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Tenzij anders overeengekomen door de bevoegde autoriteiten: 
 
@@ -1036,15 +1036,15 @@ e. worden alle overige kosten (met inbegrip van vertaalkosten en van het vastleg
 
 ####Toepasselijke rechtsbeginselen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-De arbiters beslissen over de kwesties die voor arbitrage zijn voorgelegd in overeenstemming met de van toepassing zijnde bepalingen van het Verdrag en, onder voorbehoud van deze bepalingen, met die van het nationale recht van de verdragsluitende staten. Over kwesties omtrent verdragsinterpretatie beslissen de arbiters in het licht van de interpretatiebeginselen vervat in de [artikelen 31 tot en met 33 van het Verdrag van Wenen inzake het verdragenrecht](../../../../../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md), waarbij de commentaren van het OESO-modelverdrag inzake belastingen, als van tijd tot tijd gewijzigd, zoals uitgelegd in de paragrafen 28 tot en met 36.1 van de inleiding tot het OESO-modelverdrag inzake belastingen in aanmerking worden genomen. Over kwesties omtrent de toepassing van het arm’s length-beginsel dient op vergelijkbare wijze te worden besloten, daarbij de OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (OESO-richtlijnen voor verrekenprijzen voor multinationale ondernemingen en belastingdiensten) in aanmerking nemend. De arbiters bestuderen ook eventuele andere bronnen die de bevoegde autoriteiten uitdrukkelijk kunnen noemen in de Terms of reference. 
+De arbiters beslissen over de kwesties die voor arbitrage zijn voorgelegd in overeenstemming met de van toepassing zijnde bepalingen van het Verdrag en, onder voorbehoud van deze bepalingen, met die van het nationale recht van de verdragsluitende staten. Over kwesties omtrent verdragsinterpretatie beslissen de arbiters in het licht van de interpretatiebeginselen vervat in de artikelen 31 tot en met 33 van het Verdrag van Wenen inzake het verdragenrecht, waarbij de commentaren van het OESO-modelverdrag inzake belastingen, als van tijd tot tijd gewijzigd, zoals uitgelegd in de paragrafen 28 tot en met 36.1 van de inleiding tot het OESO-modelverdrag inzake belastingen in aanmerking worden genomen. Over kwesties omtrent de toepassing van het arm’s length-beginsel dient op vergelijkbare wijze te worden besloten, daarbij de OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (OESO-richtlijnen voor verrekenprijzen voor multinationale ondernemingen en belastingdiensten) in aanmerking nemend. De arbiters bestuderen ook eventuele andere bronnen die de bevoegde autoriteiten uitdrukkelijk kunnen noemen in de Terms of reference. 
 
 ### 15  
 
 ####Arbitrale uitspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien meer dan een arbiter is benoemd, wordt de uitspraak genomen bij een eenvoudige meerderheid van de arbiters. Tenzij anders voorzien in de Terms of reference, wordt de uitspraak van de arbiters schriftelijk gegeven, waarbij de rechtsbronnen die aan de uitspraak ten grondslag liggen alsmede de motivering worden vermeld. Na toestemming van de persoon die om de arbitrage heeft verzocht en van beide bevoegde autoriteiten, mag de uitspraak in geredigeerde vorm worden gepubliceerd zonder de namen van de betrokken partijen en zonder gegevens waarmee hun identiteit zou kunnen worden herleid en met dien verstande dat de uitspraak geen formele precedentwerking heeft. 
 
@@ -1052,7 +1052,7 @@ Indien meer dan een arbiter is benoemd, wordt de uitspraak genomen bij een eenvo
 
 ####Termijn voor mededelen van de arbitrale uitspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De arbitrale uitspraak moet binnen zes maanden nadat de voorzitter de bevoegde autoriteiten en elke persoon die rechtstreeks betrokken is bij de zaak er schriftelijk van in kennis heeft gesteld dat hij alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen, worden medegedeeld aan de bevoegde autoriteiten en de persoon die het verzoek om arbitrage heeft ingediend. Indien, niettegenstaande het eerste deel van deze paragraaf, de voorzitter op enig tijdstip binnen twee maanden na de datum waarop de laatste arbiter is benoemd met instemming van een van de bevoegde autoriteiten de andere bevoegde autoriteit en de persoon die het verzoek om arbitrage heeft ingediend ervan in kennis stelt dat hij niet alle informatie heeft ontvangen die nodig is om met de behandeling van de zaak aan te vangen, 
 
@@ -1064,7 +1064,7 @@ b. en de voorzitter de nodige informatie niet heeft ontvangen binnen twee maande
 
 ####Verzuim de uitspraak binnen de vereiste termijn mede te delen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien de uitspraak niet binnen de in de paragrafen 6c of 16 voorziene termijn aan de bevoegde autoriteiten is medegedeeld, kunnen de bevoegde autoriteiten overeenkomen die termijn te verlengen met een tijdvak van ten hoogste zes maanden, of, indien zij zulks nalaten binnen een maand na afloop van de termijn voorzien in de paragrafen 6c of 16, benoemen zij in overeenstemming met paragraaf 5 of 6a een of meer nieuwe arbiters, al naargelang van het geval. 
 
@@ -1072,7 +1072,7 @@ Indien de uitspraak niet binnen de in de paragrafen 6c of 16 voorziene termijn a
 
 ####Definitieve uitspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De arbitrale uitspraak is definitief, tenzij de rechters van een van de verdragsluitende staten de uitspraak niet uitvoerbaar achten in verband met een schending van artikel 25, vijfde lid, of van een procedureregel vervat in de Terms of reference of in deze overeenkomst die redelijkerwijs van toepassing had kunnen zijn op de uitspraak. Indien een uitspraak op een van deze gronden onuitvoerbaar wordt geacht, wordt de arbitrageprocedure geacht niet hebben plaatsgevonden (tenzij voor de toepassing van paragraaf 8 „Verstrekking van informatie en vertrouwelijkheid” en 13 „Kosten”). 
 
@@ -1080,7 +1080,7 @@ De arbitrale uitspraak is definitief, tenzij de rechters van een van de verdrags
 
 ####Tenuitvoerlegging van de arbitrale uitspraak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De bevoegde autoriteiten leggen de arbitrale uitspraak binnen zes maanden na mededeling aan hen van de uitspraak ten uitvoer door middel van een onderlinge overeenkomst over de zaak die tot de arbitrage heeft geleid. 
 
@@ -1088,7 +1088,7 @@ De bevoegde autoriteiten leggen de arbitrale uitspraak binnen zes maanden na med
 
 ####Indien geen arbitrale uitspraak wordt gedaan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Indien op enig tijdstip nadat een verzoek om arbitrage is ingediend en voordat de arbiters een uitspraak aan de bevoegde autoriteiten en de persoon die het verzoek arbitrage heeft ingediend hebben doen toekomen, de bevoegde autoriteiten de arbiters en die persoon er schriftelijk van in kennis stellen dat zij alle onopgeloste kwesties omschreven in de Terms of reference hebben opgelost, wordt de zaak beschouwd als opgelost krachtens de onderlinge overlegprocedure en wordt geen arbitrale uitspraak gedaan. Deze regeling is van toepassing op elk verzoek om arbitrage gedaan uit hoofde van artikel 25, vijfde lid, van het Verdrag nadat die bepaling van kracht is geworden. 
 
