@@ -36,7 +36,7 @@ f. *HDPO:* de Hoofddirecteur Personeel en Organisatie van het Ministerie van Bui
 
 1.  De uitgezonden ambtenaar heeft op zijn aanvraag aanspraak op een tegemoetkoming in de door hem of zijn partner op of na 1 januari 2008 gemaakte kosten voor een oudedagsvoorziening nadat hij in een kalenderjaar voor zijn partner krachtens artikel 14 van het Dienst Buitenlandse Zaken Voorzieningenstelsel 2007 gedurende een periode van ten minste drie maanden aanspraak heeft gemaakt op verhoging van zijn standplaatstoelage met een partnerdeel.   
 2.  Bij de vaststelling van de in het eerste lid bedoelde periode blijft buiten beschouwing tijd gedurende welke de partner ambtenaar is en het werkgeversdeel van de voor de partner aan de Stichting Pensioenfonds ABP verschuldigde pensioenpremie voor rekening van de werkgever van de partner komt.   
-3.  De tegemoetkoming is gelijk aan 200% van de in het eerste lid bedoelde kosten met een maximum van € 2.040,– bruto per kalenderjaar.   
+3.  De tegemoetkoming is gelijk aan 200% van de in het eerste lid bedoelde kosten met een maximum van € 2.123,– bruto per kalenderjaar.   
 4.  Het in het derde lid genoemde bedrag wordt telkens aangepast aan de algemene salarisaanpassingen van het overheidspersoneel in de sector Rijk. Eventuele aanpassingen met terugwerkende kracht naar een datum op of voor de datum waarop een aanvraag als bedoeld in het eerste lid is ingediend, hebben geen invloed op de toe te kennen tegemoetkoming.   
 5.  HDPO kan dit artikel van overeenkomstige toepassing verklaren: 
 

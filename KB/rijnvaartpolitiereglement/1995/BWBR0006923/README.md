@@ -198,7 +198,7 @@ i. de volgens artikel 7.06, eerste lid, van het Reglement onderzoek schepen op d
 
 k.het marifoon bedieningscertificaat, bedoeld in de bijlage 5 van de Regionale regeling betreffende de marifoondienst in de binnenvaart;
 
-l.de vergunning voor het gebruik van de frequentieruimte;
+l.de vergunning of vergunningen voor het gebruik van de frequentieruimte of het registratiebewijs voor het gebruik van de frequentieruimte;
 
 m.het Handboek voor de marifonie in de binnenvaart, algemeen deel en regionaal deel Rijn/Moezel; 
 
@@ -866,7 +866,7 @@ Een schip dat gebruikt wordt bij het duiken, voert, naast de door de andere bepa
 
 ### Hoofdstuk  4  
 
-####Geluidsseinen van schepen; marifoon; radar 
+####Geluidsseinen van schepen; marifoon; informatie- en navigatieapparatuur
 
 ### I  
 
@@ -923,7 +923,7 @@ b. aan boord van een schip, niet zijnde een motorschip, en een klein schip, door
 
 ### III  
 
-#### Radar 
+####Informatie- en navigatieapparatuur
 
 ### Artikel  4.06  
 
@@ -940,8 +940,6 @@ b.zich aan boord een persoon bevindt die houder is van een radargetuigschrift, d
 ### Artikel  4.07  
 
 ####Inland AIS en Inland ECDIS
-
-Treedt in werking per 01-12-2014 
 
 1.  Een schip moet zijn uitgerust met een Inland AIS-apparaat als bedoeld in artikel 7.06, derde lid, van het Reglement onderzoek schepen op de Rijn. Het Inland AIS-apparaat moet goed functioneren. De eerste volzin geldt niet voor de volgende schepen: 
 
@@ -2306,26 +2304,26 @@ c. ligplaats «Rheinquai-Dreiländereck» van km 169,61 tot km 169,72. Deze li
 4.  Schepen die verplicht zijn de tekens bedoeld in artikel 3.14, tweede of derde lid te voeren, mogen slechts ligplaats nemen met toestemming van de Zwitserse Rijnhavens. De ligplaatsen worden van geval tot geval door de havenmeester aangewezen.    
 5.  De op borden op de oever aangeduide breedten der ligplaatsen gelden slechts bij waterstanden aan de peilschaal van Basel-Rheinhalle van minder dan 7 m.  
 
-###Artikel 14.03 
+### Artikel  14.03  
 
 ####Mannheim-Ludwigshafen 
 
-1. De rede strekt zich voor Mannheim uit aan de rechteroever van km 412,35 tot km 417,15 en van km 423,50 tot km 431,80 en voor Ludwigshafen aan de linkeroever van km 419,77 tot km 431,90. 
-2. Voor schepen, die niet verplicht zijn een teken bedoeld in artikel 3.14 te voeren, zijn gereserveerd: 
+1.  De rede strekt zich voor Mannheim uit aan de rechteroever van km 412,35 tot km 417,15 en van km 423,50 tot km 431,80 en voor Ludwigshafen aan de linkeroever van km 419,77 tot 424,83 en van km 425,50 tot km 431,90.    
+2.  Voor schepen, die niet verplicht zijn een teken bedoeld in artikel 3.14 te voeren, zijn gereserveerd:  
 
-a.ligplaatsen aan de rechteroever: 
+a. ligplaatsen aan de rechteroever:  
 
-i.voor Mannheim-Rheinau, van km 413,30 tot km 414,25, van km 414,56 tot km 414,90 en van km 415,50 tot km 416,75; 
+i. voor Mannheim-Rheinau,  van km 413,40 tot km 414,25,  van km 414,56 tot km 414,90,  van km 415,50 tot km 416,75;   
 
-ii.voor Mannheim, van km 423,50 tot km 424,00, van km 424,76 tot km 425,00, uitsluitend voor schepen die aldaar willen laden of lossen, van km 425,00 tot km 427,00, van km 428,72 tot km 429,60 en van km 429,80 tot km 430,30; 
+ii. voor Mannheim,  van km 423,50 tot km 424,00,  van km 425,36 tot km 427,00, van km 428,72 tot km 429,60,van km 429,80 tot km 430,30;      
 
-b.ligplaats aan de linkeroever voor Ludwigshafen van km 424,83 tot km 426,20. 
-3. Voor schepen, die verplicht zijn de tekens bedoeld in artikel 3.14, eerste lid, te voeren, zijn gereserveerd: 
+b. ligplaats aan de linkeroever voor Ludwigshafen van km 425,50 tot km 426,20.      
+3.  Voor schepen, die verplicht zijn de tekens bedoeld in artikel 3.14, eerste lid, te voeren, zijn gereserveerd:  
 
-a.ligplaatsen aan de rechteroever: van km 413,00 tot km 413,30, van km 430,30 tot km 431,10; 
+a. ligplaatsen aan de rechteroever:  van km 413,10 tot km 413,40,  van km 430,30 tot km 431,10;   
 
-b.ligplaats aan de linkeroever van km 421,60 tot km 422,00. 
-4. Voor schepen die bij BASF A.G. willen laden of lossen, dan wel aldaar hebben geladen of gelost, is gereserveerd: ligplaats aan de linkeroever van km 426,20 tot km 431,47. 
+b. ligplaats aan de linkeroever van km 421,60 tot km 422,00.      
+4.  Voor schepen die bij BASF A.G. willen laden of lossen, dan wel aldaar hebben geladen of gelost, is gereserveerd:  ligplaats aan de linkeroever van km 426,20 tot km 431,47.   
 
 ###Artikel 14.04 
 
@@ -3330,7 +3328,34 @@ Cachet et signature de la station de réception Stempel und Unterschrift der Ann
 
 ### Bijlage  11  
 
-(vervallen) 
+####*Gegevens die in het Inland AIS-apparaat moeten worden ingevoerd: verklaring van de navigatiestatus en van het referentiepunt voor de positie-informatie op het schip* 
+
+### 1  
+
+#### *Navigatiestatus* 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 0  | under way using engine  | is onderweg op de motor  |
+| 1  | at anchor  | ligt voor anker  |
+| 2  | not under command  | is niet manoeuvreerbaar  |
+| 3  | restricted manoeuvrability  | is beperkt manoeuvreerbaar  |
+| 4  | constrained by her draught  | is beperkt door de diepgang  |
+| 5  | moored  | ligt afgemeerd  |
+| 6  | aground  | zit aan de grond  |
+| 7  | engaged in fishing  | is bezig met vissen  |
+| 8  | under way sailing  | vaart onder zeil  |
+| 9 to 13  | reserved for future uses  | gereserveerd voor toekomstig gebruik  |
+| 14  | AIS-SART (active)  | AIS-SART (actief)  |
+| 15  | not defined  | niet gedefinieerd  |
+
+### 2  
+
+#### *Referentiepunt voor de positie-informatie op het schip.* 
+
+De schipper moet de aan de antenne gerelateerde waarden A, B, C, en D met de nauwkeurigheid van 1 m invoeren. Waarde A wordt in de richting van de boeg gemeten. ![254353](http://wetten.overheid.nl/Illustration/254353)
+Verklaring van de waarden W, L, A, B, C, D voor een schip ![254354](http://wetten.overheid.nl/Illustration/254354)
+Verklaring van de waarden W, L, A, B, C, D voor een samenstel.
 
 ### Bijlage  12  
 

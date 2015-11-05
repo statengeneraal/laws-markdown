@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, van 13 april 1995, nr. RV 190027, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
 
-Gelet op de [artikelen 4](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) en [18, eerste lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);
+Gelet op de artikelen 4 en 18, eerste lid, van de Scheepvaartverkeerswet;
 
 De Raad van State gehoord (advies van 18 juli 1995, no. W09.95. 0190);
 
@@ -35,7 +35,7 @@ Dit besluit treedt in werking met ingang van 1 oktober 1995.
 
 ### Artikel  VI  
 
-De teksten van het [Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en van het Binnenvaartpolitiereglement worden in het *Staatsblad* geplaatst. 
+De teksten van het Vaststellingsbesluit Binnenvaartpolitiereglement en van het Binnenvaartpolitiereglement worden in het *Staatsblad* geplaatst. 
 
 ### Artikel  VII  
 

@@ -446,7 +446,7 @@ Op de aanvraag om het vrijgeven van een immunologisch geneesmiddel of een bloedp
 
 1.  Immunologische geneesmiddelen of bloedproducten mogen, behalve door de in artikel 61, eerste lid, onder a en b, van de wet bedoelde beroepsbeoefenaren, tevens ter hand worden gesteld door: 
 
-a. artsen of instellingen die uitvoering geven aan nationale programma’s, gericht op preventie van ziekten, waarop aanspraak bestaat krachtens de Algemene Wet Bijzondere Ziektekosten dan wel worden gesubsidieerd op grond van de Subsidieregeling publieke gezondheid, echter uitsluitend voor zover de terhandstelling of de toediening van de desbetreffende geneesmiddelen geschiedt ten behoeve van die programma’s;  
+a. artsen of instellingen die uitvoering geven aan nationale programma’s, gericht op preventie van ziekten, bedoeld in artikel 4a van de Wet publieke gezondheid dan wel worden gesubsidieerd op grond van de Subsidieregeling publieke gezondheid, echter uitsluitend voor zover de terhandstelling of de toediening van de desbetreffende geneesmiddelen geschiedt ten behoeve van die programma’s;  
 
 b. de in artikel 10 van de Regeling publieke gezondheid bedoelde organisaties en huisartsen die tegen gele koorts mogen inenten;  
 
@@ -564,7 +564,7 @@ d. € 1.200 indien het een homeopathisch geneesmiddel als bedoeld in artikel 4
 
 e. € 2.400 indien het een homeopathisch geneesmiddel als bedoeld in artikel 42, vierde lid, van de wet betreft;  
 
-f. € 2.600 indien het een traditioneel kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, van de wet betreft.   
+f. € 3.500 indien het een traditioneel kruidengeneesmiddel als bedoeld in artikel 42, achtste lid, van de wet betreft.   
 
 ### Artikel  7.2  
 
@@ -597,15 +597,17 @@ Voor de behandeling van een verzoek aan het College als bedoeld in artikel 3.4, 
 
 a. € 19.570 indien het verzoek betrekking heeft op een geneesmiddel met een nieuw werkzame stof;  
 
-b. € 13.810 indien het verzoek betrekking heeft op een geneesmiddel met een bekende werkzame stof;  
+b. € 13.810 indien het verzoek betrekking heeft op een geneesmiddel met een bekende werkzame stof en dat verzoek door die verzoeker niet eerder aan het College is gedaan met het oog op de aanvraag van een handelvergunning in een of meer andere lidstaten;  
 
-c. € 10.000 indien het verzoek een duplexaanvraag betreft;  
+c. € 4.400 indien het verzoek betrekking heeft op een geneesmiddel met een bekende werkzame stof en dat verzoek door die verzoeker reeds eerder aan het College is gedaan met het oog op de aanvraag van een handelvergunning in een of meer andere lidstaten; 
 
-d. € 3.660 indien het verzoek betrekking heeft op een verandering als bedoeld in de punten 1 en 2 van Bijlage II bij verordening 1084/2003;  
+d. € 10.000 indien het verzoek een duplexaanvraag betreft;  
 
-e. € 1.200 indien het verzoek een homeopathisch geneesmiddel als bedoeld in artikel 42, derde lid, van de wet betreft;  
+e. € 3.660 indien het verzoek betrekking heeft op een verandering als bedoeld in de punten 1 en 2 van Bijlage II bij verordening 1084/2003;  
 
-f. € 2.600 indien het verzoek een kruidengeneesmiddel betreft als bedoeld in artikel 7.2, tweede lid, onder f.   
+f. € 1.200 indien het verzoek een homeopathisch geneesmiddel als bedoeld in artikel 42, derde lid, van de wet betreft;  
+
+g. € 2.600 indien het verzoek een kruidengeneesmiddel betreft als bedoeld in artikel 7.2, tweede lid, onder f.   
 
 ### Artikel  7.4  
 
@@ -619,15 +621,16 @@ c. € 3.660 indien de aanvraag een verandering als bedoeld in de punten 1 en 2
 
 ### Artikel  7.6  
 
-Voor de behandeling door het College van een aanvraag om een parallelhandelsvergunning is de aanvrager een vergoeding verschuldigd van € 1.465. 
+Voor de behandeling door het College van een aanvraag om een parallelhandelsvergunning is de aanvrager een vergoeding verschuldigd van € 1.600. 
 
 ### Artikel  7.7  
 
-1.  De jaarlijks verschuldigde vergoeding voor een handelsvergunning voor een homeopathisch geneesmiddel bedraagt € 32,-. Voor een reeks van homeopathische geneesmiddelen die van dezelfde grondstoffen zijn afgeleid als een homeopathisch geneesmiddel waarvoor een handelsvergunning is verleend, is eenmalig een jaarvergoeding verschuldigd.   
+1.  De jaarlijks verschuldigde vergoeding voor een handelsvergunning voor een homeopathisch geneesmiddel bedraagt € 35. Voor een reeks van homeopathische geneesmiddelen die van dezelfde grondstoffen zijn afgeleid als een homeopathisch geneesmiddel waarvoor een handelsvergunning is verleend, is eenmalig een jaarvergoeding verschuldigd.   
 2.  De jaarlijks verschuldigde vergoeding voor een handelsvergunning voor kruidengeneesmiddelen als bedoeld in artikel 42, achtste lid, van de wet, bedraagt € 515,-.   
-3.  De jaarlijks verschuldigde vergoeding voor alle andere handelsvergunningen dan die bedoeld in het eerste en het tweede lid, en van parallelhandelsvergunningen bedraagt € 1.100,-.   
-4.  De jaarlijkse vergoedingen, bedoeld in het eerste tot en met derde lid, zijn verschuldigd voor vergunningen die op de peildatum van 31 december van het voorgaande jaar in het openbaar register, bedoeld in artikel 53 van de wet, zijn ingeschreven.   
-5.  Het vierde lid is niet van toepassing indien een schriftelijk verzoek tot intrekking van een handelsvergunning als bedoeld in artikel 51, derde lid, van de wet, uiterlijk op 1 oktober van het jaar voorafgaand aan het beoogde jaar van intrekking bij het College is ingediend. 
+3.  De jaarlijks verschuldigde vergoeding voor de handelsvergunning waarvoor het College is opgetreden als referentielidstaat bedraagt € 1.270.  
+4.  De jaarlijks verschuldigde vergoeding voor alle andere handelsvergunningen dan die bedoeld in het eerste, tweede en derde lid, en van parallelhandelsvergunningen bedraagt € 1.120.   
+5.  De jaarlijkse vergoedingen, bedoeld in het eerste tot en met vierde lid, zijn verschuldigd voor vergunningen die op de peildatum van 31 december van het voorgaande jaar in het openbaar register, bedoeld in artikel 53 van de wet, zijn ingeschreven.   
+6.  Het vierde lid is niet van toepassing indien een schriftelijk verzoek tot intrekking van een handelsvergunning als bedoeld in artikel 51, derde lid, van de wet, uiterlijk op 1 november van het jaar voorafgaand aan het beoogde jaar van intrekking bij het College is ingediend. 
 
 ### Artikel  7.8  
 
@@ -639,7 +642,9 @@ b. € 6.000 indien het advies betrekking heeft op een gedeeltelijk multidiscip
 
 c. € 6.000 indien het advies betrekking heeft op een combinatie van een farmaceutisch en een preklinisch advies;  
 
-d. € 8.000 indien het een volledig multidisciplinair wetenschappelijk advies betreft, zijnde een advies dat betrekking heeft op de preklinische, farmaceutische en klinische aspecten van het geneesmiddel.   
+d. € 8.000 indien het een volledig multidisciplinair wetenschappelijk advies betreft, zijnde een advies dat betrekking heeft op de preklinische, farmaceutische en klinische aspecten van het geneesmiddel;  
+
+e. € 1.750 indien het een eenvoudig deeladvies betreft, zijnde een advies dat op verzoek van de aanvrager slechts betrekking heeft op een deel van de farmaceutische of preklinische aspecten van het geneesmiddel als bedoeld in onderdeel a.  
 
 ### Artikel  7.9  
 

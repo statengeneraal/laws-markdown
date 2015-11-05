@@ -46,7 +46,7 @@ g. eigen verklaring: verklaring van de aanvrager ter zake van zijn lichamelijke 
 
 h. geneeskundig verslag: op basis van een keuring van de aanvrager opgemaakt verslag betreffende diens lichamelijke en geestelijke geschiktheid tot het besturen van motorrijtuigen van de in het verslag vermelde rijbewijscategorie of rijbewijscategorieën;   
 
-i. theorie-certificaat: verklaring waaruit blijkt dat de aanvrager met goed gevolg een theorie-examen heeft afgelegd voor de in de verklaring vermelde rijbewijscategorie;  
+i. vervallen;  
 
 j.richtlijn vakbekwaamheid bestuurders: de bij ministeriële regeling aangewezen richtlijn;
 
@@ -100,7 +100,7 @@ ad. motorrijtuig met beperkte snelheid: hetgeen hieronder wordt verstaan in arti
 
 a. gedurende de tijd dat aan de bestuurder rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 wordt gegeven in het kader van de opleiding voor het praktijkexamen voor die rijbewijscategorie, mits: 
 
-I. die bestuurder in het bezit is van een niet langer dan een jaar en zes maanden van tevoren afgegeven theoriecertificaat voor de rijbewijscategorie AM;  
+I. die bestuurder in het bezit is van een niet langer dan een jaar en zes maanden van tevoren afgegeven verklaring dat de bestuurder is geslaagd voor het theorie-examen voor de rijbewijscategorie AM;  
 
 II. de bestuurder geen andere personen vervoert, uitgezonderd degene die aan de bestuurder rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 geeft;    
 
@@ -111,7 +111,7 @@ a. gedurende de tijd dat aan de bestuurder rijonderricht in de zin van de Wet ri
 
 I. die bestuurder in het bezit is van een van de volgende documenten: 
 
-1°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+1°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat de bestuurder is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 2°. een door het daartoe bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -136,7 +136,7 @@ I. die bestuurder in het bezit is van een van de volgende documenten:
 
 2°. een geldig rijbewijs A1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;  
 
-3°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+3°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat de bestuurder is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 4°. een door het daartoe bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -163,7 +163,7 @@ I. die bestuurder, indien hij de leeftijd van 24 jaren nog niet heeft bereikt, i
 
 II. die bestuurder, indien hij de leeftijd van 24 jaren heeft bereikt, in het bezit is van een van de volgende documenten: 
 
-1°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+1°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat de bestuurder is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 2°. een door het daartoe bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -185,8 +185,8 @@ II. die bestuurder, indien hij de leeftijd van 24 jaren heeft bereikt, in het be
 
 III. de bestuurder geen andere personen vervoert, uitgezonderd degene die aan de bestuurder rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 geeft;    
 
-b. tijdens het praktijk-examen.      
-5.  De in het eerste lid, onderdeel a, tweede lid, onderdeel a, derde lid, onderdeel a, of vierde lid, onderdeel a, bedoelde bestuurders zijn verplicht op de eerste vordering van de in artikel 159, onderdeel a, van de wet bedoelde personen het theorie-certificaat ter inzage af te geven.   
+b. tijdens het praktijk-examen.     
+5.  De in het eerste lid, onderdeel a, tweede lid, onderdeel a, derde lid, onderdeel a, of vierde lid, onderdeel a, bedoelde bestuurders zijn verplicht op de eerste vordering van de in artikel 159, onderdeel a, van de wet bedoelde personen de door het CBR verstrekte verklaring ter inzage af te geven.   
 
 ### Artikel  3  
 
@@ -271,7 +271,7 @@ c. degene aan wie rijonderricht wordt gegeven de leeftijd van 17 jaren heeft be
 
 1.  Bij het geven van rijonderricht in de zin van de Wet rijonderricht motorrijtuigen 1993 in het kader van de opleiding voor het praktijkexamen voor rijbewijscategorie AM dient te worden voldaan aan de volgende eisen: 
 
-a. degene aan wie rijonderricht wordt gegeven op een tweewielige bromfiets dient in het bezit te zijn van een niet langer dan een jaar en zes maanden van tevoren afgegeven theoriecertificaat voor de rijbewijscategorie AM;  
+a. degene aan wie rijonderricht wordt gegeven op een tweewielige bromfiets dient in het bezit te zijn van een niet langer dan een jaar en zes maanden van tevoren afgegeven verklaring dat hij is geslaagd voor het theorie-examen voor de rijbewijscategorie AM;  
 
 b. indien degene die rijonderricht geeft, zich achter de bestuurder op de tweewielige bromfiets bevindt, mag geen rijonderricht worden gegeven aan andere personen dan aan die bestuurder. Hetzelfde geldt indien degene die rijonderricht geeft, zich naast de bestuurder in de drie- of vierwielige bromfiets bevindt;  
 
@@ -290,7 +290,7 @@ d. het motorrijtuig of de motorrijtuigen waarmee rijonderricht wordt gegeven, di
 
 e. degene aan wie rijonderricht wordt gegeven voor de categorie A1, dient in het bezit te zijn van een van de volgende documenten: 
 
-1°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+1°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat hij is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 2°. een door het daartoe bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -308,7 +308,7 @@ f. degene aan wie rijonderricht wordt gegeven voor de categorie A2, dient in het
 
 2°. een geldig rijbewijs A1, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;  
 
-3°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+3°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat hij is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 4°. een door het daartoe bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -338,7 +338,7 @@ II. indien hij de leeftijd van 24 jaren heeft bereikt:
 
 4°. een geldig rijbewijs A2, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;  
 
-5°. een niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
+5°. een niet langer dan een jaar en zes maanden tevoren afgegeven verklaring dat hij is geslaagd voor het theorie-examen voor de rijbewijscategorie A;  
 
 6°. een door het daartoe door het bevoegde militaire gezag niet langer dan een jaar en zes maanden tevoren afgegeven theoriecertificaat ten behoeve van de rijbewijscategorie A;  
 
@@ -438,21 +438,21 @@ i. motorrijtuigen die zijn ontworpen en gebouwd voor het vervoer van meer dan ac
 
 j. landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid, alsmede een of meer door die motorrijtuigen voortbewogen aanhangwagens of verwisselbare getrokken machines (rijbewijs T), niet zijnde motorrijtuigen van een van de in de onderdelen a tot en met i bedoelde rijbewijscategorieën, tenzij: 
 
-1°. het motorrijtuig, gemeten overeenkomstig artikel 5.1a.1 van de Regeling voertuigen niet breder is dan 1,3 m,  
+1°. het motorrijtuig, gemeten overeenkomstig de meetmethode, vermeld in artikel 1, onderdeel 1, onder c, bijlage VIII, van de Regeling voertuigen, met inbegrip van de breedte van een of meer verwisselbare uitrustingsstukken, niet breder is dan 1,3 m,  
 
 2°. het motorrijtuig is voorzien van: 
 
-I. een door de motor aangedreven maai-installatie, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het maaien van oppervlakten,  
+I. een door de motor aangedreven maai-installatie, bestemd voor het maaien van oppervlakten,  
 
-II. een door de motor aangedreven veeginstallatie, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het vegen van wegen,  
+II. een door de motor aangedreven veeginstallatie, bestemd voor het vegen van wegen,  
 
-III. een door de motor aangedreven installatie om automatisch uitwerpselen op te zuigen, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het opzuigen van uitwerpselen,  
+III. een door de motor aangedreven installatie om automatisch uitwerpselen op te zuigen, bestemd voor het opzuigen van uitwerpselen,  
 
-IV. een uitrustingsstuk aan de voorzijde ter verwijdering van sneeuw op het wegdek, met een minimale breedte gelijk aan de grootste breedte van het voertuig, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd ter verwijdering van sneeuw op het wegdek,  
+IV. een uitrustingsstuk aan de voorzijde ter verwijdering van sneeuw op het wegdek, met een minimale breedte gelijk aan de grootste breedte van het voertuig, bestemd ter verwijdering van sneeuw op het wegdek,  
 
-V. een installatie voor het strooien op wegen ter voorkoming of bestrijding van gladheid, niet zijnde een of meer verwisselbaar uitrustingsstukken bestemd voor het strooien op wegen, of  
+V. een installatie voor het strooien op wegen ter voorkoming of bestrijding van gladheid, bestemd voor het strooien op wegen, of  
 
-VI. een installatie met een tankinhoud van ten minste 100 liter om onkruid te besproeien, niet zijnde een of meer verwisselbare uitrustingsstukken bestemd voor het sproeien van onkruid,  
+VI. een installatie met een tankinhoud van ten minste 100 liter om onkruid te besproeien, bestemd voor het sproeien van onkruid,  
 
 VII. een hefinrichting aan de voorzijde van het voertuig, niet zijnde een verwisselbaar uitrustingsstuk, dat zelfstandig voor laad- en losactiviteiten kan worden ingezet, en    
 
@@ -800,15 +800,17 @@ IV.blijkens een aantekening in het rijbewijzenregister naar het oordeel van het 
 
 ### Artikel  41a  
 
-1.  Indien aan de aanvrager overeenkomstig artikel 118, derde lid, van de wet dan wel op grond van de artikelen 132b, eerste lid, of 134, zevende lid, van de wet, de verplichting is opgelegd tot deelname aan het alcoholslotprogramma en zijn rijbewijs op grond van artikel 132b, tweede lid, van de wet ongeldig is verklaard, vindt de aanvraag tot afgifte van een rijbewijs dat geldig is voor de categorie B, met de voor het alcoholslotprogramma vastgestelde codering, plaats overeenkomstig de artikelen 41a en 41b.   
+1.  Indien aan de aanvrager overeenkomstig artikel 118, derde lid, van de wet dan wel op grond van de artikelen 132b, eerste lid, of 134, zevende lid, van de wet, de verplichting is opgelegd tot deelname aan het alcoholslotprogramma en zijn rijbewijs op grond van artikel 132b, tweede lid, van de wet ongeldig is verklaard, vindt de aanvraag tot afgifte van een rijbewijs dat geldig is voor de categorie B, dan wel de categorieën B en E bij B, met de voor deelname aan het alcoholslotprogramma vastgestelde codering plaats overeenkomstig de artikelen 41a en 41b.   
 2.  Bij de aanvraag, bedoeld in het eerste lid, dient aan de volgende eisen te worden voldaan: 
 
 a. de in artikel 33 genoemde bescheiden worden overgelegd;  
 
 b. het ongeldig verklaarde rijbewijs wordt overgelegd, tenzij uit het rijbewijzenregister blijkt dat het reeds is ingeleverd;  
 
-c. in het rijbewijzenregister is ten aanzien van de aanvrager een verklaring van geschiktheid geregistreerd voor de rijbewijscategorie B, waarbij de datum van de aanvraag van die verklaring moet liggen na de datum van het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma, en de datum van registratie van die verklaring niet langer dan een jaar vóór de aanvraag van het rijbewijs mag liggen.     
-3.  In aanvulling op het tweede lid dient ten aanzien van de aanvrager in het rijbewijzenregister een verklaring van rijvaardigheid voor de categorie B te zijn geregistreerd, waarbij de datum van de aanvraag van die verklaring moet liggen na het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma, en de datum van registratie van die verklaring niet langer dan drie jaar vóór de aanvraag van het rijbewijs mag liggen, indien het rijbewijs bedoeld in het tweede lid, onderdeel b, een rijbewijs betreft als bedoeld in respectievelijk de artikelen 44, eerste lid, 45, eerste lid, 46, eerste lid, 47, eerste lid, of 48, eerste lid, en dit rijbewijs niet voldoet aan de in respectievelijk de artikelen 44, 45, 46, 47 of 48 voor omwisseling gestelde eisen.   
+c. in het rijbewijzenregister is ten aanzien van de aanvrager een verklaring van geschiktheid geregistreerd voor de rijbewijscategorie B, waarbij de datum van de aanvraag van die verklaring moet liggen na de datum van het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma, en de datum van registratie van die verklaring niet langer dan een jaar vóór de aanvraag van het rijbewijs mag liggen;  
+
+d. indien het ongeldig verklaarde rijbewijs mede was afgegeven voor de rijbewijscategorie E bij B en de aanvraag mede betrekking heeft op deze rijbewijscategorie, is in het rijbewijzenregister ten aanzien van de aanvrager tevens een verklaring van geschiktheid geregistreerd voor deze categorie, waarbij de datum van de aanvraag van die verklaring moet liggen na de datum van het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma, en de datum van registratie van die verklaring niet langer dan een jaar vóór de aanvraag van het rijbewijs mag liggen.    
+3.  In aanvulling op het tweede lid dient ten aanzien van de aanvrager in het rijbewijzenregister een verklaring van rijvaardigheid voor de categorie B, dan wel voor de categorieën B en E bij B, te zijn geregistreerd, waarbij de datum van de aanvraag van die verklaring moet liggen na het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma, en de datum van registratie van die verklaring niet langer dan drie jaar vóór de aanvraag van het rijbewijs mag liggen, indien het rijbewijs bedoeld in het tweede lid, onderdeel b, een rijbewijs betreft als bedoeld in respectievelijk de artikelen 44, eerste lid, 45, eerste lid, 46, eerste lid, 47, eerste lid, of 48, eerste lid, en dit rijbewijs niet voldoet aan de in respectievelijk de artikelen 44, 45, 46, 47 of 48 voor omwisseling gestelde eisen.   
 4.  Voor de toepassing van het derde lid wordt met de daar bedoelde verklaring van rijvaardigheid gelijkgesteld een door het daartoe bevoegde militaire gezag niet langer dan drie jaar voor de aanvraag in het rijbewijzenregister geregistreerde verklaring van rijvaardigheid voor het besturen van motorrijtuigen van de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag betrekking heeft, waarbij de datum van de aanvraag van die verklaring moet liggen na het besluit tot oplegging van de verplichting tot deelname aan het alcoholslotprogramma.   
 5.  Indien het over te leggen rijbewijs wegens vermissing of diefstal niet kan worden overgelegd, worden in plaats daarvan de volgende documenten overgelegd: 
 
@@ -824,7 +826,7 @@ b. indien het over te leggen rijbewijs een rijbewijs betreft afgegeven door het 
 
 a. de in artikel 42b, tweede lid, onderdeel b, bedoelde verklaring dient te worden overgelegd;  
 
-b. in het rijbewijzenregister dient een verklaring van rijvaardigheid te zijn geregistreerd voor de rijbewijscategorie B, waarbij de datum van de aanvraag van die verklaring moet liggen na het tijdstip waarop de in artikel 123b, eerste lid, van de wet bedoelde uitspraak onherroepelijk is geworden en de datum van registratie van die verklaring niet langer dan drie jaar voor de aanvraag mag liggen.     
+b. in het rijbewijzenregister dient een verklaring van rijvaardigheid te zijn geregistreerd voor de rijbewijscategorie of rijbewijscategorieën waarop de aanvraag bedoeld in artikel 41a, eerste lid, betrekking heeft, waarbij de datum van de aanvraag van die verklaring of die verklaringen moet liggen na het tijdstip waarop de in artikel 123b, eerste lid, van de wet bedoelde uitspraak onherroepelijk is geworden en de datum van registratie van die verklaring of die verklaringen niet langer dan drie jaar voor de aanvraag mag liggen.     
 2.  De artikelen 42b, vierde, vijfde en zevende lid, en 42c tot en met 42e zijn van overeenkomstige toepassing.  
 
 ### Artikel  41c  
@@ -861,9 +863,9 @@ b. ten aanzien van de aanvrager een verklaring van geschiktheid te zijn geregist
 I. de datum van de aanvraag van die verklaring moet liggen na de datum van het besluit, bedoeld in artikel 132d, eerste of derde lid, van de wet, en  
 
 II. de datum van registratie niet langer dan een jaar voor de aanvraag mag liggen.       
-2.  Het eerste lid, onderdeel b, geldt niet indien de zwaarste rijbewijscategorie de rijbewijscategorie B of AM betreft.   
+2.  Het eerste lid, onderdeel a, geldt niet indien de zwaarste rijbewijscategorie waarop de aanvraag betrekking heeft de rijbewijscategorie B respectievelijk BE, of AM betreft.   
 3.  Artikel 41c, vierde lid, is van overeenkomstige toepassing.   
-4.  Indien ten tijde van de aanvraag, bedoeld in artikel 41c, eerste lid, de in artikel 42b, tweede lid, onderdeel c, onder I, bedoelde verklaring van rijvaardigheid zijn geldigheid heeft verloren, kan alleen een rijbewijs worden aangevraagd voor de rijbewijscategorieën B en AM.  
+4.  Indien ten tijde van de aanvraag, bedoeld in artikel 41c, eerste lid, de in artikel 42b, tweede lid, onderdeel c, onder I, bedoelde verklaring van rijvaardigheid zijn geldigheid heeft verloren, kan alleen een rijbewijs worden aangevraagd voor de rijbewijscategorie of rijbewijscategorieën waarvoor het rijbewijs met de voor deelname aan het alcoholslotprogramma vastgestelde codering was afgegeven, alsmede voor de categorie AM.  
 
 ### Artikel  42  
 
@@ -1561,11 +1563,7 @@ h. kennis van en inzicht in de werking en defecten van de belangrijkste voertuig
 ### Artikel  65  
 
 1.  Indien de aanvrager bij het theorie-examen naar het oordeel van het CBR heeft voldaan aan de eisen, registreert het CBR ten behoeve van de aanvrager dat hij is geslaagd voor het theorie-examen en draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt.   
-2.  Ten behoeve van artikel 7, eerste lid, onderdeel a, en tweede lid, onderdelen e, onder 1°, en g, subonderdeel II, onder 3°, geeft het CBR aan de betrokken kandidaat een theoriecertificaat af voor de rijbewijscategorie AM, respectievelijk ten behoeve van de rijbewijscategorie A.  
-
-### Artikel  66  
-
-Het model van het theorie-certificaat wordt bij ministeriële regeling vastgesteld.  
+2.  Ten behoeve van artikel 7, eerste lid, onderdeel a, en tweede lid, onderdelen e, f en h, geeft het CBR aan de betrokken kandidaat een verklaring af dat deze is geslaagd voor de rijbewijscategorie AM, respectievelijk ten behoeve van de rijbewijscategorie A.  
 
 ### §  4  
 
@@ -2199,15 +2197,17 @@ III. de afgifte van een rijbewijs dat geldig is voor een of meer van de rijbewij
 a. de bevindingen van de arts of artsen of deskundige of deskundigen, of  
 
 b. de eigen verklaring, indien geen vordering als bedoeld in artikel 101, eerste lid, is gedaan.  Indien het de registratie betreft van een verklaring of van verklaringen van geschiktheid in verband met een aanvraag als bedoeld in artikel 42a, eerste lid, wordt, indien de aanvrager zijn geschiktheid heeft aangetoond, ten behoeve van de aanvrager ook voor alle lichtere categorieën waarop deze aanvraag mede betrekking heeft, een verklaring van geschiktheid geregistreerd in het rijbewijzenregister. Beperkende coderingen op het eerder afgegeven, ongeldig geworden, rijbewijs dan wel geregistreerd in het rijbewijzenregister bij een of meer rijbewijscategorieën waarop de aanvraag betrekking heeft, worden overgenomen op de verklaring of verklaringen van geschiktheid in het kader van de aanvraag als bedoeld in de vorige volzin.  
-2.  Indien het de registratie van een verklaring van geschiktheid betreft nadat aan de aanvrager overeenkomstig artikel 118, derde lid, van de wet dan wel op grond van de artikelen 132b, eerste lid, of 134, zevende lid, van de wet de verplichting is opgelegd tot deelname aan het alcoholslotprogramma, wordt ten aanzien van de aanvrager een verklaring van geschiktheid voor de rijbewijscategorie B geregistreerd, indien: 
+2.  Indien het de registratie van een verklaring van geschiktheid betreft nadat aan de aanvrager overeenkomstig artikel 118, derde lid, van de wet dan wel op grond van de artikelen 132b, eerste lid, of 134, zevende lid, van de wet de verplichting is opgelegd tot deelname aan het alcoholslotprogramma, wordt ten aanzien van de aanvrager een verklaring van geschiktheid voor de rijbewijscategorie B geregistreerd, dan wel worden ten aanzien van de aanvrager verklaringen van geschiktheid voor de rijbewijscategorieën B en E bij B, geregistreerd, indien: 
 
 a. ten aanzien van betrokkene is geregistreerd dat hij het formulier, bedoeld in artikel 132c, eerste lid, onderdeel c, van de wet heeft teruggezonden aan het CBR,  
 
-b. ten aanzien van betrokkene is geregistreerd dat hij een alcoholslot als bedoeld in artikel 132e, van de wet heeft laten inbouwen in een of meer motorrijtuigen van de in artikel 132a bedoelde categorie, en  
+b. ten aanzien van betrokkene is geregistreerd dat hij een alcoholslot als bedoeld in artikel 132e, van de wet heeft laten inbouwen in een of meer motorrijtuigen van de in artikel 132a bedoelde categorie,  
 
-c. ten aanzien van betrokkene is geregistreerd dat hij de in het besluit, bedoeld in artikel 132b, eerste lid, van de wet aangegeven kosten op de in dat besluit aangegeven wijze heeft betaald aan het CBR.   De verklaring van geschiktheid wordt zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat is voldaan aan deze eisen, geregistreerd.   
-3.  Op de in het tweede lid bedoelde verklaring van geschiktheid wordt door middel van de voorgeschreven codering aangegeven dat alleen een motorrijtuig van de categorie B met het opgegeven kenteken mag worden bestuurd waarin een alcoholslot is ingebouwd.   
-4.  Indien op het eerder aan de aanvrager afgegevenrijbewijs vermeldingen of beperkende coderingen in de vorm van een bij ministeriële regeling vastgestelde codering, anders dan de voor het alcoholslotprogramma vastgestelde codering, waren aangebracht, worden deze coderingen overgenomen op de in het tweede lid bedoelde verklaring van geschiktheid.   
+c. ten aanzien van betrokkene is geregistreerd dat hij de in het besluit, bedoeld in artikel 132b, eerste lid, van de wet aangegeven kosten op de in dat besluit aangegeven wijze heeft betaald aan het CBR, en  
+
+d. in geval de aanvraag mede betrekking heeft op de rijbewijscategorie E bij B, uit het rijbewijzenregister blijkt dat het op grond van artikel 132b, tweede lid, van de wet ongeldig verklaarde rijbewijs mede was afgegeven voor die categorie.  De verklaring van geschiktheid wordt of de verklaringen van geschiktheid worden zo spoedig mogelijk, maar uiterlijk binnen vier weken nadat is voldaan aan deze eisen, geregistreerd.   
+3.  Op de in het tweede lid bedoelde verklaring of verklaringen van geschiktheid wordt de voor deelname aan het alcoholslotprogramma vastgestelde codering vermeld.   
+4.  Indien op het eerder aan de aanvrager afgegevenrijbewijs vermeldingen of beperkende coderingen in de vorm van een bij ministeriële regeling vastgestelde codering, anders dan de voor het alcoholslotprogramma vastgestelde codering, waren aangebracht, worden deze coderingen overgenomen op de in het tweede lid bedoelde verklaring of verklaringen van geschiktheid.   
 5.  Indien het de registratie van een verklaring van geschiktheid betreft met het oog op een aanvraag als bedoeld in de artikelen 41c of 41d, wordt zo spoedig mogelijk doch uiterlijk binnen vier weken nadat het CBR op basis van artikel 132d, eerste of derde lid, van de wet heeft besloten dat er geen aanleiding is tot verlenging van het alcoholslotprogramma, ten aanzien van de aanvrager voor een of meerdere van de categorieën A1, A2, A, B of E bij B een verklaring van geschiktheid geregistreerd. Het vierde lid is van overeenkomstige toepassing.   
 6.  In afwijking van het vijfde lid wordt een verklaring van geschiktheid zo spoedig mogelijk doch uiterlijk binnen vier weken nadat een geneeskundig verslag volgens door het CBR vastgesteld model is overgelegd, geregistreerd, indien: 
 
@@ -3694,10 +3694,9 @@ b. indien het een certificaat van vakbekwaamheid betreft, afgegeven voor 1 janu
 
 ### Artikel  197b  
 
-1.  Bij de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10) door een houder van een rijbewijs voor de categorie B dat op het tijdstip van de inwerkingtreding van genoemde wet nog geldig is of waarvan de geldigheid is verlopen door het verstrijken van de geldigheidsduur, wordt door het CBR tevens een verklaring van geschiktheid voor de categorie T geregistreerd, indien een verklaring van geschiktheid is vereist voor de categorie B en die voor die categorie wordt geregistreerd. Op de verklaring van geschiktheid voor de rijbewijscategorie T worden de beperkende coderingen overgenomen die zijn vermeld op de verklaring van geschiktheid voor de rijbewijscategorie B.   
-2.  In de in het eerste lid bedoelde gevallen, alsmede in de gevallen waarin het de afgifte betreft van een rijbewijs van de categorie B en T op basis van een de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de in het eerste lid bedoelde wet, zonder dat een verklaring van geschiktheid is vereist voor de categorie B, worden op het af te geven rijbewijs de beperkende coderingen die zijn geregistreerd ten aanzien van houders van een rijbewijs B eveneens vermeld op het rijbewijs ten aanzien de categorie T.   
-3.  Indien op het in het eerste lid bedoelde rijbewijs B de beperkende codering is vermeld die aangeeft dat het examen voor de rijbewijscategorie is afgelegd in een motorrijtuig met automatische schakeling, wordt op het af te geven rijbewijs deze codering niet overgenomen ten aanzien van de categorie T.   
-4.  Indien op basis van de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de in de eerste lid bedoelde wet het rijbewijs voor de categorie B wordt afgegeven voor een beperkte geldigheidsduur, wordt ook de categorie T afgegeven voor dezelfde beperkte geldigheidsduur.  
+1.  Bij de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de wet van 3 december 2014 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de invoering van de rijbewijsplicht voor landbouw- en bosbouwtrekkers en motorrijtuigen met beperkte snelheid (T-rijbewijs; Stb. 2015, 10) door een houder van een rijbewijs voor de categorie B dat op het tijdstip van de inwerkingtreding van genoemde wet nog geldig is of waarvan de geldigheid is verlopen door het verstrijken van de geldigheidsduur, worden op het af te geven rijbewijs de beperkende coderingen die zijn geregistreerd ten aanzien van de categorie B eveneens vermeld op het rijbewijs ten aanzien de categorie T.   
+2.  Indien op het in het eerste lid bedoelde rijbewijs B de beperkende codering is vermeld die aangeeft dat het examen voor de rijbewijscategorie is afgelegd in een motorrijtuig met automatische schakeling, wordt op het af te geven rijbewijs deze codering niet overgenomen ten aanzien van de categorie T.   
+3.  Indien op basis van de aanvraag tot afgifte van een rijbewijs voor de categorieën B en T, bedoeld in artikel V, tweede lid, van de in de eerste lid bedoelde wet het rijbewijs voor de categorie B wordt afgegeven voor een beperkte geldigheidsduur, wordt ook de categorie T afgegeven voor dezelfde beperkte geldigheidsduur. 
 
 ### Hoofdstuk  X  
 

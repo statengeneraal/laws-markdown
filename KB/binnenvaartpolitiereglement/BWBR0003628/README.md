@@ -2489,6 +2489,61 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 | --- | 75  | --- |
 | Artikel 6.04a en 6.05: Ontmoeten stuurboord op stuurboord.  |
 
+### Bijlage  4  
+
+####Gebruik van het Inland AIS-apparaat als bedoeld in artikel 4.07, derde, vierde en achtste lid ,
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### 1  
+
+####Navigatiestatus
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 0  | under way using engine  | is onderweg op de motor  |
+| 1  | at anchor  | ligt voor anker  |
+| 2  | not under command  | is niet manoeuvreerbaar  |
+| 3  | restricted manoeuvrability  | is beperkt manoeuvreerbaar  |
+| 4  | constrained by her draught  | is beperkt door de diepgang  |
+| 5  | Moored  | ligt afgemeerd  |
+| 6  | Aground  | zit aan de grond  |
+| 7  | engaged in fishing  | is bezig met vissen  |
+| 8  | under way sailing  | vaart onder zeil  |
+| 9 to 13  | reserved for future uses  | gereserveerd voor toekomstig gebruik  |
+| 14  | AIS-SART (active)  | AIS-SART (actief)  |
+| 15  | Not defined  | niet gedefinieerd  |
+
+### 2  
+
+####Referentiepunt voor de positie-informatie op het schip.
+
+De schipper moet de aan de antenne gerelateerde waarden A, B, C, en D met de nauwkeurigheid van 1 m invoeren. Waarde A wordt in de richting van de boeg gemeten.  ![256276](http://wetten.overheid.nl/Illustration/256276)
+Verklaring van de waarden W, L, A, B, C, D voor een schip  ![256277](http://wetten.overheid.nl/Illustration/256277)
+Verklaring van de waarden W, L, A, B, C, D voor een samenstel  
+
+### 3  
+
+####Vaarwegen waarop een schip mag zijn uitgerust met een krachtens de IMO-voorschriften typegoedgekeurd AIS-apparaat van klasse A.
+
+a. De Waddenzee, alsmede de hieraan gelegen havens;  
+
+b. De havens van Termunten, van Delfzijl, van de gemeente Eemsmond en Scheveningen;  
+
+c. Het Noordzeekanaal, met inbegrip van zijkanaal G tot aan de Zaansluizen, het IJ en de vaarwegen ten westen van de Noordzeesluizen te IJmuiden;  
+
+d. Het IJsselmeer, met inbegrip van het Markermeer en het IJmeer en met uitzondering van de Gouwzee;  
+
+e. de Maasmond, de Nieuwe Waterweg, de Nieuwe Maas, het Beerkanaal, het Hartelkanaal, het Yangtzekanaal en het Calandkanaal, alsmede de havens aan deze vaarwegen;  
+
+f. de Noord, de Oude Maas, de Dordtsche Kil, en de daarop aansluitende vaarweg naar het Industrie- en Havenschap Moerdijk, alsmede de havens aan deze vaarwegen;  
+
+g. de Oosterschelde;  
+
+h. het Kanaal door Zuid-Beveland;  
+
+i. de havens die met de Westerschelde in open verbinding staan.   
+
 ###Bijlage 6  
 
 ####Geluidsseinen

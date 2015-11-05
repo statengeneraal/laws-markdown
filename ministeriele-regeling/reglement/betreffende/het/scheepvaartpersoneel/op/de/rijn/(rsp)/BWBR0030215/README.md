@@ -94,7 +94,7 @@ In dit reglement wordt verstaan onder:
 
 37.  *binnenvaartcertificaat:* een certificaat van onderzoek of een communautair certificaat;  
 
-38.  *Commissie van Deskundigen:* de nationale autoriteit die bevoegd is voor de afgifte van het certificaat van onderzoek en waarvan de samenstelling is vastgesteld in [artikel 2.01 van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md).   
+38.  *Commissie van Deskundigen:* de nationale autoriteit die bevoegd is voor de afgifte van het certificaat van onderzoek en waarvan de samenstelling is vastgesteld in artikel 2.01 van het Reglement Onderzoek Schepen op de Rijn.   
 
 ### Artikel  1.02  
 
@@ -142,7 +142,7 @@ d) drijvende werktuigen.
 
 ####Algemeen
 
-1. De bemanning en het veiligheidspersoneel die zich overeenkomstig het [Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) aan boord moeten bevinden van schepen die de Rijn bevaren, dienen in overeenstemming te zijn met de voorschriften van dit reglement. De voor de desbetreffende exploitatiewijze en vaartijd voorgeschreven bemanning en veiligheidspersoneel moeten zich tijdens de vaart voortdurend aan boord bevinden. Het is niet toegestaan zonder de voorgeschreven bemanning of zonder het veiligheidspersoneel te vertrekken. Schepen waarvan door onvoorziene omstandigheden (bijvoorbeeld ziekte, ongeval, bevel van een bevoegde autoriteit) tijdens de vaart ten hoogste één lid van de voorgeschreven bemanning uitvalt, mogen niettemin hun reis voortzetten tot de eerstvolgende geschikte aanlegplaats in de richting waarin gevaren wordt – passagiersschepen tot het eindpunt van de reis van die dag – indien zich aan boord naast een persoon die houder is van een patent voor het desbetreffende riviergedeelte, nog een lid van de voorgeschreven bemanning bevindt. De persoon die belast is met het toezicht op en de verzorging van zich aan boord bevindende kinderen onder de zes jaar, mag geen lid van de minimumbemanning zijn, tenzij er maatregelen zijn getroffen om de veiligheid van de kinderen ook zonder voortdurend toezicht te waarborgen.  
+1. De bemanning en het veiligheidspersoneel die zich overeenkomstig het Rijnvaartpolitiereglement aan boord moeten bevinden van schepen die de Rijn bevaren, dienen in overeenstemming te zijn met de voorschriften van dit reglement. De voor de desbetreffende exploitatiewijze en vaartijd voorgeschreven bemanning en veiligheidspersoneel moeten zich tijdens de vaart voortdurend aan boord bevinden. Het is niet toegestaan zonder de voorgeschreven bemanning of zonder het veiligheidspersoneel te vertrekken. Schepen waarvan door onvoorziene omstandigheden (bijvoorbeeld ziekte, ongeval, bevel van een bevoegde autoriteit) tijdens de vaart ten hoogste één lid van de voorgeschreven bemanning uitvalt, mogen niettemin hun reis voortzetten tot de eerstvolgende geschikte aanlegplaats in de richting waarin gevaren wordt – passagiersschepen tot het eindpunt van de reis van die dag – indien zich aan boord naast een persoon die houder is van een patent voor het desbetreffende riviergedeelte, nog een lid van de voorgeschreven bemanning bevindt. De persoon die belast is met het toezicht op en de verzorging van zich aan boord bevindende kinderen onder de zes jaar, mag geen lid van de minimumbemanning zijn, tenzij er maatregelen zijn getroffen om de veiligheid van de kinderen ook zonder voortdurend toezicht te waarborgen.  
 
 2. Elke Rijnoeverstaat of België kan bepalen dat de nationale voorschriften betreffende de arbeidsbescherming van toepassing zijn op de Rijnschepen die in die staat zijn ingeschreven. Niet in een register ingeschreven schepen vallen onder de wettelijke voorschriften van die Rijnoeverstaat of België waarin het bedrijf zijn hoofdzetel of de eigenaar zijn wettelijke domicilie heeft. In afwijking hiervan kunnen de bevoegde autoriteiten van de Rijnoeverstaten of België bilateraal overeenkomen dat bepaalde schepen die in de ene staat zijn ingeschreven, onder de voorschriften van de andere staat vallen. Zwangere vrouwen en kraamvrouwen mogen gedurende ten minste 14 weken, waarvan ten minste zes weken voor en zeven weken na de bevalling geen deel uitmaken van de bemanning.  
 
@@ -238,7 +238,7 @@ b) een door de CCR als gelijkwaardig erkende medische verklaring, die niet ouder
 
 c) een als gelijkwaardig erkend, geldig vaarbevoegdheidsbewijs, waarvoor op zijn minst dezelfde vereisten gelden, als die in bijlage B1 zijn vastgesteld.    
 
-2. Voor de functie van machinist hoeft niet aan de vereisten voor ogen en oren, zoals bedoeld in [bijlage B1 van het Patentreglement Rijn](../../../../../../../../../../ministeriele-regeling/patentreglement/rijn/BWBR0026045/README.md), te worden voldaan.  
+2. Voor de functie van machinist hoeft niet aan de vereisten voor ogen en oren, zoals bedoeld in bijlage B1 van het Patentreglement Rijn, te worden voldaan.  
 
 ### Artikel  3.04  
 
@@ -439,7 +439,7 @@ c) Worden per dag twee of meer reizen met ongewijzigde bemanning afgelegd, kan w
 
 ####Uitrusting van schepen
 
-1. Onverminderd de bepalingen van het [Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) (ROSR) moeten motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig deze paragraaf te worden geëxploiteerd, aan een van de volgende uitrustingsstandaarden voldoen: 
+1. Onverminderd de bepalingen van het Reglement Onderzoek Schepen op de Rijn (ROSR) moeten motorschepen, duwboten, duwstellen en passagiersschepen, om met een minimumbemanning overeenkomstig deze paragraaf te worden geëxploiteerd, aan een van de volgende uitrustingsstandaarden voldoen: 
 
 1.1 Standaard S1 
 
@@ -451,7 +451,7 @@ c) De brandstoftoevoer en de koeling van de hoofdmotoren dienen automatisch te g
 
 d) De bediening van de stuurinrichting moet zelfs bij de grootste toegelaten inzinking door één persoon zonder bijzondere krachtsinspanning kunnen worden verricht;  
 
-e) De bij het [Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven;  
+e) De bij het Rijnvaartpolitiereglement voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven;  
 
 f) Indien geen rechtstreeks contact mogelijk is tussen de stuurstelling en het voorschip, het achterschip, de verblijven en de machinekamer, dient een spreekverbinding te zijn aangebracht. Voor contact met de machinekamer mogen in plaats van een spreekverbinding optische en akoestische signalen worden gebruikt;  
 
@@ -642,7 +642,7 @@ De bepalingen van hoofdstuk 3 zijn niet van toepassing op pleziervaartuigen. Des
 
 ####Uitzondering
 
-Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Nederlandse grens tijdens de vaart noch in de ene, noch in de andere richting wordt overschreden, worden volstaan met de toepassing van de voorschriften van de Nederlandse ‘[Binnenvaartwet](../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md)’ (Staatsblad 2007, Nummer 498).
+Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Nederlandse grens tijdens de vaart noch in de ene, noch in de andere richting wordt overschreden, worden volstaan met de toepassing van de voorschriften van de Nederlandse ‘Binnenvaartwet’ (Staatsblad 2007, Nummer 498).
 
 ### Hoofdstuk  4  
 
@@ -653,6 +653,62 @@ Voor de vaart beneden het Spijksche Veer (km 857,40) kan, voor zover de Duits-Ne
 ####Verwijzing naar de bepalingen van het ADN
 
 Aan boord van schepen die gevaarlijke stoffen vervoeren, moet een persoon houder zijn van een verklaring van deskundigen volgens het model van randnummer 8.6.2. van het ADN, overeenkomstig de randnummers 7.1.3.15 en 7.2.3.15 van het ADN.
+
+###Hoofdstuk 4a 
+
+####Aanvullende voorschriften voor de kennis van de bemanningsleden van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken
+
+Treedt in werking per 01-07-2016 
+
+### Artikel  4a.01  
+
+####Kennis en instructies
+
+Treedt in werking per 01-07-2016 
+
+1. De schipper en de bij de bunkerprocedure betrokken bemanningsleden van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken, moeten over een deskundigheid aangaande het gebruik van vloeibaar aardgas als brandstof beschikken.
+2. Een bemanningslid mag pas werkzaamheden aan boord uitoefenen na instructies van de schipper te hebben gekregen over het gebruik van vloeibaar aardgas (LNG) als brandstof op het desbetreffende schip en met name over de bunkerprocedure. 
+
+### Artikel  4a.02  
+
+####Verklaring
+
+Treedt in werking per 01-07-2016 
+
+De betrokken bemanningsleden tonen hun kennis aan door middel van een verklaring overeenkomstig het model van bijlage E1. De verklaring wordt afgegeven wanneer de kandidaat voldoet aan de eisen van artikelen 4a.03 en 4a.04. 
+
+### Artikel  4a.03  
+
+####Cursus en examen
+
+Treedt in werking per 01-07-2016 
+
+De cursus inzake de kennis bestaat uit een theoretisch gedeelte en een praktisch gedeelte en wordt door een examen afgesloten. Het theoretische gedeelte van de cursus omvat de in bijlage E2, deel A, genoemde onderwerpen. Het praktische gedeelte van de cursus betreft de toepassing van de verworven theoretische kennis in de praktijk aan boord van een schip dat vloeibaar aardgas (LNG) als brandstof gebruikt en/of in een daartoe geschikte installatie aan de wal. Het omvat de in bijlage E2, deel B, genoemde onderwerpen. Het examen bestaat uit een theoretisch en uit een praktisch deel. Het omvat alle in bijlage E2, deel A en deel B genoemde onderwerpen. Het examen is met goed gevolg afgelegd wanneer de kandidaat in beide geëxamineerde delen heeft aangetoond over voldoende kennis en vaardigheden te beschikken. Het praktisch deel van het examen wordt aan boord van een schip en/of aan de wal afgenomen. 
+
+### Artikel  4a.04  
+
+####Geldigheid en verlenging van de verklaring
+
+Treedt in werking per 01-07-2016 
+
+1.  De verklaring heeft een geldigheidsduur van vijf jaar.   
+2.  De geldige verklaring overeenkomstig het model van bijlage E1 wordt op verzoek van de houder door de bevoegde autoriteit met vijf jaar verlengd met ingang van de datum van aanvraag wanneer de houder: 
+
+a) de onderstaande vaartijd kan aantonen op een schip dat vloeibaar aardgas (LNG) als brandstof gebruikt: 
+
+– ten minste 180 dagen voor de voorafgaande periode van vijf jaar, of  
+
+– ten minste 90 dagen voor de voorafgaande periode van een jaar;   of, wanneer dit niet het geval is,  
+
+b) aan een opfriscursus met examen heeft deelgenomen. De bepalingen van artikel 4a.03 zijn van overeenkomstige toepassing op de inhoud van de opfriscursus en van het examen, waarbij de cursus- en examenomvang wordt teruggebracht.    
+
+### Artikel  4a.05  
+
+####Bevoegdheid
+
+Treedt in werking per 01-07-2016 
+
+De bevoegdheid om erkende cursussen en opfriscursussen te verzorgen, examens af te nemen en verklaringen overeenkomstig het model van bijlage E1 af te geven ligt bij erkende opleidingsinstituten. De cursussen, opfriscursussen en opleidingsinstituten worden erkend door de bevoegde autoriteiten op basis van de uniforme criteria die door de CCR zijn vastgelegd. De bevoegde autoriteit kan zich het recht voorbehouden om zelf de verklaringen af te geven of te verlengen. Elke bevoegde autoriteit is bevoegd voor de verlenging van verklaringen op grond van vaartijd. De bevoegde autoriteiten stellen de CCR in kennis van elke beslissing over de erkenning van een opleidingsinstituut of over de intrekking of de opschorting van een dergelijke erkenning. De lijst van de erkende opleidingsinstituten en cursussen wordt via elektronische weg gepubliceerd door de CCR. 
 
 ### Hoofdstuk  5  
 
@@ -736,7 +792,7 @@ b) regelmatig overeenkomstig artikel 5.07 wordt bijgeschoold.
 
 ####Persluchtmaskerdrager
 
-De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in [artikel 15.12, tiende lid, onderdeel a, van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md), voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig artikel 5.07 is bijgeschoold.
+De persluchtmaskerdrager moet ten minste 18 jaar zijn en de vereiste bekwaamheid bezitten, om de ademhalingsapparatuur zoals bedoeld in artikel 15.12, tiende lid, onderdeel a, van het Reglement Onderzoek Schepen op de Rijn, voor de redding van personen te kunnen gebruiken. Deze wordt geacht aanwezig te zijn, indien de betreffende persoon de lichamelijke en geestelijke geschiktheid en de bekwaamheid overeenkomstig de nationale voorschriften van de Rijnoeverstaten of België aantoont en regelmatig overeenkomstig artikel 5.07 is bijgeschoold.
 
 ### Artikel  5.07  
 
@@ -790,9 +846,9 @@ b) permanent beschikbaar tijdens het stilliggen: het in bovenstaande tabel voorg
 
 ####Plichten van de schipper en de deskundige
 
-1. Onverminderd de voorschriften van het [Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) moet de schipper: 
+1. Onverminderd de voorschriften van het Rijnvaartpolitiereglement moet de schipper: 
 
-a) de deskundige voor de passagiersvaart met het veiligheidsdossier en het veiligheidsplan, zoals bedoeld in [artikel 15.13 van het Reglement Onderzoek Schepen op de Rijn](../../../../../../../../../../ministeriele-regeling/reglement/onderzoek/schepen/op/de/rijn/1995/BWBR0025973/README.md) vertrouwd maken,  
+a) de deskundige voor de passagiersvaart met het veiligheidsdossier en het veiligheidsplan, zoals bedoeld in artikel 15.13 van het Reglement Onderzoek Schepen op de Rijn vertrouwd maken,  
 
 b) het veiligheidspersoneel instruëren en bekend maken met het passagiersschip,  
 
@@ -1256,7 +1312,7 @@ b) de kandidaat voor een nieuw patent, om tot een nieuw examen te worden toegela
 
 a) bij bewezen lichamelijke of geestelijke ongeschiktheid, of  
 
-b) bij veelvuldig overtreden van belangrijke veiligheids- of gedragsvoorschriften, in het bijzonder bij het herhaald voeren van een schip terwijl hij een alcoholconcentratie in het bloed heeft die het in het [Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) vastgelegde promillage overschrijdt.    
+b) bij veelvuldig overtreden van belangrijke veiligheids- of gedragsvoorschriften, in het bijzonder bij het herhaald voeren van een schip terwijl hij een alcoholconcentratie in het bloed heeft die het in het Rijnvaartpolitiereglement vastgelegde promillage overschrijdt.    
 
 3. Met uitzondering van noodgevallen, wordt het besluit genomen na de houder van het desbetreffende vaarbevoegdheidsbewijs in het kader van een procedure op tegenspraak te hebben gehoord; de autoriteit die het vaarbevoegdheidsbewijs heeft afgegeven en de CCR worden van het verhoor en de door de bevoegde autoriteit genomen beslissing in kennis gesteld.  
 
@@ -1419,6 +1475,14 @@ Vaartijdenboeken en dienstboekjes, afgegeven overeenkomstig de voorschriften die
 
 De vaartijd en de reizen die vóór de inwerkingtreding van dit reglement zijn gemaakt, worden overeenkomstig de vroeger hiervoor geldende voorschriften in beschouwing genomen.
 
+### Artikel  9.05  
+
+####Verklaring van deskundigheid aangaande het gebruik van vloeibaar aardgas (LNG) als brandstof
+
+Treedt in werking per 01-07-2016 
+
+De bevoegde autoriteiten verstrekken een verklaring overeenkomstig artikel 4a.02 aan bemanningsleden van schepen die vóór 1 juli 2016 zijn begonnen met het gebruik van LNG als brandstof, wanneer de betrokken bemanningsleden op grond van een aanbeveling van de CCR krachtens artikel 2.19 van het ROSR zijn opgeleid en een vaartijd van ten minste 90 dagen op dergelijke schepen kunnen aantonen. 
+
 ### Bijlage  A1  
 
 ####Vaartijdenboek (Model B-00734)
@@ -1485,6 +1549,18 @@ Mode d'exploitation Betriebsform ............................. Exploitatiewijze
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+###Bijlage A1a 
+
+####Bevoegde autoriteiten voor de afgifte van op de Rijn geldige vaartijdenboeken
+
+Treedt in werking per 01-07-2016 
+
+| Staat  | Autoriteit  | Periode van afgifte  |
+|:---|:---|:---|
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 ### Bijlage  A2  
 
@@ -1622,7 +1698,7 @@ Sie hat die Pflicht, aber auch das Recht, vorgelegte Dienstbücher zu prüfen un
 
 ####Aanwijzingen
 
-Het dienstboekje is een officieel document in de zin van [artikel 1.10 van het Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) en wordt afgegeven overeenkomstig het Reglement betreffende het Scheepvaartpersoneel op de Rijn. Het maken van onjuiste aantekeningen of aantekeningen die niet aan de voorschriften voldoen, kan strafbaar zijn; het zijn op zijn minst overtredingen. Verantwoordelijk voor de algemene aantekeningen in het dienstboekje (pagina 3 tot en met 8) is de bevoegde autoriteit. Het dienstboekje is slechts geldig indien het is voorzien van de officiële aantekeningen op pagina 3. Een dienstboekje zonder de officiële aantekeningen is ongeldig. 
+Het dienstboekje is een officieel document in de zin van artikel 1.10 van het Rijnvaartpolitiereglement en wordt afgegeven overeenkomstig het Reglement betreffende het Scheepvaartpersoneel op de Rijn. Het maken van onjuiste aantekeningen of aantekeningen die niet aan de voorschriften voldoen, kan strafbaar zijn; het zijn op zijn minst overtredingen. Verantwoordelijk voor de algemene aantekeningen in het dienstboekje (pagina 3 tot en met 8) is de bevoegde autoriteit. Het dienstboekje is slechts geldig indien het is voorzien van de officiële aantekeningen op pagina 3. Een dienstboekje zonder de officiële aantekeningen is ongeldig. 
 ### * *Wie moet in het bezit zijn van een dienstboekje?* * 
 
 Ieder bemanningslid moet te allen tijde zijn kwalificatie en geschiktheid door middel van een op zijn naam gesteld dienstboekje kunnen aantonen. Het is eveneens vereist voor personen die een patent of vaarbewijs willen verkrijgen, zodat zij hun vaartijd en scheepsreizen op de Rijn en op andere vaarwegen kunnen aantonen. Een lid van de bemanning dat in het bezit is van een Rijnpatent hoeft het dienstboekje niet meer bij te houden. De houder van een Rijnpatent of een door de CCR als gelijkwaardig erkend vaarbewijs heeft het dienstboekje slechts nodig voor het aantekenen van de scheepsreizen op die gedeelten waarvoor het Rijnpatent of zijn bewijs van bekwaamheid niet geldt en waarvoor hij een dienovereenkomstig document wenst te verkrijgen. 
@@ -1761,7 +1837,7 @@ Bij de installatie van tachografen aan boord moet aan de volgende voorwaarden wo
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- |
 
-Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het bemanningslid zijn nieuwe reis aanvangt en is daarmee een document als bedoeld in [artikel 1.10 van het Rijnvaartpolitiereglement](../../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md). Het maken van onjuiste aantekeningen of aantekeningen die niet aan de voorschriften voldoen, kan strafbaar zijn; het gaat daarbij ten minste om overtredingen. De schipper van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, is verantwoordelijk voor de gegevens die in deze verklaring worden verstrekt. 
+Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het bemanningslid zijn nieuwe reis aanvangt en is daarmee een document als bedoeld in artikel 1.10 van het Rijnvaartpolitiereglement. Het maken van onjuiste aantekeningen of aantekeningen die niet aan de voorschriften voldoen, kan strafbaar zijn; het gaat daarbij ten minste om overtredingen. De schipper van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, is verantwoordelijk voor de gegevens die in deze verklaring worden verstrekt. 
 ### * *Aanwijzingen voor het bijhouden van de verklaring* * 
 
 1. De verklaring moet bij elke wisseling van schip door de schipper van het schip waarop de laatste reis van het bemanningslid heeft plaatsgevonden, worden ingevuld.  
@@ -1788,8 +1864,8 @@ Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het b
 | Schifffahrtsaufsicht Wien  | Handelskai 267  1020 Wien  | Tel.: +43 1 728 37 00  Fax: +43 1 728 37 00-99  mobiel:  +43 664 / 818 88 53  +43 664 / 818 88 54  +43 664 / 818 88 55  +43 664 / 818 88 56 schifffahrtsaufsicht.wien@bmvit.gv.at  |
 | Schifffahrtsaufsicht Krems  | Am Schutzdamm 1  3500 Krems  | Tel.: +43 2732 / 83 170  Fax: +43 2732 / 83 170-99  mobiel:  +43 664 / 818 88 57  +43 664 / 818 88 58  +43 664 / 818 88 59 schifffahrtsaufsicht.krems@bmvit.gv.at  |
 | Schifffahrtsaufsicht Grein  | Am Hofberg 2  4360 Grein  | Tel.: +43 7268 / 320  Fax: +43 7268 / 7431  mobiel:  +43 664 / 818 88 60  +43 664 / 818 88 61  +43 664 / 818 88 62 schifffahrtsaufsicht.grein@bmvit.gv.at  |
-| Schifffahrtsaufsicht Linz  | Regensburgerstraße 4  4020 Linz  | Tel.: +43 732 / 777 229  Fax: +43 732 / 777 229-99  mobiel:  +43 664 / 818 88 63  +43 664 / 818 88 64  +43 664 / 818 88 65 schifffahrtsaufsicht.linz@bmvit.gv.at  |
-| Schifffahrtsaufsicht Engelhartszell  | Nibelungenstraße 3  4090 Engelhartszell  | Tel.: +43 7717 / 8026  Fax: +43 7717 / 8026-99  mobiel:  +43 664 / 818 88 66  +43 664 / 818 88 67  +43 664 / 818 88 70 schifffahrtsaufsicht.engelhartszell@bmvit.gv.at  |
+| Schifffahrtsaufsicht Linz  | Regensburgerstraße 4  4020 Linz  | Tel.: +43 732 / 777 229  Fax: +43 732 / 777 229-99  mobiel:  +43 664 / 818 88 63  +43 664 / 818 88 64  +43 664 / 818 88 65 schifffahrtsaufsicht.linz@bmvit.gv.at  | --- |
+| Schifffahrtsaufsicht Engelhartszell  | Nibelungenstraße 3  4090 Engelhartszell  | Tel.: +43 7717 / 8026  Fax: +43 7717 / 8026-99  mobiel:  +43 664 / 818 88 66  +43 664 / 818 88 67  +43 664 / 818 88 70 schifffahrtsaufsicht.engelhartszell@bmvit.gv.at  | --- |
 | --- | --- | --- | --- |
 |  *Bulgarije*   | --- | --- | 2010-II-3  |
 | Maritime Administration  | Ruse 7000  20 Pristanistna St.  | Tel : +359 82 815 815  Fax : +359 82 824 009  stw_rs@marad.bg  |
@@ -1805,14 +1881,14 @@ Deze verklaring maakt deel uit van het vaartijdenboek van het schip waarop het b
 | Inland Navigation Office in Kedzierzyn-Kozle  Urząd Zeglugi Śródlądowej w Kędzierzynie-Koźlu  | ul. Chełmońskiego 1  47-205 Kędzierzyn-Koźle  | Tel. +48 77 472-23-60  Fax +48 77 472-23-61  urzad@k-k.uzs.gov.pl  |
 | Inland Navigation Office in Krakow  Urząd Zeglugi Śródlądowej w Krakowie  | ul. Skawińska 31/3  31-066 Kraków  | Tel. +48 12 430-53-97  Fax +48 12 430-53-97  urzad@kr.uzs.gov.pl  |
 | Inland Navigation Office in Szczecin  Urząd Zeglugi Śródlądowej w Szczecinie  | Plac Batorego 4  70-207 Szczecin  | Tel. +48 91 434-02-79  Fax +48 91 434-01-29  urzad@szn.uzs.gov.pl  |
-| Inland Navigation Office in Warszawa  Urząd Zeglugi Śródlądowej w Warszawie  | ul. Dubois 9  00-182 Warszawa  | Tel. +48 22 635-93-30  Fax +48 22 635-93-30  urzad@waw.uzs.gov.pl  |
-| Inland Navigation Office in Wroclaw  Urząd Zeglugi Śródlądowej we Wrocławiu  | ul. Kleczkowska 52  50-227 Wrocław  | Tel. +48 71 329-18-93  Fax +48 71 329-18-93  urzad@wroc.uzs.gov.pl  |
+| Inland Navigation Office in Warszawa  Urząd Zeglugi Śródlądowej w Warszawie  | ul. Dubois 9  00-182 Warszawa  | Tel. +48 22 635-93-30  Fax +48 22 635-93-30  urzad@waw.uzs.gov.pl  | --- |
+| Inland Navigation Office in Wroclaw  Urząd Zeglugi Śródlądowej we Wrocławiu  | ul. Kleczkowska 52  50-227 Wrocław  | Tel. +48 71 329-18-93  Fax +48 71 329-18-93  urzad@wroc.uzs.gov.pl  | --- |
 | --- | --- | --- | --- |
 |  *Roemenië*   | --- | --- | 2010-II-3  |
 | Roemeense Scheepvaartautoriteit, Constanta  | Port No. 1,  900900 Constanta  | Tel:  0040241555676  Fax: 0040341730349  rna@rna.ro  lgrigore@rna.ro  |
 | --- | --- | --- | --- |
-|  *Slowaakse Republiek*   | --- | --- | 2010-II-3  |
-| Státna plavebná správa (ŠPS)  Vedúci odboru plavebnej bezpečnosti  | Prístavná 10, 821 09 Bratislava 2  | Tel: + 421 2 333 00217  Fax: +421 2 555 67 604  +421 2 335 23 913  sekretariat @sps.sk   |
+| *Slowaakse Republiek*  | --- | --- | 2010-II-3  |
+| Dopravný úrad  Divízia vnútrozemskej plavby  | Letisko M.R. Štefánika  823 05 Bratislava  | Tel. +421 2 333 00 217  plavba@nsat.sk  |
 
 Op de pagina van de website van de CCR die gewijd is aan informatie over de toepassing van de Administratieve Overeenstemming over de Wederzijdse Erkenning van Dienstboekjes, zal het model van de erkende dienstboekjes toegankelijk zijn.
 
@@ -1930,11 +2006,9 @@ Indien de navolgende ziekten of lichamelijke gebreken voorkomen, kan dit aanleid
 
 ### Bijlage  D1  
 
-####Rijnpatent (Model) 
+####Rijnpatent (Model)
 
-(85 mm x 54 mm – Grondkleur blauw)  
-
-![249101](http://wetten.overheid.nl/Illustration/249101)
+![256259](http://wetten.overheid.nl/Illustration/256259)
 
 ### Bijlage  D2  
 
@@ -1976,7 +2050,7 @@ Indien de navolgende ziekten of lichamelijke gebreken voorkomen, kan dit aanleid
 | B  | Certificat de Conduite/ Vaarbewijs A  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet ten minste 21 jaar oud zijn,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd.  | S.P.F. Mobilité et Transports/F.O.D. Mobiliteit en vervoer  Direction Générale Transport Terrestre/ Directoraat- Generaal Vervoer Te Land  City Atrium  Rue du Progrès/ Vooruitgangsstraat 56  B-1210 Brussel  | Model  |
 | B  | Certificat de conduite /Vaarbewijs B  |
 
-*Duits model:*  Schipperspatent voor de binnenvaart A en B (85 mm x 54 mm – basiskleur blauw; overeenkomstig ISO-Norm 7810.) ![249108](http://wetten.overheid.nl/Illustration/249108)
+*Duits model:*  Schipperspatent voor de binnenvaart A en B (85 mm x 54 mm – basiskleur blauw; overeenkomstig ISO-Norm 7810.) ![256260](http://wetten.overheid.nl/Illustration/256260)
 *Nederlands Model:*  Groot vaarbewijs A en B voor de binnenvaart (85 mm x 54 mm – achtergrond blauw) ![249109](http://wetten.overheid.nl/Illustration/249109)
 Groot vaarbewijs I en II: ![249111](http://wetten.overheid.nl/Illustration/249111)
 Groot vaarbewijs I<sup> 1 Dit document kan ook door de ‘Minister van Verkeer en Waterstaat, namens deze, De Directeur-Generaal Scheepvaart en Maritieme Zaken’ worden afgegeven. </sup>  ![249112](http://wetten.overheid.nl/Illustration/249112)
@@ -1993,7 +2067,8 @@ Het materiaal van de kaart moet voldoen aan ISO-norm 7810. ![249121](http://wett
 | RO  | Vaarbewijs A  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet ten minste 21 jaar oud zijn,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Autorité navale roumaine, Constanta Port No. 1, 900900 Constanta, Roumanie  Tél : 0241/616.129 ; 0241/60.2229  Fax : 0241/616.229 ; 0241/60.1996  Email : rna@rna.ro  | Model  |
 | RO  | Vaarbewijs B  | Model  |
 | --- | --- | --- | --- | --- |
-| CZ  | Vaarbewijs van kapitein Klasse I  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Státní plavební správa,  Jankovcova 4  Praha 7  170 04  République tchèque  tel : +420 234 637 240  bimka@spsprha.cz kuzminski@spspraha.cz  | Model  |
+| CZ  | Vaarbewijs van kapitein klasse I (B)  (geldig tot 31.12.2017)  | – het riviergedeelte tussen Iffezheim (km  335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten  overeenkomstig het in bijlage D3 bij het  Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde  model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Státní plavební správa,  Jankovcova 4  Praha 7  170 04  République tchèque  Tel: +420 234 637 240  kuzminski@spspraha.cz bimka@spsprha.cz  | Model  |
+| CZ  | Vaarbewijs categorie B  (van kracht vanaf  15.03.2015)  | Model  | --- | --- |
 | --- | --- | --- | --- | --- |
 | HU  | Vaarbewijs Klasse A  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Nemzeti Közlekedési Hatóság / Autorité Nationale de Transport  Stratégiai és Módszertani Igazgatóság / Direction de Stratégique et  Méthdologique  Hajózási és Légiközlekedési Főosztály / Département de la Navigation et l’Aviation Civile  Adresse postale :  1389 Budapest 62 Pf. 102  Situation :  1066 Budapest,  Teréz körút 62  Hongrie  Tél. : +36 1 815 9646  Fax : +36 1 815 9659  E-mail :  hajozaslegikozlekedesfoo.smi@nkh.gov.hu  | Model  |
 | HU  | Vaarbewijs Klasse B  | – voor de geldigheid van dit vaarbewijs op het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  bij het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50. jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Model  |
@@ -2002,8 +2077,11 @@ Het materiaal van de kaart moet voldoen aan ISO-norm 7810. ![249121](http://wett
 | --- | --- | --- | Inland Navigation Office in Gizycko  Urząd Zeglugi Śródlądowej w Giżycku  ul. Łuczańska 5  11-500 Giżycko  urzad@giz.uzs.gov.pl  Tel. +48 87 428-56-51  Fax +48 87 428-56-51  Inland Navigation Office in Kedzierzyn-Kozle  Urząd Zeglugi Śródlądowej w Kędzierzynie-Koźlu  ul. Chełmońskiego 1  47-205 Kędzierzyn-Koźle  | --- |
 | --- | Vaarbewijs type B  | --- | urzad@k-k.uzs.gov.pl  Tel. +48 77 472-23-60  Fax +48 77 472-23-61  Inland Navigation Office in Krakow  Urząd Zeglugi Śródlądowej w Krakowie  ul. Skawińska 31/3  31-066 Kraków  urzad@kr.uzs.gov.pl  Tel. +48 12 430-53-97  Fax +48 12 430-53-97  Inland Navigation Office in Szczecin  Urząd Zeglugi Śródlądowej w Szczecinie  Plac Batorego 4  70-207 Szczecin  urzad@szn.uzs.gov.pl  Tel. +48 91 434-02-79  Fax +48 91 434-01-29  | Model  |
 | --- | --- | --- | Inland Navigation Office in Warszawa  Urząd Zeglugi Śródlądowej w Warszawie  ul. Dubois 9  00-182 Warszawa urzad@waw.uzs.gov.pl  Tel. +48 22 635-93-30  Fax +48 22 635-93-30  Inland Navigation Office in Wroclaw  Urząd Zeglugi Śródlądowej we Wrocławiu  ul. Kleczkowska 52  50-227 Wrocław  urzad@wroc.uzs.gov.pl  Tel. +48 71 329-18-93  Fax +48 71 329-18-93  | --- |
-|SK |Kapiteinsvaarbewijs klasse I  *Preukaz odbornej spôsobilosti Lodný*  *kapitán I. triedy kategórie B* |– voor de geldigheid van dit Slowaakse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd. |Státna plavebná správa (ŠPS) Vedúci odboru plavebnej bezpečnosti Prístavná 10, 821 09 Bratislava 2 Tél. + 421 2 333 00217 Fax +421 2 555 67 604 +421 2 335 23 913 sekretariat @sps.sk |Model |
-|AT |Kapiteinspatent *Kapitänspatent* |– voor de geldigheid van dit Oostenrijkse vaarbewijs op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd. | --- |Model |
+| SK  | Vaarbewijs van kapitein klasse A  (voorschrift van tijdelijke aard van 1.08.2015 tot en met 31.07.2018)  | – voor de geldigheid van dit vaarbewijs op  het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten  overeenkomstig het in bijlage D3 bij het Reglement betreffende het  Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van  lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de  Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Dopravný úrad  Divízia vnútrozemskej plavby  Letisko M. R. Štefánika  823 05 Bratislava  République slovaque  Tel. + 421 2 333 00 217  plavba@nsat.sk  | Model  |
+| --- | Vaarbewijs van kapitein klasse I (B)  *Preukaz odbornej*    *spôsobilostiLlodný*    *kapitán I. triedy*    *kategórie B*   |Model |
+| --- | --- | --- | --- | --- |
+|AT | Kapiteinspatent A  | – voor de geldigheid van dit vaarbewijs op  het riviergedeelte tussen Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten  overeenkomstig het in bijlage D3 bij het Reglement betreffende het  Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd,  – de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van  lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn overleggen, dat volgens de door de  Rijnvaartreglementering voorgeschreven modaliteiten moet worden verlengd  | Bundesministerium für Verkehr, Innovation und Technologie  Oberste Schifffahrtsbehörde  Radetzkystrasse 2  1030 Wien  Österreich  Tel +431 71162 655704  Fax +431 71162 655799  w1@bmvit.gv.at  | Model  |
+| --- | Kapiteinspatent B   *Kapitänspatent*   | Model  |
 |BG  |Binnenvaartpatent   *Schifferpatent für die Binnenschiffahrt*   |– op het riviergedeelte tussen de sluizen van Iffezheim (km 335,92) en het Spijksche Veer (km 857,40) moet tevens een bewijs voor riviergedeelten overeenkomstig het in bijlage D3  van het Reglement betreffende het Scheepvaartpersoneel op de Rijn vermelde model worden overgelegd, - de houder moet vanaf het bereiken van de leeftijd van 50 jaar een bewijs van lichamelijke en geestelijke geschiktheid conform bijlage B3 van het Reglement betreffende het Scheepvaartpersoneel op de Rijn voorleggen, dat volgens de door dat Reglement voorgeschreven modaliteiten moet worden verlengd.  |Bulgarian Maritime Administration (BMA)  Ruse 7000  20 Pristanistna St.  stw_rs@marad.bg  Tél : +359 82 815 815  Fax : +359 82 824 009  |Model |
 
 ####Model van de Roemeense vaarbevoedheidsbewijzen van de klassen A en B
@@ -2054,9 +2132,10 @@ Vaarbevoegdheidsbewijs klasse A ![249122](http://wetten.overheid.nl/Illustration
 
 11. Aantekeningen, beperkingen   
 
-####Model van het Tsjechische vaarbewijs
+####Modellen van het Tsjechische vaarbevoegdheidsbewijs
 
-Vaarbewijs Kapitein Klasse I ![249124](http://wetten.overheid.nl/Illustration/249124)
+Vaarbewijs van kapitein klasse I (B) ![256261](http://wetten.overheid.nl/Illustration/256261)
+Vaarbewijs categorie B (van kracht geworden op 15.3.2015)![256262](http://wetten.overheid.nl/Illustration/256262)
 
 ####Hongaarse modellen vaarbewijs klasse A en klasse B
 
@@ -2068,22 +2147,15 @@ Vaarbewijs Klasse B (585 mm × 54 mm – Achtergrond lichtblauw (De fysieke kenm
 Vaarbewijs type A ![249127](http://wetten.overheid.nl/Illustration/249127)
 Vaarbewijs type B ![249128](http://wetten.overheid.nl/Illustration/249128)
 
-####Model van het Slowaakse vaarbewijs
+####Modellen van de Slowaakse vaarbewijzen categorie A en categorie B
 
-###Kapiteinsvaarbewijs Klasse I
+Vaarbewijs van kapitein klasse A![256263](http://wetten.overheid.nl/Illustration/256263)
+Vaarbewijs van kapitein klasse I (B)![256264](http://wetten.overheid.nl/Illustration/256264)
 
-###Preukaz odbornej spôsobilosti Lodný kapitán I. triedy kategórie B
+####Oostenrijkse modellen van de kapiteinspatenten categorie A en categorie B
 
-(voorzijde)![251906](http://wetten.overheid.nl/Illustration/251906)
-*1. Foto voorzijde*(achterzijde)![251907](http://wetten.overheid.nl/Illustration/251907)
-*2. Foto achterzijde*
-
-####Kapiteinspatent
-
-###Kapitänspatent
-
-(Voorzijde)![249370](http://wetten.overheid.nl/Illustration/249370)
-(Achterzijde)![249371](http://wetten.overheid.nl/Illustration/249371)
+Kapiteinspatent A![256265](http://wetten.overheid.nl/Illustration/256265)
+Kapiteinspatent B![256266](http://wetten.overheid.nl/Illustration/256266)
 
 ![250186](http://wetten.overheid.nl/Illustration/250186)
 ![250187](http://wetten.overheid.nl/Illustration/250187)
@@ -2096,19 +2168,21 @@ Vaarbewijs type B ![249128](http://wetten.overheid.nl/Illustration/249128)
 |:---|:---|:---|:---|:---|
 | RO  | Radarbevoegdheidsbewijs voor de binnenvaart  | --  | Roemeense Scheepvaartautoriteit, Constanta Port Nr. 1, 900900 Constanta, Roemenië  Tel : 0241/616.129 ; 0241/60.2229  Fax : 0241/616.229 ; 0241/60.1996  E-mail : rna@rna.ro  | Model  |
 | --- | --- | --- | --- | --- |
-| CZ  | Radarbevoegdheidsbewijs voor de binnenvaart  | ---  | Státní plavební správa,  Jankovcova 4  Praha 7  170 04  Tsjechische Republiek  Tel : +420 234 637 240  kuzminski@spspraha.cz  bimka@spsprha.cz  | Model  |
+| CZ  | Radarbevoegdheidsbewijs voor de binnenvaart  | –  | Státní plavební správa,  Jankovcova 4  Praha 7  170 04  République tchèque  Tel: +420 234 637 240  kuzminski@spspraha.cz  bimka@spsprha.cz  | Model  (geldig tot  31.12.2017)  |
+|Model  (van kracht vanaf  15.3.2015) |
 | --- | --- | --- | --- | --- |
 | HU  | Radarbevoegdheidsbewijs voor de binnenvaart  | ---  | Nemzeti Közlekedési Hatóság / Autorité Nationale de Transport  Stratégiai és Módszertani Igazgatóság / Direction de Stratégique et  Méthdologique  Hajózási és Légiközlekedési Főosztály / Departement Scheepvaart en Burgerluchtvaart  Postadres:  1389 Boedapest 62 Pf. 102  Bezoekadres:  1066 Boedapest,  Teréz körút 62  Hongarije  Tel. : +36 1 815 9646  Fax : +36 1 815 9659  E-mail :  hajozaslegikozlekedesfoo.smi@nkh.gov.hu  | Model  |
-|SK |Radarbevoegdheidsbewijs *Preukaz radarového navigátora* | --- |Státna plavebná správa (ŠPS) Vedúci odboru plavebnej bezpečnosti Prístavná 10, 821 09 Bratislava 2 Tél. + 421 2 333 00217 Fax +421 2 555 67 604 +421 2 335 23 913 ecretariat @sps.sk |Model |
+| SK  | Radarbevoegdheidsbewijs voor de  binnenvaart   *Preukaz radarového navigátora*   | –  | Dopravný úrad  Divízia vnútrozemskej  plavby  Letisko M. R.  Štefánika  823 05 Bratislava  République slovaque  Tel. + 421 2 333 00  217  plavba@nsat.sk  | Model  |
 |AT |Aantekening ‘Radar’ ingeschreven op het kapiteinspatent | --- | --- | --- |
 
 ####Model van het Roemeense bevoegdheidsbewijs voor het varen op radar
 
 ![249129](http://wetten.overheid.nl/Illustration/249129)
 
-####Model van het Tsjechische radarbevoegdheidsbewijs
+####Modellen van de Tsjechische bevoegdheidsbewijzen voor de radarvaart
 
-![249130](http://wetten.overheid.nl/Illustration/249130)
+![256267](http://wetten.overheid.nl/Illustration/256267)
+(van kracht vanaf 15.3.2015)![256268](http://wetten.overheid.nl/Illustration/256268)
 
 ####Hongaars radarbevoegdheidsbewijs voor de binnenvaart
 
@@ -2118,8 +2192,7 @@ Vaarbewijs type B ![249128](http://wetten.overheid.nl/Illustration/249128)
 
 ###Preukaz radarového navigátora
 
-(Voorzijde)![249372](http://wetten.overheid.nl/Illustration/249372)
-(Achterzijde)![249373](http://wetten.overheid.nl/Illustration/249373)
+![256269](http://wetten.overheid.nl/Illustration/256269)
 
 ### Bijlage  D7  
 
@@ -2307,4 +2380,187 @@ Vaarbewijs type B ![249128](http://wetten.overheid.nl/Illustration/249128)
 | 2.5  | Toelichten van het radarbeeld  |
 | 2.6  | Geven van commando’s aan de roerganger  |
 | 2.7  | Gedrag in bijzondere situaties (bijvoorbeeld: gevaarlijke verkeerssituaties of uitval van apparaten).  |
+
+###E 
+
+####: Bemanningsleden van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken
+
+Treedt in werking per 01-07-2016 
+
+###Bijlage E1 
+
+####Model van de verklaring van deskundigheid aangaande het gebruik van vloeibaar aardgas (LNG) als brandstof
+
+Treedt in werking per 01-07-2016 
+
+![256257](http://wetten.overheid.nl/Illustration/256257)
+![256258](http://wetten.overheid.nl/Illustration/256258)
+
+###Bijlage E2 
+
+####Programma van de cursus voor bemanningsleden van schepen die vloeibaar aardgas (LNG) als brandstof gebruiken
+
+Treedt in werking per 01-07-2016 
+
+### A  
+
+####Theoretisch gedeelte van de cursus
+
+Het theoretische gedeelte van de cursus omvat de volgende onderwerpen: 
+
+1.  *Wetgeving*  
+
+1.1 Wetgeving met betrekking tot schepen die vloeibaar aardgas (LNG) als brandstof gebruiken (ADN, RPR, ROSR, Richtlijn 2006/87/EG en eventuele nieuwe ontwikkelingen)  
+
+1.2 Voorschriften van het classificatiebureau  
+
+1.3 Relevante wetgeving over de gezondheid en de veiligheid  
+
+1.4 Relevante plaatselijke voorschriften en vergunningen (vooral in de havengebieden)    
+
+2.  *Basiskennis over vloeibaar aardgas (LNG)*  
+
+2.1 Definitie van vloeibaar aardgas (LNG), kritische temperaturen, gevaren in verband met vloeibaar aardgas (LNG), atmosferische voorwaarden  
+
+2.2 Samenstelling en eigenschappen van vloeibaar aardgas (LNG), kwaliteitscertificaten voor LNG  
+
+2.3 VGB (veiligheidsgegevensblad): fysische en producttechnische eigenschappen  
+
+2.4 Milieueigenschappen    
+
+3.  *Veiligheid*  
+
+3.1 Gevaren en risico's  
+
+3.2 Risicobeoordeling  
+
+3.3 Risicomanagement  
+
+3.4 Veiligheidsrol aan boord (inclusief veiligheidsplan en veiligheidsinstructies)  
+
+3.5 Gevaarlijke plaatsen  
+
+3.6 Brandveiligheid  
+
+3.7 Gebruik van persoonlijke beschermingsmiddelen    
+
+4.  *Technische aspecten van het LNG-systeem*  
+
+4.1 Algemene opstelling en operationeel handboek  
+
+4.2 Verduidelijking van de werking van LNG  
+
+4.3 Bunkersysteem voor LNG  
+
+4.4 Lenssysteem en opvangbakjes  
+
+4.5 LNG-opslagsysteem  
+
+4.6 Gasverwerkingsysteem  
+
+4.7 Leidingsysteem voor LNG  
+
+4.8 Gastoevoersysteem  
+
+4.9 Machinekamers  
+
+4.10 Ventilatiesysteem  
+
+4.11 Temperaturen en druk (uitlezen van een schema van de druk- en temperatuurverdeling)  
+
+4.12 Afsluiters (met name de hoofdafsluiter voor gasvormige brandstof)  
+
+4.13 Drukontlastventielen  
+
+4.14 Besturing, monitoring en veiligheidssystemen  
+
+4.15 Alarmen en gasdetectie    
+
+5.  *Onderhoud en controle van het LNG-systeem*  
+
+5.1 Dagelijks onderhoud  
+
+5.2 Wekelijks onderhoud  
+
+5.3 Regelmatig onderhoud  
+
+5.4 Fouten en storingen  
+
+5.5 Documentatie van de onderhoudswerkzaamheden    
+
+6.  *Bunkeren van LNG*  
+
+6.1 Kenteken overeenkomstig het RPR  
+
+6.2 Voorwaarden voor het stilliggen en meren tijdens het bunkeren  
+
+6.3 Procedure voor het bunkeren van vloeibaar aardgas (LNG)  
+
+6.4 Gasontlading en spoeling van het LNG-systeem  
+
+6.5 Uniforme controlelijsten en opleveringscertificaat  
+
+6.6 Veiligheidsmaatregelen tijdens het bunkeren en evacuatieprocedures    
+
+7.  *Voorbereiding van het LNG-systeem voor onderhoudswerkzaamheden aan het schip*  
+
+7.1 Gasontlading en spoeling van het LNG-systeem voorafgaand aan onderhoud of reparaties op de scheepswerf  
+
+7.2 Inert maken van het LNG-systeem  
+
+7.3 Procedure voor het legen van de opslagtank voor LNG  
+
+7.4 Eerste vulling van de opslagtank voor LNG (koeling)  
+
+7.5 Inbedrijfstelling na onderhoud of reparaties op de scheepswerf    
+
+8.  *Noodscenario's*  
+
+8.1 Noodmaatregelen en veiligheidsrol aan boord (inclusief veiligheidsplan en veiligheidsinstructies)  
+
+8.2 Verspreiding van vloeibaar aardgas (LNG) aan dek  
+
+8.3 Huidcontact met vloeibaar aardgas (LNG)  
+
+8.4 Vrijkomen van vloeibaar aardgas (LNG) in afgesloten ruimten (bijvoorbeeld in de machinekamers)  
+
+8.5 Verspreiding van vloeibaar aardgas (LNG) of aardgas in interbarrier ruimten (dubbelwandige tank, dubbelwandige leiding)  
+
+8.6 Brand in de nabijheid van de opslagtank voor LNG  
+
+8.7 Brand in de machinekamers  
+
+8.8 Specifieke gevaren bij het vervoer van gevaarlijke stoffen  
+
+8.9 Vastlopen van het schip of aanvaringen  
+
+8.10 Noodmaatregelen voor de terzake kundige bewaker  
+
+8.11 Noodmaatregelen voor de monitoring op afstand     
+
+### B  
+
+####Praktisch gedeelte van de cursus
+
+Het praktische gedeelte van de cursus omvat de volgende onderwerpen: 
+
+1. Vertrouwd maken met de inhoud van het managementsysteem van het schip, waaronder met name de onderdelen van het LNG-systeem  
+
+2. Controle van het veiligheidsbesef en gebruik van de veiligheidsuitrusting voor vloeibaar aardgas (LNG)  
+
+3. Controle van de kennis over de adequate documenten aan boord (veiligheidsrol en operationeel handboek)  
+
+4. Kennis over de afsluiters (met name de hoofdafsluiter voor gasvormige brandstof)  
+
+5. Kennis over de besturing, monitoring en veiligheidssystemen  
+
+6. Kennis over de onderhouds- en controleprocedures van het LNG-systeem  
+
+7. Kennis over de bunkerprocedure en vertrouwd maken met de bunkerprocedure  
+
+8. Kennis over de onderhoudsprocedures voor onderhoud en reparaties op de scheepswerf  
+
+9. Kennis over de noodscenario's  
+
+10. Brandbestrijding’.   
 

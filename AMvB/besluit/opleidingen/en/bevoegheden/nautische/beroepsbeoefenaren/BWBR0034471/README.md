@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 14 november 2013, nr. IenM/BSK-2013/254642, Hoofddirectie Bestuurlijke en Juridische Zaken;
 
-Gelet op Richtlijn 79/115/EEG van de Raad van de Europese Gemeenschappen van 21 december 1978 inzake het loodsen van schepen door Noordzee-loodsen op de Noordzee en het Kanaal (Pb EEG L 33/32), richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131) en de [artikelen 2, derde lid](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), [5, eerste lid](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), [9, tweede lid](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), [24, eerste lid, onderdeel e](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), en [47, eerste lid, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), [artikel 9 van de Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), de [artikelen 19, eerste lid, onderdeel a, van de Wet zeevarenden](../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en [artikel XVIII van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](../../../../../../../../wet/aanpassingswet/zbo's/ienm/aan/de/kaderwet/zbo's/BWBR0032046/README.md);
+Gelet op Richtlijn 79/115/EEG van de Raad van de Europese Gemeenschappen van 21 december 1978 inzake het loodsen van schepen door Noordzee-loodsen op de Noordzee en het Kanaal (Pb EEG L 33/32), richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende havenstaatcontrole (PbEU L 131) en de artikelen 2, derde lid, 5, eerste lid, 9, tweede lid, 24, eerste lid, onderdeel e, en 47, eerste lid, van de Loodsenwet, artikel 9 van de Scheepvaartverkeerswet, de artikelen 19, eerste lid, onderdeel a, van de Wet zeevarenden en artikel XVIII van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 29 november 2013, no. W14.13.0406/IV);
 
@@ -24,19 +24,19 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 –  *beloodsingsgebied:* beloodsingsgebied als bedoeld in artikel 3.1, tweede lid;  
 
-–  *bevoegd gezag:* gezag als bedoeld in [artikel 2, eerste lid, van de Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), tenzij bij ministeriële regeling voor een bij die regeling aangeduid gebied een ander bevoegd gezag is aangewezen;  
+–  *bevoegd gezag:* gezag als bedoeld in artikel 2, eerste lid, van de Scheepvaartverkeerswet, tenzij bij ministeriële regeling voor een bij die regeling aangeduid gebied een ander bevoegd gezag is aangewezen;  
 
-–  *bevoegde autoriteit:* voor een scheepvaartweg of gedeelte daarvan door de Minister als zodanig op grond van het [Loodsplichtbesluit 1995](../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md)
+–  *bevoegde autoriteit:* voor een scheepvaartweg of gedeelte daarvan door de Minister als zodanig op grond van het Loodsplichtbesluit 1995
 
-[](../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md) aangewezen functionaris;  
+aangewezen functionaris;  
 
-–  *bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen:* bevoegdheid tot het aan de scheepvaart geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen als bedoeld in [artikel 9, eerste lid, van de Scheepvaarverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+–  *bevoegd tot het geven van verkeersinformatie en verkeersaanwijzingen:* bevoegdheid tot het aan de scheepvaart geven van verkeersinformatie dan wel tot het geven van verkeersaanwijzingen als bedoeld in artikel 9, eerste lid, van de Scheepvaarverkeerswet;  
 
-–  *certificaat noordzeeloods:* verklaring dat een persoon voldoet aan de eisen met betrekking tot vakbekwaamheid en geschiktheid krachtens [artikel 5, eerste lid, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *certificaat noordzeeloods:* verklaring dat een persoon voldoet aan de eisen met betrekking tot vakbekwaamheid en geschiktheid krachtens artikel 5, eerste lid, van de Loodsenwet;  
 
 –  *certificeringsinstelling:* instelling die beschikt over een bewijs waarmee de Raad voor Accreditatie of een daaraan gelijkwaardig instituut in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, kenbaar heeft gemaakt dat gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de hierin genoemde instelling competent is voor het certificeren van opleidingen;  
 
-–  *directeur Kustwacht:* directeur Kustwacht als bedoeld in [artikel 3 van het Besluit instelling Kustwacht](../../../../../../../../ministeriele-regeling/besluit/instelling/kustwacht/BWBR0020546/README.md);  
+–  *directeur Kustwacht:* directeur Kustwacht als bedoeld in artikel 3 van het Besluit instelling Kustwacht;  
 
 –  *examenprogramma:* examenprogramma als bedoeld in artikel 1.3;  
 
@@ -44,23 +44,23 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 –  *geneeskundige verklaring voor de zeevaart:* geneeskundige verklaring voor de zeevaart als bedoeld in artikel 1.2;  
 
-–  *groot vaarbewijs:* groot vaarbewijs als bedoeld in [artikel 14 van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) in de plaats treedt;  
+–  *groot vaarbewijs:* groot vaarbewijs als bedoeld in artikel 14 van het Binnenvaartbesluit, of een document dat daarvoor op grond van artikel 32, eerste en tweede lid, van de Binnenvaartwet en artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit in de plaats treedt;  
 
-–  *klein vaarbewijs:* klein vaarbewijs als bedoeld in [artikel 16 van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), of een document dat daarvoor op grond van [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) en [artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) in de plaats treedt;  
+–  *klein vaarbewijs:* klein vaarbewijs als bedoeld in artikel 16 van het Binnenvaartbesluit, of een document dat daarvoor op grond van artikel 32, eerste en tweede lid, van de Binnenvaartwet en artikel 17, tweede, derde en vierde lid, van het Binnenvaartbesluit in de plaats treedt;  
 
-–  *loodsdiensten:* dienst van een loods als bedoeld in [artikel 2, eerste en tweede lid, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *loodsdiensten:* dienst van een loods als bedoeld in artikel 2, eerste en tweede lid, van de Loodsenwet;  
 
-–  *loodsen op afstand:* functie-uitoefening als bedoeld in [artikel 2, tweede lid, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *loodsen op afstand:* functie-uitoefening als bedoeld in artikel 2, tweede lid, van de Loodsenwet;  
 
 –  *Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-–  *noordzeeloods:* persoon als bedoeld in [artikel 1, onderdeel b, onder 2°, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *noordzeeloods:* persoon als bedoeld in artikel 1, onderdeel b, onder 2°, van de Loodsenwet;  
 
 –  *opleiding tot noordzeeloods:* opleiding tot noordzeeloods als bedoeld in artikel 3.3;  
 
 –  *opleiding tot VTS-operator:* opleiding tot VTS-operator als bedoeld in artikel 5.3;  
 
-–  *registerloods:* persoon als bedoeld in [artikel 1, onderdeel f, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *registerloods:* persoon als bedoeld in artikel 1, onderdeel f, van de Loodsenwet;  
 
 –  *scheepsramp:* voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, danwel letsel aan een of meer van de opvarenden daarvan of schade aan het mariene milieu is veroorzaakt;  
 
@@ -68,7 +68,7 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 –  *verkeersbegeleidend systeem:* systeem, ingesteld teneinde de veilige en vlotte afwikkeling van het scheepvaartverkeer en de bescherming van het mariene milieu te bevorderen en dat een of meer centrales of posten omvat;  
 
-–  *verordening:* verordening als bedoeld in de [Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md);  
+–  *verordening:* verordening als bedoeld in de Loodsenwet;  
 
 –  *VTS-operator:* persoon als bedoeld in artikel 5.1, onderdeel a.   
 
@@ -76,8 +76,8 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 ####Geneeskundige verklaring voor de zeevaart
 
-1.  Voor de toepassing van dit besluit en de daarop gebaseerde bepalingen wordt onder geneeskundige verklaring voor de zeevaart verstaan: een geldige geneeskundige verklaring van geschiktheid voor de zeevaart als bedoeld in [artikel 40, eerste lid, van de Wet zeevarenden](../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md).   
-2.  In verband met het verkrijgen van de in het eerste lid bedoelde geneeskundige verklaring zijn de [artikelen 40 tot en met 44 van de Wet zeevarenden](../../../../../../../../wet/wet/zeevarenden/BWBR0009124/README.md) en de daarop berustende bepalingen van overeenkomstige toepassing.  
+1.  Voor de toepassing van dit besluit en de daarop gebaseerde bepalingen wordt onder geneeskundige verklaring voor de zeevaart verstaan: een geldige geneeskundige verklaring van geschiktheid voor de zeevaart als bedoeld in artikel 40, eerste lid, van de Wet zeevarenden.   
+2.  In verband met het verkrijgen van de in het eerste lid bedoelde geneeskundige verklaring zijn de artikelen 40 tot en met 44 van de Wet zeevarenden en de daarop berustende bepalingen van overeenkomstige toepassing.  
 
 ### Artikel  1.3  
 
@@ -133,9 +133,7 @@ De opleiding tot registerloods omvat zowel praktisch als theoretisch onderwijs d
 
 ####Accreditatie van de opleiding tot registerloods
 
-Treedt in werking per 01-01-2015 
-
-1.  Onverminderd artikel 2.2, draagt de algemene raad er zorg voor dat voor de opleiding tot registerloods een accreditatie HBO-master als bedoeld in [hoofdstuk 5a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), is verleend.   
+1.  Onverminderd artikel 2.2, draagt de algemene raad er zorg voor dat voor de opleiding tot registerloods een accreditatie HBO-master als bedoeld in hoofdstuk 5a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, is verleend.   
 2.  De algemene raad meldt onverwijld aan de Minister indien de opleiding niet overeenkomstig het eerste lid is geaccrediteerd.   
 3.  Indien de opleiding niet overeenkomstig het eerste lid is geaccrediteerd, verleent de Minister de algemene raad hiervan ontheffing. Aan deze ontheffing worden in elk geval voorschriften verbonden met betrekking tot anderen die betrokken worden bij de vaststelling van het voor de opleiding en examen benodigde examenprogramma en examenreglement en voorschriften die ertoe leiden dat de kwaliteit en de continuïteit van de opleiding tot registerloods gewaarborgd blijven.  
 
@@ -174,13 +172,13 @@ d. overige onderwerpen van operationele aard.
 
 Tijdens de uitoefening van zijn functie: 
 
-a. beschikt een registerloods over een geldige verklaring als bedoeld in [artikel 22, derde lid, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), waaruit zijn bevoegdheid blijkt, en biedt hij deze desgevraagd ter inzage aan de kapitein of verkeersdeelnemer aan;  
+a. beschikt een registerloods over een geldige verklaring als bedoeld in artikel 22, derde lid, van de Loodsenwet, waaruit zijn bevoegdheid blijkt, en biedt hij deze desgevraagd ter inzage aan de kapitein of verkeersdeelnemer aan;  
 
 b. doet een registerloods, onverwijld aan de bevoegde autoriteit of aan een opsporingsambtenaar melding van: 
 
 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;  
 
-2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in artikel 3, eerste lid, van de Scheepvaartverkeerswet;  
 
 3°. een scheepsramp;  
 
@@ -266,8 +264,6 @@ d. beschikt over zodanige karaktereigenschappen dat hij naar verwachting geschik
 
 ####Certificering van de opleiding tot noordzeeloods
 
-Treedt in werking per 01-01-2015 
-
 1.  Onverminderd artikel 3.3 beschikt de opleiding tot noordzeeloods over een certificaat waarmee een certificeringsinstelling kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de opleiding voldoet aan de voor die certificerende instelling geldende normen met betrekking tot deskundigheid, bekwaamheid, het kwaliteitssysteem, de interne kwaliteitsbewaking, werkinstructies, klachtbehandeling of andere normen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd.   
 2.  Indien en zolang er geen opleiding tot noordzeeloods is die voldoet aan het eerste lid, wijst de Minister een opleidingsinstelling aan die deze opleiding met inachtneming van deze paragraaf gaat verzorgen. Aan deze aanwijzing worden in elk geval voorschriften verbonden die ertoe leiden dat de kwaliteit en de continuïteit van de opleiding tot noordzeeloods gewaarborgd blijven.  
 
@@ -295,7 +291,7 @@ b. doet de noordzeeloods, onverwijld aan de bevoegde instanties en zo nodig aan 
 
 1°. tekortkomingen of bijzonderheden ten aanzien van het schip waarvoor hij loodsdiensten verricht, die de veiligheid van het schip, de opvarenden of de omgeving naar zijn oordeel kunnen schaden;  
 
-2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in [artikel 3, eerste lid, van de Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);  
+2°. overtredingen door andere verkeersdeelnemers van de wettelijke voorschriften gegeven ter bescherming van de belangen, bedoeld in artikel 3, eerste lid, van de Scheepvaartverkeerswet;  
 
 3°. een scheepsramp;  
 
@@ -307,7 +303,7 @@ c. geeft de noordzeeloods een voor het schip, ten behoeve waarvan hij zijn funct
 
 d. wijst hij de verkeersdeelnemer, die zijn adviezen niet opvolgt en waardoor de veiligheid van het schip, de bemanning of omgeving daardoor naar zijn oordeel gevaar lopen, zo mogelijk in het bijzijn van een ander lid van de scheepsbemanning, op dat gevaar en blijft daarbij zijn functie zo goed mogelijk uitoefenen.     
 2.  De noordzeeloods die getuige is geweest van een scheepsramp, stelt zo spoedig mogelijk een schriftelijke verklaring op over het gebeurde en doet deze verklaring toekomen aan de Minister en verschaft de Minister desgevraagd nadere informatie.   
-3.  De verklaring, bedoeld in het tweede lid, is bedoeld voor lering en mag ook alleen gebruikt worden voor lering, behoudens wettelijke verplichtingen voortvloeiend uit het [Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+3.  De verklaring, bedoeld in het tweede lid, is bedoeld voor lering en mag ook alleen gebruikt worden voor lering, behoudens wettelijke verplichtingen voortvloeiend uit het Wetboek van Strafrecht of Wetboek van Strafvordering.  
 
 ### Artikel  3.7  
 
@@ -354,7 +350,7 @@ b. een persoon die de scheepvaart instrueert vanaf een post, meldpost, vuurtoren
 ####Voorwaarden voor het uitoefenen van de functie van VTS-operator
 
 1.  Het bevoegd gezag kan alleen een persoon bevoegd verklaren voor het uitoefenen van de functie van VTS-operator nadat deze persoon de opleiding tot VTS-operator met goed gevolg heeft afgerond en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van VTS-operator te kunnen blijven uitoefenen.   
-2.  Onverminderde het eerste lid, kan de functie van VTS-operator tevens worden vervuld door de persoon die voldoet aan de krachtens [artikel 33, eerste lid, van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) voor het verkrijgen van erkenning van EG-kwalificaties van voor de functie van VTS-operator gestelde regels met betrekking tot het doorlopen van een aanpassingsstage of het afleggen van een proeve van bekwaamheid zowel wat betreft het landelijk deel van de opleiding als wat betreft de specifieke kenmerken van de scheepvaartwegen waarvoor betrokkene de scheepvaartbegeleiding gaat verzorgen en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van VTS-operator te kunnen blijven uitoefenen.  
+2.  Onverminderde het eerste lid, kan de functie van VTS-operator tevens worden vervuld door de persoon die voldoet aan de krachtens artikel 33, eerste lid, van de Algemene wet erkenning EG-beroepskwalificaties voor het verkrijgen van erkenning van EG-kwalificaties van voor de functie van VTS-operator gestelde regels met betrekking tot het doorlopen van een aanpassingsstage of het afleggen van een proeve van bekwaamheid zowel wat betreft het landelijk deel van de opleiding als wat betreft de specifieke kenmerken van de scheepvaartwegen waarvoor betrokkene de scheepvaartbegeleiding gaat verzorgen en zolang deze persoon blijkt geeft over voldoende kennis en vakbekwaamheid te beschikken om de functie van VTS-operator te kunnen blijven uitoefenen.  
 
 ### Artikel  5.3  
 
@@ -367,8 +363,6 @@ b. een persoon die de scheepvaart instrueert vanaf een post, meldpost, vuurtoren
 ### Artikel  5.4  
 
 ####Certificering van de opleiding tot VTS-operator
-
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd artikel 5.3 beschikken de opleidingen over een certificaat waarmee een certificeringsinstelling, kenbaar heeft gemaakt dat er gedurende een bepaalde periode een gerechtvaardigd vertrouwen bestaat dat de opleiding voldoet aan de voor de certificerende instelling geldende normen met betrekking tot deskundigheid, bekwaamheid, het kwaliteitssysteem, de interne kwaliteitsbewaking, werkinstructies, klachtbehandeling of andere normen waarmee de kwaliteit van de werkzaamheden kan worden bevorderd.   
 2.  Indien en zolang er geen opleiding is die voldoet aan het eerste lid, wijst de Minister een of meer opleidingsinstellingen aan die de opleidingen met inachtneming van deze paragraaf gaat verzorgen. Aan deze aanwijzing worden in elk geval voorschriften verbonden die ertoe leiden dat de kwaliteit en de continuïteit van de opleidingen gewaarborgd blijven.  
@@ -400,17 +394,17 @@ a. die tevens in het bezit is van een vaarbekwaamheidsbewijs politie en een groo
 
 b. die in het bezit is van een vaarbekwaamheidsbewijs politie maar niet in het bezit is van een groot vaarbewijs of groot patent, voor zover het betreft verkeersaanwijzingen aan: 
 
-1°. de schipper van een schip die gelet op [artikel 16 van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), in het bezit dient te zijn van een klein vaarbewijs, en niet van een groot vaarbewijs,  
+1°. de schipper van een schip die gelet op artikel 16 van het Binnenvaartbesluit, in het bezit dient te zijn van een klein vaarbewijs, en niet van een groot vaarbewijs,  
 
-2°. de schipper van een schip die gelet op [artikel 6.02, eerste lid](../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), in het bezit dient te zijn van een klein patent, een sportpatent of een overheidspatent, behoudens wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie, of  
+2°. de schipper van een schip die gelet op artikel 6.02, eerste lid, in samenhang met artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn, in het bezit dient te zijn van een klein patent, een sportpatent of een overheidspatent, behoudens wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie, of  
 
-3°. de schipper van een schip met een lengte van minder dan 15 meter, tenzij de schipper van dat schip een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), of,    
+3°. de schipper van een schip met een lengte van minder dan 15 meter, tenzij de schipper van dat schip een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit, of,    
 
 c. die niet in het bezit is van een vaarbekwaamheidsbewijs politie en niet in het bezit is van een groot vaarbewijs of groot patent, voor zover het betreft verkeersaanwijzingen aan: 
 
-1°. de schipper van een schip met een lengte van minder dan 15 meter, behoudens wanneer voor de schipper van dat schip een klein vaarbewijs of een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in [artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit](../../../../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), of  
+1°. de schipper van een schip met een lengte van minder dan 15 meter, behoudens wanneer voor de schipper van dat schip een klein vaarbewijs of een groot vaarbewijs is vereist, of wanneer het de schipper betreft van een schip als bedoeld in artikel 17, eerste lid, onderdeel b, van het Binnenvaartbesluit, of  
 
-2°. de schipper van een schip, behoudens wanneer voor de schipper van dat schip ingevolge [artikel 6.02, eerste lid](../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), in samenhang met [artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md), een patent is vereist, of wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie dan wel van een schip bestemd tot het redden van drenkelingen.       
+2°. de schipper van een schip, behoudens wanneer voor de schipper van dat schip ingevolge artikel 6.02, eerste lid, in samenhang met artikel 6.04, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn, een patent is vereist, of wanneer het de schipper betreft van een schip in beheer bij het Ministerie van Defensie dan wel van een schip bestemd tot het redden van drenkelingen.       
 2.  De Minister kan in overeenstemming met Onze Minister van Veiligheid en Justitie, voor de toepassing van het eerste lid een ander bewijs van bekwaamheid met het vaarbekwaamheidsbewijs politie gelijkstellen.  
 
 ### Artikel  5.8  
@@ -426,7 +420,7 @@ c. die niet in het bezit is van een vaarbekwaamheidsbewijs politie en niet in he
 
 Een registerloods is bevoegd tot het geven van verkeersinformatie: 
 
-a. voor zover dit verband houdt met het loodsen op afstand en hij beschikt over een daartoe krachtens verordening op grond van [artikel 4 van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), vastgestelde specialisatie, of  
+a. voor zover dit verband houdt met het loodsen op afstand en hij beschikt over een daartoe krachtens verordening op grond van artikel 4 van de Loodsenwet, vastgestelde specialisatie, of  
 
 b. in opdracht van en met inachtneming van de daartoe door het bevoegd gezag gestelde voorschriften.   
 
@@ -448,22 +442,22 @@ Dit hoofdstuk is niet van toepassing indien verkeersinformatie wordt gegeven kra
 
 ####Overgangsbepaling in verband met behoud van verkregen bevoegdheden
 
-1.  De op grond van het [Besluit adspirant-registerloodsen](../../../../../../../../AMvB/besluit/adspirant-registerloodsen/BWBR0004391/README.md) met goed gevolg afgelegde examens worden gelijkgesteld met de in de artikelen 2.2 en 2.3 bedoelde opleiding tot registerloods.   
-2.  Een op grond van [artikel 2 van het Besluit certificaatloodsen](../../../../../../../../AMvB/besluit/certificaatloodsen/BWBR0004865/README.md) verkregen A- of B-certificaat, blijft geldig tot het op dat certificaat aangegeven expiratiedatum.   
-3.  Een op grond van de [artikelen 4 tot en met 16 van het Besluit certificaatloodsen](../../../../../../../../AMvB/besluit/certificaatloodsen/BWBR0004865/README.md) met goed gevolg afgelegd examen certificaatloods wordt gelijkgesteld met de in de artikelen 3.3 en 3.4. bedoelde opleiding en examen voor noordzeeloods.   
-4.  Op grond van de [artikelen 2](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en [4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en de daarop berustende bepalingen aangewezen personen, worden zolang zij blijk geven over voldoende kennis en vakbekwaamheid te beschikken om hun functie te kunnen blijven uitoefenen geacht bevoegd te zijn tot het geven van verkeersinformatie en verkeersaanwijzingen op grond van dit besluit.   
-5.  De op grond van de [artikelen 3](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en [11 tot en met 28 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en de daarop berustende bepalingen met goed gevolg afgelegd examens worden gelijkgesteld met de in de artikelen 5.3 en 5.4 bedoelde opleiding en examen voor VTS- operator.   
-6.  De op grond van [artikel 4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en de daarop berustende bepalingen met goed gevolg afgelegde opleidingen of modules worden gelijkgesteld met de in artikel 5.6, bedoelde nautische leerlijnen.  
+1.  De op grond van het Besluit adspirant-registerloodsen met goed gevolg afgelegde examens worden gelijkgesteld met de in de artikelen 2.2 en 2.3 bedoelde opleiding tot registerloods.   
+2.  Een op grond van artikel 2 van het Besluit certificaatloodsen verkregen A- of B-certificaat, blijft geldig tot het op dat certificaat aangegeven expiratiedatum.   
+3.  Een op grond van de artikelen 4 tot en met 16 van het Besluit certificaatloodsen met goed gevolg afgelegd examen certificaatloods wordt gelijkgesteld met de in de artikelen 3.3 en 3.4. bedoelde opleiding en examen voor noordzeeloods.   
+4.  Op grond van de artikelen 2 en 4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet en de daarop berustende bepalingen aangewezen personen, worden zolang zij blijk geven over voldoende kennis en vakbekwaamheid te beschikken om hun functie te kunnen blijven uitoefenen geacht bevoegd te zijn tot het geven van verkeersinformatie en verkeersaanwijzingen op grond van dit besluit.   
+5.  De op grond van de artikelen 3 en 11 tot en met 28 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet en de daarop berustende bepalingen met goed gevolg afgelegd examens worden gelijkgesteld met de in de artikelen 5.3 en 5.4 bedoelde opleiding en examen voor VTS- operator.   
+6.  De op grond van artikel 4 van het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet en de daarop berustende bepalingen met goed gevolg afgelegde opleidingen of modules worden gelijkgesteld met de in artikel 5.6, bedoelde nautische leerlijnen.  
 
 ### Artikel  6.2  
 
-####Wijziging [Loodsplichtbesluit 1995](../../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md)
+####Wijziging Loodsplichtbesluit 1995
 
 Wijzigt het Loodsplichtbesluit 1995. 
 
 ### Artikel  6.3  
 
-####Wijziging [Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md)
+####Wijziging Besluit verklaringhouders Scheepvaartverkeerswet
 
 Wijzigt het Besluit verklaringhouders Scheepvaartverkeerswet. 
 
@@ -475,21 +469,21 @@ Overtreding van de bij of krachtens de artikelen 2.5, derde lid, 2.6, 2.7 en 2.8
 
 ### Artikel  6.5  
 
-####Intrekken van besluiten op basis van de [Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md) en [Scheepvaartverkeerswet](../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md)
+####Intrekken van besluiten op basis van de Loodsenwet en Scheepvaartverkeerswet
 
 De volgende besluiten worden ingetrokken:
 
-a. het [Besluit adspirant-registerloodsen](../../../../../../../../AMvB/besluit/adspirant-registerloodsen/BWBR0004391/README.md);  
+a. het Besluit adspirant-registerloodsen;  
 
-b. het [Loodsenregisterbesluit](../../../../../../../../AMvB/loodsenregisterbesluit/BWBR0004393/README.md);  
+b. het Loodsenregisterbesluit;  
 
-c. het [Voorschriftenbesluit registerloodsen](../../../../../../../../AMvB/voorschriftenbesluit/registerloodsen/BWBR0004394/README.md);  
+c. het Voorschriftenbesluit registerloodsen;  
 
-d. het [Besluit certificaatloodsen](../../../../../../../../AMvB/besluit/certificaatloodsen/BWBR0004865/README.md);  
+d. het Besluit certificaatloodsen;  
 
-e. het [Besluit van 13 juli 2006, houdende wijziging van het Loodsenregisterbesluit en het Besluit certificaatloodsen (aanpassing aan het herziene stelsel van geneeskundige verklaringen voor zeevarenden)](../../../../../../../../AMvB/wijzigingsbesluit/loodsenregisterbesluit/enz./(aanpassing/aan/het/herziene/etc/BWBR0020110/README.md) (Stb. 2006, 365); en  
+e. het Besluit van 13 juli 2006, houdende wijziging van het Loodsenregisterbesluit en het Besluit certificaatloodsen (aanpassing aan het herziene stelsel van geneeskundige verklaringen voor zeevarenden) (Stb. 2006, 365); en  
 
-f. het [Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md).   
+f. het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer.   
 
 ### Artikel  6.6  
 
@@ -497,32 +491,32 @@ f. het [Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer](.
 
 De volgende besluiten worden ingetrokken:
 
-a. het [Bemanningseisenbesluit](../../../../../../../../AMvB/bemanningseisenbesluit/BWBR0005266/README.md);  
+a. het Bemanningseisenbesluit;  
 
-b. het [Besluit bijzondere verkrijging diploma A als scheepswerktuigkundige](../../../../../../../../AMvB/besluit/bijzondere/verkrijging/diploma/a/als/scheepswerktuigkundige/BWBR0004216/README.md);  
+b. het Besluit bijzondere verkrijging diploma A als scheepswerktuigkundige;  
 
-c. het [Besluit bijzondere verkrijging diploma’s kleine handelsvaart](../../../../../../../../AMvB/besluit/bijzondere/verkrijging/diploma's/kleine/handelsvaart/BWBR0003568/README.md);  
+c. het Besluit bijzondere verkrijging diploma’s kleine handelsvaart;  
 
-d. het [Besluit bijzondere verkrijging voorlopig diploma als scheepswerktuigkundige](../../../../../../../../AMvB/besluit/bijzondere/verkrijging/voorlopig/diploma/als/etc/BWBR0003611/README.md);  
+d. het Besluit bijzondere verkrijging voorlopig diploma als scheepswerktuigkundige;  
 
-e. het [Besluit zeevaartdiploma’s experimenterend hoger nautisch onderwijs](../../../../../../../../AMvB/besluit/zeevaartdiploma's/experimenterend/hoger/nautisch/onderwijs/BWBR0003046/README.md);  
+e. het Besluit zeevaartdiploma’s experimenterend hoger nautisch onderwijs;  
 
-f. het [Diensttijdreglement zeevisvaart](../../../../../../../../AMvB/diensttijdreglement/zeevisvaart/BWBR0003995/README.md);  
+f. het Diensttijdreglement zeevisvaart;  
 
-g. het [Examenbesluit zeevaartdiploma’s 1991](../../../../../../../../AMvB/examenbesluit/zeevaartdiploma's/1991/BWBR0005324/README.md);  
+g. het Examenbesluit zeevaartdiploma’s 1991;  
 
-h. het [Examenreglement zeevisvaart](../../../../../../../../AMvB/examenreglement/zeevisvaart/BWBR0003996/README.md).   
+h. het Examenreglement zeevisvaart.   
 
 ### Artikel  6.7  
 
 ####Inwerkingtreding en overgangsrecht
 
-1.  [Artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](../../../../../../../../wet/aanpassingswet/zbo's/ienm/aan/de/kaderwet/zbo's/BWBR0032046/README.md) (wijziging van de Loodsenwet) en dit besluit treden in werking met ingang van 1 januari 2014.   
-2.  In afwijking van het eerste lid, treden [artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s](../../../../../../../../wet/aanpassingswet/zbo's/ienm/aan/de/kaderwet/zbo's/BWBR0032046/README.md) (wijziging van de Loodsenwet) en dit besluit, indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013 in werking met ingang 1 april 2014 en werken de artikelen 2.1, 2.2, 3.2, 3.3 en 5.3 voor personen wiens opleiding tussen 1 januari 2014 en 31 maart 2014 is begonnen, terug tot en met 1 januari 2014.   
+1.  Artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s (wijziging van de Loodsenwet) en dit besluit treden in werking met ingang van 1 januari 2014.   
+2.  In afwijking van het eerste lid, treden artikel IX van de Aanpassingswet zbo’s IenM aan de Kaderwet zbo’s (wijziging van de Loodsenwet) en dit besluit, indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2013 in werking met ingang 1 april 2014 en werken de artikelen 2.1, 2.2, 3.2, 3.3 en 5.3 voor personen wiens opleiding tussen 1 januari 2014 en 31 maart 2014 is begonnen, terug tot en met 1 januari 2014.   
 3.  In afwijking van het eerste lid, treden de artikelen 2.3, 3.4 en 5.4 met ingang van 1 januari 2015 in werking treden.   
-4.  In afwijking van het eerste lid en van artikel 6.5, onderdeel a, blijven de artikelen van de [Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), het [Besluit adspirant-registerloodsen](../../../../../../../../AMvB/besluit/adspirant-registerloodsen/BWBR0004391/README.md) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 januari 2015 van toepassing op de opleiding en examinering van personen met wie voor 1 januari 2014 een leerovereenkomst als bedoeld in [artikel 19, eerste lid, onderdeel b, van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), zoals dat artikel op 31 december 2013 luidde, is aangegaan.   
-5.  In afwijking van het eerste lid en van artikel 6.5, onderdeel d, blijven [artikel 5 van de Loodsenwet](../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), het [Besluit certificaatloodsen](../../../../../../../../AMvB/besluit/certificaatloodsen/BWBR0004865/README.md) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 juli 2014 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.   
-6.  In afwijking van het eerste lid en van artikel 6.5, onderdeel f, blijft het [Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet](../../../../../../../../AMvB/besluit/verkeersinformatie/en/verkeersaanwijzingen/scheepvaartverkeer/BWBR0014384/README.md) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013 tot 1 januari 2015 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.  
+4.  In afwijking van het eerste lid en van artikel 6.5, onderdeel a, blijven de artikelen van de Loodsenwet, het Besluit adspirant-registerloodsen en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 januari 2015 van toepassing op de opleiding en examinering van personen met wie voor 1 januari 2014 een leerovereenkomst als bedoeld in artikel 19, eerste lid, onderdeel b, van de Loodsenwet, zoals dat artikel op 31 december 2013 luidde, is aangegaan.   
+5.  In afwijking van het eerste lid en van artikel 6.5, onderdeel d, blijven artikel 5 van de Loodsenwet, het Besluit certificaatloodsen en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013, tot 1 juli 2014 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.   
+6.  In afwijking van het eerste lid en van artikel 6.5, onderdeel f, blijft het Besluit verkeersinformatie en verkeersaanwijzingen Scheepvaartverkeerswet en de daarop berustende bepalingen, zoals deze luidden op 31 december 2013 tot 1 januari 2015 van toepassing op de opleiding en examinering van personen wiens opleiding voor 1 januari 2014 is gestart.  
 
 ### Artikel  6.8  
 

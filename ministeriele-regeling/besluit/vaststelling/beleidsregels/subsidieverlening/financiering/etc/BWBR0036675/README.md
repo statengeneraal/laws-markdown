@@ -24,7 +24,7 @@ Aanvragen worden in volgorde van binnenkomst behandeld.
 
 ### Artikel  4  
 
-Het Besluit van de Staatssecretaris van Buitenlandse Zaken van 30 maart 2012, Nr. DDE-41/2012, tot vaststelling van de beleidsregels voor het doen van schenkingen aan overheidsorganen in ontwikkelingslanden met het oog op de ontwikkeling, implementatie en exploitatie van publieke infrastructuur (Schenkingsfaciliteit ORIO 2012)<sup> 1 Stcrt 2012, 8239 </sup> wordt ingetrokken, met dien verstande dat het van toepassing blijft op krachtens de beleidsregels totstandgekomen schenkingen. 
+Het Besluit van de Staatssecretaris van Buitenlandse Zaken van 30 maart 2012, Nr. DDE-31/2012, tot vaststelling van de beleidsregels voor het doen van schenkingen aan overheidsorganen in ontwikkelingslanden met het oog op de ontwikkeling, implementatie en exploitatie van publieke infrastructuur (Schenkingsfaciliteit ORIO 2012)<sup> 2 Stcrt 2012, 8239 </sup> wordt ingetrokken, met dien verstande dat het van toepassing blijft op krachtens de beleidsregels totstandgekomen schenkingen en op voor 1 januari 2014 op grond van de beleidsregels ingediende aanvragen waarop nog niet is beslist. 
 
 ### Artikel  5  
 

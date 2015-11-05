@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/33462 (8234), houdende vaststelling van een nieuwe indemniteitsregeling van het bruikleenverkeer tussen museale instellingen (Subsidieregeling indemniteit bruiklenen 2008)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 2](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [5](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [5b, eerste en tweede lid](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [7, derde en zesde lid](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [8](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [9](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [10](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [32, eerste lid](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [33](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md), [48](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md) en [49 Bekostigingsbesluit Cultuuruitingen](../../../../../../AMvB/bekostigingsbesluit/cultuuruitingen/BWBR0006759/README.md);
+Gelet op de artikelen 2, 5, 5b, eerste en tweede lid, 7, derde en zesde lid, 8, 9, 10, 32, eerste lid, 33, 48 en 49 Bekostigingsbesluit Cultuuruitingen;
 Besluit:     
 ### Paragraaf  1  
 
@@ -35,7 +35,7 @@ f. indemniteitsverklaring: beschikking waarbij een voorwaardelijke aanspraak op 
 
 ####Grondslag
 
-Deze regeling berust op [artikel 4 van het Besluit op het specifiek cultuurbeleid](../../../../../../AMvB/besluit/op/het/specifiek/cultuurbeleid/BWBR0027600/README.md). 
+Deze regeling berust op artikel 4 van het Besluit op het specifiek cultuurbeleid. 
 
 ### Paragraaf  2  
 
@@ -64,7 +64,7 @@ b. een langdurige bruikleen: voor zover een door die instelling verschuldigde ei
 
 ### Artikel  4  
 
-1.  De aanvraag voor subsidie wordt uiterlijk dertien weken voor aanvang van de activiteiten ingediend en gaat vergezeld van ten minste een verzekeringsofferte. Tevens is [artikel 5.3, eerste tot en met vierde lid, van de Regeling op het specifiek cultuurbeleid](../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md) van overeenkomstige toepassing op de aanvraag.   
+1.  De aanvraag voor subsidie wordt uiterlijk dertien weken voor aanvang van de activiteiten ingediend en gaat vergezeld van ten minste een verzekeringsofferte. Tevens is artikel 5.3, eerste tot en met vierde lid, van de Regeling op het specifiek cultuurbeleid van overeenkomstige toepassing op de aanvraag.   
 2.  Een aanvraag die verschillende voorwerpen betreft, gaat tevens vergezeld van een lijst van in bruikleen te ontvangen voorwerpen.   
 3.  In geval van een aanvraag voor een tentoonstelling wordt tevens een tentoonstellingsplan overgelegd.   
 4.  Bij de beoordeling van een aanvraag en de voorbereiding van de verlening van een indemniteitsverklaring kan de Minister de aanvrager verzoeken om inlichtingen te verschaffen over de beveiliging en veiligheid van de instelling en de voorwerpen waarop de aanvraag betrekking heeft, en om hem de veiligheidsvoorzieningen op de locatie te tonen, een en ander als bedoeld in de bijlage bij deze regeling.  
@@ -88,7 +88,7 @@ Een indemniteitsverklaring vervalt, indien de instelling waaraan die verklaring 
 
 ### Artikel  7  
 
-1.  De verplichtingen, bedoeld in [artikel 5.7, eerste lid, van de Regeling op het specifiek cultuurbeleid](../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md), zijn van overeenkomstige toepassing op een ontvanger van subsidie krachtens deze regeling. 
+1.  De verplichtingen, bedoeld in artikel 5.7, eerste lid, van de Regeling op het specifiek cultuurbeleid, zijn van overeenkomstige toepassing op een ontvanger van subsidie krachtens deze regeling. 
 2. Onverminderd de verplichtingen, bedoeld in het eerste lid, zijn voor de instelling waaraan een indemniteitsverklaring wordt verleend, aan die verlening de verplichtingen verbonden die met het oog op veiligheid van tentoon te stellen voorwerpen zijn opgenomen in de bijlage die bij deze regeling hoort. 
 
 ### Paragraaf  6  
@@ -97,7 +97,7 @@ Een indemniteitsverklaring vervalt, indien de instelling waaraan die verklaring 
 
 ### Artikel  8  
 
-Indien zich in de periode waarvoor een indemniteitsverklaring geldt, verlies van of schade aan voorwerpen waarop de indemniteitsverklaring betrekking heeft, voordoet, zendt de subsidieontvanger aan de Minister naast een activiteitenverslag, waarop [artikel 2.25 van de Regeling op het specifiek cultuurbeleid](../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md) van overeenkomstige toepassing is, een overzicht met de berekening van de geleden schade. 
+Indien zich in de periode waarvoor een indemniteitsverklaring geldt, verlies van of schade aan voorwerpen waarop de indemniteitsverklaring betrekking heeft, voordoet, zendt de subsidieontvanger aan de Minister naast een activiteitenverslag, waarop artikel 2.25 van de Regeling op het specifiek cultuurbeleid van overeenkomstige toepassing is, een overzicht met de berekening van de geleden schade. 
 
 ### Paragraaf  7  
 
@@ -105,12 +105,12 @@ Indien zich in de periode waarvoor een indemniteitsverklaring geldt, verlies van
 
 ### Artikel  9  
 
-De [Subsidieregeling indemniteit bruiklenen 2005](../../../../../../ministeriele-regeling/subsidieregeling/indemniteit/bruiklenen/2005/BWBR0017308/README.md) wordt ingetrokken. 
+De Subsidieregeling indemniteit bruiklenen 2005 wordt ingetrokken. 
 
 ### Artikel  10  
 
-1.  Indemniteitsverklaringen verleend op basis van de [Subsidieregeling indemniteit bruiklenen 2005](../../../../../../ministeriele-regeling/subsidieregeling/indemniteit/bruiklenen/2005/BWBR0017308/README.md), die niet vervallen zijn, gelden als indemniteitsverklaringen als bedoeld in artikel 2 van deze regeling.   
-2.  een aanvraag voor een indemniteitsverklaring gedaan op basis van de [Subsidieregeling indemniteit bruiklenen 2005](../../../../../../ministeriele-regeling/subsidieregeling/indemniteit/bruiklenen/2005/BWBR0017308/README.md), waarop nog niet is beslist, wordt behandeld als een aanvraag op basis van deze regeling.   
+1.  Indemniteitsverklaringen verleend op basis van de Subsidieregeling indemniteit bruiklenen 2005, die niet vervallen zijn, gelden als indemniteitsverklaringen als bedoeld in artikel 2 van deze regeling.   
+2.  een aanvraag voor een indemniteitsverklaring gedaan op basis van de Subsidieregeling indemniteit bruiklenen 2005, waarop nog niet is beslist, wordt behandeld als een aanvraag op basis van deze regeling.   
 3.  Artikel 2, vijfde lid, vervalt met ingang van 1 juni 2010. 
 
 ### Artikel  11  
