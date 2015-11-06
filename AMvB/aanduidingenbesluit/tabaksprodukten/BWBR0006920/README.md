@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 22 november 1993, GVC/ADT 93.3650, mede namens Onze Minister van Economische Zaken;
 
-Gelet op richtlijn nr. 89/622/EEG van de Raad van de Europese Gemeenschappen van 13 november 1989 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake de etikettering van tabaksproducten (*Pb EG* L 359), alsmede op [artikel 2, eerste lid, van de Tabakswet](../../../../wet/tabakswet/BWBR0004302/README.md) en artikel II van de Wijzigingswet 1988 [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op richtlijn nr. 89/622/EEG van de Raad van de Europese Gemeenschappen van 13 november 1989 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake de etikettering van tabaksproducten (*Pb EG* L 359), alsmede op artikel 2, eerste lid, van de Tabakswet en artikel II van de Wijzigingswet 1988 Warenwet;
 
-Gezien het advies van de Adviescommissie [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) van 18 september 1991, no. 14443/04;
+Gezien het advies van de Adviescommissie Warenwet van 18 september 1991, no. 14443/04;
 
 De Raad van State gehoord (advies van 28 maart 1994, nr. W13.93.0771);
 

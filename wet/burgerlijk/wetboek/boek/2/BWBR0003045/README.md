@@ -462,13 +462,13 @@ In alle gevallen waarin de vereniging een tegenstrijdig belang heeft met een of 
 
 ### Artikel  48  
 
-1.  Het bestuur brengt op een algemene vergadering binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn door de algemene vergadering, een jaarverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt de balans en de staat van baten en lasten met een toelichting ter goedkeuring aan de vergadering over. Deze stukken worden ondertekend door de bestuurders en commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid van de gezamenlijke bestuurders in rechte vorderen dat zij deze verplichtingen nakomen.    
+1.  Het bestuur brengt op een algemene vergadering binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn door de algemene vergadering, een bestuursverslag uit over de gang van zaken in de vereniging en over het gevoerde beleid. Het legt de balans en de staat van baten en lasten met een toelichting ter goedkeuring aan de vergadering over. Deze stukken worden ondertekend door de bestuurders en commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van redenen melding gemaakt. Na verloop van de termijn kan ieder lid van de gezamenlijke bestuurders in rechte vorderen dat zij deze verplichtingen nakomen.    
 2.   Ontbreekt een raad van commissarissen en wordt omtrent de getrouwheid van de stukken aan de algemene vergadering niet overgelegd een verklaring afkomstig van een accountant als bedoeld in artikel 393 lid 1, dan benoemt de algemene vergadering jaarlijks een commissie van ten minste twee leden die geen deel van het bestuur mogen uitmaken. De commissie onderzoekt de stukken bedoeld in de tweede zin van lid 1, en brengt aan de algemene vergadering verslag van haar bevindingen uit. Het bestuur is verplicht de commissie ten behoeve van haar onderzoek alle door haar gevraagde inlichtingen te verschaffen, haar desgewenst de kas en de waarden te tonen en de boeken, bescheiden en andere gegevensdragers van de vereniging voor raadpleging beschikbaar te stellen.    
 3.  Een vereniging die een of meer ondernemingen in stand houdt welke ingevolge de wet in het handelsregister moeten worden ingeschreven, vermeldt bij de staat van baten en lasten de netto-omzet van deze ondernemingen.  
 
 ### Artikel  49  
 
-1.  Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 7 of 403 voor de vereniging gelden.   
+1.  Jaarlijks binnen zes maanden na afloop van het boekjaar van een vereniging als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vier maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de vereniging. Binnen deze termijn legt het bestuur ook het bestuursverslag ter inzage voor de leden, tenzij de artikelen 396 lid 7 of 403 voor de vereniging gelden.   
 2.  De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.   
 3.  De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 4.   Artikel 48 lid 1 is niet van toepassing op de vereniging bedoeld in artikel 360 lid 3. Artikel 48 lid 2 is hierop van toepassing met dien verstande dat onder stukken wordt verstaan de stukken die ingevolge lid 1 worden overgelegd.    
@@ -477,7 +477,7 @@ In alle gevallen waarin de vereniging een tegenstrijdig belang heeft met een of 
 
 ### Artikel  50  
 
-De vereniging, bedoeld in artikel 360 lid 3, zorgt dat de opgemaakte jaarrekening, het jaarverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot behandeling van de jaarrekening, te haren kantore aanwezig zijn. De leden kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen. 
+De vereniging, bedoeld in artikel 360 lid 3, zorgt dat de opgemaakte jaarrekening, het bestuursverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot behandeling van de jaarrekening, te haren kantore aanwezig zijn. De leden kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen. 
 
 ### Artikel  50a  
 
@@ -547,9 +547,9 @@ Voorzover van de bepalingen van deze titel in de statuten kan worden afgeweken, 
 
 ### Artikel  58  
 
-1.  Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de leden, tenzij de artikelen 396 lid 7, of 403 voor de rechtspersoon gelden. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
+1.  Jaarlijks binnen zes maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste vier maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de leden ter inzage ten kantore van de rechtspersoon. Binnen deze termijn legt het bestuur ook het bestuursverslag ter inzage voor de leden, tenzij de artikelen 396 lid 7, of 403 voor de rechtspersoon gelden. De jaarrekening wordt vastgesteld door de algemene vergadering die het bestuur uiterlijk een maand na afloop van de termijn doet houden. Artikel 48 lid 2 is van overeenkomstige toepassing. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 2.   De opgemaakte jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.    
-3.   De rechtspersoon zorgt dat de opgemaakte jaarrekening, het jaarverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot behandeling van de jaarrekening, te zijnen kantore aanwezig zijn. De leden kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.    
+3.   De rechtspersoon zorgt dat de opgemaakte jaarrekening, het bestuursverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot behandeling van de jaarrekening, te zijnen kantore aanwezig zijn. De leden kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.    
 4.   Ten laste van de door de wet voorgeschreven reserves mag een tekort slechts worden gedelgd voor zover de wet dat toestaat.    
 5.   Onze Minister van Economische Zaken kan desverzocht om gewichtige redenen ontheffing verlenen van de verplichting tot het opmaken, het overleggen en het vaststellen van de jaarrekening. Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op deze verzoeken tot ontheffing.  
 
@@ -603,7 +603,7 @@ b. een vennootschap waarvan een onderneming in het handelsregister is ingeschrev
 
 ### Artikel  63b  
 
-1.  Een coöperatie of onderlinge waarborgmaatschappij moet, indien lid 2 op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering, aan het handelsregister opgeven dat zij voldoet aan de in lid 2 gestelde voorwaarden. Totdat artikel 63c lid 3 toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgave is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de doorhaling wordt uitgebracht.    
+1.  Een coöperatie of onderlinge waarborgmaatschappij moet, indien lid 2 op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering, aan het handelsregister opgeven dat zij voldoet aan de in lid 2 gestelde voorwaarden. Totdat artikel 63c lid 3 toepassing heeft gevonden, vermeldt het bestuur in elk volgend bestuursverslag wanneer de opgave is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste bestuursverslag dat na de doorhaling wordt uitgebracht.    
 2.   De verplichting tot opgave geldt, indien:  
 
 a. het eigen vermogen volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,   
@@ -1043,7 +1043,7 @@ c.inbreng anders dan in geld, niet zijnde effecten of geldmarktinstrumenten als 
 
 a. alle oprichters hebben besloten af te zien van de opstelling van de deskundigenverklaring;   
 
-b. een of meer rechtspersonen op wier jaarrekening titel 9 van toepassing is, of die krachtens de toepasselijke wet voldoen aan de eisen van de vierde richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht, nemen alle uit te geven aandelen tegen inbreng anders dan in geld;   
+b. een of meer rechtspersonen op wier jaarrekening titel 9 van toepassing is, of die krachtens de toepasselijke wet voldoen aan de eisen van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182), nemen alle uit te geven aandelen tegen inbreng anders dan in geld;   
 
 c. elke inbrengende rechtspersoon beschikt ten tijde van de inbreng over niet uitkeerbare reserves, voor zover nodig door het bestuur hiertoe afgezonderd uit de uitkeerbare reserves, ter grootte van het nominale bedrag der door de rechtspersoon genomen aandelen;   
 
@@ -1206,7 +1206,7 @@ c. nadat zij als dochtermaatschappij aandelen in het kapitaal van de naamloze ve
 
 ### Artikel  101  
 
-1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, bedraagt de termijn vier maanden, tenzij artikel 5:25g, tweede of derde lid, van die wet van toepassing is. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.   
+1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, bedraagt de termijn vier maanden, tenzij artikel 5:25g, tweede of derde lid, van die wet van toepassing is. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het bestuursverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 158 tot en met 161 en 164 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 158 lid 11 bedoelde ondernemingsraad.   
 2.   De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.    
 3.  De jaarrekening wordt vastgesteld door de algemene vergadering. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 4.  Besluiten waarbij de jaarrekening wordt vastgesteld, worden in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.   
@@ -1216,7 +1216,7 @@ c. nadat zij als dochtermaatschappij aandelen in het kapitaal van de naamloze ve
 
 ### Artikel  102  
 
-1.  De naamloze vennootschap zorgt dat de opgemaakte jaarrekening, het jaarverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot hun behandeling, te haren kantore aanwezig zijn. De houders van haar aandelen of van met haar medewerking uitgegeven certificaten daarvan kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.    
+1.  De naamloze vennootschap zorgt dat de opgemaakte jaarrekening, het bestuursverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot hun behandeling, te haren kantore aanwezig zijn. De houders van haar aandelen of van met haar medewerking uitgegeven certificaten daarvan kunnen de stukken aldaar inzien en er kosteloos een afschrift van verkrijgen.    
 2.   Luiden deze aandelen of certificaten aan toonder of heeft de vennootschap schuldbrieven aan toonder uitstaan, dan kan tevens ieder de stukken, voor zover zij na vaststelling openbaar gemaakt moeten worden, inzien en daarvan tegen ten hoogste de kostprijs een afschrift verkrijgen. Deze bevoegdheid vervalt zodra deze stukken zijn neergelegd ten kantore van het handelsregister.   
 
 ### Artikel  104  
@@ -1562,7 +1562,7 @@ Tenzij bij de statuten anders is bepaald, is het bestuur zonder opdracht der alg
 
 ### Artikel  139  
 
-Indien door de jaarrekening, door tussentijdse cijfers die de vennootschap bekend heeft gemaakt of door het jaarverslag een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder die bewijst dat dit aan hem niet te wijten is, is niet aansprakelijk.  
+Indien door de jaarrekening, door tussentijdse cijfers die de vennootschap bekend heeft gemaakt of door het bestuursverslag een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder die bewijst dat dit aan hem niet te wijten is, is niet aansprakelijk.  
 
 ### Artikel  140  
 
@@ -1651,7 +1651,7 @@ b. een vennootschap waarvan een onderneming in het handelsregister is ingeschrev
 
 ### Artikel  153  
 
-1.  Een naamloze vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 154 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.    
+1.  Een naamloze vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 154 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend bestuursverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste bestuursverslag dat na de datum van die doorhaling wordt uitgebracht.    
 2.   De verplichting tot het doen van een opgaaf geldt, indien:  
 
 a. het geplaatste kapitaal der vennootschap tezamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,   
@@ -2146,7 +2146,7 @@ Indien een ander in eigen naam aandelen in het kapitaal van de vennootschap of c
 
 ### Artikel  210  
 
-1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste zes maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, bedraagt de termijn vier maanden, tenzij artikel 5:25g, tweede of derde lid, van die wet van toepassing is. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het jaarverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.   
+1.  Jaarlijks binnen vijf maanden na afloop van het boekjaar der vennootschap, behoudens verlenging van deze termijn met ten hoogste vijf maanden door de algemene vergadering op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor de aandeelhouders ter inzage ten kantore van de vennootschap. Indien van de vennootschap effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht, bedraagt de termijn vier maanden, tenzij artikel 5:25g, tweede of derde lid, van die wet van toepassing is. Deze termijn kan niet worden verlengd. Binnen deze termijn legt het bestuur ook het bestuursverslag ter inzage voor de aandeelhouders, tenzij de artikelen 396 lid 7, of 403 voor de vennootschap gelden. Het bestuur van de vennootschap waarop de artikelen 268 tot en met 271 en 274 van toepassing zijn, zendt de jaarrekening ook toe aan de in artikel 268 lid 11 bedoelde ondernemingsraad.   
 2.   De jaarrekening wordt ondertekend door de bestuurders en door de commissarissen; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.    
 3.  De jaarrekening wordt vastgesteld door de algemene vergadering. Vaststelling van de jaarrekening strekt niet tot kwijting aan een bestuurder onderscheidenlijk commissaris.   
 4.  Besluiten waarbij de jaarrekening wordt vastgesteld, worden in de statuten niet onderworpen aan de goedkeuring van een orgaan van de vennootschap of van derden.   
@@ -2157,7 +2157,7 @@ Indien een ander in eigen naam aandelen in het kapitaal van de vennootschap of c
 
 ### Artikel  212  
 
-De vennootschap zorgt dat de opgemaakte jaarrekening, het jaarverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot hun behandeling, te haren kantore aanwezig zijn. De aandeelhouders en de overige vergadergerechtigden kunnen de stukken aldaar inzien en kosteloos een afschrift verkrijgen.  
+De vennootschap zorgt dat de opgemaakte jaarrekening, het bestuursverslag en de krachtens artikel 392 lid 1 toe te voegen gegevens vanaf de oproep voor de algemene vergadering, bestemd tot hun behandeling, te haren kantore aanwezig zijn. De aandeelhouders en de overige vergadergerechtigden kunnen de stukken aldaar inzien en kosteloos een afschrift verkrijgen.  
 
 ### Artikel  215  
 
@@ -2419,7 +2419,7 @@ Tenzij bij de statuten anders is bepaald, is het bestuur zonder opdracht der alg
 
 ### Artikel  249  
 
-Indien door de jaarrekening, door tussentijdse cijfers of door het jaarverslag voor zover deze bekend zijn gemaakt, een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder die bewijst dat dit aan hem niet te wijten is, is niet aansprakelijk.  
+Indien door de jaarrekening, door tussentijdse cijfers of door het bestuursverslag voor zover deze bekend zijn gemaakt, een misleidende voorstelling wordt gegeven van de toestand der vennootschap, zijn de bestuurders tegenover derden hoofdelijk aansprakelijk voor de schade, door dezen dientengevolge geleden. De bestuurder die bewijst dat dit aan hem niet te wijten is, is niet aansprakelijk.  
 
 ### Artikel  250  
 
@@ -2504,7 +2504,7 @@ b. een vennootschap waarvan een onderneming in het handelsregister is ingeschrev
 
 ### Artikel  263  
 
-1.  Een vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 264 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend jaarverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste jaarverslag dat na de datum van die doorhaling wordt uitgebracht.    
+1.  Een vennootschap moet, indien het volgende lid op haar van toepassing is, binnen twee maanden na de vaststelling van haar jaarrekening door de algemene vergadering ten kantore van het handelsregister opgaaf doen, dat zij aan de in dat lid gestelde voorwaarden voldoet. Totdat artikel 264 lid 3 van dit Boek toepassing heeft gevonden, vermeldt het bestuur in elk volgend bestuursverslag wanneer de opgaaf is gedaan; wordt de opgaaf doorgehaald, dan wordt daarvan melding gemaakt in het eerste bestuursverslag dat na de datum van die doorhaling wordt uitgebracht.    
 2.   De verplichting tot het doen van opgaaf geldt, indien:  
 
 a. het geplaatste kapitaal der vennootschap te zamen met de reserves volgens de balans met toelichting ten minste een bij koninklijk besluit vastgesteld grensbedrag beloopt,   
@@ -2807,7 +2807,7 @@ Een stichting die een of meer ondernemingen in stand houdt welke ingevolge de we
 
 ### Artikel  300  
 
-1.  Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vijf maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het jaarverslag, tenzij artikel 396 lid 7 voor zover het betreft het jaarverslag, of artikel 403 voor de stichting gelden. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.   
+1.  Jaarlijks binnen zes maanden na afloop van het boekjaar van een stichting als bedoeld in artikel 360 lid 3, behoudens verlenging van deze termijn met ten hoogste vier maanden door het in lid 3 bedoelde orgaan op grond van bijzondere omstandigheden, maakt het bestuur een jaarrekening op en legt het deze voor hen die deel uitmaken van het in lid 3 bedoelde orgaan ter inzage ten kantore van de stichting. Binnen deze termijn legt het bestuur ook de krachtens artikel 392 lid 1 toe te voegen gegevens ter inzage voor hen die deel uitmaken van het in lid 3 bedoelde orgaan en het bestuursverslag, tenzij artikel 396 lid 7 voor zover het betreft het bestuursverslag, of artikel 403 voor de stichting gelden. Zij die deel uitmaken van het in lid 3 bedoelde orgaan kunnen kosteloos een afschrift van deze stukken verkrijgen.   
 2.  De jaarrekening wordt ondertekend door de bestuurders en door hen die deel uitmaken van het toezicht houdende orgaan; ontbreekt de ondertekening van een of meer hunner, dan wordt daarvan onder opgave van reden melding gemaakt.    
 3.  De jaarrekening wordt uiterlijk een maand na afloop van de termijn vastgesteld door het daartoe volgens de statuten bevoegde orgaan. Indien de statuten deze bevoegdheid niet aan enig orgaan verlenen, komt deze bevoegdheid toe aan het toezicht houdende orgaan en bij gebreke daarvan aan het bestuur.   
 4.  Een stichting als bedoeld in artikel 360 lid 3 mag ten laste van de door de wet voorgeschreven reserves een tekort slechts delgen voor zover de wet dat toestaat.   
@@ -3795,7 +3795,7 @@ e.in de algemene vergadering elk aandeel in verband met het besluit over handeli
 
 ### Titel  9  
 
-####De jaarrekening en het jaarverslag 
+####De jaarrekening en het bestuursverslag 
 
 ### Afdeling  1  
 
@@ -3832,12 +3832,12 @@ b. die dochtermaatschappij zijn van de rechtspersoon, van een groepsmaatschappij
 6.   De jaarrekening wordt vastgesteld met inachtneming van hetgeen omtrent de financiële toestand op de balansdatum is gebleken tussen het opmaken van de jaarrekening en de algemene vergadering waarin zij wordt behandeld, voor zover dat onontbeerlijk is voor het in lid 1 bedoelde inzicht. Blijkt nadien dat de jaarrekening in ernstige mate tekortschiet in het geven van dit inzicht, dan bericht het bestuur daaromtrent onverwijld aan de leden of aandeelhouders en legt het een mededeling daaromtrent neder ten kantore van het handelsregister; bij de mededeling wordt een accountantsverklaring gevoegd, indien de jaarrekening overeenkomstig artikel 393 is onderzocht. Een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht wordt geacht te hebben voldaan aan de verplichting om de mededeling, bedoeld in tweede volzin, neer te leggen ten kantore van het handelsregister, indien zij de mededeling op grond van artikel 5:25m, zesde lid, van die wet heeft toegezonden aan de Stichting Autoriteit Financiële Markten.   
 7.   Indien de werkzaamheid van de rechtspersoon of de internationale vertakking van zijn groep dat rechtvaardigt, mag de jaarrekening of alleen de geconsolideerde jaarrekening worden opgesteld in een vreemde geldeenheid. De posten worden in de Nederlandse taal omschreven, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.  
 8. Een rechtspersoon kan de jaarrekening opstellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde vastgestelde en goedgekeurde standaarden toepast. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens deze titel, kan niet de enkelvoudige jaarrekening opstellen volgens de vastgestelde en goedgekeurde standaarden. Een rechtspersoon die de geconsolideerde jaarrekening opstelt volgens de in de eerste zin van dit lid genoemde standaarden, kan in de enkelvoudige jaarrekening de waarderingsgrondslagen toepassen die hij ook in de geconsolideerde jaarrekening heeft toegepast.
-9. De rechtspersoon die de jaarrekening opstelt volgens de in lid 8 bedoelde standaarden, past van deze titel slechts de afdelingen 7 tot en met 10 en de artikelen 362, lid 6, een na laatste volzin, lid 7, laatste volzin en lid 10, 365 lid 2, 373, 382, 382a, 383, 383b tot en met 383e, 389 leden 8 en 10, en 390 toe. Banken passen tevens artikel 421 lid 5 toe.
+9. De rechtspersoon die de jaarrekening opstelt volgens de in lid 8 bedoelde standaarden, past van deze titel slechts de afdelingen 7 tot en met 10 en de artikelen 362, lid 6, een na laatste volzin, lid 7, laatste volzin en lid 10, 365 lid 2, 373, 379 leden 1 en 2, 380b, onderdeel d, 382, 382a, 383, 383b tot en met 383e, 389 leden 8 en 10, en 390 toe. Banken passen tevens artikel 421 lid 5 toe.
 10. De rechtspersoon vermeldt in de toelichting volgens welke standaarden de jaarrekening is opgesteld. 
 
 ### Artikel  363  
 
-1.  De samenvoeging, de ontleding en de rangschikking van de gegevens in de jaarrekening en de toelichting op die gegevens zijn gericht op het inzicht dat de jaarrekening krachtens artikel 362 lid 1 beoogt te geven. Daarbij worden de voorschriften krachtens lid 6 en de andere afdelingen van deze titel in acht genomen.    
+1.  De samenvoeging, de ontleding en de rangschikking van de gegevens in de jaarrekening en de toelichting op die gegevens zijn gericht op het inzicht dat de jaarrekening krachtens artikel 362 lid 1 beoogt te geven. Daarbij worden de voorschriften krachtens lid 6 en de andere afdelingen van deze titel in acht genomen. De toelichting houdt de volgorde van de vermelding van de posten aan.   
 2.   Het is niet geoorloofd in de jaarrekening activa en passiva of baten en lasten tegen elkaar te laten wegvallen, indien zij ingevolge deze titel in afzonderlijke posten moeten worden opgenomen.    
 3.   Een post behoeft niet afzonderlijk te worden vermeld, indien deze in het geheel van de jaarrekening van te verwaarlozen betekenis is voor het wettelijk vereiste inzicht. Krachtens deze titel vereiste vermeldingen mogen achterwege blijven voor zover zij op zichzelf genomen en tezamen met soortgelijke vermeldingen voor dit inzicht van te verwaarlozen betekenis zouden zijn. Vermeldingen krachtens de  artikelen 378, 382 en 383 mogen evenwel niet achterwege blijven.    
 4.   De indeling van de balans en van de winst- en verliesrekening mag slechts wegens gegronde redenen afwijken van die van het voorafgaande jaar; in de toelichting worden de verschillen aangegeven en worden de redenen die tot afwijking hebben geleid, uiteengezet.    
@@ -3869,7 +3869,7 @@ b. die dochtermaatschappij zijn van de rechtspersoon, van een groepsmaatschappij
 
 a. kosten die verband houden met de oprichting en met de uitgifte van aandelen;   
 
-b. kosten van onderzoek en ontwikkeling;   
+b. kosten van ontwikkeling;   
 
 c. kosten van verwerving ter zake van concessies, vergunningen en rechten van intellectuele eigendom;   
 
@@ -4025,8 +4025,8 @@ h. schulden ter zake van belastingen en premiën van sociale verzekering;
 i. schulden ter zake van pensioenen;  
 
 j. overige schulden.     
-2.   Bij elke in lid 1 vermelde groep van schulden wordt aangegeven tot welk bedrag de resterende looptijd langer is dan een jaar, met aanduiding van de rentevoet daarover en met afzonderlijke vermelding tot welk bedrag de resterende looptijd langer is dan vijf jaar.   
-3.   Onderscheiden naar de in lid 1 genoemde groepen, wordt aangegeven voor welke schulden zakelijke zekerheid is gesteld en in welke vorm dat is geschied. Voorts wordt medegedeeld ten aanzien van welke schulden de rechtspersoon zich, al dan niet voorwaardelijk, heeft verbonden tot het bezwaren of niet bezwaren van goederen, voor zover dat noodzakelijk is voor het verschaffen van het in artikel 362 lid 1 bedoelde inzicht.   
+2.  Bij elke in lid 1 vermelde groep van schulden wordt aangegeven tot welk bedrag de resterende looptijd langer is dan een jaar, met aanduiding van de rentevoet daarover. Voor het totaal van de in lid 1 vermelde schulden wordt aangegeven tot welk bedrag de resterende looptijd langer is dan vijf jaar.   
+3.   Voor het totaal van de in lid 1 genoemde groepen, wordt aangegeven voor welke schulden zakelijke zekerheid is gesteld en in welke vorm dat is geschied. Voorts wordt medegedeeld ten aanzien van welke schulden de rechtspersoon zich, al dan niet voorwaardelijk, heeft verbonden tot het bezwaren of niet bezwaren van goederen, voor zover dat noodzakelijk is voor het verschaffen van het in artikel 362 lid 1 bedoelde inzicht.   
 4.   Aangegeven wordt tot welk bedrag schulden in rang zijn achtergesteld bij de andere schulden; de aard van deze achterstelling wordt toegelicht.   
 5.   Is het bedrag waarmee de schuld moet worden afgelost hoger dan het ontvangen bedrag, dan mag het verschil, mits afzonderlijk vermeld, uiterlijk tot de aflossing worden geactiveerd.   
 6.   Het bedrag wordt vermeld dat de rechtspersoon op leningen die zijn opgenomen onder de schulden met een resterende looptijd van meer dan een jaar, moet aflossen tijdens het boekjaar, volgend op dat waarop de jaarrekening betrekking heeft.   
@@ -4046,11 +4046,9 @@ Heeft de rechtspersoon zich aansprakelijk gesteld voor schulden van anderen of l
 
 a. de baten en lasten uit de gewone bedrijfsuitoefening, de belastingen daarover en het resultaat uit de gewone bedrijfsuitoefening na belastingen;   
 
-b. de buitengewone baten en lasten, de belastingen daarover en het buitengewone resultaat na belastingen;   
+b. de overige belastingen;   
 
-c. de overige belastingen;   
-
-d. het resultaat na belastingen.      
+c. het resultaat na belastingen.      
 2.   De baten en lasten uit de gewone bedrijfsuitoefening worden hetzij overeenkomstig lid 3, hetzij overeenkomstig lid 4 gesplitst.    
 3.   Afzonderlijk worden opgenomen:  
 
@@ -4108,7 +4106,8 @@ j. de wijzigingen in de waarde van de financiële vaste activa en van de effecte
 k. de rentelasten en soortgelijke kosten.      
 5.   Bij de posten *k-o* van lid 3 en de posten *g-k* van lid 4 worden afzonderlijk vermeld de baten en lasten uit de verhouding met groepsmaatschappijen.    
 6.   Onder de netto-omzet wordt verstaan de opbrengst uit levering van goederen en diensten uit het bedrijf van de rechtspersoon, onder aftrek van kortingen en dergelijke en van over de omzet geheven belastingen.    
-7.   Als buitengewone baten en lasten worden aangemerkt de baten en lasten die niet uit de gewone uitoefening van het bedrijf van de rechtspersoon voortvloeien. Tenzij deze baten en lasten van ondergeschikte betekenis zijn voor de beoordeling van het resultaat, worden zij naar aard en omvang toegelicht; hetzelfde geldt voor de baten en lasten welke aan een ander boekjaar moeten worden toegerekend, voor zover zij niet tot de buitengewone baten en lasten zijn gerekend.   
+7.  Baten en lasten welke aan een ander boekjaar moeten worden toegerekend, worden naar aard en omvang toegelicht.   
+8.  Vermeld wordt het bedrag en de aard van de posten van baten en lasten die van uitzonderlijke omvang zijn of in uitzonderlijke mate voorkomen. 
 
 ### Afdeling  5  
 
@@ -4162,12 +4161,10 @@ b. naam en woonplaats van elke maatschappij die zijn financiële gegevens consol
 3.   Artikel 379 lid 4 is van overeenkomstige toepassing.   
 
 ### Artikel  380a  
-Treedt in werking per 01-11-2015 
 
 Vermeld worden de niet in de balans of winst- en verliesrekening opgenomen gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen. 
 
 ### Artikel  380b  
-Treedt in werking per 01-11-2015 
 
 Meegedeeld worden: 
 
@@ -4180,18 +4177,16 @@ c. de zetel van de rechtspersoon; en
 d. het door de Kamer van Koophandel toegekende nummer bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007, waaronder de rechtspersoon in het handelsregister is ingeschreven.   
 
 ### Artikel  380c  
-Treedt in werking per 01-11-2015 
 
 De rechtspersoon doet opgave van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, het voorstel daartoe. 
 
 ### Artikel  380d  
-Treedt in werking per 01-11-2015 
 
 De rechtspersoon doet opgave van het aantal winstbewijzen en soortgelijke rechten, met vermelding van de bevoegdheden die zij geven. 
 
 ### Artikel  381  
 
-1. Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.   
+1. Vermeld wordt tot welke belangrijke, niet in de balans opgenomen, financiële verplichtingen de rechtspersoon voor een aantal toekomstige jaren is verbonden, zoals die welke uit langlopende overeenkomsten voortvloeien. Tevens wordt vermeld tot welke voorwaardelijke activa, voorwaardelijke verplichtingen en niet verwerkte verplichtingen de rechtspersoon is verbonden. Daarbij worden afzonderlijk vermeld de verplichtingen jegens groepsmaatschappijen. Artikel 375 lid 3 is van overeenkomstige toepassing.   
 2.  Tevens wordt vermeld wat de aard, het zakelijk doel en de financiële gevolgen van niet in de balans opgenomen regelingen van de rechtspersoon zijn, indien de risico’s of voordelen die uit deze regelingen voortvloeien van betekenis zijn en voor zover de openbaarmaking van dergelijke risico’s of voordelen noodzakelijk is voor de beoordeling van de financiële positie van de rechtspersoon.   
 3.  Vermeld wordt welke van betekenis zijnde transacties door de rechtspersoon niet onder normale marktvoorwaarden met verbonden partijen als bedoeld in de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden zijn aangegaan, de omvang van die transacties, de aard van de betrekking met de verbonden partij, alsmede andere informatie over die transacties die nodig is voor het verschaffen van inzicht in de financiële positie van de rechtspersoon. Informatie over individuele transacties kan overeenkomstig de aard ervan worden samengevoegd, tenzij gescheiden informatie nodig is om inzicht te verschaffen in de gevolgen van transacties met verbonden partijen voor de financiële positie van de rechtspersoon. Vermelding van transacties tussen twee of meer leden van een groep kan achterwege blijven, mits dochtermaatschappijen die partij zijn bij de transactie geheel in eigendom zijn van een of meer leden van de groep. 
 
@@ -4229,12 +4224,12 @@ Medegedeeld wordt het gemiddelde aantal gedurende het boekjaar bij de rechtspers
 
 1. Opgegeven worden de in het boekjaar ten laste van de rechtspersoon gebrachte totale honoraria voor het onderzoek van de jaarrekening, totale honoraria voor andere controleopdrachten, totale honoraria voor adviesdiensten op fiscaal terrein en totale honoraria voor andere niet-controlediensten, uitgevoerd door de externe accountant en de accountantsorganisatie, genoemd in artikel 1, eerste lid, onder a en e, van de Wet toezicht accountantsorganisaties. 
 2. Indien de rechtspersoon dochtermaatschappijen heeft of de financiële gegevens van andere maatschappijen consolideert, worden de honoraria die in het boekjaar te hunnen laste zijn gebracht, in de opgave begrepen. 
-3. De honoraria hoeven niet opgegeven te worden door een rechtspersoon waarvan de financiële gegevens zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen of de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht van toepassing is, mits de in lid 1 bedoelde honoraria in de toelichting van die geconsolideerde jaarrekening worden vermeld.
+3. De honoraria hoeven niet opgegeven te worden door een rechtspersoon waarvan de financiële gegevens zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen of richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) van toepassing is, mits de in lid 1 bedoelde honoraria in de toelichting van die geconsolideerde jaarrekening worden vermeld.
 
 ### Artikel  383  
 
 1.  Opgegeven worden het bedrag van de bezoldigingen, met inbegrip van de pensioenlasten, en van de andere uitkeringen voor de gezamenlijke bestuurders en gewezen bestuurders en, afzonderlijk, voor de gezamenlijke commissarissen en gewezen commissarissen. De vorige zin heeft betrekking op de bedragen die in het boekjaar ten laste van de rechtspersoon zijn gekomen. Indien de rechtspersoon dochtermaatschappijen heeft of de financiële gegevens van andere maatschappijen consolideert, worden de bedragen die in het boekjaar te hunnen laste zijn gekomen, in de opgave begrepen. Een opgave die herleid kan worden tot een enkele natuurlijke persoon mag achterwege blijven.    
-2.   Met uitzondering van de laatste zin is lid 1 tevens van toepassing op het bedrag van de leningen, voorschotten en garanties, ten behoeve van bestuurders en commissarissen van de rechtspersoon verstrekt door de rechtspersoon, zijn dochtermaatschappijen en de maatschappijen waarvan hij de gegevens consolideert. Opgegeven worden de nog openstaande bedragen, de rentevoet, de belangrijkste overige bepalingen en de aflossingen gedurende het boekjaar.   
+2.   Met uitzondering van de laatste zin is lid 1 tevens van toepassing op het bedrag van de leningen, voorschotten en garanties, ten behoeve van bestuurders en commissarissen van de rechtspersoon verstrekt door de rechtspersoon, zijn dochtermaatschappijen en de maatschappijen waarvan hij de gegevens consolideert. Opgegeven worden de nog openstaande bedragen, de afgewaardeerde bedragen en de bedragen waarvan werd afgezien, de rentevoet, de belangrijkste overige bepalingen en de aflossingen gedurende het boekjaar.   
 
 ### Artikel  383a  
 
@@ -4325,7 +4320,7 @@ c.agrarische voorraden waarvoor frequente marktnoteringen bestaan die op grond v
 
 1.  De afschrijvingen geschieden onafhankelijk van het resultaat van het boekjaar.    
 2.   De methoden volgens welke de afschrijvingen zijn berekend, worden in de toelichting uiteengezet.    
-3.   De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen worden afgeschreven in ten hoogste vijf jaren. De kosten van onderzoek en ontwikkeling voor zover geactiveerd en de geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. De afschrijvingsduur mag vijf jaren slechts te boven gaan, indien de goodwill aan een aanzienlijk langer tijdvak kan worden toegerekend; alsdan moet de afschrijvingsduur met de redenen hiervoor worden opgegeven.    
+3.   De geactiveerde kosten in verband met de oprichting en met de uitgifte van aandelen worden afgeschreven in ten hoogste vijf jaren. De kosten van ontwikkeling voor zover geactiveerd en de geactiveerde kosten van goodwill worden afgeschreven naar gelang van de verwachte gebruiksduur. In uitzonderlijke gevallen waarin de gebruiksduur van kosten van ontwikkeling en goodwill niet op betrouwbare wijze kunnen worden geschat, worden deze kosten afgeschreven in een periode van ten hoogste tien jaren. In dergelijke gevallen worden in de toelichting de redenen voor de afschrijvingsduur van de kosten van goodwill vermeld.   
 4.   Op vaste activa met beperkte gebruiksduur wordt jaarlijks afgeschreven volgens een stelsel dat op de verwachte toekomstige gebruiksduur is afgestemd.    
 5.   Op het overeenkomstig artikel 375 lid 5 geactiveerde deel van een schuld wordt tot de aflossing jaarlijks een redelijk deel afgeschreven.   
 
@@ -4333,9 +4328,9 @@ c.agrarische voorraden waarvoor frequente marktnoteringen bestaan die op grond v
 
 1.  Waardeverminderingen van activa worden onafhankelijk van het resultaat van het boekjaar in aanmerking genomen.    
 2.   Vlottende activa worden gewaardeerd tegen actuele waarde, indien deze op de balansdatum lager is dan de verkrijgings- of vervaardigingsprijs. De waardering geschiedt tegen een andere lagere waarde, indien het in artikel 362 lid 1 bedoelde inzicht daardoor wordt gediend.    
-3.   Indien redelijkerwijs een buitengewone waardevermindering van vlottende activa op korte termijn valt te voorzien, mag bij de waardering hiermede rekening worden gehouden.    
-4.   Bij de waardering van de vaste activa wordt rekening gehouden met een vermindering van hun waarde, indien deze naar verwachting duurzaam is. Bij de waardering van de financiële vaste activa mag in ieder geval met op de balansdatum opgetreden waardevermindering rekening worden gehouden.    
-5.   De afboeking overeenkomstig de voorgaande leden wordt, voor zover zij niet krachtens artikel 390 lid 3 aan de herwaarderingsreserve wordt onttrokken, ten laste van de winst- en verliesrekening gebracht. De afboeking wordt ongedaan gemaakt, zodra de waardevermindering heeft opgehouden te bestaan. De afboekingen ingevolge lid 3 en die ingevolge lid 4, alsmede de terugnemingen, worden afzonderlijk in de winst- en verliesrekening of in de toelichting opgenomen.   
+3.   Bij de waardering van de vaste activa wordt rekening gehouden met een vermindering van hun waarde, indien deze naar verwachting duurzaam is. Bij de waardering van de financiële vaste activa mag in ieder geval met op de balansdatum opgetreden waardevermindering rekening worden gehouden.    
+4.   De afboeking overeenkomstig de voorgaande leden wordt, voor zover zij niet krachtens artikel 390 lid 3 aan de herwaarderingsreserve wordt onttrokken, ten laste van de winst- en verliesrekening gebracht. De afboeking wordt ongedaan gemaakt, zodra de waardevermindering heeft opgehouden te bestaan. De afboekingen ingevolge lid 3, alsmede de terugnemingen, worden afzonderlijk in de winst- en verliesrekening of in de toelichting opgenomen.    
+5.  De tweede zin van lid 4 geldt niet voor afboekingen van goodwill. 
 
 ### Artikel  388  
 
@@ -4350,7 +4345,7 @@ c.agrarische voorraden waarvoor frequente marktnoteringen bestaan die op grond v
 4.   In de jaarrekening van een rechtspersoon die geen bank is als bedoeld in artikel 415 mag de verantwoording van een deelneming in een bank overeenkomstig afdeling 14 van deze titel geschieden. In de jaarrekening van een bank als bedoeld in artikel 415 wordt een deelneming in een rechtspersoon die geen bank is, verantwoord overeenkomstig de voorschriften voor banken met uitzondering van artikel 424 en onverminderd de eerste zin van lid 5.  Deze uitzondering behoeft niet te worden toegepast ten aanzien van deelnemingen, waarin werkzaamheden worden verricht, die rechtstreeks liggen in het verlengde van het bankbedrijf.    
 5.   In de jaarrekening van een rechtspersoon die geen verzekeringsmaatschappij is als bedoeld in artikel 427 mag de verantwoording van een deelneming in een verzekeringsmaatschappij overeenkomstig afdeling 15 van deze titel geschieden. In de jaarrekening van een verzekeringsmaatschappij als bedoeld in artikel 427 wordt een deelneming in een rechtspersoon die geen verzekeringsmaatschappij is, verantwoord overeenkomstig de voorschriften voor verzekeringsmaatschappijen, onverminderd de eerste zin van lid 4 van dit artikel.    
 6.   De rechtspersoon houdt een reserve aan ter hoogte van zijn aandeel in het positieve resultaat uit deelnemingen en in rechtstreekse vermogensvermeerderingen sedert de eerste waardering overeenkomstig lid 2 of lid 3. Deelnemingen waarvan het cumulatief resultaat sedert die eerste waardering niet positief is, worden daarbij niet in aanmerking genomen. De reserve wordt verminderd met de uitkeringen waarop de rechtspersoon sedertdien tot het moment van het vaststellen van de jaarrekening recht heeft verkregen, alsmede met rechtstreekse vermogensverminderingen bij de deelneming; uitkeringen die hij zonder beperkingen kan bewerkstelligen, worden eveneens in mindering gebracht. Deze reserve kan in kapitaal worden omgezet. Onder de in dit lid bedoelde uitkeringen worden niet begrepen uitkeringen in aandelen.    
-7.   Indien de waarde bij de eerste waardering overeenkomstig lid 2 of lid 3 lager is dan de verkrijgingsprijs of de voorafgaande boekwaarde van de deelneming, wordt het verschil zichtbaar ten laste van de winst- en verliesrekening of van het eigen vermogen gebracht, dan wel als goodwill geactiveerd. Voor deze berekening wordt ook de verkrijgingsprijs verminderd overeenkomstig artikel 385 lid 5.    
+7.   Indien de waarde bij de eerste waardering overeenkomstig lid 2 of lid 3 lager is dan de verkrijgingsprijs of de voorafgaande boekwaarde van de deelneming, wordt het verschil als goodwill geactiveerd. Voor deze berekening wordt ook de verkrijgingsprijs verminderd overeenkomstig artikel 385 lid 5.    
 8.  Waardevermeerderingen of waardeverminderingen van deelnemingen wegens omrekening van het daarin geïnvesteerde vermogen en het resultaat vanuit de valuta van de deelneming naar de valuta waarin de rechtspersoon zijn jaarrekening opmaakt, komen ten gunste respectievelijk ten laste van een reserve omrekeningsverschillen. Valutakoersverschillen op leningen aangegaan ter dekking van valutakoersrisico van buitenlandse deelnemingen, komen eveneens ten gunste respectievelijk ten laste van deze reserve. De reserve kan een negatief saldo hebben. Bij gehele of gedeeltelijke vervreemding van het belang in de desbetreffende deelneming wordt het gedeelte van de reserve dat op het vervreemde deel van die deelneming betrekking heeft aan deze reserve onttrokken. Indien de reserve omrekeningsverschillen een negatief saldo heeft, kunnen ter hoogte van dit saldo geen uitkeringen worden gedaan ten laste van de reserves.   
 9.   Wegens in de toelichting te vermelden gegronde redenen mag worden afgeweken van toepassing van lid 1.  
 10. Verschillen in het eigen vermogen en het resultaat volgens de enkelvoudige jaarrekening en volgens de geconsolideerde jaarrekening van de rechtspersoon worden in de toelichting bij de enkelvoudige jaarrekening vermeld. 
@@ -4365,17 +4360,17 @@ c.agrarische voorraden waarvoor frequente marktnoteringen bestaan die op grond v
 
 ### Afdeling  7  
 
-####Jaarverslag 
+####Bestuursverslag 
 
 ### Artikel  391  
 
-1.  Het jaarverslag geeft een getrouw beeld van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het jaarverslag bevat, in overeenstemming met de omvang en de complexiteit van de rechtspersoon en groepsmaatschappijen, een evenwichtige en volledige analyse van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten. Indien noodzakelijk voor een goed begrip van de ontwikkeling, de resultaten of de positie van de rechtspersoon en groepsmaatschappijen, omvat de analyse zowel financiële als niet-financiële prestatie-indicatoren, met inbegrip van milieu- en personeelsaangelegenheden. Het jaarverslag geeft tevens een beschrijving van de voornaamste risico’s en onzekerheden waarmee de rechtspersoon wordt geconfronteerd. Het jaarverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.   
-2.   In het jaarverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht. 
+1.  Het bestuursverslag geeft een getrouw beeld van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten van de rechtspersoon en van de groepsmaatschappijen waarvan de financiële gegevens in zijn jaarrekening zijn opgenomen. Het bestuursverslag bevat, in overeenstemming met de omvang en de complexiteit van de rechtspersoon en groepsmaatschappijen, een evenwichtige en volledige analyse van de toestand op de balansdatum, de ontwikkeling gedurende het boekjaar en de resultaten. Indien noodzakelijk voor een goed begrip van de ontwikkeling, de resultaten of de positie van de rechtspersoon en groepsmaatschappijen, omvat de analyse zowel financiële als niet-financiële prestatie-indicatoren, met inbegrip van milieu- en personeelsaangelegenheden. Het bestuursverslag geeft tevens een beschrijving van de voornaamste risico’s en onzekerheden waarmee de rechtspersoon wordt geconfronteerd. Het bestuursverslag wordt in de Nederlandse taal gesteld, tenzij de algemene vergadering tot het gebruik van een andere taal heeft besloten.   
+2.   In het bestuursverslag worden mededelingen gedaan omtrent de verwachte gang van zaken; daarbij wordt, voor zover gewichtige belangen zich hiertegen niet verzetten, in het bijzonder aandacht besteed aan de investeringen, de financiering en de personeelsbezetting en aan de omstandigheden waarvan de ontwikkeling van de omzet en van de rentabiliteit afhankelijk is. Mededelingen worden gedaan omtrent de werkzaamheden op het gebied van onderzoek en ontwikkeling. Vermeld wordt hoe bijzondere gebeurtenissen waarmee in de jaarrekening geen rekening behoeft te worden gehouden, de verwachtingen hebben beïnvloed. De naamloze vennootschap waarop artikel 383b van toepassing is, doet voorts mededeling van het beleid van de vennootschap aangaande de bezoldiging van haar bestuurders en commissarissen en de wijze waarop dit beleid in het verslagjaar in de praktijk is gebracht. 
 3. Ten aanzien van het gebruik van financiële instrumenten door de rechtspersoon en voor zover zulks van betekenis is voor de beoordeling van zijn activa, passiva, financiële toestand en resultaat, worden de doelstellingen en het beleid van de rechtspersoon inzake risicobeheer vermeld. Daarbij wordt aandacht besteed aan het beleid inzake de afdekking van risico’s verbonden aan alle belangrijke soorten voorgenomen transacties. Voorts wordt aandacht besteed aan de door de rechtspersoon gelopen prijs-, krediet-, liquiditeits- en kasstroomrisico’s.  
-4.   Het jaarverslag mag niet in strijd zijn met de jaarrekening. Indien het verschaffen van het in lid 1 bedoelde overzicht dit vereist, bevat het jaarverslag verwijzingen naar en aanvullende uitleg over posten in de jaarrekening.   
-5.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het jaarverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode en op de inhoud, de openbaarmaking en het accountantsonderzoek van een verklaring inzake corporate governance.   
+4.   Het bestuursverslag mag niet in strijd zijn met de jaarrekening. Indien het verschaffen van het in lid 1 bedoelde overzicht dit vereist, bevat het bestuursverslag verwijzingen naar en aanvullende uitleg over posten in de jaarrekening.   
+5.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gesteld omtrent de inhoud van het bestuursverslag. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van een in de algemene maatregel van bestuur aan te wijzen gedragscode en op de inhoud, de openbaarmaking en het accountantsonderzoek van een verklaring inzake corporate governance.   
 6.  De voordracht voor een krachtens lid 5 vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
-7.  In het geval artikel 166 of 276 op een vennootschap van toepassing is en in die vennootschap de zetels in het bestuur of de raad van commissarissen, voor zover deze zetels zijn verdeeld over natuurlijke personen, niet evenwichtig zijn verdeeld over vrouwen en mannen als bedoeld in de artikelen 166 en 276, wordt in het jaarverslag uiteengezet: 
+7.  In het geval artikel 166 of 276 op een vennootschap van toepassing is en in die vennootschap de zetels in het bestuur of de raad van commissarissen, voor zover deze zetels zijn verdeeld over natuurlijke personen, niet evenwichtig zijn verdeeld over vrouwen en mannen als bedoeld in de artikelen 166 en 276, wordt in het bestuursverslag uiteengezet: 
 
 a. waarom de zetels niet evenwichtig zijn verdeeld;  
 
@@ -4389,36 +4384,29 @@ c. op welke wijze de vennootschap beoogt in de toekomst een evenwichtige verdeli
 
 ### Artikel  392  
 
-1.  Het bestuur voegt de volgende gegevens toe aan de jaarrekening en het jaarverslag:  
+1.  Het bestuur voegt de volgende gegevens toe aan de jaarrekening en het bestuursverslag:  
 
 a. de accountantsverklaring, bedoeld in artikel 393 lid 5 of een mededeling waarom deze ontbreekt;   
 
 b. een weergave van de statutaire regeling omtrent de bestemming van de winst;   
 
-c. een opgave van de bestemming van de winst of de verwerking van het verlies, of, zolang deze niet vaststaat, het voorstel daartoe;   
+c. een weergave van de statutaire regeling omtrent de bijdrage in een tekort van een coöperatie of onderlinge waarborgmaatschappij, voor zover deze van de wettelijke bepalingen afwijkt;   
 
-d. een weergave van de statutaire regeling omtrent de bijdrage in een tekort van een coöperatie of onderlinge waarborgmaatschappij, voor zover deze van de wettelijke bepalingen afwijkt;   
+d. een lijst van namen van degenen aan wie een bijzonder statutair recht inzake de zeggenschap in de rechtspersoon toekomt, met een omschrijving van de aard van dat recht, tenzij omtrent deze gegevens mededeling is gedaan in het bestuursverslag op grond van artikel 391 lid 5;   
 
-e. een lijst van namen van degenen aan wie een bijzonder statutair recht inzake de zeggenschap in de rechtspersoon toekomt, met een omschrijving van de aard van dat recht, tenzij omtrent deze gegevens mededeling is gedaan in het jaarverslag op grond van artikel 391 lid 5;   
+e. een opgave van het aantal stemrechtloze aandelen en het aantal aandelen dat geen of slechts een beperkt recht geeft tot deling in de winst of reserves van de vennootschap, met vermelding van de bevoegdheden die zij geven;  
 
-f. een opgave van het aantal winstbewijzen en soortgelijke rechten, het aantal stemrechtloze aandelen en het aantal aandelen dat geen of slechts een beperkt recht geeft tot deling in de winst of reserves van de vennootschap, met vermelding van de bevoegdheden die zij geven;  
-
-g. een opgave van de gebeurtenissen na de balansdatum met belangrijke financiële gevolgen voor de rechtspersoon en de in zijn geconsolideerde jaarrekening betrokken maatschappijen tezamen, onder mededeling van de omvang van die gevolgen;  
-
-h. opgave van het bestaan van nevenvestigingen en van de landen waar nevenvestigingen zijn, alsmede van hun handelsnaam indien deze afwijkt van die van de rechtspersoon.      
-2.   De gegevens mogen niet in strijd zijn met de jaarrekening en met het jaarverslag.    
+f. opgave van het bestaan van nevenvestigingen en van de landen waar nevenvestigingen zijn, alsmede van hun handelsnaam indien deze afwijkt van die van de rechtspersoon.      
+2.   De gegevens mogen niet in strijd zijn met de jaarrekening en met het bestuursverslag.    
 3.   Is een recht als bedoeld in lid 1 onder *e* in een aandeel belichaamd, dan wordt vermeld hoeveel zodanige aandelen elk der rechthebbenden houdt. Komt een zodanig recht aan een vennootschap, vereniging, coöperatie, onderlinge waarborgmaatschappij of stichting toe, dan worden tevens de namen van de bestuurders daarvan medegedeeld.    
-4.   Het bepaalde in lid 1 onder *e* en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder e wanneer omtrent deze gegevens mededeling moet worden gedaan in het jaarverslag op grond van artikel 391 lid 5.   
-5.  Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder *b* en *c*, niet aan de jaarrekening en het jaarverslag toe te voegen.   
+4.   Het bepaalde in lid 1 onder *e* en in lid 3 is niet van toepassing, voor zover Onze Minister van Economische Zaken desverzocht aan de rechtspersoon wegens gewichtige redenen ontheffing heeft verleend; deze ontheffing kan telkens voor ten hoogste vijf jaren worden verleend. Geen ontheffing kan worden verleend van het bepaalde in lid 1 onder e wanneer omtrent deze gegevens mededeling moet worden gedaan in het bestuursverslag op grond van artikel 391 lid 5.   
+5.  Het bestuur van een stichting of een vereniging als bedoeld in artikel 360 lid 3 behoeft de gegevens, bedoeld in lid 1, onder *b* en *c*, niet aan de jaarrekening en het bestuursverslag toe te voegen.   
 
 ### Afdeling  8a  
 
 #### *Verslag over betalingen aan overheden* 
 
-Treedt in werking per 01-11-2015 
-
 ### Artikel  392a  
-Treedt in werking per 01-11-2015 
 
 1.  Bij algemene maatregel van bestuur worden ter uitvoering van richtlijnen van het Europees Parlement en de Raad van de Europese Unie houdende regels inzake de jaarrekening, regels gesteld met betrekking tot de verplichting van rechtspersonen uit bepaalde sectoren tot het opstellen en openbaar maken van een verslag dan wel een geconsolideerd verslag over betalingen die zij doen aan overheden en worden nadere regels gesteld omtrent de inhoud van het verslag.   
 2.  De openbaarmaking van het verslag, bedoeld in lid 1, geschiedt binnen twaalf maanden na afloop van het boekjaar op de wijze als bedoeld in artikel 394 lid 1, tweede volzin.  
@@ -4431,7 +4419,7 @@ Treedt in werking per 01-11-2015
 
 1.  De rechtspersoon verleent opdracht tot onderzoek van de jaarrekening aan een registeraccountant of aan een Accountant-Administratieconsulent ten aanzien van wie in het accountantsregister een aantekening is geplaatst als bedoeld in artikel 36, tweede lid, onderdeel i, van de Wet op het accountantsberoep. De opdracht kan worden verleend aan een organisatie waarin accountants die mogen worden aangewezen, samenwerken. Indien een rechtspersoon tevens een organisatie van openbaar belang is als bedoeld in artikel 1, eerste lid, onderdeel l, van de Wet toezicht accountantsorganisaties, wordt door deze rechtspersoon aan de Stichting Autoriteit Financiële Markten medegedeeld welke accountant of accountantsorganisatie wordt beoogd voor het uitvoeren van een opdracht tot onderzoek van de jaarrekening van de rechtspersoon. Deze mededeling geschiedt voordat tot de verlening van die opdracht, bedoeld in het tweede lid, is overgegaan. Onze Minister van Financiën stelt bij ministeriele regeling nadere regels over deze mededeling.  
 2. Tot het verlenen van de opdracht is de algemene vergadering bevoegd. Gaat deze daartoe niet over, dan is de raad van commissarissen bevoegd of, zo deze ontbreekt of in gebreke blijft, het bestuur. De aanwijzing van een accountant wordt door generlei voordracht beperkt. De opdracht kan worden ingetrokken door de algemene vergadering en door degene die haar heeft verleend; de door het bestuur verleende opdracht kan bovendien door de raad van commissarissen worden ingetrokken. De opdracht kan enkel worden ingetrokken om gegronde redenen; daartoe behoort niet een meningsverschil over methoden van verslaggeving of controlewerkzaamheden. De algemene vergadering hoort de accountant op diens verlangen omtrent de intrekking van een hem verleende opdracht of omtrent het hem kenbaar gemaakte voornemen daartoe. Het bestuur en de accountant stellen de Stichting Autoriteit Financiële Markten onverwijld in kennis van de intrekking van de opdracht door de rechtspersoon of tussentijdse beëindiging ervan door de accountant en geven hiervoor een afdoende motivering.  
-3.   De accountant onderzoekt of de jaarrekening het in artikel 362 lid 1 vereiste inzicht geeft. Hij gaat voorts na, of de jaarrekening aan de bij en krachtens de wet gestelde voorschriften voldoet, of het jaarverslag, voor zover hij dat kan beoordelen, overeenkomstig deze titel is opgesteld en met de jaarrekening verenigbaar is, en of de in artikel 392 lid 1, onderdelen b tot en met h vereiste gegevens zijn toegevoegd.    
+3.   De accountant onderzoekt of de jaarrekening het in artikel 362 lid 1 vereiste inzicht geeft. Hij gaat voorts na, of de jaarrekening aan de bij en krachtens de wet gestelde voorschriften voldoet, of het bestuursverslag overeenkomstig deze titel is opgesteld en met de jaarrekening verenigbaar is, en of het bestuursverslag in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden bevat, en of de in artikel 392 lid 1, onderdelen b tot en met f, vereiste gegevens zijn toegevoegd.   
 4.   De accountant brengt omtrent zijn onderzoek verslag uit aan de raad van commissarissen en aan het bestuur. Hij maakt daarbij ten minste melding van zijn bevindingen met betrekking tot de betrouwbaarheid en continuïteit van de geautomatiseerde gegevensverwerking.    
 5.  De accountant geeft de uitslag van zijn onderzoek weer in een verklaring omtrent de getrouwheid van de jaarrekening. De accountant kan een afzonderlijke verklaring afgeven voor de enkelvoudige jaarrekening en voor de geconsolideerde jaarrekening. De accountantsverklaring omvat ten minste: 
 
@@ -4443,9 +4431,11 @@ c.een oordeel of de jaarrekening het vereiste inzicht geeft en aan de bij en kra
 
 d.een verwijzing naar bepaalde zaken waarop de accountant in het bijzonder de aandacht vestigt, zonder een verklaring als bedoeld in lid 6, onderdeel b, af te geven;
 
-e. een vermelding van de gebleken tekortkomingen naar aanleiding van het onderzoek overeenkomstig lid 3 of het jaarverslag overeenkomstig deze titel is opgesteld en of de in artikel 392 lid 1, onder b tot en met g, vereiste gegevens zijn toegevoegd; 
+e. een vermelding van de gebleken tekortkomingen naar aanleiding van het onderzoek overeenkomstig lid 3 of het bestuursverslag overeenkomstig deze titel is opgesteld en of de in artikel 392 lid 1, onder b tot en met f, vereiste gegevens zijn toegevoegd; 
 
-f.een oordeel over de verenigbaarheid van het jaarverslag met de jaarrekening.
+f.een oordeel over de verenigbaarheid van het bestuursverslag met de jaarrekening;
+
+g. een oordeel of er, in het licht van de tijdens het onderzoek van de jaarrekening verkregen kennis en begrip omtrent de rechtspersoon en zijn omgeving, materiële onjuistheden in het bestuursverslag zijn gebleken onder opgave van de aard van die onjuistheden. 
 6. De accountantsverklaring, bedoeld in lid 5, heeft de vorm van:
 
 a.een goedkeurende verklaring;
@@ -4466,8 +4456,8 @@ d.een verklaring van oordeelonthouding.De accountant ondertekent en dagtekent de
 
 1.  De rechtspersoon is verplicht tot openbaarmaking van de jaarrekening binnen acht dagen na de vaststelling. De openbaarmaking geschiedt door nederlegging van een volledig in de Nederlandse taal gesteld exemplaar of, als dat niet is vervaardigd, een exemplaar in het Frans, Duits of Engels, ten kantore van het handelsregister dat wordt gehouden door de Kamer van Koophandel. Op het exemplaar moet de dag van vaststelling en goedkeuring zijn aangetekend.    
 2.   Is de jaarrekening niet binnen twee maanden na afloop van de voor het opmaken voorgeschreven termijn overeenkomstig de wettelijke voorschriften vastgesteld, dan maakt het bestuur onverwijld de opgemaakte jaarrekening op de in lid 1 voorgeschreven wijze openbaar; op de jaarrekening wordt vermeld dat zij nog niet is vastgesteld. Binnen twee maanden na gerechtelijke vernietiging van een jaarrekening moet de rechtspersoon een afschrift van de in de uitspraak opgenomen bevelen met betrekking tot de jaarrekening neerleggen ten kantore van het handelsregister, met vermelding van de uitspraak.    
-3.   Uiterlijk dertien maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.    
-4.   Gelijktijdig met en op dezelfde wijze als de jaarrekening wordt een in de zelfde taal of in het Nederlands gesteld exemplaar van het jaarverslag en van de overige in artikel 392 bedoelde gegevens openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a, c, f en g genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.    
+3.   Uiterlijk twaalf maanden na afloop van het boekjaar moet de rechtspersoon de jaarrekening op de in lid 1 voorgeschreven wijze openbaar hebben gemaakt.    
+4.   Gelijktijdig met en op dezelfde wijze als de jaarrekening wordt een in de zelfde taal of in het Nederlands gesteld exemplaar van het bestuursverslag en van de overige in artikel 392 bedoelde gegevens openbaar gemaakt. Het voorafgaande geldt, behalve voor de in artikel 392 lid 1 onder a en f genoemde gegevens, niet, indien de stukken ten kantore van de rechtspersoon ter inzage van een ieder worden gehouden en op verzoek een volledig of gedeeltelijk afschrift daarvan ten hoogste tegen de kostprijs wordt verstrekt; hiervan doet de rechtspersoon opgaaf ter inschrijving in het handelsregister.    
 5.   De vorige leden gelden niet, indien Onze Minister van Economische Zaken de in artikel 58, artikel 101 of artikel 210 genoemde ontheffing heeft verleend; alsdan wordt een afschrift van die ontheffing ten kantore van het handelsregister nedergelegd.    
 6.   De in de vorige leden bedoelde bescheiden worden gedurende zeven jaren bewaard. De Kamer van Koophandel mag de op deze bescheiden geplaatste gegevens overbrengen op andere gegevensdragers, die zij in hun plaats in het handelsregister bewaart, mits die overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.    
 7.   Iedere belanghebbende kan van de rechtspersoon nakoming van de in de leden 1-5 omschreven verplichtingen vorderen.    
@@ -4477,7 +4467,7 @@ a. lid 1, indien zij de vastgestelde jaarrekening op grond van artikel 5:25o, ee
 
 b. lid 2, eerste volzin, indien zij mededeling heeft gedaan op grond van artikel 5:25o, tweede lid, van die wet aan de Stichting Autoriteit Financiële Markten;  
 
-c. vierde lid, eerste volzin, indien zij het jaarverslag en de overige in artikel 392 bedoelde gegevens op grond van artikel 5:25o, vierde lid, van de Wet op het financieel toezicht heeft toegezonden aan de Stichting Autoriteit Financiële Markten.   
+c. vierde lid, eerste volzin, indien zij het bestuursverslag en de overige in artikel 392 bedoelde gegevens op grond van artikel 5:25o, vierde lid, van de Wet op het financieel toezicht heeft toegezonden aan de Stichting Autoriteit Financiële Markten.   
 
 ### Artikel  395  
 
@@ -4490,7 +4480,6 @@ c. vierde lid, eerste volzin, indien zij het jaarverslag en de overige in artike
 ####Vrijstellingen op grond van de omvang van het bedrijf van de rechtspersoon 
 
 ### Artikel  395a  
-Treedt in werking per 01-11-2015 
 
 1.  De leden 3 tot en met 6 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten: 
 
@@ -4509,20 +4498,20 @@ c. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 10.
 
 ### Artikel  396  
 
-1.  De leden 3 tot en met 9 gelden voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:  
+1.  Onverminderd artikel 395a gelden de leden 3 tot en met 9 voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:  
 
-a. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 4 400 000;   
+a. de waarde van de activa volgens de balans met toelichting bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 6.000.000;   
 
-b. de netto-omzet over het boekjaar bedraagt niet meer dan € 8 800 000;   
+b. de netto-omzet over het boekjaar bedraagt niet meer dan € 12.000.000;   
 
 c. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 50.      
 2.   Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.    
-3.   Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364, 373, 375 lid 3 en 376, alsmede, zonder uitsplitsing naar soort schuld of vordering, in de artikelen 370 lid 2 en 375 lid 2 en de opgave van het ingehouden deel van het resultaat.    
-4.   In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.    
-5.   Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3; opgegeven worden het aantal geplaatste aandelen en het bedrag per soort, aantal en bedrag van de in het boekjaar uitgegeven aandelen en van de aandelen en certificaten daarvan die de rechtspersoon of een dochtermaatschappij voor eigen rekening houdt. De artikelen 380, 381 leden 2 en 3, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing.   
+3.  Van de ingevolge afdeling 3 voorgeschreven opgaven behoeft geen andere te worden gedaan dan voorgeschreven in de artikelen 364, 368 lid 2 onder a, 373 leden 1 tot en met 5, eerste volzin, 375 lid 2, waarbij de aanduiding van de rentevoet achterwege blijft, en lid 3 en 376, alsmede, zonder uitsplitsing naar soort vordering, in artikel 370 lid 2 en de opgave van het ingehouden deel van het resultaat.   
+4.   In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3 onder a-d en g, onderscheidenlijk lid 4 onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat.    
+5.   Het in artikel 378 lid 1 genoemde overzicht wordt slechts gegeven voor de herwaarderingsreserve, behoudens de tweede zin van artikel 378 lid 3. De artikelen, 379, 380, 381 leden 2 en 3, 381b, aanhef en onder a, 382a en 383 lid 1 zijn niet van toepassing. De rechtspersoon vermeldt de naam en woonplaats van de maatschappij die de geconsolideerde jaarrekening opstelt van het groepsdeel waartoe de rechtspersoon behoort. De informatie die ingevolge artikel 382 wordt vermeld, wordt beperkt tot mededeling van het gemiddelde aantal gedurende het boekjaar bij de rechtspersoon werkzame werknemers.   
 6. In afwijking van afdeling 6 van deze titel komen voor de waardering van de activa en passiva en voor de bepaling van het resultaat ook in aanmerking de grondslagen voor de bepaling van de belastbare winst, bedoeld in hoofdstuk II van de Wet op de vennootschapsbelasting 1969, mits de rechtspersoon daarbij alle voor hem van toepassing zijnde fiscale grondslagen toepast. Indien de rechtspersoon deze grondslagen toepast, maakt zij daarvan melding in de toelichting. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het gebruik van deze grondslagen en de toelichting die daarbij gegeven wordt. 
-7.  De artikelen 383b tot en met 383e, 391 en 393 lid 1 zijn niet van toepassing.   
-8.   Artikel 394 is slechts van toepassing met betrekking tot een overeenkomstig lid 3 beperkte balans en de toelichting. In de openbaar gemaakte toelichting blijven achterwege de nadere gegevens omtrent de winst- en verliesrekening, alsmede de gegevens bedoeld in artikel 378 lid 3, tweede zin.    
+7.  De artikelen 380c en 380d, 383b tot en met 383e, 391, 392 en 393 lid 1 zijn niet van toepassing.   
+8.  Artikel 394 is slechts van toepassing met betrekking tot een overeenkomstig lid 3 beperkte balans en de toelichting. In de openbaar gemaakte toelichting blijven achterwege de gegevens bedoeld in artikel 380a.   
 9.   Indien de rechtspersoon geen winst beoogt, behoeft hij artikel 394 niet toe te passen, mits hij  
 
 a. de in lid 8 bedoelde stukken aan schuldeisers en houders van aandelen in zijn kapitaal of certificaten daarvan of anderen aan wie het vergaderrecht toekomt op hun verzoek onmiddellijk kosteloos toezendt of ten kantore van de rechtspersoon ter inzage geeft; en   
@@ -4533,30 +4522,36 @@ b. ten kantore van het handelsregister een verklaring van een accountant heeft n
 
 1.  Behoudens artikel 396 gelden de leden 3 tot en met 7 voor een rechtspersoon die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de volgende vereisten:  
 
-a. de waarde van de activa volgens de balans met toelichting, bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 17 500 000;   
+a. de waarde van de activa volgens de balans met toelichting, bedraagt, op de grondslag van verkrijgings- en vervaardigingsprijs, niet meer dan € 20.000.000;   
 
-b. de netto-omzet over het boekjaar bedraagt niet meer dan € 35 000 000;   
+b. de netto-omzet over het boekjaar bedraagt niet meer dan € 40.000.000;   
 
 c. het gemiddeld aantal werknemers over het boekjaar bedraagt minder dan 250.      
 2.   Voor de toepassing van lid 1 worden meegeteld de waarde van de activa, de netto-omzet en het getal der werknemers van groepsmaatschappijen, die in de consolidatie zouden moeten worden betrokken als de rechtspersoon een geconsolideerde jaarrekening zou moeten opmaken. Dit geldt niet, indien de rechtspersoon artikel 408 toepast.    
 3.   In de winst- en verliesrekening worden de posten genoemd in artikel 377 lid 3, onder a-d en g, onderscheidenlijk lid 4, onder a-c en f, samengetrokken tot een post bruto-bedrijfsresultaat; de rechtspersoon vermeldt in een verhoudingscijfer, in welke mate de netto-omzet ten opzichte van die van het vorige jaar is gestegen of gedaald.    
-4.   Artikel 380 is niet van toepassing. Artikel 382a is niet van toepassing, mits de in dat artikel bedoelde gegevens aan de Stichting Autoriteit Financiële Markten op diens verzoek worden verstrekt.   
+4.  De artikelen 380 en 382a zijn niet van toepassing.   
 5.   Van de in afdeling 3 voorgeschreven opgaven behoeven in de openbaar gemaakte balans met toelichting slechts vermelding die welke voorkomen in de artikelen 364, 365 lid 1 onder d, 366, 367 onder a-d, 370 lid 1 onder b en c , 373, 374 leden 3 en 4, 375 lid 1 onder a, b, f en g en lid 3, alsmede 376 en de overlopende posten. De leden 2 van de artikelen 370 en 375 vinden toepassing zowel op het totaal van de vorderingen en schulden als op de posten uit lid 1 van die artikelen welke afzonderlijke vermelding behoeven. De openbaar te maken winst- en verliesrekening en de toelichting mogen worden beperkt overeenkomstig lid 3 en lid 4.    
 6.  De informatie die ingevolge artikel 381 lid 2 moet worden vermeld, wordt beperkt tot informatie over de aard en het zakelijk doel van de aldaar genoemde regelingen. Artikel 381 lid 3 is niet van toepassing, tenzij de rechtspersoon een naamloze vennootschap is, in welk geval de vermelding als bedoeld in artikel 381 lid 3 beperkt is tot transacties die direct of indirect zijn aangegaan tussen de vennootschap en haar voornaamste aandeelhouders en tussen de vennootschap en haar leden van het bestuur en van de raad van commissarissen.   
-7.   De gegevens, bedoeld in artikel 392 lid 1, onderdelen e en f, en lid 3, worden niet openbaar gemaakt.   
-8.  In het jaarverslag behoeft geen aandacht te worden besteed aan niet-financiële prestatie-indicatoren als bedoeld in artikel 391 lid 1.  
+7.   De gegevens, bedoeld in artikel 392 lid 1, onderdelen d en e, en lid 3, worden niet openbaar gemaakt.   
+8.  In het bestuursverslag behoeft geen aandacht te worden besteed aan niet-financiële prestatie-indicatoren als bedoeld in artikel 391 lid 1.  
 
 ### Artikel  398  
 
-1.   Artikel 396 of artikel 397 geldt voor het eerste en tweede boekjaar ook voor een rechtspersoon die op de balansdatum van het eerste boekjaar aan de desbetreffende vereisten heeft voldaan.    
-2.   Artikel 396 leden 3 tot en met 8 en artikel 397 leden 3 tot en met 7 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.   
-3. De artikelen 396 en 397 zijn niet van toepassing op:
-
-a.een rechtspersoon die effecten heeft uitstaan die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is; of
-
-b.een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten waarvoor artikel 401 lid 1 geldt.  
+1.   Artikel 395a, artikel 396 of artikel 397 geldt voor het eerste en tweede boekjaar ook voor een rechtspersoon die op de balansdatum van het eerste boekjaar aan de desbetreffende vereisten heeft voldaan.    
+2.   Artikel 395a leden 3 tot en met 7, artikel 396 leden 3 tot en met 8 en artikel 397 leden 3 tot en met 7 zijn van toepassing voor zover de algemene vergadering uiterlijk zes maanden na het begin van het boekjaar niet anders heeft besloten.    
+3.  De artikelen 395a tot en met 397 zijn niet van toepassing op een beleggingsmaatschappij of maatschappij voor collectieve belegging in effecten waarvoor artikel 401 lid 1 geldt.   
 4.   Bij algemene maatregel van bestuur worden de in artikel 396 lid 1 en artikel 397 lid 1 genoemde bedragen verlaagd, indien het recht van de Europese Gemeenschappen daartoe verplicht, en kunnen zij worden verhoogd, voor zover geoorloofd.    
-5.  Voor de toepassing van de artikelen 396 lid 1 en 397 lid 1 op een stichting of een vereniging als bedoeld in artikel 360 lid 3 wordt uitgegaan van het totaal van de activa van de stichting of vereniging en, met inachtneming van artikel 396 lid 2, van de netto-omzet en het gemiddeld aantal werknemers van de onderneming of ondernemingen die deze stichting of vereniging in stand houdt.  
+5.  Voor de toepassing van de artikelen 396 lid 1 en 397 lid 1 op een stichting of een vereniging als bedoeld in artikel 360 lid 3 wordt uitgegaan van het totaal van de activa van de stichting of vereniging en, met inachtneming van artikel 396 lid 2, van de netto-omzet en het gemiddeld aantal werknemers van de onderneming of ondernemingen die deze stichting of vereniging in stand houdt.   
+6.  Artikel 395a is niet van toepassing op een participatieonderneming als bedoeld in artikel 2, onderdeel 15, van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182).   
+7.  De artikelen 395a tot en met 397 zijn niet van toepassing op rechtspersonen die als organisatie van openbaar belang: 
+
+a. effecten hebben die zijn toegelaten tot de handel op een gereglementeerde markt van een lidstaat in de zin van artikel 4, lid 1, punt 14, van richtlijn 2004/39/EG van het Europees Parlement en de Raad van 21 april 2004 betreffende markten voor financiële instrumenten (PbEU 2004, L 145);  
+
+b. kredietinstellingen zijn in de zin van artikel 3, punt 1, van richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176), en die geen instellingen als bedoeld in artikel 2, lid 5, van genoemde richtlijn 2013/36/EU zijn;  
+
+c. verzekeringsondernemingen zijn in de zin van artikel 2, lid 1, van richtlijn 91/674/EEG van de Raad van 19 december 1991 betreffende de jaarrekening van verzekeringsondernemingen (PbEG 1991, L 374); of  
+
+d. bij algemene maatregel van bestuur worden aangewezen wegens hun omvang of functie in het maatschappelijk verkeer.   
 
 ### Afdeling  12  
 
@@ -4574,7 +4569,8 @@ Onze Minister van Financiën kan financiële instellingen die geen bank als bedo
 
 ### Artikel  402  
 
-Zijn de financiële gegevens van een rechtspersoon verwerkt in zijn geconsolideerde jaarrekening, dan behoeft in de eigen winst- en verliesrekening slechts het resultaat uit deelnemingen na aftrek van de belastingen daarover als afzonderlijke post te worden vermeld. In de toelichting van de geconsolideerde jaarrekening wordt de toepassing van de vorige zin meegedeeld.  
+1.  Zijn de financiële gegevens van een rechtspersoon verwerkt in zijn geconsolideerde jaarrekening, dan behoeft in de eigen winst- en verliesrekening slechts het resultaat uit deelnemingen na aftrek van de belastingen daarover als afzonderlijke post te worden vermeld. In de toelichting van de geconsolideerde jaarrekening wordt de toepassing van de vorige zin meegedeeld.   
+2.  Dit artikel is niet van toepassing op rechtspersonen als bedoeld in artikel 398 lid 7. 
 
 ### Artikel  403  
 
@@ -4584,19 +4580,18 @@ a. de balans in elk geval vermeldt de som van de vaste activa, de som van de vlo
 
 b. de leden of aandeelhouders na de aanvang van het boekjaar en voor de vaststelling van de jaarrekening schriftelijk hebben verklaard met afwijking van de voorschriften in te stemmen;   
 
-c. de financiële gegevens van de rechtspersoon door een andere rechtspersoon of vennootschap zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen, de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht of een der beide richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen van toepassing is;   
+c. de financiële gegevens van de rechtspersoon door een andere rechtspersoon of vennootschap zijn geconsolideerd in een geconsolideerde jaarrekening waarop krachtens het toepasselijke recht de verordening van het Europees Parlement en de Raad betreffende de toepassing van internationale standaarden voor jaarrekeningen, richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182) of een der beide richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen van toepassing is;   
 
 d. de geconsolideerde jaarrekening, voor zover niet gesteld of vertaald in het Nederlands, is gesteld of vertaald in het Frans, Duits of Engels;   
 
-e. de accountantsverklaring en het jaarverslag, zijn gesteld of vertaald in de zelfde taal als de geconsolideerde jaarrekening;   
+e. de accountantsverklaring en het bestuursverslag, zijn gesteld of vertaald in de zelfde taal als de geconsolideerde jaarrekening;   
 
 f. de onder *c* bedoelde rechtspersoon of vennootschap schriftelijk heeft verklaard zich hoofdelijk aansprakelijk te stellen voor de uit rechtshandelingen van de rechtspersoon voortvloeiende schulden; en   
 
 g. de verklaringen, bedoeld in de onderdelen b en f zijn neergelegd ten kantore van het handelsregister alsmede, telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking, de stukken of vertalingen, genoemd in de onderdelen d en e.     
 2.   Zijn in de groep of het groepsdeel waarvan de gegevens in de geconsolideerde jaarrekening zijn opgenomen, de in lid 1 onder *f* bedoelde rechtspersoon of vennootschap en een andere nevengeschikt, dan is lid 1 slechts van toepassing, indien ook deze andere rechtspersoon of vennootschap een verklaring van aansprakelijkstelling heeft afgelegd; in dat geval zijn lid 1 onder *g* en artikel 404 van overeenkomstige toepassing.    
 3.   Voor een rechtspersoon waarop lid 1 van toepassing is, gelden de artikelen 391 tot en met 394 niet.    
-4.   Indien de tot de groep behorende rechtspersoon een bank als bedoeld in artikel 415 is, vermeldt de balans in afwijking van lid 1, onder *a*, in elk geval de som van de activa en van de passiva en het bedrag van het eigen vermogen en vermeldt de winst- en verliesrekening in elk geval het resultaat uit de gewone bedrijfsuitoefening, het bedrag der belastingen en het saldo der overige baten en lasten.    
-5.   Indien de tot de groep behorende rechtspersoon een verzekeringsmaatschappij als bedoeld in artikel 427 is, vermeldt de balans in afwijking van lid 1, onder *a*, in elk geval de som van de beleggingen en van de vorderingen, en het bedrag van het eigen vermogen, van de technische voorzieningen en van de schulden, en bestaat de winst- en verliesrekening in elk geval uit de niet-technische rekening, waarop ten minste worden vermeld de resultaten voor belastingen uit de gewone uitoefening van het schade- en levensverzekeringsbedrijf, het saldo der overige baten en lasten en het resultaat uit de gewone bedrijfsuitoefening na belastingen.   
+4.  Dit artikel is niet van toepassing op rechtspersonen als bedoeld in artikel 398 lid 7.  
 
 ### Artikel  404  
 
@@ -4645,9 +4640,9 @@ c. van in de consolidatie te betrekken maatschappijen waarin het belang slechts 
 
 a. bij consolidatie de grenzen van artikel 396 niet zouden worden overschreden;   
 
-b. geen in de consolidatie te betrekken maatschappij effecten heeft uitstaan die zijn toegelaten tot de handel op een gereglementeerde markt of een multilaterale handelsfaciliteit, als bedoeld in artikel 1:1 van de Wet op het financieel toezicht of een met een gereglementeerde markt of multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is; en  
+b. geen in de consolidatie te betrekken maatschappijen een rechtspersoon is als bedoeld in artikel 398 lid 7;  
 
-c. niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door ten minste een tiende der leden of door houders van ten minste een tiende van het geplaatste kapitaal.      
+c. niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk bezwaar bij de rechtspersoon is gemaakt door de algemene vergadering.     
 3.   Indien de rechtspersoon groepsmaatschappijen beheert krachtens een regeling tot samenwerking met een rechtspersoon waarvan de financiële gegevens niet in zijn geconsolideerde jaarrekening worden opgenomen, mag hij zijn eigen financiële gegevens buiten de geconsolideerde jaarrekening houden. Dit geldt slechts, indien de rechtspersoon geen andere werkzaamheden heeft dan het beheren en financieren van groepsmaatschappijen en deelnemingen, en indien hij in zijn balans artikel 389 toepast.   
 
 ### Artikel  408  
@@ -4658,12 +4653,12 @@ a. niet binnen zes maanden na de aanvang van het boekjaar daartegen schriftelijk
 
 b. de financiële gegevens die de rechtspersoon zou moeten consolideren zijn opgenomen in de geconsolideerde jaarrekening van een groter geheel;   
 
-c. de geconsolideerde jaarrekening en het jaarverslag zijn opgesteld overeenkomstig de voorschriften van de zevende richtlijn van de Raad van de Europese Gemeenschappen inzake het vennootschapsrecht of overeenkomstig de voorschriften van een der richtlijnen van de Raad van de Europese Gemeenschappen betreffende de jaarrekening en de geconsolideerde jaarrekening van banken en andere financiële instellingen dan wel van verzekeringsondernemingen dan wel, indien deze voorschriften niet behoeven te zijn gevolgd, op gelijkwaardige wijze;   
+c. de geconsolideerde jaarrekening en het bestuursverslag zijn opgesteld overeenkomstig de voorschriften van richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182), indien deze voorschriften niet behoeven te zijn gevolgd, op gelijkwaardige wijze;   
 
-d. de geconsolideerde jaarrekening met accountantsverklaring en jaarverslag, voor zover niet gesteld of vertaald in het Nederlands, zijn gesteld of vertaald in het Frans, Duits of Engels, en wel in de zelfde taal; en   
+d. de geconsolideerde jaarrekening met accountantsverklaring en bestuursverslag, voor zover niet gesteld of vertaald in het Nederlands, zijn gesteld of vertaald in het Frans, Duits of Engels, en wel in de zelfde taal; en   
 
 e. telkens binnen zes maanden na de balansdatum of binnen een maand na een geoorloofde latere openbaarmaking ten kantore van het handelsregister de in onderdeel d genoemde stukken of vertalingen zijn neergelegd.     
-2.   Onze Minister van Justitie kan voorschriften voor de jaarrekening aanwijzen die, zo nodig aangevuld met door hem gegeven voorschriften, als gelijkwaardig zullen gelden aan voorschriften overeenkomstig de zevende richtlijn. Intrekking van een aanwijzing kan slechts boekjaren betreffen die nog niet zijn begonnen.    
+2.   Onze Minister van Justitie kan voorschriften voor de jaarrekening aanwijzen die, zo nodig aangevuld met door hem gegeven voorschriften, als gelijkwaardig zullen gelden aan voorschriften overeenkomstig richtlijn 2013/34/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende de jaarlijkse financiële overzichten, geconsolideerde financiële overzichten en aanverwante verslagen van bepaalde ondernemingsvormen, tot wijziging van richtlijn 2006/43/EG van het Europees Parlement en de Raad en tot intrekking van richtlijnen 78/660/EEG en 83/349/EEG van de Raad (PbEU 2013, L 182). Intrekking van een aanwijzing kan slechts boekjaren betreffen die nog niet zijn begonnen.    
 3.   De rechtspersoon moet de toepassing van lid 1 in de toelichting vermelden.    
 4.  Dit artikel is niet van toepassing op een rechtspersoon waarvan effecten zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in de Wet op het financieel toezicht of een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is. 
 
@@ -4781,7 +4776,7 @@ Een bank mag op de balans onder de passiva onmiddellijk na de voorzieningen een 
 
 ### Artikel  425  
 
-Een bank waarop een vrijstelling van toepassing is als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht, behoeft de jaarrekening en het jaarverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het jaarverslag en de overige gegevens van de bank op wier aansprakelijkheid de vrijstelling is gegrond; de artikelen 393 en 394 gelden niet voor de bank waarop de vrijstelling van toepassing is. Aan de geconsolideerde jaarrekening worden een jaarverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.  
+Een bank waarop een vrijstelling van toepassing is als bedoeld in artikel 3:111, eerste lid, van de Wet op het financieel toezicht, behoeft de jaarrekening en het bestuursverslag niet volgens de voorschriften van deze titel in te richten, mits de financiële gegevens zijn opgenomen in de geconsolideerde jaarrekening, het bestuursverslag en de overige gegevens van de bank op wier aansprakelijkheid de vrijstelling is gegrond; de artikelen 393 en 394 gelden niet voor de bank waarop de vrijstelling van toepassing is. Aan de geconsolideerde jaarrekening worden een bestuursverslag en overige gegevens toegevoegd, die betrekking hebben op de in de geconsolideerde jaarrekening begrepen rechtspersonen en instellingen gezamenlijk.  
 
 ### Artikel  426  
 
@@ -5266,7 +5261,7 @@ De voorziening voor winstdeling en kortingen van een verzekeringsmaatschappij om
 
 ### Artikel  447 
 
-1.  Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een statutair in Nederland gevestigde effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het jaarverslag of de daaraan toe te voegen overige gegevens in te richten overeenkomstig door haar te geven aanwijzingen. 
+1.  Op verzoek van degenen die krachtens artikel 448 daartoe bevoegd zijn, kan de ondernemingskamer van het gerechtshof Amsterdam aan een rechtspersoon of vennootschap als bedoeld in artikel 360 waarop deze titel van toepassing is, een statutair in Nederland gevestigde effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving of een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht bevelen de jaarrekening, het bestuursverslag, de daaraan toe te voegen overige gegevens of het verslag, bedoeld in artikel 392a, in te richten overeenkomstig door haar te geven aanwijzingen. 
 2.  Het verzoek kan slechts worden ingediend op de grond dat de verzoeker van oordeel is dat de in het eerste lid bedoelde stukken niet voldoen aan de bij of krachtens artikel 3 van verordening (EG) 1606/2002 van het Europees Parlement en de Raad van de Europese Unie van 19 juli 2002 betreffende de toepassing van internationale standaarden voor jaarrekeningen (PbEG L 243), deze titel, onderscheidenlijk de Wet op het financieel toezicht gestelde voorschriften. Het verzoekschrift vermeldt in welk opzicht de stukken herziening behoeven. 
 3.  Het verzoek heeft geen betrekking op een accountantsverklaring als bedoeld in artikel 393 lid 5.
 
@@ -5277,11 +5272,11 @@ De voorziening voor winstdeling en kortingen van een verzekeringsmaatschappij om
 a. iedere belanghebbende;
 
 b. de advocaat-generaal bij het ressortsparket in het openbaar belang. 
-2.  Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde.
+2.  Tot het indienen van het verzoek is voorts bevoegd de Stichting Autoriteit Financiële Markten, voor zover het stukken betreft die betrekking hebben op een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en met inachtneming van het in artikel 4 van die wet bepaalde. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a.
 
 ### Artikel  449 
 
-1.  Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn negen maanden. 
+1.  Het in artikel 447 bedoelde verzoek wordt ingediend binnen twee maanden na de dag waarop de jaarrekening is vastgesteld of het verslag, bedoeld in artikel 392a, is neergelegd ten kantore van het handelsregister. Indien het in artikel 447 bedoelde verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving bedraagt de in de eerste volzin bedoelde termijn negen maanden. 
 2.  Het verzoek omtrent de jaarrekening die niet is vastgesteld, kan worden gedaan tot twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag der nederlegging van de jaarrekening ten kantore van het handelsregister. Indien na de dag der nederlegging de jaarrekening alsnog wordt vastgesteld, dan eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag waarop uit een neergelegde mededeling of uit de neergelegde jaarrekening blijkt van die vaststelling. 
 3.  Indien een bericht als bedoeld in artikel 3, tweede lid, van de Wet toezicht financiële verslaggeving algemeen verkrijgbaar is gesteld, dan eindigt de termijn twee maanden na de dag waarop dit bericht algemeen verkrijgbaar is gesteld op de bij of krachtens dat artikel voorgeschreven wijze, doch niet eerder dan de termijnen, bedoeld lid 1 en lid 2. 
 4.  Ter zake van tekortkomingen die niet uit de stukken blijken, eindigt de termijn twee maanden of, voor zover het een effectenuitgevende instelling betreft als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving, negen maanden na de dag waarop de indiener van het verzoek daarvan in redelijkheid niet meer onkundig kon zijn, maar uiterlijk twee jaar na verloop van de termijn ingevolge de vorige leden.
@@ -5291,15 +5286,15 @@ b. de advocaat-generaal bij het ressortsparket in het openbaar belang.
 1.  De ondernemingskamer behandelt het in artikel 447 bedoelde verzoek met de meeste spoed. De zaak zal met gesloten deuren worden behandeld; de uitspraak geschiedt in het openbaar. 
 2.  Bij de bepaling van de dag waarop de behandeling aanvangt bepaalt de ondernemingskamer tevens een termijn waarbinnen de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, een verweerschrift kan indienen. 
 3.  Onverminderd de leden 4 tot en met 8 worden andere belanghebbenden dan de rechtpersoon, vennootschap, effectenuitgevende instelling of beleggingsinstelling, bedoeld in artikel 447, lid 1, waarop het verzoek betrekking heeft, niet opgeroepen en kunnen zij geen verweerschrift indienen. 
-4.  Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken. 
-5.  De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
+4.  Indien het verzoek wordt gedaan ten aanzien van een effectenuitgevende instelling als bedoeld in artikel 1, onderdeel b, van de Wet toezicht financiële verslaggeving en het verzoek niet is gedaan door de Stichting Autoriteit Financiële Markten, wordt deze in de gelegenheid gesteld te worden gehoord over de in het verzoek genoemde onderwerpen en, indien artikel 194 van het Wetboek van Burgerlijke rechtsvordering toepassing heeft gevonden, in de gelegenheid gesteld haar mening over het deskundigenbericht aan de ondernemingskamer kenbaar te maken. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a. 
+5.  De ondernemingskamer beslist niet dan nadat zij de accountant die met het onderzoek van de jaarrekening is belast geweest, in de gelegenheid heeft gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. Dit is niet van toepassing indien het verzoek betrekking heeft op een verslag als bedoeld in artikel 392a. 
 6. De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een verzekeraar of bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder dat De Nederlandsche Bank N.V. of de Europese Centrale Bank, indien deze bevoegd is toezicht uit te oefenen op grond van de artikelen 4 en 6 van de verordening bankentoezicht, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, in de gelegenheid is gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
 7.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsonderneming als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen. 
 8.  De ondernemingskamer geeft, indien het verzoek wordt gedaan ten aanzien van een beleggingsinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geen beslissing zonder De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten in de gelegenheid te hebben gesteld te worden gehoord over de in het verzoek genoemde onderwerpen.
 
 ### Artikel  451 
 
-1.  Indien de ondernemingskamer het in artikel 447 bedoelde verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het jaarverslag of de overige gegevens moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen. 
+1.  Indien de ondernemingskamer het in artikel 447 bedoelde verzoek toewijst, geeft zij aan de rechtspersoon, vennootschap, of instelling een bevel omtrent de wijze waarop deze de jaarrekening, het bestuursverslag, de daaraan toe te voegen overige gegevens of het verslag, bedoeld in artikel 392a, moet inrichten. Het bevel bevat daaromtrent nauwkeurige aanwijzingen. 
 2.  De rechtspersoon, vennootschap of instelling is verplicht de stukken met inachtneming van het bevel op te maken en voor zover het de jaarrekening betreft, te besluiten omtrent de vaststelling. 
 3.  De ondernemingskamer kan, ook ambtshalve, beslissen dat het bevel mede of uitsluitend een of meer toekomstige stukken betreft. 
 4.  Indien het bevel betrekking heeft op de jaarrekening waarop het verzoek ziet, kan de ondernemingskamer het besluit tot vaststelling van die jaarrekening vernietigen. De ondernemingskamer kan de gevolgen van de vernietiging beperken. 

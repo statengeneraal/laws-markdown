@@ -3,12 +3,12 @@
 ##Besluit mandaat, volmacht en machtiging voorzitter en plaatsvervangend voorzitter Regionaal Beheersteam Noordzeerampen
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 5, eerste lid](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), [6, eerste lid](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), en [9 van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md);
+Gelet op de artikelen 5, eerste lid, 6, eerste lid, en 9 van de Wet bestrijding ongevallen Noordzee;
 Besluit:    
 
 ### Artikel  1  
 
-1.  De bevoegdheid van de Minister van Infrastructuur en Milieu, voortvloeiend uit de [artikelen 5, eerste lid](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), [6, eerste lid](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), en [9 van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), wordt gemandateerd aan de voorzitter en de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen, vastgesteld bij het [Besluit Incidentbestrijdingsplan Noordzee](../../../../../../../../../../../ministeriele-regeling/besluit/incidentbestrijdingsplan/noordzee/BWBR0031454/README.md).   
+1.  De bevoegdheid van de Minister van Infrastructuur en Milieu, voortvloeiend uit de artikelen 5, eerste lid, 6, eerste lid, en 9 van de Wet bestrijding ongevallen Noordzee, wordt gemandateerd aan de voorzitter en de plaatsvervangend voorzitter van het Regionaal Beheersteam Noordzeerampen, vastgesteld bij het Besluit Incidentbestrijdingsplan Noordzee.   
 2.  Aan de functionarissen genoemd in het eerste lid, wordt tevens volmacht en machtiging verleend ten aanzien van het bepaalde in het eerste lid.  
 
 ### Artikel  2  
@@ -20,7 +20,7 @@ Besluit:
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag waarop het [Besluit Rampenplan voor de Noordzee 2009](../../../../../../../../../../../KB/besluit/rampenplan/voor/de/noordzee/2009/BWBR0026735/README.md) in werking treedt. 
+Dit besluit treedt in werking met ingang van de dag waarop het Besluit Rampenplan voor de Noordzee 2009 in werking treedt. 
 Dit besluit zal met de daarbij behorende toelichting in de Staatscourant worden geplaatst.  
 
 De 

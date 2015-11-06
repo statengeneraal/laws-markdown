@@ -5,12 +5,12 @@
 De Minister van Infrastructuur en Milieu,  
 Handelend in overeenstemming met de Ministers van Defensie, Economische Zaken, Landbouw en Innovatie, Financiën, Veiligheid en Justitie alsmede Volksgezondheid, Welzijn en Sport,
 
-Gelet op [artikel 11, eerste lid, van de Wet bestrijding ongevallen Noordzee](../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md);
+Gelet op artikel 11, eerste lid, van de Wet bestrijding ongevallen Noordzee;
 Besluit:    
 
 ### Artikel  1  
 
-De bestrijding van schadelijke gevolgen van ongevallen, bedoeld in [artikel 11, eerste lid, van de Wet bestrijding ongevallen Noordzee](../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), wordt georganiseerd en gecoördineerd overeenkomstig het Incidentbestrijdingsplan Noordzee, dat als bijlage bij dit besluit is gevoegd. 
+De bestrijding van schadelijke gevolgen van ongevallen, bedoeld in artikel 11, eerste lid, van de Wet bestrijding ongevallen Noordzee, wordt georganiseerd en gecoördineerd overeenkomstig het Incidentbestrijdingsplan Noordzee, dat als bijlage bij dit besluit is gevoegd. 
 
 ### Artikel  2  
 

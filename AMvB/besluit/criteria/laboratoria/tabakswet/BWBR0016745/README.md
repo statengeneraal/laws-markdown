@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 9 maart 2004, kenmerk POG/GB 2.458.332;
 
-Gelet op artikel 4 van de richtlijn 2001/37/EG van het Europees Parlement en de Raad van de Europese Unie van 5 juni 2001 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaksproducten (PbEG L194), alsmede [artikel 3d van de Tabakswet](../../../../../../wet/tabakswet/BWBR0004302/README.md);
+Gelet op artikel 4 van de richtlijn 2001/37/EG van het Europees Parlement en de Raad van de Europese Unie van 5 juni 2001 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de productie, de presentatie en de verkoop van tabaksproducten (PbEG L194), alsmede artikel 3d van de Tabakswet;
 
 De Raad van State gehoord (advies van 16 april 2004, no. W13.04.0107/III);
 
@@ -23,9 +23,9 @@ b. de richtlijn: richtlijn 2001/37/EG van het Europees Parlement en de Raad van 
 
 ### Artikel  2  
 
-1.  Tot het verrichten van metingen en onderzoekingen als bedoeld in [artikel 3c, eerste en tweede lid, van de Tabakswet](../../../../../../wet/tabakswet/BWBR0004302/README.md) zijn uitsluitend bevoegd de laboratoria die als zodanig zijn aangewezen of erkend door Onze Minister.   
+1.  Tot het verrichten van metingen en onderzoekingen als bedoeld in artikel 3c, eerste en tweede lid, van de Tabakswet zijn uitsluitend bevoegd de laboratoria die als zodanig zijn aangewezen of erkend door Onze Minister.   
 2.  Voor aanwijzing of erkenning komen in aanmerking laboratoria waaraan accreditatie krachtens NEN-EN-ISO/IEC 17025 is verleend.   
-3.  Aanwijzing als laboratorium dat bevoegd is tot het verrichten van metingen en onderzoekingen als bedoeld in [artikel 3c, tweede lid, van de Tabakswet](../../../../../../wet/tabakswet/BWBR0004302/README.md) is voorbehouden aan laboratoria die deel uitmaken van het Rijk.   
+3.  Aanwijzing als laboratorium dat bevoegd is tot het verrichten van metingen en onderzoekingen als bedoeld in artikel 3c, tweede lid, van de Tabakswet is voorbehouden aan laboratoria die deel uitmaken van het Rijk.   
 4.  Onze Minister verleent een erkenning op aanvraag. Aan de erkenning kunnen voorschriften worden verbonden, die gericht zijn op het waarborgen van de kwaliteit en de onafhankelijkheid van de metingen en onderzoekingen.   
 5.  Een erkenning kan worden ingetrokken als niet langer aan de eisen, bedoeld in het vierde lid, wordt voldaan.  
 

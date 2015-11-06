@@ -3,7 +3,7 @@
 ##Regeling methoden van onderzoek ten aanzien van teer-, nicotine- en koolmonoxidegehaltes in sigaretten en shag
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van het Aanduidingenbesluit tabaksproducten](../../../../../../../../../../../../../AMvB/aanduidingenbesluit/tabaksprodukten/BWBR0006920/README.md), alsmede op [artikel 4 van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag](../../../../../../../../../../../../../AMvB/besluit/teergehalte/sigaretten/BWBR0006531/README.md);
+Gelet op artikel 3 van het Aanduidingenbesluit tabaksproducten, alsmede op artikel 4 van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag;
 Besluit:     
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ a.  ISO 4387 voor teer;
 b.  ISO 10315 voor nicotine; 
 
 c.  ISO 8454 voor koolmonoxide.    
-2.  De juistheid van de maximumgehaltes en van de vermeldingen inzake teer, nicotine en koolmonoxide op de sigarettenpakjes, bedoeld in [artikel 2 van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag](../../../../../../../../../../../../../AMvB/besluit/teergehalte/sigaretten/BWBR0006531/README.md) en in [artikel 1, derde lid, onder a, b en c van het Aanduidingenbesluit tabaksproducten](../../../../../../../../../../../../../AMvB/aanduidingenbesluit/tabaksprodukten/BWBR0006920/README.md), wordt geverifieerd aan de hand van ISO-norm 8243.   
+2.  De juistheid van de maximumgehaltes en van de vermeldingen inzake teer, nicotine en koolmonoxide op de sigarettenpakjes, bedoeld in artikel 2 van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag en in artikel 1, derde lid, onder a, b en c van het Aanduidingenbesluit tabaksproducten, wordt geverifieerd aan de hand van ISO-norm 8243.   
 
 ###Artikel 2 
 
@@ -24,7 +24,7 @@ c.  ISO 8454 voor koolmonoxide.
 a.NEN/ISO 15592-3 voor teer, gemeten met behulp van een shagje met 750 mg tabak, waarbij, in afwijking van Annex B, tabel B.1, een standaard type papier wordt gebruikt als bedoeld in het derde lid;
 
 b.ISO 10315 voor nicotine, gemeten met behulp van een shagje met 750 mg tabak, waarbij een standaard type papier wordt gebruikt als bedoeld in het derde lid.
-2. De juistheid van het maximum gehalte aan teer, bedoeld in [artikel 3, eerste lid, van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag](../../../../../../../../../../../../../AMvB/besluit/teergehalte/sigaretten/BWBR0006531/README.md) en van de vermeldingen inzake teer en nicotine op shagverpakkingen, bedoeld in [artikel 1, vierde lid, onder a en b, van het Aanduidingenbesluit tabaksproducten](../../../../../../../../../../../../../AMvB/aanduidingenbesluit/tabaksprodukten/BWBR0006920/README.md) wordt geverifieerd aan de hand van ISO 15592-1.
+2. De juistheid van het maximum gehalte aan teer, bedoeld in artikel 3, eerste lid, van het Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag en van de vermeldingen inzake teer en nicotine op shagverpakkingen, bedoeld in artikel 1, vierde lid, onder a en b, van het Aanduidingenbesluit tabaksproducten wordt geverifieerd aan de hand van ISO 15592-1.
 3. Het type vloeipapier als bedoeld in het eerste lid, onder a en b, voldoet aan de volgende specificaties:
 
 |--- |Eenheid |Nieuw type papier |Testmethode |

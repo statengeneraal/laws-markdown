@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 21 februari 2003, kenmerk POG/GB 2.358.163;
 
-Gelet op [artikel 9, vierde lid, van de Tabakswet](../../../../wet/tabakswet/BWBR0004302/README.md);
+Gelet op artikel 9, vierde lid, van de Tabakswet;
 
 De Raad van State gehoord (advies van 6 juni 2003, nummer W13.03.0074/III);
 

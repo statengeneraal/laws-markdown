@@ -13,7 +13,7 @@ Overwegende, dat de Nederlandse regelgeving die uitvoering gaf aan vorengenoemde
 
 Overwegende, dat uitvoering moet worden gegeven aan de Eerste Richtlijn van de Commissie van de Europese Gemeenschappen tot vaststelling van communautaire methoden voor chemisch onderzoek met het oog op de controle op verduurzaamde melkprodukten (897/524/EEG) (PbEG L 306);
 
-Gelet op [artikel 26, derde lid, van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) (Stb. 1988, 360);
+Gelet op artikel 26, derde lid, van de Warenwet (Stb. 1988, 360);
 Besluit:     
 ### Paragraaf  1  
 
@@ -25,11 +25,11 @@ Besluit:
 2.  In de gevallen waar de grootte van de partij, de wijze van verpakking of de aard der te bemonsteren waar een dergelijke dooreenmenging bezwaarlijk maakt, worden van verschillende plaatsen der partij voetstoots kleine gedeelten genomen, waaruit het monster wordt samengesteld, of waaruit, na zorgvuldige menging, het monster wordt genomen.   
 3.  Van partijen, bestaande uit al dan niet verpakte consumenteneenheden, kunnen verschillende eenheden genomen worden, waaruit het monster wordt samengesteld.   
 4.  Monsters bestemd voor bacteriologisch onderzoek moeten, voor zover dit mogelijk is, in oorspronkelijke verpakking worden genomen; waar dit niet mogelijk is, dienen zij genomen te worden onder de voor dat doel gebruikelijke voorzorgen.   
-5.  De grootte der te nemen monsters die in de eerste plaats afhankelijk is van de aard van het in te stellen onderzoek, blijkt uit de voor de desbetreffende waar of het desbetreffende onderzoek vastgestelde methode van onderzoek. Bij gebreke van een dergelijk specifiek voorschrift wordt de grootte van het monster vastgesteld door of namens de directeur van de krachtens [artikel 25 van de Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) aangewezen toezichthoudende instelling.  
+5.  De grootte der te nemen monsters die in de eerste plaats afhankelijk is van de aard van het in te stellen onderzoek, blijkt uit de voor de desbetreffende waar of het desbetreffende onderzoek vastgestelde methode van onderzoek. Bij gebreke van een dergelijk specifiek voorschrift wordt de grootte van het monster vastgesteld door of namens de directeur van de krachtens artikel 25 van de Warenwet aangewezen toezichthoudende instelling.  
 
 ### Artikel  1a  
 
-Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belanghebbende mede dat hij, voor zover dat technisch uitvoerbaar is, recht heeft op een tweede monster als bedoeld in [artikel 5:18, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), dan wel in [artikel 21, derde lid, van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md). 
+Bij monsterneming van een eet- of drinkwaar deelt de controleambtenaar de belanghebbende mede dat hij, voor zover dat technisch uitvoerbaar is, recht heeft op een tweede monster als bedoeld in artikel 5:18, derde lid, van de Algemene wet bestuursrecht, dan wel in artikel 21, derde lid, van de Wet op de economische delicten. 
 
 ### Artikel  2  
 
@@ -107,7 +107,7 @@ de bovenste en onderste hoeken van de voorzijde van de lading.
 
 ### Artikel  5d  
 
-Onverminderd artikel 5c mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de [Warenwetregeling Diepgevroren levensmiddelen](../../../../ministeriele-regeling/warenwetregeling/diepgevroren/levensmiddelen/BWBR0005825/README.md) is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. 
+Onverminderd artikel 5c mogen voor de daar bedoelde controle ook andere wetenschappelijk-adequate methoden worden gebruikt, onder de voorwaarde dat het vrije verkeer van diepgevroren levensmiddelen, waarvan aan de hand van de Warenwetregeling Diepgevroren levensmiddelen is aangetoond dat zij aan de desbetreffende voorschriften voldoen, hierdoor niet wordt belemmerd. 
 
 ### Paragraaf 5  
 
@@ -115,7 +115,7 @@ Onverminderd artikel 5c mogen voor de daar bedoelde controle ook andere wetensch
 
 ### Artikel  5e  
 
-De monsternemingsmethoden voor de chemische analyse van caseïne en caseïnaten, bedoeld in de [Warenwetregeling Melkeiwitten (caseïne en caseïnaten)](../../../../ministeriele-regeling/warenwetregeling/melkeiwitten/(caseïne/en/caseïnaten)/BWBR0007075/README.md), zijn opgenomen in de eerste Richtlijn nr. 86/424/EEG van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243). 
+De monsternemingsmethoden voor de chemische analyse van caseïne en caseïnaten, bedoeld in de Warenwetregeling Melkeiwitten (caseïne en caseïnaten), zijn opgenomen in de eerste Richtlijn nr. 86/424/EEG van de Commissie van de Europese Gemeenschappen van 15 juli 1986 tot vaststelling van de bemonsteringsmethoden voor chemische analyse van caseïne en caseïnaten (PbEG L 243). 
 
 ###Paragraaf 6 
 

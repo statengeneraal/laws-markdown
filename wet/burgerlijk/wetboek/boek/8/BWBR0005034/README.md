@@ -2236,6 +2236,59 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 Vervallen per 01-01-2013 
 
+### Afdeling  6  
+
+####Aansprakelijkheid voor de kosten van het lokaliseren, markeren en opruimen van een wrak
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  655  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In deze afdeling wordt verstaan onder: 
+
+a.  *«Verdrag»:* het op 18 mei 2007 te Nairobi tot stand gekomen Internationaal Verdrag inzake het opruimen van wrakken, 2007 (Trb. 2008,115);  
+
+b.  *«wrak», «schip», «maritiem ongeval», «gevaar», «geregistreerde eigenaar», «Staat waar het schip geregistreerd is»:* hetgeen daaronder wordt verstaan in artikel 1 van het Verdrag;  
+
+c.  *«lokaliseren, markeren en opruimen»:* hetgeen daaronder wordt verstaan in het Verdrag.   
+
+### Artikel  656  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De geregistreerde eigenaar is, behoudens het bepaalde in deze afdeling, aansprakelijk voor de kosten van het lokaliseren, markeren en opruimen van het wrak overeenkomstig de paragrafen 2.3 en 2.4 van hoofdstuk 2, waar nodig in samenhang met hoofdstuk 5, van de Wet bestrijding maritieme ongevallen.   
+2.  De geregistreerde eigenaar is niet op grond van deze afdeling aansprakelijk indien hij bewijst dat het maritiem ongeval dat tot het wrak geleid heeft: 
+
+a. het gevolg is van een oorlogshandeling, vijandelijkheden, burgeroorlog, opstand of een natuurverschijnsel van uitzonderlijke, onvermijdelijke en onweerstaanbare aard;  
+
+b. in zijn geheel is veroorzaakt door een handelen of nalaten door een derde met het oogmerk schade te veroorzaken; of  
+
+c. in zijn geheel is veroorzaakt door nalatigheid of een andere onrechtmatige daad van een overheid of andere autoriteit die verantwoordelijk is voor het onderhoud van verlichting of andere navigatiehulpmiddelen bij de uitoefening van die taak.     
+3.  Niets in deze afdeling tast het recht aan van de geregistreerde eigenaar zijn aansprakelijkheid te beperken uit hoofde van titel 7.   
+4.  Geen vordering tot vergoeding van de kosten bedoeld in het eerste lid kan tegen de geregistreerde eigenaar worden ingesteld anders dan in overeenstemming met de bepalingen van deze afdeling.   
+5.  Geen bepaling van dit artikel doet afbreuk aan enig recht van verhaal tegenover derden.  
+
+### Artikel  657  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De geregistreerde eigenaar is uit hoofde van deze afdeling niet aansprakelijk voor de kosten bedoeld in artikel 656, eerste lid, indien en voor zover de aansprakelijkheid voor dergelijke kosten in strijd zou zijn met: 
+
+a. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969, zoals gewijzigd;  
+
+b. het Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996, zoals gewijzigd;  
+
+c. het Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, 1960, zoals gewijzigd, of het Verdrag van Wenen inzake wettelijke aansprakelijkheid voor kernschade, 1963, zoals gewijzigd; of nationaal recht dat beperking van de aansprakelijkheid voor kernschade regelt of verbiedt; of  
+
+d. het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, 2001, zoals gewijzigd;   mits het desbetreffende verdrag van toepassing en van kracht is.   
+2.  Voor zover maatregelen uit hoofde van de Wet bestrijding maritieme ongevallen worden aangemerkt als hulpverlening overeenkomstig het op 28 april 1989 te Londen tot stand gekomen Internationaal Verdrag inzake hulpverlening, is dat verdrag van toepassing op kwesties omtrent het loon of de vergoeding verschuldigd aan de hulpverlener en met uitsluiting van de regels van deze afdeling.  
+
+### Artikel  658  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Vorderingen tot vergoeding van kosten als bedoeld in artikel 656, eerste lid, kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar voor kosten bedoeld in artikel 656, eerste lid. In dit geval kan de verweerder, zelfs indien de geregistreerde eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 26 van de Wet bestrijding maritieme ongevallen.   
+2.  De verweerder komen alle verweermiddelen toe welke de geregistreerde eigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de geregistreerde eigenaar surseance van betaling is verleend, dat ten aanzien van de geregistreerde eigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de geregistreerde eigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de kosten zijn veroorzaakt door opzettelijk wangedrag van de geregistreerde eigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de geregistreerde eigenaar tegen hem ingestelde vordering komen hem niet toe.   
+3.  De verweerder kan de geregistreerde eigenaar steeds in het geding roepen.  
+
 ### Titel  7  
 
 ####Beperking van aansprakelijkheid voor maritieme vorderingen 
@@ -5459,7 +5512,7 @@ Ten einde zich te kunnen beroepen op de in artikel 1678 bedoelde beperking van a
 
 ####Slotbepalingen 
 
-###Titel 20 
+### Titel  20  
 
 ####Verjaring en verval 
 
@@ -5772,6 +5825,17 @@ Een rechtsvordering tot vergoeding van schade uit hoofde van de afdelingen 4 van
 ### Artikel  1833a  
 
 Een rechtsvordering tot vergoeding van schade uit hoofde van afdeling 5 van titel 6 vervalt door verloop van drie jaren na de aanvang van de dag waarop de schade is ontstaan en in ieder geval door verloop van zes jaren na de gebeurtenis waardoor de schade is ontstaan. Indien de gebeurtenis bestond uit een opeenvolging van feiten met dezelfde oorzaak, loopt de termijn van zes jaren vanaf de dag waarop het eerste van die feiten plaatsvond. 
+
+### Afdeling  12a  
+
+####Vorderingen ter zake van kosten van het lokaliseren, markeren en opruimen van een wrak
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  1833b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het recht kosten uit hoofde van afdeling 6 van titel 6 te verhalen vervalt wanneer niet binnen drie jaar na de datum waarop het gevaar is vastgesteld in overeenstemming met afdeling 6 van titel 6 een vordering wordt ingesteld. In geen geval kunnen vorderingen echter worden ingesteld na zes jaar na de datum van het maritiem ongeval dat tot het wrak heeft geleid. Indien het maritiem ongeval bestaat uit een reeks feiten, loopt de termijn van zes jaar vanaf de datum van het eerste feit. 
 
 ###Afdeling 13 
 

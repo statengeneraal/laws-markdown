@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-1.   Deze regeling geeft uitvoering aan de artikelen 1a, derde lid, 2a, eerste lid, onderdelen l en m, en tweede lid, 5a, vierde en vijfde lid, 7, derde en vierde lid, 8, zevende lid, 11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p en v, 15, eerste lid, onderdeel c, onder 1°, derde en zesde lid, 17e, 21, 23, eerste lid, 24, tweede lid, 25, tweede, derde en zesde lid, 26, 27, negende lid, 28d, 28i, 28p, 28zb, vierde lid, 31, zevende lid, 32f, tweede lid, 32h, 32i, 34, eerste, tweede, derde en vierde lid, 34c, tweede lid, 34e, 35a, zesde lid, en 37d, van de Wet op de omzetbelasting 1968, onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I, onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II, artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, artikel 62 van de Algemene wet inzake rijksbelastingen, alsmede de artikelen 4, eerste lid, onderdeel c, 9, derde lid, 12, vijfde lid, 13, 24b, achtste lid, 24ba, tweede lid, en 24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968.    
+1.  Deze regeling geeft uitvoering aan de artikelen 1a, derde lid, 2a, eerste lid, onderdelen l en m, en tweede lid, 5a, vierde en vijfde lid, 7, derde en vierde lid, 8, zevende lid, 11, eerste lid, onderdelen a, onder 2°, b, onder 5°, p en v, 15, eerste lid, onderdeel c, onder 1°, derde en zesde lid, 17e, 21, 23, eerste lid, 24, tweede lid, 25, tweede, derde en zesde lid, 26, 27, negende lid, 28d, 28i, 28p, 28zb, vierde lid, 31, zevende lid, 32f, tweede lid, 32h, 32i, 34, eerste, tweede, derde en vierde lid, 34c, tweede lid, 34e, 35a, zesde lid, en 37d, van de Wet op de omzetbelasting 1968, onderdeel a, posten 31, 32 en 35, van de bij die wet behorende tabel I, onderdeel a, posten 7 en 8, van de bij die wet behorende tabel II, artikel II van de wet van 23 december 1994 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een bijzondere regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, artikel 62 van de Algemene wet inzake rijksbelastingen, alsmede de artikelen 4, eerste lid, onderdeel c, 9, derde lid, 12, vijfde lid, 13, 24b, achtste lid, 24ba, tweede lid, en 24c, derde lid, onderdeel c, van het Uitvoeringsbesluit omzetbelasting 1968.    
 2.  Deze regeling verstaat onder: 
 
 a. *wet: * Wet op de omzetbelasting 1968;  
@@ -28,8 +28,8 @@ c. *belasting:* omzetbelasting.
 a. op de datum van dagtekening van de beschikking bedoeld in het derde lid van dat artikel; dan wel   
 
 b. indien degene die het verzoek indient zulks wenst, op een in het verzoek aangegeven latere datum.      
-2.   De wederopzegging als bedoeld in artikel 1a, derde lid, tweede volzin, van de wet, dient schriftelijk te geschieden.    
-3.   De inspecteur stelt de datum met ingang waarvan na de wederopzegging artikel 1a, tweede lid, van de wet, wederom van toepassing is, vast, met inachtneming van het derde lid, tweede volzin, van dat artikel, op 1 januari van het jaar volgend op dat waarin de wederopzegging is ontvangen.  
+2.  De wederopzegging als bedoeld in artikel 1a, derde lid, tweede volzin, van de wet, dient schriftelijk te geschieden.    
+3.  De inspecteur stelt de datum met ingang waarvan na de wederopzegging artikel 1a, tweede lid, van de wet, wederom van toepassing is, vast, met inachtneming van het derde lid, tweede volzin, van dat artikel, op 1 januari van het jaar volgend op dat waarin de wederopzegging is ontvangen.  
 
 ###Artikel 1b 
 
@@ -63,12 +63,12 @@ d. de overige lidstaten: het in euro's luidende bedrag zoals dat in die lidstate
 
 ### Artikel  2b  
 
-1.   De inspecteur stelt de datum met ingang waarvan ingevolge artikel 5a, vijfde lid, eerste volzin, van de wet, het vierde lid van dat artikel niet van toepassing is, vast: 
+1.  De inspecteur stelt de datum met ingang waarvan ingevolge artikel 5a, vijfde lid, eerste volzin, van de wet, het vierde lid van dat artikel niet van toepassing is, vast: 
 
 a. op de datum van dagtekening van de beschikking bedoeld in het vijfde lid van dat artikel; dan wel  
 
 b. indien degene die het verzoek indient zulks wenst, op een in het verzoek aangegeven latere datum.     
-2.   De wederopzegging als bedoeld in artikel 5a, vijfde lid, tweede volzin, van de wet, dient schriftelijk te geschieden.   
+2.  De wederopzegging als bedoeld in artikel 5a, vijfde lid, tweede volzin, van de wet, dient schriftelijk te geschieden.   
 3.  De inspecteur stelt de datum met ingang waarvan na de wederopzegging artikel 5a, vierde lid, van de wet, wederom van toepassing is, vast, met inachtneming van het vijfde lid, tweede volzin, van dat artikel, op 1 januari van het jaar volgend op dat waarin de wederopzegging is ontvangen.   
 
 ### Hoofdstuk  II  
@@ -81,14 +81,14 @@ Publiekrechtelijke lichamen worden als ondernemer aangemerkt met betrekking tot 
 
 ### Artikel  3a  
 
-1.   Bij vorming van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet, wordt de fiscale eenheid voor het berekenen van de door haar verschuldigde belasting geacht in de plaats te zijn getreden van de natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die de fiscale eenheid vormen.   
+1.  Bij vorming van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet, wordt de fiscale eenheid voor het berekenen van de door haar verschuldigde belasting geacht in de plaats te zijn getreden van de natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die de fiscale eenheid vormen.   
 2.  Bij beëindiging van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet, worden de natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die de fiscale eenheid vormden, voor het berekenen van de door hen verschuldigde belasting geacht in de plaats te zijn getreden van de fiscale eenheid, voor het deel dat tot hun bedrijfsvermogen behoort.   
-3.   Bij wijziging van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet: 
+3.  Bij wijziging van een fiscale eenheid als bedoeld in artikel 7, vierde lid, van de wet: 
 
 a. is bij toetreding van een natuurlijk persoon of lichaam in de zin van de Algemene wet inzake rijksbelastingen tot de fiscale eenheid, het eerste lid van overeenkomstige toepassing; en  
 
 b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de Algemene wet inzake rijksbelastingen uit de fiscale eenheid, het tweede lid van overeenkomstige toepassing.     
-4.   De voorgaande leden gelden niet voor de toepassing van artikel 4c, derde en vierde lid.  
+4.  De voorgaande leden gelden niet voor de toepassing van artikel 4c, derde en vierde lid.  
 
 ### Hoofdstuk  III  
 
@@ -96,8 +96,8 @@ b. is bij uittreding van een natuurlijk persoon of lichaam in de zin van de Alge
 
 ### Artikel  4  
 
-1.   Als edele metalen en edelstenen als bedoeld in artikel 2a, eerste lid, onderdeel 1, van de wet, worden aangewezen onbewerkte edele metalen (GN-code 7106, 7108, 7110 en 7112) en onbewerkte edelstenen (GN-code 7102, 7103).   
-2.   Als kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten als bedoeld in artikel 2a, eerste lid, onderdeel m, van de wet, worden aangewezen de in bijlage J bedoelde goederen.  
+1.  Als edele metalen en edelstenen als bedoeld in artikel 2a, eerste lid, onderdeel 1, van de wet, worden aangewezen onbewerkte edele metalen (GN-code 7106, 7108, 7110 en 7112) en onbewerkte edelstenen (GN-code 7102, 7103).   
+2.  Als kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten als bedoeld in artikel 2a, eerste lid, onderdeel m, van de wet, worden aangewezen de in bijlage J bedoelde goederen.  
 
 ### Artikel  4a  
 
@@ -116,7 +116,7 @@ e. de hoeveelheid van de geleverde goederen;
 f. het bedrag dat aan de leverancier ter zake van de levering is of moet worden voldaan;  
 
 g. een verklaring van de leverancier dat hij ter zake van de levering aan hem van het goed in het geheel geen belasting in aftrek heeft gebracht.     
-2.   De wederverkoper is verplicht een dubbel van de uitgereikte inkoopverklaring te bewaren.   
+2.  De wederverkoper is verplicht een dubbel van de uitgereikte inkoopverklaring te bewaren.   
 3.  Het eerste lid is niet van toepassing: 
 
 a. ingeval het bedrag dat aan de leverancier moet worden voldaan minder dan € 500 bedraagt;  
@@ -125,18 +125,18 @@ b. ingeval de leverancier ingevolge artikel 34c van de wet een factuur uitreikt;
 
 c. ingeval de inkoop van een goed door de wederverkoper gelijktijdig plaatsvindt met de levering door hem van een ander goed aan de leverancier en de wederverkoper een factuur uitreikt die voldoet aan de in de wet gestelde voorwaarden, mits de factuur tevens voldoet aan het bepaalde in het eerste lid.    
 
-###Artikel 4b 
+### Artikel  4b  
 
-1.  Ingeval van inwilliging van het in artikel 28c, eerste lid, van de wet bedoelde verzoek, is de wederverkoper de belasting die hij in aftrek heeft gebracht:
+1.  Ingeval van inwilliging van het in artikel 28c, eerste lid, van de wet bedoelde verzoek, is de wederverkoper de belasting die hij in aftrek heeft gebracht: 
 
-a.ter zake van de levering en invoer van goederen als bedoeld in het eerste lid, onderdelen a en b, van dat artikel; of
+a. ter zake van de levering en invoer van goederen als bedoeld in het eerste lid, onderdelen a en b, van dat artikel; of  
 
-b.met toepassing van het tweede lid van dit artikel;alsnog verschuldigd in het eerste belastingtijdvak waarin artikel 28c van de wet toepassing vindt.
-2. Ingeval van een wederopzegging als bedoeld in artikel 28c, tweede lid, van de wet, kan de ondernemer de belasting die hij:
+b. met toepassing van het tweede lid van dit artikel;   alsnog verschuldigd in het eerste belastingtijdvak waarin artikel 28c van de wet toepassing vindt.   
+2.  Ingeval van een wederopzegging als bedoeld in artikel 28c, tweede lid, van de wet, kan de ondernemer de belasting die hij: 
 
-a.ingevolge artikel 28e, onderdeel b, van de wet niet in aftrek heeft gebracht; of
+a. ingevolge artikel 28e, onderdeel b, van de wet niet in aftrek heeft gebracht; of  
 
-b.met toepassing van het eerste lid van dit artikel verschuldigd is geworden;alsnog in aftrek brengen in het eerste belastingtijdvak waarin die wederopzegging toepassing vindt.
+b. met toepassing van het eerste lid van dit artikel verschuldigd is geworden;   alsnog in aftrek brengen in het eerste belastingtijdvak waarin die wederopzegging toepassing vindt.  
 
 ### Artikel  4c  
 
@@ -163,10 +163,10 @@ a. ter zake van leveringen door wederverkopers van de volgende goederen alsmede 
 9°. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten;    
 
 b. ter zake van leveringen door wederverkopers van andere goederen dan die bedoeld in onderdeel a, ingeval het onmogelijk of ongebruikelijk is om de goederen administratief van inkoop tot verkoop te volgen of om de aankoopprijs van een partij goederen te splitsen in aankoopprijzen voor elk afzonderlijk goed, mits de wederverkoper op een daartoe gedaan verzoek door de inspecteur is aangewezen.     
-2.   Het eerste lid is niet van toepassing ten aanzien van veilinghouders.   
-3.   Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van wederverkopers die daarvan schriftelijk kennis geven aan de inspecteur. Deze regeling mag slechts worden toegepast met ingang van het kalenderjaar volgend op dat van de kennisgeving en geldt tot wederopzegging met ingang van een kalenderjaar na die wederopzegging, doch voor ten minste vijf kalenderjaren. Een hernieuwde schriftelijke kennisgeving kan eerst met ingang van het zesde kalenderjaar na het ingaan van die wederopzegging worden ingewilligd.   
-4.   De inspecteur beslist op het in het eerste lid, onderdeel b, bedoelde verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek geldt zulks met ingang van het kalenderjaar volgend op dat van het verzoek en tot wederopzegging met ingang van een kalenderjaar na die wederopzegging, doch voor ten minste vijf kalenderjaren. Een hernieuwd verzoek kan eerst met ingang van het zesde kalenderjaar na het ingaan van die wederopzegging worden ingewilligd.   
-5.   De wederverkoper die ingevolge de vorige leden de belasting moet berekenen op de voet van artikel 28d van de wet, maar die ter zake van de levering van een goed in het tijdvak van aangifte op grond van artikel 9, tweede lid, onderdeel b, van de wet het tarief van nihil toepast dan wel de belasting berekent met toepassing van artikel 28f, eerste lid, van de wet, is gehouden in dat tijdvak de in artikel 28d, tweede volzin, van de wet, laatstbedoelde som te verminderen: 
+2.  Het eerste lid is niet van toepassing ten aanzien van veilinghouders.   
+3.  Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van wederverkopers die daarvan schriftelijk kennis geven aan de inspecteur. Deze regeling mag slechts worden toegepast met ingang van het kalenderjaar volgend op dat van de kennisgeving en geldt tot wederopzegging met ingang van een kalenderjaar na die wederopzegging, doch voor ten minste vijf kalenderjaren. Een hernieuwde schriftelijke kennisgeving kan eerst met ingang van het zesde kalenderjaar na het ingaan van die wederopzegging worden ingewilligd.   
+4.  De inspecteur beslist op het in het eerste lid, onderdeel b, bedoelde verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek geldt zulks met ingang van het kalenderjaar volgend op dat van het verzoek en tot wederopzegging met ingang van een kalenderjaar na die wederopzegging, doch voor ten minste vijf kalenderjaren. Een hernieuwd verzoek kan eerst met ingang van het zesde kalenderjaar na het ingaan van die wederopzegging worden ingewilligd.   
+5.  De wederverkoper die ingevolge de vorige leden de belasting moet berekenen op de voet van artikel 28d van de wet, maar die ter zake van de levering van een goed in het tijdvak van aangifte op grond van artikel 9, tweede lid, onderdeel b, van de wet het tarief van nihil toepast dan wel de belasting berekent met toepassing van artikel 28f, eerste lid, van de wet, is gehouden in dat tijdvak de in artikel 28d, tweede volzin, van de wet, laatstbedoelde som te verminderen: 
 
 a. met het bedrag dat eerder bij de berekening van de winstmarge per tijdvak van aangifte ter zake van dat goed in aanmerking is genomen; of  
 
@@ -175,9 +175,9 @@ b. ingeval het in onderdeel a bedoelde bedrag niet bekend is, met het bedrag van
 1°. met het saldo van de winstmarges per tijdvak van aangifte over het voorgaande kalenderjaar gedeeld door de som van de bij de berekening van die winstmarges in aanmerking genomen vergoedingen; of  
 
 2°. ingeval het onder 1° bedoelde saldo ontbreekt, met de winstmarge over het voorafgaande tijdvak van aangifte gedeeld door de som van de bij de berekening van die winstmarge in aanmerking genomen vergoedingen;   waarbij de onder 1° en 2° bedoelde winstmarges en vergoedingen betrekking hebben op goederen waarop eenzelfde tarief van toepassing is als op het geleverde goed en de bedoelde winstmarges de in een tijdvak van aangifte gerealiseerde winstmarges betreffen, voordat de in het zesde lid bedoelde verrekening of optelling heeft plaatsgevonden.     
-6.   Ingeval in een belastingtijdvak in een kalenderjaar, het laatste belastingtijdvak in een kalenderjaar uitgezonderd, de winstmarge per belastingtijdvak met betrekking tot leveringen van goederen waarop eenzelfde tarief wordt toegepast (tijdvak-winstmarge) negatief is, wordt deze negatieve tijdvak-winstmarge verrekend met een positieve tijdvak-winstmarge, of opgeteld bij een negatieve tijdvak-winstmarge, die in het volgende belastingtijdvak wordt gerealiseerd.    
-7.   Na afloop van een kalenderjaar wordt voor dat kalenderjaar met betrekking tot leveringen van goederen waarop eenzelfde tarief wordt toegepast de in artikel 28d, van de wet bedoelde winstmarge op jaarbasis vastgesteld (jaarsaldo). Ingeval dat jaarsaldo negatief is, wordt dit negatieve jaarsaldo opgeteld bij de ten behoeve van de vaststelling van het jaarsaldo van het daaropvolgende kalenderjaar in artikel 28d, tweede volzin, van de wet laatstbedoelde, op jaarbasis herrekende, som. Ingeval de belasting over dat aldus berekende jaarsaldo minder bedraagt dan het bedrag aan belasting dat over dat kalenderjaar is of moet worden voldaan ter zake van dergelijke leveringen, wordt het verschil aan de wederverkoper teruggegeven.   
-8.   Het vaststellen van een negatief jaarsaldo als bedoeld in het zevende lid, alsmede van het bedrag van de aldaar bedoelde teruggaaf, geschiedt op verzoek bij voor bezwaar vatbare beschikking. Het verzoek wordt gedaan bij de aangifte over het eerste tijdvak van het volgende kalenderjaar. Indien de beschikking met betrekking tot de vaststelling van een negatief jaarsaldo tot een onjuist bedrag is vastgesteld, kan de inspecteur de beschikking bij voor bezwaar vatbare beschikking herzien. De bevoegdheid tot herziening ten aanzien van een negatief jaarsaldo vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin dat saldo, zonder toepassing van de tweede volzin van het zevende lid berekend, is ontstaan.   
+6.  Ingeval in een belastingtijdvak in een kalenderjaar, het laatste belastingtijdvak in een kalenderjaar uitgezonderd, de winstmarge per belastingtijdvak met betrekking tot leveringen van goederen waarop eenzelfde tarief wordt toegepast (tijdvak-winstmarge) negatief is, wordt deze negatieve tijdvak-winstmarge verrekend met een positieve tijdvak-winstmarge, of opgeteld bij een negatieve tijdvak-winstmarge, die in het volgende belastingtijdvak wordt gerealiseerd.    
+7.  Na afloop van een kalenderjaar wordt voor dat kalenderjaar met betrekking tot leveringen van goederen waarop eenzelfde tarief wordt toegepast de in artikel 28d, van de wet bedoelde winstmarge op jaarbasis vastgesteld (jaarsaldo). Ingeval dat jaarsaldo negatief is, wordt dit negatieve jaarsaldo opgeteld bij de ten behoeve van de vaststelling van het jaarsaldo van het daaropvolgende kalenderjaar in artikel 28d, tweede volzin, van de wet laatstbedoelde, op jaarbasis herrekende, som. Ingeval de belasting over dat aldus berekende jaarsaldo minder bedraagt dan het bedrag aan belasting dat over dat kalenderjaar is of moet worden voldaan ter zake van dergelijke leveringen, wordt het verschil aan de wederverkoper teruggegeven.   
+8.  Het vaststellen van een negatief jaarsaldo als bedoeld in het zevende lid, alsmede van het bedrag van de aldaar bedoelde teruggaaf, geschiedt op verzoek bij voor bezwaar vatbare beschikking. Het verzoek wordt gedaan bij de aangifte over het eerste tijdvak van het volgende kalenderjaar. Indien de beschikking met betrekking tot de vaststelling van een negatief jaarsaldo tot een onjuist bedrag is vastgesteld, kan de inspecteur de beschikking bij voor bezwaar vatbare beschikking herzien. De bevoegdheid tot herziening ten aanzien van een negatief jaarsaldo vervalt door verloop van vijf jaren na het einde van het kalenderjaar waarin dat saldo, zonder toepassing van de tweede volzin van het zevende lid berekend, is ontstaan.   
 
 ### Hoofdstuk  IIIA  
 
@@ -215,7 +215,7 @@ c. het feitelijke gebruik van het goed;  wanneer ter zake van de desbetreffende 
 2.  Het bedrag van de voor een kalenderjaar in aanmerking te nemen kosten als bedoeld in het eerste lid, onderdeel a, wordt gedeeld door 10 ingeval van een onroerende zaak, en gedeeld door 5 ingeval van een roerende zaak waarop de ondernemer afschrijft voor de inkomstenbelasting of de vennootschapsbelasting of waarop hij zou kunnen afschrijven indien hij aan een zodanige belasting zou zijn onderworpen.  
 3.  Het bedrag van de voor een kalenderjaar in aanmerking te nemen kosten als bedoeld in het eerste lid, onderdeel b, wordt gesteld op het bedrag van die kosten in het kalenderjaar waarin de ondernemer de betreffende goederen of diensten gaat gebruiken.  
 4.  De in het eerste lid, onderdeel a, bedoelde kosten voor de verwerving of de vervaardiging van een goed worden op nihil gesteld voor een onroerende zaak na afloop van het negende jaar volgende op dat waarin de ondernemer het goed is gaan gebruiken, en voor een roerende zaak na afloop van het vierde jaar volgende op dat waarin de ondernemer het goed is gaan gebruiken, indien het gaat om een roerende zaak waarop de ondernemer voor de inkomstenbelasting of de vennootschapsbelasting afschrijft, of waarop hij zou kunnen afschrijven indien hij aan een zodanige belasting zou zijn onderworpen.   
-5.   Voor goederen waarvoor de kosten in verband met de verwerving of de vervaardiging van het goed bij de verwerving of de vervaardiging lager zijn dan de vergoeding voor de levering van dat goed als bedoeld in artikel 8 van de wet, wordt voor de toepassing van het eerste lid, onderdeel a, de vergoeding aangemerkt als de gemaakte kosten.  
+5.  Voor goederen waarvoor de kosten in verband met de verwerving of de vervaardiging van het goed bij de verwerving of de vervaardiging lager zijn dan de vergoeding voor de levering van dat goed als bedoeld in artikel 8 van de wet, wordt voor de toepassing van het eerste lid, onderdeel a, de vergoeding aangemerkt als de gemaakte kosten.  
 
 ### Artikel  5b  
 
@@ -228,24 +228,24 @@ Als gemaakte uitgaven voor een dienst als bedoeld in artikel 4, tweede lid, onde
 ### Artikel  6  
 
 1.  De keuze blijkens de notariële akte of het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor de levering van onroerende zaken en van rechten waaraan deze zijn onderworpen kan voor elke onroerende zaak en voor elk recht waaraan een onroerende zaak is onderworpen worden gedaan.    
-2.   In de notariële akte of het verzoek wordt vermeld een omschrijving van de onroerende zaak en het recht waaraan deze is onderworpen met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar. In de notariële akte of het verzoek wordt een door de afnemer ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat.    
+2.  In de notariële akte of het verzoek wordt vermeld een omschrijving van de onroerende zaak en het recht waaraan deze is onderworpen met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar. In de notariële akte of het verzoek wordt een door de afnemer ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat.    
 3.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
-4.   Aan de in artikel 11, eerste lid, onderdeel a, onder 2°, van de wet bedoelde voorwaarde dat de afnemer de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat, is voldaan, wanneer de onroerende zaak zowel over het boekjaar van levering van de onroerende zaak als over het daarop volgende boekjaar voor de hiervoor vermelde doeleinden is gebruikt.   
-5.   Ingeval de onroerende zaak niet vóór het einde van het boekjaar volgende op het boekjaar van levering van de onroerende zaak in gebruik is genomen door de afnemer, is niet voldaan aan de in het vierde lid bedoelde voorwaarde.   
-6.   De afnemer stelt binnen vier weken na afloop van het boekjaar volgende op het boekjaar van levering van de onroerende zaak, de leverancier door middel van een door hem ondertekende verklaring ervan in kennis, of is voldaan aan de in het vierde lid bedoelde voorwaarde. De afnemer zendt binnen dezelfde termijn een afschrift van deze verklaring aan de inspecteur.   
-7.   In geval van levering door de afnemer van de onroerende zaak binnen de termijn waarin het keuzerecht voor belasting wordt beoordeeld, is het zesde lid van toepassing, met dien verstande dat de verklaring wordt overgelegd binnen vier weken na het tijdstip waarop de levering is verricht. In dat geval vervalt de verklaring, bedoeld in de eerste volzin van het zesde lid.   
+4.  Aan de in artikel 11, eerste lid, onderdeel a, onder 2°, van de wet bedoelde voorwaarde dat de afnemer de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat, is voldaan, wanneer de onroerende zaak zowel over het boekjaar van levering van de onroerende zaak als over het daarop volgende boekjaar voor de hiervoor vermelde doeleinden is gebruikt.   
+5.  Ingeval de onroerende zaak niet vóór het einde van het boekjaar volgende op het boekjaar van levering van de onroerende zaak in gebruik is genomen door de afnemer, is niet voldaan aan de in het vierde lid bedoelde voorwaarde.   
+6.  De afnemer stelt binnen vier weken na afloop van het boekjaar volgende op het boekjaar van levering van de onroerende zaak, de leverancier door middel van een door hem ondertekende verklaring ervan in kennis, of is voldaan aan de in het vierde lid bedoelde voorwaarde. De afnemer zendt binnen dezelfde termijn een afschrift van deze verklaring aan de inspecteur.   
+7.  In geval van levering door de afnemer van de onroerende zaak binnen de termijn waarin het keuzerecht voor belasting wordt beoordeeld, is het zesde lid van toepassing, met dien verstande dat de verklaring wordt overgelegd binnen vier weken na het tijdstip waarop de levering is verricht. In dat geval vervalt de verklaring, bedoeld in de eerste volzin van het zesde lid.   
 8.  Voor de toepassing van dit artikel geldt als boekjaar het boekjaar van de afnemer.   
 
 ### Artikel  6a  
 
-1.   De keuze blijkens de schriftelijke huurovereenkomst of het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor verhuur van onroerende zaken kan voor elke onroerende zaak afzonderlijk worden gedaan.    
-2.   In de schriftelijke huurovereenkomst of het verzoek wordt vermeld een omschrijving van de onroerende zaak met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar van de huurder. In de schriftelijke huurovereenkomst of het verzoek wordt een door de huurder ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat.    
+1.  De keuze blijkens de schriftelijke huurovereenkomst of het verzoek om te worden uitgezonderd van de vrijstelling van belasting voor verhuur van onroerende zaken kan voor elke onroerende zaak afzonderlijk worden gedaan.    
+2.  In de schriftelijke huurovereenkomst of het verzoek wordt vermeld een omschrijving van de onroerende zaak met plaatselijke en kadastrale aanduiding alsmede de datum van aanvang van het boekjaar van de huurder. In de schriftelijke huurovereenkomst of het verzoek wordt een door de huurder ondertekende verklaring gevoegd waaruit blijkt dat hij de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat.    
 3.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking, waarin de datum met ingang waarvan de vrijstelling buiten toepassing blijft, wordt vermeld.    
 4.    Artikel 25 van de wet geldt niet, voor zover de vrijstelling van artikel 11, eerste lid, onderdeel b, van de wet ingevolge 5° van die bepaling ten aanzien van de ondernemer niet van toepassing is.    
-5.   Voor elk boekjaar geldt dat aan de in artikel 11, eerste lid, onderdeel b, onder 5°, van de wet bedoelde voorwaarde dat de huurder de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat, is voldaan, wanneer de onroerende zaak over het desbetreffende boekjaar voor de hiervoor vermelde doeleinden is gebruikt. De voorwaarde wordt voor de eerste keer beoordeeld over het boekjaar waarin de huurder de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren.   
-6.   Ingeval de onroerende zaak niet vóór het einde van het boekjaar waarin de huurder de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren, door de huurder in gebruik is genomen, is niet voldaan aan de in het vijfde lid bedoelde voorwaarde.   
+5.  Voor elk boekjaar geldt dat aan de in artikel 11, eerste lid, onderdeel b, onder 5°, van de wet bedoelde voorwaarde dat de huurder de onroerende zaak gebruikt voor doeleinden waarvoor een volledig of nagenoeg volledig recht op aftrek van belasting op de voet van artikel 15 van de wet bestaat, is voldaan, wanneer de onroerende zaak over het desbetreffende boekjaar voor de hiervoor vermelde doeleinden is gebruikt. De voorwaarde wordt voor de eerste keer beoordeeld over het boekjaar waarin de huurder de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren.   
+6.  Ingeval de onroerende zaak niet vóór het einde van het boekjaar waarin de huurder de onroerende zaak, met toepassing van het keuzerecht voor belasting, is gaan huren, door de huurder in gebruik is genomen, is niet voldaan aan de in het vijfde lid bedoelde voorwaarde.   
 7.  Ingeval niet meer wordt voldaan aan de in het vijfde lid bedoelde voorwaarde stelt de huurder de verhuurder binnen vier weken na afloop van het desbetreffende boekjaar daarvan in kennis door middel van een door hem ondertekende verklaring. Tevens zendt de huurder binnen dezelfde termijn een afschrift hiervan aan de inspecteur.   
-8.   Ingeval in een boekjaar dat is aangevangen na het boekjaar waarin de huurder de onroerende zaak is gaan huren, de vrijstelling buiten toepassing is gebleven en na afloop van dat boekjaar blijkt dat de huurder niet meer voldoet aan de in het vijfde lid bedoelde voorwaarde, kan de vrijstelling in dat boekjaar buiten toepassing blijven, tenzij de huurder redelijkerwijs kon voorzien dat hij niet langer zou voldoen aan deze voorwaarde. Blijkt in het daarop volgende boekjaar evenmin te worden voldaan aan voormelde voorwaarde, dan vindt de vrijstelling toepassing met ingang van laatstgemeld boekjaar, ook als de huurder redelijkerwijs niet kon voorzien dat hij in het desbetreffende boekjaar niet zou voldoen aan die voorwaarde.   
+8.  Ingeval in een boekjaar dat is aangevangen na het boekjaar waarin de huurder de onroerende zaak is gaan huren, de vrijstelling buiten toepassing is gebleven en na afloop van dat boekjaar blijkt dat de huurder niet meer voldoet aan de in het vijfde lid bedoelde voorwaarde, kan de vrijstelling in dat boekjaar buiten toepassing blijven, tenzij de huurder redelijkerwijs kon voorzien dat hij niet langer zou voldoen aan deze voorwaarde. Blijkt in het daarop volgende boekjaar evenmin te worden voldaan aan voormelde voorwaarde, dan vindt de vrijstelling toepassing met ingang van laatstgemeld boekjaar, ook als de huurder redelijkerwijs niet kon voorzien dat hij in het desbetreffende boekjaar niet zou voldoen aan die voorwaarde.   
 9.   Voor de toepassing van dit artikel geldt als boekjaar het boekjaar van de huurder.  
 
 ### Artikel  7  
@@ -258,7 +258,7 @@ Tot leveringen en diensten die voortvloeien uit activiteiten ter verkrijging van
 
 ### Artikel  8  
 
-1.   In het geval, bedoeld in artikel 37d van de wet, wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.   
+1.  In het geval, bedoeld in artikel 37d van de wet, wordt hij aan wie de overdracht is geschied, voor het berekenen van de door hem verschuldigde belasting wat de onderneming of het overgedragen gedeelte betreft, geacht in plaats te zijn getreden van degene die de onderneming of een gedeelte daarvan heeft overgedragen.   
 2.   Het eerste lid geldt niet voor de toepassing van artikel 4c, derde en vierde lid.  
 
 ### Artikel  9a  
@@ -293,8 +293,8 @@ Door de ondernemer kan in aftrek worden gebracht de belasting die blijkens zijn 
 
 ### Artikel  10a  
 
-1.   De in artikel 15, derde lid, eerste volzin, van de wet bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 21/121 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992.   
-2.   Het bedrag van de aankoopprijs dient ten genoegen van de inspecteur te worden aangetoond aan de hand van bescheiden zoals een originele factuur, een inkoopverklaring of een betalingsbewijs.  
+1.  De in artikel 15, derde lid, eerste volzin, van de wet bedoelde belasting die in de aankoopprijs is begrepen, wordt gesteld op 21/121 van het bedrag van de aankoopprijs, voorzover deze betrekking heeft op een personenauto, een bestelauto of een motorrijwiel verminderd met het bij de personenauto, de bestelauto of het motorrijwiel nog behorende bedrag aan belasting bedoeld in en berekend overeenkomstig artikel 10 van de Wet op de belasting van personenauto’s en motorrijwielen 1992.   
+2.  Het bedrag van de aankoopprijs dient ten genoegen van de inspecteur te worden aangetoond aan de hand van bescheiden zoals een originele factuur, een inkoopverklaring of een betalingsbewijs.  
 
 ### Artikel  11  
 
@@ -305,35 +305,35 @@ a. van goederen en diensten, die uitsluitend worden gebruikt voor handelingen wa
 b. van goederen en diensten, die uitsluitend worden gebruikt voor handelingen waarvoor geen recht op aftrek van voorbelasting bestaat, komt de voorbelasting in het geheel niet voor aftrek in aanmerking;  
 
 c. met betrekking tot goederen en diensten die zowel voor de onder a als voor de onder b bedoelde handelingen worden gebruikt, komt voor aftrek in aanmerking het gedeelte van de voorbelasting dat in dezelfde verhouding staat tot die belasting als het totaal van de vergoedingen voor de handelingen bedoeld onder a staat tot het totaal van de vergoedingen voor de handelingen bedoeld onder a en onder b.     
-2.   Indien aannemelijk is dat het werkelijke gebruik van de in het eerste lid, onderdeel c, bedoelde goederen en diensten, als geheel genomen, niet overeenkomt met de aldaar bedoelde verhouding, wordt het voor aftrek in aanmerking komende gedeelte van de voorbelasting van die goederen en diensten berekend op basis van het werkelijke gebruik.    
+2.  Indien aannemelijk is dat het werkelijke gebruik van de in het eerste lid, onderdeel c, bedoelde goederen en diensten, als geheel genomen, niet overeenkomt met de aldaar bedoelde verhouding, wordt het voor aftrek in aanmerking komende gedeelte van de voorbelasting van die goederen en diensten berekend op basis van het werkelijke gebruik.    
 3.  Ingeval de ondernemer twee of meer goederen of diensten van dezelfde soort gebruikt, worden deze alle geacht mede te worden gebruikt ten behoeve van handelingen waarvoor geen recht op aftrek van voorbelasting bestaat, tenzij blijkt welke van die goederen of diensten uitsluitend worden gebruikt voor handelingen waarvoor geen recht op aftrek bestaat en welke uitsluitend voor handelingen waarvoor dat recht wél bestaat. 
 4. De in artikel 15, eerste lid, laatste alinea, van de wet bedoelde aftrek over uitgaven in verband met een onroerende zaak wordt berekend op basis van het werkelijke gebruik van die onroerende zaak. 
 
 ### Artikel  12  
 
-1.   De in artikel 11 voorgeschreven berekeningswijze geschiedt op basis van de gegevens van het belastingtijdvak waarin de belasting aan de ondernemer in rekening wordt gebracht dan wel de belasting wordt verschuldigd.    
-2.   De herziening, bedoeld in artikel 15, vierde lid, van de wet, geschiedt op basis van de gegevens van het belastingtijdvak waarin de ondernemer de goederen of diensten is gaan gebruiken.    
-3.   Bij de aangifte over het laatste belastingtijdvak van het boekjaar vindt herziening van de aftrek plaats op basis van de voor het gehele boekjaar geldende gegevens.  
+1.  De in artikel 11 voorgeschreven berekeningswijze geschiedt op basis van de gegevens van het belastingtijdvak waarin de belasting aan de ondernemer in rekening wordt gebracht dan wel de belasting wordt verschuldigd.    
+2.  De herziening, bedoeld in artikel 15, vierde lid, van de wet, geschiedt op basis van de gegevens van het belastingtijdvak waarin de ondernemer de goederen of diensten is gaan gebruiken.    
+3.  Bij de aangifte over het laatste belastingtijdvak van het boekjaar vindt herziening van de aftrek plaats op basis van de voor het gehele boekjaar geldende gegevens.  
 
 ### Artikel  13  
 
-1.   In afwijking van artikel 11 worden voor de toepassing van de aftrek afzonderlijk in aanmerking genomen: 
+1.  In afwijking van artikel 11 worden voor de toepassing van de aftrek afzonderlijk in aanmerking genomen: 
 
 a. onroerende zaken en rechten waaraan deze zijn onderworpen;  
 
 b. roerende zaken waarop de ondernemer voor de inkomstenbelasting of de vennootschapsbelasting afschrijft, of waarop hij zou kunnen afschrijven indien hij aan een zodanige belasting zou zijn onderworpen.      
-2.   Met betrekking tot onroerende zaken en rechten waaraan deze zijn onderworpen wordt de aftrek herzien in elk van de negen boekjaren, volgende op dat waarin de ondernemer het goed is gaan gebruiken. De herziening geschiedt telkens voor een tiende gedeelte van de voorbelasting op basis van de voor het boekjaar geldende gegevens bij de aangifte over het laatste belastingtijdvak van dat boekjaar.    
-3.   Met betrekking tot de in het eerste lid, onderdeel b, bedoelde roerende zaken wordt de aftrek herzien in elk van de vier boekjaren, volgende op dat waarin de ondernemer het goed is gaan gebruiken. De herziening geschiedt telkens voor een vijfde gedeelte van de voorbelasting op basis van de voor het boekjaar geldende gegevens bij de aangifte over het laatste belastingtijdvak van dat boekjaar.    
-4.   De herziening blijft achterwege in het boekjaar waarin de belasting welke op basis van de voor dat boekjaar geldende gegevens voor aftrek in aanmerking komt, niet meer dan tien percent verschilt van de in aftrek gebrachte belasting.  
+2.  Met betrekking tot onroerende zaken en rechten waaraan deze zijn onderworpen wordt de aftrek herzien in elk van de negen boekjaren, volgende op dat waarin de ondernemer het goed is gaan gebruiken. De herziening geschiedt telkens voor een tiende gedeelte van de voorbelasting op basis van de voor het boekjaar geldende gegevens bij de aangifte over het laatste belastingtijdvak van dat boekjaar.    
+3.  Met betrekking tot de in het eerste lid, onderdeel b, bedoelde roerende zaken wordt de aftrek herzien in elk van de vier boekjaren, volgende op dat waarin de ondernemer het goed is gaan gebruiken. De herziening geschiedt telkens voor een vijfde gedeelte van de voorbelasting op basis van de voor het boekjaar geldende gegevens bij de aangifte over het laatste belastingtijdvak van dat boekjaar.    
+4.  De herziening blijft achterwege in het boekjaar waarin de belasting welke op basis van de voor dat boekjaar geldende gegevens voor aftrek in aanmerking komt, niet meer dan tien percent verschilt van de in aftrek gebrachte belasting.  
 
 ### Artikel  13a  
 
-1.   In geval van levering door de ondernemer van de in artikel 13, eerste lid, bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is artikel 13, tweede en derde lid, van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van: 
+1.  In geval van levering door de ondernemer van de in artikel 13, eerste lid, bedoelde goederen binnen de termijn waarin de aftrek wordt herzien, is artikel 13, tweede en derde lid, van overeenkomstige toepassing. Daarbij wordt de ondernemer geacht tot het einde van die termijn het gebruik van het goed voor bedrijfsdoeleinden voort te zetten uitsluitend ten behoeve van: 
 
 a. belaste handelingen, indien ter zake van de levering van het goed belasting verschuldigd is dan wel geen belasting verschuldigd is omdat het gaat om een handeling als bedoeld in artikel 15, tweede lid, van de wet;  
 
 b. handelingen waarvoor geen recht op aftrek van voorbelasting bestaat, indien ter zake van de levering van het goed geen belasting verschuldigd is en het niet gaat om een handeling als bedoeld in artikel 15, tweede lid, van de wet.     
-2.   De herziening geschiedt in één keer bij de aangifte over het belastingtijdvak waarin de levering plaatsvindt.  
+2.  De herziening geschiedt in één keer bij de aangifte over het belastingtijdvak waarin de levering plaatsvindt.  
 
 ### Artikel  14  
 
@@ -349,7 +349,7 @@ Handelingen ter zake waarvan op grond van artikel 27, eerste lid, van de wet gee
 
 ### Artikel  16a  
 
-1.   Als intracommunautaire verwervingen als bedoeld in artikel 17e van de wet worden aangewezen: 
+1.  Als intracommunautaire verwervingen als bedoeld in artikel 17e van de wet worden aangewezen: 
 
 a. intracommunautaire verwervingen van menselijke organen, menselijk bloed en moedermelk;  
 
@@ -363,7 +363,7 @@ b. intracommunautaire verwervingen door ondernemers die geen prestaties in Neder
 
 ### Artikel  16b  
 
-1.   Ten aanzien van de vrijstelling als bedoeld in artikel 21, onderdeel d, van de wet, is een vergunning van de inspecteur vereist. Het bepaalde in artikel 6 van het Communautair douanewetboek is van overeenkomstige toepassing. 
+1.  Ten aanzien van de vrijstelling als bedoeld in artikel 21, onderdeel d, van de wet, is een vergunning van de inspecteur vereist. Het bepaalde in artikel 6 van het Communautair douanewetboek is van overeenkomstige toepassing. 
 2. De verlening van de vergunning, bedoeld in het eerste lid, is gebonden aan de volgende voorwaarden:
 
 a.degene die de goederen invoert, verstrekt aan de inspecteur zijn btw-identificatienummer dat is toegekend door Nederland of ingeval de belasting wordt voldaan door zijn fiscaal vertegenwoordiger als bedoeld in artikel 33g van de wet het btw-identificatienummer dat is toegekend door Nederland aan deze fiscaal vertegenwoordiger en het btw-identificatienummer waaronder degene die de goederen intracommunautair afneemt in een andere lidstaat is geregistreerd of ingeval van overbrenging van eigen goederen het btw-identificatienummer waaronder degene die de goederen invoert zelf in de lidstaat van aankomst van het vervoer is geregistreerd;
@@ -378,12 +378,12 @@ c.degene die de goederen invoert, verstrekt op verzoek aan de inspecteur de inli
 a.op verzoek van de vergunninghouder;
 
 b.indien de vergunninghouder niet voldoet aan de aan de vergunning verbonden voorwaarden.  
-6.   De vrijstelling is slechts van toepassing indien wordt aangetoond dat ter zake van de levering is voldaan aan het bepaalde in de artikelen 14, 34c, 35a en 37a van de wet alsmede in artikel 12 van het besluit.   
+6.  De vrijstelling is slechts van toepassing indien wordt aangetoond dat ter zake van de levering is voldaan aan het bepaalde in de artikelen 14, 34c, 35a en 37a van de wet alsmede in artikel 12 van het besluit.   
 
-###Artikel 17 
+### Artikel  17  
 
-1.  Voor goederen opgenomen in de bij deze regeling behorende bijlage A worden voor de toepassing van artikel 23 van de wet aangewezen alle ondernemers en lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers. 
-2. Bij de aangifte ten invoer worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de regeling van artikel 23 van de wet van toepassing is.
+1.  Voor goederen opgenomen in de bij deze regeling behorende bijlage A worden voor de toepassing van artikel 23 van de wet aangewezen alle ondernemers en lichamen in de zin van de Algemene wet inzake rijksbelastingen, andere dan ondernemers.    
+2.  Bij de aangifte ten invoer worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de regeling van artikel 23 van de wet van toepassing is.  
 
 ### Artikel  17a  
 
@@ -393,26 +393,26 @@ b.indien de vergunninghouder niet voldoet aan de aan de vergunning verbonden voo
 ### Artikel  18  
 
 1.   Voor andere goederen dan bedoeld in de artikelen 17 en 17a wordt een verzoek om aanwijzing voor de toepassing van artikel 23 van de wet ingediend bij de inspecteur. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek stelt de inspecteur een datum van ingang vast en kent hij aan de belanghebbende een btw-identificatienummer toe.    
-2.   Het verzoek wordt slechts ingewilligd, indien de belanghebbende: 
+2.  Het verzoek wordt slechts ingewilligd, indien de belanghebbende: 
 
 a. in Nederland woont of is gevestigd, dan wel aldaar een vaste inrichting of een fiscaal vertegenwoordiger heeft;  
 
 b. geregeld goederen invoert, dan wel incidenteel goederen invoert en een fiscaal vertegenwoordiger in Nederland heeft;  
 
 c. een bedrijfsadministratie voert welke naar het oordeel van de inspecteur zodanig is ingericht dat daarin op overzichtelijke wijze zijn opgenomen de door de inspecteur nodig geoordeelde gegevens omtrent de ingevoerde goederen, en dat aan de hand daarvan op eenvoudige wijze de ter zake van de invoer van die goederen verschuldigde omzetbelasting kan worden vastgesteld.      
-3.   De aanwijzing geldt voor alle goederen welke ten behoeve van de belanghebbende worden ingevoerd, waaronder zijn begrepen de goederen ter zake waarvan de belanghebbende aan een andere ondernemer een schriftelijke verklaring heeft afgegeven dat hij de goederen invoert of dat de invoer in zijn opdracht plaatsvindt.    
-4.   Ten aanzien van goederen welke door Koninklijke PostNL B.V. worden ingevoerd, vindt artikel 23 van de wet slechts toepassing, indien: 
+3.  De aanwijzing geldt voor alle goederen welke ten behoeve van de belanghebbende worden ingevoerd, waaronder zijn begrepen de goederen ter zake waarvan de belanghebbende aan een andere ondernemer een schriftelijke verklaring heeft afgegeven dat hij de goederen invoert of dat de invoer in zijn opdracht plaatsvindt.    
+4.  Ten aanzien van goederen welke door Koninklijke PostNL B.V. worden ingevoerd, vindt artikel 23 van de wet slechts toepassing, indien: 
 
 a. op de postzending of in de daarbij behorende bescheiden het aan de belanghebbende toegekende btw-identificatienummer is vermeld, of   
 
 b. ten aanzien van de postzending de belanghebbende een schriftelijke inklaringsopdracht aan Koninklijke PostNL B.V. heeft verstrekt waarin het aan hem toegekende btw-identificatienummer is vermeld.     
-5.   Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden: 
+5.  Tenzij de inspecteur anders bepaalt, moet de belanghebbende voldoen aan de volgende voorwaarden: 
 
 a. van de invoer wordt afzonderlijk aantekening gehouden op de voet van artikel 31;  
 
 b. bij aangifte ten invoer van de goederen worden bescheiden - een kopie-factuur, vracht- en ladingspapieren en dergelijke - overgelegd waaruit blijkt dat de goederen voor belanghebbende zijn bestemd en de regeling van artikel 23 van de wet van toepassing is. Op deze bescheiden moet het btw-identificatienummer zijn vermeld.      
-6.   Ingeval de belanghebbende handelt in strijd met de gestelde voorwaarden, alsmede in geval van misbruik, waaronder wordt begrepen misbruik door de vervoerder van de goederen, kan de inspecteur de aanwijzing intrekken en een nieuwe aanwijzing weigeren. De intrekking en de weigering geschieden bij voor bezwaar vatbare beschikking.    
-7.   Het eerste tot en met zesde lid zijn niet van toepassing op personenauto’s, bestelauto’s en motorrijwielen in de zin van de artikelen 3 en 4 van de Wet op de belasting van personenauto’s en motorrijwielen 1992.  
+6.  Ingeval de belanghebbende handelt in strijd met de gestelde voorwaarden, alsmede in geval van misbruik, waaronder wordt begrepen misbruik door de vervoerder van de goederen, kan de inspecteur de aanwijzing intrekken en een nieuwe aanwijzing weigeren. De intrekking en de weigering geschieden bij voor bezwaar vatbare beschikking.    
+7.  Het eerste tot en met zesde lid zijn niet van toepassing op personenauto’s, bestelauto’s en motorrijwielen in de zin van de artikelen 3 en 4 van de Wet op de belasting van personenauto’s en motorrijwielen 1992.  
 
 ### Artikel  18a  
 
@@ -467,15 +467,15 @@ d. een omschrijving van de bescheiden waarmee kan worden aangetoond hoeveel bela
 
 ### Artikel  22  
 
-1.   Een lichaam als bedoeld in artikel 24, eerste lid, van de wet, dat aanspraak wil maken op teruggaaf van de belasting op grond van dat artikel, draagt zorg, dat de goederen bij de uitvoer uit de Unie of bij de opslag in een entrepot zijn vergezeld van een certificaat van uitvoer uit de Unie. Daartoe dient te worden gebruik gemaakt van een van rijkswege tegen betaling verkrijgbaar gesteld formulier.    
-2.   In het certificaat worden vermeld: 
+1.  Een lichaam als bedoeld in artikel 24, eerste lid, van de wet, dat aanspraak wil maken op teruggaaf van de belasting op grond van dat artikel, draagt zorg, dat de goederen bij de uitvoer uit de Unie of bij de opslag in een entrepot zijn vergezeld van een certificaat van uitvoer uit de Unie. Daartoe dient te worden gebruik gemaakt van een van rijkswege tegen betaling verkrijgbaar gesteld formulier.    
+2.  In het certificaat worden vermeld: 
 
 a. een per kalenderjaar doorlopend volgnummer;  
 
 b. de naam en het adres van het lichaam;  
 
 c. een nauwkeurige omschrijving van de soort en de hoeveelheid van de goederen.      
-3.   Het certificaat wordt, na daartoe te zijn aangeboden, voor uitvoer uit de Unie afgetekend door de daartoe bevoegde ambtenaar. Deze zendt het certificaat terug aan het daarin vermelde adres.  
+3.  Het certificaat wordt, na daartoe te zijn aangeboden, voor uitvoer uit de Unie afgetekend door de daartoe bevoegde ambtenaar. Deze zendt het certificaat terug aan het daarin vermelde adres.  
 
 ### Artikel  23  
 
@@ -483,9 +483,9 @@ Ingeval een lichaam als bedoeld in artikel 24, eerste lid, van de wet, is aangew
 
 ### Artikel  23a  
 
-1.   In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lidstaten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 50 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.   
-2.   Het eerste lid, eerste volzin, is van overeenkomstige toepassing met betrekking tot goederen die worden afgenomen door een natuurlijke persoon die zijn normale verblijfplaats heeft in de Unie en die ten genoegen van de inspecteur kan aantonen dat hij zich binnen de in het eerste lid bedoelde termijn in een derde-land zal vestigen.   
-3.   Met betrekking tot de toepassing van het tarief van nihil is het bepaalde in artikel 12 van het besluit van overeenkomstige toepassing, met dien verstande dat voor het aantonen van de aanspraak op toepassing daarvan in ieder geval is vereist een factuur, een kopie-factuur, of een daarmee gelijk te stellen bescheid dat, na daartoe te zijn aangeboden, voor uitvoer uit de Unie is afgetekend door een daartoe bevoegde ambtenaar.   
+1.  In geval van levering van goederen aan natuurlijke personen die hun normale verblijfplaats hebben in een derde-land en die, anders dan als ondernemer, deze goederen uiterlijk het einde van de derde maand na de maand van aankoop bij het verlaten van Nederland in hun persoonlijke bagage meevoeren naar een derde-land, hetzij rechtstreeks hetzij via één of meer andere lidstaten, is de ondernemer gerechtigd, in afwijking van het wettelijk geldende tarief, het tarief van nihil toe te passen, indien de totale waarde van de op de factuur vermelde goederen, inclusief de tegen het wettelijk tarief berekende belasting, ten minste € 50 bedraagt. De normale verblijfplaats dient aan de hand van een legitimatiebewijs te worden aangetoond.   
+2.  Het eerste lid, eerste volzin, is van overeenkomstige toepassing met betrekking tot goederen die worden afgenomen door een natuurlijke persoon die zijn normale verblijfplaats heeft in de Unie en die ten genoegen van de inspecteur kan aantonen dat hij zich binnen de in het eerste lid bedoelde termijn in een derde-land zal vestigen.   
+3.  Met betrekking tot de toepassing van het tarief van nihil is het bepaalde in artikel 12 van het besluit van overeenkomstige toepassing, met dien verstande dat voor het aantonen van de aanspraak op toepassing daarvan in ieder geval is vereist een factuur, een kopie-factuur, of een daarmee gelijk te stellen bescheid dat, na daartoe te zijn aangeboden, voor uitvoer uit de Unie is afgetekend door een daartoe bevoegde ambtenaar.   
 
 ### Hoofdstuk  VIII  
 
@@ -493,7 +493,7 @@ Ingeval een lichaam als bedoeld in artikel 24, eerste lid, van de wet, is aangew
 
 ### Artikel  24  
 
-1.   Indien aannemelijk is, dat over een jaar artikel 25 van de wet van toepassing zal zijn, kan de ondernemer per belastingtijdvak van dat jaar een voorlopige vermindering op de belasting toepassen.    
+1.  Indien aannemelijk is, dat over een jaar artikel 25 van de wet van toepassing zal zijn, kan de ondernemer per belastingtijdvak van dat jaar een voorlopige vermindering op de belasting toepassen.    
 2.  De voorlopige vermindering is per belastingtijdvak van een kwartaal gelijk aan de belasting vóór aftrek van de vermindering. Zij bedraagt per belastingtijdvak van een kwartaal evenwel bij een vermoedelijke belasting per jaar vóór toepassing van artikel 25, eerste lid, van de wet, van: 
 
 a. meer dan € 1345 doch niet meer dan € 1475 ten hoogste € 250;   
@@ -503,13 +503,13 @@ b. meer dan € 1475 doch niet meer dan € 1611 ten hoogste € 159;
 c. meer dan € 1611 doch niet meer dan € 1747 ten hoogste € 68;  
 
 d. meer dan € 1747 nihil.      
-3.   Na afloop van het jaar wordt de voorlopige vermindering verrekend met de in artikel 25, eerste lid, van de wet bedoelde vermindering.    
-4.   Indien de verrekening leidt tot een hoger bedrag dan over het jaar aan belasting is betaald, moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende jaar; leidt de herrekening tot een lager bedrag dan over het jaar aan belasting is betaald, dan wordt het verschil aan de ondernemer op verzoek teruggegeven.  
+3.  Na afloop van het jaar wordt de voorlopige vermindering verrekend met de in artikel 25, eerste lid, van de wet bedoelde vermindering.    
+4.  Indien de verrekening leidt tot een hoger bedrag dan over het jaar aan belasting is betaald, moet het verschil worden voldaan op de aangifte over het eerste belastingtijdvak van het volgende jaar; leidt de herrekening tot een lager bedrag dan over het jaar aan belasting is betaald, dan wordt het verschil aan de ondernemer op verzoek teruggegeven.  
 
 ### Artikel  25  
 
 1.  Ontheffing van verplichtingen, opgelegd bij of krachtens de artikelen 34 en 34c van de wet, wordt op verzoek verleend, indien aannemelijk is, dat de ondernemer jaarlijks, na toepassing van artikel 25, eerste lid, van de wet, geen belasting behoeft te voldoen.    
-2.   De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De ontheffing gaat in bij het begin van het jaar, volgende op dat waarin het verzoek is gedaan. Indien het verzoek wordt gedaan op of voorafgaand aan de dag van het starten met het verrichten van belaste economische activiteiten, kan, in afwijking van de vorige volzin, de ontheffing worden verleend met ingang van de dag waarop met deze activiteiten wordt gestart.   
+2.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. De ontheffing gaat in bij het begin van het jaar, volgende op dat waarin het verzoek is gedaan. Indien het verzoek wordt gedaan op of voorafgaand aan de dag van het starten met het verrichten van belaste economische activiteiten, kan, in afwijking van de vorige volzin, de ontheffing worden verleend met ingang van de dag waarop met deze activiteiten wordt gestart.   
 3.  De ondernemer die ontheffing heeft verkregen, kan volstaan met het ordelijk bewaren van de aan hem uitgereikte facturen gedurende de termijn, bedoeld in artikel 52, vierde lid, van de Algemene wet inzake rijksbelastingen en in artikel 34a van de wet.    
 4.  De ontheffing vervalt: 
 
@@ -519,7 +519,7 @@ b. zodra de ondernemer weet of redelijkerwijs moet vermoeden, dat hij niet lange
 
 c. bij niet-voldoening aan het derde lid.      
 5.  Na het vervallen van de ontheffing door opzegging kan een hernieuwd verzoek eerst na vijf jaar worden ingewilligd.   
-6.   De omzetbelasting die de ondernemer die ontheffing heeft gekregen, op aangifte moet voldoen op grond van de artikelen 12, tweede, derde en vijfde lid, 17f en 23 van de wet, kan door hem niet op de voet van artikel 15 van de wet op de aangifte in aftrek worden gebracht.   
+6.  De omzetbelasting die de ondernemer die ontheffing heeft gekregen, op aangifte moet voldoen op grond van de artikelen 12, tweede, derde en vijfde lid, 17f en 23 van de wet, kan door hem niet op de voet van artikel 15 van de wet op de aangifte in aftrek worden gebracht.   
 
 ### Artikel  25a  
 
@@ -568,7 +568,7 @@ a.
 b. andere dan de in onderdeel a genoemde ondernemers, indien zij hun prestaties als ondernemer uitsluitend of nagenoeg uitsluitend verrichten in of vanuit een inrichting welke bestemd is voor de verkoop van goederen of het verlenen van diensten aan anderen dan ondernemers;  
 
 c. niet onder de onderdelen a of b vallende ondernemers die niet aan ondernemers goederen plegen te leveren en diensten plegen te verlenen, behoudens voorzover zij goederen leveren als bedoeld in artikel 3, tweede lid, van de wet, mits zij op daartoe gedaan verzoek door de inspecteur zijn aangewezen. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.      
-2.   Indien de in het eerste lid in de onderdelen a en b bedoelde ondernemers van de aanwijzing geen gebruik maken, dienen zij daarvan schriftelijk kennis te geven aan de inspecteur.  
+2.  Indien de in het eerste lid in de onderdelen a en b bedoelde ondernemers van de aanwijzing geen gebruik maken, dienen zij daarvan schriftelijk kennis te geven aan de inspecteur.  
 
 ### Hoofdstuk  X  
 
@@ -591,7 +591,7 @@ e. een duidelijke omschrijving van de goederen;
 f. het in rekening gebrachte bedrag.      
 2.  De in het eerste lid bedoelde verklaring wordt opgemaakt vóór de vijftiende dag van de maand, volgende op die waarin de levering is verricht.   
 3.  De aftrek vindt plaats in het belastingtijdvak waarin de goederen zijn geleverd.    
-4.   Ingeval van leveringen aan veilingen en andere vaste afnemers kan, in afwijking van het eerste en het tweede lid, de landbouwer, veehouder, tuinbouwer en bosbouwer volstaan met een éénmaal per kalenderjaar af te geven verklaring waaruit blijkt, dat de goederen binnen het kader van artikel 27, vierde lid, van de wet zijn geleverd. In dat geval houdt degene aan wie de goederen worden geleverd, van iedere levering op zodanige wijze aantekening dat daaruit de in het eerste lid, onderdelen a tot en met f, bedoelde gegevens blijken.    
+4.  Ingeval van leveringen aan veilingen en andere vaste afnemers kan, in afwijking van het eerste en het tweede lid, de landbouwer, veehouder, tuinbouwer en bosbouwer volstaan met een éénmaal per kalenderjaar af te geven verklaring waaruit blijkt, dat de goederen binnen het kader van artikel 27, vierde lid, van de wet zijn geleverd. In dat geval houdt degene aan wie de goederen worden geleverd, van iedere levering op zodanige wijze aantekening dat daaruit de in het eerste lid, onderdelen a tot en met f, bedoelde gegevens blijken.    
 5.  Het eerste tot en met vierde lid zijn ten aanzien van diensten voor zover mogelijk van overeenkomstige toepassing.  
 
 ### Artikel  29  
@@ -648,7 +648,7 @@ c. een duidelijke omschrijving van de geleverde goederen of van de dienst;
 d. de vergoeding;  
 
 e. het bedrag van de belasting.     
-3.   De rechtspersoon, andere dan ondernemer, is gehouden ter zake van zijn intracommunautaire verwervingen regelmatig aantekening te houden van: 
+3.  De rechtspersoon, andere dan ondernemer, is gehouden ter zake van zijn intracommunautaire verwervingen regelmatig aantekening te houden van: 
 
 a. de aan hem uitgereikte facturen;  
 
@@ -670,10 +670,10 @@ d. de vergoeding onderscheiden naar:
 3°. overige goederen;    
 
 e. het bedrag van de belasting.      
-5.   De aantekeningen worden op zodanige duidelijke en overzichtelijke wijze en met vermelding van zodanige bijzonderheden gehouden, dat aan de hand daarvan de door de ondernemer of door de rechtspersoon, andere dan ondernemer, over een bepaald belastingtijdvak verschuldigde belasting kan worden vastgesteld. De wederverkoper is tevens gehouden om met betrekking tot goederen die administratief van inkoop tot verkoop zijn te volgen, zijn boekhouding op zodanige wijze te voeren dat aan de hand daarvan het verband tussen inkoop en verkoop kan worden vastgesteld.    
+5.  De aantekeningen worden op zodanige duidelijke en overzichtelijke wijze en met vermelding van zodanige bijzonderheden gehouden, dat aan de hand daarvan de door de ondernemer of door de rechtspersoon, andere dan ondernemer, over een bepaald belastingtijdvak verschuldigde belasting kan worden vastgesteld. De wederverkoper is tevens gehouden om met betrekking tot goederen die administratief van inkoop tot verkoop zijn te volgen, zijn boekhouding op zodanige wijze te voeren dat aan de hand daarvan het verband tussen inkoop en verkoop kan worden vastgesteld.    
 6.  De ondernemer en de rechtspersoon, andere dan ondernemer, zijn verplicht de aantekeningen te bewaren gedurende de termijn, bedoeld in artikel 52, vierde lid, van de Algemene wet inzake rijksbelastingen en in artikel 34a van de wet.   
 7.  De inspecteur kan afwijkingen toestaan van de verplichtingen welke zijn opgelegd in de vorige leden.   
-8.   De ondernemer is gehouden zijn boekhouding op zodanige duidelijke en overzichtelijke wijze te voeren en met vermelding van zodanige bijzonderheden, dat de inspecteur aan de hand daarvan kan vaststellen of de belastingheffing met betrekking tot de in artikel 34, tweede lid, onderdelen a en b, van de wet, bedoelde goederen, op de juiste wijze plaatsvindt.  
+8.  De ondernemer is gehouden zijn boekhouding op zodanige duidelijke en overzichtelijke wijze te voeren en met vermelding van zodanige bijzonderheden, dat de inspecteur aan de hand daarvan kan vaststellen of de belastingheffing met betrekking tot de in artikel 34, tweede lid, onderdelen a en b, van de wet, bedoelde goederen, op de juiste wijze plaatsvindt.  
 
 ### Artikel  31a  
 
@@ -755,7 +755,7 @@ c. naam en adres van de leverancier onderscheidenlijk de netbeheerder.
 
 1.  Ter zake van de levering, de invoer en de intracommunautaire verwerving van minerale olie vindt de bij de wet behorende tabel I, onderdeel a, post 32, slechts toepassing bij wijze van teruggaaf van belasting aan de tuinbouwer die de olie gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwprodukten.   
 2.  De teruggaaf geschiedt op verzoek van de tuinbouwer en bedraagt 15 percent van de aan hem wegens levering van de minerale olie in rekening gebrachte vergoeding.    
-3.   In afwijking in zoverre van artikel 33 van de wet geschiedt het verzoek om teruggaaf steeds binnen drie maanden na afloop van het kalenderkwartaal waarin de olie is ontvangen, en wel bij een afzonderlijke, ondertekende aangifte welke de volgende gegevens moet bevatten: 
+3.  In afwijking in zoverre van artikel 33 van de wet geschiedt het verzoek om teruggaaf steeds binnen drie maanden na afloop van het kalenderkwartaal waarin de olie is ontvangen, en wel bij een afzonderlijke, ondertekende aangifte welke de volgende gegevens moet bevatten: 
 
 a. de dagtekening;  
 

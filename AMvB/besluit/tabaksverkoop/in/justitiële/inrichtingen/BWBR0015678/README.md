@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 maart 2003, kenmerk POG/GB 2.363.822;
 
-Gelet op [artikel 7, eerste lid, tweede volzin, van de Tabakswet](../../../../../../../wet/tabakswet/BWBR0004302/README.md);
+Gelet op artikel 7, eerste lid, tweede volzin, van de Tabakswet;
 
 De Raad van State gehoord (advies van 17 juni 2003, nummer W13.03.0103/III);
 
@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het verbod op bedrijfsmatige verstrekking van tabaksproducten aan particulieren voor de instellingen, diensten en bedrijven, die door de Staat of andere openbare lichamen worden beheerd, bedoeld in [artikel 7, eerste lid, van de Tabakswet](../../../../../../../wet/tabakswet/BWBR0004302/README.md) geldt niet in justitiële inrichtingen als bedoeld in: 
+Het verbod op bedrijfsmatige verstrekking van tabaksproducten aan particulieren voor de instellingen, diensten en bedrijven, die door de Staat of andere openbare lichamen worden beheerd, bedoeld in artikel 7, eerste lid, van de Tabakswet geldt niet in justitiële inrichtingen als bedoeld in: 
 
-a.  [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+a.  artikel 1, onderdeel b, van de Penitentiaire beginselenwet;  
 
-b.  [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+b.  artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen;  
 
-c.  [artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);  
+c.  artikel 1, onderdeel b, van de Beginselenwet verpleging ter beschikking gestelden;  
 
-d.  [artikel 6, eerste lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+d.  artikel 6, eerste lid, van de Vreemdelingenwet 2000;  
 
-e.  [artikel 4, eerste lid, van de Tijdelijke wet noodcapaciteit drugskoeriers](../../../../../../../wet/tijdelijke/wet/noodcapaciteit/drugskoeriers/BWBR0013488/README.md).   
+e.  artikel 4, eerste lid, van de Tijdelijke wet noodcapaciteit drugskoeriers.   
 
 ### Artikel  2  
 

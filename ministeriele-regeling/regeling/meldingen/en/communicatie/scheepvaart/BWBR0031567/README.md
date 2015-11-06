@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 27 april 2012, nr. IENM/BSK-2012/60134, houdende vaststelling van nadere regels voor de scheepvaart en organisaties en personen die niet aan het scheepvaartverkeer deelnemen betreffende meldingen en communicatie (Regeling meldingen en communicatie scheepvaart)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op Richtlijn nr. 2010/65/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van Richtlijn 2002/6/EG (PbEU L 283), Hoofdstuk V, Voorschrift 19-1, van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag), Richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), Richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van Richtlijn 93/75/EEG van de Raad (PbEG L 131), verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), richtlijn nr. 2005/44/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU L 255), richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende havenstaatcontrole (Herschikking) (PbEU L 131), en de [artikelen 4 van de Wet bestrijding ongevallen Noordzee](../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), [29](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) en [30 van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), [12](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) en [12a van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), [1](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [2](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [3](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [4](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [10, eerste lid](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [11](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [12](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [16](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [21, derde lid](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), en [22 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [9.07 van het Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), [9 van het Loodsplichtbesluit 1995](../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), [21](../../../../../../../AMvB/scheepvaartreglement/eemsmonding/BWBR0004552/README.md), [29](../../../../../../../AMvB/scheepvaartreglement/eemsmonding/BWBR0004552/README.md) en [38, van het Scheepvaartreglement Eemsmonding](../../../../../../../AMvB/scheepvaartreglement/eemsmonding/BWBR0004552/README.md), [5 van het Scheepvaartreglement territoriale zee](../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), [2, tweede lid, onderdeel a, onder 1°, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../../AMvB/tijdelijk/besluit/opleidingen/en/diploma's/archivistiek/BWBR0007749/README.md), [51 van het Scheepvaartreglement Westerschelde](../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md), [5 van het Vaststellingsbesluit binnenvaartpolitiereglement](../../../../../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md);
+Gelet op Richtlijn nr. 2010/65/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende meldingsformaliteiten voor schepen die aankomen in en/of vertrekken uit havens van de lidstaten en tot intrekking van Richtlijn 2002/6/EG (PbEU L 283), Hoofdstuk V, Voorschrift 19-1, van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157), en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen (SOLAS-verdrag), Richtlijn nr. 2000/59/EG van het Europees Parlement en de Raad van 27 november 2000 betreffende havenontvangstvoorzieningen voor scheepsafval en ladingresiduen (PbEG L 332), Richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot het intrekken van Richtlijn 93/75/EEG van de Raad (PbEG L 131), verordening (EG) nr. 725/2004 van het Europees Parlement en de Raad van 31 maart 2004 betreffende de verbetering van de beveiliging van schepen en havenfaciliteiten (PbEU L 129), richtlijn nr. 2005/44/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende geharmoniseerde River Information Services (RIS) op de binnenwateren in de Gemeenschap (PbEU L 255), richtlijn nr. 2009/16/EG van het Europees Parlement en de Raad van 23 april 2009 betreffende havenstaatcontrole (Herschikking) (PbEU L 131), en de artikelen 4 van de Wet bestrijding ongevallen Noordzee, 29 en 30 van de Wet havenstaatcontrole, 12 en 12a van de Wet voorkoming verontreiniging door schepen, 1, 2, 3, 4, 10, eerste lid, 11, 12, 16, 21, derde lid, en 22 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart, 9.07 van het Binnenvaartpolitiereglement, 9 van het Loodsplichtbesluit 1995, 21, 29 en 38, van het Scheepvaartreglement Eemsmonding, 5 van het Scheepvaartreglement territoriale zee, 2, tweede lid, onderdeel a, onder 1°, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen, 51 van het Scheepvaartreglement Westerschelde, 5 van het Vaststellingsbesluit binnenvaartpolitiereglement;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-–  *aanloopgebied:* aanloopgebied bedoeld in [bijlage 1, behorende bij artikel 2, onderdeel d, van het Scheepvaartreglement territoriale zee](../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md);  
+–  *aanloopgebied:* aanloopgebied bedoeld in bijlage 1, behorende bij artikel 2, onderdeel d, van het Scheepvaartreglement territoriale zee;  
 
-–  *besluit:* [Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md);  
+–  *besluit:* Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart;  
 
 –  *IFCD:* Interface and Functionalities Control Document, bedoeld in bijlage III, onderdeel 2, van de richtlijn monitoring- en informatiesysteem zeescheepvaart;  
 
@@ -33,10 +33,10 @@ In deze regeling wordt verstaan onder:
 
 1.  Als bevoegde autoriteit worden aangewezen voor de toepassing van: 
 
-a. de [hoofdstukken 1](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [2](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [3](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [5](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en [7](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en de [artikelen 11](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [12](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en [13 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), de personen, genoemd in bijlage 1, onder I, bij deze regeling; en voor  
+a. de hoofdstukken 1, 2, 3, 5 en 7 en de artikelen 11, 12 en 13 van het besluit, de personen, genoemd in bijlage 1, onder I, bij deze regeling; en voor  
 
-b. de [hoofdstukken 1](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en [3](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), en de [artikelen 14](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en [21 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) de personen, genoemd in bijlage 1, onder II, bij deze regeling.     
-2.  Voor de toepassing van het [besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) worden als plaatselijk bevoegde autoriteit aangewezen de personen, genoemd in bijlage 2 bij deze regeling.  
+b. de hoofdstukken 1 en 3, en de artikelen 14 en 21 van het besluit de personen, genoemd in bijlage 1, onder II, bij deze regeling.     
+2.  Voor de toepassing van het besluit worden als plaatselijk bevoegde autoriteit aangewezen de personen, genoemd in bijlage 2 bij deze regeling.  
 
 ### Hoofdstuk  2  
 
@@ -46,9 +46,9 @@ b. de [hoofdstukken 1](../../../../../../../AMvB/besluit/meldingsformaliteiten/e
 
 ####Aankomst- en vertrekmeldingen
 
-1.  Van een zeeschip worden ter voldoening aan de meldingsformaliteiten, bedoeld in [artikel 2 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), aan de bevoegde autoriteit van de locatie: 
+1.  Van een zeeschip worden ter voldoening aan de meldingsformaliteiten, bedoeld in artikel 2 van het besluit, aan de bevoegde autoriteit van de locatie: 
 
-a. waarnaar toe een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, op weg is, de gegevens gemeld die worden genoemd in bijlage I, onder punt 1, van de richtlijn monitoring- en informatiesysteem zeescheepvaart;  
+a. waarnaar toe een zeeschip met een bruto-tonnage als bedoeld in de Meetbrievenwet 1981 van 300 of meer, op weg is, de gegevens gemeld die worden genoemd in bijlage I, onder punt 1, van de richtlijn monitoring- en informatiesysteem zeescheepvaart;  
 
 b. waarnaar toe een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, op weg is, de gegevens gemeld die worden genoemd in bijlage I, onder punt 3, van de richtlijn monitoring- en informatiesysteem zeescheepvaart; of  
 
@@ -60,19 +60,19 @@ c. van waaraf een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervo
 
 ####Beveiligingsmelding
 
-Van een schip als bedoeld in bijlage 1, voorschrift 2, eerste lid, van de verordening scheeps- en havenbeveiliging worden ter voldoening aan de meldingsformaliteit, bedoeld in [artikel 3 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), aan de bevoegde autoriteit van de haven waarnaar het schip onderweg is, de gegevens gemeld die worden genoemd in het aanhangsel bij de richtlijn meldingsformaliteiten. 
+Van een schip als bedoeld in bijlage 1, voorschrift 2, eerste lid, van de verordening scheeps- en havenbeveiliging worden ter voldoening aan de meldingsformaliteit, bedoeld in artikel 3 van het besluit, aan de bevoegde autoriteit van de haven waarnaar het schip onderweg is, de gegevens gemeld die worden genoemd in het aanhangsel bij de richtlijn meldingsformaliteiten. 
 
 ### Artikel  5  
 
 ####Melding ten behoeve van havenstaatcontrole
 
-Van een schip als bedoeld in [artikel 4 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), worden aan de havenbeheerder, bedoeld in [artikel 1 van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md), die als bevoegde autoriteit van de haven waarnaar het schip onderweg is, is aangewezen, de gegevens gemeld die worden genoemd in bijlage III van de richtlijn havenstaatcontrole. 
+Van een schip als bedoeld in artikel 4 van het besluit, worden aan de havenbeheerder, bedoeld in artikel 1 van de Wet havenstaatcontrole, die als bevoegde autoriteit van de haven waarnaar het schip onderweg is, is aangewezen, de gegevens gemeld die worden genoemd in bijlage III van de richtlijn havenstaatcontrole. 
 
 ### Artikel  6  
 
 ####Melding scheepsafval
 
-Van een schip als bedoeld in [artikel 12a, eerste lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) worden aan de havenbeheerder, bedoeld in [artikel 1](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) juncto [artikel 6 van die wet](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), van de haven waarnaar toe het schip onderweg is en die wordt genoemd in de [bijlage bij artikel 10 van de Regeling havenontvangstvoorzieningen](../../../../../../../ministeriele-regeling/regeling/havenontvangstvoorzieningen/BWBR0017228/README.md), de gegevens gemeld die worden genoemd in bijlage II van de richtlijn havenontvangstvoorziening. 
+Van een schip als bedoeld in artikel 12a, eerste lid, van de Wet voorkoming verontreiniging door schepen worden aan de havenbeheerder, bedoeld in artikel 1 juncto artikel 6 van die wet, van de haven waarnaar toe het schip onderweg is en die wordt genoemd in de bijlage bij artikel 10 van de Regeling havenontvangstvoorzieningen, de gegevens gemeld die worden genoemd in bijlage II van de richtlijn havenontvangstvoorziening. 
 
 ### Artikel  7  
 
@@ -84,7 +84,7 @@ a. namens een bevoegde autoriteit, ontheffing verlenen van een meldplicht als be
 
 b. namens de bevoegde autoriteit ontheffing verlenen van de meldingsformaliteit, bedoeld in artikel 4, indien en voor zolang door dat zeeschip wordt voldaan aan artikel 7 van de verordening scheeps- en havenbeveiliging;  
 
-c. dit onderdeel is nog niet in werking getreden.   
+c. namens de minister ontheffing verlenen van de meldingsformaliteit, bedoeld in artikel 6, indien en voor zolang wordt voldaan aan artikel 35a van de Wet voorkoming verontreiniging door schepen.   
 
 ### Artikel  8  
 
@@ -110,10 +110,10 @@ Wijzigingen in de op grond van de artikelen 3 tot en met 6 gemelde gegevens en w
 
 ####Wijze van melding
 
-1.  Dit onderdeel is nog niet in werking getreden.  
+De meldingen, bedoeld in de artikelen 3, 4 en 6 worden bij de in die artikelen bedoelde ontvangers van de gegevens, met ingang van 1 juni 2015 elektronisch gedaan via een elektronisch portaal waardoor door een gestandaardiseerde aanlevering van informatie van het bedrijfsleven aan de overheid en het meervoudige gebruik van die informatie door die overheid beoogd wordt de gegevensstromen tussen het bedrijfsleven en de overheid efficiënter te organiseren en de administratieve en toezichtlasten te reduceren.  
 2.  De meldingen, bedoeld in artikel 5, worden zo mogelijk elektronisch gedaan, via het in het eerste lid bedoelde portaal of op een door de plaatselijk bevoegde autoriteit van de haven waarnaar het schip onderweg is, bekend gemaakte alternatieve wijze.   
-3.  Dit onderdeel is nog niet in werking getreden.  
-4.  Dit onderdeel is nog niet in werking getreden.  
+3.  In afwijking van het eerste lid, meldt de kapitein, exploitant of agent van een schip dat onderweg is naar een in Nederland gelegen haven zich op een door de desbetreffende ontvanger van gegevens bekend gemaakte alternatieve wijze indien het schip onderweg is naar een haven die niet is aangesloten op het in het eerste lid bedoelde portaal.   
+4.  In afwijking van het eerste lid, meldt de kapitein van een schip dat onderweg is naar een in Nederland gelegen haven zich op een door de desbetreffende ontvanger van gegevens bekend gemaakte alternatieve wijze indien elektronische melding van hem niet verlangd kan worden bij gebreke van aan boord daartoe geschikte communicatieapparatuur terwijl ook redelijkerwijs van hem niet verlangd kan worden dat een exploitant of agent aan de wal deze melding voor hem verricht.   
 5.  De betreffende ontvanger van gegevens draagt er zorg voor dat de in dit artikel bedoelde wijzen van melden bekend worden gemaakt aan de scheepvaart.  
 
 ### Hoofdstuk  3  
@@ -128,7 +128,7 @@ Wijzigingen in de op grond van de artikelen 3 tot en met 6 gemelde gegevens en w
 
 ####Melding ten behoeven van beloodsing
 
-Bij de melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), verstrekt de kapitein van een schip de volgende gegevens: 
+Bij de melding, bedoeld in artikel 9 van het Loodsplichtbesluit 1995, verstrekt de kapitein van een schip de volgende gegevens: 
 
 a. naam, roepnaam, IMO-identificatienummer en MMSI-nummer van het schip;  
 
@@ -142,14 +142,14 @@ d. alle overige voor de beloodsing van het betreffende schip relevante gegevens 
 
 ####Tijdstip en wijze melding ten behoeve van beloodsing
 
-1.  De melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), ten behoeve van een schip dat komende van zee een haven wil binnenvaren, geschiedt: 
+1.  De melding, bedoeld in artikel 9 van het Loodsplichtbesluit 1995, ten behoeve van een schip dat komende van zee een haven wil binnenvaren, geschiedt: 
 
 1°. ten minste 24 uur voor aankomst; of  
 
 2°. indien de bestemming bij de afvaart uit de vorige haven bekend was en de reisduur minder dan 24 uur bedraagt, uiterlijk op het tijdstip waarop het schip de vorige haven verlaat; of  
 
 3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is.     
-2.  De melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), ten behoeve van een schip dat naar zee vertrekt, geschiedt ten minste 24 uur voor vertrek of indien de afvaart op dat moment nog niet was voorzien, ten minste 12 uur voor vertrek.   
+2.  De melding, bedoeld in artikel 9 van het Loodsplichtbesluit 1995, ten behoeve van een schip dat naar zee vertrekt, geschiedt ten minste 24 uur voor vertrek of indien de afvaart op dat moment nog niet was voorzien, ten minste 12 uur voor vertrek.   
 3.  In alle andere dan de in het eerste en tweede lid bedoelde gevallen, geschiedt de melding ten minste 6 uur voor aankomst of vertrek van het schip.   
 4.  De meldingen, bedoeld in dit artikel, geschieden zo mogelijk elektronisch of op een alternatieve wijze die door of namens de betreffende Regionale loodsencorporatie wordt bekend gemaakt.  
 
@@ -157,7 +157,7 @@ d. alle overige voor de beloodsing van het betreffende schip relevante gegevens 
 
 ####Loodsmeldingen op de Westerschelde
 
-In afwijking van de artikelen 11 en 12, geschiedt de melding, bedoeld in [artikel 9 van het Loodsplichtbesluit 1995](../../../../../../../AMvB/loodsplichtbesluit/1995/BWBR0007512/README.md), voor schepen die loodsplichtig zijn tijdens de vaart op de scheepvaartwegen die worden bedoeld in punt IV van de [bijlage bij artikel 10 van de Scheepvaartverkeerswet](../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), overeenkomstig artikel 13 respectievelijk 14 van het Scheldereglement en de daarop berustende bepalingen. 
+In afwijking van de artikelen 11 en 12, geschiedt de melding, bedoeld in artikel 9 van het Loodsplichtbesluit 1995, voor schepen die loodsplichtig zijn tijdens de vaart op de scheepvaartwegen die worden bedoeld in punt IV van de bijlage bij artikel 10 van de Scheepvaartverkeerswet, overeenkomstig artikel 13 respectievelijk 14 van het Scheldereglement en de daarop berustende bepalingen. 
 
 ### Artikel  14  
 
@@ -173,15 +173,13 @@ Wijzigingen in de op grond van artikel 11 aangeleverde gegevens en wijzigingen v
 
 ####Melding ongevallen aan het Kustwachtcentrum
 
-1.  Een melding als bedoeld in [artikel 4, eerste lid, van de Wet bestrijding ongevallen Noordzee](../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md) en [artikel 12, eerste en tweede lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), wordt gedaan bij het Kustwachtcentrum in Den Helder.   
+1.  Een melding als bedoeld in artikel 4, eerste lid, van de Wet bestrijding ongevallen Noordzee en artikel 12, eerste en tweede lid, van de Wet voorkoming verontreiniging door schepen, wordt gedaan bij het Kustwachtcentrum in Den Helder.   
 2.  Een melding als bedoeld in het eerste lid bevat in elk geval de gegevens, bedoeld in artikel 17, tweede lid, van de richtlijn monitoring- en informatiesysteem zeescheepvaart.   
-3.  Een melding als bedoeld in [artikel 12, eerste lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md) bevat naast de gegevens, bedoeld in het tweede lid, ook de genomen maatregelen met betrekking tot assistentie en berging en de hoeveelheid en soort van de olie, de schadelijke vloeistof, de schadelijke stof in verpakte vorm of de gevaarlijke stoffen aan boord.  
+3.  Een melding als bedoeld in artikel 12, eerste lid, van de Wet voorkoming verontreiniging door schepen bevat naast de gegevens, bedoeld in het tweede lid, ook de genomen maatregelen met betrekking tot assistentie en berging en de hoeveelheid en soort van de olie, de schadelijke vloeistof, de schadelijke stof in verpakte vorm of de gevaarlijke stoffen aan boord.  
 
 ### Artikel  15a  
 
 ####Melding overige incidenten aan Kustwachtcentrum
-
-Treedt in werking per 18-06-2014 
 
 De melding van het verlies of de lozing van vistuig, bedoeld in voorschrift 10.6 van Bijlage V bij het op 2 november 1973 te Londen tot stand gekomen Internationaal Verdrag ter voorkoming van verontreiniging door schepen met Protocollen en Bijlagen met Aanhangsels (Trb. 1975, 147), en met het op 17 februari 1978 te Londen tot stand gekomen Protocol bij dat Verdrag met Bijlage en Aanhangsels (Trb. 1978, 188), wordt gedaan bij het Kustwachtcentrum in Den Helder. 
 
@@ -193,14 +191,14 @@ De melding van het verlies of de lozing van vistuig, bedoeld in voorschrift 10.6
 
 ####Aanwijzing NCA-SafeSeaNet en RIS-autoriteit
 
-De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tevens als RIS-autoriteit, bedoeld in [artikel 10, eerste lid, van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md). 
+De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tevens als RIS-autoriteit, bedoeld in artikel 10, eerste lid, van het besluit. 
 
 ### Artikel  17  
 
 ####Wijze van doorzenden naar SSN
 
-1.  De in [artikel 12 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) bedoelde gegevens worden door de desbetreffende plaatselijk bevoegde autoriteit namens de in artikel 12 van het besluit genoemde ontvangers van gegevens en de havenbeheerder, bedoeld in artikel 5, overeenkomstig de daaraan in het IFCD gestelde eisen aan SafeSeaNet doorgegeven.   
-2.  Onverminderd het eerste lid geschiedt de uitwisseling van gegevens, bedoeld in de [artikelen 12](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), [13](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en [16 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), op de tussen de Minister van Infrastructuur en Milieu en de desbetreffende plaatselijk bevoegde autoriteit, binnen de randvoorwaarden van het IFCD, schriftelijk overeengekomen wijze.  
+1.  De in artikel 12 van het besluit bedoelde gegevens worden door de desbetreffende plaatselijk bevoegde autoriteit namens de in artikel 12 van het besluit genoemde ontvangers van gegevens en de havenbeheerder, bedoeld in artikel 5, overeenkomstig de daaraan in het IFCD gestelde eisen aan SafeSeaNet doorgegeven.   
+2.  Onverminderd het eerste lid geschiedt de uitwisseling van gegevens, bedoeld in de artikelen 12, 13 en 16 van het besluit, op de tussen de Minister van Infrastructuur en Milieu en de desbetreffende plaatselijk bevoegde autoriteit, binnen de randvoorwaarden van het IFCD, schriftelijk overeengekomen wijze.  
 
 ### Hoofdstuk  5  
 
@@ -208,9 +206,9 @@ De directeur-generaal Rijkswaterstaat wordt aangewezen als NCA-SafeSeaNet en tev
 
 ### Artikel  18  
 
-####RIS-diensten waarvoor [11.5a Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) niet geldt
+####RIS-diensten waarvoor 11.5a Telecommunicatiewet niet geldt
 
-Voor de toepassing van [artikel 21, derde lid, van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md), worden, in afwijking van [artikel 11.5a van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) de volgende RIS-diensten aangeboden: 
+Voor de toepassing van artikel 21, derde lid, van het besluit, worden, in afwijking van artikel 11.5a van de Telecommunicatiewet de volgende RIS-diensten aangeboden: 
 
 a. diensten ter voorkoming van hinder en ter vergroting van de veiligheid op de scheepvaartwegen zoals het managen van het scheepvaartverkeer in het algemeen en in het bijzonder na incidenten en ongevallen, bij onoverzichtelijke situaties en bij knooppunten van vaarwegen; en  
 
@@ -224,13 +222,13 @@ b. diensten ter bevordering van de vlotte doorvaart van het scheepvaartverkeer b
 
 ####Aanwijzingen ten behoeve van LRIT
 
-Voor de toepassing van [hoofdstuk 6 van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) wordt aangewezen als: 
+Voor de toepassing van hoofdstuk 6 van het besluit wordt aangewezen als: 
 
 a. LRIT-datacentrum: het datacentrum voor long range identification and tracking van de Europese Unie (EU-LRIT-DC);  
 
 b. applicatie-service provider: Collecte Localisation Satellites;  
 
-c. organisatie die bevoegd is meldplichtige gegevens bij het LRIT-datacentrum op te vragen: het Kustwachtcentrum te Den Helder, tevens in zijn hoedanigheid van Search and Rescue dienst bedoeld in [artikel 24, tweede lid, van het besluit](../../../../../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md);  
+c. organisatie die bevoegd is meldplichtige gegevens bij het LRIT-datacentrum op te vragen: het Kustwachtcentrum te Den Helder, tevens in zijn hoedanigheid van Search and Rescue dienst bedoeld in artikel 24, tweede lid, van het besluit;  
 
 d. organisatie die bevoegd is aan te geven met welke intervallen meldplichtige gegevens door middel van het LRIT worden verzonden: het Kustwachtcentrum te Den Helder;  
 
@@ -253,40 +251,33 @@ e. organisatie aan wie wordt gemeld dat het LRIT is uitgeschakeld: het Kustwacht
 
 ### Artikel  21  
 
-####Wijziging [aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement](../../../../../../../ministeriele-regeling/beschikking/aanwijzing/bevoegde/autoriteiten/binnenvaartpolitiereglement/BWBR0017541/README.md)
+####Wijziging aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement
 
 Wijzigt de Beschikking aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement. 
 
 ### Artikel  22  
 
-####Wijziging [aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen](../../../../../../../ministeriele-regeling/aanwijzing/bevoegde/autoriteit/scheepvaartreglement/kanaal/van/gent/naar/etc/BWBR0005954/README.md)
+####Wijziging aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen
 
 Wijzigt de Aanwijzing bevoegde autoriteit Scheepvaartreglement Kanaal van Gent naar Terneuzen. 
 
 ### Artikel  23  
 
-####Wijziging [aanwijzingsbesluit territoriale zee](../../../../../../../ministeriele-regeling/regeling/aanwijzing/bevoegde/autoriteiten/scheepvaartreglement/etc/BWBR0008644/README.md)
+####Wijziging aanwijzingsbesluit territoriale zee
 
 Wijzigt de Regeling aanwijzing bevoegde autoriteiten Scheepvaartreglement territoriale zee. 
 
 ### Artikel  24  
 
-####Wijziging [Regeling havenstaatcontrole 2011](../../../../../../../ministeriele-regeling/regeling/havenstaatcontrole/2011/BWBR0029373/README.md)
+####Wijziging Regeling havenstaatcontrole 2011
 
 Wijzigt de Regeling havenstaatcontrole 2011. 
 
 ### Artikel  25  
 
-####Wijziging [Regeling communicatie rijksbinnenwateren](../../../../../../../ministeriele-regeling/regeling/communicatie/rijksbinnenwateren/BWBR0010360/README.md)
+####Wijziging Regeling communicatie rijksbinnenwateren
 
 Wijzigt de Regeling communicatie rijksbinnenwateren. 
-
-### Artikel  26  
-
-####Overgangsbepaling
-
-1.  In afwijking van artikel 10, eerste lid, worden de meldingen bedoeld in de artikelen 3 en 4, tot 1 juni 2015 zo mogelijk elektronisch gedaan op de door de desbetreffende bevoegde autoriteit of plaatselijk bevoegde autoriteit aan de scheepvaart bekend gemaakte wijze. Door een bevoegde autoriteit onderscheidenlijk een plaatselijk bevoegde autoriteit wordt tevens een alternatieve wijze van melden bekendgemaakt.   
-2.  In afwijking van artikel 10, eerste lid, wordt de melding, bedoeld in artikel 6, tot 1 juni 2015 gedaan op de door de desbetreffende havenbeheerder of plaatselijk bevoegde autoriteit aangegeven wijze.  
 
 ### Artikel  27  
 
@@ -294,11 +285,11 @@ Wijzigt de Regeling communicatie rijksbinnenwateren.
 
 De volgende regelingen worden ingetrokken: 
 
-a. de [Regeling communicatie en loodsaanvragen zeevaart](../../../../../../../ministeriele-regeling/regeling/communicatie/en/loodsaanvragen/zeevaart/BWBR0010359/README.md), met dien verstande dat de melding bij PLVTS voor de aanloop naar Scheveningen en Rotterdam, bedoeld in de [bijlage 2 van die regeling](../../../../../../../ministeriele-regeling/regeling/communicatie/en/loodsaanvragen/zeevaart/BWBR0010359/README.md) eerst met ingang van 1 juni 2015 vervalt;  
+a. de Regeling communicatie en loodsaanvragen zeevaart, met dien verstande dat de melding bij PLVTS voor de aanloop naar Scheveningen en Rotterdam, bedoeld in de bijlage 2 van die regeling eerst met ingang van 1 juni 2015 vervalt;  
 
-b. de [Regeling meldingen en voorvallen op zee 2005](../../../../../../../ministeriele-regeling/regeling/melding/ongevallen/en/voorvallen/op/zee/2005/BWBR0017729/README.md);  
+b. de Regeling meldingen en voorvallen op zee 2005;  
 
-c. de [Regeling verstrekken gegevens scheepvaart 2007](../../../../../../../ministeriele-regeling/regeling/verstrekken/gegevens/scheepvaart/2007/BWBR0022579/README.md);  
+c. de Regeling verstrekken gegevens scheepvaart 2007;  
 
 d. het besluit van de Staatssecretaris van Verkeer en Waterstaat van 10 juli 2009, nr. CEND/HDJZ-2009/805 sector SCH, houdende aanwijzen datacentrum, applicatie-service provider, en organisaties met bepaalde bevoegdheden met betrekking tot long range identification and tracking (LRIT) voor de zeevaart (Stcrt. 10815); en  
 
@@ -308,7 +299,7 @@ e. het besluit van de Minister van Infrastructuur en Milieu van 11 maart 2011, n
 
 ####Omhangbepaling ten behoeve van artikel 17 
 
-Na inwerkingtreding van deze regeling berust de op grond van [artikel 3, tweede lid, van de Regeling verstrekking gegevens scheepvaart 2007](../../../../../../../ministeriele-regeling/regeling/verstrekken/gegevens/scheepvaart/2007/BWBR0022579/README.md) of de op grond van [artikel 2, tweede lid, van de Regeling verstrekking gegevens scheepvaart](../../../../../../../ministeriele-regeling/regeling/verstrekken/gegevens/scheepvaart/BWBR0017890/README.md), door de Minister van Infrastructuur en Milieu en de desbetreffende autoriteit, overeengekomen wijze van melden, op artikel 17, tweede lid, van deze regeling. 
+Na inwerkingtreding van deze regeling berust de op grond van artikel 3, tweede lid, van de Regeling verstrekking gegevens scheepvaart 2007 of de op grond van artikel 2, tweede lid, van de Regeling verstrekking gegevens scheepvaart, door de Minister van Infrastructuur en Milieu en de desbetreffende autoriteit, overeengekomen wijze van melden, op artikel 17, tweede lid, van deze regeling. 
 
 ### Artikel  29  
 
@@ -336,7 +327,7 @@ I.
 
 1. voor zeeschepen die onderweg zijn naar een in de Nederlandse territoriale zee gelegen ankerplaatsen, of laad- of losinrichtingen: 
 
-a. voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md);  
+a. voor het aanloopgebied Scheldemonden: de Rijkshavenmeester Westerschelde, bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990;  
 
 b. voor het aanloopgebied Rotterdam: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;  
 
@@ -356,11 +347,11 @@ a. de havenmeester van de havendienst van de desbetreffende haven of van de geme
 
 b. voor wat betreft Terneuzen: de havenmeester werkzaam bij Zeeland Seaports N.V.;  
 
-c. de Westerschelde, voor wat betreft ten anker komende schepen: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md);  
+c. de Westerschelde, voor wat betreft ten anker komende schepen: de Rijkshavenmeester Westerschelde, bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990;  
 
 d. voor wat betreft Vlissingen: de havenmeester werkzaam bij Zeeland Seaports N.V.;  
 
-e. voor wat betreft het Kanaal van Gent naar Terneuzen: de Rijkshavenmeester Westerschelde, bedoeld in [artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990](../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md) maar voor de daaraan liggende zijkanalen de havenmeester werkzaam bij Zeeland Seaports N.V.;  
+e. voor wat betreft het Kanaal van Gent naar Terneuzen: de Rijkshavenmeester Westerschelde, bedoeld in artikel 2, tweede lid, onderdeel a, van het Scheepvaartreglement Westerschelde 1990 maar voor de daaraan liggende zijkanalen de havenmeester werkzaam bij Zeeland Seaports N.V.;  
 
 f. voor wat betreft Dordrecht: de havenmeester van Rotterdam, werkzaam bij Havenbedrijf Rotterdam N.V.;  
 
@@ -372,13 +363,13 @@ i. voor wat betreft IJmuiden: voor de haven van Tata Steel, de 1°, 2° en 3° R
 
 j. de Waddenzee, voor wat ten anker komende schepen betreft: 
 
-1° de Commandant der maritieme middelen van de Koninklijke marine, voor wat betreft schepen die ten anker komen in zijn bevoegdheidsgebied zoals omschreven in [artikel 1, vierde lid, van de regeling van de Minister van Verkeer en Waterstaat van 28 september 1995](../../../../../../../ministeriele-regeling/regeling/aanwijzing/bevoegde/autoriteit/binnenvaartpolitiereglement/BWBR0007579/README.md), nr. 205342, houdende aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement, Stcrt. 190;  
+1° de Commandant der maritieme middelen van de Koninklijke marine, voor wat betreft schepen die ten anker komen in zijn bevoegdheidsgebied zoals omschreven in artikel 1, vierde lid, van de regeling van de Minister van Verkeer en Waterstaat van 28 september 1995, nr. 205342, houdende aanwijzing bevoegde autoriteiten Binnenvaartpolitiereglement, Stcrt. 190;  
 
 2° de directeur van het havenschap Groningen Seaports, voor wat betreft schepen die ten anker komen in het overige gedeelte van de Waddenzee;    
 
 k. voor wat betreft Delfzijl en Eemshaven: de directeur van het havenschap Groningen Seaports.      
 
-II. Degenen die bij of krachtens het [Binnenvaartpolitiereglement](../../../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), [Rijnvaartpolitiereglement](../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md), [Scheepvaartreglement Eemsmonding](../../../../../../../AMvB/scheepvaartreglement/eemsmonding/BWBR0004552/README.md), [Scheepvaartreglement Westerschelde](../../../../../../../AMvB/scheepvaartreglement/westerschelde/1990/BWBR0005393/README.md), [Scheepvaartreglement voor het kanaal van Gent naar Terneuzen](../../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) of het [Scheepvaartreglement gemeenschappelijke Maas](../../../../../../../KB/scheepvaartreglement/gemeenschappelijke/maas/BWBR0006618/README.md), als bevoegde autoriteit zijn aangewezen.   
+II. Degenen die bij of krachtens het Binnenvaartpolitiereglement, Rijnvaartpolitiereglement, Scheepvaartreglement Eemsmonding, Scheepvaartreglement Westerschelde, Scheepvaartreglement voor het kanaal van Gent naar Terneuzen of het Scheepvaartreglement gemeenschappelijke Maas, als bevoegde autoriteit zijn aangewezen.   
 
 ### Bijlage  2  
 

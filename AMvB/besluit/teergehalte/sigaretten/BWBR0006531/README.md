@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 15 november 1993, GVC/ADT 93.3362, gedaan mede namens Onze Minister van Economische Zaken;
 
-Gelet op richtlijn nummer 90/239/EEG van de Raad van de Europese Gemeenschappen van 17 mei 1990 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake het maximale teergehalte in sigaretten (*Pb EG* L 137), alsmede op [artikel 2, tweede lid van de Tabakswet](../../../../../wet/tabakswet/BWBR0004302/README.md);
+Gelet op richtlijn nummer 90/239/EEG van de Raad van de Europese Gemeenschappen van 17 mei 1990 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de Lid-Staten inzake het maximale teergehalte in sigaretten (*Pb EG* L 137), alsmede op artikel 2, tweede lid van de Tabakswet;
 
 De Raad van State gehoord (advies van 3 februari 1994, nr. W13.93.0751);
 

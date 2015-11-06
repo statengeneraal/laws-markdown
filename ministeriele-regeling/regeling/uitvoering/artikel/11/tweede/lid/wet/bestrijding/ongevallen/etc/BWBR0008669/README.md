@@ -3,16 +3,16 @@
 ##Regeling uitvoering artikel 11, tweede lid, Wet bestrijding ongevallen Noordzee
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 11, tweede lid, van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md);
+Gelet op artikel 11, tweede lid, van de Wet bestrijding ongevallen Noordzee;
 Besluit:     
 
 ### Artikel  1  
 
-Als ambtenaren die zijn belast met het toezicht op de naleving van aanwijzingen, gegeven krachtens [artikel 5 van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), en met het uitvoeren van maatregelen, genomen krachtens [artikel 6 van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md), worden aangewezen de directeur Kustwacht en de ambtenaren van de in de Kustwacht samenwerkende diensten die door hem zijn belast met de incidentenbestrijding overeenkomstig het Incidentbestrijdingsplan Noordzee. 
+Als ambtenaren die zijn belast met het toezicht op de naleving van aanwijzingen, gegeven krachtens artikel 5 van de Wet bestrijding ongevallen Noordzee, en met het uitvoeren van maatregelen, genomen krachtens artikel 6 van de Wet bestrijding ongevallen Noordzee, worden aangewezen de directeur Kustwacht en de ambtenaren van de in de Kustwacht samenwerkende diensten die door hem zijn belast met de incidentenbestrijding overeenkomstig het Incidentbestrijdingsplan Noordzee. 
 
 ### Artikel  2  
 
-De regeling van de Minister van Verkeer en Waterstaat van 13 oktober 1992, nr. J 31.033/92 (Stcrt. 208), houdende de uitvoering van [artikel 11, tweede lid, van de Wet bestrijding ongevallen Noordzee](../../../../../../../../../../../../wet/wet/bestrijding/ongevallen/noordzee/BWBR0005444/README.md) wordt ingetrokken.  
+De regeling van de Minister van Verkeer en Waterstaat van 13 oktober 1992, nr. J 31.033/92 (Stcrt. 208), houdende de uitvoering van artikel 11, tweede lid, van de Wet bestrijding ongevallen Noordzee wordt ingetrokken.  
 
 ### Artikel  3  
 
