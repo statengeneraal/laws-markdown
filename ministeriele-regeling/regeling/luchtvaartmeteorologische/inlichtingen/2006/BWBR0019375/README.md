@@ -18,7 +18,7 @@ In deze regeling wordt verstaan onder: aerodrome warning: een waarschuwing aan l
 
 ####Grondslag
 
-Deze regeling berust op artikel 26, tweede lid, van het Besluit luchtverkeer 2014. 
+Deze regeling berust op artikel 8b van de Wet op het Koninklijk Nederlands Meteorologisch Instituut en artikel 26, tweede lid, van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 

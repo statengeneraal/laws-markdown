@@ -20,13 +20,7 @@ a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. instelling:  
 
-1°. elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin:  
-
-a. zorg wordt verleend als omschreven bij of krachtens de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
-
-b. maatschappelijke ondersteuning wordt geboden door derden als bedoeld in artikel 10 van de Wet maatschappelijke ondersteuning;   
-
-c. verslavingszorg wordt verleend;     
+1°. elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin zorg wordt verleend als omschreven bij of krachtens de Zorgverzekeringswet of de Wet langdurige zorg;  
 
 2°. een gemeentelijke gezondheidsdienst als bedoeld in artikel 14 van de Wet publieke gezondheid;  
 
@@ -38,13 +32,13 @@ c. zorgaanbieder:
 
 2°. de rechtspersonen of natuurlijke personen, die gezamenlijk een instelling in stand houden;   
 
-3°. een natuurlijk persoon die anders dan in het kader van een dienstverband met een instelling, zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten verleent;     
+3°. een natuurlijk persoon die anders dan in het kader van een dienstverband met een instelling, zorg als omschreven bij of krachtens de Zorgverzekeringswet en de Wet langdurige zorg verleent;     
 
-d. cliënt: een natuurlijk persoon aan wie de zorgaanbieder maatschappelijke ondersteuning of gezondheidszorg verleent of heeft verleend;   
+d. cliënt: een natuurlijk persoon aan wie de zorgaanbieder gezondheidszorg verleent of heeft verleend;   
 
 e. gedraging: enig handelen of nalaten alsmede het nemen van een besluit dat gevolgen heeft voor een cliënt.      
-2.   Bij algemene maatregel van bestuur kunnen andere in de maatschappij als zelfstandige eenheid optredende organisatorische verbanden, waarin maatschappelijke ondersteuning of gezondheidszorg wordt verleend, worden aangemerkt als instelling in de zin van deze wet.    
-3.   Bij algemene maatregel van bestuur kunnen andere natuurlijke personen, die maatschappelijke ondersteuning of gezondheidszorg verlenen, worden aangemerkt als zorgaanbieder in de zin van deze wet.    
+2.   Bij algemene maatregel van bestuur kunnen andere in de maatschappij als zelfstandige eenheid optredende organisatorische verbanden, waarin gezondheidszorg wordt verleend, worden aangemerkt als instelling in de zin van deze wet.    
+3.   Bij algemene maatregel van bestuur kunnen andere natuurlijke personen, die gezondheidszorg verlenen, worden aangemerkt als zorgaanbieder in de zin van deze wet.    
 4.   Deze wet is niet van toepassing op klachten van onvrijwillig in een inrichting opgenomen cliënten, voor zover deze overeenkomstig een bijzondere wettelijke regeling door een klachtencommissie kunnen worden behandeld.   
 
 ###Hoofdstuk II 

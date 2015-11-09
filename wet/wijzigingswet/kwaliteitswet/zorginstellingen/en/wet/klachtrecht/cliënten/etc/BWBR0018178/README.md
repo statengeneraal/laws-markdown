@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het ter bevordering van de kwaliteit van de zorg wenselijk is in de [Kwaliteitswet zorginstellingen](../../../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) de verplichting voor de zorgaanbieder neer te leggen tot het melden van calamiteiten en seksueel misbruik, in de [Wet klachtrecht cliënten zorgsector](../../../../../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) regels te stellen omtrent het toezicht op de naleving van [die wet](../../../../../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md), en in beide wetten verdere eisen te stellen aan de verslaglegging;
+Alzo Wij in overweging genomen hebben, dat het ter bevordering van de kwaliteit van de zorg wenselijk is in de Kwaliteitswet zorginstellingen de verplichting voor de zorgaanbieder neer te leggen tot het melden van calamiteiten en seksueel misbruik, in de Wet klachtrecht cliënten zorgsector regels te stellen omtrent het toezicht op de naleving van die wet, en in beide wetten verdere eisen te stellen aan de verslaglegging;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
 ###Artikel I 
@@ -19,11 +19,11 @@ Wijzigt de Wet klachtrecht cliënten zorgsector.
 
 ###Artikel III 
 
-In afwijking van [artikel 2, zevende lid, van de Wet klachtrecht cliënten zorgsector](../../../../../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) kan in het openbaar verslag over het kalenderjaar, voorafgaande aan het jaar waarin deze wet in werking treedt, worden volstaan met het aangeven van het aantal en de aard van de door de klachtencommissie, bedoeld in [artikel 2, tweede lid, onder a, van de Wet klachtrecht cliënten zorgsector](../../../../../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) behandelde klachten.
+In afwijking van artikel 2, zevende lid, van de Wet klachtrecht cliënten zorgsector kan in het openbaar verslag over het kalenderjaar, voorafgaande aan het jaar waarin deze wet in werking treedt, worden volstaan met het aangeven van het aantal en de aard van de door de klachtencommissie, bedoeld in artikel 2, tweede lid, onder a, van de Wet klachtrecht cliënten zorgsector behandelde klachten.
 
 ###Artikel IV 
 
-Op verzoekschriften, die voor het tijdstip van inwerkingtreding van deze wet op grond van [artikel 3 van de Wet klachtrecht cliënten zorgsector](../../../../../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) bij de kantonrechter zijn ingediend, blijft dat artikel van toepassing.
+Op verzoekschriften, die voor het tijdstip van inwerkingtreding van deze wet op grond van artikel 3 van de Wet klachtrecht cliënten zorgsector bij de kantonrechter zijn ingediend, blijft dat artikel van toepassing.
 
 ###Artikel V 
 

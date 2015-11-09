@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 3 juli 2012, nr. IENM/BSK-2012/109658, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Eelde, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Eelde)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 2008, 561);
+Gelet op artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,21 +13,26 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-–  *circuitvlucht:* vliegtuigbewegingen in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen;   
+*circuitvlucht:* vliegtuigbewegingen in de onmiddellijke omgeving van de luchthaven, in het bijzonder verband houdend met het starten, het oefenen voor het landen en het landen;   
 
-–  *exploitant:* Groningen Airport Eelde N.V.;  
+*daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;  
 
-–  *lesvlucht:* vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;  
+*exploitant:* Groningen Airport Eelde N.V.; 
 
-–  *oefenvlucht:* solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;  
+*helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;  
 
-–  *proefvlucht:* vlucht die wordt uitgevoerd ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtwaardigheidsvoorschriften;  
+*lesvlucht:* vlucht onder leiding van een instructeur om vliegvaardigheid te verkrijgen;  
 
-–  *straalvliegtuig:* een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd;  
+*oefenvlucht:* solovlucht voor het verkrijgen dan wel behouden van vliegvaardigheid;  
 
-–  *wet:* [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).     
-2.  In deze regeling wordt verstaan onder daglichtperiode, helikopter, vliegtuig en vrije ballon hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
-3.  Het gebruiksjaar betreft de periode van 1 april van enig jaar tot 1 april van het daarop volgende jaar.  
+*proefvlucht:* vlucht die wordt uitgevoerd ter beproeving van de eigenschappen en goede werking van een luchtvaartuig of voor de levering van bewijs van het voldoen aan de luchtwaardigheidsvoorschriften;  
+
+*straalvliegtuig:* een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd;  
+
+*vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels; 
+
+*wet:* wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur.     
+2.  Het gebruiksjaar betreft de periode van 1 april van enig jaar tot 1 april van het daarop volgende jaar.  
 
 ### Hoofdstuk  2  
 
@@ -89,7 +94,7 @@ b. extreme meteorologische omstandigheden die een vertraging van de start volgen
 
 ### Artikel  7  
 
-De ligging van de handhavingspunten, bedoeld in [artikel X, eerste en tweede lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
+De ligging van de handhavingspunten, bedoeld in artikel X, eerste en tweede lid, van de wet, en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -97,7 +102,7 @@ De ligging van de handhavingspunten, bedoeld in [artikel X, eerste en tweede lid
 
 ### Artikel  8  
 
-De beperkingengebieden, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), zijn aangegeven op de kaarten in bijlage 2 en 3 bij deze regeling. 
+De beperkingengebieden, bedoeld in artikel X, vijfde lid, van de wet, zijn aangegeven op de kaarten in bijlage 2 en 3 bij deze regeling. 
 
 ### Hoofdstuk  5  
 

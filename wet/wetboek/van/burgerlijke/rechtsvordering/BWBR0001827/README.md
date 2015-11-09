@@ -3412,6 +3412,12 @@ d.indien het beslag niet wordt gelegd door een deurwaarder ten kantore van wie w
 1. Eveneens vallen onder het beslag vorderingen tot vergoeding die na de inschrijving in de plaats van de zaak zijn getreden, daaronder begrepen vorderingen ter zake van waardevermindering van de zaak. 
 2.  Zij moeten met overeenkomstige toepassing van artikel 507, derde lid, aan de notaris worden voldaan, behoudens de rechten van derden, die de executant moet eerbiedigen. 
 
+### Artikel  507b  
+Treedt in werking per 01-01-2016 
+
+1.  Een beslag gelegd op een onroerende zaak nadat de koop van de zaak is ingeschreven in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, op de wijze die is voorgeschreven in artikel 3 van Boek 7 van het Burgerlijk Wetboek, rust na de levering van de zaak op het deel van de koopprijs dat de notaris ten behoeve van de verkoper onder zich houdt, op voorwaarde dat de levering heeft plaatsgevonden binnen de termijn genoemd in lid 4 van artikel 3 van Boek 7.   
+2.  De artikelen 475i, 476–478 zijn van overeenkomstige toepassing.  
+
 ###Artikel 508 
 
 Rusten op de in beslag genomen zaak een of meer hypotheken, dan zal de beslaglegger het door hem gelegde beslag uiterlijk binnen vier dagen na de inschrijving in de betreffende openbare registers aan de hypotheekhouders doen betekenen; de betekening mag geschieden aan de door deze overeenkomstig artikel 260, eerste lid, derde zin, van Boek 3 van het Burgerlijk Wetboek gekozen woonplaats. 

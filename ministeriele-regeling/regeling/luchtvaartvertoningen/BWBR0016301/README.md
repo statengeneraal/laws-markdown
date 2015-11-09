@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Verkeer en Waterstaat houdende regels inzake luchtvaartvertoningen (Regeling luchtvaartvertoningen)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 158, tweede lid, van de Regeling Toezicht Luchtvaart](../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md);
+Gelet op artikel 158, tweede lid, van de Regeling Toezicht Luchtvaart;
 Besluit:     
 ### §  1  
 
@@ -11,18 +11,16 @@ Besluit:
 
 ### Artikel  1  
 
-1.  De begripsbepalingen van de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de daarop berustende bepalingen zijn van toepassing op deze regeling.   
+1.  De begripsbepalingen van de Wet luchtvaart en de daarop berustende bepalingen zijn van toepassing op deze regeling.   
 2.  Voorts wordt in deze regeling verstaan onder: 
 
-a.  *baan*: een al dan niet verhard gedeelte van het terrein, waar de luchtvaartvertoning wordt gehouden, bestemd voor het opstijgen en landen van demonstratietoestellen;  
+*baan*: een al dan niet verhard gedeelte van het terrein, waar de luchtvaartvertoning wordt gehouden, bestemd voor het opstijgen en landen van demonstratietoestellen;  
 
-b.  *BVG*: een krachtens [artikel 8 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) door de minister aangewezen bijzonder luchtverkeersgebied;  
+*beoordelaar*: een door de Koninklijke Nederlandse Vereniging voor Luchtvaart aangewezen persoon, die bedreven is in het uitvoeren van kunstvluchten;  
 
-c.  *beoordelaar*: een door de Koninklijke Nederlandse Vereniging voor Luchtvaart aangewezen persoon, die bedreven is in het uitvoeren van kunstvluchten;  
+*deelnemer*: een persoon die op basis van artikel 18, eerste lid, als deelnemer tot de luchtvaartvertoning is toegelaten;  
 
-d.  *deelnemer*: een persoon die op basis van artikel 18, eerste lid, als deelnemer tot de luchtvaartvertoning is toegelaten;  
-
-e.  *demonstratietoestel*: een luchtvaartuig dat onderdeel uitmaakt van de luchtvaartvertoning, onderverdeeld in de volgende categorieën: 
+*demonstratietoestel*: een luchtvaartuig dat onderdeel uitmaakt van de luchtvaartvertoning, onderverdeeld in de volgende categorieën: 
 
 1°. categorie A: vliegtuig, zweefvliegtuig, helikopter, luchtschip;  
 
@@ -30,11 +28,11 @@ e.  *demonstratietoestel*: een luchtvaartuig dat onderdeel uitmaakt van de lucht
 
 3°. categorie C: zeilvliegtuig, schermvliegtuig, valschermzweeftoestel, valscherm, modelvliegtuig, kabelvlieger en kleine ballon;    
 
-f.  *langsvlucht*: een vlucht waarbij een demonstratietoestel in een éénparige en rechte lijn boven het vertoningterrein vliegt;  
+*langsvlucht*: een vlucht waarbij een demonstratietoestel in een éénparige en rechte lijn boven het vertoningterrein vliegt;  
 
-g.  *luchthaveninformatieverstrekker*: een persoon met een bewijs van bevoegdheid als bedoeld in [artikel 17, onderdeel d, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), dat geldig is voor de luchtvaartvertoning;  
+*luchthaveninformatieverstrekker*: een persoon met een bewijs van bevoegdheid als bedoeld in artikel 17, onderdeel d, van het Besluit bewijzen van bevoegdheid voor de luchtvaart, dat geldig is voor de luchtvaartvertoning;  
 
-h.  *luchtvaartvertoning*: een evenement met één of meer demonstratietoestellen in de lucht, georganiseerd om aan publiek amusement te verschaffen, behoudens: 
+*luchtvaartvertoning*: een evenement met één of meer demonstratietoestellen in de lucht, georganiseerd om aan publiek amusement te verschaffen, behoudens: 
 
 1°. evenementen die uitsluitend bestaan uit maximaal vijf vrije ballonnen;  
 
@@ -42,41 +40,45 @@ h.  *luchtvaartvertoning*: een evenement met één of meer demonstratietoestelle
 
 3°. evenementen die bestaan uit een combinatie van de onder 2° bedoelde demonstratietoestellen mits deze niet in een onderdeel worden samengevoegd;    
 
-i.  *minister*: de Minister van Verkeer en Waterstaat;  
+*minister*: Minister van Infrastructuur en Milieu;  
 
-j.  *obstakel*: een roerende of onroerende zaak, zowel tijdelijk als permanent, of een deel daarvan, die een belemmering vormt voor een luchtvaartuig, in een gebied bestemd voor bewegingen van een luchtvaartuig op de grond dan wel uitsteekt boven een omschreven vlak ter bescherming van een luchtvaartuig in zijn vlucht;  
+*obstakel*: een roerende of onroerende zaak, zowel tijdelijk als permanent, of een deel daarvan, die een belemmering vormt voor een luchtvaartuig, in een gebied bestemd voor bewegingen van een luchtvaartuig op de grond dan wel uitsteekt boven een omschreven vlak ter bescherming van een luchtvaartuig in zijn vlucht;  
 
-k.  *onderdeel*: een afzonderlijk punt van het vertoningprogramma bestaande uit één demonstratietoestel of meer demonstratietoestellen die gelijktijdig optreden, waarbij de deelnemers onderlinge afspraken hebben gemaakt over de uitvoering van het onderdeel;  
+*onderdeel*: een afzonderlijk punt van het vertoningprogramma bestaande uit één demonstratietoestel of meer demonstratietoestellen die gelijktijdig optreden, waarbij de deelnemers onderlinge afspraken hebben gemaakt over de uitvoering van het onderdeel;  
 
-l.  *organisator*: de natuurlijke persoon of rechtspersoon die de houder is van de vergunning;  
+*organisator*: de natuurlijke persoon of rechtspersoon die de houder is van de vergunning;  
 
-m.  *plaatselijke vlucht*: iedere vlucht die vertrekt van of aankomt op het vertoningterrein en die geen deel uitmaakt van de luchtvaartvertoning;  
+*plaatselijke vlucht*: iedere vlucht die vertrekt van of aankomt op het vertoningterrein en die geen deel uitmaakt van de luchtvaartvertoning;  
 
-n.  *publiekgebied*: het gebied, waaronder begrepen het parkeerterrein, gereserveerd voor toeschouwers;  
+*publiekgebied*: het gebied, waaronder begrepen het parkeerterrein, gereserveerd voor toeschouwers;  
 
-o.  *publieklijn*: de voorste rand van gebieden die toegankelijk zijn voor toeschouwers voor wie de luchtvaartvertoning of een onderdeel van de luchtvaartvertoning plaatsvindt;  
+*publieklijn*: de voorste rand van gebieden die toegankelijk zijn voor toeschouwers voor wie de luchtvaartvertoning of een onderdeel van de luchtvaartvertoning plaatsvindt;  
 
-p.  *vergunning*: de vergunning als bedoeld in [artikel 17 van de Luchtvaartwet](../../../../wet/luchtvaartwet/BWBR0002267/README.md) afgegeven door de minister;  
+* tijdelijk gebied met beperkingen*: krachtens artikel 9 van het Besluit luchtverkeer 2014 door de minister aangewezen gebied met beperkingen;  
 
-q.  *vertoningdirecteur*: de persoon die namens de organisator belast is met de leiding en veilige uitvoering van een luchtvaartvertoning;  
+*vergunning*: de vergunning als bedoeld in artikel 17 van de Luchtvaartwet afgegeven door de minister;  
 
-r.  *vertoninggebied*: de luchtruimte waarbinnen de luchtvaartvertoning plaatsvindt;  
+*verordening (EU) nr. 923/2012*: uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281); 
 
-s.  *vertoninglicentie*: schriftelijke verklaring van bekwaamheid voor het vliegen tijdens luchtvaartvertoningen;  
+*vertoningdirecteur*: de persoon die namens de organisator belast is met de leiding en veilige uitvoering van een luchtvaartvertoning;  
 
-t.  *vertoninglijn*: een lijn die aangeeft tot hoever een demonstratietoestel de publieklijn mag naderen;   
+*vertoninggebied*: de luchtruimte waarbinnen de luchtvaartvertoning plaatsvindt;  
 
-u.  *vertoningprogramma*: het samenstel van onderdelen van de luchtvaartvertoning;  
+*vertoninglicentie*: schriftelijke verklaring van bekwaamheid voor het vliegen tijdens luchtvaartvertoningen;  
 
-v.  *vertoningterrein*: het water- dan wel landoppervlak waarboven de luchtvaartvertoning hoofdzakelijk plaatsvindt;  
+*vertoninglijn*: een lijn die aangeeft tot hoever een demonstratietoestel de publieklijn mag naderen;   
 
-w.  *vertoningvlucht*: iedere vlucht met een demonstratietoestel die wordt uitgevoerd in het kader van een luchtvaartvertoning.     
+*vertoningprogramma*: het samenstel van onderdelen van de luchtvaartvertoning;  
+
+*vertoningterrein*: het water- dan wel landoppervlak waarboven de luchtvaartvertoning hoofdzakelijk plaatsvindt;  
+
+*vertoningvlucht*: iedere vlucht met een demonstratietoestel die wordt uitgevoerd in het kader van een luchtvaartvertoning.     
 3.  Onder luchtvaartvertoning wordt mede verstaan een luchtvaartwedstrijd, georganiseerd om aan publiek amusement te verschaffen.   
 4.  Voor de toepassing van deze regeling wordt onder luchtvaartwedstrijd als bedoeld in het derde lid, verstaan elk binnen het vertoninggebied uitgevoerd onderdeel met een of meer demonstratietoestellen in de lucht ter vaststelling of vergelijking van prestaties hetzij van de deelnemers, hetzij van de demonstratietoestellen.  
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 158, tweede lid, van de Regeling Toezicht Luchtvaart](../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) en [artikel 8a.51, derde lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).
+Deze regeling berust op artikel 158, tweede lid, van de Regeling Toezicht Luchtvaart en artikel 8a.51, derde lid, van de Wet luchtvaart.
 
 ### Artikel  2  
 
@@ -93,7 +95,7 @@ Deze regeling is niet van toepassing op militaire deelnemers en militaire demons
 
 ### Artikel  4  
 
-De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning op een gecontroleerde luchthaven als bedoeld in [artikel 5, eerste lid, van de Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md), indien gedurende de luchtvaartvertoning luchtverkeersleiding wordt verzorgd door een van de in de [artikelen 5.13](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [5.14 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde bestuursorganen. 
+De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning op een gecontroleerde luchthaven als bedoeld in artikel 5, eerste lid, van de Regeling luchtverkeersdienstverlening, indien gedurende de luchtvaartvertoning luchtverkeersleiding wordt verzorgd door een van de in de artikelen 5.13 of 5.14 van de Wet luchtvaart genoemde bestuursorganen. 
 
 ### Artikel  5  
 
@@ -106,7 +108,7 @@ b. er is een luchthaveninformatieverstrekker.
 
 ### Artikel  6  
 
-1.  De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning op een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt, waarvoor krachtens [artikel 8a.51 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) ontheffing is verleend, indien aan de volgende voorwaarden is voldaan: 
+1.  De minister kan een vergunning verlenen voor het houden van een luchtvaartvertoning op een terrein dat geschikt is om tijdelijk en uitzonderlijk te worden gebruikt, waarvoor krachtens artikel 8a.51 van de Wet luchtvaart ontheffing is verleend, indien aan de volgende voorwaarden is voldaan: 
 
 a. de grootte van het vertoninggebied, gerekend vanuit het centrum van en parallel aan de vertoninglijn alsmede gerekend vanaf de vertoninglijn richting de zijde van het gebied waar zich geen toeschouwers bevinden, wordt aan de hand van tabel 1 van de bijlage, behorend bij deze regeling, vastgelegd in de vergunning;  
 
@@ -118,7 +120,7 @@ c. bij het bepalen van het vertoninggebied stelt de vertoningdirecteur vast of z
 
 2°. milieubeschermingsgebieden,  
 
-3°. vogelconcentratiegebieden, zoals gepubliceerd in de luchtvaartgids, bedoeld in [artikel 60, onderdeel a, onder 1, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md),  
+3°. vogelconcentratiegebieden, zoals gepubliceerd in de luchtvaartgids, bedoeld in artikel 2 van verordening (EU) nr. 923/2012,  
 
 4°. chemische industrieën,  
 
@@ -150,7 +152,7 @@ d. in de invliegsector en de uitvliegsector van de baan steken geen obstakels do
 e. demonstratietoestellen naderen en verlaten het vertoninggebied uitsluitend via een van tevoren vastgestelde procedure;  
 
 f. er is een luchthaveninformatieverstrekker;     
-3.  De [artikelen 4](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [5](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [6](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [11](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [12](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [13](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [15](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [16](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [18](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), [19](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md), en [26a van het Algemeen luchthavenreglement](../../../../ministeriele-regeling/algemeen/luchthavenreglement/BWBR0010160/README.md) zijn ten aanzien van het vertoningterrein van overeenkomstige toepassing.   
+3.  De artikelen 4, 5, 6, 11, 12, 13, 15, 16, 18, 19, en 26a van het Algemeen luchthavenreglement zijn ten aanzien van het vertoningterrein van overeenkomstige toepassing.   
 4.  Indien niet op het vertoningterrein wordt gestart of geland, toont de aanvrager aan dat het terrein voldoet aan de afmetingen genoemd in tabel 1 van de bijlage, behorend bij deze regeling, voor de te gebruiken demonstratietoestellen en dat het vrij is van obstakels. In dat geval hoeft het vertoningterrein niet geschikt te zijn om te landen.   
 5.  Het eerste tot en met het vierde lid, zijn niet van toepassing op luchtvaartvertoningen waaraan alleen vrije ballonnen deelnemen.  
 
@@ -162,7 +164,7 @@ f. er is een luchthaveninformatieverstrekker;
 ### Artikel  8  
 
 1.  De minister kan een vergunning verlenen voor een periode van ten hoogste één jaar, indien het vertoningprogramma uitsluitend bestaat uit één gestandaardiseerd onderdeel.   
-2.  De houder van een krachtens het eerste lid verleende vergunning dient telkens ten minste één week vóór het houden van een luchtvaartvertoning de bescheiden, bedoeld in [artikel 158, eerste lid, onderdelen a en c, van de Regeling Toezicht Luchtvaart](../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) aan de minister te overleggen.   
+2.  De houder van een krachtens het eerste lid verleende vergunning dient telkens ten minste één week vóór het houden van een luchtvaartvertoning de bescheiden, bedoeld in artikel 158, eerste lid, onderdelen a en c, van de Regeling Toezicht Luchtvaart aan de minister te overleggen.   
 3.  Artikel 9, vijfde lid, is niet van toepassing.  
 
 ### §  3  
@@ -278,7 +280,7 @@ b. het vertoningprogramma;
 
 c. het tijdstip van de mondelinge instructie(s);  
 
-d. een kaart van de locatie waarop zijn aangegeven de ligging van de publieklijn, de vertoninglijn, het vertoningterrein, het vertoninggebied, de wachtgebieden en het BVG, voor zover van kracht;  
+d. een kaart van de locatie waarop zijn aangegeven de ligging van de publieklijn, de vertoninglijn, het vertoningterrein, het vertoninggebied, de wachtgebieden en het tijdelijke gebied met beperkingen, voor zover van kracht;  
 
 e. informatie betreffende: 
 
@@ -312,11 +314,11 @@ e. informatie betreffende:
 
 3°. voor de luchtvaartvertoning van belang zijnde bijzonderheden;    
 
-f. de ligging van de publieklijn, de vertoninglijn, het vertoningterrein, het vertoninggebied, de wachtgebieden en het BVG, voor zover van kracht.    
+f. de ligging van de publieklijn, de vertoninglijn, het vertoningterrein, het vertoninggebied, de wachtgebieden en het tijdelijke gebied met beperkingen, voor zover van kracht.    
 
 ### Artikel  21  
 
-1.  De vertoningdirecteur laat vertoningvluchten plaatsvinden onder weersomstandigheden die gelijk aan of gunstiger zijn dan de minimum weersomstandigheden vermeld in tabel 4 van de bijlage, behorend bij deze regeling. Indien restrictievere eisen ten aanzien van weersomstandigheden zijn gesteld op grond van de luchtverkeersdienstverleningsklasse, vastgesteld ingevolge [artikel 18 van de Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md), ter plaatse of in de aanwijzing van een BVG, dan gelden die in plaats van tabel 4 van de bijlage, behorend bij deze regeling.    
+1.  De vertoningdirecteur laat vertoningvluchten plaatsvinden onder weersomstandigheden die gelijk aan of gunstiger zijn dan de minimum weersomstandigheden vermeld in tabel 4 van de bijlage, behorend bij deze regeling. Indien restrictievere eisen ten aanzien van weersomstandigheden zijn gesteld op grond van de luchtverkeersdienstverleningsklasse, vastgesteld ingevolge artikel 18 van de Regeling luchtverkeersdienstverlening, ter plaatse of in een tijdelijk gebied met beperkingen, dan gelden die in plaats van tabel 4 van de bijlage, behorend bij deze regeling.    
 2.  De vertoningdirecteur draagt er zorg voor dat vooraf en tijdens de luchtvaartvertoning rekening wordt gehouden met meteorologische variabelen, waaronder in ieder geval windsnelheid en neerslag.  
 
 ### Artikel  22  
@@ -344,7 +346,7 @@ d. per etmaal niet meer dan 70 van deze demonstratietoestellen opstijgen.
 
 ### Artikel  24  
 
-1.  Indien een onderdeel bestaat uit het valschermspringen of dit mede omvat, vindt dat onderdeel plaats in overeenstemming met de [Regeling valschermspringen 2010](../../../../ministeriele-regeling/regeling/valschermspringen/2010/BWBR0027968/README.md), met dien verstande dat de vertoningdirecteur ervoor zorg draagt dat: 
+1.  Indien een onderdeel bestaat uit het valschermspringen of dit mede omvat, vindt dat onderdeel plaats in overeenstemming met de Regeling valschermspringen 2010, met dien verstande dat de vertoningdirecteur ervoor zorg draagt dat: 
 
 a. het landingsgebied niet dichter dan 15 meter bij de publieklijn ligt;  
 
@@ -356,12 +358,12 @@ d. de afsprong niet plaatsvindt alvorens hij daarmee heeft ingestemd.
 2.  De vertoningdirecteur draagt er zorg voor dat van de demonstratietoestellen aan de grond geen propellers, straalmotoren of rotorbladen ronddraaien of aanstaan binnen 250 meter van het doelgebied, zolang een valschermspringer met zijn afdaling bezig is.   
 3.  Indien vluchten met modelvliegtuigen plaatsvinden, draagt de vertoningdirecteur er zorg voor dat: 
 
-a. deze plaatsvinden in overeenstemming met de [Regeling modelvliegen](../../../../ministeriele-regeling/regeling/modelvliegen/BWBR0019147/README.md);  
+a. deze plaatsvinden in overeenstemming met de Regeling modelvliegen;  
 
 b. niet wordt gevlogen met niet bestuurbare modelvliegtuigen;  
 
 c. zenders en frequenties correct worden gebruikt.     
-4.  Indien kabelvliegers en kleine ballons worden opgelaten, draagt de vertoningdirecteur er zorg voor dat deze worden opgelaten in overeenstemming met de [Regeling kabelvliegers en kleine ballons](../../../../ministeriele-regeling/regeling/kabelvliegers/en/kleine/ballons/BWBR0007094/README.md).  
+4.  Indien kabelvliegers en kleine ballons worden opgelaten, draagt de vertoningdirecteur er zorg voor dat deze worden opgelaten in overeenstemming met de Regeling kabelvliegers en kleine ballons.  
 
 ### Artikel  25  
 
@@ -444,7 +446,7 @@ d. manoeuvres zodanig worden uitgevoerd dat de vertoninglijn niet wordt overschr
 
 e. geen convergerende vluchten in de richting van de vertoninglijn worden uitgevoerd;  
 
-f. in een luchtverkeersdienstverleningsgebied klasse C tot en met G niet wordt gevlogen met een snelheid groter dan 250 knopen, tenzij in de vergunning dan wel bij de aanwijzing van een BVG een grotere snelheid is vastgesteld;  
+f. in een luchtverkeersdienstverleningsgebied klasse C tot en met G niet wordt gevlogen met een snelheid groter dan 250 knopen, tenzij in de vergunning dan wel in een tijdelijk gebied met beperkingen een grotere snelheid is vastgesteld;  
 
 g. de minimum zichtweersomstandigheden zoals vastgesteld in tabel 4 van de bijlage, behorend bij deze regeling, in acht worden genomen, onverminderd het bepaalde in artikel 20.     
 2.  Het eerste lid, onderdelen a en b, is niet van toepassing indien: 
@@ -478,7 +480,7 @@ De luchthaveninformatieverstrekker heeft de vereiste ervaring behorend bij de ca
 
 De luchthaveninformatieverstrekker geeft in het kader van de luchtvaartvertoning aan de deelnemer informatie over: 
 
-a. luchtverkeersactiviteiten op het vertoningterrein, in het vertoninggebied en eventueel aangewezen BVG;  
+a. luchtverkeersactiviteiten op het vertoningterrein, in het vertoninggebied en in een tijdelijk gebied met beperkingen;  
 
 b. het precieze tijdstip van vertrek van een vertoningvlucht in het kader van een onderdeel van het vertoningprogramma, alsmede de situatie in het vertoninggebied onmiddellijk voorafgaand aan de uitvoering van een onderdeel;  
 

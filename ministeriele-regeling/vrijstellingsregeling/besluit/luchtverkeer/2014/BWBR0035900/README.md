@@ -215,13 +215,20 @@ b. boven personen of vee.
 
 ####Schermzweeftoestellen, zeil- en zweefvliegtuigen
 
-De strand- en duingebieden van de eilanden Ameland, Texel en Schouwen-Duiveland, alsmede de strand- en duingebieden van Callantsoog tot Noordwijk aan Zee, met uitzondering van die gebieden die vallen binnen het plaatselijke luchtverkeersleidinggebied 'De Kooy/Den Helder', zijn ten behoeve van vluchten met schermzweeftoestellen, zeil- en zweefvliegtuigen aangewezen als strand- en duingebieden als bedoeld in artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014, met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd: 
+1. De strand- en duingebieden van de eilanden Ameland, Texel en Schouwen-Duiveland, alsmede de strand- en duingebieden van Callantsoog tot Noordwijk aan Zee, met uitzondering van die gebieden die vallen binnen het plaatselijke luchtverkeersleidinggebied 'De Kooy/Den Helder', zijn ten behoeve van vluchten met zweefvliegtuigen aangewezen als strand- en duingebieden als bedoeld in artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014, met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd: 
 
 a. gedurende het tijdvak van 15 oktober tot en met 14 mei van het daaropvolgend jaar;  
 
 b. indien de afstand tot personen en zaken minimaal dertig meter bedraagt;  
 
-c. indien de minimumhoogte tot het strand en de duinen ten minste vijf meter bedraagt.   
+c. indien de minimumhoogte tot het strand en de duinen ten minste vijf meter bedraagt.    
+2.  De strand- en duingebieden van Maasvlakte, Slufterdam, Zoutelande, Westerschouwen, Noordwijk, Langevelderslag en Noordwijkerhout zijn ten behoeve van vluchten met schermzweeftoestellen en zeilvliegtuigen aangewezen als strand- en duingebieden, als bedoeld in artikel 19, eerste lid, onderdeel d, van het Besluit luchtverkeer 2014, met dien verstande dat deze vluchten slechts kunnen worden uitgevoerd: 
+
+a. overeenkomstig de voorwaarden in de onderdelen b en c van het eerste lid,  
+
+b. boven het strand- en duingebied van Zoutelande, gedurende het tijdvak van 15 juni tot en met 31 augustus van hetzelfde jaar en alleen voor 10:00 uur of na 18:00 uur lokale tijd, en  
+
+c. boven het strand- en duingebied van Noordwijk slechts van 15 oktober tot en met 14 mei van het daarop volgend jaar.   
 
 ### Hoofdstuk  5  
 

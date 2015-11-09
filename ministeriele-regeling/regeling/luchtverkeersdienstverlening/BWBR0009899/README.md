@@ -297,6 +297,24 @@ b. gezagvoerders van militaire helikopters ten behoeve van incidentele starts of
 1.  De luchtruimte rond de luchthaven Teuge geldt buiten de daglichtperiode ter bescherming van het luchthavenverkeer waaronder luchtvaartuigen met de luchthaven Teuge als plaats van bestemming of vertrek als ATZ en wordt aangeduid als ATZ Teuge.   
 2.  De ATZ Teuge is lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende bijlage 2.  
 
+### Artikel  7g  
+
+####Zweefvlieggebieden Valkenburg, Hoek van Holland en Castricum 2
+
+Treedt in werking per 10-12-2015 
+
+1.  De luchtruimte ten zuidwesten van de ATZ Valkenburg wordt aangeduid als zweefvlieggebied Valkenburg.   
+2.  De luchtruimte ten zuidwesten van het zweefvlieggebied Valkenburg wordt aangeduid als zweefvlieggebied Hoek van Holland.   
+3.  De luchtruimte ten noorden van de luchthaven Zweefvliegveld Castricum wordt aangeduid als zweefvlieggebied Castricum 2.   
+4.  De zweefvlieggebieden, bedoeld in het eerste tot en met derde lid, zijn lateraal en verticaal begrensd op de wijze zoals aangegeven in de bij deze regeling behorende bijlage 2.   
+5.  De gebieden, bedoeld in het eerste tot en met derde lid, maken tussen 06:00 uur en 23:00 uur plaatselijke tijd binnen de daglichtperiode onder de volgende voorwaarden geen deel uit van de Schiphol TMA 1, bedoeld in artikel 2, tweede lid, onderdeel a: 
+
+a. de verlener van de betrokken luchtverkeersleidingsdiensten heeft, op verzoek van de vliegcoördinator van de zweefvliegclub, aan de hand van het totale aanbod van luchtverkeer vastgesteld dat de betrokken gebieden voor zweefvliegactiviteiten kunnen worden gebruikt;  
+
+b. de verlener van de betrokken luchtverkeersleidingsdiensten geeft aanwijzingen aan de gebruikers via de vliegcoördinator van de zweefvliegclub ten aanzien van het aanvangen en beëindigen of opschorten van zweefvliegactiviteiten, en  
+
+c. de coördinatie en communicatie geschieden op een overeen te komen wijze tussen de verlener van de betrokken luchtverkeersleidingsdiensten en de vliegcoördinator van de zweefvliegclub waartoe de gebruikers van de zweefvlieggebieden ten behoeve van zweefvliegactiviteiten behoren.    
+
 ### Artikel  8  
 
 ####Aerodrome Flight Information Zones (AFIZ) op burgerluchtvaartterreinen
@@ -318,7 +336,7 @@ a. een CTR dat zich binnen de laterale grenzen van een TMZ bevindt;
 b. de gebieden die zijn opgenomen in bijlage 4 en zijn aangewezen als TFZ;  
 
 c. de gebieden die worden gebruikt voor zweefvliegactiviteiten voor zover de betrokken luchtverkeersleidingsdienst hiervoor toestemming heeft gegeven.     
-2.  De NSA Amsterdam, de AFIZ Budel, de ATZ en de AFIZ Lelystad en de ATZ Teuge worden aangewezen als RMZ. 
+2.  De NSA Amsterdam, de ATZ Budel en de AFIZ Budel, de ATZ Lelystad A en de AFIZ Lelystad en de ATZ Teuge worden aangewezen als RMZ. 
 
 ### Artikel  10  
 

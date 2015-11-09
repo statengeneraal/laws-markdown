@@ -514,9 +514,9 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 ####Verslaglegging 
 
-1.  Het instellingsbestuur dient jaarlijks voor 1 juli bij Onze minister een verslag in. Het verslag bestaat uit de jaarrekening met bijbehorende begroting, het jaarverslag en overige financiële gegevens, alsmede een verantwoording over de wijze waarop van een branchecode voor goed bestuur is afgeweken, voor zover een zodanige code overeenkomstig artikel 2.14 is aangewezen. Uit het verslag dient te blijken in hoeverre sprake is van een behoorlijke uitvoering van de werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend en van een doelmatige aanwending van de rijksbijdrage, mede in het licht van het instellingsplan. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake, voorzover bedragen daaruit worden aangewend voor het uitvoeren van de procedure voor erkenning van verworven competenties of het op enigerlei wijze compenseren van studenten of extraneï voor collegegeld, examengeld, cursusgeld of wat de hogescholen betreft de financiële ondersteuning, bedoeld in artikel 7.50, derde lid, anders dan op grond van de tweede volzin van dat lid of de artikelen 7.51 tot en met 7.51k.    
+1.  Het instellingsbestuur dient jaarlijks voor 1 juli bij Onze minister een verslag in. Het verslag bestaat uit de jaarrekening met bijbehorende begroting, het bestuursverslag en overige financiële gegevens, alsmede een verantwoording over de wijze waarop van een branchecode voor goed bestuur is afgeweken, voor zover een zodanige code overeenkomstig artikel 2.14 is aangewezen. Uit het verslag dient te blijken in hoeverre sprake is van een behoorlijke uitvoering van de werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend en van een doelmatige aanwending van de rijksbijdrage, mede in het licht van het instellingsplan. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake, voorzover bedragen daaruit worden aangewend voor het uitvoeren van de procedure voor erkenning van verworven competenties of het op enigerlei wijze compenseren van studenten of extraneï voor collegegeld, examengeld, cursusgeld of wat de hogescholen betreft de financiële ondersteuning, bedoeld in artikel 7.50, derde lid, anders dan op grond van de tweede volzin van dat lid of de artikelen 7.51 tot en met 7.51k.    
 1a.  Indien na de goedkeuring van Onze minister, bedoeld in artikel 7.8a, derde lid, de uitvoering van een Ad-programma gedeeltelijk wordt uitgevoerd door een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs, kan het instellingsbestuur in verband daarmee een deel van de rijksbijdrage overdragen aan die instelling.  
-2.   In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de instelling over het voorafgaande begrotingsjaar. Het jaarverslag omvat mede het voorgenomen beleid ten aanzien van de werkzaamheden van de instelling, mede in het licht van de uitkomsten van kwaliteitsbeoordeling als bedoeld in artikel 1.18 en andere gegevens omtrent de kwaliteit van de werkzaamheden van de instelling. Aan het jaarverslag van een universiteit waaraan een academisch ziekenhuis is verbonden, wordt het in artikel 12.21 bedoelde document toegevoegd, dan wel, indien het een bijzondere universiteit betreft, een overzicht van de voornemens betreffende de onderlinge afstemming van de werkzaamheden van de universiteit en het academisch ziekenhuis op het gebied van het wetenschappelijk geneeskundig onderwijs en onderzoek. Toepassing van de voorgaande volzin blijft achterwege indien het document, onderscheidenlijk het overzicht reeds aan een eerder jaarverslag is toegevoegd en het sindsdien niet is gewijzigd of opnieuw is vastgesteld.    
+2.   In de jaarrekening wordt rekening en verantwoording afgelegd van het financiële beheer van de instelling over het voorafgaande begrotingsjaar. Het bestuursverslag omvat mede het voorgenomen beleid ten aanzien van de werkzaamheden van de instelling, mede in het licht van de uitkomsten van kwaliteitsbeoordeling als bedoeld in artikel 1.18 en andere gegevens omtrent de kwaliteit van de werkzaamheden van de instelling. Aan het bestuursverslag van een universiteit waaraan een academisch ziekenhuis is verbonden, wordt het in artikel 12.21 bedoelde document toegevoegd, dan wel, indien het een bijzondere universiteit betreft, een overzicht van de voornemens betreffende de onderlinge afstemming van de werkzaamheden van de universiteit en het academisch ziekenhuis op het gebied van het wetenschappelijk geneeskundig onderwijs en onderzoek. Toepassing van de voorgaande volzin blijft achterwege indien het document, onderscheidenlijk het overzicht reeds aan een eerder bestuursverslag is toegevoegd en het sindsdien niet is gewijzigd of opnieuw is vastgesteld.    
 3.   Indien uitgaven zijn geschied in strijd met het bepaalde bij of krachtens de wet, dan wel indien werkzaamheden ten behoeve waarvan de rijksbijdrage is verleend, niet behoorlijk zijn uitgevoerd of de rijksbijdrage ondoelmatig is aangewend, kan Onze minister bepalen, dat de daarmee gemoeide bedragen in mindering worden gebracht op de rijksbijdrage.    
 4.   Het resultaat van het verslagjaar wordt verrekend met de algemene reserve van de instelling.    
 5.   De leden van het college van bestuur of het algemeen bestuur van een rechtspersoonlijkheid bezittende openbare instelling zijn persoonlijk aansprakelijk jegens de instelling voor schade ten gevolge van uitgaven die zijn geschied in strijd met het bepaalde bij of krachtens de wet, voorzover Onze minister heeft bepaald dat de met die uitgaven gemoeide bedragen in mindering worden gebracht op de rijksbijdrage, tenzij blijkt dat zij aan het doen van die uitgaven niet hebben medegewerkt. Indien binnen een door Onze minister te bepalen termijn geen rechtsvordering van de zijde van de instelling terzake is gesteld, kan Onze minister daartoe overgaan namens en ten behoeve van de instelling.    
@@ -2966,7 +2966,7 @@ a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden 
 
 b. het goedkeuren van het bestuurs- en beheersreglement;  
 
-c. het goedkeuren van de begroting, de jaarrekening, het jaarverslag en het instellingsplan;  
+c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag en het instellingsplan;  
 
 d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in artikel 8.1;  
 
@@ -2978,7 +2978,7 @@ g. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van 
 
 h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig artikel 1.18, en  
 
-i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het jaarverslag van de universiteit.     
+i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de universiteit.     
 2.  De raad van toezicht pleegt ten minste twee keer per jaar overleg met de universiteitsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in artikel 9.30, derde lid, tweede volzin, is ingesteld.  
 
 ### Artikel  9.9  
@@ -3550,7 +3550,7 @@ e. de technische en economische dienstuitvoering bij een centrale dienst.
 ####Structuurregeling bijzondere universiteiten, inlichtingenplicht 
 
 1.  De besturen van de verenigingen met volledige rechtsbevoegdheid of stichtingen, waarvan de in de bijlage van deze wet onder b en i opgenomen universiteiten uitgaan, zijn verplicht elke wijziging van de statuten van de vereniging of stichting zo spoedig mogelijk ter kennis van Onze minister te brengen.    
-2.   Het college van bestuur stelt regelen vast inzake het college van bestuur en de inrichting van en de medezeggenschap binnen hun universiteit. Bij de vaststelling van die regelen alsmede bij wijziging daarvan worden de titels 1 en 2 van dit hoofdstuk in acht genomen voorzover de eigen aard van de bijzondere universiteit zich daartegen naar het oordeel van het college van bestuur niet verzet. In die regelen wordt bepaald welke faculteit of faculteiten de universiteit omvat. Het college van bestuur brengt die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de eigen aard van de bijzondere universiteit, kan de universiteit een functionele scheiding aanbrengen tussen het toezicht en het bestuur. In dat geval zijn de artikelen 9.8 tot en met 9.9a van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het jaarverslag bedoeld in artikel 2.9 de redenen voor een eventuele afwijking.   
+2.   Het college van bestuur stelt regelen vast inzake het college van bestuur en de inrichting van en de medezeggenschap binnen hun universiteit. Bij de vaststelling van die regelen alsmede bij wijziging daarvan worden de titels 1 en 2 van dit hoofdstuk in acht genomen voorzover de eigen aard van de bijzondere universiteit zich daartegen naar het oordeel van het college van bestuur niet verzet. In die regelen wordt bepaald welke faculteit of faculteiten de universiteit omvat. Het college van bestuur brengt die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de eigen aard van de bijzondere universiteit, kan de universiteit een functionele scheiding aanbrengen tussen het toezicht en het bestuur. In dat geval zijn de artikelen 9.8 tot en met 9.9a van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag bedoeld in artikel 2.9 de redenen voor een eventuele afwijking.   
 3.   De regelen alsmede de wijzigingen daarvan, bedoeld in het tweede lid, worden geacht te voldoen aan de in artikel 1.9, derde lid, onder h, bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling aan het het college van bestuur heeft verklaard van oordeel te zijn, dat het het college van bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten de titels 1 en 2 van dit hoofdstuk niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van de bijzondere universiteit die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.    
 4.   De werking van het besluit van Onze minister, bedoeld in het derde lid, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.    
 5.   Het college van bestuur verstrekt aan Onze minister de nodige inlichtingen omtrent de universiteit.    
@@ -3699,7 +3699,7 @@ a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden 
 
 b. het goedkeuren van het bestuurs- en beheersreglement;  
 
-c. het goedkeuren van de begroting, de jaarrekening, het jaarverslag, het instellingsplan;  
+c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag, het instellingsplan;  
 
 d. indien van toepassing, het goedkeuren van de gemeenschappelijke regeling, bedoeld in artikel 8.1;  
 
@@ -3711,13 +3711,13 @@ g. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van 
 
 h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig artikel 1.18, en  
 
-i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het jaarverslag van de hogeschool.     
+i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de hogeschool.     
 3.  Het college van bestuur voorziet de raad van toezicht van een functioneel onafhankelijke administratieve ondersteuning. De raad van toezicht heeft instemmingsrecht ten aanzien van de benoeming en het ontslag van de secretaris van de raad.   
 4.  De samenstelling, taken en bevoegdheden van de raad van toezicht zijn zodanig dat de raad een deugdelijk en onafhankelijk toezicht kan uitoefenen. De leden van de raad van toezicht hebben geen directe belangen bij de hogeschool. Zij hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last of ruggespraak. De benoeming van de leden van de raad geschiedt op basis van vooraf openbaar gemaakte profielen. Een van de leden wordt benoemd op voordracht van de medezeggenschapsraad, dan wel de ondernemingsraad en het orgaan dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld. De voordracht bevat ten minste twee namen.   
 5.  De medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de hogeschool dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld, wordt of worden in de gelegenheid gesteld om aan de raad van toezicht advies uit te brengen over de profielen bedoeld in het vierde lid.   
 6.  De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in artikel 10.16a, derde lid, tweede volzin, is ingesteld.   
 7.  Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de levensbeschouwelijke aard van de hogeschool, kan de hogeschool in afwijking van het eerste lid een functionele scheiding tussen het bestuur en het toezicht aanbrengen.   
-8.  Indien de hogeschool een functionele scheiding aanbrengt, zijn de leden 2 tot en met 6 van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het jaarverslag, bedoeld in artikel 2.9, de redenen voor eventuele afwijking.  
+8.  Indien de hogeschool een functionele scheiding aanbrengt, zijn de leden 2 tot en met 6 van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag, bedoeld in artikel 2.9, de redenen voor eventuele afwijking.  
 
 ### Artikel  10.3e  
 
@@ -4079,7 +4079,7 @@ a. het benoemen, schorsen, ontslaan en vaststellen van de beloning van de leden 
 
 b. het goedkeuren van het bestuurs- en beheersreglement;  
 
-c. het goedkeuren van de begroting, de jaarrekening, het jaarverslag en het instellingsplan;  
+c. het goedkeuren van de begroting, de jaarrekening, het bestuursverslag en het instellingsplan;  
 
 d. indien van toepassing, het goedkeuren van een gemeenschappelijke regeling als bedoeld in artikel 8.1;  
 
@@ -4091,7 +4091,7 @@ g. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van 
 
 h. het toezien op de vormgeving van het systeem van kwaliteitszorg overeenkomstig artikel 1.18, en  
 
-i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het jaarverslag van de universiteit.     
+i. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met h, in het bestuursverslag van de universiteit.     
 2.  De raad van toezicht pleegt ten minste twee keer per jaar overleg met de medezeggenschapsraad dan wel de ondernemingsraad en het orgaan binnen de instelling dat op grond van de medezeggenschapsregeling, bedoeld in artikel 9.30, derde lid, tweede volzin, is ingesteld.  
 
 ### Artikel  11.7  
@@ -4256,7 +4256,7 @@ a. het vaststellen van het bestuursreglement, bedoeld in artikel 12.7,
 
 b. het vaststellen van de begroting,   
 
-c. het vaststellen van het jaarverslag, en   
+c. het vaststellen van het bestuursverslag, en   
 
 d. het vaststellen van de jaarrekening.      
 2.   De raad van bestuur doet ten behoeve van het academisch ziekenhuis de noodzakelijke uitgaven binnen de grenzen van de begroting.   
@@ -4301,7 +4301,7 @@ De raad van toezicht nodigt de raad van bestuur uit om de vergadering van de raa
 ####Taken raad van toezicht 
 
 1.  Onverminderd het overigens bij of krachtens deze wet bepaalde is de raad van toezicht belast met het houden van een voortdurend toezicht op al wat het academisch ziekenhuis aangaat, daaronder begrepen het toezicht op de naleving van de op het academisch ziekenhuis betrekking hebbende wetten alsmede van de krachtens die wetten uitgevaardigde regelingen, richtlijnen, aanwijzingen en reglementen.    
-2.   Het bestuursreglement, de begroting, de jaarrekening en het jaarverslag behoeven de goedkeuring dan wel de instemming van de raad van toezicht. De goedkeuring dan wel de instemming wordt verleend of onthouden in zijn geheel dan wel met betrekking tot een of meer onderdelen. Indien binnen vier weken na ontvangst van een besluit als bedoeld in de eerste volzin, door de raad van toezicht niet anders is beslist is het besluit goedgekeurd dan wel wordt daarmee ingestemd. De raad van toezicht kan deze termijn verlengen tot ten hoogste acht weken. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
+2.   Het bestuursreglement, de begroting, de jaarrekening en het bestuursverslag behoeven de goedkeuring dan wel de instemming van de raad van toezicht. De goedkeuring dan wel de instemming wordt verleend of onthouden in zijn geheel dan wel met betrekking tot een of meer onderdelen. Indien binnen vier weken na ontvangst van een besluit als bedoeld in de eerste volzin, door de raad van toezicht niet anders is beslist is het besluit goedgekeurd dan wel wordt daarmee ingestemd. De raad van toezicht kan deze termijn verlengen tot ten hoogste acht weken. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
 3.   Indien binnen een door de raad van toezicht te bepalen termijn het bestuursreglement niet of niet volledig is vastgesteld, kan de raad van toezicht het bestuursreglement of het ontbrekende gedeelte daarvan vaststellen.   
 
 ### Artikel  12.13  

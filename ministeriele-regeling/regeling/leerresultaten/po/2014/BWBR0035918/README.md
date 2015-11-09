@@ -12,15 +12,11 @@ Besluit:
 
 ####Toetsen
 
-Treedt in werking per 01-01-2015 
-
 De inspectie maakt voor de jaarlijkse meting en beoordeling van de leerresultaten van een school op het gebied van Nederlandse taal en rekenen als bedoeld in artikel 10a, derde lid, van de Wet op het primair onderwijs gebruik van de resultaten van door de school afgenomen toetsen als bedoeld in bijlage A. 
 
 ### Artikel  2  
 
 ####Normering toetsen
-
-Treedt in werking per 01-01-2015 
 
 De uitwerking van de wijze waarop de meting en beoordeling van de leerresultaten door de inspectie met inachtneming van de schoolkenmerken en individuele kenmerken van leerling, tot stand komt, wordt per toets vastgesteld als aangegeven in bijlage B. 
 
@@ -28,15 +24,11 @@ De uitwerking van de wijze waarop de meting en beoordeling van de leerresultaten
 
 ####Correcties vanwege individuele leerlingkenmerken en bijzondere omstandigheden
 
-Treedt in werking per 01-01-2015 
-
 De correctie van de meting en beoordeling door de inspectie van leerresultaten vanwege individuele kenmerken van leerlingen, alsmede vanwege enkele bijzondere omstandigheden, geschiedt volgens het bepaalde in bijlage C. 
 
 ### Artikel  4  
 
 ####Meting onmogelijk of incomplete gegevens
-
-Treedt in werking per 01-01-2015 
 
 De wijze waarop door de inspectie wordt omgegaan met scholen waar de meting van leerresultaten niet mogelijk is of bij scholen met incomplete gegevens, als bedoeld in artikel 34.6 van het Besluit bekostiging WPO, geschiedt volgens het bepaalde in bijlage D. 
 
@@ -44,15 +36,11 @@ De wijze waarop door de inspectie wordt omgegaan met scholen waar de meting van 
 
 ####Beoordeling leerresultaten
 
-Treedt in werking per 01-01-2015 
-
 De normering waarop de inspectie het oordeel voldoende dan wel onvoldoende leerresultaten baseert geschiedt volgens het bepaalde in bijlage E. 
 
 ### Artikel  6  
 
 ####Intrekking
-
-Treedt in werking per 01-01-2015 
 
 De Regeling leerresultaten PO wordt ingetrokken.
 
@@ -60,15 +48,11 @@ De Regeling leerresultaten PO wordt ingetrokken.
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  8  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling leerresultaten PO 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
@@ -80,8 +64,6 @@ S. Dekker
 ### Bijlage A 
 
 ####bij de Regeling leerresultaten PO 2014
-
-Treedt in werking per 01-01-2015 
 
 ####Betrouwbare en valide toetsen
 
@@ -114,8 +96,6 @@ Vanaf schooljaar 2014–2015 is het verplicht voor alle leerlingen van leerjaar 
 ### Bijlage B 
 
 ####bij de Regeling leerresultaten PO 2014
-
-Treedt in werking per 01-01-2015 
 
 ####Normen voor beoordeling leerresultaten per toets
 
@@ -424,8 +404,6 @@ Norm leerresultaten per schooljaar op basis van het Schooleindonderzoek
 
 ####bij de Regeling leerresultaten PO 2014
 
-Treedt in werking per 01-01-2015 
-
 ####Correctie op meting leerresultaten en bijzondere omstandigheden
 
 In deze bijlage staat beschreven hoe en wanneer een correctie (zijnde een herberekening) van de leerresultaten plaatsvindt voor bepaalde groepskenmerken of individuele kenmerken van leerlingen en voor enkele specifieke omstandigheden. 
@@ -490,8 +468,6 @@ De inspectie baseert haar oordeel over de leerresultaten in principe op de leerr
 
 ####bij de Regeling leerresultaten PO 2014
 
-Treedt in werking per 01-01-2015 
-
 ####Meting onmogelijk of incomplete gegevens
 
 In deze bijlage staat beschreven hoe de inspectie scholen beoordeelt waarbij de meting van leerresultaten onmogelijk is of waarbij de gegevens over de leerresultaten incompleet zijn. 
@@ -523,8 +499,6 @@ Toetsresultaten zijn alleen betrouwbaar en valide als de toetsen zijn afgenomen 
 ###Bijlage E  
 
 ####bij de Regeling leerresultaten PO 2014
-
-Treedt in werking per 01-01-2015 
 
 ####Beoordeling leerresultaten van de basisschool
 

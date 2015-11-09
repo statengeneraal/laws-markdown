@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Infrastructuur en Milieu houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Teuge, in verband met de vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens (Omzettingsregeling luchthaven Teuge) 
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 2008, 561);
+Gelet op artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -15,11 +15,20 @@ Besluit:
 
 * beweging:* een start of een landing met een luchtvaartuig;  
 
-* exploitant:* NV Luchthaven Teuge;  
+*daglichtperiode:* het gedeelte van het etmaal tussen vijftien minuten voor zonsopgang en vijftien minuten na zonsondergang zoals geldt voor de positie 52°00’ N en 05°00’ O op zeeniveau;  
 
-* wet:* [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).     
-2.  In deze regeling wordt verstaan onder daglichtperiode, helikopter, IFR en vliegtuig hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
-3.  Het gebruiksjaar betreft de periode van 1 november van enig jaar tot 1 november van het daarop volgende jaar.  
+* exploitant:* NV Luchthaven Teuge; 
+
+*helikopter:* gemotoriseerd luchtvaartuig met rotorbladen, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn rotorbladen;  
+
+*IFR:* instrument vliegvoorschriften;  
+
+*verordening (EU) nr. 923/2012:* uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L 281);  
+
+*vliegtuig:* gemotoriseerd luchtvaartuig met vaste vleugels, zwaarder dan lucht, dat hoofdzakelijk in de lucht gehouden kan worden door aërodynamische reactiekrachten op zijn vleugels;  
+
+* wet:* wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur.     
+2.  Het gebruiksjaar betreft de periode van 1 november van enig jaar tot 1 november van het daarop volgende jaar.  
 
 ### Hoofdstuk  2  
 
@@ -45,7 +54,7 @@ Op de luchthaven zijn gelegen: een verharde start- en landingsbaan, gelegen in d
 
 ### Artikel  5  
 
-1.  Het gebruik van de luchthaven vindt plaats: overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), binnen de daglichtperiode, met dien verstande dat les- en oefenvluchten overeenkomstig de zichtvliegvoorschriften buiten de periode van 08.00 tot 20.00 uur plaatselijke tijd verboden zijn, en overeenkomstig de instrumentvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 4, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), tussen 07.00 en 23.00 uur plaatselijke tijd, voor zover deze periode buiten de daglichtperiode valt, met dien verstande dat les- en oefenvluchten overeenkomstig de instrumentvliegvoorschriften verboden zijn.   
+1.  Het gebruik van de luchthaven vindt plaats: overeenkomstig de zichtvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012, binnen de daglichtperiode, met dien verstande dat les- en oefenvluchten overeenkomstig de zichtvliegvoorschriften buiten de periode van 08.00 tot 20.00 uur plaatselijke tijd verboden zijn, en overeenkomstig de instrumentvliegvoorschriften, bedoeld in deel 5 van de bijlage bij verordening (EU) nr. 923/2012, tussen 07.00 en 23.00 uur plaatselijke tijd, voor zover deze periode buiten de daglichtperiode valt, met dien verstande dat les- en oefenvluchten overeenkomstig de instrumentvliegvoorschriften verboden zijn.   
 2.  De exploitant staat maximaal 100 IFR-bewegingen per gebruiksjaar toe.  
 
 ### Artikel  6  
@@ -60,7 +69,7 @@ Ten aanzien van het gebruik van de luchthaven gelden in de periode van 15 april 
 
 ### Artikel  8  
 
-De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
+De ligging van de handhavingspunten, bedoeld in artikel X, eerste lid, van de wet, en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -68,7 +77,7 @@ De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de w
 
 ### Artikel  9  
 
-Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), is aangegeven op de kaart in bijlage 2 bij deze regeling. 
+Het beperkingengebied, bedoeld in artikel X, vijfde lid, van de wet, is aangegeven op de kaart in bijlage 2 bij deze regeling. 
 
 ### Hoofdstuk  5  
 

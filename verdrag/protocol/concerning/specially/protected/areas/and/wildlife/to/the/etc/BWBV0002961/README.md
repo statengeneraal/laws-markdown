@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied
+##Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caraïbisch gebied
 
 ####Protocol concerning Specially Protected Areas and Wildlife to the Convention for the Protection and Development of the Marine Environment of the Wider Caribbean Region
 
@@ -49,7 +49,7 @@ l)"Annex III" means the annex to the Protocol containing the agreed list of spec
 ####General Provisions
 
 1. This Protocol shall apply to the Wider Caribbean Region as defined in Article l(c).
-2. The provisions of the Convention relating to its Protocol shall apply to this Protocol, including in particular, paragraphs 2 and 3 of Article 3 of the Convention.
+2. The provisions of the Convention relating to its Protocols shall apply to this Protocol, including in particular, paragraphs 2 and 3 of Article 3 of the Convention.
 3. The present Protocol shall not apply to warships or other ships owned or operated by a State while engaged in government non-commercial service. Nevertheless, each Party shall ensure through the adoption of appropriate measures that do not hinder the operation or operational capacities of vessels they own or operate, that they adhere to the terms of the present Protocol in so far as is reasonable and feasible.
 
 ### Article  3  
@@ -92,7 +92,7 @@ b)the regulation or prohibition of coastal disposal or discharges causing pollut
 
 c)the regulation of the passage of ships, of any stopping or anchoring, and of other ship activities, that would have significant adverse environmental effects on the protected area, without prejudice to the rights of innocent passage, transit passage, archipelagic sea lanes passage and freedom of navigation, in accordance with international law;
 
-d)the regulation or prohibition of fishing, taking or harvesting of endangered or threatened species of fauna and flora and their parts or products;
+d)the regulation or prohibition of fishing, hunting, taking or harvesting of endangered or threatened species of fauna and flora and their parts or products;
 
 e)the prohibition of activities that result in the destruction of endangered or threatened species of fauna or flora and their parts and products, and the regulation of any other activity likely to harm or disturb such species, their habitats or associated ecosystems;
 
@@ -233,7 +233,7 @@ d)a Party may, in the exercise of its sovereignty or sovereign rights, enter a r
 e)a listing in the corresponding annex shall become effective 90 days after the vote for all Parties, except those which made a reservation in accordance with paragraph (d) of this Article; and
 
 f)a Party may at any time substitute an acceptance for a previous reservation to a listing by notifying the Depositary, in writing. The acceptance shall thereupon enter into force for that Party.
-5. The Parties shall establish co-operation programmes within the framework of the Convention and the Action Plan to assist with the management and conservation of protected species, and shall develop and implement regional recovery programmes for protected species in the Wider Caribbean Region, taking fully into account other existing regional conservation measures relevant to the management of those species. The Organization shall assist in the establisment and implementation of these regional recovery programmes.
+5. The Parties shall establish co-operation programmes within the framework of the Convention and the Action Plan to assist with the management and conservation of protected species, and shall develop and implement regional recovery programmes for protected species in the Wider Caribbean Region, taking fully into account other existing regional conservation measures relevant to the management of those species. The Organization shall assist in the establishment and implementation of these regional recovery programmes.
 
 ### Article  12  
 
@@ -598,6 +598,21 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 | Order  | SIRENIA  | --- |
 | All spp.  | --- | --- |
 
+| --- | --- |
+|:---|:---|
+|CORALS | --- |
+| *Species*  | *Common name*  |
+| Acropora cervicornis  | Staghorn coral  |
+| Acropora palmata  | Elkhorn coral  |
+| Montastraea annularis  | Boulderstar coral  |
+| Montastraea faveolata  | Mountain star coral  |
+| --- | --- |
+|BIRDS | --- |
+| *Species*  | *Common name*  |
+| Catharus bicknelli  | Zorzal / Tordo de Bicknell  |
+| Pterodroma hasitata  | Petrel de Coronilla negra  |
+| --- | --- |
+
 ### Annex  III  
 
 ####List of Species of Marine and Coastal Flora and Fauna Protected Under Artikel 11 (1) (c)
@@ -732,6 +747,19 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 | Order  | PRIMATES  | --- |
 | Family  | Genus  | Species  |
 | Cebidae  Cebidae  | Alouatta  Cebus  | seniculus  albifrons  |
+
+| --- | --- |
+|:---|:---|
+|BIRDS | --- |
+| *Species*  | *Common name*  |
+| Columba leucocephala  | White-crowned pigeon  |
+| --- | --- |
+|PLANTS | --- |
+| *Species*  | *Common name*  |
+| Guaiacum sanctum  | Lignum vitae, Holywood  |
+| Ekmanianthe longifora  | Roble Real  |
+| Bombacopsis emarginata  | Seibon de Arroyo  |
+| --- | --- |
 
 ####Protocol betreffende speciaal beschermde gebieden en wilde dieren en planten bij het Verdrag inzake de bescherming en ontwikkeling van het mariene milieu in het Caribisch gebied
 
@@ -934,7 +962,7 @@ i.het vangen, in bezit hebben of doden van (met inbegrip, voor zover mogelijk, v
 
 ii.voor zover mogelijk, het verstoren van die soorten, met name gedurende de voortplantings-, broed-, overwinterings- of trektijd, alsmede andere perioden van biologische onrust.
 
-c.Elke Partij neemt passende maatregelen aan ten behoeve van de bescherming en het herstel van de dier- en plantesoorten opgenomen in de lijsten in Bijlage III en kan het gebruik van die soorten reguleren ten einde hun populaties te beschermen en zo groot mogelijk te houden. Ten aanzien van de soorten opgenomen in de lijsten in Bijlage III worden door elke Partij, in samenwerking met andere Partijen, plannen uitgestippeld, aangenomen en uitgevoerd voor het beheer en het gebruik van die soorten, omvattende:
+c.Elke Partij neemt passende maatregelen aan ten behoeve van de bescherming en het herstel van de dier- en plantesoorten opgenomen in de lijsten in Bijlage III en kan het gebruik van die soorten reguleren ten einde hun populaties te beschermen en zo goed mogelijk te houden. Ten aanzien van de soorten opgenomen in de lijsten in Bijlage III worden door elke Partij, in samenwerking met andere Partijen, plannen uitgestippeld, aangenomen en uitgevoerd voor het beheer en het gebruik van die soorten, die kunnen omvatten:
 
 i.Voor diersoorten:
 

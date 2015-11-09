@@ -20,19 +20,27 @@ a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. Bloedvoorzieningsorganisatie: de krachtens artikel 3, eerste lid, aangewezen rechtspersoon;   
 
-c. donor: persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen of ten behoeve van wetenschappelijk onderzoek;   
+c. rechtspersonen die producten niet gebruiken voor toediening aan de mens: rechtspersonen: 
 
-d. inzamelen van bloed: het werven, oproepen en keuren van donoren en het bij donoren afnemen van bloed, bloedcellen of bloedplasma;   
+1°. die producten uitsluitend gebruiken ten behoeve van wetenschappelijk onderzoek, educatie of het valideren van diagnostische of medische hulpmiddelen,  
 
-e. product: menselijk bloed, alsmede daaruit afgescheiden bestanddelen, waaraan al dan niet een andere substantie is toegevoegd;   
+2°. die producten niet gebruiken voor toediening aan de mens, en  
 
-f. tussenproduct: product, niet geschikt voor toediening aan de mens;   
+3°. die enkel producten afgeleverd krijgen voor zover het belang van een doelmatige voorziening in de behoefte aan producten daardoor niet wordt geschaad;   
 
-g. bloedproduct: product, geschikt voor toediening aan de mens;   
+d. donor: persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed afstaat voor gebruik in het kader van de geneeskundige behandeling van andere personen, ten behoeve van wetenschappelijk onderzoek of ten behoeve van rechtspersonen die producten niet gebruiken voor toediening aan de mens;   
 
-h. bloedvoorziening: het geheel van maatregelen en middelen terzake van onder meer het inzamelen van bloed en het bereiden en afleveren van tussenproducten en bloedproducten;   
+e. inzamelen van bloed: het werven, oproepen en keuren van donoren en het bij donoren afnemen van bloed, bloedcellen of bloedplasma;   
 
-i. derde land: de staat die niet lid is van de Europese Unie of die niet partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.      
+f. product: menselijk bloed, alsmede daaruit afgescheiden bestanddelen, waaraan al dan niet een andere substantie is toegevoegd;   
+
+g. tussenproduct: product, niet geschikt voor toediening aan de mens;   
+
+h. bloedproduct: product, geschikt voor toediening aan de mens;   
+
+i. bloedvoorziening: het geheel van maatregelen en middelen terzake van onder meer het inzamelen van bloed en het bereiden en afleveren van tussenproducten en bloedproducten;   
+
+j. derde land: de staat die niet lid is van de Europese Unie of die niet partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.      
 2.  Met een donor wordt gelijkgesteld de persoon die een deel van zijn bloed of een bestanddeel van een deel van zijn bloed laat afzonderen ten behoeve van de geneeskundige behandeling van zichzelf.    
 3.   De artikelen 4, eerste lid, 12, tweede lid, 13, eerste lid, 15, eerste lid, 16, eerste lid, en 17, eerste lid en de daarop berustende bepalingen zijn niet van toepassing op bloed of een bestanddeel van bloed dat ofwel is afgestaan uitsluitend ten behoeve van de geneeskundige behandeling van een bepaalde andere persoon, ofwel is afgezonderd ten behoeve van de geneeskundige behandeling van de donor zelf; de genoemde artikelen zijn evenmin van toepassing op uit dat bloed bereide bloedproducten.   
 
@@ -42,7 +50,7 @@ i. derde land: de staat die niet lid is van de Europese Unie of die niet partij 
 
 ### Artikel  2  
 
-1.  Onze Minister stelt met het oog op een doeltreffende en doelmatige bloedvoorziening jaarlijks vóór 1 oktober een plan vast. Uitgangspunten daarbij zijn dat  
+1.  Onze Minister stelt met het oog op een doeltreffende en doelmatige bloedvoorziening telkens voor een periode van drie jaar een plan vast. Uitgangspunten daarbij zijn dat  
 
 a. gestreefd wordt naar landelijke zelfvoorziening met vrijwillig en om niet gegeven bloed dat zonder winstoogmerk bewerkt en geleverd wordt, en   
 
@@ -112,8 +120,8 @@ c. het op basis van de uitkomst van de toetsing, bedoeld onder *b*, zo nodig ver
 
 ### Artikel  7  
 
-1.  De Bloedvoorzieningsorganisatie dient jaarlijks vóór 1 december een begroting en een beleidsplan in bij Onze Minister.    
-2.  Onze Minister kan bij ministeriële regeling regels stellen over de inrichting van de begroting en het beleidsplan.    
+1.  De Bloedvoorzieningsorganisatie dient jaarlijks een begroting en een beleidsplan in bij Onze Minister.    
+2.  Onze Minister kan regels stellen over de inrichting en datum van indiening van de begroting en het beleidsplan.   
 3.  De begroting en het beleidsplan behoeven de goedkeuring van Onze Minister.    
 4.  Onze Minister onthoudt zijn goedkeuring aan de begroting of het beleidsplan indien deze in strijd zijn met het bepaalde bij of krachtens deze wet, waaronder begrepen het plan, bedoeld in artikel 2.   
 
@@ -144,10 +152,7 @@ Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar tak
 
 ####MILITAIRE BLOEDVOORZIENING
 
-Treedt in werking per 01-07-2015 
-
 ### Artikel  11a  
-Treedt in werking per 01-07-2015 
 
 1.  Onze Minister van Defensie is bevoegd om bloedproducten en tussenproducten afgeleverd te krijgen, te bewaren, te verpakken, te etiketteren en te vervoeren ten behoeve van de militaire bloedvoorziening en ten behoeve van wetenschappelijk onderzoek in dat kader, alsmede bloedproducten en tussenproducten te bewerken ten behoeve van dit onderzoek.   
 2.  Onze Minister van Defensie is bevoegd om bloedproducten te bewerken tot tussenproducten met als doel deze producten te conserveren. Onze Minister van Defensie is tevens bevoegd om deze tussenproducten te bewerken tot bloedproducten.   
@@ -167,9 +172,14 @@ a. de Bloedvoorzieningsorganisatie;
 
 b. krachtens artikel 5 van de Wet toelating zorginstellingen als ziekenhuis toegelaten instellingen, apothekers en apotheekhoudende huisartsen die in het bezit zijn van een vergunning als bedoeld in artikel 61, tiende of elfde lid, van de Geneesmiddelenwet;  
 
-c. door Onze Minister aangewezen andere personen, rechts personen daaronder begrepen.      
-2.  Aflevering als bedoeld in het eerste lid, onder *b*, is uitsluitend toegestaan aan de Bloedvoorzieningsorganisatie.    
-3.  Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder *c*, indien naar zijn oordeel het belang van een in geneeskundig opzicht doelmatige voorziening in de behoefte aan bloedproducten zulks vordert dan wel een bijzondere omstandigheid daartoe aanleiding geeft. Artikel 3, derde en vierde lid, is van overeenkomstige toepassing. Zodanige aanwijzing, alsmede wijziging of intrekking ervan, wordt bekendgemaakt in de *Staatscourant*.   
+c. voor zover het bloedplasma betreft, aan personen, rechtspersonen daaronder begrepen, die in het bezit zijn van een vergunning als bedoeld in artikel 18, eerste lid, van de Geneesmiddelenwet;  
+
+d. rechtspersonen die producten niet gebruiken voor toediening aan de mens; 
+
+e. door Onze Minister aangewezen andere personen, rechtspersonen daaronder begrepen.      
+2.  Aflevering als bedoeld in het eerste lid, onder b, is uitsluitend toegestaan aan de Bloedvoorzieningsorganisatie.    
+3.  Aflevering als bedoeld in het eerste lid, onder c, mag slechts geschieden voor zover het bloedplasma afkomstig is van vrijwillige donoren aan wie ten hoogste een vergoeding is gegeven als bedoeld in artikel 4, tweede lid, en het bloedplasma is onderzocht op de aanwezigheid van via bloed of bloedplasma overdraagbare ziekteverwekkers, op een wijze die kwalitatief overeenkomt met de werkwijze zoals die in Nederland wordt gehanteerd.  
+4.  Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder c, indien naar zijn oordeel het belang van een in geneeskundig opzicht doelmatige voorziening in de behoefte aan bloedproducten zulks vordert dan wel een bijzondere omstandigheid daartoe aanleiding geeft. Artikel 3, derde en vierde lid, is van overeenkomstige toepassing.   
 
 ### Artikel  13  
 
@@ -179,11 +189,11 @@ a. de Bloedvoorzieningsorganisatie;
 
 b. personen, rechtspersonen daaronder begrepen, die in het bezit zijn van een vergunning als bedoeld in artikel 18, eerste lid, van de Geneesmiddelenwet;   
 
-c. instellingen voor wetenschappelijk onderzoek;   
+c. rechtspersonen die producten niet gebruiken voor toediening aan de mens;  
 
 d. door Onze Minister aangewezen andere personen, rechtspersonen daaronder begrepen.      
 2.  Aflevering als bedoeld in het eerste lid, onder *b*, mag slechts geschieden voorzover de tussenproducten zijn bereid uit plasma van vrijwillige donoren aan wie ten hoogste een vergoeding is gegeven als bedoeld in artikel 4, tweede lid, en het bloed dat is gebruikt voor de bereiding ervan, is onderzocht op de aanwezigheid van via bloed of bloedplasma overdraagbare ziekteverwekkers, kwalitatief overeenkomende met de werkwijze zoals die in Nederland wordt gehanteerd.    
-3.  Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder d, indien naar zijn oordeel het belang van een doelmatige voorziening in de behoefte aan bloedproducten daardoor niet wordt geschaad, dan wel een bijzondere omstandigheid daartoe aanleiding geeft. Artikel 3, derde en vierde lid, is van overeenkomstige toepassing. Zodanige aanwijzing, alsmede wijziging of intrekking ervan, wordt bekendgemaakt in de *Staatscourant*.   
+3.  Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder d, indien naar zijn oordeel het belang van een doelmatige voorziening in de behoefte aan bloedproducten daardoor niet wordt geschaad, dan wel een bijzondere omstandigheid daartoe aanleiding geeft. Artikel 3, derde en vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  14  
 
@@ -202,7 +212,7 @@ Het is verboden de aflevering van bloedproducten en tussenproducten te laten ges
 
 a. ten aanzien van een persoon die bij het overschrijden van de grens in het bezit is van een hoeveelheid van een bloedproduct, welke kennelijk voor eigen gebruik is bestemd;   
 
-b. ten aanzien van een instelling van wetenschappelijk onderzoek, voor zover het in te voeren bloedproduct of tussenproduct bestemd is voor wetenschappelijk onderzoek;   
+b. ten aanzien van rechtspersonen die producten niet gebruiken voor toediening aan de mens;  
 
 c. ten aanzien van een product dat is bestemd om als monster te worden overgelegd bij een aanvraag tot registratie krachtens de Geneesmiddelenwet.     
 
@@ -238,7 +248,7 @@ d. voor wat betreft tussenproducten, de krachtens artikel 13, eerste lid, onder 
 
 ### Artikel  18  
 
-1.  De kosten die samenhangen met het in behandeling nemen van de aanvraag van een aanwijzing als bedoeld in de artikelen 12, eerste lid, onder c, en 13, eerste lid, onder d, of een vergunning als bedoeld in de artikelen 15, eerste lid, 16, eerste lid, en 17, eerste lid, kunnen ten laste worden gebracht van de aanvrager.   
+1.  De kosten die samenhangen met het in behandeling nemen van de aanvraag van een aanwijzing als bedoeld in de artikelen 12, eerste lid, onder e, en 13, eerste lid, onder d, of een vergunning als bedoeld in de artikelen 15, eerste lid, 16, eerste lid, en 17, eerste lid, kunnen ten laste worden gebracht van de aanvrager.   
 2.  Bij de houder van de aanwijzing of de vergunning, bedoeld in het eerste lid, kan jaarlijks een vergoeding in rekening worden gebracht.   
 3.  De bedragen ter vergoeding van de kosten en de hoogte van de jaarlijkse vergoeding worden bij ministeriële regeling vastgesteld.  
 
@@ -252,7 +262,7 @@ d. voor wat betreft tussenproducten, de krachtens artikel 13, eerste lid, onder 
 
 a. de artikelen 4, eerste of tweede lid, 10, vierde lid, 12, eerste of tweede lid, 13, eerste lid, 14, 15, eerste lid, 16, eerste lid, of 17, eerste lid;   
 
-b. een krachtens de artikelen 12, derde lid, 13, derde lid, 15, derde lid, 16, derde lid, of 17, derde lid, aan een aanwijzing onderscheidenlijk vergunning verbonden voorschrift; wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.      
+b. een krachtens de artikelen 12, vierde lid, 13, derde lid, 15, derde lid, 16, derde lid, of 17, derde lid, aan een aanwijzing onderscheidenlijk vergunning verbonden voorschrift; wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.      
 2.  De in het eerste lid strafbaar gestelde feiten zijn overtredingen.   
 
 ### Artikel  19a  
