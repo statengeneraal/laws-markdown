@@ -1079,7 +1079,7 @@ b. regels worden gesteld met betrekking tot het zesde lid.
 
 1.  Indien in een kalenderjaar in een onderneming die de ondernemer voor eigen rekening drijft, wordt geïnvesteerd in niet eerder gebruikte bedrijfsmiddelen die zijn aangewezen als milieu-investeringen, en de ondernemer daarvoor bij de aangifte kiest, wordt een in het derde lid aangewezen percentage van het bedrag aan milieu-investeringen in de onderscheiden categorieën ten laste gebracht van de winst over dat jaar (milieu-investeringsaftrek).   
 2.  Milieu-investeringen zijn investeringen, behorend tot categorie I, II respectievelijk III, die door Onze Minister van Infrastructuur en Milieu in overeenstemming met Onze Minister en na overleg met Onze Minister van Economische Zaken bij ministeriële regeling zijn aangewezen in het belang van de bescherming van het Nederlandse milieu.   
-3.   De milieu-investeringsaftrek bedraagt voor milieu-investeringen die behoren tot categorie I 36 percent, voor milieu-investeringen die behoren tot categorie II 27 percent en voor milieu-investeringen die behoren tot categorie III 13,5 percent.   
+3.  De milieu-investeringsaftrek bedraagt voor milieu-investeringen die behoren tot categorie I 36 percent, voor milieu-investeringen die behoren tot categorie II 27 percent en voor milieu-investeringen die behoren tot categorie III 13,5 percent.   
 4.  Onder de aanschaffings- of voortbrengingskosten ter zake van een milieu-investering als bedoeld in het eerste lid, worden, indien de ondernemer daarvoor bij de aangifte kiest, tevens begrepen de kosten van een advies ter zake van: 
 
 a. vermindering van emissies, veroorzaakt door bestaande en toekomstige activiteiten in een door de onderneming beheerd, bestaand object;  
@@ -1568,7 +1568,7 @@ Voor de toepassing van deze paragraaf en de daarop rustende bepalingen wordt ond
 
 1.  De aftrek voor speur- en ontwikkelingswerk geldt voor de *ondernemer *die aan het *urencriterium* voldoet en in het kalenderjaar ten minste 500 uur besteedt aan werk dat bij een S&O-verklaring als bedoeld in artikel 27, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen is aangemerkt als speur- en ontwikkelingswerk. De aftrek voor speur- en ontwikkelingswerk bedraagt € 12.421.   
 2.  Indien de ondernemer in een of meer van de vijf voorafgaande kalenderjaren geen ondernemer was en aan hem voor die periode met betrekking tot ten hoogste twee kalenderjaren een S&O-verklaring is afgegeven, wordt de aftrek voor speur- en ontwikkelingswerk verhoogd met € 6.213. Een S&O-verklaring die is afgegeven voor een deel van een kalenderjaar wordt aangemerkt als een S&O-verklaring afgegeven met betrekking tot een heel kalenderjaar. De eerste volzin is niet van toepassing voor de ondernemer die met toepassing van artikel 14c van de Wet op de vennootschapsbelasting 1969 een onderneming voortzet of mede voortzet waarbij dit voortzetten een aanvang heeft genomen in het kalenderjaar of in een van de vijf daaraan voorafgaande kalenderjaren.   
-3.   Artikel 3.6, vijfde lid, is van overeenkomstige toepassing.   
+3.  Artikel 3.6, vijfde lid, is van overeenkomstige toepassing.   
 4. Indien op grond van artikel 29 van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen de in artikel 23, derde en zevende lid, van die wet, vermelde percentages worden verhoogd, verlaagd of op nihil worden gesteld, kan bij ministeriële regeling van Onze Minister van Economische Zaken het in het eerste lid vermelde bedrag in dezelfde mate worden verhoogd tot maximaal € 14.754, worden verlaagd of op nihil worden gesteld. Het nieuwe bedrag geldt met betrekking tot de S&O-verklaringen die betrekking hebben op een kalenderjaar dat aanvangt op of na de dag waarop de wijziging in werking treedt.
 
 ### Artikel  3.78  
@@ -2921,7 +2921,7 @@ Voor de toepassing van deze afdeling worden inkomen uit werk en woning en verlie
 3.  Het bedrag van het verlies uit werk en woning en het bedrag van het ondernemingsverlies worden afzonderlijk op het aanslagbiljet vermeld.   
 4.  Indien er grond is voor het vermoeden dat een verlies uit werk en woning of een ondernemingsverlies te hoog is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien. Herziening vindt plaats bij voor bezwaar vatbare beschikking.   
 5.  Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, levert geen grond op voor herziening, tenzij de belastingplichtige ter zake van dit feit te kwader trouw is.   
-6.   Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op herziening.   
+6.  Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op herziening.   
 
 ### Artikel  3.152  
 
@@ -3669,7 +3669,7 @@ Voor de toepassing van deze afdeling worden inkomen uit aanmerkelijk belang en v
 3.  Het bedrag van het verlies uit aanmerkelijk belang wordt afzonderlijk op het aanslagbiljet vermeld.   
 4.  Indien enig feit grond oplevert voor het vermoeden dat het bedrag van het verlies uit aanmerkelijk belang te hoog is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien. Herziening vindt plaats bij voor bezwaar vatbare beschikking.   
 5.  Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, levert geen grond voor herziening op, tenzij de belastingplichtige ter zake van dit feit te kwader trouw is.   
-6.   Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op herziening.  
+6.  Artikel 16, tweede lid, aanhef en onderdelen b en c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op herziening.  
 
 ### Artikel  4.51  
 
@@ -3782,7 +3782,7 @@ a.een natuurlijk persoon bij plaatsvervulling tot de nalatenschap van de in het 
 
 b.een reeds bestaande geldvordering als bedoeld in het eerste lid dan wel een goed waarop een vruchtgebruik rust als bedoeld in het derde lid is verkregen krachtens erfrecht of huwelijksvermogensrecht door een bloed- of aanverwant in de rechte neergaande lijn van de in het eerste lid bedoelde overleden ouder of zijn als erfgenaam achtergelaten echtgenoot. 
 6.  Voor de toepassing van dit artikel wordt onder echtgenoot mede begrepen de partner voor de bepalingen die zien op de heffing van erfbelasting, bedoeld in artikel 1a, eerste, tweede, derde en vijfde lid, van de Successiewet 1956, en wordt onder ouder mede begrepen de echtgenoot van de ouder van de belastingplichtige.  
-7.   Bezittingen die zijn verkregen onder de ontbindende voorwaarde van overlijden waarop een opschortende voorwaarde ten gunste van een verwachter aansluit, worden in aanmerking genomen als waren zij onvoorwaardelijk verkregen.  
+7.  Bezittingen die zijn verkregen onder de ontbindende voorwaarde van overlijden waarop een opschortende voorwaarde ten gunste van een verwachter aansluit, worden in aanmerking genomen als waren zij onvoorwaardelijk verkregen.  
 
 ### Artikel  5.5  
 
@@ -4059,7 +4059,7 @@ b. is artikel 19b, tweede tot en met zevende lid, van de Wet op de loonbelasting
 1.  Bezittingen en schulden worden in aanmerking genomen voor de waarde in het economische verkeer.   
 2.  Bezittingen en schulden die, al dan niet tezamen, in het economische verkeer als een eenheid plegen te worden beschouwd, worden als eenheid in aanmerking genomen.   
 3.  Indien de waarde van een bezitting of van een schuld op de peildatum niet kan worden bepaald, wordt die waarde bepaald op het naastbij gelegen tijdstip waarop dat wel mogelijk is.   
-4.   *Genotsrechten* die zijn verleend tegen een zakelijke vergoeding die wordt voldaan in regelmatig vervallende termijnen die betrekking hebben op een tijdvak van ten hoogste een jaar, worden gewaardeerd op nihil. De eerste volzin is van overeenkomstige toepassing op schulden die corresponderen met de aldaar bedoelde genotsrechten.  
+4.  *Genotsrechten* die zijn verleend tegen een zakelijke vergoeding die wordt voldaan in regelmatig vervallende termijnen die betrekking hebben op een tijdvak van ten hoogste een jaar, worden gewaardeerd op nihil. De eerste volzin is van overeenkomstige toepassing op schulden die corresponderen met de aldaar bedoelde genotsrechten.  
 
 ### Artikel  5.20  
 
@@ -4471,7 +4471,7 @@ Andere *giften* zijn giften aan instellingen of aan steunstichtingen SBBI.
 
 ####Afzien van vergoedingen
 
-1.   *Giften* die bestaan uit het afzien door een vrijwilliger als bedoeld in artikel 2, zesde lid, van de Wet op de loonbelasting 1964 van een vergoeding, worden in aanmerking genomen indien: 
+1.  *Giften* die bestaan uit het afzien door een vrijwilliger als bedoeld in artikel 2, zesde lid, van de Wet op de loonbelasting 1964 van een vergoeding, worden in aanmerking genomen indien: 
 
 a. de instelling een verklaring heeft afgegeven dat de belastingplichtige zich heeft ingezet als vrijwilliger als bedoeld in artikel 2, zesde lid, van de Wet op de loonbelasting 1964;  
 
@@ -4828,7 +4828,7 @@ De *gecombineerde heffingskorting* bedraagt maximaal het bedrag van de *gecombin
 ####Arbeidskorting
 
 1.  De arbeidskorting geldt voor de belastingplichtige die *arbeidsinkomen* geniet.   
-2.   De arbeidskorting bedraagt: 
+2.  De arbeidskorting bedraagt: 
 
 a.1,810% van het *arbeidsinkomen* met een maximum van € 163, vermeerderd met:
 
@@ -4859,7 +4859,7 @@ b. in het kalenderjaar gedurende ten minste zes maanden een kind dat bij de aanv
 
 c. hij in het kalenderjaar geen partner heeft, dan wel indien hij wel een partner heeft, hij in het kalenderjaar een lager *arbeidsinkomen* heeft dan zijn partner.   Bij ministeriële regeling wordt bepaald in welke gevallen een *kind* dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, voor de toepassing van onderdeel b beschouwd wordt ook op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen.   
 2. De inkomensafhankelijke combinatiekorting bedraagt € 1.033, vermeerderd met 4% van het *arbeidsinkomen*, voor zover dat bij de belastingplichtige meer beloopt dan € 4.857, doch niet meer dan € 2.152.  
-3.  Indien het*arbeidsinkomen* van de belastingplichtige in het kalenderjaar gelijk is aan dat van zijn partner, geldt de inkomensafhankelijke combinatiekorting alleen voor de oudste belastingplichtige.   
+3.  Indien het *arbeidsinkomen* van de belastingplichtige in het kalenderjaar gelijk is aan dat van zijn partner, geldt de inkomensafhankelijke combinatiekorting alleen voor de oudste belastingplichtige.   
 4.  Indien uitsluitend als gevolg van het overlijden in het kalenderjaar van de belastingplichtige dan wel van een in het eerste lid, onderdeel b, bedoeld kind niet voldaan wordt aan de in dat lid bedoelde termijn van zes maanden, wordt voor de toepassing van dit artikel met betrekking tot dat jaar wel geacht te zijn voldaan aan die termijn. 
 
 ### Artikel  8.16a  

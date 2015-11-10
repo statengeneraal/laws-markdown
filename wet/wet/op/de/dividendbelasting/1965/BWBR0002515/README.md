@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Onder de naam 'dividendbelasting' wordt een directe belasting geheven van degenen, die - rechtstreeks of door middel van certificaten - gerechtigd zijn tot de opbrengst van aandelen in, en winstbewijzen van en geldleningen als bedoeld in artikel 10, eerste lid, onderdeel d, van de Wet op de vennootschapsbelasting 1969 aan in Nederland gevestigde naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid, open commanditaire vennootschappen en andere vennootschappen welker kapitaal geheel of ten dele in aandelen is verdeeld.    
 2.  Voor de toepassing van deze wet worden bewijzen van deelgerechtigdheid in fondsen voor gemene rekening als bedoeld in artikel 2, derde lid, van de Wet op de vennootschapsbelasting 1969, gelijkgesteld met aandelen in vennootschappen waarvan het kapitaal geheel of ten dele in aandelen is verdeeld en worden de fondsen gelijkgesteld met vennootschappen.   
-3.   Heeft de oprichting van een in het eerste lid bedoelde vennootschap plaatsgevonden naar Nederlands recht, dan wordt die vennootschap steeds geacht in Nederland te zijn gevestigd.  Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste volzin geacht te zijn opgericht naar Nederlands recht.  
+3.  Heeft de oprichting van een in het eerste lid bedoelde vennootschap plaatsgevonden naar Nederlands recht, dan wordt die vennootschap steeds geacht in Nederland te zijn gevestigd.  Een Europese naamloze vennootschap die bij haar oprichting werd beheerst door Nederlands recht, wordt voor de toepassing van de eerste volzin geacht te zijn opgericht naar Nederlands recht.  
 4. In afwijking van het eerste lid zijn van de belasting vrijgesteld degenen, die – rechtstreeks of door middel van certificaten – gerechtigd zijn tot de opbrengsten van aandelen in of winstbewijzen van een lichaam als bedoeld in artikel 6a van de Wet op de vennootschapsbelasting 1969. 
 5. In afwijking van het vierde lid wordt wel belasting geheven van degenen die – rechtstreeks of door middel van certificaten – gerechtigd zijn tot de opbrengst van aandelen in of winstbewijzen van een lichaam dat ingevolge artikel 6a van de Wet op de vennootschapsbelasting 1969 is vrijgesteld van belastingheffing:
 
@@ -57,7 +57,7 @@ f. vergoedingen op geldleningen als bedoeld in artikel 10, eerste lid, onderdeel
 g. gehele of gedeeltelijke teruggaaf van hetgeen op bewijzen van deelgerechtigdheid in een fonds voor gemene rekening is gestort, wordt als uitkering beschouwd, voorzover het vermogen van het fonds uitgaat boven hetgeen op de in omloop zijnde bewijzen van deelgerechtigdheid is gestort;   
 
 h. het bedrag dat als storting wordt toegerekend aan elk van de bewijzen van deelgerechtigdheid in een fonds voor gemene rekening voorzover winsten van dat fonds worden bestemd om te gelden als storting op aan deelgerechtigden uit te geven of reeds uitgegeven bewijzen van deelgerechtigdheid.      
-2.   Niet in geld genoten opbrengst wordt in aanmerking genomen naar de waarde welke daaraan in het economische verkeer kan worden toegekend.   
+2.  Niet in geld genoten opbrengst wordt in aanmerking genomen naar de waarde welke daaraan in het economische verkeer kan worden toegekend.   
 3. Inkoop van aandelen met het oog op de nakoming van een optieverplichting jegens een werknemer van de eigen vennootschap of een verbonden vennootschap als bedoeld in artikel 10a, zevende lid, van de Wet op de loonbelasting 1964 is een tijdelijke belegging. Ingeval deze aandelen drie maanden na het tenietgaan van de optieverplichting nog tot de bezittingen van de vennootschap behoren, worden zij op dat tijdstip geacht te zijn ingekocht tegen de waarde in het economische verkeer van de aandelen op dat tijdstip. Voor de toepassing van dit lid wordt onder een optieverplichting verstaan een verplichting die de tegenhanger is van een recht om een of meer aandelen of daarmee gelijk te stellen rechten te verwerven, of van een recht dat daarmee gelijk te stellen is.
 4. Inkoop van aandelen in een kalenderjaar door een beleggingsinstelling of instelling voor collectieve belegging in effecten als bedoeld in artikel 1:1 van de Wet op het financieel toezicht wordt aangemerkt als een tijdelijke belegging, tenzij de instelling de inkoop terstond aanmerkt als een inkoop in de zin van het eerste lid, onderdeel a. Ingeval aan het einde van het kalenderjaar meer aandelen als tijdelijke belegging zijn ingekocht dan in dat jaar door de instelling in het economische verkeer zijn gebracht, worden de meer ingekochte aandelen geacht een inkoop van aandelen te zijn als bedoeld in het eerste lid, onderdeel a, tegen de gemiddelde waarde in het economische verkeer van de in de loop van het kalenderjaar als tijdelijke belegging ingekochte aandelen. Voor de toepassing van dit lid blijven aandelen die zijn ingekocht met het oog op de nakoming van een optieverplichting als bedoeld in het derde lid, en aandelen die in het economische verkeer zijn gebracht in het kader van een zodanige optieverplichting of ter voldoening van de in artikel 28, tweede lid, onderdeel b, van de Wet op de vennootschapsbelasting 1969 bedoelde uitdelingsverplichting, buiten beschouwing.
 
@@ -168,10 +168,10 @@ De belasting bedraagt 15% van de opbrengst.
 ### Artikel  7  
 
 1.  De belasting wordt geheven door inhouding op de opbrengst.    
-2.   Inhoudingsplichtige is de vennootschap die de opbrengst verschuldigd is.    
-3.   De inhoudingsplichtige is verplicht de belasting in te houden op het tijdstip waarop de opbrengst ter beschikking is gesteld.    
-4.   De inhoudingsplichtige is verplicht de ingehouden belasting op aangifte af te dragen.    
-5.   Overtreft de belasting de opbrengst in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het in het derde lid omschreven tijdstip, met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op degene die tot de opbrengst gerechtigd is. De inhoudingsplichtige kan de afgifte van de niet in geld genoten opbrengst opschorten tot voldoening van deze vordering plaatsvindt.   
+2.  Inhoudingsplichtige is de vennootschap die de opbrengst verschuldigd is.    
+3.  De inhoudingsplichtige is verplicht de belasting in te houden op het tijdstip waarop de opbrengst ter beschikking is gesteld.    
+4.  De inhoudingsplichtige is verplicht de ingehouden belasting op aangifte af te dragen.    
+5.  Overtreft de belasting de opbrengst in geld, dan wordt het ontbrekende geacht te zijn ingehouden op het in het derde lid omschreven tijdstip, met dien verstande dat de inhoudingsplichtige bevoegd is dat ontbrekende te verhalen op degene die tot de opbrengst gerechtigd is. De inhoudingsplichtige kan de afgifte van de niet in geld genoten opbrengst opschorten tot voldoening van deze vordering plaatsvindt.   
 
 ### Artikel  9  
 
@@ -182,7 +182,7 @@ De belasting bedraagt 15% van de opbrengst.
 a. inhouding van de belasting achterwege blijft op de voet van deze wet, of vanwege een door Nederland gesloten verdrag ter voorkoming van dubbele belasting, of  
 
 b. de rechthebbende een aanmerkelijk belang heeft in de inhoudingsplichtige als bedoeld in hoofdstuk 4 van de Wet inkomstenbelasting 2001.     
-4.   Voor de toepassing van artikel 26, tweede lid, van de Algemene wet inzake rijksbelastingen wordt de belasting geacht te zijn ingehouden op de dag waarop de dividendnota is gedagtekend.   
+4.  Voor de toepassing van artikel 26, tweede lid, van de Algemene wet inzake rijksbelastingen wordt de belasting geacht te zijn ingehouden op de dag waarop de dividendnota is gedagtekend.   
 
 ### Artikel  10  
 
@@ -200,10 +200,10 @@ b. de rechthebbende een aanmerkelijk belang heeft in de inhoudingsplichtige als 
 2°. op de winstuitkeringen is op de BES eilanden in Aruba, Curaçao, Sint Maarten, of de staat waar het lichaam is gevestigd een bronbelasting van ten minste 5 percent ingehouden;   
 
 3°. bij het bepalen van de winst van de inhoudingsplichtige blijven de winstuitkeringen op de voet van artikel 13 van de Wet op de vennootschapsbelasting 1969 buiten aanmerking.      
-2.   De in het eerste lid bedoelde vermindering bedraagt 3 percent van de door de inhoudingsplichtige ter beschikking gestelde opbrengst waarop hij dividendbelasting heeft ingehouden, doch niet meer dan 3 percent van de winstuitkeringen - vóór aftrek van de ingehouden bronbelasting - bedoeld in het eerste lid die hij in het kalenderjaar tot het tijdstip van inhouding alsmede in de twee daaraan voorafgaande kalenderjaren heeft ontvangen voor zover die winstuitkeringen nog niet in aanmerking zijn genomen bij de vaststelling van een eerdere vermindering. De winstuitkeringen worden in aanmerking genomen in de volgorde waarin zij door de inhoudingsplichtige zijn ontvangen.    
-3.   Tot de in het tweede lid genoemde opbrengst waarop de inhoudingsplichtige dividendbelasting heeft ingehouden, wordt niet gerekend de opbrengst waarop hij weliswaar dividendbelasting heeft ingehouden doch welke belasting voor volledige teruggaaf in aanmerking komt, behalve indien de opbrengst ter beschikking wordt gesteld aan een rechtspersoon als bedoeld in artikel 10, eerste lid, of een daarmee vergelijkbaar in het buitenland gevestigd lichaam, die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige.   
+2.  De in het eerste lid bedoelde vermindering bedraagt 3 percent van de door de inhoudingsplichtige ter beschikking gestelde opbrengst waarop hij dividendbelasting heeft ingehouden, doch niet meer dan 3 percent van de winstuitkeringen - vóór aftrek van de ingehouden bronbelasting - bedoeld in het eerste lid die hij in het kalenderjaar tot het tijdstip van inhouding alsmede in de twee daaraan voorafgaande kalenderjaren heeft ontvangen voor zover die winstuitkeringen nog niet in aanmerking zijn genomen bij de vaststelling van een eerdere vermindering. De winstuitkeringen worden in aanmerking genomen in de volgorde waarin zij door de inhoudingsplichtige zijn ontvangen.    
+3.  Tot de in het tweede lid genoemde opbrengst waarop de inhoudingsplichtige dividendbelasting heeft ingehouden, wordt niet gerekend de opbrengst waarop hij weliswaar dividendbelasting heeft ingehouden doch welke belasting voor volledige teruggaaf in aanmerking komt, behalve indien de opbrengst ter beschikking wordt gesteld aan een rechtspersoon als bedoeld in artikel 10, eerste lid, of een daarmee vergelijkbaar in het buitenland gevestigd lichaam, die respectievelijk dat voor minder dan 5 percent van het nominaal gestorte kapitaal aandeelhouder is van de inhoudingsplichtige.   
 4.  Indien de inhoudingsplichtige als dochtermaatschappij deel uit maakt van een fiscale eenheid in de zin van artikel 15, eerste lid, van de Wet op de vennootschapsbelasting 1969 worden de door die maatschappij ontvangen winstuitkeringen op aandelen en winstbewijzen die voldoen aan de voorwaarden van het eerste lid voor de toepassing van de vermindering ingevolge dit artikel toegerekend aan de moedermaatschappij van die fiscale eenheid. Ingeval door de dochtermaatschappij voor het tot stand komen van de in de vorige volzin bedoelde fiscale eenheid winstuitkeringen zijn ontvangen die voldoen aan de voorwaarden van het eerste lid, kan Onze Minister op gezamenlijk verzoek van de moeder- en de dochtermaatschappij, onder door hem te stellen voorwaarden, toestaan dat die winstuitkeringen worden toegerekend aan de moedermaatschappij.   
-5.   Voor de toepassing van dit artikel wordt met een winstuitkering op aandelen en winstbewijzen ter zake waarvan een vermindering kan worden toegepast gelijkgesteld de uit een staat waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft gesloten afkomstige winst, die in overeenstemming met het ter zake in het desbetreffende verdrag bepaalde in Nederland van belastingheffing is vrijgesteld en in de andere staat, naast de belasting die over die winst is geheven, is onderworpen aan een aanvullende belasting van ten minste 5 percent.    
+5.  Voor de toepassing van dit artikel wordt met een winstuitkering op aandelen en winstbewijzen ter zake waarvan een vermindering kan worden toegepast gelijkgesteld de uit een staat waarmee Nederland een verdrag ter voorkoming van dubbele belasting heeft gesloten afkomstige winst, die in overeenstemming met het ter zake in het desbetreffende verdrag bepaalde in Nederland van belastingheffing is vrijgesteld en in de andere staat, naast de belasting die over die winst is geheven, is onderworpen aan een aanvullende belasting van ten minste 5 percent.    
 6.   Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van dit artikel.   
 
 ### Artikel 11a 
@@ -215,8 +215,8 @@ b. de rechthebbende een aanmerkelijk belang heeft in de inhoudingsplichtige als 
 ### Artikel  12  
 
 1.  Indien de inhoudingsplichtige winstuitkeringen heeft ontvangen die zouden kunnen leiden tot een vermindering op de voet van artikel 11, mag hij in afwijking van artikel 4, eerste en tweede lid, tot een bedrag ter grootte van die vermindering afzien van het achterwege laten van inhouding van de belasting.    
-2.   De inhoudingsplichtige die op de voet van het eerste lid afziet van het achterwege laten van inhouding van belasting, is verplicht aangifte te doen van de ingehouden belasting.    
-3.   Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van artikel 11.   
+2.  De inhoudingsplichtige die op de voet van het eerste lid afziet van het achterwege laten van inhouding van belasting, is verplicht aangifte te doen van de ingehouden belasting.    
+3.  Opbrengsten met betrekking tot welke op de voet van het eerste lid belasting is ingehouden, worden voor de gerechtigde tot die opbrengsten gelijkgesteld met winstuitkeringen die voldoen aan de voorwaarden voor een vermindering op de voet van artikel 11.   
 
 ### Artikel  13  
 
@@ -245,7 +245,7 @@ In aanvulling op artikel 4, zesde lid, mag bij een beleggingsinstelling in de zi
 ### Artikel  17  
 
 1.  Deze wet treedt in werking op 1 januari 1966.    
-2.   Deze wet kan worden aangehaald als: Wet op de dividendbelasting, met vermelding van het jaar, waarin zij in het *Staatsblad* wordt geplaatst.   
+2.  Deze wet kan worden aangehaald als: Wet op de dividendbelasting, met vermelding van het jaar, waarin zij in het *Staatsblad* wordt geplaatst.   
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 

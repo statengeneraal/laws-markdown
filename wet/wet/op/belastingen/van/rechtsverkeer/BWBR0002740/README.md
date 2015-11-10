@@ -31,7 +31,7 @@ b. een assurantiebelasting.
 ### Artikel  2  
 
 1.  Onder de naam 'overdrachtsbelasting' wordt een belasting geheven ter zake van de verkrijging van in Nederland gelegen onroerende zaken of van rechten waaraan deze zijn onderworpen.    
-2.   Voor de toepassing van deze wet wordt onder verkrijging mede begrepen de verkrijging van de economische eigendom. Onder economische eigendom wordt verstaan een samenstel van rechten en verplichtingen met betrekking tot de in het eerste lid bedoelde onroerende zaken of rechten waaraan deze zijn onderworpen, dat een belang bij die zaken of rechten vertegenwoordigt. Het belang omvat ten minste enig risico van waardeverandering en komt toe aan een ander dan de eigenaar of beperkt gerechtigde. Onder de verkrijging van de economische eigendom van onroerende zaken of van rechten waaraan deze zijn onderworpen wordt mede verstaan de verkrijging van een samenstel van rechten en verplichtingen dat een belang als hiervoor bedoeld vertegenwoordigt bij een bestanddeel van een onroerende zaak dat zelfstandig aan een recht kan worden onderworpen, dan wel bij een recht waaraan een onroerende zaak kan worden onderworpen. De verkrijging van uitsluitend het recht op levering wordt niet aangemerkt als verkrijging van economische eigendom.   
+2.  Voor de toepassing van deze wet wordt onder verkrijging mede begrepen de verkrijging van de economische eigendom. Onder economische eigendom wordt verstaan een samenstel van rechten en verplichtingen met betrekking tot de in het eerste lid bedoelde onroerende zaken of rechten waaraan deze zijn onderworpen, dat een belang bij die zaken of rechten vertegenwoordigt. Het belang omvat ten minste enig risico van waardeverandering en komt toe aan een ander dan de eigenaar of beperkt gerechtigde. Onder de verkrijging van de economische eigendom van onroerende zaken of van rechten waaraan deze zijn onderworpen wordt mede verstaan de verkrijging van een samenstel van rechten en verplichtingen dat een belang als hiervoor bedoeld vertegenwoordigt bij een bestanddeel van een onroerende zaak dat zelfstandig aan een recht kan worden onderworpen, dan wel bij een recht waaraan een onroerende zaak kan worden onderworpen. De verkrijging van uitsluitend het recht op levering wordt niet aangemerkt als verkrijging van economische eigendom.   
 3.  Het tweede lid is niet van toepassing bij verkrijging van rechten van deelneming in: 
 
 a. een beleggingsfonds;  
@@ -118,8 +118,8 @@ Als rechten waaraan zaken zijn onderworpen worden niet aangemerkt de rechten van
 ### Artikel  6  
 
 1.  Opzegging van een beperkt recht wordt beschouwd als verkrijging van dat recht door degene ten behoeve van wie de opzegging plaats heeft.    
-2.   Wijziging van een beperkt recht wordt beschouwd als afstand van dat recht tegen verkrijging van een nieuw beperkt recht.    
-3.   Indien bij het einde van een beperkt recht tot gebruik van een onroerende zaak door de gebruiker daarop aangebrachte zaken ten goede komen aan een andere gerechtigde tot die onroerende zaak, worden die zaken geacht door die gerechtigde te zijn verkregen.   
+2.  Wijziging van een beperkt recht wordt beschouwd als afstand van dat recht tegen verkrijging van een nieuw beperkt recht.    
+3.  Indien bij het einde van een beperkt recht tot gebruik van een onroerende zaak door de gebruiker daarop aangebrachte zaken ten goede komen aan een andere gerechtigde tot die onroerende zaak, worden die zaken geacht door die gerechtigde te zijn verkregen.   
 
 ### Artikel  7  
 
@@ -128,8 +128,8 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 ### Artikel  8  
 
 1.  Indien voor de verkrijging van een goed als bedoeld in artikel 2 een akte in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, moet worden ingeschreven, vindt de verkrijging plaats op het tijdstip waarop de akte wordt opgemaakt.    
-2.   Een verkrijging krachtens een rechtshandeling die onder opschortende voorwaarde is verricht, komt tot stand op het tijdstip waarop de voorwaarde wordt vervuld.    
-3.   Nietigheid van een verkrijging wordt buiten beschouwing gelaten.   
+2.  Een verkrijging krachtens een rechtshandeling die onder opschortende voorwaarde is verricht, komt tot stand op het tijdstip waarop de voorwaarde wordt vervuld.    
+3.  Nietigheid van een verkrijging wordt buiten beschouwing gelaten.   
 
 ### Afdeling  2  
 
@@ -138,11 +138,11 @@ Hetgeen bij een verdeling wordt toegedeeld, wordt geacht voor het geheel te zijn
 ### Artikel  9  
 
 1.  De belasting wordt berekend over de waarde van de onroerende zaak of het recht waaraan deze is onderworpen, waarop de verkrijging betrekking heeft. De waarde is ten minste gelijk aan die van de tegenprestatie.    
-2.   Indien van een beperkt recht afstand wordt gedaan tegen verkrijging van een nieuw beperkt recht, wordt de belasting berekend over het verschil in waarde tussen de beperkte rechten. Wordt uitsluitend de schuldplichtigheid gewijzigd, dan wordt bedoeld verschil op nihil gesteld.    
-3.   Bij verkrijging van een met grondrente bezwaarde zaak, wordt de belasting berekend over de waarde van die zaak zonder aftrek van de grondrente.    
-4.   Ingeval een verkrijging als bedoeld in artikel 2, tweede lid, wordt gevolgd door een verkrijging als bedoeld in artikel 2, eerste lid, of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van artikel 15 van de Wet op de omzetbelasting 1968 in het geheel niet in aftrek kon worden gebracht.    
-5.   Indien voor een goed als bedoeld in artikel 2 een verkoopregulerend beding geldt dat rechtstreeks of middellijk jegens de verkrijger is gemaakt door een publiekrechtelijk lichaam of een toegelaten instelling als bedoeld in artikel 19, eerste lid, van de Woningwet, is de waarde gelijk aan die van de tegenprestatie en worden voor de bepaling van de tegenprestatie de uit het beding voortvloeiende lasten buiten aanmerking gelaten.    
-6.   Indien op grond van artikel 15, vierde lid, de vrijstelling niet van toepassing is, wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.   
+2.  Indien van een beperkt recht afstand wordt gedaan tegen verkrijging van een nieuw beperkt recht, wordt de belasting berekend over het verschil in waarde tussen de beperkte rechten. Wordt uitsluitend de schuldplichtigheid gewijzigd, dan wordt bedoeld verschil op nihil gesteld.    
+3.  Bij verkrijging van een met grondrente bezwaarde zaak, wordt de belasting berekend over de waarde van die zaak zonder aftrek van de grondrente.    
+4.  Ingeval een verkrijging als bedoeld in artikel 2, tweede lid, wordt gevolgd door een verkrijging als bedoeld in artikel 2, eerste lid, of andersom, door dezelfde persoon of door zijn rechtsopvolger krachtens huwelijksvermogensrecht of erfrecht, wordt de waarde verminderd met het bedrag waarover ter zake van de eerste verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke op grond van artikel 15 van de Wet op de omzetbelasting 1968 in het geheel niet in aftrek kon worden gebracht.    
+5.  Indien voor een goed als bedoeld in artikel 2 een verkoopregulerend beding geldt dat rechtstreeks of middellijk jegens de verkrijger is gemaakt door een publiekrechtelijk lichaam of een toegelaten instelling als bedoeld in artikel 19, eerste lid, van de Woningwet, is de waarde gelijk aan die van de tegenprestatie en worden voor de bepaling van de tegenprestatie de uit het beding voortvloeiende lasten buiten aanmerking gelaten.    
+6.  Indien op grond van artikel 15, vierde lid, de vrijstelling niet van toepassing is, wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.   
 
 ### Artikel  10  
 
@@ -151,19 +151,19 @@ De waarde van aandelen en rechten, als bedoeld in artikel 4, eerste lid, is geli
 ### Artikel  11  
 
 1.  Bij verkrijging van een erfdienstbaarheid of van een recht van erfpacht, opstal of beklemming wordt de waarde vermeerderd met die van de canon, de retributie of de huur, met dien verstande dat de som van beide waarden niet hoger wordt gesteld dan de waarde van de zaak waarop het recht betrekking heeft.    
-2.   Bij verkrijging van eigendom, bezwaard met een erfdienstbaarheid of met een recht van erfpacht, opstal of beklemming, wordt de waarde verminderd met die van de canon, de retributie of de huur.    
-3.   De waarde van de canon, de retributie of de huur wordt bepaald volgens bij algemene maatregel van bestuur te stellen regels.   
+2.  Bij verkrijging van eigendom, bezwaard met een erfdienstbaarheid of met een recht van erfpacht, opstal of beklemming, wordt de waarde verminderd met die van de canon, de retributie of de huur.    
+3.  De waarde van de canon, de retributie of de huur wordt bepaald volgens bij algemene maatregel van bestuur te stellen regels.   
 
 ### Artikel  12  
 
 1.  Bij verkrijging krachtens verdeling wordt de waarde verminderd met die van het aandeel van de verkrijger of van zijn rechtsvoorganger onder algemene titel in de verdeelde goederen als zijn bedoeld in artikel 2.    
-2.   De vermindering met de waarde van het aandeel van een rechtsvoorganger vindt, ingeval aan verschillende rechtverkrijgenden onder algemene titel goederen als zijn bedoeld in artikel 2 worden toegedeeld, voor iedere toedeling plaats naar evenredigheid van de waarde van het toegedeelde.    
-3.   Het eerste en het tweede lid blijven buiten toepassing, voor zover de gerechtigdheid tot de verdeelde goederen is ontstaan door inbreng in een vennootschap met toepassing van de vrijstelling, bedoeld in artikel 15, eerste lid, onderdeel e.   
+2.  De vermindering met de waarde van het aandeel van een rechtsvoorganger vindt, ingeval aan verschillende rechtverkrijgenden onder algemene titel goederen als zijn bedoeld in artikel 2 worden toegedeeld, voor iedere toedeling plaats naar evenredigheid van de waarde van het toegedeelde.    
+3.  Het eerste en het tweede lid blijven buiten toepassing, voor zover de gerechtigdheid tot de verdeelde goederen is ontstaan door inbreng in een vennootschap met toepassing van de vrijstelling, bedoeld in artikel 15, eerste lid, onderdeel e.   
 
 ### Artikel  13  
 
 1.  In geval van verkrijging binnen zes maanden na een vorige verkrijging van dezelfde goederen door een ander wordt de waarde verminderd met het bedrag waarover ter zake van de vorige verkrijging was verschuldigd hetzij overdrachtsbelasting welke niet in mindering heeft gestrekt van schenk- of erfbelasting, hetzij omzetbelasting welke in het geheel niet op grond van artikel 15 van de Wet op de omzetbelasting 1968 in aftrek kon worden gebracht.    
-2.   Voor de toepassing van het eerste lid worden aandelen of rechten, als bedoeld in artikel 4, eerste lid, en de daardoor middellijk of onmiddellijk vertegenwoordigde goederen als dezelfde goederen beschouwd.    
+2.  Voor de toepassing van het eerste lid worden aandelen of rechten, als bedoeld in artikel 4, eerste lid, en de daardoor middellijk of onmiddellijk vertegenwoordigde goederen als dezelfde goederen beschouwd.    
 3.  Bij algemene maatregel van bestuur kan, indien de ontwikkelingen van de vastgoedmarkt daartoe aanleiding geven, in afwijking van het eerste lid tijdelijk een afwijkende termijn worden vastgesteld waarbij voor woningen en niet-woningen een verschillende termijn gehanteerd kan worden en voor zover nodig kan worden voorzien in overgangsrecht. 
 
 ### Afdeling  3  
@@ -246,9 +246,9 @@ w. vervallen;
 x. krachtens uitoefening van een wilsrecht als bedoeld in de artikelen 19 , 20, 21 en 22 van Boek 4 van het Burgerlijk Wetboek, voorzover de totale waarde van de verkrijging uit de nalatenschap niet meer bedraagt dan het bedrag van de geldvordering, bedoeld in artikel 13, derde lid, van Boek 4 van het Burgerlijk Wetboek, vermeerderd met de rentevergoeding waarmee ingevolge artikel 1, derde lid, van de Successiewet 1956 voor de heffing van erfbelasting rekening is gehouden. Voor de toepassing van de vorige volzin blijft bij het bepalen van de waarde van een verkrijging een door de ouder of stiefouder op grond van artikel 19, onderscheidenlijk artikel 21, van Boek 4 van het Burgerlijk Wetboek voorbehouden vruchtgebruik buiten beschouwing;  
 
 y.van een net gelegen in, op of boven de grond, bestaande uit een of meer kabels of leidingen, bestemd voor transport van vaste, vloeibare of gasvormige stoffen, van energie, of van informatie.   
-2.   Ingeval bodembestanddelen als bedoeld in het eerste lid, onderdeel j, of de waarde daarvan alsnog aan de verkrijger ten goede komen, wordt zulks beschouwd als een verkrijging in de zin van artikel 2.    
-3.   Verwijdering van zaken die ingevolge een beding of krachtens de wet nog na de verkrijging mogen worden weggenomen wordt, indien die verwijdering plaatsvindt binnen drie maanden na de verkrijging, ten aanzien van die zaken beschouwd als de vervulling van een aan de verkrijging verbonden ontbindende voorwaarde, mits zij of hun waarde niet aan de verkrijger zijn ten goede gekomen.    
-4.   De in het eerste lid bedoelde vrijstellingen zijn niet van toepassing in gevallen waarin de verkrijging plaatsvindt krachtens een levering of dienst in de zin van de Wet op de omzetbelasting 1968 ter zake waarvan omzetbelasting is verschuldigd, indien de vergoeding, bedoeld in artikel 8, eerste lid, van die wet, tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in artikel 9, en de verkrijger de omzetbelasting op grond van artikel 15 van de Wet op de omzetbelasting 1968 niet of niet nagenoeg geheel in aftrek kan brengen. Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.    
+2.  Ingeval bodembestanddelen als bedoeld in het eerste lid, onderdeel j, of de waarde daarvan alsnog aan de verkrijger ten goede komen, wordt zulks beschouwd als een verkrijging in de zin van artikel 2.    
+3.  Verwijdering van zaken die ingevolge een beding of krachtens de wet nog na de verkrijging mogen worden weggenomen wordt, indien die verwijdering plaatsvindt binnen drie maanden na de verkrijging, ten aanzien van die zaken beschouwd als de vervulling van een aan de verkrijging verbonden ontbindende voorwaarde, mits zij of hun waarde niet aan de verkrijger zijn ten goede gekomen.    
+4.  De in het eerste lid bedoelde vrijstellingen zijn niet van toepassing in gevallen waarin de verkrijging plaatsvindt krachtens een levering of dienst in de zin van de Wet op de omzetbelasting 1968 ter zake waarvan omzetbelasting is verschuldigd, indien de vergoeding, bedoeld in artikel 8, eerste lid, van die wet, tezamen met de verschuldigde omzetbelasting, lager is dan de waarde, bedoeld in artikel 9, en de verkrijger de omzetbelasting op grond van artikel 15 van de Wet op de omzetbelasting 1968 niet of niet nagenoeg geheel in aftrek kan brengen. Voor de toepassing van deze bepaling wordt de waarde ten minste gesteld op de kostprijs van de onroerende zaak of van de zaak waarop het recht of de dienst betrekking heeft, met inbegrip van de omzetbelasting, zoals die zou ontstaan bij de voortbrenging door een onafhankelijke derde op het tijdstip van de verkrijging.    
 5.  Voor de toepassing van het eerste lid, onderdeel e, onder 1°, wordt onder waarde van het vermogen van de ingebrachte onderneming mede verstaan de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.   
 6.  In afwijking van het eerste lid, onderdeel a, is de vrijstelling eveneens van toepassing indien: 
 
@@ -285,8 +285,8 @@ b. nietigheid of vernietiging;
 
 c. ontbinding wegens niet-nakoming van een verbintenis. Indien in de gevallen als zijn bedoeld onder *a* en *b* een akte in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek, is ingeschreven, wordt zodanig herstel in geen geval aanwezig geacht voor de inschrijving van een verklaring, akte of rechterlijke uitspraak waarbij de vervulling van de voorwaarde, de nietigheid of de vernietiging wordt vastgesteld.      
 2.  Het verzoek om teruggaaf geschiedt door het doen van aangifte binnen drie maanden na afloop van het kalenderjaar waarin het recht op teruggaaf is ontstaan.   
-3.   De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.    
-4.   Een verkrijging ten aanzien waarvan op grond van het eerste lid teruggaaf van de belasting wordt verleend, blijft buiten beschouwing voor de toepassing van artikel 13.   
+3.  De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.    
+4.  Een verkrijging ten aanzien waarvan op grond van het eerste lid teruggaaf van de belasting wordt verleend, blijft buiten beschouwing voor de toepassing van artikel 13.   
 
 ### Hoofdstuk  III  
 
@@ -303,7 +303,7 @@ Onder de naam 'assurantiebelasting' wordt een belasting geheven ter zake van ver
 ### Artikel  21  
 
 1.  Het risico van de verzekering is in Nederland gelegen indien de verzekeringnemer in Nederland woont, of, ingeval de verzekeringnemer een rechtspersoon is, indien de vestiging van deze rechtspersoon waarop de verzekering betrekking heeft zich in Nederland bevindt.    
-2.   Het risico van de verzekering is voor zover het eerste lid niet van toepassing is, voorts in Nederland gelegen indien de verzekering betrekking heeft op:  
+2.  Het risico van de verzekering is voor zover het eerste lid niet van toepassing is, voorts in Nederland gelegen indien de verzekering betrekking heeft op:  
 
 a. in Nederland gelegen onroerende zaken, alsmede de zich daarin bevindende roerende zaken, met uitzondering van voor doorvoer bestemde handelsgoederen;   
 
@@ -314,7 +314,7 @@ c. schepen die te boek staan in de openbare registers, bedoeld in afdeling 2 van
 d. luchtvaartuigen die te boek staan in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek;  
 
 e. tijdens een reis of vakantie gelopen risico's, indien de verzekering in Nederland is gesloten en een looptijd heeft van vier maanden of minder.      
-3.   In afwijking van het eerste lid is het risico van de verzekering niet in Nederland gelegen indien de verzekering betrekking heeft op:  
+3.  In afwijking van het eerste lid is het risico van de verzekering niet in Nederland gelegen indien de verzekering betrekking heeft op:  
 
 a. in een andere lidstaat van de Europese Unie gelegen onroerende zaken, alsmede de zich daarin bevindende roerende zaken, met uitzondering van voor doorvoer bestemde handelsgoederen;   
 
@@ -358,7 +358,7 @@ f. transportverzekeringen;
 g. herverzekeringen;   
 
 h. exportkredietverzekeringen.      
-2.   Indien een samengestelde verzekering een of meer vrijgestelde verzekeringen omvat, wordt de vrijstelling toegepast op het aan die vrijgestelde verzekeringen toe te rekenen gedeelte van de premie.   
+2.  Indien een samengestelde verzekering een of meer vrijgestelde verzekeringen omvat, wordt de vrijstelling toegepast op het aan die vrijgestelde verzekeringen toe te rekenen gedeelte van de premie.   
 
 ### Afdeling  4  
 
@@ -373,7 +373,7 @@ h. exportkredietverzekeringen.
 2°. het risico dat de verzekering dekt krachtens één polis, wordt gedragen door ten minste twee verzekeraars; of   
 
 3°. de bemiddelaar jegens de verzekeraar aansprakelijk is voor de verschuldigde premie en de polis of het aanhangsel van de polis niet door de verzekeraar is of wordt opgemaakt.      
-2.   De belasting ter zake van verzekeringen welke zijn gesloten bij een gevolmachtigd agent als bedoeld in de Wet op het financieel toezicht wordt steeds geheven van de agent, tenzij het eerste lid van toepassing is.    
+2.  De belasting ter zake van verzekeringen welke zijn gesloten bij een gevolmachtigd agent als bedoeld in de Wet op het financieel toezicht wordt steeds geheven van de agent, tenzij het eerste lid van toepassing is.    
 3.  De belasting wordt geheven van de bemiddelaar, indien en voor zover deze de vergoeding ontvangt van een ander dan de verzekeraar die in Nederland is gevestigd. Deze belastingplicht strekt zich niet verder uit dan tot die vergoeding.   
 4.  Indien het eerste, tweede en derde lid geen toepassing kunnen vinden, wordt de belasting geheven van de verzekeraar, ingeval deze in Nederland is gevestigd.    
 5. Ingeval de verzekeraar niet in Nederland is gevestigd en het eerste en tweede lid geen toepassing kunnen vinden, wordt de belasting geheven van de vertegenwoordiger van de verzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, al naar gelang die vertegenwoordiger de verzekering voor of namens de verzekeraar heeft gesloten. Indien er niet een dergelijke vertegenwoordiger is, wordt de belasting geheven van de in Nederland wonende of gevestigde bemiddelaar in verzekeringen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, door wiens bemiddeling de verzekering is gesloten.  
@@ -384,9 +384,9 @@ h. exportkredietverzekeringen.
 ### Artikel  25a  
 
 1.  De fiscaal vertegenwoordiger, bedoeld in artikel 25, zesde lid, dient in het bezit te zijn van een vergunning van de inspecteur.    
-2.   Degene die een vergunning als fiscaal vertegenwoordiger wil verkrijgen, dient daartoe een verzoek in bij de inspecteur. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die het verzoek moet bevatten.    
-3.   Bij het verzoek wordt een verklaring overgelegd van de in artikel 25, zesde lid, bedoelde verzekeraar, waaruit blijkt dat deze degene die het verzoek indient, machtigt op te treden als zijn fiscaal vertegenwoordiger.    
-4.   Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de voorwaarden waaronder de vergunning wordt verleend, gewijzigd en ingetrokken. Het verlenen, wijzigen en intrekken van de vergunning geschiedt bij voor bezwaar vatbare beschikking.   
+2.  Degene die een vergunning als fiscaal vertegenwoordiger wil verkrijgen, dient daartoe een verzoek in bij de inspecteur. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die het verzoek moet bevatten.    
+3.  Bij het verzoek wordt een verklaring overgelegd van de in artikel 25, zesde lid, bedoelde verzekeraar, waaruit blijkt dat deze degene die het verzoek indient, machtigt op te treden als zijn fiscaal vertegenwoordiger.    
+4.  Bij algemene maatregel van bestuur kunnen, ter verzekering van de heffing en de invordering, regels worden gesteld met betrekking tot de voorwaarden waaronder de vergunning wordt verleend, gewijzigd en ingetrokken. Het verlenen, wijzigen en intrekken van de vergunning geschiedt bij voor bezwaar vatbare beschikking.   
 
 ### Artikel  26  
 
@@ -407,8 +407,8 @@ In de gevallen bedoeld in artikel 25, eerste tot en met vijfde lid, wordt het ri
 ### Artikel  29  
 
 1.  Voor zover de premie niet is en niet zal worden ontvangen, dan wel wordt terugbetaald, wordt de belasting verrekend met die welke is verschuldigd geworden in het tijdvak waarin het recht op verrekening is ontstaan. Ingeval de voor verrekening in aanmerking komende belasting meer bedraagt dan de in het tijdvak verschuldigd geworden belasting, wordt het verschil op verzoek teruggegeven.    
-2.   Het verzoek om teruggaaf geschiedt bij de aangifte over het tijdvak waarin het recht op teruggaaf is ontstaan.    
-3.   De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
+2.  Het verzoek om teruggaaf geschiedt bij de aangifte over het tijdvak waarin het recht op teruggaaf is ontstaan.    
+3.  De inspecteur beslist op het verzoek om teruggaaf bij voor bezwaar vatbare beschikking.   
 
 ### Artikel  30  
 
@@ -475,7 +475,7 @@ b. andere in het kader van de wet passende regels worden gesteld ter aanvulling 
 ### Artikel  54  
 
 1.  Indien de verkrijging, bedoeld in artikel 2, tweede lid, niet is neergelegd in een notariële akte, is degene die de economische eigendom overdraagt, verplicht binnen twee weken na de verkrijging aan de inspecteur te melden dat de economische eigendom is overgedragen.    
-2.   Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de melding moet worden gedaan.    
+2.  Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de melding moet worden gedaan.    
 3.  Met betrekking tot de verplichtingen, bedoeld in dit artikel, blijven de artikelen 47b en 52a van de Algemene wet inzake rijksbelastingen buiten toepassing.   
 
 ### Hoofdstuk  VII  
@@ -485,7 +485,7 @@ b. andere in het kader van de wet passende regels worden gesteld ter aanvulling 
 ### Artikel  61  
 
 1.  Deze wet treedt in werking op een door Ons te bepalen tijdstip.    
-2.   Zij kan worden aangehaald als 'Wet op belastingen van rechtsverkeer'.   
+2.  Zij kan worden aangehaald als 'Wet op belastingen van rechtsverkeer'.   
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

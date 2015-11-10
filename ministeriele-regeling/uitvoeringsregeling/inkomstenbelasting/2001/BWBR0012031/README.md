@@ -225,9 +225,9 @@ Met betrekking tot het kalenderjaar 2015 wordt voor de toepassing van artikel 3.
 
 ####Belastbare winst uit onderneming; loon- en prijswijzigingen na afloop jaar en betaling
 
-1.   In afwijking van artikel 3.27, tweede lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies voor risicoverzekeringen voor weduwen- en wezenpensioenen, voorzover het in de premies begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen niet meer bedraagt dan nodig is voor een aanpassing aan een zodanige wijziging van 4% per jaar.   
-2.   In afwijking van artikel 3.27, derde lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de Pensioenwet en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.   
-3.   Het eerste en tweede lid zijn slechts van toepassing voorzover de betalingen het vermogen van de onderneming onherroepelijk hebben verlaten.   
+1.  In afwijking van artikel 3.27, tweede lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies voor risicoverzekeringen voor weduwen- en wezenpensioenen, voorzover het in de premies begrepen bestanddeel voor toekomstige wijzigingen in de hoogte van lonen of prijzen niet meer bedraagt dan nodig is voor een aanpassing aan een zodanige wijziging van 4% per jaar.   
+2.  In afwijking van artikel 3.27, derde lid, van de wet is het eerste lid van dat artikel mede van toepassing op de betaling van premies of koopsommen aan een pensioenlichaam waarvan het doel en de feitelijke werkzaamheden overeenkomen met die van een pensioenfonds als bedoeld in de Pensioenwet en waarvan de winst uitsluitend kan worden aangewend ten bate van de verzekerden, een ander pensioenfonds met overeenkomstige doelstelling, of een algemeen maatschappelijk belang.   
+3.  Het eerste en tweede lid zijn slechts van toepassing voorzover de betalingen het vermogen van de onderneming onherroepelijk hebben verlaten.   
 
 ### Artikel  11  
 
@@ -235,24 +235,24 @@ Met betrekking tot het kalenderjaar 2015 wordt voor de toepassing van artikel 3.
 
 Voor de toepassing van de artikelen 3.55, tweede en vijfde lid, 3.56, tweede lid, 3.57, tweede lid, en 4.41, tweede en derde lid, van de wet en de artikelen 14, derde lid, en 14a, tweede lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein. 
 
-###Artikel 13a 
+### Artikel  13a  
 
 ####Belastbare winst uit onderneming; verkorting driejaarstermijn bij doorschuiving naar ondernemers of werknemers
 
-1.  Aan de in artikel 3.63, vierde lid en vijfde lid, van de wet bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.
-2. Het eerste lid is van toepassing indien de belastingplichtige:
+1.  Aan de in artikel 3.63, vierde lid en vijfde lid, van de wet bedoelde termijn van 36 maanden wordt geacht te zijn voldaan indien zich na het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking een omstandigheid voordoet als bedoeld in het tweede lid.   
+2.  Het eerste lid is van toepassing indien de belastingplichtige: 
 
-a.door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;
+a. door ziekte of gebreken gedurende ten minste één jaar niet in staat is, of vermoedelijk niet in staat zal zijn, om ten minste 55% te verdienen van wat lichamelijk en geestelijk gezonde personen die overigens in gelijke omstandigheden verkeren, kunnen verdienen;  
 
-b.in staat van faillissement wordt verklaard;
+b. in staat van faillissement wordt verklaard;  
 
-c.surséance van betaling heeft aangevraagd;
+c. surséance van betaling heeft aangevraagd;  
 
-d.onder curatele wordt gesteld;
+d. onder curatele wordt gesteld;  
 
-e.vóór het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking met degene die de onderneming gaat voortzetten nog wel, maar vanaf enig moment daarna niet meer kan kiezen voor kwalificatie als partner van de voortzetter, of
+e. vóór het aangaan van het samenwerkingsverband respectievelijk de dienstbetrekking met degene die de onderneming gaat voortzetten nog wel, maar vanaf enig moment daarna niet meer kan kiezen voor kwalificatie als partner van de voortzetter, of  
 
-f.overlijdt en de onderneming spoedig daarna aan de in artikel 3.63, vierde lid respectievelijk vijfde lid, van de wet, bedoelde voortzetter wordt overgedragen. 
+f. overlijdt en de onderneming spoedig daarna aan de in artikel 3.63, vierde lid respectievelijk vijfde lid, van de wet, bedoelde voortzetter wordt overgedragen.     
 
 ### Artikel  14  
 
@@ -264,14 +264,14 @@ f.overlijdt en de onderneming spoedig daarna aan de in artikel 3.63, vierde lid 
 
 ####Belastbaar loon; reisaftrek
 
-1.   De openbaar-vervoerverklaring, bedoeld in artikel 3.87, negende lid van de wet, is gedagtekend en bevat ten minste de volgende gegevens: 
+1.  De openbaar-vervoerverklaring, bedoeld in artikel 3.87, negende lid van de wet, is gedagtekend en bevat ten minste de volgende gegevens: 
 
 a. naam en adres van de belastingplichtige;  
 
 b. de route waarvoor de plaatsbewijzen geldig zijn;  
 
 c. het tijdvak van geldigheid van de plaatsbewijzen.     
-2.   De verklaring, bedoeld in artikel 3.87, negende lid, van de wet (de reisverklaring) bevat ten minste de volgende gegevens: 
+2.  De verklaring, bedoeld in artikel 3.87, negende lid, van de wet (de reisverklaring) bevat ten minste de volgende gegevens: 
 
 a. naam en adres van de inhoudingsplichtige;  
 
@@ -296,7 +296,7 @@ d. uitkeringen en verstrekkingen ingevolge de Regeling opvang asielzoekers;
 e. uitkeringen en verstrekkingen ingevolge de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005;  
 
 f. inkomensondersteunende uitkeringen ingevolge artikel 108, eerste lid, van de Gemeentewet, die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.     
-2.   Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in artikel 3.104, onderdeel i, van de wet, worden aangewezen: uitkeringen ingevolge de Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen, zoals deze luidde op 31 december 2014.    
+2.  Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in artikel 3.104, onderdeel i, van de wet, worden aangewezen: uitkeringen ingevolge de Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen, zoals deze luidde op 31 december 2014.    
 3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in artikel 3.104, onderdeel o, van de wet worden aangewezen: voorzieningen in de zin van de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers. 
 
 ### Artikel 17a 
@@ -423,8 +423,8 @@ c. de verkrijger reeds gedurende de 36 maanden die onmiddellijk voorafgaan aan h
 
 ####Verliesverrekening; formalisering achterwaartse verliesverrekening
 
-1.   Een voorlopige verliesverrekening als bedoeld in artikel 4.51, vijfde lid, van de wet kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
-2.   Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.   
+1.  Een voorlopige verliesverrekening als bedoeld in artikel 4.51, vijfde lid, van de wet kan worden verleend indien het verlies over een kalenderjaar wordt aangegeven door de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan duidelijk, stellig en zonder voorbehoud in te vullen en te ondertekenen en de gevraagde bescheiden of andere gegevensdragers in te leveren of toe te zenden.   
+2.  Bij de berekening van de voorlopige verliesverrekening wordt het vermoedelijke verlies voor 80 percent in aanmerking genomen.   
 
 ### Hoofdstuk  5  
 
