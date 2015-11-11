@@ -21,7 +21,7 @@ A.1 De vergunninghouder is verplicht de Kansspelautoriteit onmiddellijk te infor
 
 A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van: 
 
-* het deelnemersreglement versie geldend per 1 januari 2015;  
+* het deelnemersreglement versie geldend per 13 januari 2015;  
 
 * het financieel reglement versie geldend per 1 januari 2015;  
 

@@ -793,6 +793,10 @@ Bij de beoordeling of een verblijfsvergunning voor bepaalde tijd, die is verleen
 
 Bij de indiening van de aanvraag, bedoeld in de artikelen 28 en 33 van de Wet, verklaart de vreemdeling of de wettelijk vertegenwoordiger ermee bekend te zijn dat de verblijfsrechtelijke gegevens via de koppelingen tussen het IND-informatiesysteem en de BRP worden doorgegeven aan instanties die deze gegevens voor de beoordeling van voorzieningen nodig hebben. 
 
+### Artikel  3.42  
+
+Voor de termijnen, genoemd in artikel 3.110, eerste en tweede lid, van het Besluit, tellen mee de dagen gedurende het weekeinde en de met algemeen erkende feestdagen gelijkgestelde dagen, bedoeld in artikel 3, tweede en derde lid, van de Algemene termijnenwet. 
+
 ### Artikel  3.43b  
 
 1.  Ter zake van de afdoening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 33 van de Wet, is de vreemdeling een bedrag van € 154 verschuldigd.   

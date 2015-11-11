@@ -1997,4 +1997,4 @@ Marokko verzoekt dat met de Marokkaanse belangen rekening wordt gehouden wanneer
 
 ####Protocol
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU L 90 van 28 maart 2012, blz. 2-5.

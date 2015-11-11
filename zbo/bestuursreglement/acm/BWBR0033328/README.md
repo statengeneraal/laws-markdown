@@ -5,16 +5,16 @@
 De Autoriteit Consument en Markt,  
 Gezien de goedkeuring van de Minister van Economische Zaken van 13 april 2013;
 
-Gelet op [artikel 4, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);
+Gelet op artikel 4, eerste lid, van de Instellingswet Autoriteit Consument en Markt;
 Besluit:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-a.  *ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+a.  *ACM:* de Autoriteit Consument en Markt als bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-b.  *ACM-personeel:* het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b.  *ACM-personeel:* het personeel als bedoeld in artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 c.  *bestuurslid:* lid van ACM;  
 
@@ -68,7 +68,8 @@ d. een lijst van de genomen besluiten en actiepunten.
 
 1.  Een bestuurslid kan verzoeken zich te mogen verschonen indien hij van mening is dat zijn onpartijdigheid bij een bepaalde aangelegenheid in het geding zou kunnen komen. Indien hij zich wil verschonen, richt hij zijn verzoek aan de bestuursvoorzitter dan wel, indien het de bestuursvoorzitter betreft, aan de plaatvervangend bestuursvoorzitter.   
 2.  Indien ACM van mening is dat de onpartijdigheid van een bestuurslid bij een bepaalde aangelegenheid in het geding zou kunnen komen of de schijn van partijdigheid de taakvervulling van ACM met betrekking tot die aangelegenheid kan schaden, kan ACM besluiten een bestuurslid ook zonder verzoek verschoning te verlenen.   
-3.  Indien verschoning wordt toegewezen of verleend, neemt het desbetreffende bestuurslid niet deel aan de behandeling van en de besluitvorming over de desbetreffende aangelegenheid.  
+3.  Indien verschoning wordt toegewezen of verleend, neemt het desbetreffende bestuurslid niet deel aan de behandeling van en de besluitvorming over de desbetreffende aangelegenheid.   
+4.  Onverminderd het bepaalde in dit artikel, neemt een bestuurslid niet deel aan de behandeling van en de besluitvorming over aangelegenheden die een onderneming uit de spoorwegsector betreffen, waarmee hij gedurende het jaar voorafgaand aan de start van een procedure een directe of indirecte band onderhield. 
 
 ### Artikel  8  
 

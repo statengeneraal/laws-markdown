@@ -1410,4 +1410,4 @@ De Gemeenschap verbindt zich ertoe technische bijstand te verlenen in de vorm va
 
 ####Protocol
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU L 2014, 8.
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU L 8 van 11 januari 2014, blz. 3-6.

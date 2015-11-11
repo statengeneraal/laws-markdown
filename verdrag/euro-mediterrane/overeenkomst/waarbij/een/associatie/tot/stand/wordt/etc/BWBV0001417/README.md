@@ -1974,4 +1974,4 @@ Vervallen per 29-01-2006
 ###Protocol 
 Wordt voorlopig toegepast per 19-12-2012 
 
-Ligt ter inzage bij de Afdeling Verdragen.
+Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken en is gepubliceerd in PbEU L 117 van 27 april 2013, blz. 2-5.
