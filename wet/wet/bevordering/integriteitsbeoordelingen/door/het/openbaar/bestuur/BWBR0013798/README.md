@@ -24,7 +24,7 @@ a. rechtspersoon met een overheidstaak: de Staat, een provincie, een gemeente, e
 
 b. advies: het advies, bedoeld in artikel 9;  
 
-c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikking terzake van een vergunning, toekenning, erkenning, registratie of ontheffing als bedoeld in: 
+c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikking terzake van een vergunning, toekenning, goedkeuring, erkenning, registratie of ontheffing als bedoeld in: 
 
 1°. artikel 7;  
 
@@ -38,7 +38,7 @@ c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikkin
 
 6°. artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht, artikel 2.1, eerste lid, aanhef en onder e, van die wet voor zover dat onderdeel betrekking heeft op een inrichting als bedoeld in artikel 1.1, eerste lid, van die wet, en artikel 2.1, eerste lid, aanhef en onder i, van die wet voor zover dat onderdeel betrekking heeft op een activiteit waarvoor bij algemene maatregel van bestuur op grond van artikel 2.17 van die wet is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd; 
 
-7°. artikel 70l van de Woningwet;  
+7°. artikel 27 van de Woningwet;  
 
 8°.artikel 4.3, derde lid, onderdeel b, van de Telecommunicatiewet;
 

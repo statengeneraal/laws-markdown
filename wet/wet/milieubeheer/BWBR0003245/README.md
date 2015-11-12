@@ -185,12 +185,10 @@ De emissieautoriteit stelt een bestuursreglement vast waarin haar werkwijze word
 
 In afwijking van artikel 18, eerste lid, eerste volzin, van de Kaderwet zelfstandige bestuursorganen stelt het bestuur van de emissieautoriteit jaarlijks voor 1 juli een jaarverslag op. 
 
-### Artikel  2.16  
+###Artikel 2.16 
 
-1.  Het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een omgevingsvergunning te verlenen voor een inrichting waarop hoofdstuk 16 betrekking heeft, verstrekken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen.   
-2.  Bij het verstrekken van de in het eerste lid bedoelde inlichtingen wordt waar nodig aangegeven welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijk karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat personen deze aan de bestuursorganen, bedoeld in het eerste lid, hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.   
-3.  Vervallen.   
-4.  In geval voor een inrichting waarop hoofdstuk 16 betrekking heeft, het in artikel 40, tweede lid, van de Mijnbouwwet vervatte verbod geldt, verstrekken het bestuur van de emissieautoriteit en Onze Minister van Economische Zaken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen. Het tweede en derde lid zijn van overeenkomstige toepassing.  
+1.  Het bestuur van de emissieautoriteit en het bestuursorgaan dat bevoegd is een vergunning krachtens artikel 8.1 te verlenen voor een inrichting waarop hoofdstuk 16 betrekking heeft, dan wel, in geval voor een inrichting waarop dat hoofdstuk betrekking heeft, het in artikel 40, tweede lid, van de Mijnbouwwet vervatte verbod geldt, Onze Minister van Economische Zaken, verstrekken elkaar desgevraagd of uit eigen beweging tijdig alle voor de uitoefening van hun taken redelijkerwijs benodigde inlichtingen.   
+2.  Bij het verstrekken van de in het eerste lid bedoelde inlichtingen wordt waar nodig aangegeven welke gegevens een vertrouwelijk karakter dragen. Dit vertrouwelijk karakter kan voortvloeien uit de aard van de gegevens, dan wel uit het feit dat personen deze aan de bestuursorganen, bedoeld in het eerste lid, hebben verstrekt onder het beding dat zij als vertrouwelijk zullen gelden.  
 
 ###Artikel 2.16a 
 

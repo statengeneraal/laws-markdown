@@ -16,9 +16,9 @@ Besluit:
 
 ### Artikel  2  
 
-1.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 4 bij deze regeling en is gedrukt op een gele achtergrond (kleuraanduiding Pantone 110).   
-2.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 5 bij deze regeling en is gedrukt op een blauwe achtergrond (kleuraanduiding Pantone 2728).   
-3.  De door de korpschef aan te brengen en te stempelen zegel op een duplicaat jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, of artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 6 bij deze regeling en is gedrukt op een lichtgroene achtergrond (kleuraanduiding Pantone 376).  
+1.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, van de Flora- en faunawet, geldig van 1 april 2015 tot en met 31 maart 2016, wordt vastgesteld volgens het model als opgenomen in bijlage 4 bij deze regeling en is gedrukt op een paarse achtergrond (kleuraanduiding Pantone 226).   
+2.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2015 tot en met 31 maart 2016, wordt vastgesteld volgens het model als opgenomen in bijlage 5 bij deze regeling en is gedrukt op een oranje achtergrond (kleuraanduiding Pantone 165).   
+3.  De door de korpschef aan te brengen en te stempelen zegel op een duplicaat jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, of artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2015 tot en met 31 maart 2016, wordt vastgesteld volgens het model als opgenomen in bijlage 6 bij deze regeling en is gedrukt op een lichtblauwe achtergrond (kleuraanduiding Pantone 543).  
 
 ### Artikel  3  
 
@@ -64,19 +64,19 @@ G.H. Faber
 
 ####behorende bij artikel 2, eerste lid , van de Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
 
-![252420](http://wetten.overheid.nl/Illustration/252420)
+![254374](http://wetten.overheid.nl/Illustration/254374)
 
 ### Bijlage 5  
 
 ####behorende bij artikel 2, eerste lid , van de Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
 
-![252421](http://wetten.overheid.nl/Illustration/252421)
+![254375](http://wetten.overheid.nl/Illustration/254375)
 
 ### Bijlage 6  
 
 ####behorende bij artikel 2, eerste lid , van de Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
 
-![252422](http://wetten.overheid.nl/Illustration/252422)
+![254376](http://wetten.overheid.nl/Illustration/254376)
 
 ### Bijlage 7  
 

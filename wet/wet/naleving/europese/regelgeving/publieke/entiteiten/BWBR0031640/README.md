@@ -46,7 +46,7 @@ a. in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrel
 
 b. in overeenstemming met Onze Minister van Verkeer en Waterstaat ten aanzien van waterschappen en gemeenschappelijke regelingen waaraan uitsluitend waterschappen deelnemen.     
 3.  Een aanwijzing wordt niet gegeven ten aanzien van de uitoefening van rechtspraak.   
-4.  Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van artikel 121 en hoofdstuk XVIII van de Provinciewet en van de artikelen 124 en 124a en hoofdstuk XVII van de Gemeentewet toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.  
+4.  Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van artikel 121 en hoofdstuk XVIII van de Provinciewet, van de artikelen 124 en 124a en hoofdstuk XVII van de Gemeentewet en van de artikelen 32b, 32c, 36 tot en met 39f, 45a, 49, 56a, 60, 65a, eerste lid, 69, eerste lid, 78a, eerste en tweede lid, 82, eerste en tweede lid, 88a, eerste lid en 92, eerste lid van de Wet gemeenschappelijke regelingen toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.  
 
 ### Artikel  3  
 

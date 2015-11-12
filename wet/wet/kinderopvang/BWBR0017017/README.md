@@ -611,57 +611,50 @@ f. het pedagogisch beleid en de pedagogische praktijk.
 ### Artikel  1.57b  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De houder van een kindercentrum of van een gastouderbureau treft ten behoeve van ouders een regeling voor de afhandeling van klachten over: 
+1.  De houder van een kindercentrum of een gastouderbureau treft schriftelijk een regeling voor de behandeling van klachten over een gedraging van hem of van voor hem werkzame personen jegens een ouder of een kind in het kader van de kinderopvang. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de ouders.   
+2.  De in het eerste lid bedoelde regeling: 
 
-a. een gedraging jegens een ouder of een kind van de houder of van voor de houder of door zijn tussenkomst werkzame personen, en  
+a. voorziet erin dat schriftelijk ingediende klachten van ouders worden behandeld door een klachtencommissie die bestaat uit ten minste drie leden, waaronder een voorzitter die niet werkzaam is voor of bij de houder;  
 
-b. de overeenkomst tussen de houder en de ouder.     
-2.  De regeling, bedoeld in het eerste lid, wordt door de houder van een kindercentrum of gastouderbureau schriftelijk vastgelegd en voorziet er in ieder geval in dat: 
+b. waarborgt dat aan de behandeling van een klacht niet wordt deelgenomen door een persoon op wiens gedraging de klacht rechtstreeks betrekking heeft;  
 
-a. de ouder zijn klacht schriftelijk bij de houder indient;  
+c. waarborgt dat de klachtencommissie binnen een in de regeling vastgelegde termijn na indiening van de klacht de klager, degene over wie is geklaagd en, indien dit niet dezelfde persoon is, de houder, schriftelijk en met redenen omkleed in kennis stelt van haar oordeel over de gegrondheid van de klacht, al dan niet vergezeld van aanbevelingen;  
 
-b. de houder de klacht zorgvuldig onderzoekt;  
+d. waarborgt dat bij afwijking van de onder c bedoelde termijn de klachtencommissie daarvan met redenen omkleed mededeling doet aan de klager, degene over wie is geklaagd en, indien dit niet dezelfde persoon is, de houder, onder vermelding van de termijn waarbinnen de klachtencommissie haar oordeel over de klacht zal uitbrengen;  
 
-c. de houder de ouder zoveel mogelijk op de hoogte houdt van de voortgang van de behandeling van de klacht;  
+e. waarborgt dat de klager en degene over wie is geklaagd, door de klachtencommissie in de gelegenheid worden gesteld mondeling of schriftelijk een toelichting te geven op de gedraging waarover is geklaagd;  
 
-d. de klacht, rekening houdende met de aard ervan, zo spoedig mogelijk, maar uiterlijk zes weken na indiening bij de houder, wordt afgehandeld;  
-
-e. de houder de ouder een schriftelijk en met redenen omkleed oordeel op de klacht verstrekt, en  
-
-f. er in het oordeel een concrete termijn wordt gesteld waarbinnen eventuele maatregelen naar aanleiding van de klacht zullen zijn gerealiseerd.     
-3.  De houder van een kindercentrum of van een gastouderbureau brengt de regeling, bedoeld in het eerste lid, alsmede wijzigingen daarvan, op passende wijze onder de aandacht van de ouders en handelt overeenkomstig deze regeling.   
-4.  De houder van een kindercentrum of van een gastouderbureau draagt er zorg voor dat over elk kalenderjaar in het eerstvolgende kalenderjaar een verslag wordt opgesteld waarin ten minste wordt opgenomen: 
+f. waarborgt dat de klager en degene over wie is geklaagd, zich bij de behandeling van de klacht kunnen laten bijstaan.     
+3.  De houder van een kindercentrum of een gastouderbureau ziet erop toe dat de klachtencommissie, bedoeld in het tweede lid, onderdeel a, haar werkzaamheden verricht volgens een door deze commissie op te stellen reglement.   
+4.  Door of namens een ouder kan bij de klachtencommissie, bedoeld in het tweede lid, onderdeel a, schriftelijk een klacht tegen de houder van een kindercentrum of een gastouderbureau worden ingediend over een gedraging van hem of van voor hem werkzame personen jegens een ouder of een kind.   
+5.  De houder van een kindercentrum of een gastouderbureau deelt de klager en de klachtencommissie, bedoeld in het tweede lid, onderdeel a, binnen een maand na ontvangst van het in het tweede lid, onderdeel c, bedoelde oordeel van de klachtencommissie schriftelijk mede of hij naar aanleiding van dat oordeel maatregelen zal nemen en zo ja welke. Bij afwijking van de in de eerste volzin genoemde termijn, doet de houder daarvan met redenen omkleed mededeling aan de klager en de klachtencommissie, onder vermelding van de termijn waarbinnen de zorgaanbieder zijn standpunt aan hen kenbaar zal maken.   
+6.  De houder van een kindercentrum of een gastouderbureau draagt er zorg voor dat over elk kalenderjaar een openbaar verslag wordt opgesteld waarin worden aangegeven: 
 
 a. een beknopte beschrijving van de regeling, bedoeld in het eerste lid;  
 
-b. de wijze waarop hij die regeling onder de aandacht van de ouders heeft gebracht;  
+b. de wijze waarop de houder die regeling onder de aandacht van zijn cliënten heeft gebracht;  
 
-c. het aantal en aard van de door de hem behandelde klachten per locatie,  
+c. de samenstelling van de klachtencommissie, bedoeld in het tweede lid, onderdeel a;  
 
-d. de strekking van de oordelen en de aard van de getroffen maatregelen, bedoeld in het tweede lid, onderdelen e en f, per locatie, en  
+d. in welke mate die klachtencommissie haar werkzaamheden heeft kunnen verrichten met inachtneming van de waarborgen, bedoeld in het tweede lid;  
 
-e. het aantal en de aard van de door de geschillencommissie, bedoeld in artikel 1.57c, eerste lid, behandelde geschillen.     
-5.  Het verslag, bedoeld in het vierde lid, wordt in zodanige vorm opgesteld dat de oordelen niet tot natuurlijke personen herleidbaar zijn, tenzij het de houder betreft.   
-6.  In het verslag, bedoeld in het vierde lid, worden niet opgenomen: 
+e. het aantal en de aard van de door die klachtencommissie behandelde klachten;  
 
-a. het woonadres van een gastouder, voor zover op dat adres geen voorziening voor gastouderopvang is gevestigd, en  
+f. de strekking van de oordelen en aanbevelingen van de klachtencommissie;  
 
-b. het woonadres van de houder van een kindercentrum of van een gastouderbureau, wanneer die houder een natuurlijk persoon is en voor zover het kindercentrum of gastouderbureau niet op dit adres gevestigd is.     
-7.  Bij regeling van Onze Minister wordt bepaald vanaf welk kalenderjaar het verslag, bedoeld in het vierde lid, wordt opgesteld.   
-8.  De houder van een kindercentrum of van een gastouderbureau zendt het verslag, bedoeld in het vierde lid, voor 1 juni van het kalenderjaar volgend op het kalenderjaar waarop het verslag betrekking heeft aan de toezichthouder, genoemd in artikel 1.61, eerste lid, en brengt het verslag gelijktijdig op passende wijze onder de aandacht van de ouders.   
-9.  In afwijking van het vierde lid behoeft geen verslag te worden opgesteld indien er in het betreffende kalenderjaar geen klachten bij de houder zijn ingediend.  
+g. de aard van de maatregelen, bedoeld in het vijfde lid.     
+7.  De houder van een kindercentrum of een gastouderbureau zendt het verslag voor 1 juni van het daaropvolgende kalenderjaar aan de toezichthouder, genoemd in artikel 1.61, eerste lid.   
+8.  Klachten die naar het oordeel van de klachtencommissie ernstig van aard zijn worden door haar gemeld aan de toezichthouder, genoemd in artikel 1.61, eerste lid.  
 
 ### Artikel  1.57c  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De houder van een kindercentrum of van een gastouderbureau is aangesloten bij een door de Minister van Veiligheid en Justitie erkende geschillencommissie voor het behandelen van geschillen: 
+Indien een klacht zich richt op een ernstige situatie met een structureel karakter, stelt de klachtencommissie de houder daarvan in kennis. Indien de klachtencommissie niet is gebleken dat de houder ter zake maatregelen heeft getroffen, meldt de klachtencommissie deze klacht aan de toezichthouder, genoemd in artikel 1.61, eerste lid. 
 
-a. tussen de houder van een kindercentrum of van een gastouderbureau en een ouder over een onderwerp als bedoeld in artikel 1.57b, eerste lid;  
+### Artikel  1.57d  
+Treedt in werking op een nader te bepalen tijdstip 
 
-b. tussen de houder van een kindercentrum of van een gastouderbureau en de oudercommissie over de toepassing en uitvoering van artikel 1.60 door de houder.     
-2.  De houder van een kindercentrum of van een gastouderbureau brengt de mogelijkheid om geschillen aan de geschillencommissie voor te leggen op passende wijze onder de aandacht van de ouders.   
-3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voor de houder van een kindercentrum of van een gastouderbureau en de ouder en de oudercommissie verbonden verplichtingen aan de geschillenbeslechting.   
-4.  Bij beschikking van Onze Minister kan een financiële vergoeding worden verstrekt aan de geschillencommissie, bedoeld in het eerste lid.  
+Een ieder die betrokken is bij de uitvoering van artikel 1.57b en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit hoofdstuk de noodzaak tot bekendmaking voortvloeit. 
 
 ### Paragraaf  3  
 
@@ -1047,62 +1040,6 @@ b. de personen werkzaam bij een onderneming waarmee de houder een peuterspeelzaa
 
 1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 2.5, 2.6, eerste lid, en 2.9.   
 2.  De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.  
-
-### Artikel  2.13a  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  De houder treft ten behoeve van ouders een regeling voor de afhandeling van klachten over: 
-
-a. een gedraging jegens een ouder of een kind van de houder of van voor de houder werkzame personen, en  
-
-b. de overeenkomst tussen de houder en de ouder.     
-2.  De regeling, bedoeld in het eerste lid, wordt door de houder schriftelijk vastgelegd en voorziet er in ieder geval in dat: 
-
-a. de ouder zijn klacht schriftelijk bij de houder indient;  
-
-b. de houder de klacht zorgvuldig onderzoekt;  
-
-c. de houder de ouder zoveel mogelijk op de hoogte houdt van de voortgang van de behandeling van de klacht;  
-
-d. de klacht, rekening houdende met de aard ervan, zo spoedig mogelijk, maar uiterlijk zes weken na indiening bij de houder, wordt afgehandeld;  
-
-e. de houder de ouder een schriftelijk en met redenen omkleed oordeel op de klacht verstrekt, en  
-
-f. er in het oordeel een concrete termijn wordt gesteld waarbinnen eventuele maatregelen naar aanleiding van de klacht zullen zijn gerealiseerd.     
-3.  De houder brengt de regeling, bedoeld in het eerste lid, alsmede wijzigingen daarvan, op passende wijze onder de aandacht van de ouders en handelt overeenkomstig deze regeling.   
-4.  De houder draagt er zorg voor dat over elk kalenderjaar in het eerstvolgende kalenderjaar een verslag wordt opgesteld waarin ten minste wordt opgenomen: 
-
-a. een beknopte beschrijving van de regeling, bedoeld in het eerste lid;  
-
-b. de wijze waarop hij die regeling onder de aandacht van de ouders heeft gebracht;  
-
-c. het aantal en aard van de door de hem behandelde klachten per locatie,  
-
-d. de strekking van de oordelen en de aard van de getroffen maatregelen, bedoeld in het tweede lid, onderdelen e en f, per locatie, en  
-
-e. het aantal en de aard van de door de geschillencommissie, bedoeld in artikel 2.13a, eerste lid, behandelde geschillen.     
-5.  Het verslag, bedoeld in het vierde lid, wordt in zodanige vorm opgesteld dat de oordelen niet tot natuurlijke personen herleidbaar zijn, tenzij het de houder betreft.   
-6.  In het verslag, bedoeld in het vierde lid, worden niet opgenomen het woonadres van de houder wanneer die houder een natuurlijk persoon is en voor zover de peuterspeelzaal niet op dit adres gevestigd is.   
-7.  Bij regeling van Onze Minister wordt bepaald vanaf welk kalenderjaar het verslag, bedoeld in het vierde lid, wordt opgesteld.   
-8.  De houder zendt het verslag, bedoeld in het vierde lid, voor 1 juni van het kalenderjaar volgend op het kalenderjaar waarop het verslag betrekking heeft aan de toezichthouder, genoemd in artikel 2.19, eerste lid, en brengt het verslag gelijktijdig op passende wijze onder de aandacht van de ouders.   
-9.  In afwijking van het vierde lid behoeft geen verslag te worden opgesteld indien er in het betreffende kalenderjaar geen klachten bij de houder zijn ingediend.  
-
-### Artikel  2.13b  
-Treedt in werking op een nader te bepalen tijdstip 
-
-1.  De houder is aangesloten bij een door de Minister van Veiligheid en Justitie erkende geschillencommissie voor het behandelen van geschillen: 
-
-a. tussen de houder en een ouder over een onderwerp als bedoeld in artikel 2.13a, eerste lid;  
-
-b. tussen de houder en de oudercommissie over de toepassing en uitvoering van artikel 2.17 door de houder.     
-2.  De houder brengt de mogelijkheid om geschillen aan de geschillencommissie voor te leggen op passende wijze onder de aandacht van de ouders.   
-3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de voor de houder, de ouder en de oudercommissie verbonden verplichtingen aan de geschillenbeslechting.   
-4.  Bij beschikking van Onze Minister kan een financiële vergoeding worden verstrekt aan de geschillencommissie, bedoeld in het eerste lid.  
-
-### Artikel  2.13c  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Een ieder die betrokken is bij de uitvoering van de artikelen 2.13a en 2.13b en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit bij de uitvoering van dit hoofdstuk de noodzaak tot bekendmaking voortvloeit. 
 
 ### Paragraaf  3  
 

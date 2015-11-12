@@ -22,6 +22,7 @@ d. de organisatie heeft geen winstoogmerk en is niet actief op een concurrerende
 e. de voor de organisatie werkzame vrijwilligers zijn niet reeds op grond van andere wet-of regelgeving gehouden om een verklaring omtrent het gedrag aan te vragen;  
 
 f. de organisatie voert een actief preventie- en integriteitsbeleid.    
+3. Onder actief zijn op een concurrerende markt wordt verstaan: het verlenen van diensten in opdracht van derden tegen een substantiële vergoeding ter uitvoering van taken en werkzaamheden.
 
 ### Artikel  2  
 
