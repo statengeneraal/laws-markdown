@@ -3,7 +3,7 @@
 ##Regeling inzake de behandeling van klachten van patiënten van gezondheidszorginstellingen binnen Defensie (Regeling klachtenbehandeling gezondheidszorginstellingen Defensie)
 
 De Staatssecretaris van Defensie,  
-Gelet op [artikel 2, eerste lid, van de Wet klachtrecht cliënten zorgsector](../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md);
+Gelet op artikel 2, eerste lid, van de Wet klachtrecht cliënten zorgsector;
 Besluit:     
 ### §  1  
 
@@ -142,7 +142,7 @@ c. de klacht is ongegrond.
 
 ### Artikel  18  
 
-Onverminderd [artikel 2, negende lid, van de Wet klachtrecht cliënten zorgsector](../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md) zendt de voorzitter van de klachtencommissie het openbaar verslag, bedoeld in artikel 7, onder e, aan de directeur militaire gezondheidszorg. 
+Onverminderd artikel 2, negende lid, van de Wet klachtrecht cliënten zorgsector zendt de voorzitter van de klachtencommissie het openbaar verslag, bedoeld in artikel 7, onder e, aan de directeur militaire gezondheidszorg. 
 
 ### §  5  
 

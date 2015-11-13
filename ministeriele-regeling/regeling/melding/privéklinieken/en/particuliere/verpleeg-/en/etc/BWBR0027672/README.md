@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 mei 2010, nr. MC/U-3003266, houdende houdende voorschriften met betrekking tot melding van privéklinieken en particuliere verpleeg- en verzorgingshuizen (Regeling melding privéklinieken en particuliere verpleeg- en verzorgingshuizen)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 4b, tweede lid, van de Kwaliteitswet zorginstellingen](../../../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);
+Gelet op artikel 4b, tweede lid, van de Kwaliteitswet zorginstellingen;
 Besluit:    
 
 ### Artikel  1  
 
-De zorgaanbieder, bedoeld in [artikel 4b, tweede lid, van de Kwaliteitswet zorginstellingen](../../../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md), meldt zich voor de in dat lid bedoelde inschrijving in het register bij het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg, bedoeld in [artikel 1 van het Instellingsbesluit agentschap Centraal Informatiepunt Beroepen Gezondheidszorg](../../../../../../../../../../ministeriele-regeling/instellingsbesluit/agentschap/centraal/informatiepunt/beroepen/etc/BWBR0014461/README.md). 
+De zorgaanbieder, bedoeld in artikel 4b, tweede lid, van de Kwaliteitswet zorginstellingen, meldt zich voor de in dat lid bedoelde inschrijving in het register bij het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg, bedoeld in artikel 1 van het Instellingsbesluit agentschap Centraal Informatiepunt Beroepen Gezondheidszorg. 
 
 ### Artikel  2  
 

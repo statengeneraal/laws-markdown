@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 29 oktober 2004, kenmerk GMT/MT 2517358;
 
-Gelet op artikel 6 van Richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van Richtlijn 2001/83/EG van de Raad (PbEU L 33) en op [artikel 6, eerste lid, van de Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);
+Gelet op artikel 6 van Richtlijn 2002/98/EG van het Europees Parlement en de Raad van 27 januari 2003 tot vaststelling van kwaliteits- en veiligheidsnormen voor het inzamelen, testen, bewerken, opslaan en distribueren van bloed en bloedbestanddelen van menselijke oorsprong en tot wijziging van Richtlijn 2001/83/EG van de Raad (PbEU L 33) en op artikel 6, eerste lid, van de Kwaliteitswet zorginstellingen;
 
 De Raad van State gehoord (advies van 18 november 2004, nummer W13.04.0525/III);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel 1 
 
-1. Dit besluit heeft betrekking op de uitvoering van de [artikelen 3](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) en [4 van de Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) in instellingen, behorende tot de categorie van ziekenhuizen.
+1. Dit besluit heeft betrekking op de uitvoering van de artikelen 3 en 4 van de Kwaliteitswet zorginstellingen in instellingen, behorende tot de categorie van ziekenhuizen.
 2. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a.ziekenhuisbloedbank: een ziekenhuisafdeling die bloed en bloedbestanddelen, alleen bestemd voor gebruik in ziekenhuizen, onder meer voor transfusieactiviteiten in een ziekenhuis, opslaat en distribueert, en daar compatibiliteitstests op mag uitvoeren;
@@ -58,7 +58,7 @@ De zorgaanbieder houdt voor de ziekenhuisbloedbank documentatie bij over operati
 
 ### Artikel  6  
 
-1.  De zorgaanbieder meldt aan de met het toezicht op de naleving van de [Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) belaste ambtenaar en aan de Bloedvoorzieningsorganisatie, beoeld in de [Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), ernstige ongewenste voorvallen in verband met het opslaan, testen en distribueren van bloed en bloedbestanddelen die de kwaliteit en de veiligheid ervan kunnen beïnvloeden, alsook ernstige ongewenste bijwerkingen die tijdens of na een transfusie worden geconstateerd en die kunnen worden toegeschreven aan de kwaliteit en de veiligheid van het bloed en de bloedbestanddelen.   
+1.  De zorgaanbieder meldt aan de met het toezicht op de naleving van de Kwaliteitswet zorginstellingen belaste ambtenaar en aan de Bloedvoorzieningsorganisatie, beoeld in de Wet inzake bloedvoorziening, ernstige ongewenste voorvallen in verband met het opslaan, testen en distribueren van bloed en bloedbestanddelen die de kwaliteit en de veiligheid ervan kunnen beïnvloeden, alsook ernstige ongewenste bijwerkingen die tijdens of na een transfusie worden geconstateerd en die kunnen worden toegeschreven aan de kwaliteit en de veiligheid van het bloed en de bloedbestanddelen.   
 2.  De zorgaanbieder beschikt over een nauwkeurige, snelle en verifieerbare procedure om bloed en bloedbestanddelen die met een melding als bedoeld in het eerste lid in verband worden gebracht, aan de distributie te onttrekken.  
 
 ###Artikel 7 

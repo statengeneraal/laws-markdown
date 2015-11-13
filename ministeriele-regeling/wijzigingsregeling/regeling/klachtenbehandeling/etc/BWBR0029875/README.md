@@ -3,7 +3,7 @@
 ##Wijzigingsregeling Regeling klachtenbehandeling gezondheidszorginstellingen Defensie
 
 De Minister van Defensie,  
-Gelet op [artikel 2, eerste lid, van de Wet klachtrecht cliënten zorgsector](../../../../../../wet/wet/klachtrecht/cliënten/zorgsector/BWBR0007414/README.md);
+Gelet op artikel 2, eerste lid, van de Wet klachtrecht cliënten zorgsector;
 Besluit:    
 
 ### Artikel  I  

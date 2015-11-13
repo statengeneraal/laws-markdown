@@ -58,6 +58,35 @@ Poststukken komen voor vervoer binnen de universele postdienst in aanmerking ind
 
 ####Kwaliteit universele postdienstverlening
 
+### Artikel  4a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een verlener van de universele postdienst zorgt ervoor dat de brieven, die overeenkomstig de daartoe gestelde voorwaarden aan hem worden aangeboden voor postvervoer binnen Nederland met de standaard overnight service, per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zon- of maandag of officiële feestdag, volgend op de dag van aanbieding, met dien verstande dat rouwbrieven en medische brieven per kalenderjaar in ten minste gemiddeld 95% van de gevallen worden besteld op de dag, niet zijnde een zondag of officiële feestdag, volgend op de dag van aanbieding. 
+
+### Artikel  4b  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De verlener van de universele postdienst zorgt ervoor dat het net van dienstverleningspunten voor het aanbieden van postzendingen en voor het verrichten van andere met het postvervoer samenhangende handelingen voldoet aan de volgende spreidingsmaatstaven: 
+
+a. de spreiding over Nederland van dienstverleningspunten met een volledig assortiment van diensten resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 95% van de inwoners;  
+
+b. de spreiding van dienstverleningspunten met een volledig assortiment van diensten buiten woonkernen met meer dan 5.000 inwoners resulteert in een beschikbaarheid van een volledig assortiment van diensten binnen een straal van vijf kilometer voor ten minste 85% van de betrokken inwoners.   
+
+### Artikel  4c  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De verlener van de universele postdienst zorgt ervoor dat: 
+
+a. in woonkernen met meer dan 5.000 inwoners binnen een straal van 1.000 meter een voor het publiek bestemde brievenbus is, en  
+
+b. buiten de woonkernen, bedoeld in onderdeel a binnen een straal van 2.500 meter een voor het publiek bestemde brievenbus is.     
+2.  De verlener van de universele postdienst kan in afwijking van de in het eerste lid, onderdeel b, gestelde eis, wanneer deze eis redelijkerwijs niet haalbaar is, afwijken van die eis indien hij de betrokken gebruikers de gelegenheid biedt om bij de bestelling poststukken ten vervoer aan te bieden.  
+
+### Artikel  4d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De verlener van de universele postdienst houdt bij de uitvoering van het bepaalde in de artikelen 4b en 4c rekening met een advies als bedoeld in artikel 18a, van de wet ten aanzien van de belangen van kwetsbare gebruikers van de universele postdienst. 
+
 ### Artikel  5  
 
 1.  Een verlener van de universele postdienst hanteert algemene voorwaarden bij de uitvoering van de universele postdienst, waarin de waarborgen voor de uitvoering van de goede postale dienstverlening en de kwaliteit van die dienstverlening voor een ieder kenbaar zijn opgenomen.   
@@ -115,72 +144,13 @@ b. € 5500,– bij registratie van een poststuk als poststuk met aangegeven waa
 
 ####Vergoeding kosten Autoriteit Consument en Markt binnen de universele postdienst
 
-### Artikel  12  
-
-1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de wet in verband met de universele postdienst en stelt Onze Minister in kennis van de raming.   
-2.  De verlener van de universele postdienst is ter dekking van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt ter uitvoering van de wet in verband met de universele postdienst, jaarlijks een vergoeding verschuldigd ter hoogte van die kosten minus de kosten verbonden aan de behandeling van bezwaar- en beroepschriften.   
-3.  De artikelen 13, tweede tot en met het vierde lid, en 15, tweede en derde lid, zijn van overeenkomstige toepassing.  
+Vervallen per 01-01-2015 
 
 ### §  6  
 
 ####Vergoeding kosten Autoriteit Consument en Markt buiten universele postdienst
 
-### Artikel  13  
-
-1.  De Autoriteit Consument en Markt stelt jaarlijks een raming op van de kosten die verband houden met de werkzaamheden van de Autoriteit Consument en Markt in het volgende kalenderjaar ter uitvoering van de wet, met uitzondering van de werkzaamheden, bedoeld in artikel 12, eerste lid, en stelt Onze Minister in kennis van de raming.   
-2.  Ter zake van de kosten, bedoeld in artikel 64, eerste lid, van de wet gelden als uitgangspunten dat: 
-
-a. de kosten worden geraamd voor het kalenderjaar waarvoor de vergoeding geldt;  
-
-b. de directe kosten rechtstreeks worden toegerekend aan categorieën van gelijksoortige werkzaamheden;  
-
-c. de indirecte kosten worden toegerekend aan categorieën van gelijksoortige werkzaamheden naar rato van hun beslag op de onderscheiden werkzaamheden of diensten;  
-
-d. voor zover de kosten bestaan uit afschrijvingskosten, deze kosten worden toegerekend door middel van een evenredige afschrijving op de aanschafwaarden van de investeringsgoederen per kalenderjaar op basis van de economische levensduur;  
-
-e. de kosten op bedrijfseconomische wijze worden berekend door middel van een door de Autoriteit Consument en Markt toe te passen kostencalculatiemodel dat zodanig is ingericht dat daaruit op elk moment op eenduidige en inzichtelijke wijze de kosten van de desbetreffende categorieën van gelijksoortige werkzaamheden of diensten kunnen worden afgeleid.     
-3.  De Autoriteit Consument en Markt legt het kostencalculatiemodel ter inzage.   
-4.  De Autoriteit Consument en Markt neemt, ter compensatie van een door de Autoriteit Consument en Markt vastgesteld verschil tussen de werkelijke kosten voor een kalenderjaar en de in dat kalenderjaar ontvangen vergoedingen als bedoeld in artikel 64 van de wet, een bedrag op in de ramingen van de kosten in de jaren, volgend op een verschil.  
-
-### Artikel  14  
-
-1.  De minister stelt jaarlijks een verdeelsleutel voor het komende kalenderjaar vast voor de verdeling van de kosten, bedoeld in artikel 13, eerste lid, in de vorm van een uniform percentage van de relevante omzet van elk postvervoerbedrijf.   
-2.  De verdeelsleutel, bedoeld in het eerste lid, wordt berekend op grond van: 
-
-a. de totale kosten van de Autoriteit Consument en Markt in het komende kalender jaar, geraamd met inachtneming van artikel 13, minus 
-
-1°. de kosten van de Autoriteit Consument en Markt voor de registratie, bedoeld in artikel 42, derde lid, van de wet, en  
-
-2°. de kosten van de behandeling van bezwaar- en beroepschriften,   en  
-
-b. de totale omzet van het voorafgaande jaar van de postvervoerbedrijven die ingevolge artikel 64 van de wet een vergoeding verschuldigd zijn.    
-
-### Artikel  15  
-
-1.  De Autoriteit Consument en Markt berekent de vergoeding voor een kalenderjaar per postvervoerbedrijf door de relevante omzet van het postvervoerbedrijf in het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarin de vergoeding wordt vastgesteld te vermenigvuldigen met de op basis van artikel 14 vastgestelde verdeelsleutel.   
-2.  De vergoeding wordt aan de Autoriteit Consument en Markt betaald binnen een termijn van 30 dagen na dagtekening van het verzoek tot betaling.   
-3.  Tenzij bij ministeriële regeling anders wordt bepaald, wordt de vergoeding door degene die de vergoeding is verschuldigd, bij vooruitbetaling voldaan.   
-4.  De relevante omzet, bedoeld in artikel 64, derde lid, van de wet bedraagt € 2.000.000. 
-
-### Artikel  16  
-
-1.  De berekening van de omzet van het vervoer van poststukken geschiedt op de voet van artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek voor de netto-omzet.   
-2.  Indien een postvervoerbedrijf behoort tot een groep van ondernemingen als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek worden voor de berekening van de omzet van het vervoer van poststukken van die postvervoerbedrijf de omzetten van het vervoer van poststukken van alle tot die groep behorende ondernemingen opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende ondernemingen buiten beschouwing gelaten.   
-3.  Indien een postvervoerbedrijf door de Autoriteit Consument en Markt is geregistreerd op grond van artikel 41 van de wet in verband met het verrichten van activiteiten die voorheen werden verricht door één of meer andere postvervoerbedrijven waarvan de registratie is beëindigd, vindt de berekening van de omzet plaats met inachtneming van de omzet van dat postvervoerbedrijf of postvervoerbedrijven overeenkomstig bij ministeriële regeling te stellen regels.   
-4.  Indien een postvervoerbedrijf verlener van de universele postdienst is, wordt uitsluitend de omzet van vervoer van poststukken buiten de universele postdienst als omzet voor de vaststelling van de verdeelsleutel, bedoeld in artikel 14, gebruikt.   
-5.  Voor gevallen waarin berekening van de omzet van het vervoer van poststukken niet mogelijk is omdat de desbetreffende activiteiten zijn verweven met andere activiteiten, kan bij ministeriële regeling worden bepaald dat bij de berekening nader genoemde opbrengsten geheel of gedeeltelijk buiten beschouwing blijven.  
-
-### Artikel  17  
-
-1.  Een postvervoerbedrijf dat ingevolge artikel 64 van de wet een vergoeding verschuldigd is, verstrekt jaarlijks voor 1 september aan de Autoriteit Consument en Markt: 
-
-a. een opgave van de relevante omzet die is gerealiseerd in het voorafgaande kalenderjaar, onder bijvoeging van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, dat de opgave voldoet aan artikel 16, of  
-
-b. een opgave van de netto-omzet die op grond van artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek is vermeld in de jaarrekening, onder bijvoeging van een kopie van de jaarrekening en van de accountantsverklaring, bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek.     
-2.  Een postvervoerbedrijf kan elk jaar een beroep doen op de omstandigheid dat de relevante omzet, die is gerealiseerd in het voorafgaande kalenderjaar, lager is dan het criterium met betrekking tot de relevante omzet, bedoeld in artikel 64, derde lid, van de wet.   
-3.  In elk jaar dat een postvervoerbedrijf een beroep doet op de omstandigheid, bedoeld in het tweede lid, doet het postvervoerbedrijf voor 1 september aan de Autoriteit Consument en Markt een onderbouwde opgave over zijn omzet op grond waarvan naar het oordeel van de Autoriteit Consument en Markt aannemelijk is dat de omzet minder bedraagt dan het in het tweede lid bedoelde criterium.   
-4.  Indien het postvervoerbedrijf aan de in het eerste of derde lid bedoelde verplichting niet tijdig heeft voldaan of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door de Autoriteit Consument en Markt in de gelegenheid te zijn gesteld, kan de Autoriteit Consument en Markt een schatting doen van zijn omzet en op basis daarvan de vergoeding voor het postvervoerbedrijf vaststellen.   
-5.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de relevante omzet door het postvervoerbedrijf en over de verklaring van de accountant.  
+Vervallen per 01-01-2015 
 
 ### §  7  
 

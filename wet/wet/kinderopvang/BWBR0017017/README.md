@@ -1041,6 +1041,12 @@ b. de personen werkzaam bij een onderneming waarmee de houder een peuterspeelzaa
 1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 2.5, 2.6, eerste lid, en 2.9.   
 2.  De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.  
 
+### Artikel  2.13a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder treft schriftelijk een regeling voor de behandeling van klachten over een gedraging van hem of van voor hem werkzame personen jegens een ouder of een kind in het kader van het peuterspeelzaalwerk. De houder brengt de getroffen regeling op passende wijze onder de aandacht van de ouders.   
+2.  Artikel 1.57b, tweede tot en met achtste lid, en de artikelen 1.57c en 1.57d zijn van overeenkomstige toepassing.  
+
 ### Paragraaf  3  
 
 ####Oudercommissie

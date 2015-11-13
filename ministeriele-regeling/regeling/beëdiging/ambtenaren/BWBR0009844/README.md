@@ -3,14 +3,14 @@
 ##Regeling beëdiging ambtenaren
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
+Gelet op artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement;
 
 Gehoord de Bijzondere Commissie;
 Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder eed of belofte: de eed of belofte als bedoeld in [artikel 51 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), af te leggen volgens het formulier zoals dat als bijlage is vastgesteld bij het Besluit van de Minister van Binnenlandse Zaken, Staatscourant 18 mei 1998, nr 92.  
+In deze regeling wordt verstaan onder eed of belofte: de eed of belofte als bedoeld in artikel 51 van het Algemeen Rijksambtenarenreglement, af te leggen volgens het formulier zoals dat als bijlage is vastgesteld bij het Besluit van de Minister van Binnenlandse Zaken, Staatscourant 18 mei 1998, nr 92.  
 
 ### Artikel  2  
 
@@ -19,19 +19,13 @@ In deze regeling wordt verstaan onder eed of belofte: de eed of belofte als bedo
 
 ### Artikel  3  
 
-1.  De eed of belofte wordt zo spoedig mogelijk, doch in elk geval binnen een maand na aanstelling of tewerkstelling afgelegd. De ambtenaar ontvangt daartoe een oproep.   
+1.  De eed of belofte wordt zo spoedig mogelijk, doch in elk geval binnen drie maanden na aanstelling of tewerkstelling afgelegd. De ambtenaar ontvangt daartoe een oproep.   
 2.  Bij het aanstellingsgesprek wordt de ambtenaar in de gelegenheid gesteld de voorkeur aan te geven voor de eed dan wel de belofte.   
 
 ### Artikel  4  
 
-1.  De eed of belofte wordt afgelegd door: 
-
-a.  ambtenaren die ressorteren onder een DG, HBVD of PSG: ten overstaan van de desbetreffende DG, HBVD of PSG;  
-
-b.  de DG’s, HBVD en PSG: ten overstaan van de SG;  
-
-c.  de SG: ten overstaan van de Minister.     
-2.  De eed of belofte wordt afgelegd in aanwezigheid van een getuige die, al naar gelang bovengenoemde situatie, wordt aangewezen door de DG, HBVD, PSG, SG of Minister.    
+1.  De eed of belofte wordt afgelegd ten overstaan van het bevoegd gezag.   
+2.  De eed of belofte wordt afgelegd in aanwezigheid van een getuige die, al naar gelang bovengenoemde situatie, wordt aangewezen door het bevoegd gezag.    
 3.   In afwijking van het eerste lid, onder a, en het tweede lid wordt voor de ambtenaren wier standplaats is gelegen buiten Den Haag de bevoegdheid tot het afnemen van de eed of belofte en de aanwijzing van de getuige gemandateerd aan de directeur waaronder zij ressorteren.   
 
 ### Artikel  5  
