@@ -20,48 +20,67 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:  *airconditioningsysteem*: koelsysteem als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012;  * *energieprestatie:* * berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van een gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting; *energieprestatiecertificaat:* op een gebouw betrekking hebbende schriftelijke verklaring: 
+1.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt verstaan onder:  *airconditioningsysteem*: koelsysteem als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012;  * *energieprestatie:* * berekende of gemeten hoeveelheid energie die nodig is om aan de vraag naar energie te voldoen die verband houdt met een normaal gebruik van een gebouw, waaronder energie die wordt gebruikt voor verwarming, koeling, ventilatie, warmwatervoorziening en verlichting; *energielabel:* op een gebouw betrekking hebbende schriftelijke verklaring: 
 
 1°. waarin het resultaat is vermeld van de berekening van de energieprestatie;  
 
 2°. waarin referentiewaarden zijn vermeld waarmee de energieprestatie kan worden vergeleken en beoordeeld en  
 
-3°. die aanbevelingen voor een kostenoptimale verbetering van de energieprestatie bevat, tenzij een dergelijke verbetering redelijkerwijs niet mogelijk is;    *wet*: Woningwet.   
+3°. die aanbevelingen voor een kostenoptimale of kosteneffectieve verbetering van de energieprestatie bevat, tenzij er voor een dergelijke verbetering geen redelijk potentieel is ten opzichte van de geldende energieprestatie-eisen. Deze aanbevelingen zijn technisch haalbaar voor het gebouw waarvoor het energielabel is afgegeven en kunnen een raming bieden van de terugverdientijden of kostenvoordelen gedurende de economische levensduur. Deze aanbevelingen omvatten in ieder geval maatregelen betreffende de ingrijpende renovatie van de bouwschil of technische bouwsystemen en maatregelen voor individuele onderdelen van een gebouw zonder dat er sprake is van een ingrijpende renovatie, alsmede een vindplaats voor extra informatie;    *wet*: Woningwet.   
 2.  Voor de toepassing van de bij of krachtens dit besluit gegeven voorschriften wordt onder gebouw mede verstaan delen van een gebouw die zijn ontworpen of aangepast om afzonderlijk te worden gebruikt.  
 
 ### Afdeling  2  
 
-####Energieprestatiecertificaat
+####Energielabel
 
 ### Artikel  2.1  
 
-1.  Bij de oplevering van een gebouw heeft de eigenaar een energieprestatiecertificaat voor dat gebouw.   
-2.  Bij de verhuur van een gebouw verstrekt de eigenaar afschrift van een energieprestatiecertificaat voor dat gebouw aan de huurder.   
-3.  Bij de verkoop van een gebouw verstrekt de eigenaar een energieprestatiecertificaat voor dat gebouw aan de koper.   
-4.  Het derde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.   
-5.  Een energieprestatiecertificaat is geldig gedurende tien jaar na de datum van afgifte ervan. 
+1.  Bij de oplevering van een gebouw stelt de verkoper van het gebouw een geldig energielabel beschikbaar aan de koper.   
+2.  In afwijking van het eerste lid zorgt de eigenaar van een gebouw voor de aanwezigheid van een geldig energielabel bij de oplevering van dat gebouw indien dat gebouw is gebouwd in opdrachtgeverschap waarbij die eigenaar de eigendom verkrijgt en volledige zeggenschap heeft over en verantwoordelijkheid draagt voor de bouw van dat gebouw.  
+3.  Bij de verhuur van een gebouw stelt de eigenaar een afschrift van een geldig energielabel voor dat gebouw beschikbaar aan de nieuwe huurder.   
+4.  Bij de verkoop van een gebouw stelt de eigenaar een geldig energielabel voor dat gebouw beschikbaar aan de koper.   
+5.  Het vierde lid is van overeenkomstige toepassing op de verkoop van een deelnemings- of lidmaatschapsrecht dat recht geeft op het gebruik van een gebouw.   
+6.  De eigenaar van een gebouw waarvan een gebruiksoppervlakte van meer dan 250 m<sup>2</sup> in gebruik is bij een overheidsinstelling en dat veelvuldig door het publiek wordt bezocht, heeft een geldig energielabel voor dat gebouw.  
+7.  Een energielabel is geldig gedurende tien jaar na de datum van afgifte ervan.  
+8.  Een energielabel bevat een in een letter of lettercombinatie uitgedrukte energieprestatie-indicator. 
 
 ### Artikel  2.2  
 
-1.  Artikel 2.1 is van toepassing op nieuwe en bestaande gebouwen waarop op grond van artikel 5.2 van het Bouwbesluit 2012 bij nieuwbouw van die gebouwen een energieprestatiecoëfficiënt van toepassing is of zou zijn.   
-2.  In afwijking van het eerste lid is artikel 2.1 niet van toepassing op beschermde monumenten als bedoeld in artikel 1, onder d, van de Monumentenwet 1988, monumenten als bedoeld in een provinciale of gemeentelijke monumentenverordening, op gebouwen die worden gebruikt voor eredienst en religieuze activiteiten en op alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m<sup>2</sup>.  
+Artikel 2.1 is niet van toepassing op: 
+
+a. gebouwen waarvoor geen energie gebruikt wordt om het binnenklimaat te regelen;  
+
+b. beschermde monumenten als bedoeld in artikel 1, onderdeel d, van de Monumentenwet 1988, monumenten waarop artikel 5 van die wet van toepassing is, krachtens een provinciale of gemeentelijke verordening aangewezen monumenten en monumenten waarop, voordat zij zijn aangewezen, een zodanige verordening van overeenkomstige toepassing is;  
+
+c. gebouwen die worden gebruikt voor erediensten en religieuze activiteiten;  
+
+d. gebouwen die bestemd zijn om te worden gebruikt voor het bedrijfsmatig bewerken of opslaan van materialen en goederen, of voor agrarische doeleinden, en die een lage energiebehoefte hebben;  
+
+e. gebouwen die ten hoogste twee jaar worden gebruikt;  
+
+f. voor bewoning bestemde gebouwen die minder dan vier maanden per jaar worden gebruikt, en met een verwacht energieverbruik van minder dan 25% van het energieverbruik bij permanent gebruik;  
+
+g. alleenstaande gebouwen met een gebruiksoppervlakte van minder dan 50 m<sup>2</sup> en  
+
+h. gebouwen die bij minnelijke overeenkomst als bedoeld in artikel 17 van de Onteigeningswet worden verkregen en, met het oog op de uitvoering van het werk waarmee die verkrijging verband houdt, zullen worden gesloopt.   
 
 ### Artikel  2.3  
 
-Voor een gebouw dat meerdere voor afzonderlijk gebruik ontwikkelde gedeelten bevat: 
-
-a. volstaat een energieprestatiecertificaat dat is afgegeven voor het gehele gebouw indien dat gebouw een gemeenschappelijk verwarmingssysteem heeft, en  
-
-b. kan een energieprestatiecertificaat voor een afzonderlijk gedeelte van het gebouw worden afgegeven op basis van het energieprestatiecertificaat voor een ander representatief gedeelte van het gebouw.   
+Degene die een gebouw waarvoor een geldig energielabel is afgegeven te koop of te huur aanbiedt door middel van advertenties in commerciële media, vermeldt in die advertenties de energieprestatie-indicator van dat energielabel, bedoeld in artikel 2.1, achtste lid. 
 
 ### Artikel  2.4  
 
-1.  De eigenaar van een gebouw brengt een daarvoor afgegeven geldig energieprestatiecertificaat aan op een voor het publiek duidelijk zichtbare plaats in dat gebouw, indien: 
+1.  De eigenaar van een gebouw brengt een daarvoor afgegeven geldig energielabel aan op een voor het publiek duidelijk zichtbare plaats in dat gebouw, indien: 
 
-a. van dat gebouw een gebruiksoppervlakte van meer dan 500 m<sup>2</sup> in gebruik is bij een overheidsinstelling en veelvuldig door het publiek wordt bezocht, of  
+a. van dat gebouw een gebruiksoppervlakte van meer dan 250 m<sup>2</sup> in gebruik is bij een overheidsinstelling en dat gebouw veelvuldig door het publiek wordt bezocht, of  
 
-b. het gebouw wordt verkocht of aan een nieuwe huurder wordt verhuurd, een gebruiksoppervlakte van meer dan 500 m<sup>2</sup> heeft en veelvuldig door het publiek wordt bezocht.     
-2.  Bij ministeriële regeling kan worden bepaald dat het eerste lid van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energieprestatiecertificaat.  
+b. voor het gebouw een geldig energielabel is afgegeven zoals bedoeld in artikel 2.1, eerste tot en met vijfde lid, een gebruiksoppervlakte van meer dan 250 m<sup>2</sup> heeft en veelvuldig door het publiek wordt bezocht.     
+2.  Bij ministeriële regeling kan worden bepaald dat het eerste lid van toepassing is op een of meer bij die regeling aan te wijzen onderdelen van het energielabel.  
+
+### Artikel  2.5  
+
+1.  Een overheidsinstantie voert voor een gebouw in haar eigendom de in het voor dat gebouw afgegeven energielabel opgenomen aanbevelingen uit binnen de geldigheidsperiode van dat energielabel.   
+2.  Met het uitvoeren van de in het eerste lid bedoelde aanbevelingen wordt gelijkgesteld het treffen van voorzieningen die een zelfde mate van verbetering van de energieprestatie opleveren als beoogd met de in het eerste lid bedoelde aanbevelingen.  
 
 ### Afdeling  3  
 

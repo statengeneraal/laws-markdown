@@ -74,6 +74,8 @@ In deze regeling wordt verstaan onder:
 
 *  *transnationale samenwerking:* een samenwerkingsverband waarbij de subsidieontvanger een project uitvoert met een partner uit ten minste één andere lidstaat van de Europese Unie; 
 
+*  *uitvoeringsplan:* beleidsplan van de gemeente Amsterdam, Den Haag, Rotterdam of Utrecht op basis van het Operationeel Programma Kansen voor West II (EFRO) en het Operationeel Programma met betrekking tot geïntegreerde territoriale investeringen in het kader van het Europees Sociaal Fonds en het Europees Fonds voor Regionale Ontwikkeling; 
+
 * *Uitvoeringsverordening:* Uitvoeringsverordening (EU) nr. 821/2014 van de Commissie van 28 juli 2014 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) nr. 1303/2013 van het Europees Parlement en de Raad wat betreft gedetailleerde regelingen voor de overdracht en het beheer van programmabijdragen, de verslaglegging over financieringsinstrumenten, de technische kenmerken van voorlichtings- en communicatiemaatregelen voor concrete acties, en het systeem voor de vastlegging en opslag van gegevens (PbEU 2014, L 223/7); 
 
 *  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
@@ -233,7 +235,7 @@ a. externe kosten voor projectcoördinatie en -administratie;
 
 b. directe loonkosten projectcoördinatie en -administratie voor zover deze berekend zijn op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend tarief op basis van het brutoloon, vermeerderd met een opslag van 32% en waarbij het aantal werkbare uren per jaar is gesteld op 1.720 bij een voltijds dienstverband.     
 3.  De directe loonkosten, bedoeld in het eerste lid, onderdeel b, en het tweede lid, onderdeel b, worden verhoogd met een opslag van 40% ter dekking van de overige subsidiabele kosten van het subproject.   
-4.  Indien een medewerker op basis van een vooraf vastgesteld percentage van zijn arbeidstijd wordt ingezet voor uitsluitend projectactiviteiten, wordt ten hoogste 83% van dat percentage opgenomen in de financiële administratie.  
+4.  Indien een medewerker op basis van een percentage van zijn arbeidstijd wordt ingezet voor uitsluitend projectactiviteiten, wordt ten hoogste 83% van dat percentage opgenomen in de financiële administratie.  
 5.  Per subproject kan maximaal één kostensoort als bedoeld in het eerste lid, onderdeel a, b en c worden verantwoord.   
 6.  Per project kan maximaal één kostensoort als bedoeld in het tweede lid, onderdeel a en b worden verantwoord.   
 7.  De in het tweede lid genoemde externe kosten van projectcoördinatie en -administratie of de directe loonkosten van projectcoördinatie en -administratie inclusief de in het derde lid genoemde opslag hierop, bedragen maximaal 10% van het totaal van de subsidiabele kosten, genoemd in het eerste lid, onderdeel a en b, inclusief de in het derde lid genoemde opslag, en onderdeel c.   
@@ -432,7 +434,9 @@ d. jongeren;
 
 e. personen die algemene bijstand op grond van de WWB of de Participatiewet, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
 
-f. leerlingen, die vijftien jaar of ouder zijn of in het derde leerjaar of hoger zitten en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie.    
+f. leerlingen, die vijftien jaar of ouder zijn of in het derde leerjaar of hoger zitten en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie;  
+
+g. hier te lande woonachtige vreemdelingen die rechtmatig in Nederland verblijf houden in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000, met uitzondering van de gevallen, bedoeld in artikel 24, tweede lid, van Richtlijn 2004/38/EG.   
 
 2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten en deze persoon behoort bij instroom in het eerste project aantoonbaar tot de doelgroep, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.  
 
@@ -484,7 +488,9 @@ c. activiteiten direct gericht op het vergroten van de mogelijkheden tot arbeids
 
 1. De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.  
 
-2. Indien uit de voortgangsrapportage, bedoel in het eerste lid, blijkt dat na twaalf maanden minder dan 20% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximumbedrag van de subsidie verlaagd met het bedrag dat niet daadwerkelijk is gerealiseerd ten opzichte van deze 20% van het maximumbedrag van de subsidie.   
+2. Indien uit de voortgangsrapportage, bedoel in het eerste lid, blijkt dat na twaalf maanden minder dan 20% van het maximumbedrag van de subsidie, genoemd in de laatst afgegeven beschikking tot subsidieverlening, daadwerkelijk is gerealiseerd, wordt het maximumbedrag van de subsidie verlaagd met het bedrag dat niet daadwerkelijk is gerealiseerd ten opzichte van deze 20% van het maximumbedrag van de subsidie. 
+
+3.Het tweede lid is niet van toepassing op subsidieaanvragen die door de minister zijn ontvangen in het aanvraagtijdvak van 1 mei 2014, 09.00 uur, tot en met 31 oktober 2014, 17.00 uur.  
 
 ### Artikel  A9  
 
@@ -536,9 +542,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel  A14  
 
-####De aanvraag
-
-Een aanvraag wordt onderverdeeld in één of meerdere op zichzelf staande subprojecten met subsidiabele activiteiten. Per subproject kan maximaal één kostensoort als bedoeld in artikel 12, eerste lid, worden verantwoord. 
+Vervallen.
 
 ### Artikel  A15  
 
@@ -546,7 +550,7 @@ Een aanvraag wordt onderverdeeld in één of meerdere op zichzelf staande subpro
 
 1. Een project komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het in artikel A13 omschreven doel;  
+a. het project past binnen de in artikel A13 omschreven doelen;  
 
 b. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datum van ontvangst van de volledige aanvraag.    
 
@@ -606,9 +610,7 @@ Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het
 
 ### Artikel  A22  
 
-####De aanvraag
-
-Een aanvraag wordt onderverdeeld in één of meerdere op zichzelf staande subprojecten met subsidiabele activiteiten. Per subproject kan maximaal één kostensoort als bedoeld in artikel 12, eerste lid, worden verantwoord. 
+Vervallen.
 
 ### Artikel  A23  
 
@@ -616,7 +618,7 @@ Een aanvraag wordt onderverdeeld in één of meerdere op zichzelf staande subpro
 
 1. Een project komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het in artikel A21 omschreven doel;  
+a. het project past binnen de in artikel A21 omschreven doelen;  
 
 b. het project een duur heeft van ten hoogste vijftien maanden, gerekend vanaf de datum van ontvangst van de volledige aanvraag.    
 
@@ -943,9 +945,81 @@ De artikelen 7, eerste lid, 14 en 17, eerste lid, zijn niet van toepassing op su
 
 ### Investeringprioriteiten C 
 
-####Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen personen die ver van de arbeidsmarkt af staan, mede door plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
+####Toegang tot werkgelegenheid voor werkzoekenden en niet-actieven, met inbegrip van langdurig werklozen en personen die ver van de arbeidsmarkt af staan, mede door middel van plaatselijke werkgelegenheidsinitiatieven en ondersteuning van de arbeidsmobiliteit
 
 ### Hoofdstuk  VI  
+
+####Geïntegreerde territoriale investeringen
+
+###Artikel C1 
+
+####Subsidieaanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het college van burgemeester en wethouders van de gemeente Amsterdam, Den Haag, Rotterdam of Utrecht.
+
+###Artikel C2 
+
+####Aanvraagtijdvak
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 16 november 2015, 09.00 uur, tot en met 12 februari 2016, 17.00 uur.
+
+###Artikel C3 
+
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel C2, voor de gemeente: 
+
+a. Amsterdam: € 4.307.868,-;  
+
+b. Den Haag: € 2.476.927,-;  
+
+c. Rotterdam: € 4.419.455,-;  
+
+d. Utrecht: € 795.750,-.  
+
+###Artikel C4 
+
+####Doel
+
+Een project in het kader van dit hoofdstuk heeft tot doel het bevorderen van de toegang tot werkgelegenheid en ondersteuning van de arbeidsmobiliteit, als onderdeel van een uitvoeringsplan van de subsidieaanvrager.
+
+###Artikel C5 
+
+####De aanvraag
+
+In afwijking van artikel 7, eerste lid, kan een aanvraag betrekking hebben op een project dat niet bestaat uit één of meer subprojecten. In de situatie, bedoeld in de eerste zin, is artikel 12, derde, vijfde en zesde lid, niet van toepassing.
+
+###Artikel C6 
+
+####Specifieke eisen
+
+1. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien: 
+
+a. het project past binnen het in artikel C4 omschreven doel;  
+
+b. bij de aanvraag een verklaring van de subsidieaanvrager is gevoegd waaruit blijkt dat de aanvraag verenigbaar is met het toepasselijke uitvoeringsplan;  
+
+c. het project een duur heeft van ten hoogste 24 maanden, gerekend vanaf de datum van ontvangst van de volledige aanvraag.    
+
+2. In afwijking van het eerste lid, onderdeel c, kan door de minister in de beschikking tot subsidieverlening een andere startdatum van het project worden vermeld.  
+
+###Artikel C7 
+
+####Subsidiabele activiteiten
+
+Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten van de toegang tot werkgelegenheid en de ondersteuning van de arbeidsmobiliteit, voor zover zij het in artikel C4 omschreven doel ondersteunen.
+
+###Artikel C8 
+
+#### Voortgangsrapportage
+
+De subsidieontvanger dient binnen vier weken na afloop van de eerste twaalf maanden van het project, een voortgangsrapportage in over de eerste twaalf maanden. De voortgangsrapportage wordt ingediend onder gebruikmaking van een daartoe door de minister elektronisch beschikbaar gesteld formulier, voorzien van de vereiste bijlagen en een door hem erkende elektronische handtekening.
+
+###Artikel C9 
+
+#### Voorschot
+
+De minister verleent, indien de subsidieontvanger dit in zijn subsidieaanvraag heeft aangegeven, na ontvangst en beoordeling van de voortgangsrapportage, bedoeld in artikel C8, eerste lid, een voorschot tot maximaal 50% van het in de beschikking tot subsidieverlening opgenomen maximum subsidiebedrag, mits uit de beoordeling van de voortgangsrapportage blijkt dat de gerapporteerde kosten zijn gespecificeerd en financieel en inhoudelijk voldoende zijn onderbouwd.
 
 ### Bijlage  2  
 

@@ -199,6 +199,14 @@ Gegevens van personen als bedoeld in de artikelen 1.50, 1.56 en 1.56b van de wet
 
 Indien het college op basis van een melding als bedoeld in artikel 22b van het Besluit justitiële en strafvorderlijke gegevens van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is bij een kinderopvangvoorziening of een huisgenoot van de gastouder van 18 jaar en ouder niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder, de persoon die werkzaam is bij een kinderopvangvoorziening of de huisgenoot van de gastouder aangewezen is. 
 
+### Artikel  9c  
+
+####Opname gegevens handhavingsbesluiten in het register kinderopvang
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De gegevens, bedoeld in artikel 6, eerste lid, onderdeel j, kunnen door een ieder worden geraadpleegd gedurende een periode van drie jaar na de datum van vermelding in het register kinderopvang. 
+
 ### Artikel  10  
 
 ####Bewaartermijn gegevens in het register kinderopvang
@@ -390,6 +398,14 @@ Gegevens van personen als bedoeld in artikel 2.6 van de wet, die op grond van ar
 ####Gevolgen van melding over nieuwe gegevens in de justitiële documentatie
 
 Indien het college op basis van een melding als bedoeld in artikel 22b van het Besluit justitiële en strafvorderlijke gegevens van Onze Minister van Veiligheid en Justitie vermoedt dat de houder van of een persoon die werkzaam is in een peuterspeelzaal niet meer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, bepaalt de toezichthouder of het aanvragen van een nieuwe verklaring omtrent het gedrag door de houder of de persoon, die werkzaam is bij de peuterspeelzaal aangewezen is. 
+
+### Artikel  15c  
+
+####Opname gegevens handhavingsbesluiten in het register peuterspeelzaalwerk
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De gegevens, bedoeld in artikel 12, eerste lid, onderdeel h, kunnen door een ieder worden geraadpleegd gedurende een periode van drie jaar na de datum van vermelding in het register peuterspeelzaalwerk. 
 
 ### Artikel  16  
 

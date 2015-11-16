@@ -6,7 +6,7 @@
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) en het [Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), hierna de „lidstaten van de Europese Unie” genoemd, en De Europese Unie, enerzijds, en De republiek Colombia (hierna „Colombia” genoemd), en De Republiek Peru (hierna „Peru” genoemd), hierna „de overeenkomstsluitende Andeslanden” genoemd, anderzijds, Gezien het belang van de historische en culturele banden en de bijzondere banden van vriendschap en samenwerking tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden, en hun wens om de economische integratie tussen de partijen te bevorderen; Vastbesloten om die banden te versterken door voort te bouwen op de bestaande instrumenten die de betrekkingen tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden regelen; Opnieuw bevestigend dat zij het [handvest van de Verenigde Naties](../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en de [Universele Verklaring van de rechten van de mens](../../../../../../../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md) ten volle onderschrijven; Hiermee een bijdrage leverend aan de harmonieuze ontwikkeling en uitbreiding van de wereld- en regionale handel en een katalysator voor internationale samenwerking biedend; Geleid door de wens de algehele economische ontwikkeling te bevorderen, teneinde op hun grondgebieden de armoede te verminderen, werkgelegenheid te creëren en arbeidsomstandigheden te verbeteren, alsook er de levensstandaard te verhogen, door het liberaliseren en uitbreiden van de onderlinge handel en investeringen; Vastbesloten deze overeenkomst uit te voeren overeenkomstig de doelstelling „duurzame ontwikkeling”, welke doelstelling onder meer het bevorderen van economische vooruitgang, het in acht nemen van arbeidsrechten en het beschermen van het milieu omvat, overeenkomstig de internationale verbintenissen die de partijen zijn aangegaan; Voortbouwend op de rechten en verplichtingen die voor de partijen voortvloeien uit de [Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) (hierna de „WTO-overeenkomst” genoemd); Vastbesloten tot het verwijderen van verstoringen in de handel tussen de partijen en het voorkomen van onnodige handelsbelemmeringen; Vastbesloten tot het vaststellen van duidelijke, alle partijen tot voordeel strekkende handelsregels en het bevorderen van de onderlinge handel en investeringen en van een regelmatige dialoog hierover; Geleid door de wens het concurrentievermogen van hun ondernemingen op internationale markten te vergroten door die ondernemingen een voorspelbaar wetgevingskader voor hun handels- en investeringsrelaties te verschaffen; Gezien de verschillen in economische en sociale ontwikkeling tussen de overeenkomstsluitende Andeslanden en de Europese Unie en haar lidstaten; Bevestigend dat de partijen het recht hebben om zo veel mogelijk gebruik te maken van de flexibiliteiten in het multilaterale kader om het algemeen belang te beschermen; Zich ervan bewust dat de overeenkomstsluitende Andeslanden lid van de Andesgemeenschap zijn en volgens Besluit 598 van de Andesgemeenschap bij onderhandelingen met derde landen ervoor moeten zorgen dat het stelsel van wettelijke regels dat van toepassing is op de wederzijdse betrekkingen tussen de Andeslanden, gehandhaafd blijft; Zich bewust van het belang van de respectieve regionale integratieprocessen van de Europese Unie en de overeenkomstsluitende Andeslanden, laatstgenoemde in het kader van de Andesgemeenschap,   Zijn het volgende overeengekomen:    
+Het Koninkrijk België, De Republiek Bulgarije, De Tsjechische Republiek, Het Koninkrijk Denemarken, De Bondsrepubliek Duitsland, De Republiek Estland, Ierland, De Helleense Republiek, Het Koninkrijk Spanje, De Franse Republiek, De Italiaanse Republiek, De Republiek Cyprus, De Republiek Letland, De Republiek Litouwen, Het Groothertogdom Luxemburg, Hongarije, Malta, Het Koninkrijk der Nederlanden, De Republiek Oostenrijk, De Republiek Polen, De Portugese Republiek, Roemenië, De Republiek Slovenië, De Slowaakse Republiek, De Republiek Finland, Het Koninkrijk Zweden, Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, partijen bij het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie, hierna de „lidstaten van de Europese Unie” genoemd, en De Europese Unie, enerzijds, en De republiek Colombia (hierna „Colombia” genoemd), en De Republiek Peru (hierna „Peru” genoemd), hierna „de overeenkomstsluitende Andeslanden” genoemd, anderzijds, Gezien het belang van de historische en culturele banden en de bijzondere banden van vriendschap en samenwerking tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden, en hun wens om de economische integratie tussen de partijen te bevorderen; Vastbesloten om die banden te versterken door voort te bouwen op de bestaande instrumenten die de betrekkingen tussen de Europese Unie en haar lidstaten en de overeenkomstsluitende Andeslanden regelen; Opnieuw bevestigend dat zij het handvest van de Verenigde Naties en de Universele Verklaring van de rechten van de mens ten volle onderschrijven; Hiermee een bijdrage leverend aan de harmonieuze ontwikkeling en uitbreiding van de wereld- en regionale handel en een katalysator voor internationale samenwerking biedend; Geleid door de wens de algehele economische ontwikkeling te bevorderen, teneinde op hun grondgebieden de armoede te verminderen, werkgelegenheid te creëren en arbeidsomstandigheden te verbeteren, alsook er de levensstandaard te verhogen, door het liberaliseren en uitbreiden van de onderlinge handel en investeringen; Vastbesloten deze overeenkomst uit te voeren overeenkomstig de doelstelling „duurzame ontwikkeling”, welke doelstelling onder meer het bevorderen van economische vooruitgang, het in acht nemen van arbeidsrechten en het beschermen van het milieu omvat, overeenkomstig de internationale verbintenissen die de partijen zijn aangegaan; Voortbouwend op de rechten en verplichtingen die voor de partijen voortvloeien uit de Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie (hierna de „WTO-overeenkomst” genoemd); Vastbesloten tot het verwijderen van verstoringen in de handel tussen de partijen en het voorkomen van onnodige handelsbelemmeringen; Vastbesloten tot het vaststellen van duidelijke, alle partijen tot voordeel strekkende handelsregels en het bevorderen van de onderlinge handel en investeringen en van een regelmatige dialoog hierover; Geleid door de wens het concurrentievermogen van hun ondernemingen op internationale markten te vergroten door die ondernemingen een voorspelbaar wetgevingskader voor hun handels- en investeringsrelaties te verschaffen; Gezien de verschillen in economische en sociale ontwikkeling tussen de overeenkomstsluitende Andeslanden en de Europese Unie en haar lidstaten; Bevestigend dat de partijen het recht hebben om zo veel mogelijk gebruik te maken van de flexibiliteiten in het multilaterale kader om het algemeen belang te beschermen; Zich ervan bewust dat de overeenkomstsluitende Andeslanden lid van de Andesgemeenschap zijn en volgens Besluit 598 van de Andesgemeenschap bij onderhandelingen met derde landen ervoor moeten zorgen dat het stelsel van wettelijke regels dat van toepassing is op de wederzijdse betrekkingen tussen de Andeslanden, gehandhaafd blijft; Zich bewust van het belang van de respectieve regionale integratieprocessen van de Europese Unie en de overeenkomstsluitende Andeslanden, laatstgenoemde in het kader van de Andesgemeenschap,   Zijn het volgende overeengekomen:    
 
 ### TITEL  I  
 
@@ -26,7 +26,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Eerbiediging van de democratische beginselen en fundamentele rechten van de mens, zoals vastgelegd in de [Universele Verklaring van de rechten van de mens](../../../../../../../../../../../../../verdrag/universal/declaration/of/human/rights/BWBV0001008/README.md), en het beginsel van de rechtsstaat vormen de basis van het binnen- en buitenlands beleid van de partijen. Eerbiediging van deze beginselen vormt een essentieel element van deze overeenkomst. 
+Eerbiediging van de democratische beginselen en fundamentele rechten van de mens, zoals vastgelegd in de Universele Verklaring van de rechten van de mens, en het beginsel van de rechtsstaat vormen de basis van het binnen- en buitenlands beleid van de partijen. Eerbiediging van deze beginselen vormt een essentieel element van deze overeenkomst. 
 
 ### Artikel  2  
 
@@ -51,7 +51,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen komen overeen een vrijhandelszone op te richten, overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel 1994, hierna de „GATT 1994” genoemd, en [artikel V van de Algemene Overeenkomst inzake de handel in diensten](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „GATS” genoemd. 
+De partijen komen overeen een vrijhandelszone op te richten, overeenkomstig artikel XXIV van de Algemene Overeenkomst inzake tarieven en handel 1994, hierna de „GATT 1994” genoemd, en artikel V van de Algemene Overeenkomst inzake de handel in diensten, hierna de „GATS” genoemd. 
 
 ### Artikel  4  
 
@@ -65,7 +65,7 @@ a. het geleidelijk liberaliseren van de handel in goederen, overeenkomstig artik
 
 b. het vergemakkelijken van de handel in goederen, met name door het toepassen van de overeengekomen bepalingen inzake douane en handelsbevordering, normen, technische voorschriften en procedures voor conformiteitsbeoordeling en sanitaire en fytosanitaire maatregelen;  
 
-c. het geleidelijk liberaliseren van de handel in diensten, overeenkomstig [artikel V van de GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md);  
+c. het geleidelijk liberaliseren van de handel in diensten, overeenkomstig artikel V van de GATS;  
 
 d. het ontwikkelen van een gunstig investeringsklimaat waardoor de investeringsstromen worden vergroot en in het bijzonder het verbeteren van de vestigingsvoorwaarden, op basis van niet-discriminatie;  
 
@@ -85,11 +85,11 @@ k. ervoor zorgen dat de samenwerking op het terrein van technische bijstand en d
 
 ### Artikel  5  
 
-####Verband met de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)
+####Verband met de WTO-overeenkomst
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij ingevolge de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) jegens elkaar hebben. 
+De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die zij ingevolge de WTO-overeenkomst jegens elkaar hebben. 
 
 ### Artikel  6  
 
@@ -99,7 +99,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Voor de toepassing van deze overeenkomst wordt verstaan onder: 
 
-– „partij”: de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, binnen de grenzen van hun respectieve bevoegdheden zoals deze voortvloeien uit het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) en het [Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) (hierna „EU” genoemd), of elk van de overeenkomstsluitende Andeslanden;  
+– „partij”: de Europese Unie of haar lidstaten of de Europese Unie en haar lidstaten, binnen de grenzen van hun respectieve bevoegdheden zoals deze voortvloeien uit het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie (hierna „EU” genoemd), of elk van de overeenkomstsluitende Andeslanden;  
 
 – „partijen”: de EU, enerzijds, en elk van de overeenkomstsluitende Andeslanden, anderzijds.     
 2.  Daar waar deze overeenkomst voorziet in specifieke en afzonderlijke verbintenissen ten aanzien van een lidstaat van de Europese Unie of een van de overeenkomstsluitende Andeslanden, geldt de overeenkomst voor dat specifieke land of die specifieke landen al naargelang wat van toepassing is.   
@@ -130,7 +130,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Deze overeenkomst is enerzijds van toepassing op elk grondgebied waarop het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) en het [Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) van toepassing is, onder de in die verdragen neergelegde voorwaarden, en anderzijds op het grondgebied van respectievelijk Colombia en Peru<sup> 3) Voor de duidelijkheid verklaren partijen hierbij dat de in deze overeenkomst vervatte verwijzingen naar „grondgebied” uitsluitend betrekking hebben op het geografisch toepassingsgebied van de overeenkomst. </sup>.   
+1.  Deze overeenkomst is enerzijds van toepassing op elk grondgebied waarop het Verdrag betreffende de Europese Unie en het Verdrag betreffende de werking van de Europese Unie van toepassing is, onder de in die verdragen neergelegde voorwaarden, en anderzijds op het grondgebied van respectievelijk Colombia en Peru<sup> 3) Voor de duidelijkheid verklaren partijen hierbij dat de in deze overeenkomst vervatte verwijzingen naar „grondgebied” uitsluitend betrekking hebben op het geografisch toepassingsgebied van de overeenkomst. </sup>.   
 2.  In afwijking van het bepaalde in lid 1 is deze overeenkomst ook van toepassing op de gebieden van het douanegebied van de EU (hierna het „EU-douanegebied” genoemd) die niet vallen onder bovenstaande omschrijving van het geografisch toepassingsgebied van de overeenkomst.  
 
 ### Artikel  10  
@@ -161,7 +161,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 – „dagen”: kalenderdagen, inclusief weekenden en vakantiedagen;  
 
-– „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de [GATT 1994](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in artikel 19;  
+– „goed van een partij” of „product van een partij”: binnenlandse producten als bedoeld in de GATT 1994 of andere door de partijen overeengekomen goederen of producten, waaronder begrepen goederen of producten van oorsprong uit die partij, zoals omschreven in artikel 19;  
 
 – „rechtspersoon”: elke juridische eenheid, naar toepasselijk recht opgericht of anderszins georganiseerd, met winst- of andere oogmerken, ongeacht of zij eigendom van particulieren of van de overheid is, met inbegrip van alle vennootschappen, trusts, maatschappen, joint ventures, eenmanszaken of verenigingen;  
 
@@ -356,7 +356,7 @@ Voor de toepassing van deze titel wordt verstaan onder:
 
 a. aan interne belastingen gelijkgestelde heffingen die in overeenstemming met artikel III van de GATT 1994 worden opgelegd;  
 
-b. antidumping-, compenserende of vrijwaringsmaatregelen die worden toegepast in overeenstemming met, voor zover relevant, de [GATT 1994](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), de [WTO-overeenkomst inzake de toepassing van artikel VI van GATT 1994](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „antidumpingovereenkomst” genoemd, de [WTO-overeenkomst inzake subsidies en compenserende maatregelen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „subsidieovereenkomst” genoemd, en de [WTO-overeenkomst inzake vrijwaringsmaatregelen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „vrijwaringsovereenkomst” genoemd;  
+b. antidumping-, compenserende of vrijwaringsmaatregelen die worden toegepast in overeenstemming met, voor zover relevant, de GATT 1994, de WTO-overeenkomst inzake de toepassing van artikel VI van GATT 1994, hierna de „antidumpingovereenkomst” genoemd, de WTO-overeenkomst inzake subsidies en compenserende maatregelen, hierna de „subsidieovereenkomst” genoemd, en de WTO-overeenkomst inzake vrijwaringsmaatregelen, hierna de „vrijwaringsovereenkomst” genoemd;  
 
 c. vergoedingen en andere heffingen die in overeenstemming met artikel VIII van de GATT 1994 worden opgelegd;    
 
@@ -401,7 +401,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. na een eenzijdige verlaging te verhogen tot het niveau dat in bijlage I (Lijsten inzake tariefafschaffing) voor het desbetreffende jaar is vastgesteld; of  
 
-b. te handhaven of te verhogen in overeenstemming met het [WTO-Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna het „DSU” genoemd, of titel XII (Geschillenbeslechting).    
+b. te handhaven of te verhogen in overeenstemming met het WTO-Memorandum van overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen, hierna het „DSU” genoemd, of titel XII (Geschillenbeslechting).    
 
 ### AFDELING  3  
 
@@ -441,8 +441,8 @@ Tenzij in deze overeenkomst anders is bepaald, mogen de partijen geen rechten of
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen mogen geen maatregelen vaststellen of handhaven die in strijd zijn met de [WTO-overeenkomst inzake procedures op het gebied van invoervergunningen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „overeenkomst invoervergunningen” genoemd, die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.   
-2.  Elke partij past de in de overeenkomst invoervergunningen vervatte bepalingen mutatis mutandis toe op elke vergunningprocedure voor uitvoer naar een andere partij. De in [artikel 5 van de overeenkomst invoervergunningen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) bedoelde kennisgeving wordt door de partijen ook verricht bij procedures betreffende uitvoervergunningen.   
+1.  De partijen mogen geen maatregelen vaststellen of handhaven die in strijd zijn met de WTO-overeenkomst inzake procedures op het gebied van invoervergunningen, hierna de „overeenkomst invoervergunningen” genoemd, die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt.   
+2.  Elke partij past de in de overeenkomst invoervergunningen vervatte bepalingen mutatis mutandis toe op elke vergunningprocedure voor uitvoer naar een andere partij. De in artikel 5 van de overeenkomst invoervergunningen bedoelde kennisgeving wordt door de partijen ook verricht bij procedures betreffende uitvoervergunningen.   
 3.  Onder „procedure betreffende invoervergunningen” wordt verstaan een administratieve procedure die wordt gebruikt voor de uitvoering van een regeling voor invoervergunningen waarbij als eerste voorwaarde voor invoer op het grondgebied van de partij van invoer, aan de bevoegde instantie een aanvraag of andere bescheiden (dan die welke voor douanedoeleinden zijn vereist) moeten worden overgelegd.  
 
 ### Artikel  27  
@@ -453,7 +453,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Voor de toepassing van deze overeenkomst wordt onder „staatshandelsondernemingen” verstaan, overheids- en niet-overheidsondernemingen, ongeacht de plaats van vestiging, op centraal en lager niveau, waaronder begrepen afzetorganisaties, waaraan exclusieve of bijzondere rechten of voorrechten zijn toegekend, waaronder wettelijke of constitutionele bevoegdheden, bij de uitoefening waarvan zij door hun aan- of verkopen de hoogte of richting van de in- en uitvoer beïnvloeden<sup> 8) Voor de duidelijkheid wordt opgemerkt dat de alcoholondernemingen die opereren in het kader van het in artikel 336 van de Grondwet van Colombia bedoelde *„monopolio rentístico”* onder deze definitie van staatshandelsondernemingen vallen. </sup>.   
 2.  De partijen erkennen dat staatshandelsondernemingen door hun wijze van bedrijfsvoering geen handelsbelemmeringen mogen creëren en gaan derhalve de in dit artikel neergelegde verplichtingen aan.   
-3.  De partijen bevestigen opnieuw hun bestaande rechten en verplichtingen uit hoofde van artikel XVII van GATT 1994, de aantekeningen en aanvullende bepalingen daarbij, en het [Memorandum van Overeenstemming betreffende de interpretatie van artikel XVII van de GATT 1994](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), welke mutatis mutandis in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.   
+3.  De partijen bevestigen opnieuw hun bestaande rechten en verplichtingen uit hoofde van artikel XVII van GATT 1994, de aantekeningen en aanvullende bepalingen daarbij, en het Memorandum van Overeenstemming betreffende de interpretatie van artikel XVII van de GATT 1994, welke mutatis mutandis in deze overeenkomst zijn opgenomen en daarvan een integrerend deel uitmaken.   
 4.  De partijen zien er met name op toe dat staatshandelsondernemingen bij hun aan- en verkopen, en steeds wanneer zij een bevoegdheid uitoefenen, waaronder een eventuele wettelijke of constitutionele bevoegdheid, die een partij op centraal of lager niveau aan deze ondernemingen heeft gedelegeerd, voldoen aan de verplichtingen die de partijen in deze overeenkomst aangaan.   
 5.  De bepalingen van dit artikel laten de rechten en verplichtingen die voor partijen voortvloeien uit titel VI (Overheidsopdrachten) onverlet.   
 6.  In de context van de kennisgeving die de partijen ingevolge artikel XVII van de GATT 1994 verrichten, streeft een partij wie om aanvullende informatie is verzocht over het effect van staatshandelsondernemingen op de bilaterale handel, naar maximale transparantie in haar reactie op een dergelijk informatieverzoek, voor zover de verzoekende partij die informatie nodig heeft om te kunnen bepalen of de staatshandelsondernemingen voldoen aan de toepasselijke verplichtingen van deze overeenkomst, overeenkomstig de bepalingen van artikel XVII, lid 4, onder d), van de GATT 1994 betreffende vertrouwelijke informatie.  
@@ -470,7 +470,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Deze afdeling is van toepassing op de maatregelen die de partijen vaststellen of handhaven met betrekking tot de onderlinge handel in landbouwproducten, hierna „landbouwproducten” genoemd, die vallen onder de definitie van [bijlage I van de WTO-overeenkomst inzake landbouw](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „landbouwovereenkomst” genoemd<sup> 9) Voor de toepassing van dit artikel omvatten landbouwproducten voor Colombia ook de volgende onderverdelingen: 2905.45.00, 3302.10.10, 3302.10.90, 3823.11.00, 3823.12.00, 3823.13.00, 3823.19.00, 3823.70.10, 3823.70.20, 3823.70.30, 3823.70.90, 3824.60.00. </sup>. 
+Deze afdeling is van toepassing op de maatregelen die de partijen vaststellen of handhaven met betrekking tot de onderlinge handel in landbouwproducten, hierna „landbouwproducten” genoemd, die vallen onder de definitie van bijlage I van de WTO-overeenkomst inzake landbouw, hierna de „landbouwovereenkomst” genoemd<sup> 9) Voor de toepassing van dit artikel omvatten landbouwproducten voor Colombia ook de volgende onderverdelingen: 2905.45.00, 3302.10.10, 3302.10.90, 3823.11.00, 3823.12.00, 3823.13.00, 3823.19.00, 3823.70.10, 3823.70.20, 3823.70.30, 3823.70.90, 3824.60.00. </sup>. 
 
 ### Artikel  29  
 
@@ -489,7 +489,7 @@ b. het basisrecht dat staat vermeld in bijlage I (Lijsten inzake tariefafschaffi
 
 a. een vrijwaringsmaatregel krachtens het bepaalde in hoofdstuk 2 (Handelsmaatregelen); of  
 
-b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).     
+b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de vrijwaringsovereenkomst.     
 5.  Geen van de partijen mag een landbouwvrijwaringsmaatregel vaststellen of handhaven: 
 
 a. vanaf de datum dat een product vrijstelling van invoerrechten geniet krachtens bijlage I (Lijsten inzake tariefafschaffing), behalve als onder b) anders is bepaald; of  
@@ -498,7 +498,7 @@ b. na het verstrijken van de overgangsperiode die is gespecificeerd in de lijst 
 
 c. die een douanerecht binnen een tariefcontingent verhoogt.     
 6.  Binnen tien dagen na het toepassen van een landbouwvrijwaringsmaatregel krachtens de leden 1 en 2, stelt de partij die de maatregel toepast, de betrokken partij van uitvoer daarvan schriftelijk in kennis en verstrekt zij haar de relevante data en een motivering van de maatregel. De partij die de maatregel toepast, biedt de betrokken partij van uitvoer de gelegenheid om in overleg te treden over de voorwaarden waaronder de maatregel overeenkomstig bedoelde leden zal worden toegepast.   
-7.  Elke partij behoudt de rechten en verplichtingen die voor haar voortvloeien uit [artikel 5 van de landbouwovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), behalve voor de handel in landbouwproducten die voorwerp zijn van een preferentiële behandeling.  
+7.  Elke partij behoudt de rechten en verplichtingen die voor haar voortvloeien uit artikel 5 van de landbouwovereenkomst, behalve voor de handel in landbouwproducten die voorwerp zijn van een preferentiële behandeling.  
 
 ### Artikel  30  
 
@@ -526,7 +526,7 @@ Tenzij in deze overeenkomst anders is bepaald, mag de EU het invoerprijssysteem 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Voor de toepassing van dit artikel wordt onder „uitvoersubsidies” verstaan, uitvoersubsidies in de zin van [artikel 1, onder e), van de landbouwovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en eventuele wijzigingen van dat artikel.   
+1.  Voor de toepassing van dit artikel wordt onder „uitvoersubsidies” verstaan, uitvoersubsidies in de zin van artikel 1, onder e), van de landbouwovereenkomst en eventuele wijzigingen van dat artikel.   
 2.  De partijen werken in het kader van de WTO gezamenlijk aan een akkoord over de afschaffing van uitvoersubsidies en andere maatregelen van gelijke werking voor landbouwproducten.   
 3.  Vanaf de inwerkingtreding van deze overeenkomst handhaven de partijen geen, en onthouden zij zich van het invoeren of opnieuw invoeren van, uitvoersubsidies of andere maatregelen van gelijke werking voor landbouwproducten die zijn bestemd voor het grondgebied van een andere partij en die in overeenstemming met bijlage I (Lijsten inzake tariefafschaffing) volledig en onmiddellijk zijn geliberaliseerd dan wel op termijn volledig worden geliberaliseerd en waarvoor bij de inwerkingtreding van de overeenkomst een van rechten vrijgesteld contingent geldt.   
 4.  De partijen handhaven geen, en onthouden zich van het invoeren of opnieuw invoeren van, uitvoersubsidies of andere maatregelen van gelijke werking voor landbouwproducten die op termijn volledig worden geliberaliseerd en waarvoor bij de inwerkingtreding van deze overeenkomst geen van rechten vrijgesteld contingent geldt, vanaf het moment dat deze producten volledig zijn geliberaliseerd.   
@@ -622,7 +622,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van de [antidumpingovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), de [subsidieovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en de [WTO-overeenkomst betreffende oorsprongsregels](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „overeenkomst oorsprongsregels” genoemd.   
+1.  De partijen bevestigen opnieuw hun rechten en verplichtingen uit hoofde van de antidumpingovereenkomst, de subsidieovereenkomst en de WTO-overeenkomst betreffende oorsprongsregels, hierna de „overeenkomst oorsprongsregels” genoemd.   
 2.  Wanneer de autoriteit van de Andesgemeenschap namens twee of meer van haar leden een antidumping- of compenserende maatregel toepast of een prijsverbintenis aanvaardt, is de bevoegde rechterlijke instantie van de Andesgemeenschap het enige forum voor rechterlijke toetsing.   
 3.  De partijen dragen er zorg voor dat regionale en nationale autoriteiten met betrekking tot hetzelfde product niet tegelijkertijd meerdere antidumpingmaatregelen toepassen. Hetzelfde geldt voor compenserende maatregelen.  
 
@@ -634,7 +634,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Handelsmaatregelen moeten volgens de toepasselijke WTO-voorschriften worden genomen en moeten op een transparant systeem gebaseerd zijn.   
 2.  Zich bewust van de voordelen van rechtszekerheid en voorspelbaarheid voor marktdeelnemers, draagt elke partij er zorg voor dat haar interne wetgeving inzake handelsmaatregelen volledig in overeenstemming is met de toepasselijke WTO-voorschriften.   
-3.  Onverminderd [artikel 6, lid 5, van de antidumpingovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en [artikel 12, lid 4, van de subsidieovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) draagt elke partij er zorg voor dat na de instelling van voorlopige maatregelen zo spoedig als volgens de interne wetgeving mogelijk is, maar in elk geval vóór de uiteindelijke vaststelling ervan, de belangrijkste feiten en overwegingen die aan de beslissing tot het al dan niet toepassen van maatregelen ten grondslag liggen, volledig en duidelijk worden meegedeeld. Bedoelde feiten en overwegingen moeten schriftelijk worden meegedeeld, en belanghebbenden moeten voldoende tijd krijgen om opmerkingen te maken.   
+3.  Onverminderd artikel 6, lid 5, van de antidumpingovereenkomst en artikel 12, lid 4, van de subsidieovereenkomst draagt elke partij er zorg voor dat na de instelling van voorlopige maatregelen zo spoedig als volgens de interne wetgeving mogelijk is, maar in elk geval vóór de uiteindelijke vaststelling ervan, de belangrijkste feiten en overwegingen die aan de beslissing tot het al dan niet toepassen van maatregelen ten grondslag liggen, volledig en duidelijk worden meegedeeld. Bedoelde feiten en overwegingen moeten schriftelijk worden meegedeeld, en belanghebbenden moeten voldoende tijd krijgen om opmerkingen te maken.   
 4.  Op verzoek van belanghebbenden worden zij bij het onderzoek naar handelsmaatregelen door de onderzoeksautoriteit gehoord, mits het onderzoek daardoor niet onnodig wordt vertraagd.  
 
 ### Artikel  39  
@@ -689,7 +689,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Elke partij behoudt de rechten en verplichtingen die voortvloeien uit artikel XIX van de GATT 1994, de [vrijwaringsovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en de [overeenkomst oorsprongsregels](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md). 
+Elke partij behoudt de rechten en verplichtingen die voortvloeien uit artikel XIX van de GATT 1994, de vrijwaringsovereenkomst en de overeenkomst oorsprongsregels. 
 
 ### Artikel  44  
 
@@ -709,7 +709,7 @@ De partijen mogen met betrekking tot hetzelfde product niet tegelijkertijd toepa
 
 a. een bilaterale vrijwaringsmaatregel overeenkomstig afdeling 3 (Bilaterale vrijwaringsmaatregelen) van dit hoofdstuk; en  
 
-b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de [vrijwaringsovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).   
+b. een maatregel als bedoeld in artikel XIX van de GATT 1994 en de vrijwaringsovereenkomst.   
 
 ### Artikel  46  
 
@@ -778,8 +778,8 @@ b. verhoging van het douanerecht op het betrokken product tot maximaal het meest
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Een partij mag pas een bilaterale vrijwaringsmaatregel toepassen nadat de bevoegde instanties van die partij overeenkomstig [artikel 3 van de vrijwaringsovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) een onderzoek hebben ingesteld, waartoe dat artikel mutatis mutandis in deze overeenkomst wordt opgenomen en tot een integrerend deel daarvan wordt gemaakt.   
-2.  Een onderzoek als bedoeld in lid 1 voldoet aan de vereisten van [artikel 4, lid 2, onder a) en c), van de vrijwaringsovereenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), waartoe artikel 4, lid 2, onder a) en c), van de vrijwaringsovereenkomst mutatis mutandis in deze overeenkomst wordt opgenomen en tot een integrerend deel daarvan wordt gemaakt.   
+1.  Een partij mag pas een bilaterale vrijwaringsmaatregel toepassen nadat de bevoegde instanties van die partij overeenkomstig artikel 3 van de vrijwaringsovereenkomst een onderzoek hebben ingesteld, waartoe dat artikel mutatis mutandis in deze overeenkomst wordt opgenomen en tot een integrerend deel daarvan wordt gemaakt.   
+2.  Een onderzoek als bedoeld in lid 1 voldoet aan de vereisten van artikel 4, lid 2, onder a) en c), van de vrijwaringsovereenkomst, waartoe artikel 4, lid 2, onder a) en c), van de vrijwaringsovereenkomst mutatis mutandis in deze overeenkomst wordt opgenomen en tot een integrerend deel daarvan wordt gemaakt.   
 3.  Naast het bepaalde in lid 2 toont de onderzoekende partij middels objectief bewijs aan dat er een oorzakelijk verband bestaat tussen de stijging van de invoer van het product van de partij van uitvoer en ernstige schade of de dreiging van ernstige schade daardoor.   
 4.  Elke partij draagt er zorg voor dat haar bevoegde instanties bedoeld onderzoek afronden binnen de termijn die in haar interne wetgeving is voorgeschreven, maar in ieder geval niet later dan twaalf maanden nadat het onderzoek is geopend.  
 
@@ -874,7 +874,7 @@ Treedt in werking op een nader te bepalen tijdstip
 1.  Elke partij stelt efficiënte, transparante en vereenvoudigde procedures vast om de kosten te verlagen en de voorspelbaarheid van de procedures te waarborgen ten behoeve van importeurs en exporteurs.   
 2.  De partijen komen overeen hun handels- en douanewetgeving en -procedures te baseren op: 
 
-a. de internationale instrumenten en normen die op het gebied van douane en handel van toepassing zijn, waaronder begrepen de materiële elementen van de [Herziene Overeenkomst van Kyoto inzake de vereenvoudiging en harmonisatie van douaneprocedures](../../../../../../../../../../../../../verdrag/internationale/overeenkomst/inzake/de/vereenvoudiging/en/harmonisatie/van/etc/BWBV0001015/README.md), hierna de „Herziene overeenkomst van Kyoto” genoemd, het [Internationaal Verdrag betreffende het geharmoniseerd systeem inzake de omschrijving en codering van goederen](../../../../../../../../../../../../../verdrag/international/convention/on/the/harmonized/commodity/description/and/etc/BWBV0002538/README.md), hierna het „GS-Verdrag” genoemd, het Framework of Standards to Secure and Facilitate Global Trade van de Werelddouaneorganisatie (WDO), hierna het „WDO SAFE” genoemd, en het Customs Data Model van de WDO, hierna: het „WDO-gegevensmodel” genoemd;  
+a. de internationale instrumenten en normen die op het gebied van douane en handel van toepassing zijn, waaronder begrepen de materiële elementen van de Herziene Overeenkomst van Kyoto inzake de vereenvoudiging en harmonisatie van douaneprocedures, hierna de „Herziene overeenkomst van Kyoto” genoemd, het Internationaal Verdrag betreffende het geharmoniseerd systeem inzake de omschrijving en codering van goederen, hierna het „GS-Verdrag” genoemd, het Framework of Standards to Secure and Facilitate Global Trade van de Werelddouaneorganisatie (WDO), hierna het „WDO SAFE” genoemd, en het Customs Data Model van de WDO, hierna: het „WDO-gegevensmodel” genoemd;  
 
 b. de bescherming en bevordering van het handelsverkeer door een effectieve handhaving en naleving van wettelijke voorschriften;  
 
@@ -972,7 +972,7 @@ f. zien erop toe dat voorschriften en procedures op douanegebied en aanverwante 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De [Overeenkomst inzake de toepassing van artikel VII van GATT 1994](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „Overeenkomst inzake de douanewaarde” genoemd, regelt de voorschriften voor de vaststelling van de douanewaarde die voor de handel tussen de partijen gelden. 
+De Overeenkomst inzake de toepassing van artikel VII van GATT 1994, hierna de „Overeenkomst inzake de douanewaarde” genoemd, regelt de voorschriften voor de vaststelling van de douanewaarde die voor de handel tussen de partijen gelden. 
 
 ### Artikel  66  
 
@@ -1043,7 +1043,7 @@ b. verstrekking van expertise en capaciteitsopbouw op het terrein van wetgeving 
 
 c. toepassing van moderne douanetechnieken, waaronder technieken voor risicobeheer, bindende informatie vooraf, douanewaarde, vereenvoudigde procedures voor de binnenkomst en vrijgave van goederen, controles na de vrijgave, methoden voor de controle van bedrijfsboekhoudingen en geautoriseerde marktdeelnemers;  
 
-d. invoering van procedures en werkwijzen die zoveel mogelijk in overeenstemming zijn met internationale instrumenten en normen op het gebied van douane en handel, met inbegrip van WTO-voorschriften en WDO-instrumenten en -normen, waaronder de herziene [Overeenkomst van Kyoto](../../../../../../../../../../../../../verdrag/internationale/overeenkomst/inzake/de/vereenvoudiging/en/harmonisatie/van/etc/BWBV0001015/README.md) en WDO SAFE;  
+d. invoering van procedures en werkwijzen die zoveel mogelijk in overeenstemming zijn met internationale instrumenten en normen op het gebied van douane en handel, met inbegrip van WTO-voorschriften en WDO-instrumenten en -normen, waaronder de herziene Overeenkomst van Kyoto en WDO SAFE;  
 
 e. vereenvoudiging, harmonisatie en automatisering van douaneprocedures.    
 
@@ -1069,7 +1069,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 De doelstellingen van dit hoofdstuk zijn: 
 
-a. vergemakkelijken en vergroten van de handel in goederen en het realiseren van daadwerkelijke markttoegang voor de partijen door een betere uitvoering van de [WTO-overeenkomst inzake technische handelsbelemmeringen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „TBT-overeenkomst” genoemd;  
+a. vergemakkelijken en vergroten van de handel in goederen en het realiseren van daadwerkelijke markttoegang voor de partijen door een betere uitvoering van de WTO-overeenkomst inzake technische handelsbelemmeringen, hierna de „TBT-overeenkomst” genoemd;  
 
 b. voorkomen van het ontstaan, of het stimuleren van de afschaffing, van onnodige technische handelsbelemmeringen;  
 
@@ -1081,7 +1081,7 @@ c. vergroten van de samenwerking tussen de partijen in aangelegenheden die onder
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Voor de toepassing van dit hoofdstuk gelden de definities van [bijlage 1 bij de TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).   
+1.  Voor de toepassing van dit hoofdstuk gelden de definities van bijlage 1 bij de TBT-overeenkomst.   
 2.  Daarnaast gelden de volgende definities: 
 
 – „voorzien van niet-permanente etiketten”: aanbrengen van informatie op een product door gebruik te maken van zelfklevende etiketten, hanglabels of een ander soort etiket dat kan worden verwijderd, of door de informatie bij te voegen in de verpakking;  
@@ -1090,11 +1090,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ### Artikel  73  
 
-####Relatie met de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)
+####Relatie met de TBT-overeenkomst
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvloeien uit de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt. 
+De partijen bevestigen opnieuw de rechten en verplichtingen die voor hen voortvloeien uit de TBT-overeenkomst, die mutatis mutandis in deze overeenkomst is opgenomen en daarvan een integrerend deel uitmaakt. 
 
 ### Artikel  74  
 
@@ -1123,7 +1123,7 @@ b. het in kaart brengen, ontwikkelen en bevorderen van initiatieven om de onderl
 
 i. het uitwisselen van informatie, ervaringen en gegevens, wetenschappelijke en technologische samenwerking, en het toepassen van goede werkwijzen op het terrein van de regelgeving;  
 
-ii. het vereenvoudigen van certificeringsprocedures en administratieve voorschriften die bij algemene of technische regelgeving zijn vastgesteld, en het afschaffen van registratie-eisen of verplichte voorafgaande vergunningen, voor zover die krachtens de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) overbodig zijn;  
+ii. het vereenvoudigen van certificeringsprocedures en administratieve voorschriften die bij algemene of technische regelgeving zijn vastgesteld, en het afschaffen van registratie-eisen of verplichte voorafgaande vergunningen, voor zover die krachtens de TBT-overeenkomst overbodig zijn;  
 
 iii. werken aan de convergentie en harmonisering van technische voorschriften en conformiteitsbeoordelingsprocedures of het vaststellen van de gelijkwaardigheid ervan. Gelijkwaardigheid brengt voor de partijen niet automatisch verplichtingen mee, tenzij uitdrukkelijk anders is overeengekomen;  
 
@@ -1152,7 +1152,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. het onderhouden van een effectieve communicatie tussen haar regelgevingsinstanties en normalisatie-instellingen;  
 
-b. het toepassen van het op 13 november 2000 door de WTO-Commissie technische handelsbelemmeringen vastgestelde besluit inzake de beginselen voor de ontwikkeling van internationale normen, richtsnoeren en aanbevelingen met betrekking tot de artikelen 2 en 5 en bijlage 3 van de overeenkomst bij het vaststellen of er sprake is van een internationale norm, richtsnoer of aanbeveling in de zin van de [artikelen 2](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en [5](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en [bijlage 3 van de TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md);  
+b. het toepassen van het op 13 november 2000 door de WTO-Commissie technische handelsbelemmeringen vastgestelde besluit inzake de beginselen voor de ontwikkeling van internationale normen, richtsnoeren en aanbevelingen met betrekking tot de artikelen 2 en 5 en bijlage 3 van de overeenkomst bij het vaststellen of er sprake is van een internationale norm, richtsnoer of aanbeveling in de zin van de artikelen 2 en 5 en bijlage 3 van de TBT-overeenkomst;  
 
 c. het aanmoedigen van haar normalisatie-instellingen om bij internationale normalisatie-activiteiten samen te werken met de relevante normalisatie-instellingen van een andere partij. Bedoelde samenwerking kan plaatsvinden binnen de internationale normalisatie-instellingen of op regionaal niveau, wanneer de samenwerking tot stand komt op uitnodiging van de overeenkomstige normalisatie-instelling of op basis van een memorandum van overeenstemming dat onder meer de ontwikkeling van gemeenschappelijke normen beoogt;  
 
@@ -1196,7 +1196,7 @@ d. hun conformiteitsbeoordelingsorganen aan te moedigen deel te nemen aan overee
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Overeenkomstig de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) stuurt elke partij de in [artikel 10 van die overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) bedoelde contactpunten langs elektronische weg, rechtstreeks dan wel via het WTO-secretariaat, de technische voorschriften en conformiteitsbeoordelingsprocedures die zij voorstelt of die zij heeft vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid. Het elektronische bericht waarin wordt kennisgegeven van een technisch voorschrift of een conformiteitsbeoordelingsprocedure bevat een link naar, of een kopie van, de volledige tekst van het document dat aanleiding gaf tot de kennisgeving.   
+1.  Overeenkomstig de TBT-overeenkomst stuurt elke partij de in artikel 10 van die overeenkomst bedoelde contactpunten langs elektronische weg, rechtstreeks dan wel via het WTO-secretariaat, de technische voorschriften en conformiteitsbeoordelingsprocedures die zij voorstelt of die zij heeft vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid. Het elektronische bericht waarin wordt kennisgegeven van een technisch voorschrift of een conformiteitsbeoordelingsprocedure bevat een link naar, of een kopie van, de volledige tekst van het document dat aanleiding gaf tot de kennisgeving.   
 2.  Ook (ontwerp)voorstellen voor technische voorschriften en conformiteitsbeoordelingsprocedures, en technische voorschriften of conformiteitsbeoordelingsprocedures die zijn vastgesteld om het hoofd te bieden aan ontstane of dreigende urgente problemen in verband met de veiligheid, gezondheid, milieubescherming of nationale veiligheid en die in overeenstemming zijn met de technische inhoud van de toepasselijke internationale normen, worden door elke partij openbaar gemaakt of langs elektronische weg verstuurd.   
 3.  Overeenkomstig de leden 1 en 2 geeft elke partij de andere partijen en andere belanghebbenden ten minste zestig dagen, en zo mogelijk negentig dagen, vanaf de datum van elektronische verzending van de voorgestelde technische voorschriften of conformiteitsbeoordelingsprocedures, de tijd om schriftelijke opmerkingen te maken. Een partij neemt redelijke verzoeken tot verlenging van de termijn voor het indienen van opmerkingen in welwillende overweging.   
 4.  Een partij houdt naar behoren rekening met de opmerkingen van een andere partij wanneer een voorstel voor een technisch voorschrift aan een openbare raadpleging wordt onderworpen, en geeft een andere partij desgevraagd schriftelijke antwoord op haar opmerkingen.   
@@ -1243,7 +1243,7 @@ ii. dat internationale nomenclaturen, pictogrammen, symbolen of grafieken worden
 
 iii. dat meer informatie dan die welke in het land van bestemming is voorgeschreven, wordt verstrekt;    
 
-g. tenzij de in de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) neergelegde legitieme doelen daardoor in het gedrang komen, aanvaardt de partij dat niet-permanente of verwijderbare etiketten worden gebruikt of dat de informatie in de handleiding bij het product of op de verpakking wordt vermeld in plaats van dat zij op het product wordt gedrukt of eraan wordt bevestigd.     
+g. tenzij de in de TBT-overeenkomst neergelegde legitieme doelen daardoor in het gedrang komen, aanvaardt de partij dat niet-permanente of verwijderbare etiketten worden gebruikt of dat de informatie in de handleiding bij het product of op de verpakking wordt vermeld in plaats van dat zij op het product wordt gedrukt of eraan wordt bevestigd.     
 2.  Wanneer een partij voorschrijft dat textielproducten, kleding of schoeisel van een merkteken of etiket moeten worden voorzien: 
 
 a. mag zij alleen voor de volgende informatie voorschrijven dat deze middels een permanent merkteken of etiket moet worden vermeld: 
@@ -1286,15 +1286,15 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. begeleiden en evalueren van de uitvoering, het beheer en de naleving van het bepaalde in dit hoofdstuk;  
 
-b. behandelen van kwesties die een partij aan de orde stelt in verband met dit hoofdstuk en de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md);  
+b. behandelen van kwesties die een partij aan de orde stelt in verband met dit hoofdstuk en de TBT-overeenkomst;  
 
 c. bijdragen aan het vaststellen van prioriteiten voor samenwerking en programma’s voor technische bijstand op het terrein van normen, technische voorschriften, conformiteitsbeoordelingsprocedures, accreditering, metrologie, grenscontroles en markttoezicht, en het onderzoeken van de voortgang en de behaalde resultaten;  
 
 d. uitwisselen van informatie over de werkzaamheden van niet-gouvernementele, regionale en multilaterale fora die betrokken zijn bij activiteiten in verband met normen, technische voorschriften en conformiteitsbeoordelingsprocedures;  
 
-e. op verzoek van een partij in overleg treden over kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md);  
+e. op verzoek van een partij in overleg treden over kwesties die voortvloeien uit dit hoofdstuk of de TBT-overeenkomst;  
 
-f. oprichten van werkgroepen voor specifieke kwesties die voortvloeien uit dit hoofdstuk of de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) wanneer de doelstellingen van dit hoofdstuk dat vereisen, waarbij het werkterrein en de taken van deze werkgroepen nauwkeurig worden omschreven;  
+f. oprichten van werkgroepen voor specifieke kwesties die voortvloeien uit dit hoofdstuk of de TBT-overeenkomst wanneer de doelstellingen van dit hoofdstuk dat vereisen, waarbij het werkterrein en de taken van deze werkgroepen nauwkeurig worden omschreven;  
 
 g. faciliteren, waar nodig, van de dialoog en samenwerking tussen regelgevers, overeenkomstig het bepaalde in dit hoofdstuk;  
 
@@ -1302,11 +1302,11 @@ h. opstellen, ingevolge artikel 75, lid 1, onder b), van dit hoofdstuk, van een 
 
 i. onderzoeken van alle andere kwesties in verband met dit hoofdstuk die kunnen bijdragen aan het toegankelijker maken van de markten van de partijen;  
 
-j. herzien van dit hoofdstuk naar aanleiding van ontwikkelingen in het kader van de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en van besluiten of aanbevelingen van de WTO-Commissie technische handelsbelemmeringen en doen van aanbevelingen voor mogelijke wijzigingen van dit hoofdstuk;  
+j. herzien van dit hoofdstuk naar aanleiding van ontwikkelingen in het kader van de TBT-overeenkomst en van besluiten of aanbevelingen van de WTO-Commissie technische handelsbelemmeringen en doen van aanbevelingen voor mogelijke wijzigingen van dit hoofdstuk;  
 
 k. het Handelscomité zo nodig informeren over de uitvoering van dit hoofdstuk;  
 
-l. nemen van andere maatregelen die volgens de partijen helpen bij de uitvoering van dit hoofdstuk en de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en die bijdragen aan het bevorderen van de handel.     
+l. nemen van andere maatregelen die volgens de partijen helpen bij de uitvoering van dit hoofdstuk en de TBT-overeenkomst en die bijdragen aan het bevorderen van de handel.     
 3.  Ten behoeve van de uitvoering van dit hoofdstuk is de vertegenwoordiger van elke partij in het subcomité verantwoordelijk voor de coördinatie met centrale en lokale overheidsinstellingen, niet-gouvernementele instellingen en andere relevante personen op het grondgebied van die partij, en nodigt hij deze instellingen en personen op verzoek van een andere partij uit om de vergaderingen van het subcomité bij te wonen. De vertegenwoordigers van de partijen maken melding van alle kwesties die verband houden met dit hoofdstuk.   
 4.  Tenzij de partijen anders overeenkomen, is overleg als bedoeld in lid 2, onder e), overleg krachtens artikel 301, mits aan de voorwaarden van lid 9 van dat artikel is voldaan.   
 5.  Het subcomité kan ook vergaderen wanneer behalve de EU maar een van de overeenkomstsluitende Andeslanden deelneemt, als het punt dat op de agenda staat uitsluitend betrekking heeft op de bilaterale betrekkingen tussen de EU en dat Andesland. Wanneer een ander overeenkomstsluitend Andesland blijk geeft van belangstelling voor de kwestie die tijdens bedoelde vergadering wordt besproken, mag het aan de vergadering deelnemen als de EU en het overeenkomstsluitende Andesland dat primair bij de kwestie betrokken is, daarvoor vooraf toestemming hebben gegeven.   
@@ -1319,7 +1319,7 @@ l. nemen van andere maatregelen die volgens de partijen helpen bij de uitvoering
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Informatie of toelichtingen die op verzoek van een partij overeenkomstig de bepalingen van dit hoofdstuk worden verstrekt, worden verstrekt in gedrukte of elektronische vorm en binnen zestig dagen, welke termijn door de rapporterende partij om gegronde, vooraf vermelde redenen kan worden verlengd.   
-2.  Ten aanzien van de verzoeken om informatie die de informatiepunten in overeenstemming met [artikel 10 van de TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) of met dit hoofdstuk in behandeling moeten nemen en de afhandeling van deze verzoeken, volgen de partijen de aanbevelingen van de WTO-Commissie technische handelsbelemmeringen die op 4 oktober 1995 zijn aangenomen.  
+2.  Ten aanzien van de verzoeken om informatie die de informatiepunten in overeenstemming met artikel 10 van de TBT-overeenkomst of met dit hoofdstuk in behandeling moeten nemen en de afhandeling van deze verzoeken, volgen de partijen de aanbevelingen van de WTO-Commissie technische handelsbelemmeringen die op 4 oktober 1995 zijn aangenomen.  
 
 ### HOOFDSTUK  5  
 
@@ -1337,7 +1337,7 @@ De doelstellingen van dit hoofdstuk zijn:
 
 a. beschermen van het leven en de gezondheid van mensen, dieren en planten op het grondgebied van de partijen en tegelijkertijd vergemakkelijken van de handel tussen de partijen op het terrein van sanitaire en fytosanitaire maatregelen;  
 
-b. samenwerken voor de verdere tenuitvoerlegging van de [WTO-overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „SPS-overeenkomst” genoemd;  
+b. samenwerken voor de verdere tenuitvoerlegging van de WTO-overeenkomst inzake de toepassing van sanitaire en fytosanitaire maatregelen, hierna de „SPS-overeenkomst” genoemd;  
 
 c. ervoor zorgen dat sanitaire en fytosanitaire maatregelen geen ongerechtvaardigde belemmeringen voor de handel tussen de partijen vormen;  
 
@@ -1353,7 +1353,7 @@ f. vergemakkelijken van de toepassing van de bijzondere en afwijkende behandelin
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor hen uit de [SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) voortvloeien. Partijen zijn ook onderworpen aan de bepalingen van dit hoofdstuk. 
+De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor hen uit de SPS-overeenkomst voortvloeien. Partijen zijn ook onderworpen aan de bepalingen van dit hoofdstuk. 
 
 ### Artikel  87  
 
@@ -1362,7 +1362,7 @@ De partijen bevestigen opnieuw de bestaande rechten en verplichtingen die voor h
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Dit hoofdstuk is van toepassing op alle sanitaire en fytosanitaire maatregelen die de handel tussen de partijen direct of indirect kunnen beïnvloeden.   
-2.  Dit hoofdstuk is niet van toepassing op de normen, technische voorschriften en conformiteitsbeoordelingsprocedures als omschreven in de [TBT-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), behalve als zij betrekking hebben op sanitaire en fytosanitaire maatregelen.   
+2.  Dit hoofdstuk is niet van toepassing op de normen, technische voorschriften en conformiteitsbeoordelingsprocedures als omschreven in de TBT-overeenkomst, behalve als zij betrekking hebben op sanitaire en fytosanitaire maatregelen.   
 3.  Daarnaast is dit hoofdstuk van toepassing op de samenwerking tussen de partijen op het terrein van dierenwelzijn.  
 
 ### Artikel  88  
@@ -1371,7 +1371,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Voor de toepassing van dit hoofdstuk gelden de definities van [bijlage A bij de SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).   
+1.  Voor de toepassing van dit hoofdstuk gelden de definities van bijlage A bij de SPS-overeenkomst.   
 2.  De partijen kunnen nog andere definities voor de toepassing van dit hoofdstuk overeenkomen, waarbij rekening dient te worden gehouden met de glossaria en definities van de relevante internationale organisaties.  
 
 ### Artikel  89  
@@ -1445,14 +1445,14 @@ b. van de andere partijen informatie te ontvangen over hun controlesysteem en ov
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen aanvaarden het concept van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen overeenkomstig de [SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en de normen, richtsnoeren en aanbevelingen van de Wereldorganisatie voor diergezondheid, hierna de „OIE” genoemd, en het [Internationaal Verdrag voor de Bescherming van Planten](../../../../../../../../../../../../../verdrag/internationaal/verdrag/voor/de/bescherming/van/planten/BWBV0003652/README.md), hierna het „IPPC” genoemd.   
+1.  De partijen aanvaarden het concept van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen overeenkomstig de SPS-overeenkomst en de normen, richtsnoeren en aanbevelingen van de Wereldorganisatie voor diergezondheid, hierna de „OIE” genoemd, en het Internationaal Verdrag voor de Bescherming van Planten, hierna het „IPPC” genoemd.   
 2.  Ingevolge het bepaalde in lid 1 stelt het subcomité Sanitaire en fytosanitaire maatregelen een geschikte procedure vast voor de erkenning van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, waarbij rekening wordt gehouden met relevante internationale normen, richtsnoeren en aanbevelingen. Deze procedure wordt tevens toegepast bij uitbraken en herinfestaties.   
 3.  Bij het vaststellen van de in lid 1 en 2 bedoelde gebieden wordt rekening gehouden met factoren als geografische ligging, ecosystemen, epidemiologisch toezicht en de doeltreffendheid van sanitaire of fytosanitaire controles in die gebieden.   
 4.  De partijen werken nauw samen bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, teneinde vertrouwen te krijgen in elkaars procedures voor het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen.   
-5.  Bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, en ongeacht of dit voor het eerst gebeurt of na de uitbraak van een dierenziekte of de herinfestatie met een voor planten schadelijk organisme, baseert de partij van invoer haar eigen vaststelling van de dier- of plantgezondheidsstatus van de partij van uitvoer of delen daarvan in beginsel op de door die partij overeenkomstig de normen van de [SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en de OIE en het [IPPC](../../../../../../../../../../../../../verdrag/internationaal/verdrag/voor/de/bescherming/van/planten/BWBV0003652/README.md) verstrekte informatie, en houdt zij rekening met de vaststelling die de partij van uitvoer heeft gedaan.   
+5.  Bij het vaststellen van ziekte- en plagenvrije gebieden en gebieden met een lage prevalentie van ziekten en plagen, en ongeacht of dit voor het eerst gebeurt of na de uitbraak van een dierenziekte of de herinfestatie met een voor planten schadelijk organisme, baseert de partij van invoer haar eigen vaststelling van de dier- of plantgezondheidsstatus van de partij van uitvoer of delen daarvan in beginsel op de door die partij overeenkomstig de normen van de SPS-overeenkomst en de OIE en het IPPC verstrekte informatie, en houdt zij rekening met de vaststelling die de partij van uitvoer heeft gedaan.   
 6.  Ingeval een partij van invoer de gebieden waarvan een partij van uitvoer heeft vastgesteld dat het ziekte- en plagenvrije gebieden of gebieden met een lage prevalentie van ziekten en plagen zijn, niet als zodanig erkent, dan verstrekt de partij van invoer de partij van uitvoer desgevraagd de informatie op basis waarvan zij bedoelde vaststelling heeft gedaan en/of treedt zij zo spoedig mogelijk in overleg over een mogelijke oplossing.   
 7.  De partij van uitvoer levert de partij van invoer voldoende bewijs dat de desbetreffende gebieden ziekte- of plagenvrij zijn of gebieden zijn met een lage prevalentie van ziekten of plagen, en dat waarschijnlijk ook blijven. Hiertoe verleent de partij van uitvoer de partij van invoer desgevraagd redelijke toegang voor het verrichten van inspecties, tests en andere relevante procedures.   
-8.  De partijen erkennen het compartimenteringsbeginsel van de OIE en het beginsel van plagenvrije productielocaties van het [IPPC](../../../../../../../../../../../../../verdrag/internationaal/verdrag/voor/de/bescherming/van/planten/BWBV0003652/README.md). Het subcomité Sanitaire en fytosanitaire maatregelen beoordeelt eventuele aanbevelingen van de OIE of het IPPC over deze kwestie en doet dienovereenkomstig aanbevelingen.  
+8.  De partijen erkennen het compartimenteringsbeginsel van de OIE en het beginsel van plagenvrije productielocaties van het IPPC. Het subcomité Sanitaire en fytosanitaire maatregelen beoordeelt eventuele aanbevelingen van de OIE of het IPPC over deze kwestie en doet dienovereenkomstig aanbevelingen.  
 
 ### Artikel  95  
 
@@ -1519,7 +1519,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Ingevolge [artikel 10 van de SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) kan een overeenkomstsluitend Andesland, wanneer het bij een voorgestelde maatregel waarvan de EU heeft kennisgegeven moeilijkheden vaststelt, in de opmerkingen die het ingevolge [artikel 7 van de SPS-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) op het voorstel kan indienen, om een gelegenheid voor overleg hierover verzoeken. De betrokken partijen treden vervolgens in overleg om overeenstemming te bereiken over: 
+Ingevolge artikel 10 van de SPS-overeenkomst kan een overeenkomstsluitend Andesland, wanneer het bij een voorgestelde maatregel waarvan de EU heeft kennisgegeven moeilijkheden vaststelt, in de opmerkingen die het ingevolge artikel 7 van de SPS-overeenkomst op het voorstel kan indienen, om een gelegenheid voor overleg hierover verzoeken. De betrokken partijen treden vervolgens in overleg om overeenstemming te bereiken over: 
 
 a. alternatieve invoervoorwaarden door de partij van invoer, en/of  
 
@@ -1589,7 +1589,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  De partijen zijn zich bewust van de uiteenlopende niveaus van regionale integratie binnen de Europese Unie, enerzijds, en tussen de overeenkomstsluitende Andeslanden binnen de Andesgemeenschap, anderzijds. In deze context streven de partijen naar de totstandbrenging van omstandigheden die bevorderlijk zijn voor het vrije verkeer van goederen van andere partijen tussen hun respectieve grondgebieden. In dit opzicht: 
 
-a. geldt voor producten van oorsprong uit een overeenkomstsluitend Andesland vrij verkeer van goederen binnen het grondgebied van de Europese Unie, onder de voorwaarden die in het [Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) voor het vrije verkeer van goederen van oorsprong uit derde landen zijn neergelegd;  
+a. geldt voor producten van oorsprong uit een overeenkomstsluitend Andesland vrij verkeer van goederen binnen het grondgebied van de Europese Unie, onder de voorwaarden die in het Verdrag betreffende de werking van de Europese Unie voor het vrije verkeer van goederen van oorsprong uit derde landen zijn neergelegd;  
 
 b. behandelen de overeenkomstsluitende Andeslanden elkaar met betrekking tot het goederenverkeer niet minder gunstig dan dat zij de EU ingevolge deze overeenkomst behandelen, behoudens de bepalingen van de Andean Subregional Integration Agreement, hierna de „Overeenkomst van Cartagena” genoemd. Deze verplichting is niet onderworpen aan het bepaalde in titel XII (Geschillenbeslechting);  
 
@@ -1662,7 +1662,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen bevestigen opnieuw hun verbintenissen uit hoofde van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en leggen hierbij, met het oog op het bevorderen van de economische integratie, duurzame ontwikkeling en verdergaande integratie in de wereldeconomie en gezien de verschillen in ontwikkelingsniveau van de partijen, de noodzakelijke bepalingen vast voor de geleidelijke liberalisering van het recht van vestiging en de handel in diensten en voor samenwerking op het gebied van elektronische handel.   
+1.  De partijen bevestigen opnieuw hun verbintenissen uit hoofde van de WTO-overeenkomst en leggen hierbij, met het oog op het bevorderen van de economische integratie, duurzame ontwikkeling en verdergaande integratie in de wereldeconomie en gezien de verschillen in ontwikkelingsniveau van de partijen, de noodzakelijke bepalingen vast voor de geleidelijke liberalisering van het recht van vestiging en de handel in diensten en voor samenwerking op het gebied van elektronische handel.   
 2.  Niets in deze titel wordt uitgelegd als een verplichting voor een partij tot het privatiseren van overheidsondernemingen of het stellen van eisen met betrekking tot overheidsopdrachten.   
 3.  De bepalingen van deze titel zijn niet van toepassing op subsidies die door een partij worden verleend<sup> 15) Voor de toepassing van dit lid worden ook door de overheid gesteunde leningen, garanties en verzekeringen als subsidie beschouwd. </sup>.   
 4.  Deze titel is niet van toepassing op diensten verleend in het kader van de uitoefening van overheidsgezag.   
@@ -1999,7 +1999,7 @@ Voor elke sector waarvoor overeenkomstig hoofdstuk 2 (Vestiging) of 3 (Grensover
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de [GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van dienstverleners op contractbasis.   
+1.  De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de GATS aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van dienstverleners op contractbasis.   
 2.  Colombia en de EU staan toe dat dienstverleners op contractbasis van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX (Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken): 
 
 a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);  
@@ -2100,7 +2100,7 @@ h. andere discriminatoire beperkingen, zoals op het aantal natuurlijke personen 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de [GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van beoefenaars van een vrij beroep.   
+1.  De partijen herbevestigen hun respectieve rechten en verplichtingen ingevolge de door hen krachtens de GATS aangegane verbintenissen ten aanzien van de toegang en het tijdelijke verblijf van beoefenaars van een vrij beroep.   
 2.  Colombia en de EU staan toe dat beoefenaars van een vrij beroep van de EU respectievelijk Colombia door middel van de aanwezigheid van natuurlijke personen de volgende diensten verlenen op hun grondgebied, behoudens de voorwaarden die zijn neergelegd in lid 4 en aanhangsel 2 van bijlage IX („Voorbehouden betreffende de tijdelijke aanwezigheid van natuurlijke personen voor zaken”): 
 
 a. rechtskundig advies met betrekking tot internationaal publiekrecht en buitenlands recht (in het geval van de EU wordt het EU-recht niet beschouwd als internationaal publiekrecht of buitenlands recht);  
@@ -2202,7 +2202,7 @@ Treedt in werking op een nader te bepalen tijdstip
 2.  De partijen moedigen de desbetreffende beroepsorganisaties op hun respectieve grondgebied aan gezamenlijk aanbevelingen over wederzijdse erkenning op te stellen en aan het Handelscomité voor te leggen, teneinde ervoor te zorgen dat investeerders en dienstverleners volledig of gedeeltelijk voldoen aan de door elke partij toegepaste criteria voor het verlenen van vergunningen aan en voor de werkzaamheden en certificering van investeerders en dienstverleners, in het bijzonder voor beoefenaars van vrije beroepen.   
 3.  Wanneer het Handelscomité een aanbeveling als bedoeld in lid 2 ontvangt, onderzoekt het binnen een redelijke termijn of deze aanbeveling in overeenstemming is met deze overeenkomst.   
 4.  Wanneer het Handelscomité overeenkomstig lid 3 vaststelt dat bedoelde aanbeveling in overeenstemming met deze overeenkomst is, en de desbetreffende regelingen van de partijen voldoende met elkaar overeenkomen, onderhandelen zij via hun bevoegde instanties over een overeenkomst inzake wederzijdse erkenning van eisen, kwalificaties, vergunningen en andere regelingen, teneinde deze aanbeveling ten uitvoer te leggen.   
-5.  Ingevolge lid 4 bereikte overeenkomsten zijn in overeenstemming met de toepasselijke bepalingen van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), in het bijzonder [artikel VII van de GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).  
+5.  Ingevolge lid 4 bereikte overeenkomsten zijn in overeenstemming met de toepasselijke bepalingen van de WTO-overeenkomst, in het bijzonder artikel VII van de GATS.  
 
 ### Artikel  130  
 
@@ -2226,10 +2226,10 @@ Treedt in werking op een nader te bepalen tijdstip
 1.  In sectoren waarvoor specifieke verbintenissen worden aangegaan, draagt elke partij er zorg voor dat alle maatregelen van algemene strekking die onder het toepassingsgebied van deze titel vallen, op redelijke, objectieve en onpartijdige wijze worden toegepast.   
 2.  Indien voor de verlening van een dienst of een vestiging waarvoor een specifieke verbintenis is aangegaan een vergunning vereist is, delen de bevoegde instanties van een partij de aanvrager binnen een redelijke termijn na indiening van de volgens de interne wet- en regelgeving als ingediend beschouwde aanvraag mede welk besluit zij ten aanzien van die aanvraag hebben genomen. De bevoegde instanties van de partij verstrekken de aanvrager, op diens verzoek, onverwijld informatie over de stand van zijn aanvraag.   
 3.  Elke partij houdt gerechtelijke, scheidsrechterlijke of administratieve tribunalen of procedures in stand of voert deze in, waarmee op verzoek van een betroffen investeerder of dienstverlener administratieve besluiten met betrekking tot de vestiging, de grensoverschrijdende dienstverlening of de tijdelijke aanwezigheid van natuurlijke personen voor zaken terstond kunnen worden getoetst en, indien gerechtvaardigd, passende herstelmaatregelen kunnen worden genomen. Wanneer deze procedures niet onafhankelijk zijn van de instantie die bevoegd is het betrokken administratieve besluit te nemen, zien de partijen erop toe dat de procedures de facto in een objectief en onpartijdig onderzoek voorzien.   
-4.  Dit artikel wordt na het vereiste overleg tussen de partijen zo nodig gewijzigd om verbintenissen die voortvloeien uit eventuele onderhandelingen krachtens [lid 4 van artikel VI van de GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), of uit soortgelijke onderhandelingen in het kader van andere multilaterale fora waaraan de partijen deelnemen, in deze titel te integreren zodra die verbintenissen van kracht worden.   
-5.  In afwachting van het resultaat van onderhandelingen krachtens [lid 4 van artikel VI van de GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), onthouden de partijen zich van het toepassen van vergunnings- en kwalificatievereisten, procedures en technische normen die afbreuk doen aan hun specifieke verbintenissen of deze ongedaan maken op een wijze die: 
+4.  Dit artikel wordt na het vereiste overleg tussen de partijen zo nodig gewijzigd om verbintenissen die voortvloeien uit eventuele onderhandelingen krachtens lid 4 van artikel VI van de GATS, of uit soortgelijke onderhandelingen in het kader van andere multilaterale fora waaraan de partijen deelnemen, in deze titel te integreren zodra die verbintenissen van kracht worden.   
+5.  In afwachting van het resultaat van onderhandelingen krachtens lid 4 van artikel VI van de GATS, onthouden de partijen zich van het toepassen van vergunnings- en kwalificatievereisten, procedures en technische normen die afbreuk doen aan hun specifieke verbintenissen of deze ongedaan maken op een wijze die: 
 
-a. niet beantwoordt aan de criteria van [artikel VI, lid 4, onder a), b) en c), van de GATS](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), en  
+a. niet beantwoordt aan de criteria van artikel VI, lid 4, onder a), b) en c), van de GATS, en  
 
 b. in redelijkheid niet viel te verwachten op het moment dat de specifieke verbintenissen werden aangegaan.     
 6.  Om vast te stellen of een partij heeft gehandeld conform de verplichtingen die voor haar uit lid 5 voortvloeien, wordt mede gekeken naar de internationale normen van relevante internationale organisaties<sup> 40) Onder relevante internationale organisaties worden verstaan internationale organen waarvan de relevante organen van de partijen lid kunnen worden. </sup> die door die partij zijn toegepast.  
@@ -3405,10 +3405,10 @@ b. het bereiken van een toereikende en doeltreffende bescherming en handhaving v
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen herbevestigen de rechten en verplichtingen die voortvloeien uit de [WTO-overeenkomst inzake de handelsaspecten van de intellectuele eigendom](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „TRIPs-overeenkomst” genoemd, andere multilaterale overeenkomsten die betrekking hebben op de intellectuele eigendom en overeenkomsten die worden toegepast onder auspiciën van de Wereldorganisatie voor intellectuele eigendom, hierna de „WIPO” genoemd, waarbij de partijen partij zijn.   
-2.  De bepalingen van deze titel vormen een aanvulling op en specificatie van de rechten en verplichtingen van de partijen uit hoofde van de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en andere multilaterale overeenkomsten met betrekking tot de intellectuele eigendom waarbij de partijen partij zijn; dientengevolge zijn de bepalingen van deze titel niet tegenstrijdig met of doen zij geen afbreuk aan de bepalingen van die multilaterale overeenkomsten.   
+1.  De partijen herbevestigen de rechten en verplichtingen die voortvloeien uit de WTO-overeenkomst inzake de handelsaspecten van de intellectuele eigendom, hierna de „TRIPs-overeenkomst” genoemd, andere multilaterale overeenkomsten die betrekking hebben op de intellectuele eigendom en overeenkomsten die worden toegepast onder auspiciën van de Wereldorganisatie voor intellectuele eigendom, hierna de „WIPO” genoemd, waarbij de partijen partij zijn.   
+2.  De bepalingen van deze titel vormen een aanvulling op en specificatie van de rechten en verplichtingen van de partijen uit hoofde van de TRIPs-overeenkomst en andere multilaterale overeenkomsten met betrekking tot de intellectuele eigendom waarbij de partijen partij zijn; dientengevolge zijn de bepalingen van deze titel niet tegenstrijdig met of doen zij geen afbreuk aan de bepalingen van die multilaterale overeenkomsten.   
 3.  De partijen erkennen de noodzaak van een evenwicht tussen de rechten van de houders van intellectuele eigendom en het algemeen belang, met name ten aanzien van onderwijs, cultuur, onderzoek, volksgezondheid, voedselzekerheid, milieu, toegang tot informatie en technologieoverdracht.   
-4.  De partijen erkennen en herbevestigen de rechten en verplichtingen die voortvloeien uit het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) van 5 juni 1992, en ondersteunen en stimuleren inspanningen om ervoor te zorgen dat de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en dit verdrag elkaar wederzijds ondersteunen.   
+4.  De partijen erkennen en herbevestigen de rechten en verplichtingen die voortvloeien uit het Verdrag inzake biologische diversiteit van 5 juni 1992, en ondersteunen en stimuleren inspanningen om ervoor te zorgen dat de TRIPs-overeenkomst en dit verdrag elkaar wederzijds ondersteunen.   
 5.  Voor de toepassing van deze overeenkomst behoren tot de intellectuele-eigendomsrechten: 
 
 a. auteursrechten, met inbegrip van auteursrechten op computerprogramma’s en databanken;  
@@ -3430,7 +3430,7 @@ h. geografische aanduidingen;
 i. kwekersrechten;  
 
 j. bescherming van niet openbaar gemaakte informatie.     
-6.  Voor de toepassing van deze overeenkomst omvat de bescherming van intellectuele eigendom ook de bescherming tegen oneerlijke concurrentie zoals bedoeld in [artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) (zoals herzien door de Akte van Stockholm 1967), hierna „het Verdrag van Parijs” genoemd.  
+6.  Voor de toepassing van deze overeenkomst omvat de bescherming van intellectuele eigendom ook de bescherming tegen oneerlijke concurrentie zoals bedoeld in artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom (zoals herzien door de Akte van Stockholm 1967), hierna „het Verdrag van Parijs” genoemd.  
 
 ### Artikel  197  
 
@@ -3442,7 +3442,7 @@ Treedt in werking op een nader te bepalen tijdstip
 2.  De partijen erkennen het belang van de Verklaring van de vierde ministeriële conferentie in Doha, en met name de Verklaring van Doha inzake de TRIPs-overeenkomst en de volksgezondheid, die op 14 november 2001 door de ministeriële conferentie van de WTO werd aangenomen, alsmede de latere ontwikkelingen ter zake. In die zin waarborgen de partijen bij de interpretatie en tenuitvoerlegging van de rechten en verplichtingen uit hoofde van deze titel, dat deze verklaring in acht wordt genomen.   
 3.  De partijen dragen bij aan de tenuitvoerlegging en de eerbiediging van het Besluit van de Algemene Raad van de WTO van 30 augustus 2003 over punt 6 van de Verklaring van Doha inzake de TRIPs-overeenkomst en de volksgezondheid, en van het Protocol tot wijziging van de TRIPs-overeenkomst, dat op 6 december 2005 in Genève werd vastgesteld.   
 4.  De partijen erkennen eveneens dat de tenuitvoerlegging van WHA-Resolutie 61.21 Mondiale strategie en actieplan inzake de volksgezondheid, innovatie en intellectuele eigendom, die op 24 mei 2008 door de Wereldgezondheidsvergadering werd aangenomen, moet worden bevorderd.   
-5.  Overeenkomstig de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) belet geen enkele bepaling uit deze titel een partij om maatregelen vast te stellen die nodig zijn ter voorkoming van misbruik van intellectuele-eigendomsrechten door houders van die rechten of ter voorkoming van praktijken die de handel onredelijk belemmeren of negatieve gevolgen hebben voor de internationale technologieoverdracht.   
+5.  Overeenkomstig de TRIPs-overeenkomst belet geen enkele bepaling uit deze titel een partij om maatregelen vast te stellen die nodig zijn ter voorkoming van misbruik van intellectuele-eigendomsrechten door houders van die rechten of ter voorkoming van praktijken die de handel onredelijk belemmeren of negatieve gevolgen hebben voor de internationale technologieoverdracht.   
 6.  De partijen erkennen dat technologieoverdracht bijdraagt aan het versterken van nationale capaciteiten, teneinde een deugdelijke en levensvatbare technologische basis tot stand te brengen.   
 7.  De partijen erkennen de impact van informatie- en communicatietechnologieën op het gebruik van werken van letterkunde en kunst, kunstuitvoeringen, fonogramproducties en uitzendingen en derhalve de noodzaak van een passende bescherming van auteursrechten en naburige rechten in de digitale omgeving.  
 
@@ -3452,7 +3452,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Elke partij behandelt de onderdanen van een andere partij niet minder gunstig dan haar eigen onderdanen met betrekking tot de bescherming<sup> 61) Voor de toepassing van de artikelen 198 en 199 omvat bescherming alle aangelegenheden die van invloed zijn op het bestaan, de verwerving, de reikwijdte, de instandhouding en de handhaving van intellectuele-eigendomsrechten, alsmede de specifiek in deze titel behandelde aangelegenheden die van invloed zijn op het gebruik van deze rechten. </sup> van intellectuele eigendom, onder voorbehoud van de uitzonderingen van de [artikelen 3](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en [5 van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md). 
+Elke partij behandelt de onderdanen van een andere partij niet minder gunstig dan haar eigen onderdanen met betrekking tot de bescherming<sup> 61) Voor de toepassing van de artikelen 198 en 199 omvat bescherming alle aangelegenheden die van invloed zijn op het bestaan, de verwerving, de reikwijdte, de instandhouding en de handhaving van intellectuele-eigendomsrechten, alsmede de specifiek in deze titel behandelde aangelegenheden die van invloed zijn op het gebruik van deze rechten. </sup> van intellectuele eigendom, onder voorbehoud van de uitzonderingen van de artikelen 3 en 5 van de TRIPs-overeenkomst. 
 
 ### Artikel  199  
 
@@ -3460,7 +3460,7 @@ Elke partij behandelt de onderdanen van een andere partij niet minder gunstig da
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Met betrekking tot de bescherming van de intellectuele eigendom wordt elk voordeel, elke gunst, elk voorrecht of elke vrijstelling die of dat een partij verleent aan de onderdanen van een ander land terstond en onvoorwaardelijk verleend aan de onderdanen van de andere partijen, onder voorbehoud van de uitzonderingen van de [artikelen 4](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en [5 van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md). 
+Met betrekking tot de bescherming van de intellectuele eigendom wordt elk voordeel, elke gunst, elk voorrecht of elke vrijstelling die of dat een partij verleent aan de onderdanen van een ander land terstond en onvoorwaardelijk verleend aan de onderdanen van de andere partijen, onder voorbehoud van de uitzonderingen van de artikelen 4 en 5 van de TRIPs-overeenkomst. 
 
 ### Artikel  200  
 
@@ -3468,7 +3468,7 @@ Met betrekking tot de bescherming van de intellectuele eigendom wordt elk voorde
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Het staat elke partij vrij om, behoudens het bepaalde in de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), haar eigen regeling voor de uitputting van intellectuele-eigendomsrechten vast te stellen. 
+Het staat elke partij vrij om, behoudens het bepaalde in de TRIPs-overeenkomst, haar eigen regeling voor de uitputting van intellectuele-eigendomsrechten vast te stellen. 
 
 ### HOOFDSTUK  2  
 
@@ -3479,12 +3479,12 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  201  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen erkennen het belang en de waarde van de biologische diversiteit en componenten daarvan, evenals van de daaraan verbonden traditionele kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen<sup> 62) Waar van toepassing omvatten autochtone en lokale gemeenschappen personen van Afrikaans-Amerikaanse afstamming. </sup>. De partijen herbevestigen bovendien hun soevereine rechten op hun natuurlijke hulpbronnen en erkennen de rechten en verplichtingen die door het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) zijn vastgesteld met betrekking tot de toegang tot genetische hulpbronnen, en met betrekking tot het eerlijk en billijk delen van de voordelen die voortvloeien uit het gebruik van deze genetische hulpbronnen.   
+1.  De partijen erkennen het belang en de waarde van de biologische diversiteit en componenten daarvan, evenals van de daaraan verbonden traditionele kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen<sup> 62) Waar van toepassing omvatten autochtone en lokale gemeenschappen personen van Afrikaans-Amerikaanse afstamming. </sup>. De partijen herbevestigen bovendien hun soevereine rechten op hun natuurlijke hulpbronnen en erkennen de rechten en verplichtingen die door het Verdrag inzake biologische diversiteit zijn vastgesteld met betrekking tot de toegang tot genetische hulpbronnen, en met betrekking tot het eerlijk en billijk delen van de voordelen die voortvloeien uit het gebruik van deze genetische hulpbronnen.   
 2.  De partijen erkennen de bijdrage van autochtone en lokale gemeenschappen in verleden, heden en toekomst aan het behoud en duurzame gebruik van biologische diversiteit en alle componenten daarvan en, in het algemeen, die van de traditionele kennis<sup> 63) Onverminderd de tenuitvoerlegging van dit hoofdstuk, erkennen de partijen dat het concept traditionele kennis wordt besproken op relevante internationale fora. </sup> van hun autochtone en lokale gemeenschappen aan de cultuur en economische en sociale ontwikkeling van naties.   
-3.  Behoudens hun interne wetgeving eerbiedigen en beschermen de partijen overeenkomstig [artikel 8, onder j), van het Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) de kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen, die de uitdrukking zijn van hun traditionele levenswijze en die van belang zijn voor het behouden en duurzaam benutten van biologische diversiteit, houden zij deze in stand, bevorderen zij de toepassing ervan op grotere schaal met de medewerking en goedkeuring van de bezitters van deze kennis, vernieuwingen en gebruiken en moedigen zij de eerlijke verdeling van de voordelen van het gebruik van deze kennis, vernieuwingen en gebruiken aan.   
-4.  Overeenkomstig [artikel 15, lid 7, van het Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) herbevestigen de partijen hun verplichting om maatregelen te nemen teneinde op een eerlijke en billijke manier de voordelen te delen die voortvloeien uit het gebruik van genetische hulpbronnen. De partijen erkennen eveneens dat de onderling overeengekomen voorwaarden verplichtingen kunnen omvatten met betrekking tot het delen van voordelen betreffende intellectuele-eigendomsrechten die voortvloeien uit het gebruik van genetische hulpbronnen en daarmee samenhangende traditionele kennis.   
+3.  Behoudens hun interne wetgeving eerbiedigen en beschermen de partijen overeenkomstig artikel 8, onder j), van het Verdrag inzake biologische diversiteit de kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen, die de uitdrukking zijn van hun traditionele levenswijze en die van belang zijn voor het behouden en duurzaam benutten van biologische diversiteit, houden zij deze in stand, bevorderen zij de toepassing ervan op grotere schaal met de medewerking en goedkeuring van de bezitters van deze kennis, vernieuwingen en gebruiken en moedigen zij de eerlijke verdeling van de voordelen van het gebruik van deze kennis, vernieuwingen en gebruiken aan.   
+4.  Overeenkomstig artikel 15, lid 7, van het Verdrag inzake biologische diversiteit herbevestigen de partijen hun verplichting om maatregelen te nemen teneinde op een eerlijke en billijke manier de voordelen te delen die voortvloeien uit het gebruik van genetische hulpbronnen. De partijen erkennen eveneens dat de onderling overeengekomen voorwaarden verplichtingen kunnen omvatten met betrekking tot het delen van voordelen betreffende intellectuele-eigendomsrechten die voortvloeien uit het gebruik van genetische hulpbronnen en daarmee samenhangende traditionele kennis.   
 5.  Colombia en de EU zullen samenwerken om de kwestie en het concept van misbruik van genetische hulpbronnen en de daarmee samenhangende traditionele kennis, innovaties en gebruiken verder te verduidelijken, teneinde waar nodig en in overeenstemming met de internationale en interne wetgeving maatregelen te vinden om deze kwestie aan te pakken.   
-6.  Behoudens hun interne wetgeving en het internationaal recht werken de partijen samen om ervoor te zorgen dat intellectuele-eigendomsrechten, wat genetische hulpbronnen en de daarmee samenhangende traditionele kennis van de autochtone en lokale gemeenschappen op hun respectieve grondgebieden betreft, bevorderlijk zijn voor en niet indruisen tegen hun rechten en verplichtingen krachtens het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md). De partijen herbevestigen hun rechten en verplichtingen krachtens [artikel 16, lid 3, van het Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) met betrekking tot landen die genetische hulpbronnen leveren, en treffen maatregelen om de toegang tot en de overdracht van technologie die gebruikmaakt van dergelijke hulpbronnen op onderling overeengekomen voorwaarden toe te staan. Deze bepaling is onverminderd de rechten en verplichtingen krachtens [artikel 31 van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) van toepassing.   
+6.  Behoudens hun interne wetgeving en het internationaal recht werken de partijen samen om ervoor te zorgen dat intellectuele-eigendomsrechten, wat genetische hulpbronnen en de daarmee samenhangende traditionele kennis van de autochtone en lokale gemeenschappen op hun respectieve grondgebieden betreft, bevorderlijk zijn voor en niet indruisen tegen hun rechten en verplichtingen krachtens het Verdrag inzake biologische diversiteit. De partijen herbevestigen hun rechten en verplichtingen krachtens artikel 16, lid 3, van het Verdrag inzake biologische diversiteit met betrekking tot landen die genetische hulpbronnen leveren, en treffen maatregelen om de toegang tot en de overdracht van technologie die gebruikmaakt van dergelijke hulpbronnen op onderling overeengekomen voorwaarden toe te staan. Deze bepaling is onverminderd de rechten en verplichtingen krachtens artikel 31 van de TRIPs-overeenkomst van toepassing.   
 7.  De partijen erkennen het nut om de openbaarmaking van de oorsprong of bron van genetische hulpbronnen en de daarmee samenhangende traditionele kennis in octrooiaanvragen voor te schrijven, en zijn van mening dat dit bijdraagt aan transparantie over het gebruik van genetische hulpbronnen en de daarmee samenhangende traditionele kennis.   
 8.  In overeenstemming met hun interne wetgeving zullen de partijen ervoor zorgen dat dergelijke voorschriften toepassing krijgen, teneinde naleving van de bepalingen tot regeling van de toegang tot genetische hulpbronnen en daarmee samenhangende traditionele kennis, innovaties en gebruiken te ondersteunen.   
 9.  De partijen zullen ernaar streven de uitwisseling van informatie over octrooiaanvragen en verleende octrooien met betrekking tot genetische hulpbronnen en daarmee samenhangende traditionele kennis te vergemakkelijken, zodat dergelijke informatie bij het inhoudelijke onderzoek, met name bij het bepalen van de stand van de techniek, in aanmerking kan worden genomen.   
@@ -3511,9 +3511,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen houden zich aan de rechten en verplichtingen die voortvloeien uit het [Verdrag van Parijs](../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) en de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).   
-2.  De Europese Uni en Colombia treden binnen tien jaar na de ondertekening van deze overeenkomst toe tot het [Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken](../../../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) dat op 27 juni 1989 in Madrid is aangenomen, hierna het „Protocol van Madrid” genoemd. Peru stelt, binnen redelijke grenzen, alles in het werk om toe te treden tot het Protocol van Madrid.   
-3.  De Europese Unie en Peru stellen, binnen redelijke grenzen, alles in het werk om te voldoen aan het [Verdrag inzake het merkenrecht](../../../../../../../../../../../../../verdrag/verdrag/inzake/het/merkenrecht/BWBV0001253/README.md) dat op 27 oktober 1994 in Genève werd aangenomen, hierna het „Verdrag inzake het merkenrecht” genoemd. Colombia stelt, binnen redelijke grenzen, alles in het werk om toe te treden tot het Verdrag inzake het merkenrecht.  
+1.  De partijen houden zich aan de rechten en verplichtingen die voortvloeien uit het Verdrag van Parijs en de TRIPs-overeenkomst.   
+2.  De Europese Uni en Colombia treden binnen tien jaar na de ondertekening van deze overeenkomst toe tot het Protocol bij de Schikking van Madrid betreffende de internationale inschrijving van merken dat op 27 juni 1989 in Madrid is aangenomen, hierna het „Protocol van Madrid” genoemd. Peru stelt, binnen redelijke grenzen, alles in het werk om toe te treden tot het Protocol van Madrid.   
+3.  De Europese Unie en Peru stellen, binnen redelijke grenzen, alles in het werk om te voldoen aan het Verdrag inzake het merkenrecht dat op 27 oktober 1994 in Genève werd aangenomen, hierna het „Verdrag inzake het merkenrecht” genoemd. Colombia stelt, binnen redelijke grenzen, alles in het werk om toe te treden tot het Verdrag inzake het merkenrecht.  
 
 ### Artikel  203  
 
@@ -3529,7 +3529,7 @@ Elk teken, of elke combinatie van tekens, waardoor goederen of diensten van de e
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen gebruiken de classificatie die is vastgesteld in de [Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken](../../../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) van 15 juni 1957, en de van kracht zijnde wijzigingen daarop, om de goederen en diensten waarop de handelsmerken van toepassing zijn, in te delen.   
+1.  De partijen gebruiken de classificatie die is vastgesteld in de Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken van 15 juni 1957, en de van kracht zijnde wijzigingen daarop, om de goederen en diensten waarop de handelsmerken van toepassing zijn, in te delen.   
 2.  Elke partij<sup> 64) Voor de EU gelden de verplichtingen in dit lid voor de Europese Unie alleen met betrekking tot haar Gemeenschapsmerk. </sup> voorziet in een systeem voor de registratie van handelsmerken waarin elk definitief besluit van het desbetreffende merkenorgaan met redenen wordt omkleed en schriftelijk wordt opgenomen. Wanneer registratie van een handelsmerk wordt geweigerd, worden de redenen hiervoor schriftelijk medegedeeld aan de aanvrager, die de gelegenheid krijgt tegen deze weigering bezwaar te maken en bij een rechtbank tegen het definitieve besluit in beroep te gaan. Elke partij voorziet in de mogelijkheid om zich tegen merkaanvragen te verzetten. Een dergelijke verzetprocedure is contradictoir. Elke partij voorziet in een openbaar toegankelijke, elektronische gegevensbank van merkaanvragen en merkregistraties.  
 
 ### Artikel  205  
@@ -3538,7 +3538,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen werken samen met het oog op een effectieve bescherming van bekende handelsmerken, zoals bedoeld in [artikel 6 bis van het Verdrag van Parijs](../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) en [artikel 16, leden 2 en 3, van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md). 
+De partijen werken samen met het oog op een effectieve bescherming van bekende handelsmerken, zoals bedoeld in artikel 6 bis van het Verdrag van Parijs en artikel 16, leden 2 en 3, van de TRIPs-overeenkomst. 
 
 ### Artikel  206  
 
@@ -3668,7 +3668,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De partijen beschermen de auteursrechten voor werken van letterkunde en kunst zo doeltreffend en uniform mogelijk. De partijen beschermen eveneens de rechten van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties, met betrekking tot respectievelijk hun uitvoeringen, fonogrammen en uitzendingen.   
-2.  De partijen leven de rechten en verplichtingen na die voortvloeien uit de [Berner Conventie voor de bescherming van werken van letterkunde en kunst](../../../../../../../../../../../../../verdrag/berner/conventie/voor/de/bescherming/van/werken/van/letterkunde/en/kunst/etc/BWBV0003977/README.md) van 9 september 1886, hierna „de Berner Conventie” genoemd, het [Verdrag van Rome inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties](../../../../../../../../../../../../../verdrag/international/convention/for/the/protection/of/performers/producers/of/etc/BWBV0004329/README.md) van 26 oktober 1961, hierna het „Verdrag van Rome” genoemd, het [WIPO-verdrag inzake het auteursrecht](../../../../../../../../../../../../../verdrag/wipo/copyright/treaty/(wct)/(1996)/BWBV0004073/README.md) van 20 december 1996, hierna het „WCT” genoemd, en het [WIPO-verdrag inzake uitvoeringen en fonogrammen](../../../../../../../../../../../../../verdrag/wipo/performances/and/phonograms/treaty/(wppt)/(1996)/BWBV0004061/README.md), ook van 20 december 1996, hierna het „WPPT” genoemd.  
+2.  De partijen leven de rechten en verplichtingen na die voortvloeien uit de Berner Conventie voor de bescherming van werken van letterkunde en kunst van 9 september 1886, hierna „de Berner Conventie” genoemd, het Verdrag van Rome inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties van 26 oktober 1961, hierna het „Verdrag van Rome” genoemd, het WIPO-verdrag inzake het auteursrecht van 20 december 1996, hierna het „WCT” genoemd, en het WIPO-verdrag inzake uitvoeringen en fonogrammen, ook van 20 december 1996, hierna het „WPPT” genoemd.  
 
 ### Artikel  216  
 
@@ -3696,7 +3696,7 @@ De partijen erkennen het belang van maatschappijen voor collectief beheer voor a
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het auteursrecht op een werk van letterkunde of kunst in de zin van [artikel 2 van de Berner Conventie](../../../../../../../../../../../../../verdrag/berner/conventie/voor/de/bescherming/van/werken/van/letterkunde/en/kunst/etc/BWBV0003977/README.md) geldt gedurende het leven van de auteur en tot zeventig jaar na zijn dood.   
+1.  Het auteursrecht op een werk van letterkunde of kunst in de zin van artikel 2 van de Berner Conventie geldt gedurende het leven van de auteur en tot zeventig jaar na zijn dood.   
 2.  Bij gezamenlijk auteurschap wordt de in lid 1 bedoelde beschermingsduur berekend vanaf de dood van de laatst levende auteur.   
 3.  Bij werken die anoniem of onder een pseudoniem tot stand komen, verstrijkt de krachtens deze overeenkomst toegekende beschermingsduur zeventig jaar nadat het werk op geoorloofde wijze voor het publiek toegankelijk is gemaakt. Wanneer het door de auteur aangenomen pseudoniem echter geen twijfel laat aan zijn identiteit, geldt de in lid 1 vastgestelde beschermingsduur. Indien de auteur van een werk dat anoniem of onder pseudoniem tot stand is gekomen, gedurende bovenbedoelde periode zijn identiteit onthult, is de in lid 1 bepaalde beschermingsduur van toepassing. De partijen zijn niet verplicht om een anoniem of onder pseudoniem tot stand gekomen werk te beschermen wanneer redelijkerwijs kan worden aangenomen dat de auteur ervan al zeventig jaar dood is.   
 4.  Wanneer de beschermingsduur voor een werk, ander dan een fotografisch werk of werk van toegepaste kunst, op andere grondslag wordt berekend dan het leven van een natuurlijke persoon, is deze duur niet korter dan zeventig jaar na het einde van het kalenderjaar van toegestane publicatie, of, bij gebreke van zodanige toegestane publicatie binnen ten minste vijftig jaar na de totstandkoming van het werk, zeventig jaar na het eind van het kalenderjaar van de totstandkoming.   
@@ -3749,7 +3749,7 @@ d. het openbaar maken via de kabel of draadloze transmissie, op zodanige manier 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen leven het bepaalde in [artikel 11 van het WCT](../../../../../../../../../../../../../verdrag/wipo/copyright/treaty/(wct)/(1996)/BWBV0004073/README.md) en in [artikel 18 van het WPPT](../../../../../../../../../../../../../verdrag/wipo/performances/and/phonograms/treaty/(wppt)/(1996)/BWBV0004061/README.md) na. 
+De partijen leven het bepaalde in artikel 11 van het WCT en in artikel 18 van het WPPT na. 
 
 ### Artikel  222  
 
@@ -3757,7 +3757,7 @@ De partijen leven het bepaalde in [artikel 11 van het WCT](../../../../../../../
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen leven het bepaalde in [artikel 12 van het WCT](../../../../../../../../../../../../../verdrag/wipo/copyright/treaty/(wct)/(1996)/BWBV0004073/README.md) en in [artikel 19 van het WPPT](../../../../../../../../../../../../../verdrag/wipo/performances/and/phonograms/treaty/(wppt)/(1996)/BWBV0004061/README.md) na. 
+De partijen leven het bepaalde in artikel 12 van het WCT en in artikel 19 van het WPPT na. 
 
 ### Artikel  223  
 
@@ -3765,7 +3765,7 @@ De partijen leven het bepaalde in [artikel 12 van het WCT](../../../../../../../
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Onverminderd [artikel 14 ter, onder 2), van de Berner Conventie](../../../../../../../../../../../../../verdrag/berner/conventie/voor/de/bescherming/van/werken/van/letterkunde/en/kunst/etc/BWBV0003977/README.md) geeft elke partij de auteur van een kunstwerk, en bij diens overlijden diens rechtsopvolgers, een onvervreemdbaar en niet voor afstand vatbaar recht op royalty’s op basis van de verkoopprijs die is verkregen voor de wederverkoop van het werk na de eerste overdracht van het werk door de auteur.   
+1.  Onverminderd artikel 14 ter, onder 2), van de Berner Conventie geeft elke partij de auteur van een kunstwerk, en bij diens overlijden diens rechtsopvolgers, een onvervreemdbaar en niet voor afstand vatbaar recht op royalty’s op basis van de verkoopprijs die is verkregen voor de wederverkoop van het werk na de eerste overdracht van het werk door de auteur.   
 2.  Het in lid 1 bedoelde recht geldt overeenkomstig de interne wetgeving voor elke wederverkoop door middel van veilingen of via kunsthandelaren, zoals veilinglokalen, kunstgalerijen of andere kunsthandelaren.  
 
 ### AFDELING  4  
@@ -3836,8 +3836,8 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  230  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen houden zich aan de [artikelen 2 tot en met 9 van het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](../../../../../../../../../../../../../verdrag/budapest/treaty/on/the/international/recognition/of/the/deposit/of/etc/BWBV0004052/README.md) van 28 april 1977, dat op 26 september 1980 is gewijzigd.   
-2.  De Europese Unie stelt, binnen redelijke grenzen, alles in het werk om te voldoen aan het [Verdrag inzake octrooirecht](../../../../../../../../../../../../../verdrag/verdrag/inzake/octrooirecht/BWBV0004818/README.md), dat op 1 juni 2000 in Genève is gesloten, hierna het „PLT” genoemd. De overeenkomstsluitende Andeslanden stellen, binnen redelijke grenzen, alles in het werk om tot het PLT toe te treden.   
+1.  De partijen houden zich aan de artikelen 2 tot en met 9 van het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening van 28 april 1977, dat op 26 september 1980 is gewijzigd.   
+2.  De Europese Unie stelt, binnen redelijke grenzen, alles in het werk om te voldoen aan het Verdrag inzake octrooirecht, dat op 1 juni 2000 in Genève is gesloten, hierna het „PLT” genoemd. De overeenkomstsluitende Andeslanden stellen, binnen redelijke grenzen, alles in het werk om tot het PLT toe te treden.   
 3.  Wanneer voor het in de handel brengen van een farmaceutisch product of chemisch product voor de landbouw<sup> 71) Voor de toepassing van deze titel wordt, voor de EU, onder chemisch product voor de landbouw verstaan werkzame stoffen en preparaten die, in de vorm waarin zij aan de gebruiker worden geleverd, een of meer werkzame stoffen bevatten en bestemd zijn om:   a. planten of plantaardige producten te beschermen tegen alle schadelijke organismen of de werking van dergelijke organismen te voorkomen, voor zover die stoffen of preparaten hierna niet anders worden gedefinieerd;   b. de levensprocessen van planten te beïnvloeden, voor zover het niet gaat om nutritieve stoffen (bijvoorbeeld groeiregulatoren);   c. plantaardige producten te bewaren, voor zover die stoffen of producten niet onder bijzondere bepalingen van de Raad of van de Commissie inzake bewaarmiddelen vallen;   d. ongewenste planten te vernietigen; of   e. delen van planten te vernietigen en ongewenste plantengroei te controleren of te voorkomen.   </sup> in een partij een vergunning van de ter zake bevoegde instanties vereist is, stelt elke partij alles in het werk om de desbetreffende aanvraag zo spoedig mogelijk te behandelen teneinde onredelijke vertragingen te voorkomen. De partijen werken samen en bieden elkaar bijstand om deze doelstelling te bereiken.   
 4.  Met betrekking tot onder een octrooi vallende farmaceutisch producten kan elke partij in overeenstemming met haar interne wetgeving een mechanisme beschikbaar stellen om de octrooihouder te compenseren voor onredelijke verkorting van het geldende octrooi als gevolg van de eerste vergunning voor het in de handel brengen van dat product in die partij. Een dergelijk mechanisme verleent alle exclusieve rechten van een octrooi behoudens dezelfde beperkingen en uitzonderingen die van toepassing waren op het oorspronkelijke octrooi.  
 
@@ -3850,7 +3850,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  231  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Elke partij beschermt niet openbaar gemaakte test- of andere gegevens met betrekking tot de veiligheid en doeltreffendheid van farmaceutische producten en chemische landbouwproducten<sup> 72) Voor Colombia en de EU omvat deze bescherming gegevensbescherming van biologische en biotechnologische producten. Voor Peru wordt de niet openbaar gemaakte informatie over dergelijke producten bij gebreke van specifieke wetgeving ter zake en overeenkomstig artikel 39, lid 2, van de TRIPs-overeenkomst beschermd tegen openbaarmaking en praktijken die in strijd zijn met een eerlijke handelsgebruiken. </sup> overeenkomstig [artikel 39 van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en haar interne wetgeving.   
+1.  Elke partij beschermt niet openbaar gemaakte test- of andere gegevens met betrekking tot de veiligheid en doeltreffendheid van farmaceutische producten en chemische landbouwproducten<sup> 72) Voor Colombia en de EU omvat deze bescherming gegevensbescherming van biologische en biotechnologische producten. Voor Peru wordt de niet openbaar gemaakte informatie over dergelijke producten bij gebreke van specifieke wetgeving ter zake en overeenkomstig artikel 39, lid 2, van de TRIPs-overeenkomst beschermd tegen openbaarmaking en praktijken die in strijd zijn met een eerlijke handelsgebruiken. </sup> overeenkomstig artikel 39 van de TRIPs-overeenkomst en haar interne wetgeving.   
 2.  In overeenstemming met lid 1 en onverminderd lid 4 verleent een partij die als voorwaarde voor het toelaten op de markt van farmaceutische producten of chemische producten voor de landbouw die nieuwe chemische eenheden bevatten, de overlegging van niet openbaar gemaakte test- of andere gegevens betreffende veiligheid en doeltreffendheid vereist, voor farmaceutische producten een exclusiviteitsperiode van gewoonlijk vijf jaar vanaf de datum waarop de vergunning voor het in de handel brengen op het grondgebied van die partij werd verleend, en voor chemische producten voor de landbouw een exclusiviteitsperiode tien jaar; gedurende die periode mag een derde partij het product op basis van die gegevens niet in de handel brengen, tenzij deze bewijs overlegt van de expliciete toestemming van de houder van de beschermde informatie of zijn of haar eigen testgegevens.   
 3.  Voor de toepassing van dit artikel wordt onder een „nieuwe chemische eenheid” een eenheid verstaan die nog niet eerder uit hoofde van de interne wetgeving op het grondgebied van de partij is goedgekeurd voor gebruik in een farmaceutisch product of chemisch product voor de landbouw. Dienovereenkomstig hoeven de partijen dit artikel niet toe te passen op farmaceutische producten die een chemische eenheid bevatten die eerder op het grondgebied van de partij is goedgekeurd.   
 4.  De partijen kunnen het volgende reguleren: 
@@ -3870,7 +3870,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  232  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen werken samen om de bescherming van kwekersrechten op basis van het [Internationaal Verdrag tot bescherming van kweekproducten](../../../../../../../../../../../../../verdrag/internationaal/verdrag/tot/bescherming/van/kweekprodukten/van/2/december/etc/BWBV0002685/README.md), hierna het „UPOV-verdrag” genoemd, zoals herzien op 19 maart 1991, te bevorderen en te waarborgen, inclusief de facultatieve uitzondering op het kwekersrecht als bedoeld in [artikel 15, lid 2](../../../../../../../../../../../../../verdrag/internationaal/verdrag/tot/bescherming/van/kweekprodukten/van/2/december/etc/BWBV0002685/README.md), van dat verdrag. 
+De partijen werken samen om de bescherming van kwekersrechten op basis van het Internationaal Verdrag tot bescherming van kweekproducten, hierna het „UPOV-verdrag” genoemd, zoals herzien op 19 maart 1991, te bevorderen en te waarborgen, inclusief de facultatieve uitzondering op het kwekersrecht als bedoeld in artikel 15, lid 2, van dat verdrag. 
 
 ### AFDELING  8  
 
@@ -3881,7 +3881,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  233  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Elke partij verleent doeltreffende bescherming tegen oneerlijke concurrentie overeenkomstig [artikel 10 bis van het Verdrag van Parijs](../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md). Hiertoe wordt elke handeling met betrekking tot industriële eigendom tijdens handel die in strijd met eerlijke handelsgebruiken is, in overeenstemming met de interne wetgeving van elke partij geacht oneerlijk te zijn.   
+1.  Elke partij verleent doeltreffende bescherming tegen oneerlijke concurrentie overeenkomstig artikel 10 bis van het Verdrag van Parijs. Hiertoe wordt elke handeling met betrekking tot industriële eigendom tijdens handel die in strijd met eerlijke handelsgebruiken is, in overeenstemming met de interne wetgeving van elke partij geacht oneerlijk te zijn.   
 2.  In overeenstemming met de interne wetgeving van elke partij kan dit artikel onverminderd de krachtens deze titel verleende bescherming worden toegepast.  
 
 ### HOOFDSTUK  4  
@@ -3899,7 +3899,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  234  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Onverminderd de rechten en verplichtingen krachtens de [TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), en met name [deel III](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) hiervan, voorziet elke partij in maatregelen, procedures en rechtsmiddelen zoals vastgesteld in dit hoofdstuk, die noodzakelijk zijn om de handhaving van de intellectuele-eigendomsrechten, zoals gedefinieerd in artikel 196, lid 5, onder a) tot en met i), te waarborgen.   
+1.  Onverminderd de rechten en verplichtingen krachtens de TRIPs-overeenkomst, en met name deel III hiervan, voorziet elke partij in maatregelen, procedures en rechtsmiddelen zoals vastgesteld in dit hoofdstuk, die noodzakelijk zijn om de handhaving van de intellectuele-eigendomsrechten, zoals gedefinieerd in artikel 196, lid 5, onder a) tot en met i), te waarborgen.   
 2.  Het bepaalde in dit hoofdstuk bevat maatregelen, procedures en rechtsmiddelen die snel, doeltreffend en evenredig zijn en verdere inbreuken ontmoedigen, en wordt zodanig toegepast dat het scheppen van belemmeringen voor rechtmatig handelsverkeer wordt vermeden en dat wordt voorzien in waarborgen tegen misbruik van deze procedures.   
 3.  Procedures voor de handhaving van intellectuele-eigendomsrechten zijn eerlijk en billijk, niet onnodig ingewikkeld of duur en houden geen onredelijke termijnen of nodeloze vertragingen in.   
 4.  Dit hoofdstuk schept voor de partijen geen verplichting om een rechtsstelsel in te stellen voor de handhaving van intellectuele-eigendomsrechten naast dat voor de rechtshandhaving in het algemeen, noch schept het een verplichting met betrekking tot de verdeling van middelen voor de handhaving van intellectuele-eigendomsrechten en de rechtshandhaving in het algemeen.  
@@ -3921,7 +3921,7 @@ De artikelen 237, 239 en 240 zijn van toepassing met betrekking tot handelingen 
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Elke partij erkent dat de volgende personen en instanties gerechtigd zijn om toepassing van de in deze afdeling en in [deel III van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) bedoelde maatregelen te verzoeken, de daarin bedoelde procedures in te leiden en de daarin bedoelde rechtsmiddelen toe te passen: 
+Elke partij erkent dat de volgende personen en instanties gerechtigd zijn om toepassing van de in deze afdeling en in deel III van de TRIPs-overeenkomst bedoelde maatregelen te verzoeken, de daarin bedoelde procedures in te leiden en de daarin bedoelde rechtsmiddelen toe te passen: 
 
 a. houders van intellectuele-eigendomsrechten overeenkomstig haar toepasselijke wetgeving;  
 
@@ -4003,7 +4003,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Onverminderd de bepalingen van [artikel 44, lid 2, van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) zorgt elke partij ervoor dat, wanneer bij rechterlijke uitspraak een inbreuk op een intellectuele-eigendomsrecht is vastgesteld, de rechterlijke instanties een bevel tot staking van de inbreuk tegen de inbreukmaker kunnen uitvaardigen. Wanneer de interne wetgeving van een partij hierin voorziet, wordt bij niet-naleving van een rechterlijk bevel in voorkomend geval een dwangsom tot naleving van het bevel opgelegd<sup> 73) De partijen zorgen ervoor dat de maatregelen in dit lid ook kunnen worden toegepast jegens diegenen wier diensten zijn gebruikt om inbreuk te maken op intellectuele-eigendomsrechten voor zover ze bij dit proces betrokken waren. </sup>. 
+Onverminderd de bepalingen van artikel 44, lid 2, van de TRIPs-overeenkomst zorgt elke partij ervoor dat, wanneer bij rechterlijke uitspraak een inbreuk op een intellectuele-eigendomsrecht is vastgesteld, de rechterlijke instanties een bevel tot staking van de inbreuk tegen de inbreukmaker kunnen uitvaardigen. Wanneer de interne wetgeving van een partij hierin voorziet, wordt bij niet-naleving van een rechterlijk bevel in voorkomend geval een dwangsom tot naleving van het bevel opgelegd<sup> 73) De partijen zorgen ervoor dat de maatregelen in dit lid ook kunnen worden toegepast jegens diegenen wier diensten zijn gebruikt om inbreuk te maken op intellectuele-eigendomsrechten voor zover ze bij dit proces betrokken waren. </sup>. 
 
 ### Artikel  243  
 
@@ -4070,7 +4070,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 1.  Elke partij stelt, tenzij in dit artikel anders wordt bepaald, procedures<sup> 74) De partijen zijn het erover eens dat er geen verplichting bestaat om deze procedures toe te passen op de invoer van goederen die door de houder van het recht of met diens toestemming in een ander land in de handel zijn gebracht. </sup> vast om de houder van een recht, die geldige redenen heeft om te vermoeden dat goederen waarmee inbreuk wordt gemaakt op een auteursrecht of een recht op een handelsmerk<sup> 75) Voor de toepassing van deze bepaling wordt verstaan onder „goederen die inbreuk maken op een auteursrecht of recht op een handelsmerk”:   a.  „nagemaakte goederen”, namelijk:   i. goederen, met inbegrip van hun verpakking, waarop zonder toestemming een handelsmerk is aangebracht dat identiek is aan het naar behoren geregistreerde handelsmerk voor dergelijke goederen of daarvan niet wezenlijk kan worden onderscheiden, en dat zodoende inbreuk maakt op de rechten van de houder van het handelsmerk;   ii. beeldmerken (logo, etiket, sticker, prospectus, gebruiksaanwijzing of garantiebewijs), zelfs indien deze afzonderlijk worden aangeboden, waarvoor hetzelfde geldt als voor de onder i) bedoelde goederen;   iii. afzonderlijk aangeboden verpakkingen waarop merken van nagemaakte goederen zijn aangebracht en waarvoor hetzelfde geldt als voor de onder i) bedoelde goederen;     b. „onrechtmatig gereproduceerde goederen”, namelijk: goederen die kopieën zijn of bevatten, die zijn vervaardigd zonder toestemming van hetzij de houder van een al dan niet overeenkomstig de wetgeving van elke partij geregistreerd auteursrecht, naburig recht of modelrecht, ongeacht of het recht is geregistreerd in de nationale wetgeving.   </sup>, worden ingevoerd, uitgevoerd, of wederuitgevoerd, in staat te stellen bij de bevoegde instanties een schriftelijk verzoek in te dienen tot opschorting van het in het vrije verkeer brengen van deze goederen dan wel het vasthouden ervan door de douaneautoriteiten. De partijen evalueren de toepassing van deze maatregelen voor goederen waarvan wordt vermoed dat zij inbreuk maken op een geografische aanduiding.   
 2.  Elke partij ziet erop toe dat wanneer de douaneautoriteiten bij hun werkzaamheden voldoende redenen hebben om te vermoeden dat goederen inbreuk maken op een auteursrecht of recht op een handelsmerk, deze autoriteiten beroepshalve het vrijgeven van de goederen mogen opschorten of deze mogen vasthouden om de houder van het recht in staat te stellen krachtens de interne wetgeving van elke partij een juridische of administratieve procedure overeenkomstig lid 1 voor te stellen.   
-3.  Elk recht of elke verplichting, vastgesteld in [deel III, afdeling 4, van de TRIPs-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) met betrekking tot de importeur, is eveneens van toepassing op de exporteur of ontvanger van de goederen.  
+3.  Elk recht of elke verplichting, vastgesteld in deel III, afdeling 4, van de TRIPs-overeenkomst met betrekking tot de importeur, is eveneens van toepassing op de exporteur of ontvanger van de goederen.  
 
 ### AFDELING  3  
 
@@ -4223,7 +4223,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 – „mededingingswetgeving”:  
 
-a. voor de EU, de [artikelen 101](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), [102](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md) en [106 van het Verdrag betreffende de werking van de Europese Unie](../../../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), Verordening (EG) nr. 139/2004 van 20 januari 2004 betreffende de controle op concentraties van ondernemingen en de uitvoeringsverordeningen en wijzigingen daarvan;  
+a. voor de EU, de artikelen 101, 102 en 106 van het Verdrag betreffende de werking van de Europese Unie, Verordening (EG) nr. 139/2004 van 20 januari 2004 betreffende de controle op concentraties van ondernemingen en de uitvoeringsverordeningen en wijzigingen daarvan;  
 
 b. voor Colombia en Peru, de volgende wetgeving, indien van toepassing: 
 
@@ -4387,7 +4387,7 @@ d. de uitbanning van discriminatie met betrekking tot werk en beroep.
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De partijen erkennen de waarde van internationale governance en overeenkomsten op milieugebied als antwoord van de internationale gemeenschap op mondiale of regionale milieuproblemen en benadrukken de noodzaak de wederzijdse ondersteuning van handel en milieu te versterken. In deze context gaan de partijen waar nodig een dialoog aan en werken ze samen met betrekking tot handelsgerelateerde milieuvraagstukken van wederzijds belang.   
-2.  De partijen herbevestigen hun verbintenis om de volgende multilaterale milieuovereenkomsten daadwerkelijk in hun wetgeving en praktijk ten uitvoer te leggen: het [Protocol van Montreal betreffende stoffen die de ozonlaag afbreken](../../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md) van 16 september 1987, het [Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan](../../../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md) van 22 maart 1989, het [Verdrag van Stockholm inzake persistente organische verontreinigende stoffen](../../../../../../../../../../../../../verdrag/stockholm/convention/on/persistent/organic/pollutants/BWBV0001517/README.md) van 22 mei 2001, de [Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten](../../../../../../../../../../../../../verdrag/convention/on/international/trade/in/endangered/species/of/wild/fauna/and/etc/BWBV0003833/README.md) van 3 maart 1973, hierna „CITES” genoemd, het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md), het [Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/cartagena/protocol/on/biosafety/to/the/convention/on/biological/diversity/BWBV0001513/README.md) van 29 januari 2000, het [Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering](../../../../../../../../../../../../../verdrag/kyoto/protocol/BWBV0001538/README.md) van 11 december 1997, hierna „Kyotoprotocol” genoemd, en het [Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel](../../../../../../../../../../../../../verdrag/rotterdam/convention/on/the/prior/informed/consent/procedure/for/certain/etc/BWBV0001432/README.md) van 10 september 1998<sup> 80) Voor de toepassing van dit lid omvatten de genoemde multilaterale milieuovereenkomsten de protocollen, wijzigingen, bijlagen en aanpassingen die door de partijen zijn geratificeerd. </sup>.   
+2.  De partijen herbevestigen hun verbintenis om de volgende multilaterale milieuovereenkomsten daadwerkelijk in hun wetgeving en praktijk ten uitvoer te leggen: het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken van 16 september 1987, het Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan van 22 maart 1989, het Verdrag van Stockholm inzake persistente organische verontreinigende stoffen van 22 mei 2001, de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten van 3 maart 1973, hierna „CITES” genoemd, het Verdrag inzake biologische diversiteit, het Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit van 29 januari 2000, het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering van 11 december 1997, hierna „Kyotoprotocol” genoemd, en het Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel van 10 september 1998<sup> 80) Voor de toepassing van dit lid omvatten de genoemde multilaterale milieuovereenkomsten de protocollen, wijzigingen, bijlagen en aanpassingen die door de partijen zijn geratificeerd. </sup>.   
 3.  Het Handelscomité kan aanbevelen de toepassing van lid 2 op voorstel van het subcomité Handel en duurzame ontwikkeling uit te breiden naar andere multilaterale milieuovereenkomsten.   
 4.  Niets in deze overeenkomst beperkt het recht van een partij om maatregelen vast te stellen of te handhaven teneinde de in lid 2 genoemde overeenkomsten uit te voeren. Deze maatregelen worden niet zodanig toegepast dat zij een middel tot willekeurige of ongerechtvaardigde discriminatie tussen de partijen of een verkapte beperking van de handel vormen.  
 
@@ -4408,11 +4408,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De partijen erkennen het belang van het behoud en duurzame gebruik van biologische diversiteit en alle componenten daarvan als hoofdelement voor het bereiken van duurzame ontwikkeling. De partijen bevestigen hun verbintenis tot het behoud en duurzame gebruik van biologische diversiteit uit hoofde van het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) en andere relevante overeenkomsten waarbij de partijen partij zijn.   
+1.  De partijen erkennen het belang van het behoud en duurzame gebruik van biologische diversiteit en alle componenten daarvan als hoofdelement voor het bereiken van duurzame ontwikkeling. De partijen bevestigen hun verbintenis tot het behoud en duurzame gebruik van biologische diversiteit uit hoofde van het Verdrag inzake biologische diversiteit en andere relevante overeenkomsten waarbij de partijen partij zijn.   
 2.  De partijen zullen blijven werken aan het bereiken van hun internationale doelen, zijnde het vaststellen en handhaven van een uitgebreid, doeltreffend beheerd en ecologisch representatief nationaal en regionaal systeem van beschermde land- en zeegebieden in respectievelijk 2010 en 2012, als fundamentele hulpmiddelen voor het behoud en duurzame gebruik van biologische diversiteit. De partijen erkennen ook het belang van beschermde gebieden voor het welzijn van de populaties die zich in die gebieden en hun bufferzones hebben gevestigd.   
 3.  De partijen zullen streven naar gezamenlijke bevordering van de ontwikkeling van praktijken en programma’s die gericht zijn op het stimuleren van passende economische opbrengsten uit het behoud en duurzame gebruik van biologische diversiteit.   
-4.  De partijen erkennen hun verplichting uit hoofde van het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) om, met inachtneming van hun interne wetgeving, te zorgen voor de eerbiediging, bescherming en instandhouding van de kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen, waarop tradities zijn gebaseerd die van belang zijn voor het behoud en het duurzame gebruik van de biologische diversiteit en voor de bevordering van de toepassing daarvan op grotere schaal, met de voorafgaande geïnformeerde instemming van de dragers van die kennis, vernieuwingen en gebruiken, alsmede voor de stimulering van de eerlijke en billijke verdeling van de voordelen van de toepassing van die kennis, vernieuwingen en gebruiken.   
-5.  Indachtig [artikel 15 van het Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md) erkennen de partijen de soevereine rechten van staten over hun natuurlijke hulpbronnen, alsmede dat de bevoegdheid tot het bepalen van toegang tot genetische bronnen bij de nationale overheid ligt en door de interne wetgeving wordt geregeld. Voorts erkennen de partijen dat zij streven naar het scheppen van voorwaarden om de toegang tot genetische hulpbronnen voor vanuit milieuoogpunt verantwoord gebruik te vergemakkelijken, en trachten geen beperkingen op te leggen die in strijd zijn met de doelstellingen van het [Verdrag inzake biologische diversiteit](../../../../../../../../../../../../../verdrag/convention/on/biological/diversity/BWBV0001136/README.md), alsmede dat de toegang tot genetische hulpbronnen afhankelijk gesteld wordt van voorafgaande geïnformeerde toestemming van elke partij die dergelijke hulpbronnen verschaft, tenzij anders bepaald door die partij. De partijen nemen in overeenstemming met het Verdrag inzake biologische diversiteit passende maatregelen om de resultaten van onderzoek en ontwikkeling, en de voordelen die voortvloeien uit commercieel en ander gebruik van genetische hulpbronnen, op eerlijke en billijke wijze en op onderling overeengekomen voorwaarden te delen met de partij die dergelijke hulpbronnen verschaft.   
+4.  De partijen erkennen hun verplichting uit hoofde van het Verdrag inzake biologische diversiteit om, met inachtneming van hun interne wetgeving, te zorgen voor de eerbiediging, bescherming en instandhouding van de kennis, vernieuwingen en gebruiken van autochtone en lokale gemeenschappen, waarop tradities zijn gebaseerd die van belang zijn voor het behoud en het duurzame gebruik van de biologische diversiteit en voor de bevordering van de toepassing daarvan op grotere schaal, met de voorafgaande geïnformeerde instemming van de dragers van die kennis, vernieuwingen en gebruiken, alsmede voor de stimulering van de eerlijke en billijke verdeling van de voordelen van de toepassing van die kennis, vernieuwingen en gebruiken.   
+5.  Indachtig artikel 15 van het Verdrag inzake biologische diversiteit erkennen de partijen de soevereine rechten van staten over hun natuurlijke hulpbronnen, alsmede dat de bevoegdheid tot het bepalen van toegang tot genetische bronnen bij de nationale overheid ligt en door de interne wetgeving wordt geregeld. Voorts erkennen de partijen dat zij streven naar het scheppen van voorwaarden om de toegang tot genetische hulpbronnen voor vanuit milieuoogpunt verantwoord gebruik te vergemakkelijken, en trachten geen beperkingen op te leggen die in strijd zijn met de doelstellingen van het Verdrag inzake biologische diversiteit, alsmede dat de toegang tot genetische hulpbronnen afhankelijk gesteld wordt van voorafgaande geïnformeerde toestemming van elke partij die dergelijke hulpbronnen verschaft, tenzij anders bepaald door die partij. De partijen nemen in overeenstemming met het Verdrag inzake biologische diversiteit passende maatregelen om de resultaten van onderzoek en ontwikkeling, en de voordelen die voortvloeien uit commercieel en ander gebruik van genetische hulpbronnen, op eerlijke en billijke wijze en op onderling overeengekomen voorwaarden te delen met de partij die dergelijke hulpbronnen verschaft.   
 6.  De partijen streven naar het versterken en vergroten van de capaciteit van nationale instellingen die verantwoordelijk zijn voor het behoud en duurzame gebruik van biologische diversiteit, door middel van instrumenten voor het versterken van de capaciteit en door technische bijstand.  
 
 ### Artikel  273  
@@ -4423,7 +4423,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Teneinde het duurzame beheer van het bosbestand te bevorderen, erkennen de partijen het belang van praktijken die in overeenstemming met interne wetgeving en procedures de rechtshandhaving en governance op het gebied van de bosbouw verbeteren en de handel in legale en duurzame bosbouwproducten bevorderen; daartoe kunnen de volgende praktijken behoren: 
 
-a. doeltreffende tenuitvoerlegging en benutting van [CITES](../../../../../../../../../../../../../verdrag/convention/on/international/trade/in/endangered/species/of/wild/fauna/and/etc/BWBV0003833/README.md) met betrekking tot houtsoorten die als bedreigd kunnen worden aangemerkt, overeenkomstig de criteria en in het kader van die overeenkomst;  
+a. doeltreffende tenuitvoerlegging en benutting van CITES met betrekking tot houtsoorten die als bedreigd kunnen worden aangemerkt, overeenkomstig de criteria en in het kader van die overeenkomst;  
 
 b. ontwikkeling van systemen en mechanismen waarmee het mogelijk is de legale herkomst van houtproducten in de hele marketingketen te controleren;  
 
@@ -4454,7 +4454,7 @@ c. acties goed te keuren ter bestrijding van illegale, niet-aangegeven en niet-g
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Indachtig het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](../../../../../../../../../../../../../verdrag/klimaatverdrag/BWBV0001115/README.md), hierna het „UNFCCC” genoemd, en het [Kyotoprotocol](../../../../../../../../../../../../../verdrag/kyoto/protocol/BWBV0001538/README.md) erkennen de partijen dat klimaatverandering een zaak van gemeenschappelijke en wereldwijde zorg is, die een zo groot mogelijke samenwerking van alle landen vergt, alsmede hun deelname aan een doeltreffend en toereikend internationaal antwoord ten gunste van huidige en toekomstige generaties van de mensheid.   
+1.  Indachtig het Raamverdrag van de Verenigde Naties inzake klimaatverandering, hierna het „UNFCCC” genoemd, en het Kyotoprotocol erkennen de partijen dat klimaatverandering een zaak van gemeenschappelijke en wereldwijde zorg is, die een zo groot mogelijke samenwerking van alle landen vergt, alsmede hun deelname aan een doeltreffend en toereikend internationaal antwoord ten gunste van huidige en toekomstige generaties van de mensheid.   
 2.  De partijen zijn vastbesloten om hun inspanningen met betrekking tot klimaatverandering, die worden geleid door ontwikkelde landen, te vergroten, mede door het bevorderen van intern beleid en geschikte internationale initiatieven om de klimaatverandering te matigen en zich hieraan aan te passen, op basis van gelijkheid en overeenkomstig hun gezamenlijke doch onderscheiden verantwoordelijkheden en respectieve capaciteiten en hun sociale en economische situatie, en met name rekening houdend met de behoeften, omstandigheden en grote kwetsbaarheid voor de negatieve gevolgen van klimaatverandering voor de partijen die ontwikkelingslanden zijn.   
 3.  De partijen erkennen eveneens dat de gevolgen van klimaatverandering van invloed kunnen zijn op hun huidige en toekomstige ontwikkeling, en benadrukken daarom dat het belangrijk is om aanpassingsinspanningen te vergroten en te ondersteunen, met name in de partijen die ontwikkelingslanden zijn.   
 4.  Gezien de wereldwijde doelstelling van een snelle overgang naar koolstofarme economieën bevorderen de partijen het duurzame gebruik van natuurlijke hulpbronnen en bevorderen zij handels- en investeringsmaatregelen die de toegang tot en de verdeling en het gebruik van de beste beschikbare technologieën voor de productie en het gebruik van schone energie en voor de matiging van en de aanpassing aan de klimaatverandering bevorderen en vergemakkelijken.   
@@ -4592,7 +4592,7 @@ c. onderzoeken met betrekking tot niveaus en normen bij de arbeids- en milieubes
 
 d. activiteiten met betrekking tot de aanpassing aan en de matiging van de klimaatverandering, inclusief activiteiten in verband met de reductie van emissies ten gevolge van ontbossing en bosdegradatie („REDD”);  
 
-e. activiteiten met betrekking tot aspecten van de internationale regeling inzake klimaatverandering die voor de handel van belang zijn, inclusief handels- en investeringsactiviteiten om bij te dragen aan de verwezenlijking van de [UNFCCC](../../../../../../../../../../../../../verdrag/klimaatverdrag/BWBV0001115/README.md)-doelstellingen;  
+e. activiteiten met betrekking tot aspecten van de internationale regeling inzake klimaatverandering die voor de handel van belang zijn, inclusief handels- en investeringsactiviteiten om bij te dragen aan de verwezenlijking van de UNFCCC-doelstellingen;  
 
 f. activiteiten met betrekking tot het behoud en duurzame gebruik van biologische biodiversiteit, zoals behandeld in deze titel;  
 
@@ -4682,7 +4682,7 @@ b. een beslissing die is gebaseerd op bewijsmateriaal en ingediende stukken, of,
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Voor de toepassing van deze overeenkomst is een subsidie met betrekking tot de handel in goederen een maatregel die onder de definitie van [artikel 1, lid 1, van de overeenkomst inzake subsidies](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) valt en specifiek is in de zin van [artikel 2](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) van die overeenkomst.   
+1.  Voor de toepassing van deze overeenkomst is een subsidie met betrekking tot de handel in goederen een maatregel die onder de definitie van artikel 1, lid 1, van de overeenkomst inzake subsidies valt en specifiek is in de zin van artikel 2 van die overeenkomst.   
 2.  Elke partij zorgt voor transparantie op het gebied van subsidies met betrekking tot de handel in goederen. Vanaf twee jaar na de inwerkingtreding van deze overeenkomst dient elke partij om de twee jaar een verslag in bij de andere partijen over de rechtsgrond, de vorm, het bedrag of het budget en waar mogelijk ook de ontvanger van de door haar regering of een van haar overheidsorganen verleende subsidie. Dit verslag wordt geacht te zijn ingediend wanneer de relevante informatie beschikbaar is gesteld door de betreffende partij of namens haar op een openbaar toegankelijke website. Bij het uitwisselen van informatie houden de partijen rekening met de eisen van het beroeps- of zakengeheim.   
 3.  Het Handelscomité toetst regelmatig de door elke partij geboekte vooruitgang bij het ten uitvoer leggen van dit artikel.   
 4.  Dit artikel laat de rechten van de partijen onverlet om in overeenstemming met de desbetreffende WTO-bepalingen handelsmaatregelen toe te passen of een geschillenbeslechtingsprocedure in te leiden, of een andere passende maatregel te treffen.   
@@ -4752,7 +4752,7 @@ d. strijdig zijn met een meestbegunstigingsverplichting krachtens deze overeenko
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In geval van ernstige problemen of dreigende ernstige problemen op het gebied van de buitenlandse financiële positie of de betalingsbalans mag een partij beperkende maatregelen ten aanzien van de handel in goederen, de handel in diensten en de vestiging, inclusief betalingen of overdrachten met betrekking tot dergelijke transacties, vaststellen of handhaven.   
-2.  Beperkende maatregelen die krachtens lid 1 worden vastgesteld of gehandhaafd, zijn niet-discriminerend en van beperkte duur en gaan niet verder dan wat nodig is om de betalingsbalanspositie recht te zetten en zijn, naargelang van het geval, in overeenstemming met de voorwaarden van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en de statuten van het Internationaal Monetair Fonds<sup> 86) De in dit artikel bedoelde voorwaarden van de WTO-overeenkomst worden geacht van overeenkomstige toepassing te zijn op betalingsbalansmaatregelen inzake vestiging in andere sectoren dan de dienstensector. </sup>.   
+2.  Beperkende maatregelen die krachtens lid 1 worden vastgesteld of gehandhaafd, zijn niet-discriminerend en van beperkte duur en gaan niet verder dan wat nodig is om de betalingsbalanspositie recht te zetten en zijn, naargelang van het geval, in overeenstemming met de voorwaarden van de WTO-overeenkomst en de statuten van het Internationaal Monetair Fonds<sup> 86) De in dit artikel bedoelde voorwaarden van de WTO-overeenkomst worden geacht van overeenkomstige toepassing te zijn op betalingsbalansmaatregelen inzake vestiging in andere sectoren dan de dienstensector. </sup>.   
 3.  De partijen trachten het opleggen van beperkende maatregelen als bedoeld in lid 1 te vermijden. Wanneer een partij dergelijke maatregelen toch invoert of wijzigt, stelt zij de andere partijen onverwijld daarvan in kennis en legt zij hen zo spoedig mogelijk een tijdschema voor de opheffing van de maatregelen voor.   
 4.  In het Handelscomité vindt onverwijld overleg plaats. Tijdens dit overleg worden de betalingsbalanspositie van de partij die in het kader van dit artikel beperkende maatregelen vaststelt of handhaaft evenals de maatregelen zelf beoordeeld, waarbij onder meer rekening wordt gehouden met de volgende factoren: 
 
@@ -5011,7 +5011,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Arbitragepanels leggen de in artikel 299 bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, die zijn opgenomen in het [Verdrag van Wenen inzake het verdragenrecht](../../../../../../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md) van 23 mei 1969. De uitspraken van arbitragepanels kunnen de rechten en verplichtingen uit hoofde van de in artikel 299 bedoelde bepalingen niet verruimen of beperken. 
+Arbitragepanels leggen de in artikel 299 bedoelde bepalingen uit volgens de gebruikelijke regels voor de interpretatie van internationaal publiekrecht, die zijn opgenomen in het Verdrag van Wenen inzake het verdragenrecht van 23 mei 1969. De uitspraken van arbitragepanels kunnen de rechten en verplichtingen uit hoofde van de in artikel 299 bedoelde bepalingen niet verruimen of beperken. 
 
 ### Artikel  318  
 
@@ -5030,10 +5030,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De bepalingen in deze titel laten de rechten en verplichtingen van de partijen uit hoofde van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), met inbegrip van de inleiding van geschillenbeslechtingsprocedures, onverlet.   
-2.  Geschillen betreffende dezelfde maatregel die voortvloeien uit deze overeenkomst en uit hoofde van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), kunnen naar keuze van de klagende partij worden beslecht overeenkomstig deze titel of overeenkomstig het [WTO-memorandum van overeenstemming inzake de beslechting van geschillen](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna het „DSU” genoemd. Wanneer een partij echter ingevolge [artikel 6 van het DSU](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) om de instelling van een panel of ingevolge artikel 303 van deze overeenkomst om de instelling van een arbitragepanel heeft verzocht, mag zij geen andere procedure over dezelfde aangelegenheid in het andere forum inleiden, behalve wanneer het bevoegde orgaan in het gekozen forum om procedurele of bevoegdheidsredenen geen inhoudelijk besluit over de aangelegenheid heeft genomen.   
+1.  De bepalingen in deze titel laten de rechten en verplichtingen van de partijen uit hoofde van de WTO-overeenkomst, met inbegrip van de inleiding van geschillenbeslechtingsprocedures, onverlet.   
+2.  Geschillen betreffende dezelfde maatregel die voortvloeien uit deze overeenkomst en uit hoofde van de WTO-overeenkomst, kunnen naar keuze van de klagende partij worden beslecht overeenkomstig deze titel of overeenkomstig het WTO-memorandum van overeenstemming inzake de beslechting van geschillen, hierna het „DSU” genoemd. Wanneer een partij echter ingevolge artikel 6 van het DSU om de instelling van een panel of ingevolge artikel 303 van deze overeenkomst om de instelling van een arbitragepanel heeft verzocht, mag zij geen andere procedure over dezelfde aangelegenheid in het andere forum inleiden, behalve wanneer het bevoegde orgaan in het gekozen forum om procedurele of bevoegdheidsredenen geen inhoudelijk besluit over de aangelegenheid heeft genomen.   
 3.  De partijen zijn het erover eens dat twee of meer geschillen dezelfde aangelegenheid betreffen wanneer bij het geschil dezelfde partijen betrokken zijn en dit geschil dezelfde maatregel en dezelfde materiële schending betreft.   
-4.  Geen enkele bepaling in deze titel belet een partij om een opschorting van voordelen toe te passen die door het Orgaan voor geschillenbeslechting van de WTO is toegestaan. Er wordt geen beroep gedaan op de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) om een partij te beletten overeenkomstig deze titel voordelen op te schorten.  
+4.  Geen enkele bepaling in deze titel belet een partij om een opschorting van voordelen toe te passen die door het Orgaan voor geschillenbeslechting van de WTO is toegestaan. Er wordt geen beroep gedaan op de WTO-overeenkomst om een partij te beletten overeenkomstig deze titel voordelen op te schorten.  
 
 ### Artikel  320  
 
@@ -5188,11 +5188,11 @@ De secretaris-generaal van de Raad van de Europese Unie treedt op als depositari
 
 ### Artikel  333  
 
-####Wijzigingen van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md)
+####Wijzigingen van de WTO-overeenkomst
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-De partijen zijn het erover eens dat elke bepaling van de [WTO-overeenkomst](../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) die in deze overeenkomst is opgenomen, is opgenomen inclusief alle wijzigingen die op het tijdstip van toepassing van die bepaling in werking zijn getreden. 
+De partijen zijn het erover eens dat elke bepaling van de WTO-overeenkomst die in deze overeenkomst is opgenomen, is opgenomen inclusief alle wijzigingen die op het tijdstip van toepassing van die bepaling in werking zijn getreden. 
 
 ### Artikel  334  
 
@@ -5210,7 +5210,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-Deze overeenkomst staat geen voorbehouden in de zin van het [Verdrag van Wenen inzake het verdragenrecht](../../../../../../../../../../../../../verdrag/vienna/convention/of/the/law/of/treaties/BWBV0003441/README.md) toe. 
+Deze overeenkomst staat geen voorbehouden in de zin van het Verdrag van Wenen inzake het verdragenrecht toe. 
 
 ### Artikel  336  
 

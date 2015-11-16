@@ -115,9 +115,7 @@ b. de ontheffing (of machtiging) tijdig, dat wil zeggen uiterlijk op de dag van 
 2.  Een tegemoetkoming als bedoeld in artikel 2 wordt verminderd met 5% van de door de taxateur vastgestelde schade, met een minimum van € 250,00 per bedrijf per meldingsjaar.   
 3.  In bijzondere gevallen kan het bestuur besluiten de tegemoetkoming te bepalen op 100% van de door de taxateur, of de adviseur faunazaken, getaxeerde schade.   
 4.  Voor gewassen, teelten, overige producten, of bedrijfsmatig gehouden landbouwhuisdieren, welke door de plaats, het moment of de wijze van telen of houden, bijzonder kwetsbaar zijn voor schade veroorzaakt door diersoorten genoemd in artikel 4, eerste lid, onderdeel a en b van de wet, kan het bestuur een verhoogd eigen risico instellen.   
-5.  Tegemoetkomingen lager dan € 50,00 worden niet uitgekeerd.   
-6.  Het totale beschikbare bedrag voor het verlenen van tegemoetkomingen in schade veroorzaakt door beschermde inheemse ganzen in de periode van 1 april tot en met 30 september bedraagt maximaal € 2 miljoen.   
-7.  Indien in enig jaar het in lid 6 genoemde bedrag wordt overschreden, worden de te verlenen tegemoetkomingen in schade veroorzaakt door beschermde inheemse ganzen in die periode, naar evenredigheid verminderd.  
+5.  Tegemoetkomingen lager dan € 50,00 worden niet uitgekeerd.  
 
 ### §  5  
 

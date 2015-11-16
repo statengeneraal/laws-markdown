@@ -13,17 +13,7 @@ A.1 De vergunninghouder is verplicht de Kansspelautoriteit onmiddellijk te infor
 
 A.2 De vergunninghouder is verplicht het onder deze vergunning vergunde kansspel aan te bieden met inachtneming van: 
 
-* het deelnemersreglement SupportActie Loterij, versie SA2015.6955.001;  
-
-* het deelnemersreglement Grote Clubactie Loterij, versie GCA2015.6955.002;  
-
-* het deelnemersreglement Nationale Scoutingloterij, versie SN2015.4153.001;  
-
-* het deelnemersreglement Zonnebloem Loterij, versie ZON2015.1159.001;  
-
-* het deelnemersreglement KWF Seizoenloterij, versie KWF2015.7125.001;  
-
-* het deelnemersreglement Jantje Beton Loterij, versie JB2015.8084.001;  
+* Het deelnemersreglement SNL-Loterijen, versie 30 oktober 2015; 
 
 * het financieel reglement SNL, versie SNL2015.9423.001;  
 

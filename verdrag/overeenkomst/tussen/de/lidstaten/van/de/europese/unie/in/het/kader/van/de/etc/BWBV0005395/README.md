@@ -4,7 +4,7 @@
 
 ####Overeenkomst tussen de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de bescherming van in het belang van de Europese Unie uitgewisselde gerubriceerde informatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, in het kader van de raad bijeen, Overwegende hetgeen volgt: 
 
@@ -15,7 +15,7 @@ De vertegenwoordigers van de regeringen van de lidstaten van de Europese Unie, i
 3. De Partijen zijn zich ervan bewust dat de toegang tot en de uitwisseling van dergelijke gerubriceerde informatie passende beveiligingsmaatregelen vereisen voor de bescherming ervan,     Hebben overeenstemming bereikt omtrent de volgende bepalingen:    
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Deze overeenkomst beoogt het waarborgen van de bescherming, door de Partijen, van gerubriceerde informatie die: 
 
@@ -28,7 +28,7 @@ c. opgesteld is door de Partijen teneinde te worden verstrekt aan of uitgewissel
 d. door instellingen van de Europese Unie of door haar ingestelde agentschappen, organen of instanties van derde landen of internationale organisaties worden ontvangen en die worden verstrekt aan of uitgewisseld tussen de Partijen.   
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle informatie of materiaal, in enigerlei vorm, waarvan de openbaarmaking zonder machtiging de belangen van de Europese Unie of van een of meer van haar lidstaten in meerdere of mindere mate zou kunnen schaden en die een van de volgende EU-rubriceringen of een overeenkomstige rubricering, zoals aangegeven in de bijlage, draagt: 
 
@@ -41,14 +41,14 @@ In deze overeenkomst wordt onder „gerubriceerde informatie” verstaan: alle i
 − „RESTREINT UE/EU RESTRICTED”. Deze rubricering geldt voor informatie en materiaal waarvan de openbaarmaking zonder machtiging nadelig kan zijn voor de belangen van de Europese Unie of van één of meer van haar lidstaten.   
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De Partijen nemen in overeenstemming met hun respectieve nationale wet- en regelgeving alle passende maatregelen om ervoor te zorgen dat het uit hoofde van deze overeenkomst geboden beveiligingsniveau voor gerubriceerde informatie gelijkwaardig is aan de beveiliging die door de beveiligingsregelgeving van de Raad van de Europese Unie wordt geboden voor de bescherming van gerubriceerde EU-informatie welke een overeenkomstige rubricering draagt, zoals aangegeven in de bijlage.   
 2.  Geen enkele bepaling in deze overeenkomst doet afbreuk aan de nationale wet- en regelgeving van de Partijen inzake de toegang van het publiek tot documenten, de bescherming van persoonsinformatie of de bescherming van gerubriceerde informatie.   
 3.  De Partijen stellen de depositaris van deze overeenkomst in kennis van iedere wijziging van de rubriceringen in de bijlage. Artikel 11 is niet van toepassing op deze kennisgevingen.  
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Iedere Partij zorgt ervoor dat in het kader van deze overeenkomst verstrekte of uitgewisselde gerubriceerde informatie: 
 
@@ -60,7 +60,7 @@ c. niet aan een derde land of een internationale organisatie wordt vrijgegeven z
 2.  Iedere Partij leeft het beginsel van voorafgaande toestemming van de opsteller na in overeenstemming met haar grondwettelijke bepalingen en nationale wet- en regelgeving.  
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Iedere Partij zorgt ervoor dat toegang tot gerubriceerde informatie wordt verleend op basis van het beginsel „noodzaak van kennisname”.   
 2.  De Partijen garanderen dat toegang tot gerubriceerde informatie welke de rubricering „CONFIDENTIEL UE/EU CONFIDENTIAL” of hoger draagt, dan wel een overeenkomstige rubricering, zoals aangegeven in de bijlage, alleen wordt verleend aan personen die over een passende veiligheidsmachtiging beschikken of anderszins uit hoofde van hun functie naar behoren zijn gemachtigd in overeenstemming met de nationale wet- en regelgeving.   
@@ -70,61 +70,61 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Binnen de werkingssfeer van deze overeenkomst kan iedere Partij de door een andere Partij afgegeven veiligheidsmachtigingen voor personen en voor vestigingen erkennen.  
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 De Partijen zorgen ervoor dat alle gerubriceerde informatie die in het kader van deze overeenkomst binnen of tussen de Partijen wordt verzonden, uitgewisseld of overgedragen, adequaat beschermd wordt, overeenkomstig artikel 3, lid 1. 
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Iedere Partij zorgt ervoor dat passende maatregelen worden genomen voor de bescherming, als bedoeld in artikel 3, lid 1, van gerubriceerde informatie die door communicatie- en informatiesystemen wordt verwerkt, opgeslagen of verzonden. Die maatregelen moeten de vertrouwelijkheid, de integriteit, de beschikbaarheid, en, in voorkomend geval, de onweerlegbaarheid en de authenticiteit van de gerubriceerde informatie waarborgen en een passend niveau van verantwoording en traceerbaarheid garanderen wat betreft de handelingen in verband met die informatie. 
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Op verzoek verstrekken de Partijen elkaar relevante informatie over hun beveiligingswet- en regelgeving. 
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De Partijen nemen in overeenstemming met hun respectieve nationale wet- en regelgeving alle passende maatregelen om gevallen te onderzoeken waarin bekend is of een redelijk vermoeden bestaat om aan te nemen dat onder de overeenkomst vallende gerubriceerde informatie gecompromitteerd is of verloren is gegaan.   
 2.  Een Partij die een compromittering of verlies vaststelt, stelt de Partij die de opsteller ervan is, daarvan onmiddellijk via de passende kanalen in kennis, en stelt deze opsteller vervolgens in kennis van het uiteindelijke resultaat van het onderzoek en van de corrigerende maatregelen die zijn genomen om herhaling te voorkomen. Iedere andere betrokken Partij kan op verzoek bijstand bij het onderzoek verlenen.  
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Deze overeenkomst doet geen afbreuk aan bestaande overeenkomsten en regelingen inzake de bescherming en de uitwisseling van gerubriceerde informatie waarbij de Partijen partij zijn.   
 2.  Deze overeenkomst verhindert de Partijen niet andere overeenkomsten of regelingen inzake de bescherming en uitwisseling van de door hen opgestelde gerubriceerde informatie te sluiten, mits deze niet in strijd zijn met deze overeenkomst.  
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Deze overeenkomst kan worden gewijzigd op basis van schriftelijke onderlinge overeenstemming tussen de Partijen. Wijzigingen treden in werking na kennisgeving in overeenstemming met artikel 13, lid 2. 
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Geschillen tussen twee of meer Partijen in verband met de interpretatie of toepassing van deze overeenkomst worden beslecht door overleg tussen de betrokken Partijen. 
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De Partijen stellen de secretaris-generaal van de Raad van de Europese Unie in kennis van de voltooiing van de voor de inwerkingtreding van deze overeenkomst vereiste interne procedures.   
 2.  Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op die waarin de laatste Partij de secretaris-generaal van de Raad van de Europese Unie meedeelt dat de voor de inwerkingtreding vereiste interne procedures zijn voltooid.   
 3.  De secretaris-generaal van de Raad van de Europese Unie fungeert als depositaris van de overeenkomst, die wordt bekendgemaakt in het Publicatieblad van de Europese Unie.  
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Deze overeenkomst is opgesteld in één exemplaar in de Bulgaarse, Deense, Duitse, Engelse, Estse, Finse, Franse, Griekse, Hongaarse, Ierse, Italiaanse, Letse, Litouwse, Maltese, Nederlandse, Poolse, Portugese, Roemeense, Sloveense, Slowaakse, Spaanse, Tsjechische en Zweedse taal, zijnde alle drieëntwintig teksten gelijkelijk authentiek. 
 
-TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, deze overeenkomst hebben ondertekend. GEDAAN te Brussel, de vierde mei tweeduizend elf.  
+TEN BLIJKE WAARVAN de ondergetekende vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, deze overeenkomst hebben ondertekend. GEDAAN te Brussel, de vijfentwintigste mei tweeduizend elf.  
 
 ### Bijlage  
 
 ####Vergelijking van de beveiligingsrubriceringen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 |  *EU*   |  *TRES SECRET UE/EU TOP SECRET*   |  *SECRET UE/EU SECRET*   |  *CONFIDENTIEL UE/EU CONFIDENTIAL*   |  *RESTREINT UE/EU RESTRICTED*   |
 |:---|:---|:---|:---|:---|
