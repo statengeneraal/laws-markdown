@@ -1230,3 +1230,14 @@ Dit Protocol staat open voor ondertekening te Kingston van 18 januari tot en met
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun onderscheiden Regeringen, dit Protocol hebben ondertekend.GEDAAN te Kingston op 18 januari 1990 in één exemplaar in de Engelse, de Franse en de Spaanse taal, zijnde de drie teksten gelijkelijk authentiek.
 
+###Bijlage I 
+
+De tekst van de vertaling is niet beschikbaar.
+
+###Bijlage II 
+
+De tekst van de vertaling is niet beschikbaar.
+
+###Bijlage III 
+
+De tekst van de vertaling is niet beschikbaar.

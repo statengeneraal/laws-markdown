@@ -1319,7 +1319,7 @@ De termijn van verjaring vangt aan op de dag na die waarop het feit is gepleegd,
 
 2°. bij valsheid op de dag na die waarop gebruik is gemaakt van het voorwerp ten opzichte waarvan de valsheid gepleegd is;  
 
-3°. bij de misdrijven omschreven in de artikelen 240b, eerste lid, 247 tot en met 250, 273f en 284, voor zover gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt dan wel in de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden;  
+3°. bij de misdrijven omschreven in de artikelen 240b, eerste lid, 247 tot en met 250, 273f, 284 en 285c, voor zover gepleegd tegen een persoon die de leeftijd van achttien jaren nog niet heeft bereikt, de artikelen 300 tot en met 303, voor zover het feit oplevert genitale verminking van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt dan wel het misdrijf, omschreven in artikel 302, voor zover het feit oplevert gedwongen abortus of gedwongen sterilisatie van een persoon van het vrouwelijke geslacht die de leeftijd van achttien jaren nog niet heeft bereikt, op de dag na die waarop die persoon achttien jaren is geworden; 
 
 4°. bij de misdrijven omschreven in de artikelen 279 en 282, eerste en tweede lid op de dag na die van de bevrijding of de dood van hem tegen wie onmiddellijk het misdrijf gepleegd is;  
 
@@ -3791,6 +3791,10 @@ Hij die een ander door bedreiging met diefstal of afpersing van splijtstof, als 
 
 1.  Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, als schuldig aan belaging, gestraft met een gevangenisstraf van ten hoogste drie jaren of een geldboete van de vierde categorie.   
 2.  Vervolging vindt niet plaats dan op klacht van hem tegen wie het misdrijf is begaan.  
+
+### Artikel  285c  
+
+Hij die opzettelijk een persoon buiten of naar Nederland lokt met het oogmerk ten aanzien van die persoon een in artikel 284 omschreven misdrijf te plegen, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie. 
 
 ### Artikel  286  
 

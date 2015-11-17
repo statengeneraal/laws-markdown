@@ -779,7 +779,8 @@ b. de naleving van de rechten en vrijheden die zijn neergelegd in het EVRM en/of
 
 c. de naleving van het beginsel van non-refoulement overeenkomstig het Vluchtelingenverdrag;  
 
-d. het beschikbaar zijn van een systeem van daadwerkelijke rechtsmiddelen tegen schendingen van voornoemde rechten en vrijheden.    
+d. het beschikbaar zijn van een systeem van daadwerkelijke rechtsmiddelen tegen schendingen van voornoemde rechten en vrijheden.     
+3.  Met inachtneming van het eerste en het tweede lid zijn als veilige landen van herkomst als bedoeld in artikel 3.105ba, eerste lid, van het Besluit aangewezen de landen die zijn opgenomen in bijlage 13 bij deze regeling. 
 
 ### Artikel  3.37g 
 
@@ -932,13 +933,16 @@ Bij de indiening van de aanvraag, bedoeld in artikel 45a van de Wet, verklaart d
 
 1.  Met het toezicht op de naleving van de wettelijke voorschriften met betrekking tot vreemdelingen zijn belast: 
 
-a. de ambtenaren, bedoeld in artikel 142 van het Wetboek van Strafvordering, die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de Wet;  
+a. de ambtenaren van politie, bedoeld in artikel 2, onder b, van de Politiewet 2012, die tevens buitengewoon opsporingsambtenaar zijn als bedoeld in artikel 142 Wetboek van Strafvordering en die ingevolge een akte en proces-verbaal van beëdiging van de Minister van Veiligheid en Justitie zijn belast met opsporing van een of meer strafbare feiten ingevolge de Wet;  
 
-b. de ambtenaren van de Dienst Terugkeer en Vertrek die de functie hebben van senior medewerker behandelen en ontwikkelen of medewerker behandelen en ontwikkelen;  
+b. de ambtenaren, bedoeld onder a, die zijn belast met de opsporing van andere dan de in dat onderdeel bedoelde strafbare feiten; 
 
-c. de ambtenaren van de Dienst Vervoer en Ondersteuning die tevens zijn aangewezen als buitengewoon opsporingsambtenaar in de zin van artikel 2 van het Besluit buitengewoon opsporingsambtenaar Dienst Vervoer en Ondersteuning 2014.     
-2.  De ambtenaren, bedoeld in het eerste lid, onder b, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in de artikelen 50, en 52 van de Wet en de artikelen 4.23 en 4.45 van het Besluit.   
-3.  De ambtenaren, bedoeld in het eerste lid, onder c, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in artikel 50 en 106a, derde lid, van de Wet.  
+c. de ambtenaren van de Dienst Terugkeer en Vertrek die de functie hebben van senior medewerker behandelen en ontwikkelen of medewerker behandelen en ontwikkelen;  
+
+d. de ambtenaren van de Dienst Vervoer en Ondersteuning die tevens zijn aangewezen als buitengewoon opsporingsambtenaar in de zin van artikel 2 van het Besluit buitengewoon opsporingsambtenaar Dienst Vervoer en Ondersteuning 2014.     
+2.  De ambtenaren, bedoeld in het eerste lid, onder b, beschikken uitsluitend over de bevoegdheden, genoemd in artikel 106a, derde lid, van de Wet.  
+3.  De ambtenaren, bedoeld in het eerste lid, onder c, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in de artikelen 50, en 52 van de Wet en de artikelen 4.23 en 4.45 van het Besluit.   
+4.  De ambtenaren, bedoeld in het eerste lid, onder d, beschikken uitsluitend over de bevoegdheden, genoemd in de artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht, en de bevoegdheden, genoemd in artikel 50 en 106a, derde lid, van de Wet.  
 
 ### Artikel  4.1a  
 
@@ -1960,7 +1964,7 @@ M.J. Cohen
 | Damman King Fahd International Airport  | DMM  |
 | Doha International Airport  | DOH  |
 | Ngurah Rai International Airport  | DPS  |
-| Al Maktoum International Airport  | DWX  |
+| Al Maktoum International Airport  | DWC  |
 | Dubai International Airport  | DXB  |
 | Entebbe International Airport  | EBB  |
 | Erbil International Airport  | EBL  |
@@ -2451,6 +2455,12 @@ Het doel van de au-pairregeling is dat de au pair in Nederland verblijft om kenn
 
 ![255548](http://wetten.overheid.nl/Illustration/255548)
 ![255549](http://wetten.overheid.nl/Illustration/255549)
+
+### Bijlage 13 
+
+####, behorend bij artikel 3.37f, derde lid , Voorschrift Vreemdelingen 2000 (veilige landen van herkomst)
+
+Lidstaten van de EER Albanië Andorra Australië Bosnië-Herzegovina Canada Japan Kosovo Macedonië Monaco Montenegro Nieuw-Zeeland San Marino Servië Vaticaanstad Verenigde Staten Zwitserland 
 
 ###Bijlage 14a 
 

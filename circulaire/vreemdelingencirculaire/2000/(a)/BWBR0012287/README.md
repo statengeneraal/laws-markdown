@@ -2882,16 +2882,16 @@ De identificatie en registratie van de vreemdeling met behulp van biometrische g
 
 ####Beschikking uitstellen/opschorten van de toegangsweigering van asielzoekers
 
-![255832](http://wetten.overheid.nl/Illustration/255832)
-![255833](http://wetten.overheid.nl/Illustration/255833)
+![256287](http://wetten.overheid.nl/Illustration/256287)
+![256288](http://wetten.overheid.nl/Illustration/256288)
 
 ### Model  M19  
 
 ####Beschikking tot aanwijzing van een ruimte of plaats ingevolge artikel 6 eerste lid, of eerste en tweede lid, of derde lid of artikel 6a van de Vreemdelingenwet 2000 (Vw)
 
-![256085](http://wetten.overheid.nl/Illustration/256085)
-![256086](http://wetten.overheid.nl/Illustration/256086)
-![256087](http://wetten.overheid.nl/Illustration/256087)
+![256289](http://wetten.overheid.nl/Illustration/256289)
+![256290](http://wetten.overheid.nl/Illustration/256290)
+![256291](http://wetten.overheid.nl/Illustration/256291)
 
 ### Model  M20  
 

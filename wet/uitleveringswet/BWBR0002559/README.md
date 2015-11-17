@@ -513,7 +513,9 @@ De ingevolge artikel 48 vereiste toestemming wordt niet gegeven in gevallen waar
 
 – de misdrijven, strafbaar gesteld in de artikelen 177, 178, 284, 285a, 310, 321, 322, 326, 328ter, 359 tot en met 366, 376, 416, 417, 417bis, 420bis, 420ter en 420quater van het Wetboek van Strafrecht, dan wel de misdrijven, strafbaar gesteld in de artikelen 183, 183a, 184, 297, 298a, 323, 334, 335, 339, 341ter, 375 tot en met 382, 392, 431, 432, 432bis, 435a, 435b en 435c van het Wetboek van Strafrecht BES voor zover het feit valt onder de omschrijvingen van de artikelen 15 tot en met 17, 19 en 21 tot en met 25 van het op 31 oktober 2003 te New York tot stand gekomen Verdrag tegen corruptie (Trb. 2005, 244);  
 
-– de misdrijven, strafbaar gesteld in de artikelen 131, 132, 134a en 205, dan wel de misdrijven strafbaar gesteld in de artikelen 137, 138 en 211 van het Wetboek van Strafrecht BES voor zover het feit valt onder de omschrijvingen van de artikelen 5, 6, 7 en 9 van het op 16 mei 2005 te Warschau totstandgekomen Europees Verdrag ter voorkoming van terrorisme (Trb. 2006, 34).     
+– de misdrijven, strafbaar gesteld in de artikelen 131, 132, 134a en 205, dan wel de misdrijven strafbaar gesteld in de artikelen 137, 138 en 211 van het Wetboek van Strafrecht BES voor zover het feit valt onder de omschrijvingen van de artikelen 5, 6, 7 en 9 van het op 16 mei 2005 te Warschau totstandgekomen Europees Verdrag ter voorkoming van terrorisme (Trb. 2006, 34);  
+
+– de misdrijven van de artikelen 240, 240a, 240b, 242, 244, 245, 246, 248a, 248d, 266, 273f, 284, 285, 285b, 285c, 296 en 300 tot en met 303, voor zover het feit valt onder de omschrijving van het op 11 mei 2011 te Istanboel tot stand gekomen Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld (Trb. 2012, 233).    
 3.  Uitlevering krachtens het eerste lid geschiedt met inachtneming van de bepalingen van deze wet en voorts - voorzover geen ander uitleveringsverdrag van toepassing is - van de bepalingen van het Europees Verdrag betreffende uitlevering van 13 december 1957 (*Trb.* 1965, 9).  
 
 ### Hoofdstuk  V  
