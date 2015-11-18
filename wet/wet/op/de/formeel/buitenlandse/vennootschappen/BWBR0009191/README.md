@@ -32,7 +32,7 @@ De bestuurders van een formeel buitenlandse vennootschap zijn verplicht ter insc
 ### Artikel  5  
 
 1.  Onverminderd het tweede lid is op een formeel buitenlandse vennootschap artikel 10 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing. De daarin bedoelde verplichtingen rusten op de bestuurders van de vennootschap.    
-2.  De bestuurders zijn verplicht jaarlijks binnen vijf maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste zes maanden krachtens een bevoegd, op grond van bijzondere omstandigheden genomen besluit, een jaarrekening en een jaarverslag op te maken. Op de jaarrekening, het jaarverslag en de overige gegevens is titel 9 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing, met dien verstande dat de openbaarmaking ingevolge artikel 394 van dat boek geschiedt door nederlegging ten kantore van het handelsregister, bedoeld in artikel 2, tweede lid.    
+2.  De bestuurders zijn verplicht jaarlijks binnen vijf maanden na afloop van het boekjaar, behoudens verlenging van deze termijn met ten hoogste zes maanden krachtens een bevoegd, op grond van bijzondere omstandigheden genomen besluit, een jaarrekening en een bestuursverslag op te maken. Op de jaarrekening, het bestuursverslag en de overige gegevens is titel 9 van boek 2 van het Burgerlijk Wetboek van overeenkomstige toepassing, met dien verstande dat de openbaarmaking ingevolge artikel 394 van dat boek geschiedt door nederlegging ten kantore van het handelsregister, bedoeld in artikel 2, tweede lid.    
 3.  De bestuurders zijn verplicht ieder kalenderjaar vóór 1 april van dat jaar ten kantore van het handelsregister neer te leggen een bewijs van inschrijving in het register waar de vennootschap krachtens het op haar toepasselijke recht moet zijn ingeschreven. Het bewijs mag niet eerder dan vier weken voor de datum van nederlegging zijn afgegeven.   
 
 ### Artikel  6  
@@ -61,7 +61,7 @@ Ten aanzien van vennootschappen die op het tijdstip van inwerkingtreding van dez
 
 a. de opgave ter inschrijving in het handelsregister, bedoeld in artikel 2, vindt plaats binnen drie maanden na het tijdstip van inwerkingtreding van deze wet;   
 
-b. de verplichting tot het opmaken van een jaarrekening en een jaarverslag, bedoeld in artikel 5, tweede lid, en artikel 6 zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van inwerkingtreding van deze wet;   
+b. de verplichting tot het opmaken van een jaarrekening en een bestuursverslag, bedoeld in artikel 5, tweede lid, en artikel 6 zijn van toepassing ten aanzien van jaarrekeningen en jaarverslagen betreffende boekjaren die aanvangen op of na het tijdstip van inwerkingtreding van deze wet;   
 
 c. artikel 4, tweede lid wordt eerst drie maanden na het tijdstip van inwerkingtreding van deze wet toepasselijk.    
 

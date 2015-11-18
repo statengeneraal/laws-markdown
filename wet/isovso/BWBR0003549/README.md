@@ -776,7 +776,7 @@ h. de bevoegdheid de stichting te ontbinden,     met dien verstande dat in de re
 
 1.  De interne toezichthouder of het interne toezichthoudend orgaan houdt toezicht op de uitvoering van de taken en de uitoefening van de bevoegdheden door het bestuur en staat het bestuur met raad terzijde. De toezichthouder of het toezichthoudend orgaan is ten minste belast met: 
 
-a. het goedkeuren van de begroting en het jaarverslag en, indien van toepassing, het strategisch meerjarenplan van de school;  
+a. het goedkeuren van de begroting en het bestuursverslag en, indien van toepassing, het strategisch meerjarenplan van de school;  
 
 b. het toezien op de naleving door het bestuur van wettelijke verplichtingen, de code voor goed bestuur, bedoeld in artikel 157, eerste lid, onderdeel a, en de afwijkingen van die code;  
 
@@ -784,7 +784,7 @@ c. het toezien op de rechtmatige verwerving en de doelmatige en rechtmatige best
 
 d. het aanwijzen van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek die verslag uitbrengt aan de toezichthouder of het toezichthoudend orgaan, en  
 
-e. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met d, in het jaarverslag.     
+e. het jaarlijks afleggen van verantwoording over de uitvoering van de taken en de uitoefening van de bevoegdheden, bedoeld onder a tot en met d, in het bestuursverslag.     
 2.  De taken en bevoegdheden van de interne toezichthouder of het interne toezichthoudend orgaan zijn zodanig dat hij een deugdelijk en onafhankelijk intern toezicht kan uitoefenen. Indien sprake is van meer dan een toezichthouder of van een toezichthoudend orgaan is de eerste volzin van overeenkomstige toepassing met betrekking tot de combinatie van de toezichthouders of de samenstelling van het toezichthoudend orgaan.   
 3.  Indien het intern toezicht wordt uitgeoefend door een raad van toezicht, zijn het eerste lid en het tweede lid van overeenkomstige toepassing ten aanzien van een raad van toezicht. Een raad van toezicht is tevens belast met het benoemen, schorsen en ontslaan van de leden van het bestuur, alsmede de toepassing van de artikelen 29, vijfde lid, 33, 33a, 34, 37, 38, 56, 62, 63 en de daarmee verband houdende wettelijke bepalingen op leden van het bestuur die mede tot het personeel behoren.  
 
