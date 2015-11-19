@@ -2002,7 +2002,7 @@ Ten aanzien van een binnenschip waarvan het vlak van de grootste toegelaten diep
 
 ### Artikel  12.3  
 
-1. Vaarbewijzen, afgegeven overeenkomstig de Regeling vaststelling model groot vaarbewijs, blijven geldig met inachtneming van die regeling, totdat hun geldigheid is verstreken.  
+1. Vaarbewijzen, afgegeven overeenkomstig de Regeling vaststelling model klein vaarbewijs onderscheidenlijk de Regeling vaststelling model groot vaarbewijs, blijven geldig met inachtneming van die regelingen, totdat hun geldigheid is verstreken.  
 2.  Klein vaarbewijzen en groot pleziervaartbewijzen, afgegeven krachtens deze regeling vóór 1 januari 2010 blijven geldig totdat hun geldigheid is verstreken.  
 3.  Dienstboekjes, vaartijdenboeken, Rijnpatenten, attesten en andere documenten, afgegeven vóór 1 juli 2011 op grond van hoofdstuk 23 van het RosR 1995, het Patentreglement Rijn of het Reglement betreffende veiligheidspersoneel aan boord van passagiersschepen, blijven geldig totdat hun geldigheid is verstreken. 
 
@@ -5842,8 +5842,8 @@ b. schepen met een lengte tot en met 6 meter, dat: functieverlies van de benen i
 
 ####: geneeskundige verklaring binnenvaart als bedoeld in artikel 6.5, eerste lid 
 
-![256270](http://wetten.overheid.nl/Illustration/256270)
-![256279](http://wetten.overheid.nl/Illustration/256279)
+![256332](http://wetten.overheid.nl/Illustration/256332)
+![256333](http://wetten.overheid.nl/Illustration/256333)
 
 ### Bijlage  6.3  
 
@@ -6442,21 +6442,21 @@ Tabel 1 catalogus met boetebedragen voor overtredingen van de artikelen 5, 6, 7,
 |  *Hoofdstuk 3 paragraaf 3: Bemanning*   |
 | 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 3.10 lid 2 Rsp  | 22 lid 7 Bvw jo. 5.4 lid 1 Bvr jo. 3.10 lid 2 Rsp  | Als werkgever of gezagvoerder bij de exploitatiewijze A1 de vaartijd meer dan één maal per week verlengen tot 16 uur.  | € 1.000,–  2)  | BVW 3.3.001  |
 | 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7. Bvr jo. 3.12 Rsp  | 22 lid 7 Bvw jo. 5.5 Bvr jo. 3.12 Rsp  | Als werkgever of gezagvoerder, de voor de bemanning voorgeschreven rusttijd, niet in acht nemen bij wisseling van exploitatiewijze.  | € 300,– voor elk uur meer dan 1 uur rust tekort  2)  | BVW 3.3.033  |
-| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 3.12 Rsp  | 22 lid 7 Bvw jo. 5.5 Bvr jo. 3.12 Rsp  | Als werkgever en/of gezagvoerder wisselen van exploitatiewijze terwijl zich niet de voorgeschreven versterking aan boord bevindt.  | € 1.000,–  2)  | BVW 3.3.093  |
+| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 3.12 Rsp  | 22 lid 7 Bvw jo. 5.5 Bvr jo. 3.12 Rsp  | Als werkgever of gezagvoerder wisselen van exploitatiewijze terwijl zich niet de voorgeschreven versterking aan boord bevindt.  | € 1.000,–  2)  | BVW 3.3.093  |
 | 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 2.02 lid 1 Rsp jo. 3.15 lid 1 Rsp  | 22 lid 7 Bvw jo. 5.8. en 5.6. lid 1 Bvr jo. 3.15 lid 1 Rsp  | Als werkgever of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben volgens de voorgeschreven tabel minimumbemanning van motorschepen en duwboten:  | --- | --- |
 | Voor elke schipper tekort  | € 5.000,–  2)  | BVW 3.3.097  |
 | Voor elke stuurman tekort  | € 4.000,–  2)  | BVW 3.3.098  |
 | Voor elke volmatroos tekort  | € 3.500,–  2)  | BVW 3.3.099  |
 | Voor elke matroos tekort  | € 3.000,–  2)  | BVW 3.3.100  |
 | Voor elke lichtmatroos tekort  | € 2.500,–  2)  | BVW 3.3.101  |
-| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.1 Bvr  | Als werkgever en/of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op hechte samenstellen:  | --- | --- |
+| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 2.02 lid 1 Rsp jo. 3.16 lid 1 Rsp  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.1 Bvr  | Als werkgever of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op hechte samenstellen:  | --- | --- |
 | Voor elke schipper tekort  | € 5.000,–  2)  | BVW 3.3.113  |
 | Voor elke stuurman tekort  | € 4.000,–  2)  | BVW 3.3.114  |
 | Voor elke machinist of matroos motordrijver tekort  | € 4.000,–  2)  | BVW 3.3.115  |
 | Voor elke volmatroos tekort  | € 3.500,–  2)  | BVW 3.3.116  |
 | Voor elke matroos tekort  | € 3.000,–  2)  | BVW 3.3.117  |
 | Voor elke lichtmatroos tekort  | € 2.500,–  2)  | BVW 3.3.118  |
-| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.2 Bvr  | Als werkgever en/of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op schepen voor dagtochten.  | --- | --- |
+| 22 lid 9  | 22 lid 7 Bvw jo. 1.9 Bvr jo. 1.7 Bvr jo. 2.02 lid 1 Rsp jo. 3.17 lid 1 Rsp  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.2 Bvr  | Als werkgever of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op schepen voor dagtochten.  | --- | --- |
 | Voor elke schipper tekort  | € 5.000,–  2)  | BVW 3.3.135  |
 | Voor elke stuurman tekort  | € 4.000,–  2)  | BVW 3.3.136  |
 | Voor elke machinist of matroos motordrijver tekort  | € 4.000,–  2)  | BVW 3.3.137  |
@@ -6477,7 +6477,7 @@ Tabel 1 catalogus met boetebedragen voor overtredingen van de artikelen 5, 6, 7,
 | Voor elke volmatroos tekort  | € 3.500,–  2)  | BVW 3.3.186  |
 | Voor elke matroos tekort  | € 3.000,–  2)  | BVW 3.3.187  |
 | Voor elke lichtmatroos tekort  | € 2.500,–  2)  | BVW 3.3.188  |
-| 22 lid 9  | n.v.t. zie definitie veerboten  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.5 Bvr  | Als werkgever en/of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op veerboten.  | --- | --- |
+| 22 lid 9  | n.v.t. zie definitie veerboten  | 22 lid 7 Bvw jo. 5.8 en 5.6 lid 4 Bvr jo. bijlage 5.5 Bvr  | Als werkgever of gezagvoerder nalaten om tijdens de vaart voortdurend de minimumbemanning aan boord te hebben op veerboten.  | --- | --- |
 | Voor elke schipper tekort  | € 5.000,–  2)  | BVW 3.3.203  |
 | Voor elke stuurman tekort  | € 4.000,–  2)  | BVW 3.3.204  |
 | Voor elke eerste machinist tekort  | € 4.000,–  2)  | BVW 3.3.205  |
@@ -6626,4 +6626,25 @@ Tabel 1 catalogus met boetebedragen voor overtredingen van de artikelen 5, 6, 7,
 4) De minimale bemanning van overige vaartuigen op de Rijn, Waal en Lek zijn onder nummer 48 van het certificaat van onderzoek vermeld (art. 3.19 Rsp). Indien de voorgeschreven minimumbemanning niet aan boord is, wordt het schip gebruikt in strijd met de voorschriften opgenomen in het certificaat van onderzoek (art. 10 Bvw).  
 
 5) In het vaartijdenboek staat de volgende aanwijzing: in de kolommen 9 t/m 11 moeten het begin en het einde van de rusttijd van elk bemanningslid worden aangetekend. Deze aantekeningen dienen uiterlijk om 8 uur de volgende ochtend in het vaartijdenboek te worden aangebracht. Dit wil zeggen dat het begin en het einde van de rust moeten worden aangetekend uiterlijk om 8 uur op de dag volgend op de dag dat rust is begonnen en de arbeid weer is aangevangen. Dus als de bemanning op 16 maart om 22:00 uur gaat rusten en om 7:00 uur weer aan de arbeid gaat moet het begin en het einde van de rust uiterlijk op 17 maart om 8:00 uur zijn aangetekend.   
+Tabel 2. Bedragen voor bestuurlijke boete op overtredingen van het bepaalde krachtens de artikelen 39c, derde lid, en 39e, van de Binnenvaartwet 
+
+| Sab  | Omschrijving overtreding  | Boetebedrag  | Feitcode  |
+|:---|:---|:---|:---|
+| 19, eerste lid, onderdeel a  | Niet openen door de eigenaar van het schip van een rekening bij een nationaal instituut  | € 1000  | BVW4a.001  |
+| 19, eerste lid, onderdeel b  | Niet zorgen door de eigenaar dat schipper over een  ED-kaart beschikt  | € 200  | BVW4a.002  |
+| 20, eerste lid  | Niet betalen van de afvalbeheersbijdrage over het aantal liters gasolie  | € 350  | BVW4a.003  |
+| 20, vierde lid  | Niet in tweevoud opmaken van het betalingsbewijs door de leverancier van gasolie, met hierin het nummer behorend bij het tegoed, aantal liters gasolie, bedrag van de betaalde afvalbeheersbijdrage, datum en tijdstip van bunkering  | € 500  | BVW4a.004  |
+| 21, eerste lid  | Niet aanbieden door de leverancier van een andere betalingsmogelijkheid aan de eigenaar van het schip  | € 200  | BVW4a.005  |
+| 21, tweede lid, onderdeel a  | Niet in drievoud invullen van de schuldbekentenis door de schipper namens de eigenaar van het schip  | € 200  | BVW4a.006  |
+| 21, tweede lid, onderdeel b  | Niet in drievoud invullen van de machtiging door de schipper namens de eigenaar van het schip  | € 200  | BVW4a.007  |
+| 22, eerste lid  | Niet opmaken van een schriftelijke bunkerverklaring, met daarin de volgende gegevens: naam en adres eigenaar schip, naam en adres leverancier, geleverde aantal liters, naam en nummer schip, naam schipper, hoogte afvalbeheersbijdrage, plaats en datum van handeling  | € 500  | BVW4a.008  |
+| 22, tweede lid  | Niet door de leverancier aan de bunkerverklaring hechten van betalingsbewijs, schuldbekentenis of machtiging  | € 200  | BVW4a.009  |
+| 22, derde lid  | Niet ondertekenen van de bunkerverklaring door de leverancier  | € 200  | BVW4a.010  |
+| 23  | Niet ondertekenen van de bunkerverklaring door de schipper  | € 200  | BVW4a.011  |
+| 24  | Niet aan de schipper ter hand stellen van de bunkerverklaring  | € 250  | BVW4a.012  |
+| 25  | Niet bewaren door de leverancier van de opgemaakte en ondertekende bunkerverklaring in zijn administratie  | € 500  | BVW4a.013  |
+| 26, eerste lid  | Niet door de schipper hechten van betalingsbewijs, schuldbekentenis of machtiging aan afschrift van de bunkerverklaring  | € 50  | BVW4a.014  |
+| 26, tweede lid  | Niet door de schipper bewaren van het afschrift, alsmede een door hem ontvangen afschrift van een buiten Nederland opgemaakte bunkerverklaring gedurende min. 6 maanden  | € 500  | BVW4a.015  |
+| 27  | Niet door de leverancier elke maand aanleveren van de volgende gegevens aan de aangewezen dienst: naam eigenaar, het geleverde aantal liters gasolie, naam en nummer schip, wijze en bedrag van betaling  | € 500  | BVW4a.016  |
+| 28a  | Niet door de leverancier onverwijld melden van storing aan de pinautomaat  | € 200  | BVW4a.017  |
 

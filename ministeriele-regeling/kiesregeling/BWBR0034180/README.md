@@ -182,28 +182,35 @@ R.H.A. Plasterk
 
 ![254259](http://wetten.overheid.nl/Illustration/254259)
 
-### Model J 7 
+### Model Model J 7 (Wrr 59) 
 
 ####Stempas
 
-De stempas voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256061](http://wetten.overheid.nl/Illustration/256061)
-![256062](http://wetten.overheid.nl/Illustration/256062)
+1. De stempas voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256292](http://wetten.overheid.nl/Illustration/256292)
+![256293](http://wetten.overheid.nl/Illustration/256293)
+2. Het model voor de stempas voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:![256294](http://wetten.overheid.nl/Illustration/256294)
+![256295](http://wetten.overheid.nl/Illustration/256295)
+3. Het model voor de stempas voor het referendum luidt voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:![256296](http://wetten.overheid.nl/Illustration/256296)
+![256297](http://wetten.overheid.nl/Illustration/256297)
 
-### Model  J 7-1  
+### Model  J 7-1 (Wrr 59-62)  
 
-####De technische eisen aan de stempas, de kiezerspas, het volmachtsbewijs en het briefstembewijs
+####De technische eisen aan de stempas, de kiezerspas, het schriftelijk volmachtbewijs en het briefstembewijs
 
-![252616](http://wetten.overheid.nl/Illustration/252616)
-![252617](http://wetten.overheid.nl/Illustration/252617)
-![252618](http://wetten.overheid.nl/Illustration/252618)
-![252619](http://wetten.overheid.nl/Illustration/252619)
+![256298](http://wetten.overheid.nl/Illustration/256298)
+*Stempas*![256299](http://wetten.overheid.nl/Illustration/256299)
+*Kiezerspas*![256300](http://wetten.overheid.nl/Illustration/256300)
+*Schriftelijke volmacht*![256301](http://wetten.overheid.nl/Illustration/256301)
+*Briefstembewijs*
 
-### Model  J 16  
+### Model  J 16 (Wrr 59)  
 
-####Kiezershandleiding
+####Kiezershandleidingen voor verkiezingen en referenda
 
-![252492](http://wetten.overheid.nl/Illustration/252492)
-![253677](http://wetten.overheid.nl/Illustration/253677)
+1. Het model voor de kiezershandleiding voor verkiezingen luidt als volgt:![256302](http://wetten.overheid.nl/Illustration/256302)
+![256304](http://wetten.overheid.nl/Illustration/256304)
+2. Het model voor de kiezershandleiding voor het referendum luidt als volgt:![256305](http://wetten.overheid.nl/Illustration/256305)
+![256306](http://wetten.overheid.nl/Illustration/256306)
 
 ### Model  J 20  
 
@@ -212,11 +219,10 @@ enz.<sup>6De lijsten dienen om en om in te springen. Tussen de lijsten dient rui
 
 ###Model  K 4  
 
-1.De kiezerspas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt: ![254414](http://wetten.overheid.nl/Illustration/254414)
-![254415](http://wetten.overheid.nl/Illustration/254415)
-
-2.De kiezerspas voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 luidt als volgt: ![254416](http://wetten.overheid.nl/Illustration/254416)
-![254417](http://wetten.overheid.nl/Illustration/254417)
+1. Het model voor de kiezerspas voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:![256307](http://wetten.overheid.nl/Illustration/256307)
+![256308](http://wetten.overheid.nl/Illustration/256308)
+2. Het model voor de kiezerspas voor het referendum voor de kiezers op Bonaire, Sint Eustatius en Saba luidt als volgt: ![256309](http://wetten.overheid.nl/Illustration/256309)
+![256310](http://wetten.overheid.nl/Illustration/256310)
 
 ### Model  K 6  
 
@@ -233,12 +239,16 @@ enz.<sup>6De lijsten dienen om en om in te springen. Tussen de lijsten dient rui
 ![255337](http://wetten.overheid.nl/Illustration/255337)
 ![255338](http://wetten.overheid.nl/Illustration/255338)
 
-### Model L 11 
+### Model L 11 (Wrr 61) 
 
 ####Schriftelijk volmachtbewijs
 
-Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256063](http://wetten.overheid.nl/Illustration/256063)
-![256064](http://wetten.overheid.nl/Illustration/256064)
+1. Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden van de gemeenteraden van de gemeenten Edam-Volendam en Gooise Meren op woensdag 18 november 2015 luidt als volgt:![256311](http://wetten.overheid.nl/Illustration/256311)
+![256312](http://wetten.overheid.nl/Illustration/256312)
+2. Het model voor het schriftelijk volmachtbewijs voor het referendum luidt voor de kiezers in het Europese deel van Nederland als volgt:![256313](http://wetten.overheid.nl/Illustration/256313)
+![256314](http://wetten.overheid.nl/Illustration/256314)
+3. Het model voor het schriftelijk volmachtbewijs voor het referendum luidt voor de kiezers op Bonaire, Sint Eustatius en Saba als volgt:![256315](http://wetten.overheid.nl/Illustration/256315)
+![256316](http://wetten.overheid.nl/Illustration/256316)
 
 ### Model  M 3  
 
@@ -252,13 +262,14 @@ Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden va
 
 ![255340](http://wetten.overheid.nl/Illustration/255340)
 
-### Model  M 6-2  
+### Model  M 6-2 (Wrr 62)  
 
 ####Briefstembewijs
 
-1. Het briefstembewijs voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten luidt als volgt: ![252623](http://wetten.overheid.nl/Illustration/252623)
-
-*2*. Het briefstembewijs voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten luidt als volgt: ![252624](http://wetten.overheid.nl/Illustration/252624)
+1. Het model voor het briefstembewijs voor het referendum luidt voor kiezers buiten Nederland die niet wonen op Aruba, Curaçao en Sint Maarten als volgt: ![256317](http://wetten.overheid.nl/Illustration/256317)
+![256318](http://wetten.overheid.nl/Illustration/256318)
+2. Het model voor het briefstembewijs voor het refrendum luidt voor kiezers buiten Nederland die wonen op Aruba, Curaçao en Sint Maarten als volgt:![256319](http://wetten.overheid.nl/Illustration/256319)
+![256320](http://wetten.overheid.nl/Illustration/256320)
 
 ### Model  M 6-3  
 
@@ -475,7 +486,7 @@ Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden va
 
 ####Proces-verbaal van de beoordeling van het inleidend verzoek
 
-![255368](http://wetten.overheid.nl/Illustration/255368)
+![256321](http://wetten.overheid.nl/Illustration/256321)
 
 ###Model Wrr 41-1 
 
@@ -493,13 +504,14 @@ Het schriftelijk volmachtbewijs voor de herindelingsverkiezingen van de leden va
 
 ####Proces-verbaal van de beoordeling van het definitief verzoek
 
-![255371](http://wetten.overheid.nl/Illustration/255371)
+![256322](http://wetten.overheid.nl/Illustration/256322)
+![256323](http://wetten.overheid.nl/Illustration/256323)
 
-###Model Wrr 52 
+###Model Wrr 58 
 
-####Bijlage
+####Stembiljet
 
-![255372](http://wetten.overheid.nl/Illustration/255372)
+![256324](http://wetten.overheid.nl/Illustration/256324)
 
 ###Model Wrr 83 
 

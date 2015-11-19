@@ -157,27 +157,29 @@ b. de Coentunnel, gelegen in de A10 te Amsterdam;
 
 c. de Drechttunnel, gelegen in de A16 tussen Zwijndrecht en Dordrecht;  
 
-d. de Kiltunnel, gelegen in de S43 tussen Dordrecht en ’s-Gravendeel;  
+d. de Ketheltunnel, gelegen in de A4 te Schiedam; 
 
-e. de Noordtunnel, gelegen in de A15 tussen Hendrik-Ido-Ambacht en Alblasserdam;  
+e. de Kiltunnel, gelegen in de S43 tussen Dordrecht en ’s-Gravendeel;  
 
-f. de Sluiskiltunnel, gelegen in de N62 bij Terneuzen;  
+f. de Noordtunnel, gelegen in de A15 tussen Hendrik-Ido-Ambacht en Alblasserdam;  
 
-g. Salland-Twentetunnel, gelegen in de N35 te Hellendoorn; 
+g. de Salland-Twentetunnel, gelegen in de N35 te Hellendoorn;  
 
-h. de Sytwendetunnel, gelegen in de N14 te Leidschendam–Voorburg;  
+h. de Sluiskiltunnel, gelegen in de N62 bij Terneuzen; 
 
-i. de Thomassentunnel, gelegen in de N15 te Rotterdam;  
+i. de Sytwendetunnel, gelegen in de N14 te Leidschendam–Voorburg;  
 
-j. de Vlaketunnel, gelegen in de A58 tussen Kruiningen en Kapelle;  
+j. de Thomassentunnel, gelegen in de N15 te Rotterdam;  
 
-k. de Waterwolftunnel, gelegen in de N201 tussen Aalsmeer en Haarlemmermeer; 
+k. de Vlaketunnel, gelegen in de A58 tussen Kruiningen en Kapelle;  
 
-l. de Westerscheldetunnel, gelegen in N62 tussen Terneuzen en Goes;  
+l. de Waterwolftunnel, gelegen in de N201 tussen Aalsmeer en Haarlemmermeer; 
 
-m. de Wijkertunnel, gelegen in de A9 tussen Beverwijk en Velsen;  
+m. de Westerscheldetunnel, gelegen in N62 tussen Terneuzen en Goes;  
 
-n. de Zeeburgertunnel, gelegen in de A10 te Amsterdam.  
+n. de Wijkertunnel, gelegen in de A9 tussen Beverwijk en Velsen;  
+
+o. de Zeeburgertunnel, gelegen in de A10 te Amsterdam.  
 
 2.Beperkingen voor het vervoer van de gevaarlijke stoffen, genoemd onder Tunnelcategorie D in randnummer 1.9.5.2.2 van bijlage 1, gelden voor: 
 
@@ -201,13 +203,17 @@ i. de Piet Heintunnel, gelegen onder het Amsterdam-Rijnkanaal te Amsterdam;
 
 j. de Velsertunnel, gelegen in de A22, tussen Beverwijk en Velsen.  
 
-3.Beperkingen voor het vervoer van de gevaarlijke stoffen, genoemd onder Tunnelcategorie E in randnummer 1.9.5.2.2 van bijlage 1, gelden voor de ArenAtunnel, gelegen onder de Amsterdam ArenA, te Amsterdam.
+3.Beperkingen voor het vervoer van de gevaarlijke stoffen, genoemd onder Tunnelcategorie E in randnummer 1.9.5.2.2 van bijlage 1, gelden voor: 
+
+a. de ArenAtunnel, gelegen onder de Amsterdam ArenA te Amsterdam;  
+
+b. de Stadsbaantunnel, gelegen naast de A2 te Utrecht.  
 
 4.De in dit artikel bedoelde tunnels worden aangeduid met verkeersbord C 22, bedoeld in bijlage 1 bij het Reglement verkeersregels en verkeerstekens 1990. Onder het bord wordt een onderbord geplaatst waarop met een hoofdletter de categorie van de desbetreffende tunnel, overeenkomstig dit artikel, wordt aangeduid. 
 
 ####*Artikel 4*
 
-Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in artikel 12, eerste lid, van de Wet vervoer gevaarlijke stoffen.  Tabel 1 
+Het vervoer van de stoffen die in tabel 1 zijn opgenomen, is routeplichtig als bedoeld in artikel 24, eerste lid, van de Wet vervoer gevaarlijke stoffen.  Tabel 1 
 
 | Klasse  | Vervoer in tanks  | Vervoer in colli in hoeveelheden groter dan 1.1.3.6  |
 |:---|:---|:---|
@@ -408,7 +414,6 @@ Indien een bevoegde instantie van een andere lidstaat van de Europese Unie de Mi
 | 6.1.1.4  | ILT  |
 | 6.1.4.8.8, 6.1.4.13.7  | ILT  |
 | 6.3.2.2  | ILT  |
-| Alle randnummers in hoofdstuk 6.4  | EZ  |
 | 6.5.4.1  | ILT  |
 | 6.6.1.2  | ILT  |
 | 6.7.3.15.9, 6.7.3.15.10, 6.7.4.2.1, 6.7.4.2.8.1, 6.7.4.2.8.2, 6.7.4.2.14, 6.7.4.3.3.1, 6.7.4.5.10, 6.7.4.6.4, 6.7.4.7.4, 6.7.4.13.1, 6.7.4.14.3, 6.7.4.14.6 b), 6.7.4.14.10  | RDW  |

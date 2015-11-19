@@ -55,6 +55,38 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 2.  Voor de topfunctionarissen in het voortgezet onderwijs, de topfunctionarissen in het beroepsonderwijs en educatie en de topfunctionarissen van de hogescholen is het bezoldigingsmaximum, bedoeld in artikel 2.3, eerste lid, van de wet van toepassing.  
 3.  Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in artikel 2.3 van de wet, zoals dat luidde op 31 december 2014. 
 
+### Artikel  3a  
+
+####Verzoek indeling in andere klasse
+
+Treedt in werking per 01-01-2016 
+
+1.  Een verzoek als bedoeld in artikel 2.7, derde lid, van de wet om in een andere klasse te worden ingedeeld, wordt door een rechtspersoon of instelling ingediend uiterlijk 6 weken voorafgaand aan de periode waarin de afwijkende klassenindeling moet ingaan.   
+2.  Het verzoek is deugdelijk gemotiveerd en bevat in ieder geval: 
+
+a. een verklaring van de verantwoordelijke waaruit zijn instemming met het verzoek blijkt;  
+
+b. een document waaruit het oordeel van de direct belanghebbenden bij het onderwijs over het verzoek blijkt;  
+
+c. een onderbouwing van de benodigde duur van de afwijking.    
+
+### Artikel  3b  
+
+####Verzoek individuele uitzondering op klassenindeling
+
+Treedt in werking per 01-01-2016 
+
+1.  Een verzoek om op grond van artikel 2.7, vierde lid, van de wet ten aanzien van een topfunctionaris een hogere bezoldiging te mogen overeenkomen dan toegestaan op grond van deze regeling, wordt door een rechtspersoon of instelling ingediend uiterlijk 6 weken voorafgaand aan de periode waarin de hogere bezoldiging moet ingaan.   
+2.  Artikel 3a, tweede lid, is van overeenkomstige toepassing.  
+
+### Artikel  3c  
+
+####Vermelding van toepassing zijnde bezoldigingsklasse of bezoldigingsmaximum in het financieel verslaggevingsdocument
+
+Treedt in werking per 01-01-2016 
+
+De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de op grond van artikel 3 of 3a van toepassing zijnde klasse of het op grond van artikel 3b van toepassing zijnde bezoldigingsmaximum voor het betreffende kalenderjaar, alsmede het aantal complexiteitspunten per criterium dat geldt voor de instelling in het betreffende jaar. 
+
 ### Artikel  4  
 
 ####Elektronische verzending bezoldigingsgegevens
@@ -277,4 +309,93 @@ M. Bussemaker.
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-S. Dekker.     
+S. Dekker.    
+
+### Bijlage 
+
+####, behorende bij artikel 3, tweede lid , van de Regeling bezoldiging topfunctionarissen OCW-sectoren
+
+Treedt in werking per 01-01-2016 
+
+###Toepasselijkheid deel 1 of deel 2
+
+Deel 1 van de bijlage is van toepassing op rechtspersonen of instellingen die beschikken over de jaarrekeningen over het vierde, derde en tweede jaar voorafgaand aan het jaar waarin de indeling in een bezoldigingsklasse wordt toegepast. Voor rechtspersonen of instellingen die in de laatste vijf jaar zijn opgericht, gefuseerd of gesplitst, kunnen de berekeningen behorend bij de criteria uit dit eerste deel van de bijlage niet onverkort worden toegepast; voor die rechtspersonen of instellingen geldt deel 2 van deze bijlage. 
+###Deel 1. Criteria voor de vaststelling van de toepasselijke bezoldigingsklasse voor rechtspersonen of instellingen die beschikken over de gegevens tot en met t-4
+
+###1A. Driejaarsgemiddelde van de totale baten per kalenderjaar
+
+Aan de rechtspersoon of instelling komt aan de hand van het gemiddelde van het totaal van de baten, inclusief de rentebaten, volgens de jaarrekening in het vierde, derde en tweede jaar voorafgaand aan het kalenderjaar waarin het bezoldigingsmaximum wordt toegepast (t-4, t-3 en t-2) het volgende aantal punten toe.  
+
+| Gemiddelde totale baten (in €)  | Aantal complexiteits-punten  |
+|:---|:---|
+| 0 tot 5 miljoen  | 2  |
+| 5 tot 25 miljoen  | 4  |
+| 25 tot 75 miljoen  | 6  |
+| 75 tot 125 miljoen  | 8  |
+| 125 tot 200 miljoen  | 9  |
+| 200 miljoen en meer  | 10  |
+
+###1B. Driejaarsgemiddelde van het aantal leerlingen, deelnemers of studenten
+
+Aan de rechtspersoon of instelling komt aan de hand van het gemiddelde van het aantal leerlingen, deelnemers of studenten die op 1 oktober van het vierde, derde en tweede jaar voorafgaand aan het jaar waarin het bezoldigingsmaximum wordt toegepast (t-4, t-3 en t-2) onderwijs volgden aan die instelling het volgende aantal punten toe.  
+
+| Gemiddeld aantal leerlingen, deelnemers of studenten  | Aantal complexiteitspunten  |
+|:---|:---|
+| 1 tot 1.500  | 1  |
+| 1.500 tot 2.500  | 2  |
+| 2.500 tot 10.000  | 3  |
+| 10.000 tot 20.000  | 4  |
+| 20.000 en meer  | 5  |
+
+###1C. Het gewogen aantal onderwijssoorten of sectoren
+
+Aan de rechtspersoon of instelling komt aan de hand van het gewogen aantal onderwijssoorten of sectoren dat werd aangeboden op 1 oktober in het tweede jaar voorafgaand aan het jaar waarin het bezoldigingsmaximum wordt toegepast (t-2) het volgende aantal punten toe. De manier waarop het aantal onderwijssoorten of sectoren wordt gewogen, is verschillend voor de verschillende onderwijssectoren.  
+
+| Gewogen aantal onderwijssoorten of sectoren*  | Aantal complexiteitspunten  |
+|:---|:---|
+| 1  | 1  |
+| 2  | 2  |
+| 3  | 3  |
+| 4  | 4  |
+| 5 en meer  | 5  |
+
+* Het aantal onderwijssoorten is het resultaat van de volgende berekening: I. Het aantal onderwijssoorten uit de volgende opsomming wordt vermenigvuldigd met factor 1: 1. basisonderwijs (inclusief internationaal georiënteerd basisonderwijs); 2. speciaal basisonderwijs; 3. speciaal onderwijs; 4. voortgezet speciaal onderwijs; 5. praktijkonderwijs; 6. voorbereidend middelbaar beroepsonderwijs (inclusief VM2); 7. hoger algemeen voortgezet onderwijs (inclusief Engelse School); 8. voorbereidend wetenschappelijk onderwijs (inclusief international baccalaureate). II. Het aantal onderwijssectoren uit de volgende opsomming wordt vermenigvuldigd met factor 2: 1. middelbaar beroepsonderwijs combinatie van sectoren; 2. middelbaar beroepsonderwijs sector groen; 3. middelbaar beroepsonderwijs sector techniek; 4. middelbaar beroepsonderwijs sector zorg en welzijn; 5. middelbaar beroepsonderwijs sector economie; 6. hoger beroepsonderwijs sectoroverstijgend; 7. hoger beroepsonderwijs sector onderwijs; 8. hoger beroepsonderwijs sector landbouw en natuurlijke omgeving; 9. hoger beroepsonderwijs sector techniek; 10. hoger beroepsonderwijs sector gezondheidszorg; 11. hoger beroepsonderwijs sector economie; 12. hoger beroepsonderwijs sector gedrag en maatschappij; 13. hoger beroepsonderwijs sector taal en cultuur. III. Het aantal onderwijssectoren uit de volgende opsomming wordt vermenigvuldigd met factor 3: 1. wetenschappelijk onderwijs sectoroverstijgend; 2. wetenschappelijk onderwijs sector onderwijs; 3. wetenschappelijk onderwijs sector landbouw en natuurlijke omgeving; 4. wetenschappelijk onderwijs sector natuur; 5. wetenschappelijk onderwijs sector techniek; 6. wetenschappelijk onderwijs sector gezondheidszorg; 7. wetenschappelijk onderwijs sector economie; 8. wetenschappelijk onderwijs sector recht; 9. wetenschappelijk onderwijs sector gedrag en maatschappij; 10. wetenschappelijk onderwijs sector taal en cultuur.
+###Deel 2. Criteria voor de vaststelling van de toepasselijke bezoldigingsklasse voor rechtspersonen of instellingen die korter dan vijf jaar geleden zijn opgericht, gefuseerd of gesplitst
+
+De criteria genoemd in deel 1, onder 1A, 1B en 1C, van deze bijlage zijn van overeenkomstige toepassing op rechtspersonen of instellingen die in het lopende jaar of de vier voorafgaande jaren zijn opgericht, gefuseerd of gesplitst, met dien verstande dat voor de toepassing van de criteria de volgende berekening wordt gehanteerd.
+###2A. Opgericht, gefuseerd of gesplitst in het lopende jaar
+
+Indien een rechtspersoon of instelling in het lopende jaar is opgericht, gefuseerd of gesplitst, wordt voor de toepassing van: 
+
+a. het criterium onder 1A van deze bijlage uitgegaan van de baten die zijn opgenomen in de begroting voor het lopende jaar;  
+
+b. het criterium onder 1B van deze bijlage uitgegaan van de aantallen leerlingen, deelnemers of studenten die voor de eerste bekostiging aan de minister zijn doorgegeven; en  
+
+c. het criterium onder 1C van deze bijlage uitgegaan van het aantal onderwijssoorten of sectoren die op basis van het onderwijsaanbod in het lopende jaar kunnen worden vastgesteld.  
+###2B. Opgericht, gefuseerd of gesplitst in het voorafgaande jaar
+
+Indien een rechtspersoon of instelling in het jaar voorafgaand aan het lopende jaar is opgericht, gefuseerd of gesplitst, wordt voor de toepassing van: 
+
+a. het criterium onder 1A van deze bijlage uitgegaan van het gemiddelde van de baten volgens de jaarrekening van het voorafgaande jaar en de totale baten die zijn opgenomen in de door de verantwoordelijke goedgekeurde begroting voor het lopende jaar;  
+
+b. het criterium onder 1B van deze bijlage uitgegaan van het gemiddelde van de aantallen leerlingen, deelnemers of studenten van het voorafgaande jaar en het aantal waar in de door de verantwoordelijke goedgekeurde begroting van het lopende jaar vanuit is gegaan; en  
+
+c. het criterium onder 1C van deze bijlage uitgegaan van het gewogen aantal onderwijssoorten of sectoren in het voorafgaande jaar.  
+###2C. Opgericht, gefuseerd of gesplitst in het tweede jaar voorafgaand aan het lopende jaar
+
+Indien een rechtspersoon of instelling in het tweede jaar voorafgaand aan het lopende jaar is opgericht, gefuseerd of gesplitst, wordt voor de toepassing van: 
+
+a. het criterium onder 1A van deze bijlage uitgegaan van het gemiddelde van de totale baten volgens de jaarrekening van het tweede en eerste jaar voorafgaande aan het lopende jaar en de totale baten die zijn opgenomen in de door de verantwoordelijke goedgekeurde begroting voor het lopende jaar;  
+
+b. het criterium onder 1B van deze bijlage uitgegaan van het gemiddelde van de aantallen leerlingen, deelnemers of studenten van het tweede en eerste jaar voorafgaand aan het lopende jaar en het aantal waar in de door de verantwoordelijke goedgekeurde begroting van het lopende jaar vanuit is gegaan; en  
+
+c. het criterium onder 1C van deze bijlage uitgegaan van het gewogen aantal onderwijssoorten of sectoren in het tweede jaar voorafgaand aan het lopende jaar.  
+###2D. Opgericht, gefuseerd of gesplitst in het derde jaar voorafgaand aan het lopende jaar
+
+Indien een rechtspersoon of instelling in het derde jaar voorafgaand aan het lopende jaar is opgericht, gefuseerd of gesplitst, wordt voor de toepassing van: 
+
+a. het criterium onder 1A van deze bijlage uitgegaan van het gemiddelde van de baten volgens de jaarrekening van het derde, tweede en eerste jaar voorafgaande aan het lopende jaar;  
+
+b. het criterium onder 1B van deze bijlage uitgegaan van het gemiddelde van de aantallen leerlingen, deelnemers of studenten van het derde, tweede en eerste jaar voorafgaand aan het lopende jaar; en  
+
+c. het criterium onder 1C van deze bijlage uitgegaan van het gewogen aantal onderwijssoorten of sectoren in het tweede jaar voorafgaand aan het lopende jaar.  

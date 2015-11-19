@@ -919,6 +919,29 @@ d. de plaats, het moment en de frequentie van vaststelling, daaronder begrepen t
 
 e. de verantwoording van de vaststellingen.    
 
+### Hoofdstuk  Xa  
+
+####Verantwoorde groei melkveehouderij
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  70a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het melkveefosfaatoverschot dat in enig jaar voor mestverwerking als bedoeld in artikel 21, tweede lid, onderdeel d, van de wet in aanmerking komt is het melkveefosfaatoverschot dat in het jaar 2014 is ontstaan, vermeerderd met: 
+
+a. ten hoogste 100% van het aantal additionele kilogrammen fosfaat dat in dat jaar ten opzichte van het jaar 2014 met melkvee wordt geproduceerd indien het overschot per hectare lager is dan 20 kg/ha;  
+
+b. ten hoogste 75% van het aantal additionele kilogrammen fosfaat dat in dat jaar ten opzichte van het jaar 2014 met melkvee wordt geproduceerd indien het overschot per hectare gelijk is aan of hoger is dan 20kg/ha en gelijk is aan of lager is dan 50 kg/ha;  
+
+c. ten hoogste 50% van het aantal additionele kilogrammen fosfaat dat in dat jaar ten opzichte van het jaar 2014 met melkvee wordt geproduceerd indien het overschot per hectare hoger is dan 50 kg/ha.     
+2.  Het overschot per hectare, bedoeld in het eerste lid wordt berekend door de productie van dierlijke meststoffen door melkvee op een bedrijf in kilogrammen fosfaat in het voorgaande kalenderjaar, verminderd met de fosfaatruimte van het bedrijf in het voorgaande kalenderjaar te delen door het aantal hectaren tot het bedrijf behorende oppervlakte landbouwgrond in het voorgaande kalenderjaar.   
+3.  Het eerste lid is niet van toepassing op een bedrijf dat: 
+
+a. voor 1 februari 2016 aantoont dat het voor 30 maart 2015 financiële verplichtingen is aangegaan ten einde het gehele melkveefosfaatoverschot te laten verwerken, waardoor naleving van het eerste lid leidt tot disproportionele financiële last en  
+
+b. het bedrijf binnen drie maanden na afloop van elk kalenderjaar aantoont dat het melkveefosfaatoverschot is verwerkt door degene met wie de financiële verplichtingen, bedoeld in onderdeel a, is aangegaan.    
+
 ### Hoofdstuk  XI  
 
 ####Overige bepalingen

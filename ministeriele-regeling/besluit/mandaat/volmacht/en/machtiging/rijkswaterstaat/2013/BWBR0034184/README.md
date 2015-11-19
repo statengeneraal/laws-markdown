@@ -127,21 +127,22 @@ f. de manager dienstverlening Nationale Bewegwijzeringsdienst.
 |:---|:---|
 | De hoofdingenieur-directeur van een regionaal of een centraal organisatieonderdeel:  | 25.000.000  |
 | De algemeen directeur RWS Corporate Dienst:  | 25.000.000  |
-| De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in uitvoeringsfase:  | 25.000.000  |
 |Directeur Nationale Databank Wegverkeersgegevens: |10.000.000 |
 | De algemeen directeur Algemene Corporate Taken:  |25.000.000 |
 |Hoofdingenieur-directeur in Bijzondere Dienst Kustwachtvisie: |5.000.000 |
-|Programmadirecteur Implementatie Omgevingswet: | 5.000.000  |
-|De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase: |2.000.000 |
+|Programmadirecteur Implementatie Omgevingswet: |25.000.000 |
 |Programmadirecteur Connecting Mobility: | 1.000.000  |
 | Directeur Nationale Bewegwijzeringsdienst: |5.000.000 |
 |Programmadirecteur Impuls Dynamisch Verkeersmanagement Vaarwegen: |1.000.000 |
+|Programmamanager Implementatie Omgevingswet:  |1.000.000 |
 | Het hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC):  | 500.000  |
 | Het afdelingshoofd Departementaal Coördinatiecentrum Crisisbeheersing (DCC):  | 100.000  |
 |Manager dienstverlening Nationale Bewegwijzeringsdienst: |100.000 |
+|Manager Beheersing en Bedrijfsvoering Implementatie Omgevingswet: |100.000 |
 | De directeur RWS Bestuursstaf:  | 50.000  |
 | Project- of programmadirecteur, project- of programmamanager en projectleider van Impulsprogramma’s:  | 50.000  |
 | Project- of programmadirecteur en project- of programmamanager van een Product Specifieke Eenheid:  | 50.000  |
+|Projectmanager Implementatie Omgevingswet: |50.000 |
 
 2.  Het mandaat, de volmacht en de machtiging, welke door de in de artikelen 5 tot en met 7, steeds eerste lid, genoemde functionarissen kunnen worden verleend zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de volgende grensbedragen exclusief btw:  
 
@@ -154,20 +155,16 @@ f. de manager dienstverlening Nationale Bewegwijzeringsdienst.
 |Directeur realisatie Ruimte voor de Rivier van RWS  | --- |
 |Grote Projecten en Onderhoud: |5.000.000 |
 | Project- of programmadirecteur – Portfoliomanagement en Project- of programmamanager – Portfoliomanagement binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 5.000.000  |
-| Directeur binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 5.000.000  |
 | Project- of programmadirecteur – Projectmanagement binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 2.500.000  |
 | Project- of programmamanager binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 1.000.000  |
 | Plaatsvervangend directeur binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
 | Programmadirecteur Industriële Automatisering binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
-| Directeur binnen een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase:  | 500.000  |
 | Het hoofd Eenheid Klant en Services binnen RWS Corporate Dienst:  | 500.000  |
 | Districtshoofd in geval van een calamiteit:  | 150.000  |
 | Projectleider binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 100.000  |
-| Realisatiemanager binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 100.000  |
 | Districtshoofd:  | 50.000  |
 | Afdelingshoofd:  | 15.000  |
-| Project- of programmamanager binnen een projectdirectie of een programmadirectie in verkenningsfase, planstudiefase of uitvoeringsfase:  | 15.000  |
-| Project- of programmadirecteur, project- of programmamanager en projectleider van projecten met een waarde groter dan € 50.000.000 binnen een regionaal of een centraal organisatieonderdeel, een projectdirectie of een programmadirectie:  | 15.000  |
+| Project- of programmadirecteur, project- of programmamanager en projectleider van projecten met een waarde groter dan € 50.000.000 binnen een regionaal of een centraal organisatieonderdeel:  | 50.000  |
 | Senior adviseur van de afdeling Bestuurlijk Juridische zaken en Vastgoed/Schade binnen de RWS Corporate Dienst, voor zover het schadeafhandeling betreft:  | 15.000  |
 
 3.  De grensbedragen gelden, met inachtneming van artikel 12, niet: 
@@ -231,21 +228,19 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 ####Voorbehouden en beperkingen
 
-1a. Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat instemming van de secretaris-generaal is verkregen: 
+1. Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat voorafgaande instemming van de secretaris-generaal is verkregen: 
 
-– Afhandelen van formatieaangelegenheden met betrekking tot functies die rechtstreeks onder de hoofdingenieur-directeur van een regionaal of landelijk organisatieonderdeel, onder de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken of onder de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie vallen, als bedoeld in het Statuut Decentralisatie Formatievaststelling en Formatiebeheer bij het ministerie van Infrastructuur en Milieu;  
+– Afhandelen van formatieaangelegenheden met betrekking tot functies die rechtstreeks onder de hoofdingenieur-directeur van een regionaal of centraal organisatieonderdeel, of onder de algemeen directeur van de RWS Corporate Dienst of RWS Algemene Corporate Taken vallen, als bedoeld in het Statuut Decentralisatie Formatievaststelling en Formatiebeheer bij het ministerie van Infrastructuur en Milieu;  
 
 – Afwijken van de hoofdlijnen van het departementale personeelsbeleid, formatiebeleid en management ontwikkelingsbeleid.    
 
-1b.  Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden: 
+2. Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden: 
 
 – Verlenen van eervol ontslag aan de ambtenaar die uit een vertrouwensfunctie moet worden ontheven, als bedoeld in artikel 125e, tweede lid, Ambtenarenwet;  
 
-– Fungeren als bevoegd gezag uit hoofde van in artikel 1, onderdeel b van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985.    
+– Fungeren als bevoegd gezag uit hoofde van in artikel 1, onderdeel b van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985;  
 
-2. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer zijn voorbehouden de volgende HRM-bevoegdheden: 
-
-– Samenstellen van en benoemen van leden in een directieteam van een organisatieonderdeel, een projectdirectie of een programmadirectie;  
+– Samenstellen van en benoemen van leden in een directieteam van een organisatieonderdeel;  
 
 – Vaststellen van vaste reissommen als bedoeld in artikel 14 van het Reisbesluit binnenland, voor zover het groepen personeel betreft die voorkomen bij meer organisatieonderdelen;  
 
@@ -255,39 +250,39 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 – Verlenen van ongeschiktheidontslag anders dan op grond van ziels- of lichaamsgebreken, als bedoeld in artikel 98, eerste lid, onderdeel g van het ARAR;  
 
-– Verlenen van ontslag op grond van artikel 99 van het ARAR, indien de meerkosten aangaande de minimale uitkering niet meer bedragen dan drie bruto maandsalarissen;  
+– Verlenen van ontslag op grond van artikel 99 van het ARAR, indien de meerkosten aangaande de minimale ontslaguitkering afzonderlijk, dan wel tezamen met de vergoeding voor materiële schade, niet meer bedragen dan drie bruto maandsalarissen;  
+
+– Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien een dergelijke vergoeding verband houdt met een ontslag als bedoeld in artikel 99 van het ARAR en indien die vergoeding afzonderlijk, dan wel tezamen met de meerkosten aangaande de ontslaguitkering, niet meer bedraagt dan drie bruto maandsalarissen;  
 
 – Besluiten over toekenning van immateriële schadevergoedingen.    
 
-3. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat via de RWS Bestuursstaf instemming van de secretaris-generaal is verkregen: 
+3a.  Aan de directeur-generaal is voorbehouden de volgende HRM-bevoegdheid, welke alleen mag worden uitgeoefend nadat voorafgaande instemming van de secretaris-generaal is verkregen: 
 
-– Verlenen van disciplinair ontslag, als bedoeld in artikel 81, eerste lid, onderdeel L van het ARAR;  
+– Verlenen van disciplinair ontslag, als bedoeld in artikel 81, eerste lid, onderdeel l van het ARAR;    
+
+3b. Aan de directeur-generaal, de chief financial officer, de hoofdingenieur-directeur en de algemeen directeur van de RWS Corporate Dienst of RWS Algemene Corporate Taken zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat voorafgaande instemming van de secretaris-generaal is verkregen: 
 
 – Verlenen van reorganisatieontslag en ontslag wegens verplaatsing van een dienstonderdeel, als bedoeld in de artikelen 96 en 96a van het ARAR;  
 
-– Verlenen van ontslag aan een herplaatsingkandidaat, als bedoeld in artikel 49L van het ARAR;  
+– Verlenen van ontslag aan een herplaatsingkandidaat, als bedoeld in artikel 49l van het ARAR;  
 
-– Niet verlenen van ontslag wegens het bereiken van de pensioengerechtigde leeftijd, als bedoeld in artikel 98, eerste lid, onderdeel h van het ARAR;  
+– Niet verlenen van ontslag wegens het bereiken van de leeftijd van zeventig jaar, als bedoeld in artikel 98, eerste lid, onderdeel h van het ARAR;  
 
-– Verlenen van ontslag als bedoeld in artikel 99 van het ARAR, indien de meerkosten aangaande de minimale uitkering afzonderlijk, dan wel tezamen met de vergoeding voor materiële schade, meer bedragen dan drie bruto maandsalarissen;  
+– Verlenen van ontslag als bedoeld in artikel 99 van het ARAR, indien de meerkosten aangaande de minimale ontslaguitkering afzonderlijk, dan wel tezamen met de vergoeding voor materiële schade, meer bedragen dan drie bruto maandsalarissen;  
 
 – Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien een dergelijke vergoeding verband houdt met een ontslag als bedoeld in artikel 99 van het ARAR en indien die vergoeding afzonderlijk, dan wel tezamen met de meerkosten aangaande de ontslaguitkering, meer bedraagt dan drie bruto maandsalarissen;  
 
 – Bewust belonen, indien deze beloning een bruto maandsalaris te boven gaat;  
 
-– Vaststellen van plaatsen van tewerkstelling welke niet of niet doelmatig bereikbaar zijn met openbaar vervoer, als bedoeld in het Verplaatsingskostenbesluit 1989.    
+– Vaststellen van plaatsen van tewerkstelling welke niet of niet doelmatig bereikbaar zijn met openbaar vervoer, als bedoeld in het Verplaatsingskostenbesluit 1989.   Het verkrijgen van instemming van de secretaris-generaal verloopt via de directeur-generaal.  
 
-4. De volgende HRM-bevoegdheden zijn voorbehouden aan: 
+4. Aan de chief financial officer, de hoofdingenieur-directeur en de algemeen directeur van de RWS Corporate Dienst of RWS Algemene Corporate Taken zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat zij voorafgaande instemming van de directeur-generaal hebben verkregen: 
 
-a. de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, en  
+– Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien deze vergoeding meer bedraagt dan netto € 15.000;  
 
-b. de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken en de hoofdingenieur- directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie die deze bevoegdheid alleen mogen uitoefenen nadat zij via de RWS Bestuursstaf instemming van de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer hebben verkregen: 
+– Opleggen van een disciplinaire straf anders dan die van disciplinair ontslag, als bedoeld in artikel 81, eerste lid, onderdeel l van het ARAR.    
 
-o Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien deze vergoeding meer bedraagt dan netto € 15.000;  
-
-o Opleggen van een disciplinaire straf anders dan die van ontslag.      
-
-5. Het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen is voorbehouden aan de hoofdingenieur-directeur, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en de algemeen directeur van de RWS Corporate Dienst of Algemene Corporate Taken.  
+5. Het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen is voorbehouden aan de hoofdingenieur-directeur en de algemeen directeur van de RWS Corporate Dienst of RWS Algemene Corporate Taken.  
 
 6. Aan de algemeen directeur RWS Corporate Dienst, diens directeur Communicatie, Personeel en Recht van de RWS Corporate Dienst en aan de gemandateerde afdelingshoofden en senior adviseurs werkzaam bij de Directie Communicatie, Personeel en Recht van de RWS Corporate Dienst zijn voorbehouden de volgende bestuurlijk-juridische en vastgoedbevoegdheden: 
 
@@ -331,13 +326,31 @@ o inzake het geheel of gedeeltelijk matigen of kwijtschelden van kortingen of bo
 
 – Na overeenstemming met de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer, het treffen van schikkingen in civielrechtelijke procedures inzake vorderingen van Rijkswaterstaat op derden.    
 
-8. Aan de algemeen directeur van de RWS Corporate Dienst en diens directeuren zijn voorbehouden de volgende comptabele bevoegdheden: 
+8a. Aan de algemeen directeur van de RWS Corporate Dienst en diens directeur Facilitair en Financiën zijn voorbehouden de volgende comptabele bevoegdheden, welke alleen mogen worden uitgeoefend nadat instemming is verkregen van de hoofddirecteur Financiën, Management en Control: 
 
-– Na het verkrijgen van instemming van de hoofddirectie Financiën, Management en Control, het kwijtschelden van een vordering kleiner dan € 5.000;  
+– Het kwijtschelden van een vordering wat bij of krachtens een specifieke wet plaatsvindt die het bedrag van € 500.000 overstijgt;  
 
-– Het buiten invordering stellen van een vordering kleiner dan € 5.000;  
+– Het kwijtschelden van een vordering wat niet bij of krachtens een specifieke wet plaatsvindt;  
 
-– Het verrichten van een schenking aan een derde van een aan de Staat toebehorende niet-geldelijke roerende zaak met een waarde gelijk aan of kleiner dan € 500.   De genoemde bedragen zijn exclusief eventuele omzetbelasting.  
+– Het buiten invordering stellen van een vordering die niet op basis van een administratieve organisatie procedure plaatsvindt als het bedrag de € 5.000 overstijgt;  
+
+– Het buiten invordering stellen van een vordering die op basis van een administratieve organisatie procedure plaatsvindt als het bedrag de € 25.000 overstijgt;  
+
+– Het oplossen van een geschil met betrekking tot een vordering waarbij het gelijk van beide partijen niet zonder meer duidelijk is, die het bedrag van € 500.000 overstijgt;  
+
+– Het verrichten van een schenking aan een derde van een aan de Staat toebehorende niet-geldelijke roerende zaak en niet bij of krachtens de wet geregeld.   De genoemde bedragen zijn inclusief eventuele omzetbelasting.  
+
+8b. Aan de algemeen directeur van de RWS Corporate Dienst en diens directeur Facilitair en Financiën zijn voorbehouden de volgende comptabele bevoegdheden: 
+
+– Het kwijtschelden van een vordering wat bij of krachten een specifieke wet plaatsvindt als het bedrag gelijk of kleiner is dan € 500.000;  
+
+– Het buiten invordering stellen van een vordering die niet op basis van een administratieve organisatie procedure plaatsvindt als het bedrag gelijk of kleiner is dan € 5.000;  
+
+– Het buiten invordering stellen van een vordering die op basis van een administratieve organisatie procedure plaatsvindt als het bedrag gelijk of kleiner is dan € 25.000;  
+
+– Het oplossen van een geschil met betrekking tot een vordering waarbij het gelijk van beide partijen niet zonder meer duidelijk is, als het bedrag gelijk of kleiner is dan € 500.000;  
+
+– Het verrichten van een schenking aan een derde van een aan de Staat toebehorende niet-geldelijke roerende zaak indien het schenken bij of krachtens de wet is geregeld of indien de schenking voortvloeit uit een beleid gericht op de aanschaf van zaken met het oog op schenking aan derden.   De genoemde bedragen zijn inclusief eventuele omzetbelasting.  
 
 9. Aan de hoofdingenieur-directeur van RWS Water, Verkeer en Leefomgeving, diens directeur Leefomgeving en aan de gemandateerde afdelingshoofden werkzaam bij de directie Leefomgeving van het organisatieonderdeel RWS Water, Verkeer en Leefomgeving zijn voorbehouden de volgende bevoegdheden op het gebied van milieu en leefomgeving, mobiliteit en klimaat voor zover het betreft: 
 
@@ -393,7 +406,7 @@ a. het uitoefenen van de beheersbevoegdheden ten aanzien van de tot het regional
 
 b. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de Wet bescherming Antarctica en het verrichten van handelingen ter voorbereiding en ter uitvoering van bedoelde besluiten en overeenkomsten.    
 
-11. Aan de hoofdingenieur- directeur, de algemeen directeur van de RWS Corporate Dienst, de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie en diens directeuren, is voorbehouden het nemen van besluiten op verzoeken als bedoeld in de Wet openbaarheid van bestuur, tenzij het verzoek: 
+11. Aan de hoofdingenieur- directeur, de algemeen directeur van de RWS Corporate Dienst of RWS Algemene Corporate Taken en diens directeuren, is voorbehouden het nemen van besluiten op verzoeken als bedoeld in de Wet openbaarheid van bestuur, tenzij het verzoek: 
 
 – afgewezen kan worden omdat binnen het ministerie van Infrastructuur en Milieu geen documenten zijn die betrekking hebben op het verzoek;  
 

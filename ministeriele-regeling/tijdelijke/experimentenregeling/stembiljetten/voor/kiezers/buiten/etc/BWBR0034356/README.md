@@ -40,7 +40,7 @@ Het briefstembureau stelt bij de stemopneming vast de redenen waarom stemmen als
 
 ### Artikel  6  
 
-1.  In afwijking van de bijlage bij de Kiesregeling wordt voor kiezers buiten Nederland als model voor het stembiljet het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
+1.  In afwijking van de bijlage bij artikel 1 van de Kies- en referendumregeling wordt voor kiezers buiten Nederland als model voor het stembiljet het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
 2.  Als model voor de registratie van een logo wordt het model vastgesteld dat in de bijlage bij deze regeling is opgenomen.   
 3.  Als modellen voor het verzoek om een vervangend briefstembewijs worden de modellen vastgesteld die in de bijlage bij deze regeling zijn opgenomen.  
 
@@ -61,9 +61,10 @@ R.H.A. Plasterk
 
 ### Model  A  
 
-####Het stembiljet voor kiezers buiten Nederland bij de verkiezing van het Europees Parlement <sup> 1  De logo’s worden in kleur geplaatst op het stembiljet dat per e-mail of per post wordt toegezonden aan de kiezer. De kiezer die het stembiljet print, kan het stembiljet in kleur of in grijstinten printen.  </sup> 
+####De stembiljetten voor kiezers buiten Nederland bij de verkiezing van het Europees Parlement en bij het referendum
 
-![252942](http://wetten.overheid.nl/Illustration/252942)
+1. Het model voor het stembiljet voor kiezers buiten Nederland bij de verkiezing van het Europees Parlement luidt als volgt<sup> 1 De logo’s worden in kleur geplaatst op het stembiljet dat per e-mail of per post wordt toegezonden aan de kiezer. De kiezer die het stembiljet print, kan het stembiljet in kleur of in grijstinten printen. </sup>:![256325](http://wetten.overheid.nl/Illustration/256325)
+2. Het model voor het stembiljet voor kiezers buiten Nederland bij het referendum luidt als volgt:![256326](http://wetten.overheid.nl/Illustration/256326)
 
 ### Model  B  
 
@@ -75,13 +76,13 @@ R.H.A. Plasterk
 
 ####Het verzoek om een vervangend briefstembewijs voor kiezers buiten Nederland
 
-![252938](http://wetten.overheid.nl/Illustration/252938)
-![252939](http://wetten.overheid.nl/Illustration/252939)
+![256327](http://wetten.overheid.nl/Illustration/256327)
+![256328](http://wetten.overheid.nl/Illustration/256328)
 
 ### Model  D  
 
 ####Het verzoek om een vervangend briefstembewijs voor kiezers in Aruba, Curaçao of Sint Maarten
 
-![252940](http://wetten.overheid.nl/Illustration/252940)
-![252943](http://wetten.overheid.nl/Illustration/252943)
+![256329](http://wetten.overheid.nl/Illustration/256329)
+![256330](http://wetten.overheid.nl/Illustration/256330)
 

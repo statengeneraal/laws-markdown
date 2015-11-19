@@ -3,42 +3,42 @@
 ##Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Verkeer en Waterstaat en de Minister van Landbouw, Natuur en Voedselkwaliteit van 6 april 2010, nr. BJZ2010006069, Directie Bestuurlijke en Juridische Zaken, tot vaststelling van het monitoringsprogramma, bedoeld in artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Verkeer en Waterstaat, en de Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md);
+Gelet op artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009;
 Besluiten:    
 
 ### Artikel 1  
 
-Het monitoringsprogramma bedoeld in [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) bestaat voor de stroomgebieddistricten, genoemd in [artikel 1.2, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md), uit: 
+Het monitoringsprogramma bedoeld in artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009, bestaat voor de stroomgebieddistricten, genoemd in artikel 1.2, eerste lid, van de Waterwet, uit de volgende documenten: 
 
-a. ‘Draaiboek monitoring grondwater, Voor de kaderrichtlijn Water’ van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, versie 1.3, van 17 februari 2010, als luidend na de wijziging die is vastgesteld door het Directeuren Wateroverleg (DWO) op 1 juli 2011;  
+a. ‘Draaiboek monitoring grondwater KRW’, oktober 2013, vastgesteld in het Cluster monitoring van het ministerie van Infrastructuur en Milieu, rapportage en evaluatie op 5 december 2013;  
 
-b. ‘Protocol beoordeling kwantitatieve toestand grondwaterlichamen (Nadere uitwerking beoordelingsmethodiek grondwatertoestand)’ van 10 juni 2008;  
+b. ‘Protocol voor toestand- en trendbeoordeling van grondwaterlichamen KRW’, maart 2013, vastgesteld in het Cluster monitoring, rapportage en evaluatie van het ministerie van Infrastructuur en Milieu op 5 december 2013;  
 
-c. ‘Protocol voor de beoordeling van de chemische toestand van Grondwaterlichamen’ van het RIVM van 2008;  
+c. ‘Protocol voor de beoordeling van de chemische toestand van Grondwaterlichamen’ van het RIVM van 2008; Protocol voor toestand- en trendbeoordeling van grondwaterlichamen KRW, maart 2013, vastgesteld in het Cluster monitoring, rapportage en evaluatie van het ministerie van Infrastructuur en Milieu op 5 december 2013;  
 
-d. ‘Referenties en maatlatten voor natuurlijke watertypen voor de kaderrichtlijn water’ van de STOWA van 2007;  
+d. ‘Referenties en maatlatten voor natuurlijke watertypen voor de Kaderrichtlijn Water 2015–2021’, Stowa rapport 2012-31;  
 
-e. ‘Handreiking MEP/GEP, handreiking voor vaststellen van status, ecologische doelstellingen en bijpassende maatregelenpakketten voor niet-natuurlijke wateren’ van de Projectgroep Implementatie Handreiking, Ministerie van Verkeer en Waterstaat, van november 2005;  
+e. ‘Omschrijving MEP en maatlatten voor sloten en kanalen voor de Kaderrichtlijn Water 2015–2021’, Stowa rapport 2012-34;  
 
-f. ‘Richtlijn KRW Monitoring Oppervlaktewater en Protocol Toetsen & Beoordelen’ als vastgesteld door het Directeuren Wateroverleg (DWO) op 10 februari 2011;  
+f. ‘Handreiking MEP/GEP; Handreiking voor vaststellen van status, ecologische doelstellingen en bijpassende maatregelenpakketten voor niet-natuurlijke wateren’, Projectgroep Implementatie Handreiking van het ministerie van Verkeer en Waterstaat, november 2005;  
 
-g. ‘Protocol toetsen en beoordelen voor de operationele monitoring en toestand- en trendmonitoring, toetsjaar 2007’ van Cluster Monitoring, Rapportage en Evaluatie, 10 april 2008;  
+g. ‘Richtlijn KRW Monitoring Oppervlaktewater en Protocol Toetsen & Beoordelen, 2014’, vastgesteld in het Cluster monitoring, rapportage en evaluatie van het ministerie van Infrastructuur en Milieu op 26 juni 2014;  
 
-h. ‘Instructie Richtlijn monitoring oppervlaktewater Europese kaderrichtlijn Water en Protocol toetsen & beoordelen’ van 21 januari 2010;  
+h. Factsheets monitoring, versie 2015, zoals gepubliceerd op: www.waterkwaliteitsportaal.nl/;  
 
-i. fact-sheets monitoring, zoals vastgesteld door het Cluster Monitoring, Rapportage en Evaluatie op 21 januari 2010;  
+j. de bijlage bij de Regeling monitoring kaderrichtlijn water;  
 
-j. ‘Handreiking Diagnostiek, Ecologische kwaliteit van watersystemen’, van Haskoning Nederland B.V. van november 2007;  
+k. 'Protocol voor monitoring en toetsing drinkwaterbronnen KRW', vastgesteld in het Programmateam Water van het ministerie van Infrastructuur en Milieu op 17 september 2015;  
 
-k. de bijlage bij de Regeling monitoring kaderrichtlijn water.   
+l. 'Protocol voor monitoring en toetsing schelpdierwateren', vastgesteld in het Programmateam Water van het ministerie van Infrastructuur en Milieu op 17 september 2015.  
 
 ### Artikel  2  
 
-Het monitoringsprogramma, bedoeld in artikel 1, of een onderdeel daarvan als bedoeld in [artikel 13, vierde lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) of een bijstelling van dat programma of onderdeel wordt bekendgemaakt op de volgende website: www.kaderrichtlijnwater.nl 
+Het monitoringsprogramma, bedoeld in artikel 1, of een onderdeel daarvan als bedoeld in artikel 13, vierde lid, van het Besluit kwaliteitseisen en monitoring water 2009 of een bijstelling van dat programma of onderdeel wordt bekendgemaakt op de volgende website: www.kaderrichtlijnwater.nl 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Regeling monitoring kaderrichtlijn water](../../../../../../../ministeriele-regeling/regeling/monitoring/kaderrichtlijn/water/BWBR0027502/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de Regeling monitoring kaderrichtlijn water in werking treedt. 
 
 ### Artikel  4  
 
