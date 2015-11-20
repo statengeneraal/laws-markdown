@@ -9,20 +9,15 @@ Besluit:
 
 ####Vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 De rentevaste periode, bedoeld in artikel 23 van de Wet bevordering eigenwoningbezit, is: 10 jaar. 
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 Het percentage van de toetsrente, bedoeld in artikel 26, eerste lid, van de Wet bevordering eigenwoningbezit, bedraagt: 3,3. 
 
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 De financieringslastnorm, bedoeld in artikel 29, eerste lid, van de Wet bevordering eigenwoningbezit, bedraagt: 
 
@@ -122,7 +117,6 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 | 35  | 27,50%  |
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 Het percentage, bedoeld in artikel 29, tweede lid, van de Wet bevordering eigenwoningbezit, waarmee de financieringslastnorm, bedoeld in het eerste lid van dat artikel, ten hoogste kan worden vermeerderd, bedraagt: 
 
@@ -222,7 +216,6 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 | 35  | 0,18%  |
 
 ### Artikel  5  
-Treedt in werking per 01-01-2015 
 
 De inkomensklassen, en de daarbij behorende maximale hypothecaire lening, bedoeld in artikel 29, vijfde lid, van de Wet bevordering eigenwoningbezit, zijn: 
 
@@ -325,10 +318,7 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 
 ####Wijziging van de Wet bevordering eigenwoningbezit
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet bevordering eigenwoningbezit. 
 
@@ -336,20 +326,15 @@ Wijzigt de Wet bevordering eigenwoningbezit.
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7  
-Treedt in werking per 01-01-2015 
 
 De Regeling koopsubsidiegrenzen 2014 wordt ingetrokken. 
 
 ### Artikel  8  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  9  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling koopsubsidiegrenzen 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

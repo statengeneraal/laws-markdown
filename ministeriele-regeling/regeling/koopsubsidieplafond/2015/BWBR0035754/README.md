@@ -7,22 +7,18 @@ Gelet op artikel 6, zesde lid, aanhef en onderdeel a, van de Wet bevordering eig
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 Het bedrag, bedoeld in artikel 6, zesde lid, onderdeel a, van de Wet bevordering eigenwoningbezit, is voor het jaar 2015: € 0,00. 
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 De Regeling koopsubsidieplafond 2014 wordt ingetrokken. 
 
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling koopsubsidieplafond 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   

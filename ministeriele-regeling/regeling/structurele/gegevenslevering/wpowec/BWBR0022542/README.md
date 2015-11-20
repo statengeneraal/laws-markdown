@@ -26,7 +26,7 @@ d.  *bevoegd gezag:* het bevoegd gezag bedoeld in artikel 1 van de WPO dan wel a
 
 1.  Het bevoegd gezag verstrekt de leerlinggegevens tezamen met het persoonsgebonden nummer, bedoeld in artikel 178a, tweede lid, van de WPO en in artikel 164a, tweede lid, van de WEC, overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 1 bij deze regeling aan de minister.   
 2.  Het bevoegd gezag verstrekt de organisatiegegevens, genoemd in bijlage 2 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 2 bij deze regeling, aan de minister.   
-3.  Het bevoegd gezag, het bestuur van een regionaal expertisecentrum als bedoeld in artikel 28b van de WEC en het bestuur van een centrale dienst als bedoeld in artikel 68 van de WPO, voor zover deze dienst personeelsbekostiging voor zorgvoorzieningen ontvangt als bedoeld in artikel 132 van genoemde wet verstrekt de financiële gegevens, genoemd in bijlage 3 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 3 bij deze regeling, aan de minister.   
+3.  Het bevoegd gezag en het bestuur van een samenwerkingsverband als bedoeld in artikel 18a van de WPO verstrekt de financiële gegevens, genoemd in bijlage 3 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 3 bij deze regeling, aan de minister.   
 4.  Het bevoegd gezag verstrekt de personele gegevens, genoemd in bijlage 4 bij deze regeling overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in bijlage 4 bij deze regeling, aan de minister.  
 
 ### Artikel  3  
@@ -116,6 +116,7 @@ Dit hoofdstuk definieert alle relevante begrippen uit het Programma van Eisen. G
 | Aanleverpunt  | Onderdeel van een PO-school die volgens de deelnamegegevens van die PO-school bevoegd is om via het leerlingadministratiesysteem (LAS) gegevens uit te wisselen met BRON. Een PO-school kan zelf meerdere aanleverpunten definiëren. Een aanleverpunt kan een vestiging zijn, maar dat hoeft niet.  |
 | Afkeuringsignaal  | Signaal als gevolg van een ‘harde’ controle  |
 | Ambulante begeleiding  | Ambulante begeleiding is een flexibele vorm van onderwijskundige begeleiding gericht op de mogelijkheden van het kind of de jongere en op de wensen van ouders en PO-school (vervallen na invoering passend onderwijs).  |
+| Arrangement  | Een registratie melding arrangement is een door de instellingen uit cluster 1 & 2 en de WEC scholen ‘De Waterlelie’ te Cruquius en ‘De Berkenschutse’ te Heeze aan BRON door te geven registratie van de leerlingen die door bovengenoemde instellingen en scholen ambulant begeleid worden.  |
 | Attentiesignaal  | Signaal als gevolg van een ‘zachte’ of ‘plausibiliteits-‘ controle  |
 | Bekostigingscategorie  | De bekostigingscategorie staat voor de mate van ondersteuning die de leerling nodig heeft. Deze kent drie niveaus; hoog, middel of laag. Op basis hiervan wordt de hoogte van de bekostiging bepaald.  |
 | Bevoegd gezag  | Instantie die wettelijk verantwoordelijk is voor één of meerdere PO-scholen en daarmee voor de gegevensleveringen door die PO-scho(o)l(en)  |
@@ -128,6 +129,7 @@ Dit hoofdstuk definieert alle relevante begrippen uit het Programma van Eisen. G
 | CBS  | Centraal Bureau voor de Statistiek  |
 | Cluster  | Binnen het speciaal onderwijs worden vier clusters van speciale scholen onderscheiden:  Cluster 1: Visuele handicaps  Cluster 2: Auditief/communicatieve handicaps  Cluster 3: Lichamelijke en/of verstandelijke handicaps  Cluster 4: Psychiatrische stoornissen en ernstige leer- en/of gedragsproblemen  Elk cluster bestaat uit een aantal soorten onderwijs.  |
 | CVI  | Commissie van Indicatiestelling (vervallen na invoering passend onderwijs)  |
+| Datum start OPDC WPO  | Datum start OPDC WPO is de ingangsdatum van de gegevens rondom de plaatsing op een OPDC WPO in BRON.  |
 | Datum start Passend Onderwijs  | De datum waarop de uitwisseling van start gaat conform de wet Passend Onderwijs: 1 augustus 2014. Dit laat onverlet dat delen van de Wet van 11 oktober 2012 tot wijziging van enkele onderwijswetten in verband met een herziening van de organisatie en financiering van de ondersteuning van leerlingen in het basisonderwijs, speciaal en voortgezet speciaal onderwijs, voortgezet onderwijs en beroepsonderwijs (Stb. 2012, 533) reeds eerder in werking zijn getreden.  |
 | Deelnamegegevens  | Karakteristieken van een (aanleverpunt van een) PO-school die door de PO-school zijn opgegeven om een rol te spelen bij de gegevensuitwisseling met BRON  |
 | DUO  | Dienst uitvoering Onderwijs  |
@@ -142,6 +144,7 @@ Dit hoofdstuk definieert alle relevante begrippen uit het Programma van Eisen. G
 | NNCA  | Niet-Nederlandse Culturele Achtergrond  |
 | OCW  | (Ministerie van) Onderwijs, Cultuur en Wetenschap  |
 | Onderwijsnummer  | Negencijferige code, door DUO toegekend, waarmee een leerling zonder Burgerservicenummer in BRON uniek wordt geïdentificeerd  |
+| Ontwikkelingsperspectief  | Een registratie Ontwikkelingsperspectief (OPP) is een door een school aan BRON door te geven registratie dat voor een ingeschreven leerling een ontwikkelingsperspectief is opgesteld. Het doel van deze registratie OPP in BRON op leerling-niveau is zicht te krijgen op WPO -leerlingen die extra ondersteuning krijgen.  |
 | PGN  | Persoonsgebonden nummer in het onderwijs, zijnde ofwel het Burgerservicenummer ofwel het onderwijsnummer  |
 | PKI  | Public Key Infrastructure  Volgens PKI-overheid: PKI is een samenstel van architectuur, techniek, organisatie, procedures en regels, gebaseerd op public key cryptografie. Het doel is het hiermee mogelijk maken van betrouwbare elektronische communicatie en betrouwbare elektronische dienstverlening.  |
 | PO-school  | Een PO-school is een WPO-school of een WEC-school.  Een WPO-school is een school voor basisonderwijs of speciaal basis onderwijs.  Een WEC-school is een school of instelling voor speciaal onderwijs, voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs.  |
@@ -362,8 +365,8 @@ Een inschrijving WPO kent diverse gegevensgroepen die de inschrijving kenmerken.
 | 39  | Voorschools programma  | Alfanum  | 2  | Voorschools programma is een aanduiding van het gevolgde onderwijsprogramma van voorschoolse educatie.  Waardelijst: voorschools programma  |
 | 40  | Voorschoolse maanden  | Numeriek  | 2  | Voorschoolse maanden is het aantal maanden deelname aan een erkend project voorschoolse educatie.  Toelichting:  Het aantal maanden moet liggen tussen 1 en 24 maanden (beide inclusief).  |
 | 41  | Datum uitschrijving  | Datum  | 8  | Datum uitschrijving is de laatste datum waarop de inschrijving werkelijk actief was. Echter, als dit de laatste schooldag van het schooljaar betreft dan wordt 31 juli als datum genomen (registratie volgens opgave door school).  |
-| 42  | Advies VO  | Alfanum  | 2  | Advies VO is de codering van het advies over het volgen van aansluitend voortgezet onderwijs bij het verlaten van de PO-school, zoals opgenomen in het onderwijskundig rapport, bedoeld in art. 42 van de WPO.  Waardelijst: advies VO  |
-| 42a  | Herzien Advies VO  | Alfanum  | 2  | Herzien advies VO is de codering van het door de instelling, n.a.v. de eindtoets, herziene advies over het volgen van aansluitend voortgezet onderwijs bij het verlaten van de PO-school. Dit mag alleen een opwaartse herziening zijn.  Waardelijst: advies VO  |
+| 42  | Advies-vo  | Alfanum  | 2  | Advies-vo is de codering van het advies over het volgen van aansluitend voortgezet onderwijs bij het verlaten van de PO-school, zoals opgenomen in het onderwijskundig rapport, bedoeld in art. 42 van de WPO.  Waardelijst: advies-vo  |
+| 42a  | Herzien Advies-vo  | Alfanum  | 2  | Herzien advies-vo is de codering van het door de instelling, n.a.v. de eindtoets, herziene advies over het volgen van aansluitend voortgezet onderwijs bij het verlaten van de PO-school. Dit mag alleen een opwaartse herziening zijn.  Waardelijst: advies-vo  |
 | 43  | Aanduiding NNCA WPO  | Alfanum  | 1  | Aanduiding NNCA WPO is de aanduiding van een leerling met een niet-Nederlandse culturele achtergrond als bedoeld in artikel 1 en 11 lid 2 van het Besluit bekostiging WPO.  Waardelijst: aanduiding NNCA  |
 | 44  | Datum inschrijving  oorspronkelijke inschrijving  | Datum  | 8  | Datum inschrijving oorspronkelijke inschrijving is de datum inschrijving van de inschrijving die gecorrigeerd wordt.  |
 | Vestiging WPO  | Periode gegevens  |
@@ -396,6 +399,9 @@ Een inschrijving WPO kent diverse gegevensgroepen die de inschrijving kenmerken.
 | 64  | Code gewichtenregeling  | Numeriek  | 2  | Code van de gewichtenregeling volgens welke het gewicht van de leerling is bepaald. Gegevens over het gewicht van leerlingen die na 31 december 2014 op de school worden ingeschreven, worden verstrekt op basis van de ‘Ouderverklaring vaststelling leerlinggewicht’ die beschikbaar is op de website van DUO.  Waardelijst: code gewichtenregeling  |
 | 65  | Datum ingang gewicht  | Datum  | 8  | Datum vanaf wanneer het gewicht geldig is  |
 | 66  | Gewicht  | Alfanum  | 4  | Gewicht is de code van het gewicht van de leerling bedoeld in artikel 27, eerste lid van het Besluit Bekostiging WPO.  Waardelijst: gewicht  |
+| Ontwikkelingsperspectief BAO WPO  |Periode gegevens |
+| 66a  | Datum ingang OPP  | Datum  | 8  | De datum ingang OPP is de datum vanaf wanneer het ontwikkelingsperspectief voor de leerling van kracht is.  |
+| 66b  | Datum einde OPP  | Datum  | 8  | Datum einde OPP is de laatste datum waarop het ontwikkelingsperspectief werkelijk actief is.  |
 
 ### 4.1.4 
 
@@ -444,6 +450,10 @@ Net als een inschrijving WPO kent een inschrijving WEC diverse gegevensgroepen d
 | 93  | Bekostigingscategorie  | Alfanum  | 1  | De aanduiding van de Bekostigingscategorie van de leerling.  Waardelijst: Bekostigingscategorie  |
 | 94  | Beschikkingsnummer TLV  | Alfanum  | 17  | Het nummer dat door het Samenwerkingsverband is afgegeven voor het registreren van de Toelaatbaarheidsverklaring van de leerling.  Toelichting  pos 1 t.m. 6 = Samenwerkingsverband nummer  pos 7 = koppelteken  pos 8 t.m. 11 = jaartal van afgifte  pos 12 = koppelteken  pos 13 t.m. 17 = volgnummer met voorloopnullen  |
 | 95  | Datum einde Toelaatbaarheidsverklaring  | Datum  | 8  | De laatste datum waarop de Toelaatbaarheidsverklaring geldig is  (dit is altijd 31-07-EEJJ).  |
+| Arrangement WEC  | Periode gegevens  |
+| 95a  | Datum ingang arrangement  | Datum  | 8  | Datum ingang arrangement is de datum waarop de leerling gebruik maakt van het onderwijsarrangement  |
+| 95b  | BRINnummer school van inschrijving  | Alfanumeriek  | 4  | BRINnummer school van inschrijving, is het administratienummer van de school of instelling waar de leerling een arrangement ontvangt  |
+| 95c  | Vestigingsvolgnummer school van inschrijving  | Alfanumeriek  | 2  | Vestigingsvolgnummer school van inschrijving is het nummer van de vestiging binnen het registratienummer van de school/instelling OPDC, waar de leerling een arrangement ontvangt, zoals geregistreerd in het BasisRegister Instellingen.  Waardelijst: vestigingsvolgnummer school van inschrijving  Toelichting: Een vestigingsvolgnummer met een voorloopnul heeft dezelfde betekenis als een vestigingsvolgnummer zonder voorloopnul (04 is hetzelfde als 4).  |
 | Uitstroomprofiel WEC  |
 | 96  | Datum ingang uitstroomprofiel  | Datum  | 8  | Datum ingang uitstroomprofiel is de datum waarop de leerling binnen het uitstroomprofiel is geplaatst.  |
 | 97  | Uitstroomprofiel  | Numeriek  | 1  | Het uitstroomprofiel is het profiel (dagbesteding, arbeidsmarktgericht of vervolgonderwijs, zoals benoemd in artikel 14 van de WEC) waarin de leerling op het vso is geplaatst.  Waardelijst: uitstroomprofiel  |
@@ -461,16 +471,16 @@ Naast de kopgegevens, persoonsgegevens en inschrijvingsgegevens voor WPO en WEC 
 | Verplichte eindtoets  |
 | 100  | Code verplichte eindtoets  | Alfanum  | 4  | Code verplichte eindtoets is de unieke codering van de eindtoets.  Waardelijst: Verplichte eindtoets  |
 | 101  | Niveau eindtoets  | Alfanum  | 4  | Niveau eindtoets op basis van de verwachte doorstroom van de leerling naar het vervolgonderwijs.  Waardelijst: niveau eindtoets  |
-| 102  | Datum afname  | Datum  | 8  | Datum van de 1e dag van de toetsafname van de verplichte eindtoets  |
-| 103  | Score  | Alfanum  | 10  | Toetsuitslag van de verplichte eindtoets als geheel in de vorm van een score.  |
-| 104  | Reden ontheffing  | Alfanum  | 2  | Reden waarom de leerling een ontheffing heeft voor het afleggen van de eindtoets.  |
-| 105  | Reden niet-deelname  | Alfanum  | 2  | Reden waarom de leerling niet heeft deelgenomen aan de eindtoets.  |
-| Toetsonderdeel  | --- |
-| 106  | Onderdeelcode  | Alfanum  | 4  | Onderdeelcode is een code die het toetsonderdeel uniek identificeert bij een toets.  |
-| 107  | Referentieniveau onderdeel  | Alfanum  | 2  | Referentieniveau onderdeel is de waarde van het referentieniveau dat in het toetsonderdeel rekenen is behaald.  |
-| Toetsdomein  | --- |
-| 108  | Domeincode  | Alfanum  | 4  | Domeincode is een code die de toetsdomeinen lezen en taalverzorging uniek identificeert bij het toetsonderdeel taal.  |
-| 109  | Referentieniveau domein  | Alfanum  | 2  | De waarde die aangeeft welk referentieniveau de leerling op het toetsdomein lezen en taalverzorging heeft behaald.  |
+| 102  | Datum afname  | Datum  | 8  | Datum van de eerste dag van de toetsafname van de verplichte eindtoets.  |
+| 103  | Score  | Alfanum  | 10  | Toetsuitslag van de verplichte eindtoets als geheel in de vorm van een score.  Waardelijst: Niveau eindtoets  |
+| 104  | Reden ontheffing  | Alfanum  | 2  | Reden waarom de leerling een ontheffing heeft voor het afleggen van de eindtoets.  Waardelijst: Reden ontheffing  |
+| 105  | Reden niet-deelname  | Alfanum  | 2  | Reden waarom de leerling niet heeft deelgenomen aan de eindtoets.  Waardelijst: Reden niet deelname  |
+| Toetsonderdeel  |
+| 106  | Code Toetsonderdeel  | Alfanum  | 4  | Code Toetsonderdeel is een code die het toetsonderdeel uniek identificeert bij een toets.  Waardelijst: Toetsonderdeel  |
+| 107  | Referentieniveau Toetsonderdeel  | Alfanum  | 2  | Referentieniveau Toetsonderdeel is de waarde van het referentieniveau dat in het toetsonderdeel rekenen is behaald.  Waardelijst: Referentieniveau Toetsonderdeel  |
+| Toetsdomein  |
+| 108  | Code Toetsdomein  | Alfanum  | 4  | Code Toetsdomein is een code die het toetsdomein uniek identificeert bij een toetsonderdeel.  Waardelijst: Toetsdomein  |
+| 109  | Referentieniveau Toetsdomein  | Alfanum  | 2  | De waarde die aangeeft welk referentieniveau de leerling op het toetsdomein lezen en taalverzorging heeft behaald.  Waardelijst: Referentieniveau Toetsdomein  |
 
 ### 4.1.6 
 
@@ -483,19 +493,16 @@ Naast de kopgegevens, persoonsgegevens en inschrijvingsgegevens voor WPO en WEC 
 | Overig  |
 | 110  | Peildatum  | Datum  | 8  | De peildatum van de selectie (datum waarop de inschrijvingen ‘geldig’ zijn)  |
 | 111  | Vestigingsvolgnummer  | Alfanum  | 2  | Vestigingsvolgnummer is het nummer van de vestiging binnen het registratienummer van de PO-school waarvoor de selectie voor het registratieoverzicht geldt.  Waardelijst: vestigingsvolgnummer  Toelichting: Een vestigingsvolgnummer met een voorloopnul heeft dezelfde betekenis als een vestigingsvolgnummer zonder voorloopnul. (04 is hetzelfde als 4)  |
-| 112  | Datum ingang uitstroomprofiel  | Datum  | 8  | Datum ingang uitstroomprofiel is de datum waarop de leerling binnen het uitstroomprofiel is geplaatst.  |
-| 113  | Uitstroomprofiel  | Numeriek  | 1  | Het uitstroomprofiel geeft de richting aan van de uitstroombestemming die de leerling volgt binnen het VSO.  Waardelijst: uitstroomprofiel  |
-| 114  | Leerjaar Uitstroomprofiel  | Numeriek  | 1  | Leerjaar uitstroomprofiel is het leerjaar waarin de leerling zit binnen het vervolgonderwijs.  Mogelijke waarden:  1 t/m 6  |
-| 115  | Signaalcode  | Alfanum  | 3  | De aanduiding van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd danwel de attendering op een specifiek ontstane situatie na verwerking  Waardelijst: signaalcode  |
-| 116  | Omschrijving signaal  | Alfanum  | 250  | De omschrijving van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd danwel de omschrijving van de attendering op een specifiek ontstane situatie na verwerking.  Waardelijst: omschrijving signaal  |
-| 117  | Ernst signaal  | Alfanum  | 1  | De ernst van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd.  Waardelijst: ernst  |
-| 118  | Status melding  | Alfanum  | 1  | B= in behandeling  A= afgekeurd  |
-| 119  | Controledatum  | Datum  | 8  | Datum waarop de controle op dubbele inschrijvingen heeft plaatsgevonden  |
-| 120  | Naam PO-school  | Alfanum  | 70  | Naam van de PO-school  |
-| 121  | Plaats PO-school  | Alfanum  | 24  | Naam van de plaats waar de PO-school is gesitueerd  |
-| 122  | Naam contactpersoon  | Alfanum  | 50  | De naam van de contactpersoon van een aanleverpunt waarmee in het kader van uitwisselingen contact kan worden opgenomen.  |
-| 123  | Tel.nr contactpersoon  | Alfanum  | 10  | Het telefoonnummer van de contactpersoon van een aanleverpunt.  |
-| 124  | E-mail contactpersoon  | Alfanum  | 75  | Het adres waaronder de contactpersoon van het aanleverpunt via het internet per elektronische post te bereiken is.  |
+| 112  | Signaalcode  | Alfanum  | 3  | De aanduiding van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd danwel de attendering op een specifiek ontstane situatie na verwerking  Waardelijst: signaalcode  |
+| 113  | Omschrijving signaal  | Alfanum  | 250  | De omschrijving van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd danwel de omschrijving van de attendering op een specifiek ontstane situatie na verwerking.  Waardelijst: omschrijving signaal  |
+| 114  | Ernst signaal  | Alfanum  | 1  | De ernst van de tekortkoming die tijdens de verwerking van de teruggekoppelde melding is geconstateerd.  Waardelijst: ernst  |
+| 115  | Status melding  | Alfanum  | 1  | B= in behandeling  A= afgekeurd  |
+| 116  | Controledatum  | Datum  | 8  | Datum waarop de controle op dubbele inschrijvingen heeft plaatsgevonden  |
+| 117  | Naam PO-school  | Alfanum  | 70  | Naam van de PO-school  |
+| 118  | Plaats PO-school  | Alfanum  | 24  | Naam van de plaats waar de PO-school is gesitueerd  |
+| 119  | Naam contactpersoon  | Alfanum  | 50  | De naam van de contactpersoon van een aanleverpunt waarmee in het kader van uitwisselingen contact kan worden opgenomen.  |
+| 120  | Tel.nr contactpersoon  | Alfanum  | 10  | Het telefoonnummer van de contactpersoon van een aanleverpunt.  |
+| 121  | E-mail contactpersoon  | Alfanum  | 75  | Het adres waaronder de contactpersoon van het aanleverpunt via het internet per elektronische post te bereiken is.  |
 
 ### 4.2 
 
@@ -536,6 +543,16 @@ Op het moment dat het onderwijsnummer voor PO wordt ingevoerd hebben de PO-schol
 ####Datum start Passend Onderwijs
 
 Op 1 augustus 2012 traden de eerste onderdelen van de Wet passend onderwijs (Stb. 2012, 533) in werking. Op deze datum werden er echter nog geen gegevens conform de nieuwe wetgeving uitgewisseld. De uitwisseling van gegevens start twee jaar later, op 1 augustus 2014. Waar in dit document aan datum start Passend Onderwijs wordt gerefereerd wordt bedoeld: 1-8-2014.
+
+### 4.2.4a  
+
+#### Datum start Passend Onderwijs Beleidsinformatie
+
+Op 1 augustus 2015 is de wetgeving rondom het verzamelen van de beleidsinformatie voor Passend Onderwijs in werking getreden. Dit houdt voor de aanlevering aan BRON in: 
+
+* Het aanleveren van een Arrangement voor leerlingen die gedurende een bepaalde periode worden begeleid door een WEC-school uit cluster 1 of 2 of door epilepsiescholen (uit cluster 3)  
+
+* Het aanleveren van een Ontwikkelingsperspectief BAO door een WPO-school voor de betreffende ingeschreven leerlingen voor een bepaalde periode.   Omdat het wetgevingstraject parallel loopt aan het traject voor het aanpassen van de gegevensuitwisseling tussen LAS en BRON is een variabele ingangsdatum geïntroduceerd. Het gaat om de datum start Passend Onderwijs Beleidsinformatie. Op deze manier is het mogelijk om afhankelijk van het wetgevingstraject de ingangsdatum van de gegevens in BRON te variëren en af te stemmen op het wetgevingstraject.
 
 ### 4.2.5 
 
@@ -631,14 +648,14 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | Voorschools programma  | Indien gevuld, moet deze voldoen aan de waardelijst (VVE-tabel) onafhankelijk van de controledatum  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
 | Voorschoolse maanden  | Indien gevuld, moet het veld gevuld zijn met een numerieke waarde tussen 1 en 24 (beide inclusief)  | Afkeur  | Het aantal voorschoolse maanden <aantal voorschoolse maanden> moet een getal zijn tussen 1 en 24 maanden (beide inclusief) [313]  |
 | Datum uitschrijving  | Datum uitschrijving moet liggen op of na de Datum inschrijving  | Afkeur  | Datum uitschrijving <veldwaarde> ligt voor datum inschrijving [314]  |
-| --- | Als een leerling in leerjaar 8 wordt uitgeschreven, dan moet advies VO gevuld zijn  | Signaal  | Bij een uitschrijving in leerjaar 8 is advies VO normaliter gevuld [316]  |
+| --- | Als een leerling in leerjaar 8 wordt uitgeschreven, dan moet advies-vo en verplichte eindtoets gevuld zijn.  De controle op de gegevensgroep Verplichte eindtoets en de gegevensgroep Eindtoets WPO wordt alleen voor basisscholen uitgevoerd.  | Signaal  | Bij een uitschrijving in leerjaar 8 is <attribuut> en/of <gegevensgroep> normaliter gevuld [316]  |
 | --- | Als datum uitschrijving gevuld is, mag deze niet liggen na de datum opheffing BRINnummer (datum uit bedrijf), indien deze laatste aanwezig is  | Afkeur  | BRINnummer <BRINnummer> is niet geldig op <attribuut> <datum> volgens BRIN [301]  |
 | --- | De datum uitschrijving mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | signaal  | <veldnaam> <veldwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
-| Advies VO  | Indien gevuld, moet de datum uitschrijving binnen de geldigheidsduur liggen van de waarde van het advies VO. Indien datum uitschrijving niet is gevuld (de leerling is nog niet uitgeschreven), dient BRON de aanleverdatum van het advies VO te gebruiken voor deze controle (dus moet in dit geval de aanleverdatum liggen, binnen de geldigheidsduur van het advies VO)  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende  waardelijst [741]  |
-| Herzien advies VO  | Indien gevuld, moet de datum uitschrijving binnen de geldigheidsduur liggen van de waarde van het Herzien advies VO. Indien datum uitschrijving niet is gevuld (de leerling is nog niet uitgeschreven), dient BRON de aanleverdatum van het Herzien advies VO te gebruiken voor deze controle (dus moet in dit geval de aanleverdatum liggen, binnen de geldigheidsduur van het Herzien advies VO)  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | Indien gevuld moet ook Advies VO zijn gevuld  | Afkeur  | Het Herzien Advies VO mag alleen gevuld zijn als het Advies VO gevuld is [475]  |
-| --- | Indien gevuld moet de code hoger zijn dan de code Advies VO. Zie voor codering de waardelijst Advies VO  | Afkeur  | Het Herzien advies VO moet hoger zijn dan het Advies VO [462]  |
-| --- | Indien gevuld moet ook de gegevensgroep Verplichte eindtoets aanwezig zijn.  | Afkeur  | Het herzien advies VO mag niet gevuld zijn als er nog geen eindtoets is geleverd [463]  |
+| Advies-vo  | Indien gevuld, moet de datum uitschrijving binnen de geldigheidsduur liggen van de waarde van het advies-vo. Indien datum uitschrijving niet is gevuld (de leerling is nog niet uitgeschreven), dient BRON de aanleverdatum van het advies-vo te gebruiken voor deze controle (dus moet in dit geval de aanleverdatum liggen, binnen de geldigheidsduur van het advies-vo)  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende  waardelijst [741]  |
+| Herzien advies-vo  | Indien gevuld, moet de datum uitschrijving binnen de geldigheidsduur liggen van de waarde van het herzien advies-vo. Indien datum uitschrijving niet is gevuld (de leerling is nog niet uitgeschreven), dient BRON de aanleverdatum van het herzien advies-vo te gebruiken voor deze controle (dus moet in dit geval de aanleverdatum liggen, binnen de geldigheidsduur van het herzien advies-vo)  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Indien gevuld moet de code hoger zijn dan de code advies-vo. Zie voor codering de waardelijst advies-vo  | Afkeur  | Herzien advies-vo moet hoger zijn dan het advies-vo  [462]  |
+| --- | Indien gevuld moet ook de gegevensgroep Verplichte eindtoets of de gegevensgroep Eindtoets WPO aanwezig zijn.  | Afkeur  | Zonder registratie eindtoets mag geen herzien advies-vo geleverd worden [463]  |
+| --- | Indien gevuld moet ook advies-vo zijn gevuld  | Afkeur  | Herzien advies-vo is niet toegestaan zonder registratie advies-vo [475]  |
 | Aanduiding NNCA WPO  | Aanduiding NNCA WPO moet voldoen aan de waardelijst  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
 | --- | Als het gaat om een inschrijving aan een school voor trekkende bevolking, dan is de aanduiding NNCA WPO gevuld met de waarde '0'  | Afkeur  | Het veld Aanduiding NNCA WPO moet voor trekkende bevolking gevuld zijn met waarde 0 [317]  |
 | Datum inschrijving oorspronkelijke inschrijving  | Binnen Bron dient een verwijderde inschrijving aanwezig te zijn die overeenkomt met de datum inschrijving oorspronkelijke inschrijving.  | Signaal  | De oorspronkelijk inschrijving is niet aanwezig in BRON. [400]  |
@@ -773,6 +790,22 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | Gewicht  | Gewicht moet, indien gevuld, voldoen aan de referentietabel in combinatie met de gewichtenregeling  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
 | --- | Gewicht moet, indien eerder geregistreerd, overeenkomen met de geregistreerde waarde op de geleverde datum ingang gewicht  | Signaal  | Het leerlinggewicht wordt eenmalig bij inschrijving vastgesteld en daarna niet meer gewijzigd [460]  |
 
+### 4.2.8.10  
+
+####Controle Ontwikkelingsperspectief BAO WPO
+
+| Attribuut  | Controle  | Ernst  | Signalering  |
+|:---|:---|:---|:---|
+| --- | Gegevensgroep mag niet aangeleverd worden als het een inschrijving aan een school voor speciaal basisonderwijs betreft  | Afkeur  | De gegevensgroep <groepsnaam> wordt voor leerlingen ingeschreven in het speciaal basisonderwijs niet aan BRON aangeleverd [445]  |
+| --- | Als de gegevensgroep aanwezig is en de datum uitschrijving is gevuld dan moet de Datum einde OPP gevuld zijn  | Afkeur  | Datum einde ontwikkelingsperspectief moet gevuld zijn als de leerling wordt uitgeschreven. Uitschrijfdatum is <datum uitschrijving> [435]  |
+| Datum ingang OPP  | Datum ingang OPP moet liggen op of na de datum start Passend Onderwijs Beleidsinformatie  | Afkeur  | <Attribuut> <attribuutwaarde> moet op of na datum start Passend Onderwijs Beleidsinformatie liggen [452]  |
+| --- | Datum ingang OPP moet gelijk zijn aan of liggen na de datum inschrijving en liggen voor of op de datum uitschrijving  | Afkeur  | <Attribuut> <attribuutwaarde> moet op of na datum inschrijving <datum inschrijving> en voor of op datum uitschrijving <datum uitschrijving> liggen [321]  |
+| --- | Datum ingang OPP moet uniek zijn binnen de melding inschrijving  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
+| --- | De datum ingang OPP mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | Signaal  | <Attribuut> <attribuutwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
+| Datum einde OPP  | Datum einde OPP moet, indien gevuld, liggen op of na de datum ingang OPP en voor of op de datum uitschrijving  | Afkeur  | Datum einde ontwikkelingsperspectief <attribuutwaarde> moet op of na datum ingang ontwikkelingsperspectief <datum ingang OPP> en voor of op de uitschrijfdatum <datum uitschrijving> liggen [453]  |
+| --- | Datum einde OPP moet liggen vóór de datum ingang OPP van een eventueel volgend voorkomen en mag alleen leeg zijn bij het laatste voorkomen  | Afkeur  | Overlap van ontwikkelingsperspectief is niet toegestaan [454]  |
+| --- | De datum einde OPP mag, indien gevuld, niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | Signaal  | <Attribuut> <attribuutwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
+
 ### 4.2.9 
 
 ####Inschrijving WEC gegevens
@@ -799,6 +832,7 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | --- | Indien gevuld, dan moet het BRINnummer WPO/WVO-school of WEB-instelling teruggeplaatste leerling voldoen aan de waardelijst (moet een BRINnummer van een WPO/WVO-school of WEB-instelling zijn, moet voldoen aan de waardelijst onafhankelijk van controledatum)  | Afkeur  | <attribuut> <attribuut waarde> moet van een WPO-, WVO- of WEB-instelling zijn [399]  |
 | --- | Als het BRINnummer WPO/WVO-school of WEB-instelling teruggeplaatste leerling gevuld is, moet ook de datum uitschrijving gevuld zijn  | Afkeur  | Als BRIN-nr. terugplaatsing <BRINnummer WPO/WVO-school of WEB-instelling> is gevuld, moet datum uitschrijving ook gevuld zijn [340]  |
 | Aanduiding NNCA WEC  | Aanduiding NNCA WEC moet voldoen aan de waardelijst  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Aanduiding NNCA WEC moet groter zijn dan 0 als:  • datum inschrijving gelijk is aan of groter is dan datum start Passend Onderwijs en:  • datum inschrijving kleiner is dan datum start Passend Onderwijs Beleidsinformatie  | Afkeur  | Het veld <attribuut>mag geen 0 zijn [338]  |
 | Datum inschrijving oorspronkelijke inschrijving  | Binnen Bron dient een verwijderde inschrijving aanwezig te zijn die overeenkomt met de datum inschrijving oorspronkelijke inschrijving.  | Signaal  | De oorspronkelijk inschrijving is niet aanwezig in BRON [400]  |
 
 ### 4.2.9.2 
@@ -835,13 +869,14 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | Attribuut  | Controle  | Ernst  | Signalering  |
 |:---|:---|:---|:---|
 | --- | Indien de datum inschrijving kleiner is dan datum start Passend Onderwijs dan is de Gegevensgroep verplicht aanwezig.  Indien de datum inschrijving groter of gelijk is aan datum start Passend Onderwijs dan is de Gegevensgroep alleen verplicht aanwezig voor inschrijvingen aan Cluster 1 & 2 WEC scholen.  | Afkeur  | Gegevensgroep <groepsnaam> moet verplicht aanwezig zijn [341]  |
-| Datum ingang soort onderwijs  | Datum ingang soort onderwijs mag voor inschrijvingen aan Cluster 3 & 4 WEC scholen niet liggen op of na datum start Passend Onderwijs  | Afkeur  | Gegevensgroep <groepsnaam> mag niet aanwezig zijn voor cluster 3 en 4 na start passend onderwijs [413]  |
+| Soort onderwijs  | Datum ingang soort onderwijs mag voor inschrijvingen aan Cluster 3 & 4 WEC scholen niet liggen op of na datum start Passend Onderwijs, als er géén aansluitende (reeks) voorgaande inschrijving(en) is met een datum ingang soort onderwijs voor de datum start Passend Onderwijs, bij dezelfde BRIN en schoolsoort.  | Afkeur  | Gegevensgroep <groepsnaam> mag niet aanwezig zijn voor cluster 3 en 4 na start passend onderwijs [413]  |
 | --- | Datum ingang soort onderwijs moet liggen op of na datum inschrijving en voor of op de datum uitschrijving  | Afkeur  | <Attribuut> <datum> moet op of na datum inschrijving <datum inschrijving> en op of voor datum uitschrijving <datum uitschrijving> liggen [321]  |
 | --- | Datum ingang soort onderwijs mag niet liggen op of na de datum opheffing BRINnummer (datum uit bedrijf), indien deze laatste aanwezig is  | Afkeur  | BRIN-nr <BRIN-nummer> is niet geldig op <attribuut> <datum> volgens BRIN [301]  |
 | --- | Bij het eerste voorkomen van Soort onderwijs geldt dat de datum ingang soort onderwijs gelijk moet zijn aan datum inschrijving  | Afkeur  | Er ontbreekt een voorkomen van gegevensgroep <groepsnaam> waarvan de ingangsdatum gelijk is aan inschrijfdatum <datum inschrijving> [303]  |
 | --- | Datum ingang soort onderwijs moet uniek zijn binnen het bericht melding inschrijving  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
 | --- | De datum ingang soort onderwijs mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | Signaal  | <veldnaam> <veldwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
 | Soort onderwijs  | Soort onderwijs moet, indien gevuld, voldoen aan de bijbehorende waardelijst, onafhankelijk van de controledatum  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Soort onderwijs moet groter zijn dan 0 als:  • datum inschrijving gelijk is aan of groter is dan Datum start Passend Onderwijs  | Afkeur  | Het veld <attribuut>mag geen 0 [338] zijn.  |
 | --- | De consistentiecontrole onderwijsvoorziening moet worden uitgevoerd.  | Signaal  | Zie consistentiecontrole  |
 
 ### 4.2.9.5 
@@ -869,6 +904,7 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | --- | Datum ingang schoolsoort moet uniek zijn binnen het bericht melding inschrijving  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
 | --- | De datum ingang schoolsoort mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | Signaal  | <veldnaam> <veldwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
 | Schoolsoort  | Schoolsoort moet, indien gevuld, voldoen aan de bijbehorende waardelijst  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Schoolsoort moet groter zijn dan 0 als:  • datum inschrijving gelijk is aan of groter is dan Datum start Passend Onderwijs en:  • datum inschrijving kleiner is dan Datum start Passend Onderwijs Beleidsinformatie  | Afkeur  | Het veld <attribuut>mag geen 0 [338] zijn.  |
 | --- | De consistentiecontrole onderwijsvoorziening moet worden uitgevoerd.  | Signaal  | Zie consistentiecontrole  |
 
 ### 4.2.9.7 
@@ -941,7 +977,7 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | Attribuut  | Controle  | Ernst  | Signalering  |
 |:---|:---|:---|:---|
 | --- | De gegevensgroep mag niet worden aangeleverd vóór datum start Passend Onderwijs  | Afkeur  | De gegevensgroep <groepsnaam> mag niet voor start Passend Onderwijs worden aangeleverd [414]  |
-| --- | Gegevensgroep moet op datum inschrijving aanwezig zijn indien  de datum inschrijving ligt op of na de datum start Passend Onderwijs en  het een cluster 3 of 4 inschrijving betreft en  er geen sprake is van een residentiële plaats, JJI of GJI (soort verblijf 3 t/m 6) en  er géén aansluitende (reeks) voorgaande inschrijving(en) is met een datum ingang voor de datum start Passend Onderwijs en bij dezelfde BRIN en schoolsoort.  | signaal  | Bij deze inschrijving ontbreekt een <groepsnaam> op de datum inschrijving [415]  |
+| --- | Gegevensgroep moet op datum inschrijving aanwezig zijn indien de datum inschrijving ligt op of na de datum start Passend Onderwijs en het een cluster 3 of 4 inschrijving betreft, tenzij:  – het een inschrijving aan een van de epilepsiescholen ‘De Waterlelie’ te Cruquius of ‘De Berkenschutse’ te Heeze betreft, waarbij een Arrangement aanwezig is,  – er sprake is van een residentiële plaats, JJI of GJI (soort verblijf 3 t/m 6), of  – er een aansluitende (reeks) voorgaande inschrijving(en) is met een datum ingang voor de datum start Passend Onderwijs bij dezelfde BRIN en schoolsoort.  | signaal  | Bij deze inschrijving ontbreekt een <groepsnaam> De ingangsdatum moet op of voor de datum inschrijving liggen [415]  |
 | Datum ingang toelaatbaarheidsverklaring  | Datum ingang toelaatbaarheidsverklaring moet liggen op of na de datum start Passend Onderwijs  | Afkeur  | <Attribuut> <attribuutwaarde> moet na start Passend Onderwijs liggen [416]  |
 | --- | Datum ingang toelaatbaarheidsverklaring moet na de geboortedatum liggen.  NB: in eerste instantie gaat het om de geboortedatum volgens BRP, zoals in BRON geregistreerd. Als die er niet is, dan gaat het om de geboortedatum zoals de PO-school die meldt/gemeld heeft  | Afkeur  | Het veld <attribuut> <attribuutwaarde> moet na de geboortedatum <waarde Geboortedatum > liggen [305]  Indien MM/DD resp. DD onbekend zijn (gevuld met nullen), wordt er gerekend met 0101 resp. 01.  |
 | --- | De datum ingang toelaatbaarheidsverklaring mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | signaal  | < Attribuut > < attribuutwaarde > ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
@@ -981,6 +1017,26 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | --- | Leerjaar uitstroomprofiel moet, indien aanwezig, voorkomen in de bijbehorende waardelijst  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
 | --- | Als leerjaar uitstroomprofiel aanwezig is dan moet het uitstroomprofiel gelijk zijn aan Vervolgonderwijs.  | Afkeur  | Leerjaar uitstroomprofiel mag alleen aanwezig zijn bij uitstroomprofiel Vervolgonderwijs [432]  |
 
+### 4.2.9.12  
+
+####Controle Arrangement WEC
+
+| Attribuut  | Controle  | Ernst  | Signalering  |
+|:---|:---|:---|:---|
+| --- | Arrangement WEC moet aanwezig zijn indien:  • Datum inschrijving groter of gelijk aan Datum start Passend Onderwijs Beleidsinformatie  • EN Aanduiding niet Nederlandse culturele achtergrond = 0  • OF Schoolsoort = 0  | Afkeur  | <Attribuut> mag alleen 0 zijn bij Arrangement WEC [473]  NB. dit signaal wordt gegeven voor elk attribuut waarvan de waarde 0 is  |
+| --- | Als Arrangement WEC aanwezig is dan moeten de volgende attributen 0 zijn:  • Aanduiding niet Nederlandse culturele achtergrond  • Leerjaar WEC  • Groepsaanduiding  • Schoolsoort  • Indicatie soort verblijf  | Afkeur  | <Attribuut> <attribuutwaarde> moet 0 zijn bij een Arrangement WEC [443]  NB. dit signaal wordt gegeven voor elk attribuut waarvan de waarde ongelijk 0 is  |
+| --- | Als Arrangement WEC aanwezig is dan mogen de volgende gegevensgroepen niet aanwezig zijn:  • Toelaatbaarheidsverklaring WEC  • Uitstroomprofiel WEC  • Soort onderwijs WEC  • Indicatiestelling WEC  | Afkeur  | De gegevensgroep <groepsnaam> mag niet aanwezig zijn als er een Arrangement aanwezig is [444]  NB. dit signaal wordt gegeven voor elke gegevensgroep die aanwezig is  |
+| --- | Arrangement WEC mag alleen aanwezig zijn als het een cluster 1 of 2 instelling betreft, of een van de scholen De Waterlelie’ te Cruquius of ‘De Berkenschutse’ te Heeze.  | Afkeur  | Arrangement WEC mag alleen aangeleverd worden door een instelling uit cluster 1 of 2 of door de epilepsiescholen [446]  |
+| Datum ingang arrangement  | Datum ingang arrangement moet liggen op of na de datum start Passend Onderwijs Beleidsinformatie  | Afkeur  | Attribuut> <attribuutwaarde> moet op of na start Passend Onderwijs Beleidsinformatie liggen [452]  |
+| --- | Bij het eerste voorkomen van arrangement WEC geldt dat de datum ingang arrangement gelijk moet zijn aan datum inschrijving  | Afkeur  | Er ontbreekt een voorkomen van gegevensgroep <groepsnaam> waarvan de ingangsdatum gelijk is aan inschrijfdatum <datum inschrijving> [303]  |
+| --- | Datum ingang arrangement moet uniek zijn binnen de melding inschrijving  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
+| --- | Datum ingang arrangement moet liggen voor of op de datum uitschrijving  | Afkeur  | Datum ingang arrangement < attribuutwaarde> moet liggen op of voor de datum uitschrijving [459]  |
+| --- | De datum ingang arrangement mag niet verder dan 1 jaar in de toekomst liggen, vanaf datum levering van het bericht  | Signaal  | <Attribuut> <attribuutwaarde> ligt verder dan één jaar in de toekomst, wat normaalgesproken niet juist is [331]  |
+| BRINnummer school van inschrijving  | BRINnummer school van inschrijving moet een WPO/WEC/WVO-school of WEB-instelling zijn  (moet een BRINnummer van een WPO/WEC/WVO-school of WEB-instelling zijn, moet voldoen aan de waardelijst onafhankelijk van controledatum)  | Afkeur  | <Attribuut> <attribuut waarde> moet van een WPO-, WEC- WVO- of WEB-instelling zijn [447]  |
+| --- | Het BRINnummer van de school van inschrijving mag niet hetzelfde zijn als het BRINnummer van de school die het Arrangement verzorgt.  | Afkeur  | Het BRINnummer van de instelling die het arrangement verleent mag niet gelijk zijn aan het BRINnummer van de instelling die het arrangement ontvangt [448]  |
+| Vestigingsvolgnummer school van inschrijving  | Het geleverde vestigingsvolgnummer moet bekend zijn als vestiging bij de school/instelling van inschrijving  | Afkeur  | Vestiging <vestigingsvolgnummer school van inschrijving> is in de BRIN-tabellen van DUO niet bekend als vestiging van de school van inschrijving[450]  |
+| --- | Datum ingang arrangement moet liggen op of na datum in bedrijf vestiging school van inschrijving en mag niet liggen op of na de datum opheffing vestiging school van inschrijving (datum uit bedrijf), indien deze laatste aanwezig is  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = vestigingsvolgnummer school van inschrijving  Attribuut 2 = datum ingang arrangement  |
+
 ### 4.2.10  
 
 ####Controle verplichte eindtoets gegevensgroepen
@@ -999,12 +1055,12 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 | --- | Datum afname eindtoets mag indien gevuld niet liggen op of na de datum opheffing BRINnummer (datum uit bedrijf), indien deze laatste aanwezig is  | Afkeur  | BRIN-nr <BRIN-nummer> is niet geldig op <attribuut> <datum> volgens BRIN  [301]  |
 | --- | Indien datum afname eindtoets gevuld is moet de Code eindtoets voorkomen in de bijbehorende referentietabel op datum afname eindtoets  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = Eindtoets  Attribuut 2 = datum eindtoets  |
 | --- | De datum afname eindtoets mag niet in de toekomst liggen  | Afkeur  | Het veld <&1> mag niet in de toekomst liggen [843]  |
-| Score  | Indien gevuld moet de combinatie Code eindtoets, Niveau eindtoets en Score eindtoets voldoen aan de bijbehorende referentietabel.  | Afkeur  | <Attribuut 1> <waarde attribuut 1> en <attribuut 2> <waarde attribuut 2>en <attribuut 3> <waarde attribuut 3>zouden moeten voorkomen in bijbehorende waardelijst  Attribuut 1 = code eindtoets  Attribuut 2 = niveau eindtoets  Attribuut 3 = score eindtoets[471]  |
+| Score  | Indien gevuld moet de combinatie Code eindtoets, Niveau eindtoets en Score eindtoets voldoen aan de bijbehorende referentietabel op datum afname eindtoets.  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2>  Attribuut 1 = score eindtoets  Attribuut 2 = datum afname eindtoets [348]  |
 | Reden ontheffing  | De Reden ontheffing moet, indien gevuld, voorkomen in de referentietabel.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
 | Reden niet-deelname  | Indien Reden niet deelname is gevuld, mag Score eindtoets, Datum afname en Niveau eindtoets niet gevuld zijn.  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mogen de score, de datum afname en niveau eindtoets niet gevuld zijn [464]  |
 | --- | Als Reden niet deelname leeg is moeten Score eindtoets, Datum afname en Niveau eindtoets gevuld zijn.  | Afkeur  | Als een leerling deelneemt aan de eindtoets moeten de score, de datum afname en niveau eindtoets gevuld zijn  [465]  |
 | --- | De Reden niet deelname moet, indien gevuld, voorkomen in de referentietabel.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | Als Reden niet-deelname is gevuld met de waarde Ontheffing, dan moet Reden ontheffing zijn gevuld.  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets met als reden ontheffing, dan moet ook Reden ontheffing zijn gevuld [478]  |
+| --- | Als Reden niet-deelname is gevuld met de waarde Ontheffing, dan moet Reden ontheffing zijn gevuld.  | Afkeur  | Bij niet deelname door ontheffing moet een reden ontheffing gevuld zijn [478]  |
 
 ### 4.2.10.2  
 
@@ -1012,13 +1068,13 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 
 | Attribuut  | Controle  | Ernst  | Signalering  |
 |:---|:---|:---|:---|
-| --- | Deze gegevensgroep mag niet worden aangeleverd als reden niet deelname in de Eindtoets gevuld is.  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mag er geen <gegevensgroep > geleverd worden  [466]  |
-| Code Toetsonderdeel  | Code Toetsonderdeel moet (onafhankelijk van de controledatum) voorkomen in de bijbehorende referentietabel  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | Code Toetsonderdeel moet voorkomen in de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = Naam Toetsonderdeels  Attribuut 2 = datum afname eindtoets  |
-| --- | Indien Toetsonderdeel volgens de bijbehorende referentietabel geleverd moet worden moet Code Toetsonderdeel aanwezig zijn in het bericht.  | Afkeur  | Het <attribuut =Code Toetsonderdeel> <attribuutwaarde = naam ontbrekende waarde> is ten onrechte niet aangeleverd [467]  |
-| Code ReferentieniveauOnderdeel  | Code Referentiesniveau Onderdeel moet, indien gevuld, voldoen aan de bijbehorende referentietabel.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | Het Referentieniveau Onderdeel mag alleen gevuld zijn als dat volgens de bijbehorende referentietabel toegestaan is.  | Afkeur  | Voor toetsonderdeel <attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > mag geen score worden aangeleverd  [468]  |
-| --- | Het Referentieniveau Onderdeel moet gevuld zijn als dat volgens de bijbehorende referentietabel verplicht is.  | Afkeur  | Voor toetsonderdeel <attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > moet een score worden aangeleverd  [469]  |
+| --- | Deze gegevensgroep mag niet worden aangeleverd als reden niet deelname in de Eindtoets gevuld is.  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mag er geen <gegevensgroep > geleverd worden [466]  |
+| Code Toetsonderdeel  | Code Toetsonderdeel moet voorkomen in de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = naam toetsonderdeel  Attribuut 2 = datum afname eindtoets  |
+| --- | Code Toetsonderdeel moet in het bericht uniek zijn.  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
+| --- | Indien Toetsonderdeel volgens de bijbehorende referentietabel geleverd moet worden moet Code Toetsonderdeel aanwezig zijn in het bericht.  | Afkeur  | Het <Naam gegevensgroep><attribuut =Code Toetsonderdeel> <attribuutwaarde = naam ontbrekende waarde> ontbreekt [467]  |
+| Code Referentieniveau Toetsonderdeel  | Code Referentiesniveau Toetsonderdeel moet, indien gevuld, voldoen aan de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Het Referentieniveau Toetsonderdeel mag alleen gevuld zijn als dat op ‘datum afname’ toegestaan is.  | Afkeur  | Voor<naam gegevensgroep> < attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > mag geen referentieniveau worden aangeleverd [468]  |
+| --- | Het Referentieniveau Toetsonderdeel moet gevuld zijn als dat op ‘datum afname’ verplicht is.  | Afkeur  | Voor <naam gegevensgroep> < attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > moet een referentieniveau worden aangeleverd [469]  |
 
 ### 4.2.10.3  
 
@@ -1026,12 +1082,12 @@ In het schooljaar 2014–2015 wordt de verplichte eindtoets van kracht; eerst vo
 
 | Attribuut  | Controle  | Ernst  | Signalering  |
 |:---|:---|:---|:---|
-| --- | Deze gegevensgroep mag niet worden aangeleverd als reden niet deelname in de Eindtoets gevuld is.  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mag er geen <gegevensgroep> geleverd worden  [466]  |
-| Code Toetsdomein  | Code Toetsdomein moet (onafhankelijk van de controledatum) voorkomen in de bijbehorende referentietabel  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | De domeincode moet voorkomen in de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = Naam domein  Attribuut 2 = datum afname eindtoets  |
-| --- | Indien de domeincode volgens de bijbehorende referentietabel geleverd moet worden moet Code Toetsdomein aanwezig zijn in het bericht.  | Afkeur  | Het<attribuut = Code Toetsdomein> <attribuutwaarde = naam ontbrekende waarde > is ten onrechte niet aangeleverd [467]  |
-| Code Referentieniveau domein  | Code referentieniveau domein moet voldoen aan de bijbehorende referentietabel.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
-| --- | Het Referentieniveau domein moet gevuld zijn als dat volgens de bijbehorende referentietabel verplicht is.  | Afkeur  | Voor toetsdomein <attribuut = Code Toetsdomein><attribuutwaarde = naam Toetsdomein > moet een score worden aangeleverd  [472]  |
+| Code Toetsdomein  | De domeincode moet voorkomen in de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2> [348]  Attribuut 1 = naam toetsdomein  Attribuut 2 = datum afname eindtoets  |
+| --- | Code Toetsdomein moet in het bericht uniek zijn  | Afkeur  | <Attribuut> <attribuutwaarde> komt vaker dan eens voor binnen de gegevensgroep <naam gegevensgroep> [349]  |
+| --- | Indien de domeincode volgens de bijbehorende referentietabel geleverd moet worden moet Code Toetsdomein aanwezig zijn in het bericht.  | Afkeur  | Het<Naam gegevensgroep><attribuut = Code Toetsdomein> <attribuutwaarde = naam ontbrekende waarde > ontbreekt [467]  |
+| Code Referentieniveau Toetsdomein  | Code referentieniveau Toetsdomein moet voldoen aan de bijbehorende referentietabel op ‘datum afname’.  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst [741]  |
+| --- | Het Referentieniveau Toetsdomein mag alleen gevuld zijn als dat op ‘datum afname’ toegestaan is.  | Afkeur  | Voor<naam gegevensgroep> < attribuut = Code Toetsdomein><attribuutwaarde = naam Toetsdomein> mag geen referentieniveau worden aangeleverd [468]  |
+| --- | Het Referentieniveau Toetsdomein moet gevuld zijn als dat op ‘datum afname’ verplicht is.  | Afkeur  | Voor <naam gegevensgroep> < attribuut = Code Toetsdomein><attribuutwaarde = naam Toetsdomein> moet een referentieniveau worden aangeleverd [469]  |
 
 ### 4.2.11 
 
@@ -1333,10 +1389,10 @@ Dit bericht kent twee varianten:
 | 26  | Voorschools programma  | O  | --- |
 | 27  | Voorschoolse maanden  | O  | --- |
 | 28  | Datum uitschrijving  | O  | --- |
-| 29  | Advies VO  | O  | --- |
-| 30  | Aanduiding NNCA WPO  | V  | --- |
-| 31  | Datum inschrijving oorspronkelijke inschrijving  | O  | --- |
-| 32  | Herzien advies VO  | O  | --- |
+| 29  | Advies-vo  | O  | --- |
+| 30  | Herzien advies-vo  | O  | --- |
+| 31  | Aanduiding NNCA WPO  | O  | --- |
+| 32  | Datum inschrijving oorspronkelijke inschrijving  | O  | --- |
 | Vestiging WPO 1..n keer per inschrijving  |
 | 33  | Datum ingang plaatsing vestiging  | V  | --- |
 | 34  | Vestigingsvolgnummer  | V  | --- |
@@ -1367,6 +1423,9 @@ Dit bericht kent twee varianten:
 | 52  | Code gewichtenregeling  | V  | --- |
 | 53  | Datum ingang gewicht  | V  | --- |
 | 54  | Gewicht  | V  | --- |
+|Ontwikkelingsperspectief BAO WPO 0…n per inschrijving |
+| 54a  | Datum ingang OPP  | V  | --- |
+| 54b  | Datum einde OPP  | O  | --- |
 | --- |
 | Inschrijving WEC 0..1 keer per persoon (Inschrijving WPO of Inschrijving WEC moet gevuld zijn).  |
 | 55  | Datum inschrijving  | V  | Samen met de leerling en de school vormt de datum inschrijving de unieke sleutel van een inschrijving  |
@@ -1413,66 +1472,23 @@ Dit bericht kent twee varianten:
 | 86  | Elementcode  | O  | --- |
 | 87  | Leerjaar uitstroomprofiel  | O  | --- |
 | --- |
-| Verplichte eindtoets 0..1 keer per persoon.  |
-| 88  | Code toets  | V  | Gegevensgroep verplicht vanaf het schooljaar 2014–2015.  |
-| 89  | Niveau eindtoets  | O  | --- |
-| 90  | Datum afname  | O  | --- |
-| 91  | Score  | O  | --- |
-| 92  | Reden ontheffing  | O  | --- |
-| 93  | Reden niet deelname  | O  | --- |
+| Arrangement WEC 0..1 keer per inschrijving  |
+| 88  | Datum ingang arrangement  | V  | --- |
+| 89  | BRINnummer school van inschrijving  | V  | --- |
+| 90  | Vestigingsvolgnummer school van inschrijving  | V  | --- |
+| Verplichte eindtoets 0..1 keer per persoon  |
+| 91  | Code toets  | V  | Gegevensgroep verplicht vanaf het schooljaar 2014-2015.  |
+| 92  | Niveau eindtoets  | O  | --- |
+| 93  |Datum afname |O | --- |
+| 94  | Score  | O  | --- |
+| 95  | Reden ontheffing  | O  | --- |
+| 96  |Reden niet deelname |O | --- |
 | Toetsonderdeel 0..n keer per verplichte eindtoets  |
-| 94  | Code Toetsonderdeel  | V  | Gegevensgroep verplicht vanaf het schooljaar 2015–2016.  Mag niet worden aangeleverd in het schooljaar 2014–2015.  |
-| 95  | Code Referentieniveau onderdeel  | O  | --- |
-| Toetsdomein 0..n keer per toetsonderdeel  |
-| 96  | Code Toetsdomein  | V  | Gegevensgroep verplicht vanaf het schooljaar 2015–2016.  Mag niet worden aangeleverd in het schooljaar 2014–2015.  |
-| 97  | Code Referentieniveau domein  | V  | --- |
-
-| Nr  | Omschrijving  | V/O  | Definitie/toelichting  |
-|:---|:---|:---|:---|
-| Inschrijving WEC 0..1 keer per persoon (Inschrijving WPO of Inschrijving WEC moet gevuld zijn).  |
-| 1  | Datum inschrijving  | V  | Samen met de leerling en de school vormt de datum inschrijving de unieke sleutel van een inschrijving  |
-| 2  | Datum uitschrijving  | O  | --- |
-| 3  | BRINnummer teruggeplaatste leerling  | O  | --- |
-| 4  | Aanduiding NNCA WEC  | V  | --- |
-| 5  | Datum inschrijving oorspronkelijke inschrijving  | O  | --- |
-| Vestiging WEC 1..n keer per inschrijving  |
-| 6  | Datum ingang plaatsing vestiging  | V  | --- |
-| 7  | Vestigingsvolgnummer  | V  | --- |
-| Indicatie bekostiging WEC 1..n keer per inschrijving  |
-| 8  | Datum ingang indicatie bekostiging  | V  | --- |
-| 9  | Indicatie bekostiging  | V  | --- |
-| Soort onderwijs WEC 0..n keer per inschrijving  |
-| 10  | Datum ingang soort onderwijs  | V  | --- |
-| 11  | Soort onderwijs  | V  | --- |
-| Leerjaar/groep WEC 1..n keer per inschrijving  |
-| 12  | Datum plaatsing leerjaar/groep  | V  | --- |
-| 13  | Groepsaanduiding  | V  | --- |
-| 14  | Leerjaar WEC  | V  | --- |
-| Schoolsoort WEC 1..n keer per inschrijving  |
-| 15  | Datum ingang schoolsoort  | V  | --- |
-| 16  | Schoolsoort  | V  | --- |
-| Soort verblijf WEC 1..n keer per inschrijving  |
-| 17  | Datum ingang soort verblijf  | V  | --- |
-| 18  | Indicatie soort verblijf  | V  | --- |
-| Indicatiestelling WEC 0..n keer per inschrijving  |
-| 19  | Datum indicatiestelling  | V  | --- |
-| 20  | Onderwijssoort indicatie  | V  | --- |
-| 21  | BRINnummer REC indicatiestelling  | O  | --- |
-| 22  | CVI-nummer  | O  | --- |
-| Ambulante begeleiding WEC 0..n keer per Indicatiestelling WEC  |
-| 23  | Datum ingang BRINnummer van de school waar de leerling Ambulant Begeleid wordt  | V  | --- |
-| 24  | BRINnummer van de school of instelling waar de leerling Ambulant Begeleid wordt  | V  | --- |
-| Toelaatbaarheidsverklaring 0..n keer per inschrijving  |
-| 25  | Datum ingang toelaatbaarheidsverklaring  | V  | --- |
-| 26  | Samenwerkingsverband nummer  | V  | --- |
-| 27  | Bekostigingscategorie  | V  | --- |
-| 28  | Beschikkingsnummer TLV  | V  | --- |
-| 29  | Datum einde Toelaatbaarheidsverklaring  | V  | --- |
-| Uitstroomprofiel WEC 0..n keer per inschrijving  |
-| 30  | Datum ingang uitstroomprofiel  | V  | --- |
-| 31  | Uitstroomprofiel  | V  | --- |
-| 32  | Elementcode  | O  | --- |
-| 33  | Leerjaar uitstroomprofiel  | O  | --- |
+| 97  | Code Toetsonderdeel  | V  | Gegevensgroep verplicht vanaf het schooljaar 2015-2016.  Mag niet worden aangeleverd in het schooljaar 2014-2015.  |
+| 98  | Code Referentieniveau Toetsonderdeel  | O  | --- |
+| Toetsdomein 0..n keer per toetsonderdeel  | --- | --- | --- |
+| 99  | Code Toetsdomein  | V  | Gegevensgroep verplicht vanaf het schooljaar 2015-2016.  Mag niet worden aangeleverd in het schooljaar 2014-2015.  |
+| 100  | Code Referentieniveau Toetsdomein  | V  | --- |
 
 ### 5.6.4 
 
@@ -1714,9 +1730,10 @@ Met dit bericht geeft BRON, n.a.v. een melding inschrijving van de PO-school, aa
 | 32  | Voorschools programma  | O  | --- |
 | 33  | Voorschoolse maanden  | O  | --- |
 | 34  | Datum uitschrijving  | O  | --- |
-| 35  | Advies VO  | O  | --- |
-| 36  | Aanduiding NNCA WPO  | V  | --- |
-| 36a  | Herzien advies VO  | O  | --- |
+| 35  | Advies-vo  | O  | --- |
+| 35a  | Herzien advies-vo  | O  | --- |
+| 35b  | Aanduiding NNCA WPO  | V  | --- |
+| 36  | Datum inschrijving oorspronkelijke inschrijving  | O  | --- |
 | Vestiging WPO 1..n keer per inschrijving  |
 | 37  | Datum ingang plaatsing vestiging  | V  | --- |
 | 38  | Vestigingsvolgnummer  | V  | --- |
@@ -1747,15 +1764,16 @@ Met dit bericht geeft BRON, n.a.v. een melding inschrijving van de PO-school, aa
 | 56  | Code gewichtenregeling  | V  | --- |
 | 57  | Datum ingang gewicht  | V  | --- |
 | 58  | Gewicht  | V  | --- |
-| Signaal 0..n keer per bericht  |
-| 59  | Signaalcode  | V  | --- |
-| 60  | Omschrijving signaal  | V  | --- |
+| Ontwikkelingsperspectief BAO WPO 0…n per inschrijving  |
+| 59  | Datum ingang OPP  | V  | --- |
+| 60  | Datum einde OPP  | O  | --- |
 | --- |
 | Inschrijving WEC 0..1keer per persoon (Inschrijving WPO of Inschrijving WEC is gevuld).  |
 | 61  | Datum inschrijving  | V  | --- |
 | 62  | Datum uitschrijving  | O  | --- |
 | 63  | BRINnummer teruggeplaatste leerling  | O  | --- |
 | 64  | Aanduiding NNCA WEC  | V  | --- |
+| 64a  | Datum inschrijving oorspronkelijke inschrijving  | O  | --- |
 | Vestiging WEC 1..n keer per inschrijving  |
 | 65  | Datum ingang plaatsing vestiging  | V  | --- |
 | 66  | Vestigingsvolgnummer  | V  | --- |
@@ -1795,22 +1813,26 @@ Met dit bericht geeft BRON, n.a.v. een melding inschrijving van de PO-school, aa
 | 90  | Uitstroomprofiel  | V  | --- |
 | 91  | Elementcode  | O  | --- |
 | 92  | Leerjaar uitstroomprofiel  | O  | --- |
+| Arrangement WEC 0..1 keer per inschrijving  |
+| 93  | Datum ingang arrangement  | V  | --- |
+| 94  | BRINnummer school van inschrijving  | V  | --- |
+| 95  | Vestigingsvolgnummer school van inschrijving  | V  | --- |
 | Verplichte eindtoets 0..1 keer per persoon.  |
-| 93  | Code toets  | V  | --- |
-| 94  | Niveau eindtoets  | O  | --- |
-| 95  | Datum afname  | O  | --- |
-| 96  | Score  | O  | --- |
-| 97  | Reden ontheffing  | O  | --- |
-| 98  | Reden niet deelname  | O  | --- |
+| 96  | Code toets  | V  | --- |
+| 97  | Niveau eindtoets  | O  | --- |
+| 98  | Datum afname  | O  | --- |
+| 99  | Score  | O  | --- |
+| 100  | Reden ontheffing  | O  | --- |
+| 101  | Reden niet deelname  | O  | --- |
 | Toetsonderdeel 0..n keer per verplichte eindtoets  | --- | --- | --- |
-| 99  | Code Toetsonderdeel  | V  | --- |
-| 100  | Code Referentieniveau onderdeel  | O  | --- |
+| 102  | Code Toetsonderdeel  | V  | --- |
+| 103  | Code Referentieniveau onderdeel  | O  | --- |
 | Toetsdomein 0..n keer per toetsonderdeel  | --- | --- | --- |
-| 101  | Code Toetsdomein  | V  | --- |
-| 102  | Code Referentieniveau domein  | V  | --- |
+| 104  | Code Toetsdomein  | V  | --- |
+| 105  | Code Referentieniveau domein  | V  | --- |
 | Signaal 0..n keer per bericht  | --- | --- | --- |
-| 103  | Signaalcode  | V  | --- |
-| 104  | Omschrijving signaal  | V  | --- |
+| 106  | Signaalcode  | V  | --- |
+| 107  | Omschrijving signaal  | V  | --- |
 
 ### 5.6.11 
 
@@ -1834,6 +1856,9 @@ Met dit bericht koppelt BRON de succesvolle verwijdering van een inschrijving te
 | 6  | Geslacht  | V  | --- |
 | Identificatie inschrijving 1 keer per bericht  |
 | 7  | Datum inschrijving  | V  | --- |
+| Signaal 0..n keer per bericht  |
+| 8  | Signaalcode  | V  | --- |
+| 9  | Omschrijving signaal  | V  | --- |
 
 ### 5.6.12 
 
@@ -1848,8 +1873,7 @@ Met dit bericht koppelt BRON de totale registratie van nul, één of meerdere pe
 |:---|:---|:---|:---|
 | Kopgegevens terugkoppeling 1 keer per bericht  |
 | 1  | Berichtidentificatie  | V  | Geleverd door BRON zoals aangeleverd in het verzoek vanuit de PO-school  |
-| --- |
-| Persoonsgegevens 0..n keer per bericht  |
+| Persoonsgegevens 0..n keer per bericht  NB: de 'postcode volgens instelling' en 'land volgens instelling' worden op basis van peildatum gevuld in de terugkoppeling en niet op basis van de meest actuele waarde geregistreerd in BRON.  |
 | 2  | Burgerservicenummer  | O  | Burgerservicenummer of Onderwijsnummer is gevuld  |
 | 3  | Onderwijsnummer  | O  | Burgerservicenummer of Onderwijsnummer is gevuld  |
 | 4  | Geboortedatum  | V  | --- |
@@ -1881,124 +1905,110 @@ Met dit bericht koppelt BRON de totale registratie van nul, één of meerdere pe
 | 27  | Datum ingang nationaliteit-1 BRP  | V  | --- |
 | 28  | Nationaliteit-2 BRP  | O  | --- |
 | 29  | Datum ingang nationaliteit-2 BRP  | O  | --- |
-
-NB: de 'postcode volgens instelling' en 'land volgens instelling' worden op basis van peildatum gevuld in de terugkoppeling en niet op basis van de meest actuele waarde geregistreerd in BRON.  
-
 | Inschrijving WPO 0..1 keer per persoon (Inschrijving WPO of Inschrijving WEC is gevuld).  |
-|:---|
 | 30  | Datum inschrijving  | V  | --- |
 | 31  | Voorschools programma  | O  | --- |
 | 32  | Voorschoolse maanden  | O  | --- |
 | 33  | Datum uitschrijving  | O  | --- |
-| 34  | Advies VO  | O  | --- |
-| 35  | Aanduiding NNCA WPO  | V  | --- |
-| 35a  | Herzien advies VO  | O  | --- |
+| 34.  | Advies-vo  | O  | --- |
+| 35.  | Herzien advies-vo  | O  | --- |
+| 36.  | Aanduiding NNCA WPO  | V  | --- |
 | Vestiging WPO 1..n keer per inschrijving  |
-| 36  | Datum ingang plaatsing vestiging  | V  | --- |
-| 37  | Vestigingsvolgnummer  | V  | --- |
+| 37  | Datum ingang plaatsing vestiging  | V  | --- |
+| 38  | Vestigingsvolgnummer  | V  | --- |
 | Indicatie bekostiging WPO 1.. n keer per inschrijving  |
-| 38  | Datum ingang indicatie bekostiging  | V  | --- |
-| 39  | Indicatie bekostiging  | V  | --- |
+| 39  | Datum ingang indicatie bekostiging  | V  | --- |
+| 40  | Indicatie bekostiging  | V  | --- |
 | Leerjaar/groep WPO1.. n keer per inschrijving  |
-| 40  | Datum plaatsing leerjaar/groep  | V  | --- |
-| 41  | Leerjaar  | V  | --- |
-| 42  | Groep  | V  | --- |
+| 41  | Datum plaatsing leerjaar/groep  | V  | --- |
+| 42  | Leerjaar  | V  | --- |
+| 43  | Groep  | V  | --- |
 | Vroegschools programma WPO 0.. n keer per inschrijving  |
-| 43  | Datum plaatsing vroegschools programma  | V  | --- |
-| 44  | Datum einde plaatsing vroegschools programma  | O  | --- |
-| 45  | Vroegschools programma  | V  | --- |
+| 44  | Datum plaatsing vroegschools programma  | V  | --- |
+| 45  | Datum einde plaatsing vroegschools programma  | O  | --- |
+| 46  | Vroegschools programma  | V  | --- |
 | Eindtoets WPO 0.. n keer per inschrijving  |
-| 46  | Datum eindtoets  | V  | --- |
-| 47  | Code eindtoets  | V  | --- |
-| 48  | Uitslag eindtoets  | O  | --- |
+| 47  | Datum eindtoets  | V  | --- |
+| 48  | Code eindtoets  | V  | --- |
+| 49  | Uitslag eindtoets  | O  | --- |
 | LGF-indicatie WPO 0.. n keer per inschrijving  |
-| 49  | Datum indicatiestelling  | V  | --- |
-| 50  | Onderwijssoort indicatie  | V  | --- |
-| 51  | BRINnummer REC indicatiestelling  | O  | --- |
-| 52  | CVI-nummer  | O  | --- |
+| 50  | Datum indicatiestelling  | V  | --- |
+| 51  | Onderwijssoort indicatie  | V  | --- |
+| 52  | BRINnummer REC indicatiestelling  | O  | --- |
+| 53  | CVI-nummer  | O  | --- |
 | Ambulante begeleiding WPO 1.. n keer per LGF-indicatie WPO  |
-| 53  | Datum ingang BRINnummer WEC-school  | V  | --- |
-| 54  | BRINnummer WEC-school  | V  | --- |
+| 54  | Datum ingang BRINnummer WEC-school  | V  | --- |
+| 55  | BRINnummer WEC-school  | V  | --- |
 | Gewicht WPO 0.. n keer per inschrijving  |
-| 55  | Code gewichtenregeling  | V  | --- |
-| 56  | Datum ingang gewicht  | V  | --- |
-| 57  | Gewicht  | V  | --- |
+| 56  | Code gewichtenregeling  | V  | --- |
+| 57  | Datum ingang gewicht  | V  | --- |
+| 58  | Gewicht  | V  | --- |
 | Ontwikkelingsperspectief BAO WPO 0…n per inschrijving  |
-| 58  | Datum ingang OPP  | V  | --- |
-| 59  | Datum einde OPP  | O  | --- |
-| Verblijf OPDC WPO 0…n per inschrijving  |
-| 60  | Datum ingang plaatsing OPDC  | V  | --- |
-| 61  | Datum einde plaatsing OPDC  | O  | --- |
-| 62  | BRINnummer OPDC  | V  | --- |
-| 63  | Vestigingsvolgnummer OPDC  | V  | --- |
-| Verplichte eindtoets 0..1 keer per persoon.  | --- | --- | --- |
-| 64  | Code toets  | V  | --- |
-| 65  | Niveau eindtoets  | O  | --- |
-| 66  | Datum afname  | O  | --- |
-| 67  | Score  | O  | --- |
-| 68  | Reden ontheffing  | O  | --- |
-| 69  | Reden niet deelname  | O  | --- |
-| Toetsonderdeel 0..n keer per verplichte eindtoets  | --- | --- | --- |
-| 70  | Code Toetsonderdeel  | V  | --- |
-| 71  | Code Referentieniveau onderdeel  | O  | --- |
-| Toetsdomein 0..n keer per toetsonderdeel  | --- | --- | --- |
-| 72  | Code Toetsdomein  | V  | --- |
-| 73  | Code Referentieniveau domein  | V  | --- |
-| Meldinggegevens 1 keer per persoon/inschrijving  |
-| 74  | Berichtidentificatie  | V  | Berichtidentificatie van de laatst verwerkte (=goedgekeurde) melding  |
-| 75  | Aanleverpuntnummer  | O  | Aanleverpuntnummer van de laatst verwerkte (=goedgekeurde) melding  |
-| --- |
+| 59  | Datum ingang OPP  | V  | --- |
+| 60  | Datum einde OPP  | O  | --- |
 | Inschrijving WEC 0..1 keer per persoon (Inschrijving WPO of Inschrijving WEC is gevuld).  |
-| 76  | Datum inschrijving  | V  | --- |
-| 77  | Datum uitschrijving  | O  | --- |
-| 78  | BRINnummer teruggeplaatste leerling  | O  | --- |
-| 79  | Aanduiding NNCA WEC  | V  | --- |
+| 61  | Datum inschrijving  | V  | --- |
+| 62  | Datum uitschrijving  | O  | --- |
+| 63  | BRINnummer teruggeplaatste leerling  | O  | --- |
+| 64  | Aanduiding NNCA WEC  | V  | --- |
 | Vestiging WEC 1..n keer per inschrijving  |
-| 80  | Datum ingang plaatsing vestiging  | V  | --- |
-| 81  | Vestigingsvolgnummer  | V  | --- |
+| 65  | Datum ingang plaatsing vestiging  | V  | --- |
+| 66  | Vestigingsvolgnummer  | V  | --- |
 | Indicatie bekostiging WEC 1..n keer per inschrijving  |
-| 82  | Datum ingang indicatie bekostiging  | V  | --- |
-| 83  | Indicatie bekostiging  | V  | --- |
+| 67  | Datum ingang indicatie bekostiging  | V  | --- |
+| 68  | Indicatie bekostiging  | V  | --- |
 | Soort onderwijs WEC 0..n keer per inschrijving  |
-| 84  | Datum ingang soort onderwijs  | V  | --- |
-| 85  | Soort onderwijs  | V  | --- |
+| 69  | Datum ingang soort onderwijs  | V  | --- |
+| 70  | Soort onderwijs  | V  | --- |
 | Leerjaar/groep WEC 1..n keer per inschrijving  |
-| 86  | Datum plaatsing leerjaar/groep  | V  | --- |
-| 87  | Groepsaanduiding  | V  | --- |
-| 88  | Leerjaar WEC  | V  | --- |
+| 71  | Datum plaatsing leerjaar/groep  | V  | --- |
+| 72  | Groepsaanduiding  | V  | --- |
+| 73  | Leerjaar WEC  | V  | --- |
 | Schoolsoort WEC 1..n keer per inschrijving  |
-| 89  | Datum ingang schoolsoort  | V  | --- |
-| 90  | Schoolsoort  | V  | --- |
+| 74  | Datum ingang schoolsoort  | V  | --- |
+| 75  | Schoolsoort  | V  | --- |
 | Soort verblijf WEC 1..n keer per inschrijving  |
-| 91  | Datum ingang soort verblijf  | V  | --- |
-| 92  | Indicatie soort verblijf  | V  | --- |
+| 76  | Datum ingang soort verblijf  | V  | --- |
+| 77  | Indicatie soort verblijf  | V  | --- |
 | Indicatiestelling WEC 0..n keer per inschrijving  |
-| 93  | Datum indicatiestelling  | V  | --- |
-| 94  | Onderwijssoort indicatie  | V  | --- |
-| 95  | BRINnummer REC indicatiestelling  | O  | --- |
-| 96  | CVI-nummer  | O  | --- |
+| 78  | Datum indicatiestelling  | V  | --- |
+| 79  | Onderwijssoort indicatie  | V  | --- |
+| 80  | BRINnummer REC indicatiestelling  | O  | --- |
+| 81  | CVI-nummer  | O  | --- |
 | Ambulante begeleiding WEC 0..n keer per Indicatiestelling WEC  |
-| 97  | Datum ingang BRINnummer van de school waar de leerling Ambulant Begeleid wordt  | V  | --- |
-| 98  | BRINnummer van de school of instelling waar de leerling Ambulant Begeleid wordt  | V  | --- |
+| 82  | Datum ingang BRINnummer van de school waar de leerling Ambulant Begeleid wordt  | V  | --- |
+| 83  | BRINnummer van de school of instelling waar de leerling Ambulant Begeleid wordt  | V  | --- |
 | Toelaatbaarheidsverklaring 0..n keer per inschrijving  |
-| 99  | Datum ingang toelaatbaarheidsverklaring  | V  | --- |
-| 100  | Samenwerkingsverband nummer  | --- | --- |
-| 101  | Bekostigingscategorie  | V  | --- |
-| 102  | Beschikkingsnummer TLV  | V  | --- |
-| 103  | Datum einde Toelaatbaarheidsverklaring  | V  | --- |
+| 84  | Datum ingang toelaatbaarheidsverklaring  | V  | --- |
+| 85  | Samenwerkingsverband nummer  | V  | --- |
+| 86  | Bekostigingscategorie  | V  | --- |
+| 87  | Beschikkingsnummer TLV  | V  | --- |
+| 88  | Datum einde Toelaatbaarheidsverklaring  | V  | --- |
 | Uitstroomprofiel WEC 0..n keer per inschrijving  |
-| 104  | Datum ingang uitstroomprofiel  | V  | --- |
-| 105  | Uitstroomprofiel  | V  | --- |
-| 106  | Elementcode  | O  | --- |
-| 107  | Leerjaar uitstroomprofiel  | O  | --- |
+| 89  | Datum ingang uitstroomprofiel  | V  | --- |
+| 90  | Uitstroomprofiel  | V  | --- |
+| 91  | Elementcode  | O  | --- |
+| 92  | Leerjaar uitstroomprofiel  | O  | --- |
 | Arrangement WEC 0..n keer per inschrijving  |
-| 108  | Datum ingang arrangement  | V  | --- |
-| 109  | Clusternummer  | V  | --- |
-| 110  | BRINnummer school van inschrijving  | V  | --- |
-| 111  | Vestigingsvolgnummer school van inschrijving  | V  | --- |
+| 93  | Datum ingang arrangement  | V  | --- |
+| 94  | BRINnummer school van inschrijving  | V  | --- |
+| 95  | Vestigingsvolgnummer school van inschrijving  | V  | --- |
 | Meldinggegevens 1 keer per persoon/inschrijving  |
-| 112  | Berichtidentificatie  | V  | Berichtidentificatie van de laatst verwerkte (=goedgekeurde) melding  |
-| 113  | Aanleverpuntnummer  | O  | Aanleverpuntnummer van de laatst verwerkte (=goedgekeurde) melding  |
+| 96  | Berichtidentificatie  | V  | Berichtidentificatie van de laatst verwerkte (=goedgekeurde) melding  |
+| 97  | Aanleverpuntnummer  | O  | Aanleverpuntnummer van de laatst verwerkte (=goedgekeurde) melding  |
+| Verplichte eindtoets 0..1 keer per persoon.  |
+| 98  | Code toets  | V  | --- |
+| 99  | Niveau eindtoets  | O  | --- |
+| 100  | Datum afname  | O  | --- |
+| 101  | Score  | O  | --- |
+| 102  | Reden ontheffing  | O  | --- |
+| 103  | Reden niet deelname  | O  | --- |
+| Toetsonderdeel 0..n keer per verplichte eindtoets  |
+| 104  | Code Toetsonderdeel  | V  | --- |
+| 105  | Code Referentieniveau onderdeel  | O  | --- |
+| Toetsdomein 0..n keer per toetsonderdeel  |
+| 106  | Code Toetsdomein  | V  | --- |
+| 107  | Code Referentieniveau domein  | V  | --- |
 
 ### 5.6.13 
 
@@ -2084,17 +2094,9 @@ Met dit bericht koppelt BRON een wijziging van de persoonsgegevens (inclusief pe
 
 Met dit bericht koppelt BRON periodiek de ontstane dubbele inschrijvingen terug. In feite is dit bericht een service richting de PO-scholen om onderling e.e.a. af te stemmen en evt. gegevens aan BRON te leveren. Dubbele inschrijvingen zijn slechts in een beperkt aantal gevallen toegestaan. Er is sprake van een dubbele inschrijving als een leerling op meerdere scholen tegelijkertijd ingeschreven staat. Deze dubbele inschrijving wordt gesignaleerd, tenzij: 
 
-– er sprake is van een LGF-indicatie en de leerling tevens als ambulant begeleide leerling is ingeschreven op een WEC-school. NB: Deze situatie komt niet meer voor bij inschrijvingen met een datum ingang 1 augustus 2014, datum van start Passend Onderwijs. 
-
-– het een inschrijving op een crisis- of observatieplaats aan een WEC-school betreft (indicatie soort verblijf is 1 of 2), naast een reguliere inschrijving.  
-
-– NB: Deze situatie komt niet meer voor bij inschrijvingen met een datum ingang vanaf start Passend Onderwijs.  
-
 – één van de inschrijvingen een inschrijving aan een opgeheven school is, gedurende de gehele overlappende periode.  
 
-– één (en niet meer dan een) van de inschrijvingen een inschrijving WEC AB aan een cluster 1 WEC-school is en de andere inschrijving betreft een reguliere inschrijving aan een cluster 2, 3 of 4 WEC-school. NB:Deze situatie komt niet meer voor bij inschrijvingen met een datum ingang vanaf start Passend Onderwijs.
-
-– één (en niet meer dan een) van de inschrijvingen een inschrijving WEC AB aan een cluster 1 WEC-school is en de andere inschrijving betreft een WEC AB inschrijving aan een cluster 2, 3 of 4 WEC-school. NB: Deze situatie komt niet meer voor bij inschrijvingen met een datum ingang vanaf start Passend Onderwijs. De signalering van een niet toegestane dubbele inschrijving wordt verzonden aan alle betrokken PO-scholen waar de leerling staat ingeschreven. Met ‘betrokken’ wordt bedoeld alle scholen waarbij sprake is van een gezamenlijke inschrijfperiode en de gezamenlijke inschrijfperiode valt geheel of gedeeltelijk in de controleperiode. Deze controleperiode loopt vanaf de begindatum van het huidige schooljaar tot en met de controledatum. De signalering wordt aan de scholen verzonden totdat er geen sprake meer is van de dubbele inschrijving of totdat het eindpunt van de gezamenlijke inschrijfperiode buiten de controleperiode valt. Het bericht dubbele inschrijving wordt verstuurd per combinatie onderwijsontvangende/instelling. Onder de kop ‘situatie dubbele inschrijving’ staat de geconstateerde situatie. Dus meerdere scholen per persoon. Voor de verduidelijking zijn in bijlage 9.4 een aantal voorbeelden opgenomen van welke scholen bij een dubbele inschrijving worden bericht. De 'dubbele inschrijvingen' staan overigens gewoon in BRON geregistreerd en worden gewoon aan de afdeling Bekostiging van DUO doorgegeven. Bij Bekostiging vindt de uiteindelijke beslissing plaats omtrent al dan niet bekostigen van dubbele inschrijvingen. Dit bericht komt overigens niet als zelfstandige terugkoppeling voor, maar is opgenomen in het bericht ‘terugkoppeling verzoek terugkoppeling’. 
+– één van de inschrijvingen een inschrijving voor een arrangement is en de andere inschrijving betreft een reguliere inschrijving WPO of WEC.   De signalering van een niet toegestane dubbele inschrijving wordt verzonden aan alle betrokken PO-scholen waar de leerling staat ingeschreven. Met ‘betrokken’ wordt bedoeld alle scholen waarbij sprake is van een gezamenlijke inschrijfperiode en de gezamenlijke inschrijfperiode valt geheel of gedeeltelijk in de controleperiode. Deze controleperiode loopt vanaf de begindatum van het huidige schooljaar tot en met de controledatum. De signalering wordt aan de scholen verzonden totdat er geen sprake meer is van de dubbele inschrijving of totdat het eindpunt van de gezamenlijke inschrijfperiode buiten de controleperiode valt. Het bericht dubbele inschrijving wordt verstuurd per combinatie onderwijsontvangende/instelling. Onder de kop ‘situatie dubbele inschrijving’ staat de geconstateerde situatie. Dus meerdere scholen per persoon. Voor de verduidelijking zijn in bijlage 9.4 een aantal voorbeelden opgenomen van welke scholen bij een dubbele inschrijving worden bericht. De 'dubbele inschrijvingen' staan overigens gewoon in BRON geregistreerd en worden gewoon aan de afdeling Bekostiging van DUO doorgegeven. Bij Bekostiging vindt de uiteindelijke beslissing plaats omtrent al dan niet bekostigen van dubbele inschrijvingen. Dit bericht komt overigens niet als zelfstandige terugkoppeling voor, maar is opgenomen in het bericht ‘terugkoppeling verzoek terugkoppeling’. 
 ###Inhoud
 
 | Nr  | Omschrijving  | V/O  | Definitie/toelichting  |
@@ -2191,7 +2193,7 @@ De volgende tabellen worden gebruikt bij controles. Deze tabellen zijn onderdeel
 
 ### 7.1.2 
 
-####Advies VO
+####Advies-vo
 
 | Code  | Omschrijving  | Ingangsdatum  | Einddatum  |
 |:---|:---|:---|:---|
@@ -2424,14 +2426,14 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 
 ####Niveau eindtoets
 
-| Code  | Niveau eindtoets  | Scorebereik  | Ingangsdatum  | Einddatum  | Code Eindtoets  |
+| Code Eindtoets  | Code  | Niveau eindtoets  | Scorebereik  | Ingangsdatum  | Einddatum  |
 |:---|:---|:---|:---|:---|:---|
-| S  | Standaard  | 0  | 01-08-2014  | 31-07-2015  | 0008  |
-| S  | Standaard  | 65-135  | 01-08-2014  | 31-07-2015  | 0010  |
-| B  | Basis  | 501-550  | 01-08-2014  | --- | 0011  |
-| N  | Niveau  | 501-550  | 01-08-2014  | --- | 0011  |
-| S  | Standaard  | 100-300  | 01-01-2015  | --- | 0012  |
-| S  | Standaard  | 50-100  | 01-01-2015  | --- | 0013  |
+| 0008  | S  | Standaard  | 0  | 01-08-2014  | 31-07-2015  |
+| 0010  | S  | Standaard  | 65-135  | 01-08-2014  | 31-07-2015  |
+| 0011  | B  | Basis  | 501-550  | 01-08-2014  | --- |
+| 0011  | N  | Niveau  | 501-550  | 01-08-2014  | --- |
+| 0012  | S  | Standaard  | 100-300  | 01-01-2015  | --- |
+| 0013  | S  | Standaard  | 50-100  | 01-01-2015  | --- |
 
 ### 7.1.18  
 
@@ -2458,13 +2460,13 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 
 | Code  | Toetsonderdeel  | Ingangsdatum  | Einddatum  |
 |:---|:---|:---|:---|
-| 8000  | Taal  | 01-08-2015  | --- |
+| 8000  | Nederlandse taal  | 01-08-2015  | --- |
 | 8001  | Rekenen  | 01-08-2015  | --- |
 | --- | --- | --- | --- |
 
 ### 7.1.21  
 
-####Code Referentieniveau Toetsonderdeel
+####Referentieniveau Toetsonderdeel
 
 | Code  | Referentieniveau Toetsonderdeel  |
 |:---|:---|
@@ -2475,23 +2477,32 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 
 ### 7.1.22  
 
-####Code Toetsdomein
+####Toetsdomein
 
-| Code  | Toetsdomein  | Ingangsdatum  | Einddatum  |
-|:---|:---|:---|:---|
-| 8050  | Lezen  | 01-08-2015  | --- |
-| 8051  | Taalverzorging  | 01-08-2015  | --- |
+| Code Toetsonderdeel  | Code  | Toetsdomein  | Ingangsdatum  | Einddatum  |
+|:---|:---|:---|:---|:---|
+| 8000  | 8050  | Lezen  | 01-08-2015  | --- |
+| 8000  | 8051  | Taalverzorging  | 01-08-2015  | --- |
 
 ### 7.1.23  
 
-####Code Referentieniveau Toetsdomein
+####Referentieniveau Toetsdomein
 
-| Code  | Toetsdomein  | Ingangsdatum  | Einddatum  |
-|:---|:---|:---|:---|
-| 8050  | Lezen  | 01-08-2015  | --- |
-| 8051  | Taalverzorging  | 01-08-2015  | --- |
+| Code  | Referentieniveau Toetsdomein  |
+|:---|:---|
+| 01  | Lager dan 1F  |
+| 02  | 1F  |
+| 04  | 2F  |
 
 ### 7.1.24 
+
+####Elementcode t.b.v. uitstroomprofiel
+
+| Code  | Elementcode t.b.v. uitstroomprofiel  |
+|:---|:---|
+| --- | Zie http://duo.nl/zakelijk/VO/Inschrijvingsgegevens/Tabellen.asp   |
+
+### 7.1.25  
 
 ####Signalen
 
@@ -2509,7 +2520,7 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 | 312  | Afkeur  | Omdat er al een later bericht < attribuutwaarde> voor dezelfde inschrijving is verwerkt, kan dit bericht niet verwerkt worden  |
 | 313  | Afkeur  | Het aantal voorschoolse maanden <aantal voorschoolse maanden> moet een getal zijn tussen 1 en 24 maanden (beide inclusief)  |
 | 314  | Afkeur  | Datum uitschrijving <datum uitschrijving> ligt voor datum inschrijving <datum inschrijving>  |
-| 316  | Signaal  | Bij een uitschrijving in leerjaar 8 is advies VO normaliter gevuld  |
+| 316  | Signaal  | Bij een uitschrijving in leerjaar 8 is <attribuut> en/of < gegevensgroep>, normaliter gevuld  |
 | 317  | Afkeur  | Het veld Aanduiding NNCA WPO moet voor trekkende bevolking gevuld zijn met waarde 0  |
 | 321  | Afkeur  | <Attribuut> <datum> moet op of na datum inschrijving <datum inschrijving> en op of voor datum uitschrijving <datum uitschrijving> liggen  |
 | 322  | Afkeur  | Leerjaar 0 is alleen toegestaan voor varende kinderen  |
@@ -2523,7 +2534,7 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 | 333  | Signaal  | De leerling wordt geacht met toestemming van de inspecteur van het onderwijs toegelaten te zijn tot uw school  |
 | 334  | Signaal  | De leerling wordt geacht met toestemming van de inspecteur van het onderwijs toegelaten te zijn tot uw school  |
 | 337  | Signaal  | Soort onderwijs <soort onderwijs> is niet toegestaan voor deze vestiging <vestigingsvolgnummer>  Voor deze inschrijving ontvangt u hoogstwaarschijnlijk geen bekostiging.  |
-| 338  | Afkeur  | <Attribuut> mag alleen 0 zijn bij ambulante begeleiding.  |
+| 338  | Afkeur  | <Attribuut> mag geen 0 zijn.  |
 | 340  | Afkeur  | Als BRIN-nr. terugplaatsing <BRINnummer WPO/WVO-school of WEB-instelling> is gevuld, moet datum uitschrijving ook gevuld zijn  |
 | 341  | Afkeur  | Gegevensgroep <groepsnaam> moet verplicht aanwezig zijn  |
 | 342  | Afkeur  | Overlap van vroegschoolse programma's is niet toegestaan  |
@@ -2553,7 +2564,7 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 | 412  | Afkeur  | Gegevensgroep <groepsnaam> mag niet aanwezig zijn na start Passend Onderwijs  |
 | 413  | Afkeur  | Gegevensgroep <groepsnaam> mag niet aanwezig zijn voor cluster 3 en 4 na start passend onderwijs  |
 | 414  | Afkeur  | De gegevensgroep <groepsnaam> mag niet voor start Passend Onderwijs worden aangeleverd  |
-| 415  | Signaal  | Bij deze inschrijving ontbreekt een <groepsnaam> op de datum inschrijving  |
+| 415  | Signaal  | Bij deze inschrijving ontbreekt een <groepsnaam>. De ingangsdatum moet op of voor de datum inschrijving liggen  |
 | 416  | Afkeur  | <Attribuut> <attribuutwaarde> moet na start Passend Onderwijs liggen  |
 | 418  | Signaal  | Soort verblijf <soort verblijf> is niet toegestaan voor deze vestiging <vestigingsvolgnummer>  |
 | 419  | Afkeur  | <Attribuut1> <waarde attribuut1> is niet geldig op <attribuut 2> <waarde attribuut 2>  Attribuut 1 = samenwerkingsverbandnummer  Attribuut 2 = datum ingang toelaatbaarheidsverklaring  |
@@ -2572,27 +2583,37 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 | 432  | Afkeur  | Leerjaar uitstroomprofiel mag alleen aanwezig zijn bij uitstroomprofiel Vervolgonderwijs  |
 | 433  | Afkeur  | De datum ingang uitstroomprofiel <Attribuutwaarde> moet liggen op of na 01-08-2014  |
 | 434  | Afkeur  | Bij uitstroomprofiel Vervolgonderwijs moet een Leerjaar uitstroomprofiel aanwezig zijn  |
+| 435  | Afkeur  | Datum einde ontwikkelingsperspectief moet gevuld zijn als de leerling wordt uitgeschreven. Uitschrijfdatum is <datum uitschrijving>  |
 | 438  | Afkeur  | Elementcode mag alleen aanwezig zijn bij het uitstroomprofiel Vervolgonderwijs.  |
+| 443  | Afkeur  | <Attribuut> <attribuutwaarde> moet 0 zijn bij een Arrangement WEC  |
+| 444  | Afkeur  | De gegevensgroep <groepsnaam> mag niet aanwezig zijn als er een Arrangement aanwezig is  |
+| 445  | Afkeur  | De gegevensgroep <groepsnaam> wordt voor leerlingen ingeschreven in het speciaal basisonderwijs niet aan BRON aangeleverd  |
+| 446  | Afkeur  | Arrangement WEC mag alleen aangeleverd worden door een instelling uit cluster 1 of 2 of door de epilepsiescholen  |
+| 447  | Afkeur  | <Attribuut> <attribuut waarde> moet van een WPO-, WEC- WVO- of WEB-instelling zijn  |
+| 448  | Afkeur  | Het BRINnummer van de instelling die het arrangement verleent mag niet gelijk zijn aan het BRINnummer van de instelling die het arrangement ontvangt  |
+| 450  | afkeur  | Vestiging <vestigingsvolgnummer school van inschrijving> is in de BRIN-tabellen van DUO niet bekend als vestiging van de school van inschrijving  |
+| 452  | Afkeur  | <Attribuut> <attribuutwaarde> moet op of na datum start Passend Onderwijs Beleidsinformatie liggen  |
+| 453  | Afkeur  | Datum einde ontwikkelingsperspectief <attribuutwaarde> moet op of na datum ingang ontwikkelingsperspectief <datum ingang OPP> en voor of op de uitschrijfdatum <datum uitschrijving> liggen  |
+| 454  | Afkeur  | Overlap van ontwikkelingsperspectief is niet toegestaan  |
 | 456  | Afkeur  | Elementcode mag niet gelijk zijn aan 0090 – Praktijkonderwijs  |
 | 457  | Signaal  | Vanaf 1 augustus 2014 moet bij deze leerling een <groepsnaam> aanwezig zijn  |
 | 458  | Afkeur  | Bij deze inschrijving mag geen <gegevensgroep> aanwezig zijn  |
 | 459  | Afkeur  | Datum ingang arrangement < attribuutwaarde> moet liggen op of voor de datum uitschrijving  |
 | 460  | Signaal  | Het leerlinggewicht wordt eenmalig bij inschrijving vastgesteld en daarna niet meer gewijzigd  |
-| 462  | Afkeur  | Het Herzien advies VO moet hoger zijn dan het Advies VO  |
-| 463  | Afkeur  | Het herzien advies VO mag niet gevuld zijn als er nog geen eindtoets is geleverd  |
+| 462  | Afkeur  | Herzien advies-vo moet hoger zijn dan het advies-vo  |
+| 463  | Afkeur  | Zonder registratie eindtoets mag geen herzien advies-vo geleverd worden  |
 | 464  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mogen de score, de datum afname en niveau eindtoets niet gevuld zijn  |
 | 465  | Afkeur  | Bij deelname aan de eindtoets moeten score, datum afname en niveau eindtoets gevuld zijn  |
 | 466  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets mag er geen <gegevensgroep> geleverd worden  |
-| 467  | Afkeur  | Het <attribuut> <attribuutwaarde> is ten onrechte niet aangeleverd  |
-| 468  | Afkeur  | Voor toetsonderdeel < attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > mag geen score worden aangeleverd  |
-| 469  | Afkeur  | Voor toetsonderdeel < attribuut = Code Toetsonderdeel><attribuutwaarde = naam Toetsonderdeel > moet een score worden aangeleverd  |
-| 470  | Afkeur  | <Attribuut 1> <waarde attribuut 1> en <attribuut 2> <waarde attribuut 2> zouden moeten voorkomen in bijbehorende waardelijst  Attribuut 1 = code eindtoets  Attribuut 2 = niveau eindtoets  |
-| 471  | Afkeur  | <Attribuut 1> <waarde attribuut 1> en <attribuut 2> <waarde attribuut 2>en <attribuut 3> <waarde attribuut 3>zouden moeten voorkomen in bijbehorende waardelijst  Attribuut 1 = code eindtoets  Attribuut 2 = niveau eindtoets  Attribuut 3 = score eindtoets  |
-| 472  | Afkeur  | Voor toetsdomein <attribuut = Code Toetsdomein><attribuutwaarde = naam Toetsdomein > moet een score worden aangeleverd  |
-| 475  | Afkeur  | Het Herzien Advies VO mag gevuld zijn als Advies VO ook was geleverd.  |
+| 467  | Afkeur  | Het<Gegevensgroep><attribuut = Code Toetsonderdeel of Code Toetsdomein> <attribuutwaarde = naam ontbrekende waarde > ontbreekt  |
+| 468  | Afkeur  | Voor<naam gegevensgroep> < attribuut = Code Toetsonderdeel of Code Toetsdomein><attribuutwaarde = naam Toetsonderdeel of naam Toetsdomein> mag geen referentieniveau worden aangeleverd  |
+| 469  | Afkeur  | Voor <naam gegevensgroep> < attribuut = Code Toetsonderdeel of Code Toetsdomein><attribuutwaarde = naam Toetsonderdeel of naam Toetsdomein> moet een referentieniveau worden aangeleverd  |
+| 470  | Afkeur  | <Attribuut 1> <waarde attribuut 1> en <attribuut 2> <waarde attribuut 2> moeten voorkomen in bijbehorende waardelijst  Attribuut 1 = code eindtoets  Attribuut 2 = niveau eindtoets  |
+| 473  | Afkeur  | <Attribuut> mag alleen 0 zijn bij Arrangement.  |
+| 475  | Afkeur  | Herzien advies-vo is niet toegestaan zonder registratie advies- vo  |
 | 476  | Signaal  | Met dit bericht is de gegevensgroep ‘Verplichte eindtoets’ verwijderd uit BRON.  |
 | 477  | Signaal  | Bij deze inschrijving moet een <attribuut> aanwezig zijn.  |
-| 478  | Afkeur  | Als een leerling niet deelneemt aan de eindtoets met als reden ontheffing, dan moet ook Reden ontheffing zijn gevuld.  |
+| 478  | Afkeur  | Bij niet deelname door ontheffing moet een reden ontheffing gevuld zijn  |
 | 740  | Afkeur  | Het veld <attribuut> moet gevuld zijn  |
 | 741  | Afkeur  | Het veld <attribuut> moet voorkomen in bijbehorende waardelijst  |
 | 742  | Afkeur  | Het formaat van het veld <attribuut> is niet conform de voorschriften  |
@@ -2617,14 +2638,8 @@ NB. Indicatie 26 is alleen van toepassing op reguliere WEC-inschrijvingen. Omdat
 | 793  | Afkeur  | Het wijzigen van de sleutelgegevens is niet mogelijk omdat DUO beschikt over de BRP gegevens van deze leerling  |
 | 843  | Afkeur  | Het veld <attribuut> mag niet in de toekomst liggen  |
 | 956  | Signaal  | De gegevens zijn geheim volgens de Basisregistratie personen  |
-
-### 7.1.25  
-
-####Elementcode t.b.v. uitstroomprofiel
-
-| Code  | Elementcode t.b.v. uitstroomprofiel  |
-|:---|:---|
-| --- | Zie http://duo.nl/zakelijk/VO/Inschrijvingsgegevens/Tabellen.asp   |
+| 990  | Afkeur  | Vrije tekst  |
+| 991  | Signaal  | Vrije tekst  |
 
 ### 7.2 
 
@@ -2881,7 +2896,7 @@ Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visu
 
 ####Algemeen
 
-Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden worden vastgelegd in de Basisregistratie Instellingen (BRIN). De registerhouder DUO geeft aan elke organisatie, die in het register wordt vastgelegd, een uniek nummer. Verder legt de registerhouder informatie vast uit beschikkingen en andere voor de werkprocessen van belang zijnde gegevens. In de registratie wordt precies vastgelegd wat o.a. in het kader van de planprocedure is goedgekeurd en in de beschikking aan het bevoegd gezag is opgenomen. Gegevens waarvoor goedkeuring is verleend kunnen niet zonder toetsingsprocedure gewijzigd worden. Andere gegevens, zoals communicatiegegevens kunnen, op aangeven van het bevoegd gezag, wel zonder toetsing worden gemuteerd. In dit PvE worden de elektronische aanlevering van enkele gegevens van scholen en het bevoegd gezag beschreven, die men zelf kan wijzigen zonder toetsing door het departement. Via www.ocwduo.nl kunnen ook andere partijen informatie halen uit deze registratie. Het gaat daarbij om een selectie van gegevens uit BRIN, met name de identificatiegegevens (BRINnummer) en adresgegevens. 
+Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden worden vastgelegd in de Basisregistratie Instellingen (BRIN). De registerhouder DUO geeft aan elke organisatie, die in het register wordt vastgelegd, een uniek nummer. Verder legt de registerhouder informatie vast uit beschikkingen en andere voor de werkprocessen van belang zijnde gegevens. In de registratie wordt precies vastgelegd wat o.a. in het kader van de planprocedure is goedgekeurd en in de beschikking aan het bevoegd gezag is opgenomen. Gegevens waarvoor goedkeuring is verleend kunnen niet zonder toetsingsprocedure gewijzigd worden. Andere gegevens, zoals communicatiegegevens kunnen, op aangeven van het bevoegd gezag, wel zonder toetsing worden gemuteerd. In dit PvE worden de elektronische aanlevering van enkele gegevens van scholen en het bevoegd gezag beschreven, die men zelf kan wijzigen zonder toetsing door het departement. Via www.duo.nl kunnen ook andere partijen informatie halen uit deze registratie. Het gaat daarbij om een selectie van gegevens uit BRIN, met name de identificatiegegevens (BRINnummer) en adresgegevens. 
 
 ### 2.2  
 
@@ -2982,7 +2997,7 @@ Alle wijzigingen worden aangeleverd binnen vier weken na mutatiedatum.
 
 ####Wijze van aanleveren
 
-De aanlevering geschiedt elektronisch. U dient hiervoor gebruik te maken van het onderwerp instellingsinformatie onder www.ocwduo.nl. 
+De aanlevering geschiedt elektronisch. U dient hiervoor gebruik te maken van het onderwerp instellingsinformatie onder www.duo.nl. 
 
 ###Bijlage 3 
 
@@ -3014,7 +3029,7 @@ De overheid maakt bij de gegevensverzameling zo veel mogelijk gebruik van het pr
 
 ####Voor wie is het PvE bedoeld?
 
-Het PvE is bedoeld voor het bevoegd gezag van scholen (en instellingen voor visueel gehandicapte kinderen) voor primair onderwijs en besturen van REC’s en Centrale Diensten (CD’s). 
+Het PvE is bedoeld voor het bevoegd gezag van scholen en instellingen voor primair onderwijs en besturen van samenwerkingsverbanden. 
 
 ### 2  
 
@@ -3046,9 +3061,9 @@ Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden 
 | 3  | Investeringen van de ontwikkelingskosten  | bedrag  | De waarde van de investeringen van de ontwikkelingskosten  | Immateriële vaste activa  |
 | 4  | Desinvesteringen van de ontwikkelingskosten  | bedrag  | De waarde van de desinvesteringen van de ontwikkelingskosten  | Immateriële vaste activa  |
 | 5  | Afschrijvingen van de ontwikkelingskosten  | bedrag  | De waarde van de afschrijvingen van de ontwikkelingskosten  | Immateriële vaste activa  |
-| 6  | Investeringen concessies, vergunningen en rechten van intelectuele eigendom  | bedrag  | De waarde van de investeringen concessies, vergunningen en rechten van intelectuele eigendom  | Immateriële vaste activa  |
-| 7  | Desinvesteringen concessies, vergunningen en rechten van intelectuele eigendom  | bedrag  | De waarde van de desinvesteringen concessies, vergunningen en rechten van intelectuele eigendom  | Immateriële vaste activa  |
-| 8  | Afschrijvingen concessies, vergunningen en rechten van intelectuele eigendom  | bedrag  | De waarde van de afschrijvingen concessies, vergunningen en rechten van intelectuele eigendom  | Immateriële vaste activa  |
+| 6  | Investeringen concessies, vergunningen en rechten van intellectuele eigendom  | bedrag  | De waarde van de investeringen concessies, vergunningen en rechten van intellectuele eigendom  | Immateriële vaste activa  |
+| 7  | Desinvesteringen concessies, vergunningen en rechten van intellectuele eigendom  | bedrag  | De waarde van de desinvesteringen concessies, vergunningen en rechten van intellectuele eigendom  | Immateriële vaste activa  |
+| 8  | Afschrijvingen concessies, vergunningen en rechten van intellectuele eigendom  | bedrag  | De waarde van de afschrijvingen concessies, vergunningen en rechten van intellectuele eigendom  | Immateriële vaste activa  |
 | 9  | Investeringen goodwill  | bedrag  | De waarde van de investeringen goodwill  | Immateriële vaste activa  |
 | 10  | Desinvesteringen goodwill  | bedrag  | De waarde van de desinvesteringen goodwill  | Immateriële vaste activa  |
 | 11  | Afschrijvingen goodwill  | bedrag  | De waarde van de afschrijvingen goodwill  | Immateriële vaste activa  |
@@ -3093,7 +3108,7 @@ Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden 
 | 50  | Desinvesteringen en afgeloste leningen overige effecten  | bedrag  | De waarde van de desinvesteringen en aflossing van leningen overige effecten  | Financiële vaste activa  |
 | 51  | Investeringen en verstrekte leningen overige financiële vaste activa  | bedrag  | De waarde van de investeringen en verstrekking van leningen overige financiële vaste activa  | Financiële vaste activa  |
 | 52  | Desinvesteringen en afgeloste leningen overige financiële vaste activa  | bedrag  | De waarde van de desinvesteringen en aflossing van leningen overige financiële vaste activa  | Financiële vaste activa  |
-| 53  | Verkijgingsprijs gebruiksgoederen  | bedrag  | De waarde van de verkrijgingsprijs gebruiksgoederen per 31/12  | Voorraden  |
+| 53  | Verkrijgingsprijs gebruiksgoederen  | bedrag  | De waarde van de verkrijgingsprijs gebruiksgoederen per 31/12  | Voorraden  |
 | 54  | Voorzieningen voor incourantheid  | bedrag  | De waarde van de voorzieningen wegens incourantheid gebruiksgoederen per 31/12  | Voorraden  |
 | 55  | Vooruitbetaald op voorraden  | bedrag  | De waarde van vooruitbetaald op voorraden per 31/12  | Voorraden  |
 | 56  | Debiteuren  | bedrag  | De waarde van de debiteuren per 31/12  | Vorderingen  |
@@ -3190,7 +3205,7 @@ Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden 
 | 147  | Omzetbelasting  | bedrag  | De waarde van de kortlopende schulden aan omzetbelasting 31/12  | Kortlopende schulden  |
 | 148  | Premies sociale verzekeringen  | bedrag  | De waarde van de kortlopende schulden aan premies sociale verzekeringen per 31/12  | Kortlopende schulden  |
 | 149  | Overige belastingen  | bedrag  | De waarde van de kortlopende schulden aan overige belastingen per 31/12  | Kortlopende schulden  |
-| 150  | Schulden terzake van pensioenen  | bedrag  | De waarde van de kortlopende schulden terzake van pensioenen per 31/12  | Kortlopende schulden  |
+| 150  | Schulden ter zake van pensioenen  | bedrag  | De waarde van de kortlopende schulden ter zake van pensioenen per 31/12  | Kortlopende schulden  |
 | 151  | Werk door derden  | bedrag  | De waarde van de kortlopende schulden aan werk door derden per 31/12  | Kortlopende schulden  |
 | 152  | Overige kortlopende schulden  | bedrag  | De waarde van de overige kortlopende schulden per 31/12  | Kortlopende schulden  |
 | 153  | Vooruitontvangen college- en lesgelden  | bedrag  | De waarde van de vooruitontvangen college- en lesgelden per 31/12  | Kortlopende schulden  |
@@ -3201,75 +3216,72 @@ Indien het bevoegd gezag EFJ gebruikt voor het maken van de jaarrekening worden 
 | 158  | Accountants- en administratiekosten  | bedrag  | De waarde van de kortlopende schulden aan accountants- en administratiekosten per 31/12  | Kortlopende schulden  |
 | 159  | Rente  | bedrag  | De waarde van de kortlopende schulden aan rente per 31/12  | Kortlopende schulden  |
 | 160  | Overige overlopende passiva  | bedrag  | De waarde van de overige overlopende passiva per 31/12  | Kortlopende schulden  |
-| 161  | Rijksbijdragen OCW  | bedrag  | De waarde van de rijksbijdrage OCW  | Rijksbijdragen  |
-| 162  | Rijksbijdragen EZ  | bedrag  | De waarde van de rijksbijdrage EZ  | Rijksbijdragen  |
-| 163  | Geoormerkte Subsidies OCW  | bedrag  | De waarde van de Geoormerkte Subsidies OCW  | Rijksbijdragen  |
-| 164  | Niet-geoormerkte subsidies OCW  | bedrag  | De waarde van de Niet-geoormerkte subsidies OCW  | Rijksbijdragen  |
-| 165  | Toerekening investeringssubsidies OCW  | bedrag  | De waarde van de Toerekening investeringssubsidies OCW  | Rijksbijdragen  |
-| 166  | Geoormerkte subsidies EZ  | bedrag  | De waarde van de Geoormerkte subsidies EZ  | Rijksbijdragen  |
-| 167  | Niet-geoormerkte subsidies EZ  | bedrag  | De waarde van de Niet-geoormerkte subsidies EZ  | Rijksbijdragen  |
-| 168  | Toerekening investeringssubsidies EZ  | bedrag  | De waarde van de Toerekening investeringssubsidies EZ  | Rijksbijdragen  |
-| 169  | Inkomensoverdrachten academische ziekenhuizen  | bedrag  | De waarde van de Rijksbijdrage academische ziekenhuizen  | Rijksbijdragen  |
-| 170  | Doorbetalingen Rijksbijdrage SWV  | bedrag  | De waarde van de doorbetaling Rijksbijdrage SWV  | Rijksbijdragen  |
-| 171  | Ontvangen doorbetalingen Rijksbijdrage SWV  | bedrag  | De waarde van de ontvangen doorbetaling Rijksbijdrage SWV  | Rijksbijdragen  |
-| 172  | Bijdrage educatie  | bedrag  | De waarde van de Bijdrage educatie  | Overige overheidsbijdragen  |
-| 173  | Overige overheidsbijdragen  | bedrag  | De waarde van de Overige overheidsbijdragen  | Overige overheidsbijdragen  |
-| 174  | Lesgelden sector VO  | bedrag  | De waarde van de Lesgelden sector VO  | Overige baten  |
-| 175  | Cursusgelden sector BE  | bedrag  | De waarde van de Cursusgelden sector BE  | Overige baten  |
-| 176  | Collegegelden sector HBO  | bedrag  | De waarde van de Collegegelden sector HBO  | Overige baten  |
-| 177  | Collegegelden sector WO  | bedrag  | De waarde van de Collegegelden sector WO  | Overige baten  |
-| 178  | Examengelden  | bedrag  | De waarde van de Examengelden  | Overige baten  |
-| 179  | Contractonderwijs  | bedrag  | De waarde van het Contractonderwijs  | Overige baten  |
-| 180  | Contracten t.b.v. inburgeringsvoorzieningen  | bedrag  | De waarde van de Contracten t.b.v. inburgeringsvoorzieningen  | Overige baten  |
+| 161  | Ontvangen doorbetalingen Rijksbijdrage SWV  | bedrag  | De waarde van de ontvangen doorbetalingen Rijksbijdrage SWV  | Rijksbijdragen  |
+| 162  | Rijksbijdragen OCW  | bedrag  | De waarde van de rijksbijdrage OCW  | Rijksbijdragen  |
+| 163  | Rijksbijdragen EZ  | bedrag  | De waarde van de rijksbijdrage EZ  | Rijksbijdragen  |
+| 164  | Overige subsidies OCW  | bedrag  | De waarde van de overige subsidies OCW  | Rijksbijdragen  |
+| 165  | Overige subsidies EZ  | bedrag  | De waarde van de overige subsidies EZ  | Rijksbijdragen  |
+| 166  | Inkomensoverdrachten academische ziekenhuizen  | bedrag  | De waarde van de rijksbijdrage academische ziekenhuizen  | Rijksbijdragen  |
+| 167  | Doorbetalingen rijksbijdrage SWV  | bedrag  | De waarde van de doorbetaling rijksbijdrage SWV  | Rijksbijdragen  |
+| 168  | Ontvangen doorbetalingen rijksbijdrage SWV  | bedrag  | De waarde van de ontvangen doorbetaling rijksbijdrage SWV  | Rijksbijdragen  |
+| 169  | Overige overheidsbijdragen en -subsidies  | bedrag  | De waarde van de overige overheidsbijdragen en -subsidies  | Overige overheidsbijdragen  |
+| 170  | Bijdrage educatie  | bedrag  | De waarde van de bijdrage educatie  | Overige overheidsbijdragen  |
+| 171  | Reïntegratie  | bedrag  | De waarde van de reïntegratie  | Overige overheidsbijdragen  |
+| 172  | Inburgering  | bedrag  | De waarde van de inburgering  | Overige overheidsbijdragen  |
+| 173  | Lesgelden sector VO  | bedrag  | De waarde van de Lesgelden sector VO  | Overige baten  |
+| 174  | Cursusgelden sector MBO  | bedrag  | De waarde van de Cursusgelden sector BVE  | Overige baten  |
+| 175  | Collegegelden sector HBO  | bedrag  | De waarde van de Collegegelden sector HBO  | Overige baten  |
+| 176  | Collegegelden sector WO  | bedrag  | De waarde van de Collegegelden sector WO  | Overige baten  |
+| 177  | Examengelden  | bedrag  | De waarde van de Examengelden  | Overige baten  |
+| 178  | Contractonderwijs  | bedrag  | De waarde van het Contractonderwijs  | Overige baten  |
+| 179  | Contracten t.b.v. inburgeringsvoorzieningen  | bedrag  | De waarde van de Contracten t.b.v. inburgeringsvoorzieningen  | Overige baten  |
+| 180  | Overige baten werk in opdracht van derden  | bedrag  | De waarde van de Overige baten werk in opdracht van derden  | Overige baten  |
 | 181  | Contractonderzoek internationale organisaties  | bedrag  | De waarde van het Contractonderzoek internationale organisaties  | Overige baten  |
 | 182  | Contractonderzoek nationale overheden  | bedrag  | De waarde van het Contractonderzoek nationale overheden  | Overige baten  |
 | 183  | Contractonderzoek NWO  | bedrag  | De waarde van het Contractonderzoek NWO  | Overige baten  |
 | 184  | Contractonderzoek KNAW  | bedrag  | De waarde van het Contractonderzoek KNAW  | Overige baten  |
 | 185  | Contractonderzoek overige non-profit organisaties  | bedrag  | De waarde van het Contractonderzoek overige non-profit organisaties  | Overige baten  |
 | 186  | Contractonderzoek bedrijven  | bedrag  | De waarde van het Contractonderzoek bedrijven  | Overige baten  |
-| 187  | Inburgeringscontracten in opdracht van derden  | bedrag  | De waarde van de Inburgeringscontracten in opdracht van derden  | Overige baten  |
-| 188  | Participatiebudget  | bedrag  | De waarde van het Participatiebudget  | Overige baten  |
-| 189  | Overige baten in opdracht van derden  | bedrag  | De waarde van de Overige baten in opdracht van derden  | Overige baten  |
-| 190  | Verhuur  | bedrag  | De waarde van de Verhuur  | Overige baten  |
-| 191  | Detachering personeel  | bedrag  | De waarde van de Detachering personeel  | Overige baten  |
-| 192  | Schenking  | bedrag  | De waarde van de Schenking  | Overige baten  |
-| 193  | Sponsoring  | bedrag  | De waarde van de Sponsoring  | Overige baten  |
-| 194  | Ouderbijdrage  | bedrag  | De waarde van de Ouderbijdrage  | Overige baten  |
-| 195  | Overige baten  | bedrag  | De waarde van de Overige baten  | Overige baten  |
-| 196  | Brutolonen en salarissen  | bedrag  | De waarde van de Brutolonen en salarissen  | Personele lasten  |
-| 197  | Sociale lasten  | bedrag  | De waarde van de Sociale lasten  | Personele lasten  |
-| 198  | Pensioenpremies  | bedrag  | De waarde van de Pensioenpremies  | Personele lasten  |
-| 199  | Dotaties personele voorzieningen  | bedrag  | De waarde van de Dotaties personele voorzieningen  | Personele lasten  |
-| 200  | Personeel niet in loondienst  | bedrag  | De waarde van het Personeel niet in loondienst  | Personele lasten  |
-| 201  | Overige personele lasten  | bedrag  | De waarde van de Overige personele lasten  | Personele lasten  |
-| 202  | Ontvangen uitkeringen  | bedrag  | De waarde van de Ontvangen uitkeringen  | Personele lasten  |
-| 203  | Immateriële vaste activa  | bedrag  | De waarde van de afschrijvingen Immateriële vaste activa  | Afschrijvingen  |
-| 204  | Materiële vaste activa  | bedrag  | De waarde van de afschrijvingen Materiële vaste activa  | Afschrijvingen  |
-| 205  | Huurkosten  | bedrag  | De waarde van de Huurkosten  | Huisvestingslasten  |
-| 206  | Verzekeringen  | bedrag  | De waarde van de Verzekeringen  | Huisvestingslasten  |
-| 207  | Onderhoud  | bedrag  | De waarde van het Onderhoud  | Huisvestingslasten  |
-| 208  | Energie en water  | bedrag  | De waarde van de Energie en waterlasten  | Huisvestingslasten  |
-| 209  | Schoonmaakkosten  | bedrag  | De waarde van de Schoonmaakkosten  | Huisvestingslasten  |
-| 210  | Heffingen  | bedrag  | De waarde van de Heffingen  | Huisvestingslasten  |
-| 211  | Dotaties overige onderhoudsvoorzieningen  | bedrag  | De waarde van de Dotaties overige onderhoudsvoorzieningen  | Huisvestingslasten  |
-| 212  | Overige huisvestingslasten  | bedrag  | De waarde van de Overige huisvestingslasten  | Huisvestingslasten  |
-| 213  | Administratie en beheerslasten  | bedrag  | De waarde van de Administratie en beheerslasten  | Overige lasten  |
-| 214  | Inventaris, apparatuur en leermiddelen  | bedrag  | De waarde van de kosten voor Inventaris, apparatuur en leermiddelen  | Overige lasten  |
-| 215  | Dotatie overige voorzieningen  | bedrag  | De waarde van de Dotatie overige voorzieningen  | Overige lasten  |
-| 216  | Overige lasten  | bedrag  | De waarde van de Overige lasten  | Overige lasten  |
-| 217  | Onderzoek jaarrekening  | bedrag  | De waarde van de accountantskosten inzake onderzoek jaarrekening  | Overige lasten  |
-| 218  | Andere controleopdrachten  | bedrag  | De waarde van de accountantskosten inzake andere controleopdrachten  | Overige lasten  |
-| 219  | Fiscale adviezen  | bedrag  | De waarde van de accountantskosten inzake fiscale adviezen  | Overige lasten  |
-| 220  | Andere niet-controledienst  | bedrag  | De waarde van de accountantskosten inzake andere niet-controlediensten  | Overige lasten  |
-| 221  | Gerealiseerde herwaardering  | bedrag  | De waarde van de Gerealiseerde herwaardering  | Buitengewone baten  |
-| 222  | Rentebaten  | bedrag  | De waarde van de Rentebaten  | Financiële baten  |
-| 223  | Waardeverandering financiële vaste activa en effecten  | bedrag  | De waarde van de Waardeverandering financiële vaste activa en effecten  | Financiële baten  |
-| 224  | Overige opbrengsten financiële vaste activa en effecten  | bedrag  | De waarde van de Overige opbrengsten financiële vaste activa en effecten  | Financiële baten  |
-| 225  | Rentelasten  | bedrag  | De waarde van de rentelasten  | Financiële lasten  |
-| 226  | Belastingen  | bedrag  | De waarde van de Belastingen  | Overige lasten  |
-| 227  | Resultaat deelnemingen  | bedrag  | De waarde van het Resultaat deelnemingen  | Financiële baten  |
-| 228  | Aandeel derden in resultaat  | bedrag  | De waarde van het Aandeel derden in resultaat  | Aandeel van derden  |
-| 229  | Buitengewoon resultaat  | bedrag  | De waarde van het Buitengewoon resultaat  | Buitengewone lasten  |
+| 187  | Verhuur  | bedrag  | De waarde van de Verhuur  | Overige baten  |
+| 188  | Detachering personeel  | bedrag  | De waarde van de Detachering personeel  | Overige baten  |
+| 189  | Schenking  | bedrag  | De waarde van de Schenking  | Overige baten  |
+| 190  | Sponsoring  | bedrag  | De waarde van de Sponsoring  | Overige baten  |
+| 191  | Ouderbijdrage  | bedrag  | De waarde van de Ouderbijdrage  | Overige baten  |
+| 192  | Overige baten  | bedrag  | De waarde van de Overige baten  | Overige baten  |
+| 193  | Brutolonen en salarissen  | bedrag  | De waarde van de Brutolonen en salarissen  | Personele lasten  |
+| 194  | Sociale lasten  | bedrag  | De waarde van de Sociale lasten  | Personele lasten  |
+| 195  | Pensioenpremies  | bedrag  | De waarde van de Pensioenpremies  | Personele lasten  |
+| 196  | Dotaties personele voorzieningen  | bedrag  | De waarde van de Dotaties personele voorzieningen  | Personele lasten  |
+| 197  | Personeel niet in loondienst  | bedrag  | De waarde van het Personeel niet in loondienst  | Personele lasten  |
+| 198  | Overige personele lasten  | bedrag  | De waarde van de Overige personele lasten  | Personele lasten  |
+| 199  | Ontvangen uitkeringen  | bedrag  | De waarde van de Ontvangen uitkeringen  | Personele lasten  |
+| 200  | Immateriële vaste activa  | bedrag  | De waarde van de afschrijvingen Immateriële vaste activa  | Afschrijvingen  |
+| 201  | Materiële vaste activa  | bedrag  | De waarde van de afschrijvingen Materiële vaste activa  | Afschrijvingen  |
+| 202  | Huurkosten  | bedrag  | De waarde van de Huurkosten  | Huisvestingslasten  |
+| 203  | Verzekeringen  | bedrag  | De waarde van de Verzekeringen  | Huisvestingslasten  |
+| 204  | Onderhoud  | bedrag  | De waarde van het Onderhoud  | Huisvestingslasten  |
+| 205  | Energie en water  | bedrag  | De waarde van de Energie en waterlasten  | Huisvestingslasten  |
+| 206  | Schoonmaakkosten  | bedrag  | De waarde van de Schoonmaakkosten  | Huisvestingslasten  |
+| 207  | Heffingen  | bedrag  | De waarde van de Heffingen  | Huisvestingslasten  |
+| 208  | Dotaties overige onderhoudsvoorzieningen  | bedrag  | De waarde van de Dotaties overige onderhoudsvoorzieningen  | Huisvestingslasten  |
+| 209  | Overige huisvestingslasten  | bedrag  | De waarde van de Overige huisvestingslasten  | Huisvestingslasten  |
+| 210  | Administratie en beheerslasten  | bedrag  | De waarde van de Administratie en beheerslasten  | Overige lasten  |
+| 211  | Inventaris, apparatuur en leermiddelen  | bedrag  | De waarde van de kosten voor Inventaris, apparatuur en leermiddelen  | Overige lasten  |
+| 212  | Dotatie overige voorzieningen  | bedrag  | De waarde van de Dotatie overige voorzieningen  | Overige lasten  |
+| 213  | Overige lasten  | bedrag  | De waarde van de Overige lasten  | Overige lasten  |
+| 214  | Onderzoek jaarrekening  | bedrag  | De waarde van de accountantskosten inzake onderzoek jaarrekening  | Overige lasten  |
+| 215  | Andere controleopdrachten  | bedrag  | De waarde van de accountantskosten inzake andere controleopdrachten  | Overige lasten  |
+| 216  | Fiscale adviezen  | bedrag  | De waarde van de accountantskosten inzake fiscale adviezen  | Overige lasten  |
+| 217  | Andere niet-controledienst  | bedrag  | De waarde van de accountantskosten inzake andere niet-controlediensten  | Overige lasten  |
+| 218  | Gerealiseerde herwaardering  | bedrag  | De waarde van de Gerealiseerde herwaardering  | Buitengewone baten  |
+| 219  | Rentebaten  | bedrag  | De waarde van de Rentebaten  | Financiële baten  |
+| 220  | Waardeverandering financiële vaste activa en effecten  | bedrag  | De waarde van de Waardeverandering financiële vaste activa en effecten  | Financiële baten  |
+| 221  | Overige opbrengsten financiële vaste activa en effecten  | bedrag  | De waarde van de Overige opbrengsten financiële vaste activa en effecten  | Financiële baten  |
+| 222  | Rentelasten  | bedrag  | De waarde van de rentelasten  | Financiële lasten  |
+| 223  | Belastingen  | bedrag  | De waarde van de Belastingen  | Overige lasten  |
+| 224  | Resultaat deelnemingen  | bedrag  | De waarde van het Resultaat deelnemingen  | Financiële baten  |
+| 225  | Aandeel derden in resultaat  | bedrag  | De waarde van het Aandeel derden in resultaat  | Aandeel van derden  |
+| 226  | Buitengewoon resultaat  | bedrag  | De waarde van het Buitengewoon resultaat  | Buitengewone lasten  |
 | --- | --- | --- | --- | --- |
 
 Alle posten dienen conform de specificaties zoals aangegeven in de ‘Regeling Jaarverslag Onderwijs’ en de daarbij behorende toelichtende brochure ‘Richtlijn jaarverslag onderwijs’ te worden opgenomen.
@@ -3286,7 +3298,7 @@ Hoeveelheid in euro’s in de vorm van een getal met 2 decimalen. Een bedrag kan
 
 ####Bevoegd gezagnummer
 
-Het identificerende nummer van een bevoegd gezag van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. Dit nummer is te vinden op www.ocwduo.nl. Formaat: N5 
+Het identificerende nummer van een bevoegd gezag van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van 5 cijfers. Dit nummer is te vinden op www.duo.nl. Formaat: N5 
 
 ####Jaar
 
@@ -3366,13 +3378,13 @@ De personele gegevens hebben betrekking op:
 
 – de gewogen gemiddelde leeftijd (GGL).   Onderscheid wordt gemaakt tussen: 
 
-A.gegevens te leveren op het niveau van de afzonderlijke arbeidsrelaties van een individuele persoon; en
+A.gegevens te leveren op het niveau van de afzonderlijke arbeidsrelaties van een individueel persoon; en
 
 B.gegevens te leveren op het niveau van de afzonderlijke instellingen. Het bevoegde gezag levert de in dit PvE vermelde gegevens voor alle personen met wie het bevoegde gezag een arbeidsrelatie heeft, ongeacht of de persoon werkzaam is bij een school (met een BRINnummer) dan wel een bovenschoolse aanstelling heeft (zoals bij een door het bevoegd gezag in stand gehouden organisatie of instelling zoals een centrale dienst of bestuursbureau). 
 ### *A. Gegevens te leveren op het niveau van de afzonderlijke arbeidsrelaties* 
 
 De gegevens betreffen alle arbeidsrelaties die in de peilmaand bestaan tussen een persoon en een bevoegd gezag en de kenmerken van de personen die deze arbeidsrelaties hebben. Indien een persoon meer dan één arbeidsrelatie heeft met hetzelfde bevoegd gezag, dan dienen de gegevens van elke arbeidsrelatie apart te worden vermeld. Omdat de gegevens per onderdeel kunnen worden aangeleverd, zijn in elk onderdeel de velden opgenomen die voor een eenduidige koppeling van de gegevens uit de verschillende onderdelen nodig zijn (sleutelvelden). Deze velden worden de eerste keer dat zij voorkomen, gedefinieerd en inhoudelijk toegelicht. Daarna wordt alleen aangegeven met welk doel (c.q. welke koppeling) zij in dat onderdeel van de gegevensset zitten. De inhoud van deze onderdelen wordt uitgewerkt in de paragrafen 2.3.1 tot en met 2.3.3 en paragraaf 4. Naast maandgegevens worden over een kalenderjaar per persoon en arbeidsrelatie persoons- en arbeidsrelatiegegevens geleverd, verzameld over de looptijd van de desbetreffende arbeidsrelatie in dat jaar. Het betreft de gegevens die in de paragrafen 2.3.1 tot en met 2.3.4 zijn beschreven, per persoon en arbeidsrelatie voor elke situatie die zich in een kalenderjaar (peiljaar) heeft voorgedaan. Financiële gegevens (loon, toelagen en kortingen) worden gecumuleerd voor de periode waarin een bepaalde situatie ongewijzigd heeft bestaan. Het jaarbestand geeft een samenvattend overzicht van alle situaties die zich in de loop van een kalenderjaar hebben voorgedaan. Bij levering van het jaarbestand is van het gegeven peilmaand in deze gevallen alleen het peiljaar dus van toepassing. In dit bestand moet het gegeven mutatiedatum worden opgenomen (zie verder paragraaf 4). 
-### *Gegevens te leveren op het niveau van de afzonderlijke instellingen*
+### *B. Gegevens te leveren op het niveau van de afzonderlijke instellingen*
 
 De volgende gegevens dienen op het niveau van de afzonderlijke instellingen te worden geleverd: de gewogen gemiddelde leeftijd. De inhoud van dit onderdeel wordt uitgewerkt in paragraaf 2.3.5. 
 
@@ -3382,7 +3394,7 @@ De volgende gegevens dienen op het niveau van de afzonderlijke instellingen te w
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
 |:---|:---|:---|:---|
-| 1  | Personeelsnummer  | P-nummer  | Uniek nummer van een persoon binnen een salarisadministratie. In combinatie met ‘code salarisadministratie’ moet het personeelsnummer een persoon in de basisregistratie uniek registreren  |
+| 1  | Burgerservicenummer  | Nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer. Het burgerservicenummer dient om een persoon uniek te identificeren binnen de totale set van personele gegevens die door de gegevensleverancier wordt aangeleverd.  |
 | 2  | Code salarisadministratie  | Code salarisadministratie  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen  |
 | 3  | Peilmaand  | Jaar_mnd  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
 | 4  | Extractiedatum  | Datum  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
@@ -3395,7 +3407,7 @@ De volgende gegevens dienen op het niveau van de afzonderlijke instellingen te w
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
 |:---|:---|:---|:---|
-| 7  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
+| 7  | Burgerservicenummer  | Nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer.  |
 | 8  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 9  | Peilmaand  | Jaar_mnd  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
 | 10  | Extractiedatum  | Datum  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
@@ -3425,7 +3437,7 @@ Vervallen  | --- | --- |
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
 |:---|:---|:---|:---|
-| 29  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
+| 29  | Burgerservicenummer  | Nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer.  |
 | 30  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 31  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
 | 32  | Organisatienummer school  | BRINnummer  | Koppeling naar de school van de arbeidsrelatie  |
@@ -3442,7 +3454,7 @@ Vervallen  | --- | --- |
 
 | Nr  | Veld  | Domein  | Definitie/ toelichting  |
 |:---|:---|:---|:---|
-| 39  | Personeelsnummer  | P-nummer  | Koppeling naar de persoon van de arbeidsrelatie  |
+| 39  | Burgerservicenummer  | Nummer van 9 cijfers (N9)  | Burgerservicenummer als bedoeld in de Wet algemene bepalingen burgerservicenummer.  |
 | 40  | Code salarisadministratie  | Code salarisadministratie  | Koppeling naar de salarisadministratie  |
 | 41  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | Het door de minister toegekende nummer van het bevoegd gezag  |
 | 42  | Organisatienummer school  | BRINnummer  | Het door de minister toegekende nummer van de school  |
@@ -3463,7 +3475,7 @@ Vervallen  | --- | --- |
 | 50  | Organisatienummer school  | BRINnummer  | Het door de minister toegekende nummer van de school waaraan de functie is verbonden  |
 | 51  | Extractiedatum  | Datum  | Datum waarop de basisgegevens die voor de berekening van de GGL zijn gebruikt, uit de database zijn gehaald  |
 | 52  | Productensom  | Getal met 4 decimalen  | De som van de producten op 1 oktober: leeftijd x betrekkingsomvang van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 54, met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
-| 53  | Som betrekkingsomvangen  | Getal met 4 decimalen  | De som van de betrekkingsomvangen op 1 oktober van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 56 met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
+| 53  | Som betrekkingsomvangen  | Getal met 4 decimalen  | De som van de betrekkingsomvangen op 1 oktober van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 54 met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
 | 54  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | 1 De gewogen gemiddelde leeftijd op 1 oktober van het lopende schooljaar, bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.  2 Onder leraar als bedoeld onder punt 1 wordt verstaan elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in artikel 151 van Rechtspositiebesluit WPO/WEC, zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in artikel 191, onderdeel a, van dat besluit en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in artikel 183 van de WPO of artikel 169 van de WEC bedoelde rechtspersoon.  3 Indien voor de mededeling van de gewogen gemiddelde leeftijd bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  |
 
 ### 2.4  
@@ -3479,7 +3491,7 @@ Het identificerende nummer van een instelling volgens de Basisregistratie Instel
 Hoeveelheid in euro’s in de vorm van een getal met 2 decimalen. Een bedrag kan worden voorafgegaan door een min-teken (indien van toepassing) 
 ### *Bevoegd gezagnummer* 
 
-Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van een reeks van 5 cijfers. Dit nummer is te vinden op www.ocwduo.nl Formaat: N5 
+Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van een reeks van 5 cijfers. Dit nummer is te vinden op www.duo.nl Formaat: N5 
 ### *BRINnummer* 
 
 Het identificerende nummer van een instelling volgens de Basisregistratie Instellingen (BRIN) in de vorm van twee cijfers gevolgd door twee hoofdletters. Formaat: A4 
@@ -3778,31 +3790,17 @@ In de bestanden die op een peilmaand betrekking hebben, worden de betalingen en 
 
 ### 4.12  
 
-####zijinstroom
-
-In relatie tot de bevoegdheid tot lesgeven worden de volgende categorieën onderwijsgevend personeel onderscheiden in het primair onderwijs: 
-
-– volledig bevoegd (in bezit van diploma leraar basisonderwijs);  
-
-– leraar in opleiding ofwel LIO (in de laatste twee jaar van de lerarenopleiding);  
-
-– zijinstromer (heeft een HO opleiding afgerond en is is nu op basis van een geschiktheidsverklaring werkzaam, volgt een maatwerk traject werken – leren met als doel een getuigschrift van een lerarenopleiding);  
-
-– onbevoegd (geen diploma en ook geen zij-instromer of LIO) (ook als die persoon een deeltijd lerarenopleiding volgt, is hij of zij onbevoegd werkzaam in het primair onderwijs).   De leraren in opleiding (LIO’s) worden als aparte functiecategorie opgegeven. Het gegeven zijinstroom is in het PvE opgenomen opdat dit valt onder de informatieplicht van de bevoegde gezagen. In het streven de administratieve lasten voor de bevoegde gezagen zoveel mogelijk te beperken hoeft dit gegeven (vooralsnog) niet door de bevoegde gezagen te worden geleverd. OCW onderzoekt de mogelijkheden om dit gegeven direct uit bestaande basisregistraties af te leiden. 
-
-### 4.13  
-
 ####vakantie-, snipper- en feestdagen
 
 Deze vormen van verlof worden niet geleverd, ook niet als onderdeel van de categorie overig verlof. 
 
-### 4.14  
+### 4.13  
 
 ####begin en einde verlofperiode
 
 Bij een verandering van het soort verlof (zoals onderscheiden in dit PvE) wordt een lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. Bij een verandering van de omvang van het verlof (bijvoorbeeld bij het gedeeltelijk hervatten van werkzaamheden bij ziekte) wordt de lopende verlofperiode beëindigd en begint een nieuwe verlofperiode. 
 
-### 4.15  
+### 4.14  
 
 ####opeenvolgende periodes van ziekteverlof
 

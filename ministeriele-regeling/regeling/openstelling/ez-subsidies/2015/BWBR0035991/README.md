@@ -110,8 +110,8 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 1  | 2  | 3  | 4  | 5  | 6  | Instrument  | Artikel  | Groep  | Thema/programma  | Openstelling  | Plafond €  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Titel 3.2: Jonge vissers  | 3.2.2  | --- | --- | 01-07-2015 t/m 31-12-2015  | 240.000  |
-| Titel 3.3  | 3.3.5  | --- | Selectiviteit  | 15-09-2015 t/m 02-11-2015  | 1.500.000  |
-| Titel 3.3  | 3.3.5  | --- | Overlevingskans  | 15-09-2015 t/m 02-11-2015  | 1.500.000  |
+| Titel 3.3.3  | 3.3.2  | --- | selectiviteit  | 15-09-2015 t/m 31-12-2015  | 1.500.000  |
+| Titel 3.3.3  | 3.3.2  | --- | overlevingskans  | 15-09-2015 t/m 31-12-2015  | 1.500.000  |
 | Titel 4.1: Brede weersverzekering0  | 4.1.2  | --- | --- | Periode bedoeld in artikel 4.2, derde lid, van de Uitvoeringsregeling rechtstreekse betalingen GLB  | 9.000.000  |
 
 ### Hoofdstuk  2  

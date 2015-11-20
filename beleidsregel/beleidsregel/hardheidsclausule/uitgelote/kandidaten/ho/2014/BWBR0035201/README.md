@@ -2,7 +2,7 @@
 
 ##Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2014, nr. HO&S/633057, inzake de hardheidsclausule voor uitgelote kandidaten bij numerusfixusopleidingen in het hoger onderwijs (Beleidsregel hardheidsclausule uitgelote kandidaten ho 2014)
 
-*Juridische grondslag: *[artikel 7.57c, vierde lid van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en [artikel 4.24 van de Regeling aanmelding en toelating hoger onderwijs](../../../../../../../../ministeriele-regeling/regeling/aanmelding/en/toelating/hoger/onderwijs/BWBR0035059/README.md)   
+*Juridische grondslag: *artikel 7.57c, vierde lid van de WHW en artikel 4.24 van de Regeling aanmelding en toelating hoger onderwijs   
 
 ####Inleiding
 
@@ -14,11 +14,11 @@ De inhoudelijke beoordeling van de aanvragen om toepassing van de hardheidsclaus
 
 a. de aanvraag moet binnen zes weken na bekendmaking van het bericht van uitloting zijn ingediend bij DUO;  
 
-b. de aanvrager moet in principe voldoen aan de door de instelling gestelde inschrijvingsvoorwaarden zoals bedoeld in [art. 7.28, tweede lid, derde volzin van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md).      
+b. de aanvrager moet in principe voldoen aan de door de instelling gestelde inschrijvingsvoorwaarden zoals bedoeld in art. 7.28, tweede lid, derde volzin van de WHW.      
 
 ####Het door DUO gevoerde beleid
 
-Op grond van de wettelijke bepalingen kan DUO maximaal 5% van het aantal beschikbare plaatsen reserveren voor toegewezen aanvragen om toepassing van de hardheidsclausule. Teneinde deze 5% niet te overschrijden, wijst DUO in eerste instantie maximaal tweederde deel van deze 5% toe. Vervolgens is dan nog een derde van deze 5% over voor plaatsen toegewezen op grond van gehonoreerde bezwaar- en beroepschriften. In [artikel 7.57f, derde lid van de WHW](../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) is een maximering gesteld aan het aantal keren dat deelgenomen kan worden aan de lotingprocedure. Het aantal keren uitloten is als gevolg hiervan geen factor meer die in aanmerking wordt genomen bij de beoordeling van een aanvraag tot toepassing van de hardheidsclausule uitgelote studenten. De beschikbare plaatsen worden toegewezen aan aanvragers die zich door (een combinatie van) zeer bijzondere omstandigheden van persoonlijke aard onderscheiden van andere uitgelote studenten. Deze omstandigheden moeten van dien aard zijn dat de uitloting daarbij onbillijk is. Het uitloten op zich wordt niet aangemerkt als een onbillijkheid. Tevens moet blijken dat de kandidaat in onoverkomelijke problemen komt indien hij het volgende studiejaar niet met de opleiding kan beginnen. Voorbeelden van omstandigheden, die in de beoordeling worden meegenomen zijn: 
+Op grond van de wettelijke bepalingen kan DUO maximaal 5% van het aantal beschikbare plaatsen reserveren voor toegewezen aanvragen om toepassing van de hardheidsclausule. Teneinde deze 5% niet te overschrijden, wijst DUO in eerste instantie maximaal tweederde deel van deze 5% toe. Vervolgens is dan nog een derde van deze 5% over voor plaatsen toegewezen op grond van gehonoreerde bezwaar- en beroepschriften. In artikel 7.57f, derde lid van de WHW is een maximering gesteld aan het aantal keren dat deelgenomen kan worden aan de lotingprocedure. Het aantal keren uitloten is als gevolg hiervan geen factor meer die in aanmerking wordt genomen bij de beoordeling van een aanvraag tot toepassing van de hardheidsclausule uitgelote studenten. De beschikbare plaatsen worden toegewezen aan aanvragers die zich door (een combinatie van) zeer bijzondere omstandigheden van persoonlijke aard onderscheiden van andere uitgelote studenten. Deze omstandigheden moeten van dien aard zijn dat de uitloting daarbij onbillijk is. Het uitloten op zich wordt niet aangemerkt als een onbillijkheid. Tevens moet blijken dat de kandidaat in onoverkomelijke problemen komt indien hij het volgende studiejaar niet met de opleiding kan beginnen. Voorbeelden van omstandigheden, die in de beoordeling worden meegenomen zijn: 
 
 * De aanwezigheid van medische en/of psychische problemen bij de aanvrager die niet direct het gevolg zijn van de uitloting, maar waarbij aannemelijk is gemaakt dat het toewijzen van een plaats een positieve bijdrage zal leveren aan het genezingsproces;  
 

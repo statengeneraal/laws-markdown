@@ -542,18 +542,6 @@ Bij ministeriële regeling worden nadere regels gesteld over de toedeling van de
 4.  Voor de toepassing van het tweede lid worden vermogensbestanddelen uit hoofde waarvan inkomsten als bedoeld in het eerste lid worden ontvangen, die binnen de fiscale eenheid zijn overgedragen, toegerekend aan de maatschappij van wier vermogen die vermogensbestanddelen op het voegingstijdstip deel uitmaakten.   
 5.  Voorzover een in het eerste lid bedoeld bedrag aan voortgewentelde belasting op grond van dat lid in combinatie met het tweede lid niet in aanmerking is genomen, of ingevolge de regelingen ter voorkoming van dubbele belasting niet tot een vermindering van belasting heeft geleid, wordt het volgens de daarvoor geldende regelingen telkens overgebracht naar het volgende jaar en met inachtneming van dit artikel in aanmerking genomen.  
 
-### Artikel  46  
-
-####Over het ontvoegingstijdstip door te schuiven en in te halen buitenlandse winst
-
-1.  In geval van ontvoeging van een maatschappij gaan de ingevolge voorschriften ter voorkoming van dubbele belasting naar een volgend jaar over te brengen positieve of negatieve buitenlandse winsten van de fiscale eenheid over op die maatschappij voorzover: 
-
-a. deze winsten zijn behaald met een op het ontvoegingstijdstip tot het vermogen van die maatschappij behorend vermogensbestanddeel, behoudens voorzover het winsten in de zin van de aanhef van artikel 43, eerste lid, van een andere maatschappij betreffen; of  
-
-b. het winsten in de zin van de aanhef van artikel 43, eerste lid, van deze maatschappij betreffen.     
-2.   Artikel 15ah van de wet en artikel 12 van dit besluit zijn van overeenkomstige toepassing.   
-3.  Het eerste lid is van overeenkomstige toepassing met betrekking tot buitenlandse winst die wordt behaald met een onderneming die, of een gedeelte van een onderneming dat, wordt gedreven met behulp van een vaste vertegenwoordiger.  
-
 ### Artikel  47  
 
 ####Over het ontvoegingstijdstip voort te wentelen bronbelasting

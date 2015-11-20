@@ -2781,9 +2781,7 @@ De geldlening die op grond van de overeenkomst van geldlening ten hoogste kan wo
 
 ####Omvang borgstelling en maximum subsidiebedrag
 
-1.  Er wordt borg gestaan voor 100 procent van het bedrag.   
-2.  Het maximum subsidiebedrag bedraagt € 6.000.000 per subsidieontvanger.   
-3.  Indien een ander bestuursorgaan of de Commissie van de Europese Gemeenschappen een financiële bijdrage aan het investeringsbudget van de financier heeft verstrekt, wordt slechts een zodanige geldlening verstrekt, dat het totaal van de geldlening en de andere financiële bijdragen niet meer bedraagt dan het in het eerste lid bedoelde percentage.  
+Het maximum subsidiebedrag bedraagt € 6.000.000 per subsidieontvanger. 
 
 ### Artikel  3.10.6  
 
@@ -2866,11 +2864,11 @@ b. periode B: vanaf het onder a bedoelde tijdstip tot het tijdstip dat het totaa
 c. periode C: vanaf het tijdstip dat het totaal van de aan de Staat overgeboekte bedragen gelijk is aan het totaal op grond van de overeenkomst van lening opgenomen bedrag.     
 2.  De vergoeding, bedoeld in artikel 33, tweede lid, van het besluit, bedraagt: 
 
-a. in periode A: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat;  
+a. in periode A: 20 procent van de inkomsten;  
 
-b. in periode B: 50 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat;  
+b. in periode B: 50 procent van de inkomsten;  
 
-c. in periode C: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van het krediet van de Staat.     
+c. in periode C: 20 procent van de inkomsten.   De percentages, bedoeld in de onderdelen a, b en c, worden naar rato verlaagd, indien de geldlening minder dan de helft van het investeringsbudget uitmaakt.  
 3.  De minister kan de hoogte van de vergoeding, bedoeld in het tweede lid, per periode A, B en C, afwijkend vaststellen, indien de financier in strijd heeft gehandeld met hetgeen in deze regeling of in de overeenkomst tot geldlening, bedoeld in artikel 3.10.3, is bepaald.  
 
 ### Artikel  3.10.11  
@@ -2898,7 +2896,7 @@ e. de meest recente jaarrekening en openingsbalans.
 
 ### Artikel  3.10.13  
 
-De subsidie, bedoeld in artikel 3.12.2, bevat staatssteun en wordt gerechtvaardigd door artikel 21 van de algemene groepsvrijstellingsverordening. 
+De subsidie, bedoeld in artikel 3.10.2, bevat staatssteun en wordt gerechtvaardigd door artikel 21 van de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.10.13a  
 
@@ -6631,11 +6629,11 @@ c. periode C: vanaf het tijdstip dat het totaal van de aan de Staat overgeboekte
 
 3. Het deel van de inkomsten dat aan de Staat wordt overgeboekt is 
 
-a. in periode A: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat;  
+a. in periode A: 20 procent van de inkomsten;  
 
-b. in periode B: 50 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat;  
+b. in periode B: 50 procent van de inkomsten;  
 
-c. in periode C: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat.    
+c. in periode C: 20 procent van de inkomsten.   De percentages, bedoeld in de onderdelen a, b en c, worden naar rato verlaagd, indien de geldlening minder dan de helft van het investeringsbudget uitmaakt. 
 
 4. De Staat kan de hoogte van het deel van de inkomsten, bedoeld in het derde lid, per periode A, B en C afwijkend vaststellen, indien het startersfonds in strijd heeft gehandeld met hetgeen in deze overeenkomst of in de Regeling nationale EZ-subsidies is bepaald.  
 
@@ -6673,7 +6671,7 @@ g. bij de beslissing van het startersfonds inzake de verkrijging van een partici
 
 4.Het startersfonds verkrijgt geen participatie in een technostartervennootschap indien een ander investeringsfonds in deze vennootschap reeds een participatie heeft, behoudens
 
-a.indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder c, bedoelde maximum niet wordt overschreden;
+a.indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden;
 
 b.indien dit investeringsfonds
 
@@ -6681,7 +6679,7 @@ b.indien dit investeringsfonds
 
 2°.blijkens de akte waarbij de statuten van de vennootschap zijn vastgesteld of blijkens de overeenkomst waarbij de vennootschap is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartervennootschappen teneinde winst te behalen; en
 
-3°.naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder c, bedoelde maximum niet wordt overschreden.
+3°.naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden.
 
 c.indien dit investeringsfonds een informal investor is. 
 

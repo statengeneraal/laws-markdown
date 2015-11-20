@@ -56,6 +56,8 @@ In deze regeling wordt verstaan onder:
 
 *netto-inkomsten:* netto-inkomsten als bedoeld in artikel 61, eerste lid, van verordening 1303/2013;  
 
+*onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent; 
+
 *penvoerder:* de door de deelnemers aan het samenwerkingsverband aangewezen penvoerende persoon of organisatie;  
 
 *samenwerkingsverband:* verband dat geen rechtspersoonlijkheid bezit, bestaand uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;  
@@ -100,12 +102,13 @@ a. een per medewerker bepaald individueel uurtarief, berekend op basis van bruto
 
 b. een per medewerker bepaald individueel uurtarief, berekend op basis van bruto jaarloon, vermeerderd met een opslag van 32% voor werkgeverslasten, waarna over dat bedrag 15% aan overheadkosten wordt berekend en dat bedrag vervolgens door 1.720 uur op basis van een volledige werkweek wordt gedeeld;  
 
-c. een door de minister goedgekeurde integrale kostensystematiek, bedoeld in artikel 12, eerste lid, van het Kaderbesluit EZ-subsidies, of  
+c. een door de minister goedgekeurde integrale kostensystematiek, bedoeld in artikel 12, eerste lid, van het Kaderbesluit nationale EZ-subsidies, of  
 
 d. een door de Europese Commissie goedgekeurde methodiek voor soortgelijke projecten en subsidieontvangers als bedoeld in artikel 67, vijfde lid, onderdeel b, van verordening 1303/2013.     
 2.  De kosten van de door een subsidieontvanger verrichte eigen arbeid als bedoeld in artikel 69, eerste lid, onderdeel e, van verordening 1303/2013 ten behoeve van het project of de investering worden, indien een berekening overeenkomstig het eerste lid niet mogelijk is, berekend door het aantal uren dat de betrokken persoon ten behoeve van het project of de investering heeft gemaakt te vermenigvuldigen met een vast uurtarief van € 39.   
-3.  Indien subsidie wordt verleend in de vorm, bedoeld in artikel 67, eerste lid, onder c, van verordening 1303/2013, is dit artikel niet van toepassing.   
-4.  Indien wordt gekozen voor de integrale kostensystematiek, zijn artikel 12, derde lid, van het Kaderbesluit EZ-subsidies en artikel 1.2, eerste lid, van de Regeling nationale EZ-subsidies, van overeenkomstige toepassing.  
+3.  In afwijking van het tweede lid wordt in geval van subsidies op grond van verordening 508/2014, een vast uurtarief van € 36 berekend.  
+4.  Indien subsidie wordt verleend in de vorm, bedoeld in artikel 67, eerste lid, onder c, van verordening 1303/2013, is dit artikel niet van toepassing.   
+5.  Indien wordt gekozen voor de integrale kostensystematiek, zijn artikel 12, derde lid, van het Kaderbesluit nationale EZ-subsidies en artikel 1.2, eerste lid, van de Regeling nationale EZ-subsidies, van overeenkomstige toepassing.  
 
 ### Artikel  1.5  
 
@@ -297,11 +300,19 @@ Indien de subsidie wordt verleend aan deelnemers in een samenwerkingsverband, ve
 
 ### Artikel  2.14  
 
-####Bevoorschotting op grond van gemaakte en betaalde kosten
+####Bevoorschotting
 
 1.  Indien in deze regeling is bepaald dat er voorschotten worden verstrekt, bedraagt het voorschot ten hoogste 90% van de te verlenen subsidie.   
 2.  Een voorschot wordt op aanvraag verstrekt met gebruikmaking van een middel, dat door de minister beschikbaar wordt gesteld.   
-3.  Een voorschot wordt verstrekt op grond van gemaakte en betaalde kosten.  
+3.  Een voorschot wordt verstrekt voor de volgende gemaakte kosten: 
+
+a. loonkosten en overheadkosten als bedoeld in artikel 1.3, onderdeel a;  
+
+b. bijdragen in natura als bedoeld in artikel 1.3, onderdeel b;  
+
+c. afschrijvingskosten als bedoeld in artikel 1.3, onderdeel c;  
+
+d. kosten als bedoeld in artikel 1.3, onderdeel d, voor zover deze kosten ook betaald zijn.    
 
 ### Artikel  2.15  
 
@@ -413,9 +424,37 @@ In dit hoofdstuk wordt verstaan onder:
 
 *verordening 1380/2013:* verordening (EU) nr. 1380/2013 van het Europees Parlement en de Raad van 11 december 2013 inzake het gemeenschappelijk visserijbeleid, tot wijziging van Verordeningen (EG) nr. 1954/2003 en (EG) nr. 1224/2009 van de Raad en tot intrekking van Verordeningen (EG) nr. 2371/2002 en (EG) nr. 639/2004 van de Raad en Besluit 2004/585/EG van de Raad (PbEU 2013, L 354);  
 
+*visser:* natuurlijk persoon die zich bezighoudt met visserijactiviteiten en zijn hoofdberoep uitoefent aan boord van een vissersvaartuig dat in bedrijf is;  
+
+*visserijactiviteit:* visserijactiviteit als bedoeld in artikel 4, eerste lid, onderdeel 28, van verordening 1380/2013;  
+
+*visserijonderneming:* onderneming die zich bezighoudt met visserijactiviteiten;  
+
 *vissersvaartuig:* vissersvaartuig als bedoeld in artikel 4, eerste lid, onderdeel 4, van verordening 1380/2013;  
 
-*vlootregister:* register als bedoeld in artikel 24 van verordening 1380/2013.   
+*vlootregister:* register als bedoeld in artikel 24 van verordening 1380/2013; 
+
+*wetenschappelijke of technische organisatie:*
+
+a. onder a en b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde instelling voor hoger onderwijs;  
+
+b. andere dan onder a bedoelde geheel of gedeeltelijk, meerjarig door de overheid gefinancierde onderzoeksorganisatie zonder winstoogmerk die activiteiten verricht met als doel de algemene wetenschappelijke of technische kennis uit te breiden;  
+
+c. geheel of gedeeltelijk, meerjarig door een andere lidstaat van de Europese Unie gefinancierde: 
+
+1°. openbare instelling voor hoger onderwijs gelijkwaardig aan een instelling als bedoeld onder a,  
+
+2°. onderzoeksorganisatie zonder winstoogmerk die activiteiten verricht met als doel de algemene wetenschappelijke en technische kennis uit te breiden;    
+
+d. rechtspersoon ten aanzien waarvan een instelling als bedoeld onder a, b of c direct of indirect: 
+
+1°. meer dan de helft van het geplaatste kapitaal verschaft,  
+
+2°. volledig aansprakelijk vennoot is, of  
+
+3°. overwegende zeggenschap heeft;    
+
+e. onderzoeksorganisatie zonder winstoogmerk met eigen medewerkers in loondienst, die tot doel heeft via het structureel doen van eigen onderzoek en het ontwikkelen en testen van technische toepassingen door haar medewerkers, de technologische kennis op een specifiek terrein te bevorderen, die geen instelling is als bedoeld onder a tot en met d.    
 
 ### Artikel  3.1.2  
 
@@ -447,19 +486,33 @@ b. gegevens waaruit blijkt dat de subsidieaanvrager beschikt over voldoende fina
 
 c. een verklaring dat de subsidieaanvrager, indien hij een marktdeelnemer is als bedoeld in artikel 4, eerste lid, onderdeel 30, van verordening 1380/2013, voldoet aan artikel 10, eerste en derde lid, van verordening 508/2014;  
 
-d. gegevens ten behoeve van monitoring of evaluatie als bedoeld in artikel 111 van verordening 508/2014.   
+d. gegevens ten behoeve van monitoring of evaluatie als bedoeld in artikel 111 van verordening 508/2014;  
+
+e. voor zover ten tijde van de aanvraag tot subsidieverlening bekend is dat de aanvrager een opdracht wil verlenen als bedoeld in artikel 3.1.6, tweede lid, kopieën van opgevraagde offertes als bedoeld in artikel 3.1.6, tweede lid, en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing;  
+
+f. voor zover ten tijde van de aanvraag tot subsidieverlening bekend is dat een aanvrager een opdracht wil verlenen als bedoeld in artikel 3.1.6, vierde lid, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.6, vijfde lid.  
 
 ### Artikel  3.1.5  
 
 ####Indiening aanvraag tot subsidievaststelling
 
-Onverminderd artikel 2.20, bevat de aanvraag tot subsidievaststelling gegevens ten behoeve van monitoring of evaluatie als bedoeld in artikel 111 van verordening 508/2014. 
+Onverminderd artikel 2.20, bevat de aanvraag tot subsidievaststelling: 
+
+a. gegevens ten behoeve van monitoring of evaluatie als bedoeld in artikel 111 van verordening 508/2014;  
+
+b. voor zover deze nog niet zijn aangeleverd bij de aanvraag tot subsidieverlening op grond van artikel 3.1.4, onderdeel e, kopieën van opgevraagde offertes als bedoeld in artikel 3.1.6, tweede lid, en de relevante redenen voor een op basis van deze offertes genomen gunningsbeslissing;  
+
+c. voor zover deze nog niet zijn aangeleverd bij de aanvraag tot subsidieverlening op grond van artikel 3.1.4, onderdeel f, gegevens over de gevolgde procedure en de gunningsbeslissing, bedoeld in artikel 3.1.6, vijfde lid.   
 
 ### Artikel  3.1.6  
 
 ####Verplichtingen subsidieontvanger
 
-De subsidieontvanger blijft gedurende ten minste vijf jaar na de datum van de laatste betaling voldoen aan de voorwaarden van artikel 10, eerste lid, van verordening 508/2014. 
+1. De subsidieontvanger blijft gedurende ten minste vijf jaar na de datum van de laatste betaling voldoen aan de voorwaarden van artikel 10, eerste lid, van verordening 508/2014.  
+2.  Indien de subsidieontvanger subsidie aanwendt voor het verlenen van een opdracht waarbij de totale kosten bij één opdrachtnemer hoger zullen zijn dan € 25.000, vraagt hij voorafgaand aan de opdrachtverlening drie offertes op bij van elkaar onafhankelijke aanbieders. De subsidieontvanger gunt de opdracht aan de aanbieder met de economisch meest voordelige offerte.   
+3.  De minister kan op verzoek van de subsidieontvanger ontheffing verlenen van de verplichting, bedoeld in het tweede lid. Aan de ontheffing kunnen voorschriften worden verbonden.   
+4.  Het tweede lid is niet van toepassing als de subsidieontvanger die subsidie wil aanwenden voor het verlenen van een opdracht een aanbestedende dienst is als bedoeld in artikel 1.1 van de Aanbestedingswet 2012 en de opdracht die hij wil verlenen op grond van de Aanbestedingswet 2012 moet worden aanbesteed.   
+5.  Indien het vierde lid van toepassing is, stelt de subsidieontvanger de minister op de hoogte van de gevolgde procedure en de gunningsbeslissing, overeenkomstig artikel 2.130 van de Aanbestedingswet 2012. 
 
 ### Artikel  3.1.7  
 
@@ -468,8 +521,6 @@ Indien subsidie wordt verstrekt aan een eigenaar van een vissersvaartuig als bed
 ### Artikel  3.1.8  
 
 ####Adviescommissie
-
-Treedt in werking per 01-09-2015 
 
 1.  Er is een adviescommissie EFMZV die tot taak heeft de minister te adviseren over de afwijzingsgrond, bedoeld in artikel 2.11, tweede lid, onderdeel d, en de rangschikking van aanvragen tot subsidieverlening, indien de verdeling van een subsidieplafond overeenkomstig artikel 2.4, onderdeel b, wordt bepaald.   
 2.  De commissie bestaat uit ten minste zeven en ten hoogste tien leden.   
@@ -527,7 +578,7 @@ Onverminderd de artikelen 2.9 en 3.1.4 bevat een aanvraag tot subsidieverlening:
 
 a. gegevens over het vissersvaartuig bedoeld in artikel 3.2.2, waaronder de leeftijd van het vissersvaartuig, de lengte van het vissersvaartuig, in geval van zee- en kustvisserij het vlootsegment waartoe het vissersvaartuig behoort, de prijs van het vissersvaartuig, een uniek kenmerk van het vissersvaartuig en in geval van inschrijving in het kadaster, het visserijregister of het vlootregister het nummer hiervan;  
 
-b. een taxatierapport van een onafhankelijke en deskundige taxateur van de marktwaarde van het vissersvaartuig en een offerte van het desbetreffende vissersvaartuig, of een offerte van het desbetreffende vaartuig en twee offertes van vergelijkbare vissersvaartuigen. Het taxatierapport of de offertes zijn ten hoogste drie maanden oud en geven ten minste inzicht in de waarde van het vissersvaartuig en de inventaris;  
+b. in afwijking van artikel 3.1.4, onderdeel e, een taxatierapport van een onafhankelijke en deskundige taxateur van de marktwaarde van het vissersvaartuig en een offerte van het desbetreffende vissersvaartuig, of een offerte van het desbetreffende vaartuig en twee offertes van vergelijkbare vissersvaartuigen. Het taxatierapport of de offertes zijn ten hoogste drie maanden oud en geven ten minste inzicht in de waarde van het vissersvaartuig en de inventaris;  
 
 c. bewijs van werkervaring of beroepsopleiding als bedoeld in artikel 31, derde lid, van verordening 508/2014.   
 
@@ -573,8 +624,8 @@ f. operationele kosten als bedoeld in artikel 25, tweede lid, van verordening 50
 
 ####Realisatietermijn
 
-1.  De aanschaf van het vissersvaartuig vindt plaats na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 3.2.3, en binnen 6 maanden na de datum van subsidieverlening.   
-2.  De betaling en levering van het vissersvaartuig vindt plaats na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 3.2.3, en voor het indienen van de aanvraag tot subsidievaststelling, bedoeld in artikel 3.2.11.  
+1.  De aanschaf van het vissersvaartuig vindt plaats na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 2.9, en binnen 6 maanden na de datum van subsidieverlening.   
+2.  De betaling en levering van het vissersvaartuig vindt plaats na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 2.9, en voor het indienen van de aanvraag tot subsidievaststelling, bedoeld in artikel 2.20.  
 
 ### Artikel  3.2.9  
 
@@ -592,11 +643,12 @@ c. de subsidieaanvrager voorafgaand aan de subsidieaanvraag al volledig of gedee
 
 ####Indienen aanvraag subsidievaststelling
 
-Onverminderd artikel 2.20 en 3.1.5, bevat de aanvraag tot subsidievaststelling in ieder geval: 
+1. Onverminderd artikel 2.20 en 3.1.5, bevat de aanvraag tot subsidievaststelling in ieder geval: 
 
 a. in geval van een vissersvaartuig dat is uitgerust voor de zeevisserij of kustvisserij: gegevens waaruit blijkt dat het vissersvaartuig is ingeschreven in het visserijregister;  
 
-b. een afschrift van het eigendomsbewijs of het betalingsbewijs.   
+b. een afschrift van het eigendomsbewijs of het betalingsbewijs.    
+2.  De artikelen 3.1.5, onderdeel b, en 3.1.6, tweede lid, zijn niet van toepassing op deze titel. 
 
 ### Artikel  3.2.11  
 
@@ -606,13 +658,9 @@ Deze titel vervalt met ingang van 1 juli 2020.
 
 ####Aanlandplichtinnovatieprojecten
 
-Treedt in werking per 01-09-2015 
-
 ### Artikel  3.3.1  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-09-2015 
 
 In deze titel wordt verstaan onder: 
 
@@ -638,8 +686,6 @@ c. in het kader van de aanlandplicht gericht is op:
 
 ####Subsidiabele activiteiten
 
-Treedt in werking per 01-09-2015 
-
 De minister verstrekt op aanvraag subsidie voor de uitvoering van een aanlandplichtinnovatieproject aan: 
 
 a. een visserijorganisatie;  
@@ -652,15 +698,11 @@ c. deelnemers in een samenwerkingsverband van één of meer visserijorganisaties
 
 ####Betrokkenheid van een technische of wetenschappelijke organisatie
 
-Treedt in werking per 01-09-2015 
-
 Een aanlandplichtinnovatieproject wordt uitgevoerd met actieve betrokkenheid van een wetenschappelijke of technische organisatie, die de resultaten van het project en het wetenschappelijk of technisch rapport, bedoeld in artikel 3.3.11, derde lid, valideert. 
 
 ### Artikel  3.3.4  
 
 ####Indiening aanvraag tot subsidieverlening
-
-Treedt in werking per 01-09-2015 
 
 Onverminderd de artikelen 2.9 en 3.1.4, bevat een aanvraag tot subsidieverlening in ieder geval: 
 
@@ -680,15 +722,11 @@ f. een verklaring van een wetenschappelijke of technische organisatie waaruit bl
 
 ####Verdeling van het subsidieplafond
 
-Treedt in werking per 01-09-2015 
-
 De minister verdeelt de subsidieplafonds voor aanlandplichtinnovatieprojecten selectiviteit of aanlandplichtinnovatieprojecten overlevingskans op volgorde van rangschikking van de aanvragen als bedoeld in artikel 2.4, onderdeel b. 
 
 ### Artikel  3.3.6  
 
 ####Rangschikkingscriteria
-
-Treedt in werking per 01-09-2015 
 
 1.  De minister rangschikt een aanvraag voor een aanlandplichtinnovatieproject selectiviteit, waarop niet afwijzend is beslist, hoger naarmate deze: 
 
@@ -721,9 +759,7 @@ f. meer bijdraagt aan het aantonen of verbeteren van de overlevingskans van viss
 
 ####Beschikkingen onder opschortende voorwaarde
 
-Treedt in werking per 01-09-2015 
-
-1.  Indien bij subsidieverlening één van de in artikel 39, vierde lid, van verordening 508/2013 vastgestelde maxima zou worden overschreden, wordt subsidie aan aanlandinnovatieprojecten die op basis van de rangschikking en de hoogte van het subsidieplafond in aanmerking zouden komen voor subsidie, verleend onder de opschortende voorwaarde van goedkeuring door de Europese Commissie.   
+1.  Indien bij de rangschikking van de aanlandinnovatieprojecten blijkt dat één van de in artikel 39, vierde lid, van verordening 508/2014 vastgestelde maxima wordt overschreden, komen de aanlandplichtinnovatieprojecten die het hoogste zijn gerangschikt op grond van artikel 3.3.6, eerste of tweede lid, als eerste in aanmerking voor subsidie totdat dit maximum is bereikt, en wordt subsidie aan de overige aanlandinnovatieprojecten die op basis van de rangschikking en de hoogte van het subsidieplafond in aanmerking zouden komen voor subsidie, verleend onder de opschortende voorwaarde van goedkeuring door de Europese Commissie.   
 2.  De overige gerangschikte aanlandplichtinnovatieprojecten worden afgewezen, maar komen alsnog voor subsidie in aanmerking indien: 
 
 a. er budget beschikbaar komt doordat een of meerdere hoger gerangschikte aanlandinnovatieprojecten niet worden goedgekeurd door de Europese Commissie, en  
@@ -735,15 +771,11 @@ b. deze worden goedgekeurd door de Europese Commissie.
 
 ####Niet subsidiabele kosten
 
-Treedt in werking per 01-09-2015 
-
 Onverminderd de artikelen 1.5 en 3.1.2, komen operationele kosten als bedoeld in artikel 25, tweede lid, van verordening 508/2014 niet in aanmerking voor subsidie. 
 
 ### Artikel  3.3.9  
 
 ####Hoogte van de subsidie
-
-Treedt in werking per 01-09-2015 
 
 1.  De subsidie bedraagt 75 procent van de subsidiabele kosten.   
 2.  Indien de subsidie wordt aangevraagd door een samenwerkingsverband als bedoeld in artikel 3.3.2, onderdeel c, bedraagt de subsidie 85 procent van de subsidiabele kosten.   
@@ -753,17 +785,13 @@ Treedt in werking per 01-09-2015
 
 ####Start- en realisatietermijn
 
-Treedt in werking per 01-09-2015 
-
-1.  Met de uitvoering van de op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten wordt gestart binnen 6 maanden na de subsidieverlening.   
-2.  De op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten worden uitgevoerd binnen 36 maanden na subsidieverlening.   
+1.  Met de uitvoering van de op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten wordt gestart na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 2.9, maar uiterlijk binnen 12 maanden na de subsidieverlening.   
+2.  De op grond van deze titel gesubsidieerde aanlandplichtinnovatieprojecten worden voltooid binnen 36 maanden na subsidieverlening.   
 3.  Indien er sprake is van een subsidieverlening onder opschortende voorwaarde als bedoeld in artikel 3.3.7, eerste lid, beginnen de termijnen, bedoeld in het eerste en tweede lid, te lopen vanaf de datum waarop de minister de subsidieaanvrager op de hoogte heeft gesteld van het oordeel, bedoeld in artikel 3.3.7, derde lid, indien het aanlandinnovatieproject is goedgekeurd door de Europese Commissie.  
 
 ### Artikel  3.3.11  
 
 ####Verplichtingen subsidieontvanger
-
-Treedt in werking per 01-09-2015 
 
 1.  De subsidieontvanger of het samenwerkingsverband zet niet meer vissersvaartuigen in en overschrijdt niet de bruttotonnage, zoals aangegeven bij de aanvraag op grond van artikel 3.3.4, onderdeel b.   
 2.  De subsidieontvanger of het samenwerkingsverband zorgt dat de onderzoeksopzet die aan het aanlandplichtinnovatieproject ten grondslag ligt, voldoet aan de algemeen aanvaarde wetenschappelijke standaarden en dat de resultaten voldoende wetenschappelijk worden onderbouwd.   
@@ -775,15 +803,11 @@ Treedt in werking per 01-09-2015
 
 ####Afwijzingsgrond
 
-Treedt in werking per 01-09-2015 
-
 De minister beslist afwijzend op een aanvraag tot subsidieverlening voor zover de subsidiabele kosten, bedoeld in artikel 1.3, minder dan € 500 000 bedragen. 
 
 ### Artikel  3.3.13  
 
 ####Intellectuele eigendomsrechten
-
-Treedt in werking per 01-09-2015 
 
 Op de resultaten van een aanlandplichtinnovatieproject worden geen intellectuele eigendomsrechten gevestigd. 
 
@@ -791,18 +815,14 @@ Op de resultaten van een aanlandplichtinnovatieproject worden geen intellectuele
 
 ####Voorschot
 
-Treedt in werking per 01-09-2015 
-
 1.  Er kan een voorschot worden verstrekt als bedoeld in artikel 2.14.   
 2.  Een aanvraag om een voorschot wordt in ieder geval ingediend tegelijkertijd met een tussenrapportage als bedoeld in artikel 2.18, eerste lid.   
-3.  Aanvullend op het tweede lid kan een aanvraag om een voorschot op een ander moment worden ingediend. In dit geval gaat zij vergezeld van een beschrijving van de voorgang van het aanlandplichtinnovatieproject.   
+3.  Tevens kan een aanvraag om een voorschot op een ander moment worden ingediend. In dit geval gaat zij vergezeld van een beschrijving van de voortgang van het aanlandplichtinnovatieproject.   
 4.  Een aanvraag om een voorschot gaat vergezeld van gegevens over de gegenereerde netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2014.  
 
 ### Artikel  3.3.15  
 
 ####Verrekening van netto-inkomsten
-
-Treedt in werking per 01-09-2015 
 
 1.  Bij de subsidieverlening worden de geraamde netto-inkomsten, bedoeld in artikel 3.3.4, onderdeel c, van de subsidiabele kosten afgetrokken.   
 2.  Indien bij de verstrekking van een voorschot als bedoeld in artikel 3.3.14, eerste lid, of bij de subsidievaststelling blijkt dat de netto-inkomsten, bedoeld in artikel 39, zesde en zevende lid, van verordening 508/2013, eerder met de subsidiabele kosten verrekende netto-inkomsten te boven gaan, worden deze van de subsidiabele kosten afgetrokken.  
@@ -810,8 +830,6 @@ Treedt in werking per 01-09-2015
 ### Artikel  3.3.16  
 
 ####Indienen aanvraag tot subsidievaststelling
-
-Treedt in werking per 01-09-2015 
 
 Onverminderd de artikelen 2.20 en 3.1.5, bevat de aanvraag tot subsidievaststelling in ieder geval: 
 
@@ -831,9 +849,164 @@ f. gegevens die aantonen dat de communicatieactiviteiten, bedoeld in artikel 3.3
 
 ####Vervaltermijn
 
-Treedt in werking per 01-09-2015 
-
 Deze titel vervalt met ingang van 1 september 2020, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
+
+### Titel  3.4  
+
+####Rendementsverbeteringsprojecten
+
+Treedt in werking per 01-01-2016 
+
+### Artikel  3.4.1  
+
+####Begripsbepaling
+
+Treedt in werking per 01-01-2016 
+
+In deze titel wordt verstaan onder een rendementsverbeteringsproject, een project dat: 
+
+a. tot doel heeft kennis te ontwikkelen of te ontwikkelen en in te voeren, gericht op het verbeteren van rendementen in de visserij, door middel van: 
+
+1°. kostenbesparing;  
+
+2°. waardevermeerdering, of  
+
+3°. het beter op elkaar aansluiten van vraag en aanbod, en    
+
+b. past binnen een van de doelen, bedoeld in artikel 26, eerste lid, van verordening 508/2014.   
+
+### Artikel  3.4.2  
+
+####Subsidiabele activiteiten
+
+Treedt in werking per 01-01-2016 
+
+De minister verstrekt op aanvraag subsidie voor de uitvoering van een rendementsverbeteringsproject aan: 
+
+a. een producentenorganisatie voor visserijproducten;  
+
+b. deelnemers in een samenwerkingsverband van visserijondernemingen of producentenorganisaties voor visserijproducten;  
+
+c. deelnemers in een samenwerkingsverband van één of meer visserijondernemingen en één of meer producentenorganisaties voor visserijproducten, of  
+
+d. deelnemers in een samenwerkingsverband van minstens één visserijonderneming of producentenorganisatie voor visserijproducten en één of meer marktdeelnemers uit de visserijsector, die niet als visserijonderneming kunnen worden beschouwd.   
+
+### Artikel  3.4.3  
+
+####Betrokkenheid van een technische of wetenschappelijke organisatie
+
+Treedt in werking per 01-01-2016 
+
+Een rendementsverbeteringsproject wordt uitgevoerd met actieve betrokkenheid van een wetenschappelijke of technische organisatie, die de resultaten van het project valideert. 
+
+### Artikel  3.4.4  
+
+####Indiening aanvraag tot subsidieverlening
+
+Treedt in werking per 01-01-2016 
+
+Onverminderd de artikelen 2.9 en 3.1.4, bevat een aanvraag tot subsidieverlening in ieder geval: 
+
+a. gegevens waaruit blijkt hoe de actieve betrokkenheid, bedoeld in artikel 3.4.3, van een technische of wetenschappelijke organisatie bij het rendementsverbeteringsproject geborgd zal worden;  
+
+b. een verklaring van een wetenschappelijke of technische organisatie waaruit blijkt dat deze bereid is om de in artikel 3.4.3 omschreven rol te vervullen, overeenkomstig de gegevens, bedoeld in onderdeel a.   
+
+### Artikel  3.4.5  
+
+####Verdeling van het subsidieplafond
+
+Treedt in werking per 01-01-2016 
+
+De minister verdeelt het subsidieplafond voor rendementsverbeteringsprojecten op volgorde van rangschikking van de aanvragen als bedoeld in artikel 2.4, onderdeel b. 
+
+### Artikel  3.4.6  
+
+####Rangschikkingscriteria
+
+Treedt in werking per 01-01-2016 
+
+De minister rangschikt een aanvraag voor een rendementsverbeteringsproject, waarop niet afwijzend is beslist, hoger naarmate deze: 
+
+a. meer bijdraagt aan kostenbesparing, waardevermeerdering of het op elkaar aansluiten van vraag en aanbod (25%);  
+
+b. een meer innovatief karakter heeft (25%);  
+
+c. meer economisch of technisch perspectief heeft voor toepassing op praktijkschaal (20%);  
+
+d. een groter uitstralingseffect heeft voor toepassing door andere ondernemingen (15%);  
+
+e. een meer ecologisch duurzaam karakter heeft (10%);  
+
+f. een breder aantal betrokkenen kent (5%).   
+
+### Artikel  3.4.7  
+
+####Niet subsidiabele kosten
+
+Treedt in werking per 01-01-2016 
+
+Onverminderd de artikelen 1.5 en 3.1.2, komen operationele kosten als bedoeld in artikel 25, tweede lid, van verordening 508/2014 niet voor subsidie in aanmerking. 
+
+### Artikel  3.4.8  
+
+####Hoogte van de subsidie
+
+Treedt in werking per 01-01-2016 
+
+1.  De subsidie bedraagt 50 procent van de subsidiabele kosten.   
+2.  In afwijking van het eerste lid bedraagt de subsidie 30 procent van de subsidiabele kosten voor ondernemingen die geen mkb zijn.   
+3.  De subsidie bedraagt ten hoogste € 375.000 per rendementsverbeteringsproject.  
+
+### Artikel  3.4.9  
+
+####Start- en realisatietermijn
+
+Treedt in werking per 01-01-2016 
+
+1.  Met de uitvoering van de op grond van deze titel gesubsidieerde rendementsverbeteringsprojecten wordt gestart na de datum van ontvangst van de subsidieaanvraag, bedoeld in artikel 2.9, maar uiterlijk binnen 12 maanden na de subsidieverlening.   
+2.  De op grond van deze titel gesubsidieerde rendementsverbeteringsprojecten worden voltooid binnen 36 maanden na subsidieverlening.  
+
+### Artikel  3.4.10  
+
+####Toepassing artikel 3.1.7 
+
+Treedt in werking per 01-01-2016 
+
+Artikel 3.1.7 is van toepassing op eigenaars van vissersvaartuigen die subsidie ontvangen op grond van deze titel. 
+
+### Artikel  3.4.11  
+
+####Afwijzingsgrond
+
+Treedt in werking per 01-01-2016 
+
+De minister beslist afwijzend op een aanvraag tot subsidieverlening voor zover de subsidiabele kosten, bedoeld in artikel 1.3, minder dan € 500 000 bedragen. 
+
+### Artikel  3.4.12  
+
+####Voorschot
+
+Treedt in werking per 01-01-2016 
+
+1.  Er kan een voorschot worden verstrekt als bedoeld in artikel 2.14.   
+2.  Een aanvraag om een voorschot wordt in ieder geval ingediend tegelijkertijd met een tussenrapportage als bedoeld in artikel 2.18, eerste lid.   
+3.  Tevens kan een aanvraag om een voorschot op een ander moment worden ingediend. In dit geval gaat zij vergezeld van een beschrijving van de voortgang van het rendementsverbeteringsproject.  
+
+### Artikel  3.4.13  
+
+####Indienen aanvraag tot subsidievaststelling
+
+Treedt in werking per 01-01-2016 
+
+Onverminderd de artikelen 2.20 en 3.1.5, bevat de aanvraag tot subsidievaststelling in ieder geval een verklaring van de technische of wetenschappelijke organisatie dat zij de rol, bedoeld in artikel 3.4.4, onderdeel b, daadwerkelijk heeft vervuld en dat zij de resultaten van het project heeft gevalideerd overeenkomstig artikel 3.4.3. 
+
+### Artikel  3.4.14  
+
+####Vervaltermijn
+
+Treedt in werking per 01-01-2016 
+
+Deze titel vervalt met ingang van 1 januari 2021, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
 
 ### Hoofdstuk  4  
 

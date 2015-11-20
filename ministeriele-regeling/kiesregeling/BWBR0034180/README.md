@@ -197,11 +197,21 @@ R.H.A. Plasterk
 
 ####De technische eisen aan de stempas, de kiezerspas, het schriftelijk volmachtbewijs en het briefstembewijs
 
+###Stempas
+
 ![256298](http://wetten.overheid.nl/Illustration/256298)
-*Stempas*![256299](http://wetten.overheid.nl/Illustration/256299)
-*Kiezerspas*![256300](http://wetten.overheid.nl/Illustration/256300)
-*Schriftelijke volmacht*![256301](http://wetten.overheid.nl/Illustration/256301)
-*Briefstembewijs*
+
+###Kiezerspas
+
+![256299](http://wetten.overheid.nl/Illustration/256299)
+
+###Schriftelijke volmacht
+
+![256300](http://wetten.overheid.nl/Illustration/256300)
+
+###Briefstembewijs
+
+![256301](http://wetten.overheid.nl/Illustration/256301)
 
 ### Model  J 16 (Wrr 59)  
 

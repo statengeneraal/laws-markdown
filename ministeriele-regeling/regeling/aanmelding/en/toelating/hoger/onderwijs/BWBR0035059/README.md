@@ -144,8 +144,6 @@ Als de naam van een opleiding wordt gewijzigd, blijft de toelatingsmogelijkheid 
 
 ####Nadere vooropleidingseisen mbo
 
-Treedt in werking per 01-09-2015 
-
 Voor opleidingen in het hoger beroepsonderwijs in een in bijlage C opgenomen sector, geldt voor kandidaten die met goed gevolg een middenkaderopleiding of een specialistenopleiding als bedoeld in artikel 7.2.2, eerste lid, onder d, onderscheidenlijk e, van de WEB hebben afgelegd als nadere vooropleidingseis: 
 
 a. het bezit van een diploma van een opleiding behorend tot een in bijlage C opgenomen domein of  
@@ -156,13 +154,9 @@ b. een door de hogeschool afgegeven sufficiëntieverklaring.
 
 ####Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs
 
-Treedt in werking per 01-09-2015 
-
 ### Artikel  2.5  
 
 ####Vereiste kennisniveaus
-
-Treedt in werking per 01-09-2015 
 
 1.  Voor wat betreft het kennisgebied aardrijkskunde, bedoeld in artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs, beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in bijlage F, onderdeel I.   
 2.  Voor wat betreft het kennisgebied geschiedenis, bedoeld in artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs, beschikt een kandidaat over voldoende kennis, indien die kennis voldoet aan het niveau dat is vastgesteld in bijlage F, onderdeel II.   
@@ -171,8 +165,6 @@ Treedt in werking per 01-09-2015
 ### Artikel  2.6  
 
 ####Examenvakken die zonder meer tot toelating leiden
-
-Treedt in werking per 01-09-2015 
 
 1.  Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied aardrijkskunde, bedoeld in artikel 9, tweede lid, onderdeel a, van de Wet op het primair onderwijs, indien het vak aardrijkskunde deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in artikel 8 van de Wet op het voortgezet onderwijs of artikel 14 van de Wet voortgezet hoger onderwijs BES   
 2.  Een kandidaat voldoet in ieder geval aan de bijzondere nadere vooropleidingseisen op het kennisgebied geschiedenis, bedoeld in artikel 9, tweede lid, onderdeel b, van de Wet op het primair onderwijs, indien het vak geschiedenis deel heeft uitgemaakt van het examen ter verkrijging van het diploma hoger algemeen voortgezet onderwijs, bedoeld in artikel 8 van de Wet op het voortgezet onderwijs of artikel 14 van de Wet voortgezet hoger onderwijs BES   
@@ -805,27 +797,41 @@ Techniek
 
 ####Nadere vooropleidingseisen voor opleidingen van het hoger beroepsonderwijs
 
-1. In deze bijlage wordt verstaan onder:  
+1.  *In deze bijlage wordt verstaan onder:*  
 
-| --- | --- |
-|:---|:---|
-|  *NT*:  | profiel natuur en techniek  |
-|  *NG*:  | profiel natuur en gezondheid  |
-|  *EM*:  | profiel economie en maatschappij  |
-|  *CM*:  | profiel cultuur en maatschappij  |
-|  *biol*:  | biologie  |
-|  *dutl: *   | Duitse taal en cultuur  |
-|  *fatl: *   | Franse taal en cultuur  |
-|  *econ: *   | economie  |
-|  *m&o: *   | management en organisatie  |
-|  *maw: *   | maatschappijwetenschappen  |
-|  *nat*:  | natuurkunde  |
-|  *nlt: *   | natuur, leven & technologie  |
-|  *schk*:  | scheikunde  |
-|  *wisA*:  | wiskunde A  |
-|  *wisB*:  | wiskunde B  |
-|  *2emvt*:  | tweede moderne ‘vreemde’ taal  |
-|  *Ad*:  | Associate degree  |
+*NT:* profiel natuur en techniek  
+
+*NG:* profiel natuur en gezondheid  
+
+*EM:* profiel economie en maatschappij  
+
+*CM:* profiel cultuur en maatschappij  
+
+*biol:* biologie  
+
+*dutl:* Duitse taal en cultuur  
+
+*fatl:* Franse taal en cultuur  
+
+*econ:* economie  
+
+*m&o:* management en organisatie  
+
+*maw:* maatschappijwetenschappen  
+
+*schk:* scheikunde  
+
+*nat:* natuurkunde  
+
+*nlt:* natuur, leven & technologie  
+
+*wisA:* wiskunde A  
+
+*wisB:* wiskunde B  
+
+*2<sup>e</sup>mvt:* tweede moderne ‘vreemde’ taal  
+
+*Ad:* Associate degree    
 
 2. Verklaring van de in deze bijlage gebruikte symbolen: *: dit profiel geeft toegang tot de betreffende opleiding #: dit profiel geeft geen toegang tot de betreffende opleiding   
 
@@ -837,72 +843,73 @@ Economie (instroom met havo-diploma)
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Accountancy<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 1.  | B Accountancy<sup>3</sup>   | *  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
 | 2.  | B Advanced Business Creation  | econ of m&o  | econ of m&o  | --- | (econ of m&o) + (wisA of wisB)  |
 | 3.  | B Bedrijfseconomie<sup>3</sup>   | *  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
 | 4.  | B Bestuurskunde /overheidsmanagement  | econ  | econ  | *  | econ  |
 | 5.  | B Bedrijfskunde MER<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of maw of m&o  |
-| 6.  | B Business Administration in Hotel Management¹  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | econ of m&o  |
+| 6.  | B Business Administration in Hotel Management<sup>1</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | econ of m&o  |
 | 7.  | B Business IT & Management<sup>3</sup>   | *  | *  | *  | *  |
-| 8.  | B Business studies  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 9. B  | B Commercieel Management<sup>3</sup>   | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
-| 10.  | B Commerciële economie<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 8.  | B Business Studies  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 9.  | B Commercieel Management<sup>3</sup>   | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
+| 10.  | B Commerciële Economie<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
 | 11.  | B Communicatie<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
 | 12.  | B Communicatiesystemen  | *  | *  | *  | wisA of wisB  |
 | 13.  | B European Studies  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 14.  | B Facility management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 15.  | B Financial services management  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 16.  | B Fiscaal Recht en Economie  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 17.  | B Food and business  | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
-| 18.  | B Functiegerichte bachelor in toerisme en recreatie<sup>3</sup>   | *  | *  | *  | econ of m&o  |
+| 14.  | B Facility Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 15.  | B Financial Services Management  | *  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 16.  | B Fiscaal Recht en Economie  | *  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 17.  | B Food and Business  | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
+| 18.  | B Functiegerichte bachelor in Toerisme en Recreatie<sup>3</sup>   | *  | *  | *  | econ of m&o  |
 | 19.  | B Hbo-Rechten  | *  | *  | *  | *  |
-| 20.  | B Hogere Juridische opleiding  | *  | *  | *  | *  |
+| 20.  | B Hogere Juridische Opleiding  | *  | *  | *  | *  |
 | 21.  | B Hoger Hotelonderwijs<sup>1,3</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | econ of m&o  |
-| 22.  | B Hoger toeristisch en recreatief onderwijs<sup>3</sup>   | *  | *  | *  | econ of m&o  |
-| 23.  | B Informatiedienstverlening en -management<sup>3</sup>   | *  | *  | *  | *  |
+| 22.  | B Hoger Toeristisch en Recreatief Onderwijs<sup>3</sup>   | *  | *  | *  | econ of m&o  |
+| 23.  | B Informatiedienstverlening en -Management<sup>3</sup>   | *  | *  | *  | *  |
 | 24.  | B Informationmanagement  | *  | *  | *  | econ of m&o  |
-| 25.  | B Integrale veiligheid  | *  | *  | *  | *  |
-| 26.  | B Integrale veiligheidskunde  | econ  | econ  | *  | econ  |
+| 25.  | B Integrale Veiligheid  | *  | *  | *  | *  |
+| 26.  | B Integrale Veiligheidskunde  | econ  | econ  | *  | econ  |
 | 27.  | B International Business  | *  | *  | *  | econ of m&o of wisA  |
-| 28.  | B International business and languages  | econ of m&o  | econ of m&o  | *  | *  |
-| 29.  | B International business and  management studies  | econ of m&o of 2<sup>e</sup>mvt  | econ of m&o of 2<sup>e</sup>mvt  | *  | econ of m&o  |
-| 30.  | B International Fresh Business Management  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 31.  | B Journalistiek  | *  | *  | *  | *  |
-| 32.  | B Kunst en economie  | *  | *  | *  | *  |
-| 33.  | B Lifestyle  | *  | *  | *  | *  |
-| 34.  | B Logistiek en economie  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
-| 35.  | B Media and entertainment  Management  | *  | *  | *  | econ of m&o  |
-| 36.  | B Media, informatie en communicatie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 37.  | B Oriëntaalse talen en communicatie  | *  | *  | *  | *  |
-| 38.  | B People and Business Management  | *  | *  | *  | *  |
-| 39.  | B Security Management  | *  | *  | *  | *  |
-| 40.  | B Small business & retail management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 41.  | B Sport, management en ondernemen<sup>1</sup>   | *  | *  | *  | wisA of wisB  |
-| 42.  | B Toegepaste Bedrijfskunde  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 43.  | B Trade management Azië  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 44.  | B Vastgoed en makelaardij  | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
-| 45.  | B Vertaalacademie<sup>5</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 46.  | B Vitaliteitsmanagement & Toerisme<sup>3</sup>   | *  | *  | *  | *  |
-| 47.  | B Vrijetijdsmanagement<sup>3</sup>   | *  | *  | *  | econ of m&o  |
+| 28.  | B International Business and Languages  | econ of m&o  | econ of m&o  | *  | *  |
+| 29.  | B International Business and  Management Studies  | econ of m&o of 2<sup>e</sup>mvt  | econ of m&o of 2<sup>e</sup>mvt  | *  | econ of m&o  |
+| 30.  | International Business Innovation Studies  | econ of m&o  | *  | *  | *  |
+| 31.  | B International Fresh Business Management  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 32.  | B Journalistiek  | *  | *  | *  | *  |
+| 33.  | B Kunst en economie  | *  | *  | *  | *  |
+| 34.  | B Lifestyle  | *  | *  | *  | *  |
+| 35.  | B Logistiek en Economie  | econ of m&o  | econ of m&o  | *  | (econ of m&o) + (wisA of wisB)  |
+| 36.  | B Media and Entertainment  Management  | *  | *  | *  | econ of m&o  |
+| 37.  | B Media, Informatie en Communicatie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 38.  | B Oriëntaalse talen en Communicatie  | *  | *  | *  | *  |
+| 39.  | B People and Business Management  | *  | *  | *  | *  |
+| 40.  | B Security Management  | *  | *  | *  | *  |
+| 41.  | B Small Business & Retail Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 42.  | B Sport, Management en Ondernemen<sup>1</sup>   | *  | *  | *  | wisA of wisB  |
+| 43.  | B Toegepaste Bedrijfskunde  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
+| 44.  | B Trade Management Azië  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 45.  | B Vastgoed en Makelaardij  | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
+| 46.  | B Vertaalacademie<sup>5</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
+| 47.  | B Vitaliteitsmanagement & Toerisme<sup>3</sup>   | *  | *  | *  | *  |
+| 48.  | B Vrijetijdsmanagement<sup>3</sup>   | *  | *  | *  | econ of m&o  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen. Gedrag en maatschappij (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Creatieve therapie<sup>1</sup>   | *  | *  | *  | *  |
-| 2.  | B Culturele en maatschappelijke vorming  | *  | *  | *  | *  |
-| 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
+| 1.  | B Creatieve Therapie<sup>1</sup>   | *  | *  | *  | *  |
+| 2.  | B Culturele en Maatschappelijke Vorming  | *  | *  | *  | *  |
+| 3.  | B Godsdienst-pastoraal Werk  | *  | *  | *  | *  |
 | 4.  | B Human Resource Management<sup>3</sup>   | *  | *  | *  | *  |
 | 5.  | B Integrale veiligheidskunde  | econ  | econ  | *  | econ  |
-| 6.  | B Maatschappelijk werk en dienstverlening  | *  | *  | *  | *  |
+| 6.  | B Maatschappelijk Werk en Dienstverlening  | *  | *  | *  | *  |
 | 7.  | B Pedagogiek<sup>3</sup>   | *  | *  | *  | *  |
 | 8.  | B Pedagogisch Management Kinderopvang  | *  | *  | *  | *  |
-| 9.  | B Sociaal-juridische dienstverlening<sup>3</sup>   | *  | *  | *  | *  |
-| 10.  | B Sociaal pedagogische hulpverlening  | *  | *  | *  | *  |
+| 9.  | B Sociaal-juridische Dienstverlening<sup>3</sup>   | *  | *  | *  | *  |
+| 10.  | B Sociaal Pedagogische Hulpverlening  | *  | *  | *  | *  |
 | 11.  | B Social work  | *  | *  | *  | *  |
-| 12.  | B Sport en bewegen<sup>1</sup>   | *  | *  | *  | *  |
-| 13.  | B Sport en bewegingseducatie  | *  | *  | *  | *  |
-| 14.  | B Toegepaste psychologie  | *  | *  | *  | wisA of wisB  |
+| 12.  | B Sport en Bewegen<sup>1</sup>   | *  | *  | *  | *  |
+| 13.  | B Sport en Bewegingseducatie  | *  | *  | *  | *  |
+| 14.  | B Toegepaste Psychologie  | *  | *  | *  | wisA of wisB  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Gezondheidszorg (instroom met havo-diploma) 
 
@@ -912,10 +919,10 @@ Economie (instroom met havo-diploma)
 | 2.  | B Farmakunde  | *  | *  | *  | *  |
 | 3.  | B Fysiotherapeut, opleiding tot  | *  | *  | *  | *  |
 | 4.  | B Huidtherapie  | *  | *  | *  | *  |
-| 5.  | B Kunstzinnige therapie  | *  | *  | *  | *  |
+| 5.  | B Kunstzinnige Therapie  | *  | *  | *  | *  |
 | 6.  | B Logopedie, opleiding voor<sup>1</sup>   | *  | *  | *  | *  |
-| 7.  | B Management in de zorg<sup>1,3</sup>   | *  | *  | *  | *  |
-| 8.  | B Medisch beeldvormende en radio-  therapeutische technieken  | *  | *  | *  | wisA of wisB  |
+| 7.  | B Management in de Zorg <sup>1,3</sup>   | *  | *  | *  | *  |
+| 8.  | B Medisch Beeldvormende en Radio-  therapeutische Technieken  | *  | *  | *  | wisA of wisB  |
 | 9.  | B Medische Hulpverlening  | *  | *  | *  | *  |
 | 10.  | B Mondzorgkunde  | *  | *  | *  | *  |
 | 11.  | B Oefentherapie Cesar  | *  | *  | *  | *  |
@@ -924,24 +931,24 @@ Economie (instroom met havo-diploma)
 | 14.  | B Orthoptie  | *  | *  | *  | wisA of wisB  |
 | 15.  | B Podotherapie, opleiding  | *  | *  | *  | *  |
 | 16.  | B Psychomotorische Therapie en Bewegingsagogie<sup>1</sup>   | *  | *  | *  | *  |
-| 17.  | B Sport, gezondheid en management<sup>3</sup>   | *  | *  | *  | *  |
-| 18.  | B Toegepaste gerontologie  | *  | *  | *  | *  |
+| 17.  | B Sport, Gezondheid en Management<sup>3</sup>   | *  | *  | *  | *  |
+| 18.  | B Toegepaste Gerontologie  | *  | *  | *  | *  |
 | 19.  | B Verloskunde<sup>1</sup>   | biol  | *  | biol + schk  | biol + schk + (wisA of wisB)  |
 | 20.  | B Verpleegkundige, opleiding tot  | *  | *  | *  | *  |
-| 21.  | B Voeding en diëtetiek  | *  | *  | *  | *  |
+| 21.  | B Voeding en Diëtetiek  | *  | *  | *  | *  |
 
-<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Landbouw en natuurlijke omgeving (instroom met havo-diploma) 
+<sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Landbouw en natuurlijke omgeving (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Bedrijfskunde en agribusiness<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
+| 1.  | B Bedrijfskunde en Agribusiness<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
 | 2.  | B Biotechnologie  | *  | *  | #  | #  |
 | 3.  | B Bos- en natuurbeheer  | *  | *  | *  | wisA of wisB  |
 | 4.  | B Dier- en veehouderij<sup>3</sup>   | *  | *  | schk  | #  |
 | 5.  | B Diermanagement  | *  | *  | biol  | #  |
-| 6.  | B Educatie en kennismanagement groene sector<sup>2,3</sup>   | *  | *  | *  | *  |
+| 6.  | B Educatie en Kennismanagement Groene Sector <sup>2,3</sup>   | *  | *  | *  | *  |
 | 7.  | B Food Commerce & Technology  | *  | *  | wisA of wisB  | wisA of wisB  |
-| 8.  | B Food design and Innovation  | *  | *  | *  | wisA  |
+| 8.  | B Food Design and Innovation  | *  | *  | *  | wisA  |
 | 9.  | B Geo Media & Design  | *  | *  | *  | Wis A of Wis B  |
 | 10.  | B Greenport Business & Retail  | *  | *  | *  | wisA of wisB  |
 | 11.  | B Kust- en zeemanagement  | *  | *  | *  | wisA  |
@@ -950,7 +957,7 @@ Economie (instroom met havo-diploma)
 | 14.  | B Milieukunde<sup>3</sup>   | *  | *  | schk  | #  |
 | 15.  | B Plattelandsvernieuwing  | *  | *  | *  | wisA of wisB  |
 | 16.  | B Toegepaste Biologie  | *  | *  | schk  | #  |
-| 17.  | B International Development Management  | *  | *  | *  | wis A of B en econ  |
+| 17.  | B International Development Management  | *  | *  | *  | wisA of wisB en econ  |
 | 18.  | B Tuinbouw en akkerbouw<sup>3</sup>   | *  | *  | schk  | #  |
 | 19.  | B Tuin- en landschapsinrichting<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
 | 20.  | B Voedingsmiddelentechnologie  | *  | *  | wisA+schk  | #  |
@@ -961,7 +968,7 @@ Economie (instroom met havo-diploma)
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
 | 1.  | B Aardrijkskunde<sup>2</sup>   | *  | *  | *  | *  |
-| 2.  | B Algemene economie<sup>2</sup>   | econ of m&o  | econ of m&o  | *  | econ  |
+| 2.  | B Algemene Economie<sup>2</sup>   | econ of m&o  | econ of m&o  | *  | econ  |
 | 3.  | B Basisonderwijs, opleiding tot leraar  | *  | *  | *  | *  |
 | 4.  | B Beeldende kunst en vormgeving, docent<sup>1</sup>   | *  | *  | *  | *  |
 | 5.  | B Bedrijfseconomie<sup>2</sup>   | econ of m&o  | econ of m&o  | *  | econ  |
@@ -977,22 +984,22 @@ Economie (instroom met havo-diploma)
 | 15.  | B Frans<sup>2</sup>   | fatl  | fatl  | fatl  | fatl  |
 | 16.  | B Fries<sup>2</sup>   | *  | *  | *  | *  |
 | 17.  | B Geschiedenis<sup>2</sup>   | *  | *  | *  | *  |
-| 18.  | B Gezondheidszorg en welzijn<sup>2,3</sup>   | *  | *  | *  | *  |
+| 18.  | B Gezondheidszorg en welzijn <sup>2,3</sup>   | *  | *  | *  | *  |
 | 19.  | B Godsdienst<sup>2</sup>   | *  | *  | *  | *  |
-| 20.  | B Informatie en communicatie technologie, docent<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
+| 20.  | B Informatie en Communicatie technologie, docent<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 21.  | B Installatietechniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 22.  | B Islam-godsdienst<sup>2</sup>   | *  | *  | *  | *  |
 | 23.  | B Lichamelijke opvoeding<sup>1</sup>   | *  | *  | *  | *  |
 | 24.  | B Maatschappijleer<sup>2</sup>   | *  | *  | *  | *  |
-| 25.  | B Mechanische techniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
-| 26.  | B Mens en maatschappij<sup>2</sup> <sup>,3</sup>   | *  | *  | *  | *  |
+| 25.  | B Mechanische Techniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
+| 26.  | B Mens en Maatschappij<sup>2,3</sup>   | *  | *  | *  | *  |
 | 27.  | B Mens en Technologie<sup>2</sup>   | *  | *  | *  | wisA of wisB  |
 | 28.  | B Motorvoertuigentechniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 29.  | B Muziek, docent<sup>1</sup>   | *  | *  | *  | *  |
 | 30.  | B Natuurkunde<sup>2</sup>   | *  | nat of nlt  | #  | #  |
 | 31.  | B Nederlands<sup>2</sup>   | *  | *  | *  | *  |
 | 32.  | B Omgangskunde<sup>2,3</sup>   | *  | *  | *  | *  |
-| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal (NGT)/ Bacheloropleiding tot Tolk NGT<sup>1,2,3</sup>   | *  | *  | *  | *  |
+| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal (NGT)/ Bacheloropleiding tot Tolk NGT <sup>1,2,3</sup>   | *  | *  | *  | *  |
 | 34.  | B Opleidingskunde  | *  | *  | *  | *  |
 | 35.  | B Pedagogiek<sup>2</sup>   | *  | *  | *  | *  |
 | 36.  | B Scheikunde<sup>2</sup>   | *  | *  | #  | #  |
@@ -1009,168 +1016,143 @@ Economie (instroom met havo-diploma)
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Autonome beeldende kunst<sup>1</sup>   | *  | *  | *  | *  |
-| 2.  | B Beeldende kunst en vormgeving<sup>1</sup>   | *  | *  | *  | *  |
+| 1.  | B Autonome Beeldende Kunst<sup>1</sup>   | *  | *  | *  | *  |
+| 2.  | B Beeldende Kunst en Vormgeving<sup>1</sup>   | *  | *  | *  | *  |
 | 3.  | B Circus and Performance Art<sup>1</sup>   | *  | *  | *  | *  |
 | 4.  | B Circus Arts<sup>1</sup>   | *  | *  | *  | *  |
 | 5.  | B Cultureel Erfgoed  | *  | *  | *  | *  |
-| 6.  | B Dans<sup>1</sup> <sup>,3</sup>   | *  | *  | *  | *  |
+| 6.  | B Dans<sup>1,3</sup>   | *  | *  | *  | *  |
 | 7.  | B Film en televisie<sup>1</sup>   | *  | *  | *  | *  |
-| 8.  | B Muziek<sup>1,3</sup>   | *  | *  | *  | *  |
+| 8.  | B Muziek <sup>1,3</sup>   | *  | *  | *  | *  |
 | 9.  | B Muziektherapie<sup>1</sup>   | *  | *  | *  | *  |
 | 10.  | B Theater<sup>1</sup>   | *  | *  | *  | *  |
-| 11.  | B Vormgeving<sup>1,3</sup>   | *  | *  | *  | *  |
+| 11.  | B Vormgeving <sup>1,3</sup>   | *  | *  | *  | *  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Techniek (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Advanced Sensor Applications  | *  | wisB  | #  | #  |
-| 2.  | B Applied science  | *  | *  | #  | #  |
-| 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
-| 4.  | B Archeologie  | *  | *  | *  | *  |
-| 5.  | B Autotechniek<sup>3</sup>   | *  | nat of nlt  | #  | #  |
-| 6.  | B Automotive  | *  | nat of nlt  | #  | #  |
-| 7.  | B Aviation  | *  | nat of nlt  | nat  | #  |
-| 8.  | B Bedrijfsmanagement mkb  | *  | *  | *  | wisA of wisB  |
-| 9.  | B Bedrijfswiskunde  | *  | *  | wisB  | wisB  |
-| 10.  | B Bewegingstechnologie  | *  | *  | *  | wisA of wisB  |
-| 11.  | B Bio-informatica  | *  | *  | *  | wisA of  wisB of nat  |
-| 12.  | B Biologie en medisch laboratoriumonderzoek<sup>3</sup>   | *  | *  | #  | #  |
-| 13.  | B Biometrie  | *  | *  | *  | wisA of wisB  |
-| 14.  | B Biotechnologie  | *  | *  | #  | #  |
-| 15.  | B Bouwkunde<sup>3</sup>   | *  | nat of nlt  | wisB + nat  | #  |
-| 16.  | B Bouwmanagement en vastgoed  | *  | *  | *  | econ + (wisA of wisB)  |
-| 17.  | B Bouwtechnische bedrijfskunde<sup>3</sup>   | *  | *  | *  | #  |
-| 18.  | B Built environment  | *  | nat of nlt  | #  | #  |
-| 19.  | B Business Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | maw, econ of m&o  |
-| 20.  | B Chemie  | *  | *  | #  | #  |
-| 21.  | B Chemische technologie<sup>3</sup>   | *  | *  | #  | #  |
-| 22.  | B Civiele techniek<sup>3</sup>   | *  | nat of nlt  | #  | #  |
-| 23.  | B Climate & Management  | *  | *  | *  | wisA of wisB  |
-| 24.  | B Communication and multimedia design  | *  | *  | *  | wisA of wisB  |
-| 25.  | B Creative Media and Technology  | *  | *  | *  | wisA of wisB  |
-| 26.  | B Elektrotechniek  | *  | nat of nlt  | #  | #  |
-| 27.  | B Embedded Systems Engineering  | *  | nat of nlt  | #  | #  |
-| 28.  | B Energie- en Procestechnologie (AOT)  | *  | nat of nit  | #  | #  |
-| 29.  | B Engineering  | *  | *  | *  | #  |
-| 30.  | B Engineering, design and  Innovation  | *  | nat of nlt  | nat  | #  |
-| 31.  | B Forensisch onderzoek  | *  | nat of nlt  | #  | #  |
-| 32.  | B Game architecture and design  | *  | *  | *  | *  |
-| 33.  | B Geodesie  | *  | *  | *  | #  |
-| 34.  | B Gezondheidszorgtechnologie  | *  | *  | *  | #  |
-| 35.  | B HBO-ICT  | *  | *  | *  | *  |
-| 36.  | B Human technology  | *  | *  | *  | wisA of wisB  |
-| 37.  | B Industrieel product ontwerpen  | *  | nat of nlt  | nat  | #  |
-| 38.  | B Industriële automatisering  | *  | nat of nlt  | nat  | #  |
-| 39.  | B Informatica<sup>3</sup>   | *  | *  | *  | *  |
-| 40.  | B Information Security Management  | *  | *  | *  | *  |
-| 41.  | B International Maintenance Management  | *  | *  | *  | #  |
-| 42.  | B Kunst en techniek<sup>1</sup>   | *  | *  | *  | wisA of wisB  |
-| 43.  | B Logistiek en technische vervoerskunde  | *  | *  | *  | #  |
-| 44.  | B Luchtvaarttechnologie  | *  | nat of nlt  | #  | #  |
-| 45.  | B Maritiem officier<sup>1</sup>   | *  | nat of nlt  | #  | #  |
-| 46.  | B Mechatronica  | *  | nat of nlt  | #  | #  |
-| 47.  | B Mediatechnologie  | *  | *  | *  | wisA of wisB  |
-| 48.  | B Milieugerichte materiaaltechnologie  | *  | *  | #  | #  |
-| 49.  | B Milieukunde<sup>3</sup>   | *  | *  | schk  | #  |
-| 50.  | B Mobiliteit  | *  | *  | *  | #  |
-| 51.  | B Netwerk infrastructuur design  | *  | *  | *  | wisA of wisB  |
-| 52.  | B Ocean Technology  | *  | nat of nlt  | #  | #  |
-| 53.  | B Orthopedische technologie  | *  | *  | #  | #  |
-| 54.  | B Ruimtelijke ordening en planologie  | *  | *  | *  | #  |
-| 55.  | B Scheepsbouwkunde<sup>3</sup>   | *  | nat of nlt  | #  | #  |
-| 56.  | B Stedenbouwkundig Ontwerpen  | *  | *  | *  | *  |
-| 57.  | B Technische bedrijfskunde<sup>3</sup>   | *  | *  | *  | #  |
-| 58.  | B Technische commerciële confectiekunde  | *  | *  | *  | (econ of m&o) + (wisA of wisB)  |
-| 59.  | B Technische commerciële textielkunde  | *  | *  | *  | wisA of wisB  |
-| 60.  | B Technische informatica<sup>3</sup>   | *  | *  | wisB  | wisB  |
-| 61.  | B Technische natuurkunde  | *  | nat of nlt  | #  | #  |
-| 62.  | B Watermanagement  | *  | *  | *  | #  |
-| 63.  | B Werktuigbouwkunde<sup>3</sup>   | *  | nat of nlt  | #  | #  |
+| 1.  | B Applied science  | *  | *  | #  | #  |
+| 2.  | B Archeologie  | *  | *  | *  | *  |
+| 3.  | B Automotive  | *  | nat of nlt  | #  | #  |
+| 4.  | B Aviation  | *  | *  | *  | #  |
+| 5.  | B Bio-informatica  | *  | *  | *  | wisA of  wisB of nat  |
+| 6.  | B Biologie en Medisch Laboratoriumonderzoek<sup>3</sup>   | *  | *  | #  | #  |
+| 7.  | B Biotechnologie  | *  | *  | #  | #  |
+| 8.  | B Bouwkunde<sup>3</sup>   | *  | *  | *  | #  |
+| 9.  | B Built environment  | *  | *  | *  | #  |
+| 10.  | B Chemie  | *  | *  | #  | #  |
+| 11.  | B Chemische Technologie<sup>3</sup>   | *  | *  | #  | #  |
+| 12.  | B Civiele Techniek<sup>3</sup>   | *  | nat of nlt  | #  | #  |
+| 13.  | B Communication and Multimedia Design  | *  | *  | *  | wisA of wisB  |
+| 14.  | B Creative Media and Game Technologies  | *  | *  | *  | *  |
+| 15.  | B Elektrotechniek  | *  | nat of nlt  | #  | #  |
+| 16.  | B Engineering  | *  | *  | *  | #  |
+| 17.  | B Fashion and Textile Technologies  | *  | *  | *  | wisA a of wisB  |
+| 18.  | B Forensisch Onderzoek  | *  | nat of nlt  | #  | #  |
+| 19.  | B HBO-ICT  | *  | *  | *  | *  |
+| 20.  | B Industrieel Product Ontwerpen  | *  | *  | *  | wisA of wisB  |
+| 21.  | B Informatica<sup>3</sup>   | *  | *  | *  | *  |
+| 22.  | B Logitics Engineering  | *  | *  | *  | #  |
+| 23.  | B Luchtvaarttechnologie  | *  | nat of nlt  | #  | #  |
+| 24.  | B Maritiem Officier<sup>1</sup>   | *  | nat of nlt  | #  | #  |
+| 25.  | Maritieme Techniek<sup>3</sup>   | *  | nat of nlt  | #  | #  |
+| 26.  | B Mechatronica  | *  | nat of nlt  | #  | #  |
+| 27.  | B Mens en Techniek  | *  | *  | *  | wisA of wisB  |
+| 28.  | B Milieukunde<sup>3</sup>   | *  | *  | schk  | #  |
+| 29.  | B Ocean Technology  | *  | nat of nlt  | #  | #  |
+| 30.  | B. Ruimtelijke Ontwikkeling  | *  | *  | *  | *  |
+| 31.  | B Technische Bedrijfskunde<sup>3</sup>   | *  | *  | *  | WisA of wisB  |
+| 32.  | B Technische Informatica<sup>3</sup>   | *  | *  | wisB  | wisB  |
+| 33.  | B Technische Natuurkunde  | *  | nat of nlt  | #  | #  |
+| 34.  | Toegepaste Wiskunde  | *  | *  | wisB  | wisB  |
+| 35.  | B Watermanagement  | *  | *  | *  | #  |
+| 36.  | B Werktuigbouwkunde<sup>3</sup>   | *  | nat of nlt  | #  | #  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  Sectoroverstijgend (instroom met havo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Delta Management  | *  | *  | *  | #  |
-| 2.  | B HBO-ICT  | *  | *  | *  | *  |
-| 3.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
+| 1.  | B HBO-ICT  | *  | *  | *  | *  |
+| 2.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
+| 3.  | B Politics, Psychology, Law and economics  | *  | *  | *  | *  |
 
 ### 2  
 
 ####Instroom met VWO diploma
 
-Economie (instroom met vwo-diploma) 
+*Economie (instroom met vwo-diploma)*   
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Accountancy<sup>3</sup>   | *  | *  | *  | *  |
+| 1.  | B Accountancy<sup>3</sup>   | *  | --- | *  | *  |
 | 2.  | B Advanced Business Creation  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
 | 3.  | B Bedrijfseconomie<sup>3</sup>   | *  | *  | *  | *  |
 | 4.  | B Bestuurskunde/overheids-management  | econ  | econ  | *  | econ  |
 | 5.  | B Bedrijfskunde MER<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of maw of m&o  |
 | 6.  | B Business Administration in Hotel Management<sup>1</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
 | 7.  | B Business IT & Management<sup>3</sup>   | *  | *  | *  | *  |
-| 8.  | B Business studies  | econ of m&o  | econ of m&o  | *  | (econ of m&o)  |
+| 8.  | B Business Studies  | econ of m&o  | econ of m&o  | *  | (econ of m&o)  |
 | 9.  | B Commercieel Management<sup>3</sup>   | *  | *  | *  | econ of m&o  |
-| 10.  | B Commerciële economie<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 10.  | B Commerciële Economie<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
 | 11.  | B Communicatie<sup>3</sup>   | *  | *  | *  | *  |
 | 12.  | B Communicatiesystemen  | *  | *  | *  | *  |
 | 13.  | B European Studies  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 14.  | B Facility management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 15.  | B Financial services management  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 14.  | B Facility Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 15.  | B Financial Services management  | *  | *  | *  | *  |
 | 16.  | B Fiscaal Recht en Economie  | *  | *  | *  | *  |
 | 17.  | B Food and business  | *  | *  | *  | *  |
 | 18.  | B Functiegerichte Bachelor in toerisme en recreatie<sup>3</sup>   | *  | *  | *  | econ of m&o  |
 | 19.  | B Hbo-rechten  | *  | *  | *  | *  |
-| 20.  | B Hogere Juridische opleiding  | *  | *  | *  | *  |
+| 20.  | B Hogere Juridische Opleiding  | *  | *  | *  | *  |
 | 21.  | B Hoger Hotelonderwijs<sup>1,3</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 22.  | B Hoger toeristisch en recreatief onderwijs<sup>3</sup>   | *  | *  | *  | econ of m&o  |
+| 22.  | B Hoger Toeristisch en Recreatief Onderwijs<sup>3</sup>   | *  | *  | *  | econ of m&o  |
 | 23.  | B Informatiedienstverlening en -  Management<sup>3</sup>   | *  | *  | *  | *  |
 | 24.  | B Informationmanagement  | *  | *  | *  | *  |
-| 25.  | B Integrale veiligheid  | *  | *  | *  | *  |
-| 26.  | B Integrale veiligheidskunde  | econ  | econ  | *  | econ  |
+| 25.  | B Integrale Veiligheid  | *  | *  | *  | *  |
+| 26.  | B Integrale Veiligheidskunde  | econ  | econ  | *  | econ  |
 | 27.  | B International Business  | *  | *  | *  | econ of m&o of wisA  |
-| 28.  | B International business and  Languages  | econ of m&o  | econ of m&o  | *  | *  |
-| 29.  | B International business and  Managementstudies  | econ of m&o of  2<sup>e</sup>mvt  | econ of m&o of  2<sup>e</sup>mvt  | *  | *  |
-| 30.  | B International Fresh Business Management  | econ of m&o  | econ of m&o  | *  | (econ of m&o)  |
-| 31.  | B Journalistiek  | *  | *  | *  | *  |
-| 32.  | B Kunst en economie  | *  | *  | *  | *  |
-| 33.  | B Lifestyle  | *  | *  | *  | *  |
-| 34.  | B Logistiek en economie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 35.  | B Media and entertainment management  | *  | *  | *  | *  |
-| 36.  | B Media, informatie en communicatie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 37.  | B Toegepaste Bedrijfskunde  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 38.  | B Oriëntaalse talen en communicatie  | *  | *  | *  | *  |
-| 39.  | B People and Business Management  | *  | *  | *  | *  |
-| 40.  | B Security Management  | *  | *  | *  | *  |
-| 41.  | B Small business & retail management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 42.  | B Sport, management en ondernemen<sup>1</sup>   | *  | *  | *  | *  |
-| 43.  | B Trade management Azië  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
-| 44.  | B Vastgoed en makelaardij  | *  | *  | *  | econ of m&o  |
-| 45.  | B Vertaalacademie<sup>5</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
-| 46.  | B Vitaliteitsmanagement & Toerisme<sup>3</sup>   | *  | *  | *  | *  |
-| 47.  | B Vrijetijdsmanagement<sup>3</sup>   | *  | *  | *  | econ of m&o  |
+| 28.  | B International Business and  Languages  | econ of m&o  | econ of m&o  | *  | *  |
+| 29.  | B International Business and  Managementstudies  | econ of m&o of  2<sup>e</sup>mvt  | econ of m&o of  2<sup>e</sup>mvt  | *  | *  |
+| 30.  | B. International Business Innovation Studies  | *  | *  | *  | *  |
+| 31.  | B International Fresh Business Management  | econ of m&o  | econ of m&o  | *  | (econ of m&o)  |
+| 32.  | B Journalistiek  | *  | *  | *  | *  |
+| 33.  | B Kunst en Economie  | *  | *  | *  | *  |
+| 34.  | B Lifestyle  | *  | *  | *  | *  |
+| 35.  | B Logistiek en Economie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 36.  | B Media and Entertainment management  | *  | *  | *  | *  |
+| 37.  | B Media, informatie en communicatie  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 38.  | B Mens en Techniek  | *  | *  | *  | *  |
+| 39.  | B Toegepaste Bedrijfskunde  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
+| 40.  | B Oriëntaalse Talen en Communicatie  | *  | *  | *  | *  |
+| 41.  | B People and Business Management  | *  | *  | *  | *  |
+| 42.  | B Security Management  | *  | *  | *  | *  |
+| 43.  | B Small Business & Retail Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 44.  | B Sport, Management en Ondernemen<sup>1</sup>   | *  | *  | *  | *  |
+| 45.  | B Trade Management Azië  | econ of m&o  | econ of m&o  | *  | econ of m&o  |
+| 46.  | B Vastgoed en Makelaardij  | *  | *  | *  | econ of m&o  |
+| 47.  | B Vertaalacademie<sup>5</sup>   | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | 2<sup>e</sup>mvt  | *  |
+| 48.  | B Vitaliteitsmanagement & Toerisme<sup>3</sup>   | *  | *  | *  | *  |
+| 49.  | B Vrijetijdsmanagement<sup>3</sup>   | *  | *  | *  | econ of m&o  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden.  <sup>5</sup> Frans of Duits verplicht indien deze taal wordt gekozen. Gedrag en maatschappij (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
 | 1.  | B Creatieve therapie<sup>1</sup>   | *  | *  | *  | *  |
-| 2.  | B Culturele en maatschappelijke vorming  | *  | *  | *  | *  |
-| 3.  | B Godsdienst-pastoraal werk  | *  | *  | *  | *  |
+| 2.  | B Culturele en Maatschappelijke Vorming  | *  | *  | *  | *  |
+| 3.  | B Godsdienst-pastoraal Werk  | *  | *  | *  | *  |
 | 4.  | B Human Resource Management<sup>3</sup>   | *  | *  | *  | *  |
-| 5.  | B Integrale veiligheidskunde  | econ  | econ  | *  | econ  |
-| 6.  | B Maatschappelijke werk en dienstverlening  | *  | *  | *  | *  |
+| 5.  | B Integrale Veiligheidskunde  | econ  | econ  | *  | econ  |
+| 6.  | B Maatschappelijke Werk en Dienstverlening  | *  | *  | *  | *  |
 | 7.  | B Pedagogiek<sup>3</sup>   | *  | *  | *  | *  |
 | 8.  | B Pedagogisch Management Kinderopvang  | *  | *  | *  | *  |
-| 9.  | B Sociaal-juridische dienstverlening<sup>3</sup>   | *  | *  | *  | *  |
-| 10.  | B Sociaal pedagogische hulpverlening  | *  | *  | *  | *  |
+| 9.  | B Sociaal-juridische Dienstverlening<sup>3</sup>   | *  | *  | *  | *  |
+| 10.  | B Sociaal Pedagogische Hulpverlening  | *  | *  | *  | *  |
 | 11.  | B Social work  | *  | *  | *  | *  |
-| 12.  | B Sport en bewegen<sup>1</sup>   | *  | *  | *  | *  |
-| 13.  | B Sport en bewegingseducatie  | *  | *  | *  | *  |
-| 14.  | B Toegepaste psychologie  | *  | *  | *  | *  |
+| 12.  | B Sport en Bewegen<sup>1</sup>   | *  | *  | *  | *  |
+| 13.  | B Sport en Bewegingseducatie  | *  | *  | *  | *  |
+| 14.  | B Toegepaste Psychologie  | *  | *  | *  | *  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Gezondheidszorg (instroom met vwo-diploma) 
 
@@ -1180,10 +1162,10 @@ Economie (instroom met vwo-diploma)
 | 2.  | B Farmakunde  | *  | *  | *  | *  |
 | 3.  | B Fysiotherapeut, opleiding tot  | *  | *  | *  | *  |
 | 4.  | B Huidtherapie  | *  | *  | *  | *  |
-| 5.  | B Kunstzinnige therapie  | *  | *  | *  | *  |
+| 5.  | B Kunstzinnige Therapie  | *  | *  | *  | *  |
 | 6.  | B Logopedie, opleiding voor<sup>1</sup>   | *  | *  | *  | *  |
-| 7.  | B Management in de zorg<sup>1,3</sup>   | *  | *  | *  | *  |
-| 8.  | B Medisch beeldvormende en radio-  therapeutische technieken  | *  | *  | *  | *  |
+| 7.  | B Management in de zorg <sup>1,3</sup>   | *  | *  | *  | *  |
+| 8.  | B Medisch Beeldvormende en Radio-  therapeutische Technieken  | *  | *  | *  | *  |
 | 9.  | B Medische Hulpverlening  | *  | *  | *  | *  |
 | 10.  | B Mondzorgkunde  | *  | *  | *  | *  |
 | 11.  | B Oefentherapie Cesar  | *  | *  | *  | *  |
@@ -1192,24 +1174,24 @@ Economie (instroom met vwo-diploma)
 | 14.  | B Orthoptie  | *  | *  | *  | *  |
 | 15.  | B Podotherapie, opleiding  | *  | *  | *  | *  |
 | 16.  | B Psychomotorische Therapie en Bewegingsagogie<sup>1</sup>   | *  | *  | *  | *  |
-| 17.  | B Sport, gezondheid en management<sup>3</sup>   | *  | *  | *  | *  |
-| 18.  | B Toegepaste gerontologie  | *  | *  | *  | *  |
+| 17.  | B Sport, Gezondheid en Management<sup>3</sup>   | *  | *  | *  | *  |
+| 18.  | B Toegepaste Gerontologie  | *  | *  | *  | *  |
 | 19.  | B Verloskunde<sup>1</sup>   | biol  | *  | biol + schk  | biol + schk  |
 | 20.  | B Verpleegkundige, opleiding tot  | *  | *  | *  | *  |
-| 21.  | B Voeding en diëtetiek  | *  | *  | *  | *  |
+| 21.  | B Voeding en Diëtetiek  | *  | *  | *  | *  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex art 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Landbouw en natuurlijke omgeving (instroom met vwo-diploma) 
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Bedrijfskunde en agribusiness<sup>3</sup>   | *  | *  | *  | *  |
+| 1.  | B Bedrijfskunde en Agribusiness<sup>3</sup>   | *  | *  | *  | *  |
 | 2.  | B Biotechnologie  | *  | *  | #  | #  |
 | 3.  | B Bos- en natuurbeheer  | *  | *  | *  | *  |
 | 4.  | B Dier- en veehouderij<sup>3</sup>   | *  | *  | schk  | #  |
 | 5.  | B Diermanagement  | *  | *  | biol  | #  |
-| 6.  | B Educatie en kennismanagement groene sector<sup>2,3</sup>   | *  | *  | *  | *  |
+| 6.  | B Educatie en Kennismanagement groene sector <sup>2,3</sup>   | *  | *  | *  | *  |
 | 7.  | B Food Commerce and Technology  | *  | *  | wisA of wisB  | wisA of wisB  |
-| 8.  | B Food design and Innovation  | *  | *  | *  | *  |
+| 8.  | B Food Design and Innovation  | *  | *  | *  | *  |
 | 9.  | B Geo Media & Design  | *  | *  | *  | *  |
 | 10.  | B Greenport Business & Retail  | *  | *  | *  | wisA of wisB  |
 | 11.  | B Kust- en zeemanagement  | *  | *  | *  | wisA of wisB  |
@@ -1218,8 +1200,8 @@ Economie (instroom met vwo-diploma)
 | 14.  | B Milieukunde<sup>3</sup>   | *  | *  | schk of nlt  | #  |
 | 15.  | B Plattelandsvernieuwing  | *  | *  | *  | *  |
 | 16.  | B Toegepaste Biologie  | *  | *  | schk  | #  |
-| 17.  | B International Development Management  | *  | *  | *  | wis A of B en econ  |
-| 18.  | B Tuinbouw en akkerbouw<sup>3</sup>   | *  | *  | schk of nlt  | #  |
+| 17.  | B International Development Management  | *  | *  | *  | wisA of wiskB en econ  |
+| 18.  | B Tuinbouw en Akkerbouw<sup>3</sup>   | *  | *  | schk of nlt  | #  |
 | 19.  | B Tuin- en landschapsinrichting<sup>3</sup>   | *  | *  | *  | *  |
 | 20.  | B Voedingsmiddelentechnologie  | *  | *  | wisA + schk  | #  |
 | 21.  | B Watermanagement  | *  | *  | *  | #  |
@@ -1245,22 +1227,22 @@ Economie (instroom met vwo-diploma)
 | 15.  | B Frans<sup>2</sup>   | *  | *  | *  | *  |
 | 16.  | B Fries<sup>2</sup>   | *  | *  | *  | *  |
 | 17.  | B Geschiedenis<sup>2</sup>   | *  | *  | *  | *  |
-| 18.  | B Gezondheidszorg en welzijn<sup>2,3</sup>   | *  | *  | *  | *  |
+| 18.  | B Gezondheidszorg en Welzijn<sup>2,3</sup>   | *  | *  | *  | *  |
 | 19.  | B Godsdienst<sup>2</sup>   | *  | *  | *  | *  |
-| 20.  | B Informatie en communicatietechnologie, docent<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
+| 20.  | B Informatie en Communicatietechnologie, docent<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 21.  | B Installatietechniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 22.  | B Islam-godsdienst<sup>2</sup>   | *  | *  | *  | *  |
-| 23.  | B Lichamelijke opvoeding<sup>1</sup>   | *  | *  | *  | *  |
+| 23.  | B Lichamelijke Opvoeding<sup>1</sup>   | *  | *  | *  | *  |
 | 24.  | B Maatschappijleer<sup>2</sup>   | *  | *  | *  | *  |
-| 25.  | B Mechanische techniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
-| 26.  | B Mens en maatschappij<sup>2</sup> <sup>,3</sup>   | *  | *  | *  | *  |
+| 25.  | B Mechanische Techniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
+| 26.  | B Mens en Maatschappij<sup>2,3</sup>   | *  | *  | *  | *  |
 | 27.  | B Mens en Technologie<sup>2</sup>   | *  | *  | *  | wisA of wisB  |
 | 28.  | B Motorvoertuigentechniek I en II<sup>2,3</sup>   | *  | *  | *  | wisA of wisB  |
 | 29.  | B Muziek, docent<sup>1</sup>   | *  | *  | *  | *  |
 | 30.  | B Natuurkunde<sup>2</sup>   | *  | nat of nlt  | nat of nlt  | #  |
 | 31.  | B Nederlands<sup>2</sup>   | *  | *  | *  | *  |
 | 32.  | B Omgangskunde<sup>2,3</sup>   | *  | *  | *  | *  |
-| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal (NGT)/ Bacheloropleiding tot Tolk NGT<sup>1,2,3</sup>   | *  | *  | *  | *  |
+| 33.  | B Opleiding tot Leraar Nederlandse Gebarentaal (NGT)/ Bacheloropleiding tot Tolk NGT <sup>1,2,3</sup>   | *  | *  | *  | *  |
 | 34.  | B Opleidingskunde  | *  | *  | *  | *  |
 | 35.  | B Pedagogiek<sup>2</sup>   | *  | *  | *  | *  |
 | 36.  | B Scheikunde<sup>2</sup>   | *  | *  | schk of nlt  | #  |
@@ -1277,14 +1259,14 @@ Economie (instroom met vwo-diploma)
 
 | nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Autonome beeldende kunst<sup>1</sup>   | *  | *  | *  | *  |
-| 2.  | B Beeldende kunst en vormgeving<sup>1</sup>   | *  | *  | *  | *  |
+| 1.  | B Autonome Beeldende Kunst<sup>1</sup>   | *  | *  | *  | *  |
+| 2.  | B Beeldende Kunst en Vormgeving<sup>1</sup>   | *  | *  | *  | *  |
 | 3.  | B Circus and Performance Art<sup>1</sup>   | *  | *  | *  | *  |
 | 4.  | B Circus Arts<sup>1</sup>   | *  | *  | *  | *  |
 | 5.  | B Cultureel Erfgoed  | *  | *  | *  | *  |
-| 6.  | B Dans<sup>1</sup> <sup>,3</sup>   | *  | *  | *  | *  |
-| 7.  | B Film en televisie<sup>1</sup>   | *  | *  | *  | *  |
-| 8.  | B Muziek<sup>1,3</sup>   | *  | *  | *  | *  |
+| 6.  | B Dans<sup>1,3</sup>   | *  | *  | *  | *  |
+| 7.  | B Film en Televisie<sup>1</sup>   | *  | *  | *  | *  |
+| 8.  | B Muziek <sup>1,3</sup>   | *  | *  | *  | *  |
 | 9.  | B Muziektherapie<sup>1</sup>   | *  | *  | *  | *  |
 | 10.  | B Theater<sup>1</sup>   | *  | *  | *  | *  |
 | 11.  | B Vormgeving<sup>1,3</sup>   | *  | *  | *  | *  |
@@ -1293,83 +1275,53 @@ Economie (instroom met vwo-diploma)
 
 | Nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Advanced Sensor Applications  | *  | wisB  | #  | #  |
-| 2.  | B Applied science  | *  | *  | #  | #  |
-| 3.  | B Aquatische ecotechnologie  | *  | *  | #  | #  |
-| 4.  | B Archeologie  | *  | *  | *  | *  |
-| 5.  | B Autotechniek<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
-| 6.  | B Automotive  | *  | nat of nlt  | nat  | #  |
-| 7.  | B Aviation  | *  | nat of nlt  | nat  | #  |
-| 8.  | B Bedrijfsmanagement mkb  | *  | *  | *  | wisA of wisB  |
-| 9.  | B Bedrijfswiskunde  | *  | *  | *  | wisA of wisB  |
-| 10.  | B Bewegingstechnologie  | *  | *  | *  | *  |
-| 11.  | B Bio-informatica  | *  | *  | *  | wisA of wisB  |
-| 12.  | B Biologie en medisch laboratoriumonderzoek<sup>3</sup>   | *  | *  | #  | #  |
-| 13.  | B Biometrie  | *  | *  | *  | *  |
-| 14.  | B Biotechnologie  | *  | *  | #  | #  |
-| 15.  | B Bouwkunde<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
-| 16.  | B Bouwmanagement en vastgoed  | *  | *  | *  | *  |
-| 17.  | B Bouwtechnische bedrijfskunde<sup>3</sup>   | *  | *  | *  | #  |
-| 18.  | B Built Environment  | *  | nat of nlt  | nat  | #  |
-| 19.  | B Business Management<sup>3</sup>   | econ of m&o  | econ of m&o  | *  | maw, econ of m&o  |
-| 20.  | B Chemie  | *  | *  | #  | #  |
-| 21.  | B Chemische technologie<sup>3</sup>   | *  | *  | #  | #  |
-| 22.  | B Civiele techniek<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
-| 23.  | B Climate & Management  | *  | *  | *  | *  |
-| 24.  | B Communication and multimedia design  | *  | *  | *  | *  |
-| 25.  | B Creative Media and Technologiey  | *  | *  | *  | *  |
-| 26.  | B Elektrotechniek  | *  | nat of nlt  | nat  | #  |
-| 27.  | B Embedded Systems Engineering  | *  | nat of nlt  | #  | #  |
-| 28.  | B Energie- en Procestechnologie (AOT)  | *  | nat of nit  | nat  | #  |
-| 29.  | B Engineering  | *  | *  | *  | #  |
-| 30.  | B Engineering, design and  innovation  | *  | nat of nlt  | nat  | #  |
-| 31.  | B Forensisch onderzoek  | *  | nat of nlt  | #  | #  |
-| 32.  | B Game architecture and design  | *  | *  | *  | *  |
-| 33.  | B Geodesie  | *  | *  | *  | wisA of wisB  |
-| 34.  | B Gezondheidszorgtechnologie  | *  | *  | *  | wisA of wisB  |
-| 35.  | B HBO-ICT  | *  | *  | *  | *  |
-| 36.  | B Human technology  | *  | *  | *  | *  |
-| 37.  | B Industrieel product ontwerpen  | *  | *  | *  | #  |
-| 38.  | B Industriële automatisering  | *  | *  | *  | #  |
-| 39.  | B Informatica<sup>3</sup>   | *  | *  | *  | *  |
-| 40.  | B Information Security Management  | *  | *  | *  | *  |
-| 41.  | B International Maintenance Management  | *  | *  | *  | #  |
-| 42.  | B Kunst en techniek<sup>1</sup>   | *  | *  | *  | *  |
-| 43.  | B Logistiek en technische vervoerskunde  | *  | *  | *  | #  |
-| 44.  | B Luchtvaarttechnologie  | *  | nat of nlt  | nat  | #  |
-| 45.  | B Maritiem officier<sup>1</sup>   | *  | nat of nlt  | nat  | #  |
-| 46.  | B Mechatronica  | *  | nat of nlt  | nat  | #  |
-| 47.  | B Mediatechnologie  | *  | *  | *  | *  |
-| 48.  | B Milieugerichte materiaaltechnologie  | *  | *  | wib + (schk of nat)  | wib + (schk of nat)  |
-| 49.  | B Milieukunde<sup>3</sup>   | *  | *  | schk  | #  |
-| 50.  | B Mobiliteit  | *  | *  | *  | #  |
-| 51.  | B Netwerk infrastructuur design  | *  | *  | *  | wisA of wisB  |
-| 52.  | B Ocean Technology  | *  | nat of nlt  | nat  | #  |
-| 53.  | B Orthopedische technologie  | *  | *  | nat of nlt  | #  |
-| 54.  | B Ruimtelijke ordening en planologie  | *  | *  | *  | #  |
-| 55.  | B Scheepsbouwkunde<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
-| 56.  | B Stedenbouwkundig Ontwerpen  | *  | *  | *  | *  |
-| 57.  | B Technische bedrijfskunde<sup>3</sup>   | *  | *  | *  | #  |
-| 58.  | B Technische commerciële confectiekunde  | *  | *  | *  | *  |
-| 59.  | B Technische commerciële textielkunde  | *  | *  | *  | *  |
-| 60.  | B Technische informatica<sup>3</sup>   | *  | *  | *  | *  |
-| 61.  | B Technische natuurkunde  | *  | nat of nlt  | nat  | #  |
-| 62.  | B Watermanagement  | *  | *  | *  | #  |
-| 63.  | B Werktuigbouwkunde<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
+| 1.  | B Applied Science  | *  | *  | #  | #  |
+| 2.  | B Archeologie  | *  | *  | *  | *  |
+| 3.  | B Automotive  | *  | nat of nlt  | nat  | #  |
+| 4.  | B Aviation  | *  | *  | *  | #  |
+| 5.  | B Bio-informatica  | *  | *  | *  | wisA of wisB  |
+| 6.  | B Biologie en Medisch Laboratoriumonderzoek<sup>3</sup>   | *  | *  | #  | #  |
+| 7.  | B Biotechnologie  | *  | *  | #  | #  |
+| 8.  | B Bouwkunde<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
+| 9.  | B Built Environment  | *  | *  | *  | WisA of wisB  |
+| 10.  | B Chemie  | *  | *  | #  | #  |
+| 11.  | B Chemische Technologie<sup>3</sup>   | *  | *  | #  | #  |
+| 12.  | B Civiele techniek<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
+| 13.  | B Communication and Multimedia design  | *  | *  | *  | *  |
+| 14.  | B Creative Media and Game Technologies  | *  | *  | *  | *  |
+| 15.  | B Elektrotechniek  | *  | nat of nlt  | nat  | #  |
+| 16.  | B Engineering  | *  | *  | *  | #  |
+| 17.  | B Fashion and Textile technologies  | *  | *  | *  | *  |
+| 18.  | B Forensisch Onderzoek  | *  | nat of nlt  | #  | #  |
+| 19.  | HBO-ICT  | *  | *  | *  | *  |
+| 20.  | B Industrieel Product Ontwerpen  | *  | *  | *  | *  |
+| 21.  | B Informatica<sup>3</sup>   | *  | *  | *  | *  |
+| 22.  | B Logitics Engineering  | *  | *  | *  | #  |
+| 23.  | B Luchtvaarttechnologie  | *  | nat of nlt  | nat  | #  |
+| 24.  | B Maritiem Officier<sup>1</sup>   | *  | nat of nlt  | nat  | #  |
+| 25.  | Maritieme Techniek<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
+| 26.  | B Mechatronica  | *  | nat of nlt  | nat  | #  |
+| 27.  | B Mens en Techniek  | *  | *  | *  | *  |
+| 28.  | B Milieukunde<sup>3</sup>   | *  | *  | schk  | #  |
+| 29.  | B Ocean Technology  | *  | nat of nlt  | nat  | #  |
+| 30.  | B. Ruimtelijke Ontwikkeling  | *  | *  | *  | *  |
+| 31.  | B Technische Bedrijfskunde<sup>3</sup>   | *  | *  | *  | wisA of wisB  |
+| 32.  | B Technische Informatica<sup>3</sup>   | *  | *  | *  | *  |
+| 33.  | B Technische Natuurkunde  | *  | nat of nlt  | nat  | #  |
+| 34.  | Toegepaste Wiskunde  | *  | *  | *  | wisA of wiskB  |
+| 35.  | B Watermanagement  | *  | *  | *  | #  |
+| 36.  | B Werktuigbouwkunde<sup>3</sup>   | *  | nat of nlt  | nat  | #  |
 
 <sup>1</sup> Voor deze opleiding gelden aanvullende eisen ex artikel 7.26 dan wel artikel 7.26a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  <sup>3</sup> Aan deze opleiding is bij ten minste één instelling een Ad verbonden. Sectoroverstijgend (instroom met vwo-diploma) 
 
-| nr  | Opleidingen  | NT  | NG  | EM  | CM  |
+| Nr  | Opleidingen  | NT  | NG  | EM  | CM  |
 |:---|:---|:---|:---|:---|:---|
-| 1.  | B Delta Management  | *  | *  | *  | #  |
-| 2.  | B HBO-ICT  | *  | *  | *  | *  |
-| 3.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
+| 1.  | B HBO-ICT  | *  | *  | *  | *  |
+| 2.  | B Windesheim Honours College  | *  | *  | *  | wisA of wisB  |
 
 ### Bijlage  C  
 
 ####Nadere vooropleidingseisen MBO-HBO
-
-Treedt in werking per 01-09-2015 
 
 | MBO-domein  | HBO-sector  |
 |:---|:---|
@@ -1399,18 +1351,18 @@ Treedt in werking per 01-09-2015
 
 | Opleiding  | Aanvullende eisen  |
 |:---|:---|
-| B Bewegingsagogie / Psychomotorische therapie  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts.  |
-| B Creatieve therapie  | Voldoende aanleg en geschiktheid.  |
-| B Kunst en Techniek  | Voldoende aanleg en geschiktheid.  |
+| B Bewegingsagogie / Psychomotorische Therapie  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts.  |
+| B Creative Media and Game Technologies  | Voldoende aanleg en geschiktheid.  |
+| B Creatieve Therapie  | Voldoende aanleg en geschiktheid.  |
 | B Logopedie  | Benodigde stem-, spraak- en gehoorvaardigheden voor de uitoefening van het beroep waarop de opleiding voorbereidt.  |
-| B Management in de zorg  | Kennis of vaardigheden op het gebied van de gezondheidszorg.  |
-| B Maritiem officier  | Bezit van een geneeskundige verklaring, waaruit blijkt dat betrokkene medisch geschikt is voor de uitoefening van het beroep waarop de opleiding voorbereidt.  |
+| B Management in de Zorg  | Kennis of vaardigheden op het gebied van de gezondheidszorg.  |
+| B Maritiem Officier  | Bezit van een geneeskundige verklaring, waaruit blijkt dat betrokkene medisch geschikt is voor de uitoefening van het beroep waarop de opleiding voorbereidt.  |
 | B Opleiding tot leraar Lichamelijke opvoeding in de eerste graad  | Voldoende aanleg en geschiktheid.  |
 | B Opleiding tot Leraar Nederlandse Gebarentaal/ Tolk NGT in de tweede graad  | Benodigde spreekvaardigheid, motoriek en mimiek voor de uitoefening van het beroep waarop de opleiding voorbereidt.  |
-| B Sport en bewegen  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts.  |
+| B Sport en Bewegen  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep waarop de opleiding voorbereidt voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten. Het onderzoek omvat tevens een positieve medische keuring door een arts.  |
 | B Sport, Management en Ondernemen  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep of de beroepen waarop de opleiding voorbereidt, voor wat betreft de ontwikkeling van de vereiste praktische bedrevenheid in bewegingsactiviteiten.  |
 | B Verloskunde  | Voldoende aanleg en geschiktheid voor de uitoefening van het beroep of de beroepen waarop de opleiding voorbereidt, voor wat betreft de benodigde sociaal-communicatieve en reflectieve vaardigheden en een beroepsmatig denkvermogen wat betreft de ontwikkeling van het vereiste verantwoordelijkheidsniveau met betrekking tot de risicoselectie in de Verloskunde.  |
-| B Verpleegkunde in de maatschappelijke gezondheidszorg  | Kennis of vaardigheden op het gebied van de gezondheidszorg.  |
+| B Verpleegkunde in de Maatschappelijke Gezondheidszorg  | Kennis of vaardigheden op het gebied van de gezondheidszorg.  |
 
 Lerarenopleidingen en opleidingen op het gebied van de kunst waarvoor aanvullende eisen gelden 
 
@@ -1418,19 +1370,20 @@ Lerarenopleidingen en opleidingen op het gebied van de kunst waarvoor aanvullend
 |:---|:---|
 |  *Kunstopleidingen *   | --- |
 | B Autonome beeldende kunst  | Artistieke aanleg die blijkt uit:  • beeldend vermogen, werken vanuit waarneming en vanuit fantasie  • gevoel voor kleur, vorm en materiaal  • oorspronkelijkheid en eigenzinnigheid  |
-| B Circus and Performance Arts  | Technische en fysieke vaardigheid blijkend uit:  • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen en zeggingskracht  • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal  • stijlgevoel en presentatie  |
-| B Circus Arts  | Technische en fysieke vaardigheid blijkend uit:  • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen en zeggingskracht  • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal  • stijlgevoel en presentatie  |
-| B Dans  | Technische en fysieke vaardigheid blijkend uit:  • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
-| B Film en Televisie  | Artistieke aanleg die blijkt uit:  • creërend vermogen: ontwikkelbare creatieve, vormgevende en verhalende vaardigheden  • beelden vermogen: artistieke ideeën tot uitdrukking brengen in een audiovisuele vorm  • fascinatie voor het vakgebied: basiskennis van film, televisie en nieuwe media en een brede culturele en maatschappelijke belangstelling  • oorspronkelijkheid, eigenzinnigheid, overtuigingskracht en reflectief vermogen  Vermogen tot samenwerken die blijkt uit:  • persoonlijkheid, werkervaring, toelichting op ingestuurd werk, gesprek of assessment.  |
-| B Muziek  | Technische en fysieke vaardigheid blijkend uit:  • a prima vista spel of zang  • gehoor en vaardigheid in solfège  • het kunnen spelen of zingen van toonladders met verschillende articulaties  • het beheersen van een aangegeven niveau van repertoire  • vocaal spel (stemmiddelen, intonatie, adembeheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure).  • de dispositie om de instrumentele vaardigheden verder te ontwikkelen.  Artistieke aanleg die blijkt uit:  • repertoire interpretatie  • expressiviteit in muzikaal spel  • muzikale persoonlijkheid  • toonvorming, dynamiek en timing  |
+| B Circus and Performance Arts  | Technische en fysieke vaardigheid die blijkt uit:  • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen en zeggingskracht  • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal  • stijlgevoel en presentatie  |
+| B Circus Arts  | Technische en fysieke vaardigheid die blijkt uit:  • basis circustechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen en zeggingskracht  • authenticiteit en originaliteit bij improvisatie en het creëren van circusmateriaal  • stijlgevoel en presentatie  |
+| B Dans  | Technische en fysieke vaardigheid die blijkt uit:  • basis danstechnische vaardigheden en ontwikkelingsmogelijkheden  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
+| B Film en Televisie  | Artistieke aanleg die blijkt uit:  • creërend vermogen: ontwikkelbare creatieve, vormgevende en verhalende vaardigheden  • beelden vermogen: artistieke ideeën tot uitdrukking brengen in een audiovisuele vorm  • fascinatie voor het vakgebied: basiskennis van film, televisie en nieuwe media en een brede culturele en maatschappelijke belangstelling  • oorspronkelijkheid, eigenzinnigheid, overtuigingskracht en reflectief vermogen  Vermogen tot samenwerken dat blijkt uit:  • persoonlijkheid, werkervaring, toelichting op ingestuurd werk, gesprek of assessment.  |
+| B Muziek  | Technische en fysieke vaardigheid die blijkt uit:  • a prima vista spel of zang  • gehoor en vaardigheid in solfège  • het kunnen spelen of zingen van toonladders met verschillende articulaties  • het beheersen van een aangegeven niveau van repertoire  • vocaal spel (stemmiddelen, intonatie, adembeheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure).  • de dispositie om de instrumentele vaardigheden verder te ontwikkelen.  Artistieke aanleg die blijkt uit:  • repertoire interpretatie  • expressiviteit in muzikaal spel  • muzikale persoonlijkheid  • toonvorming, dynamiek en timing  |
 | B Muziektherapie  | Technische en fysieke vaardigheid t.a.v. het musiceren die blijkt uit:  • vocale vaardigheid eigen hoofdinstrument of instrumentale vaardigheid eigen hoofdinstrument  • basale vaardigheid op een akkoordinstrument  • a prima vista spel of zang  • gehoor en vaardigheid in solfège  • het kunnen spelen van toonladders op het hoofdinstrument met verschillende articulaties  • het beheersen van een aangegeven niveau van repertoire  • improviseren op instrumenten, het eigen hoofdinstrument of stem met als werkvormen: een buitenmuzikaal gegeven of een ‘muzikaal gesprek’  • criteria vocaal musiceren: stemmiddelen, intonatie, ritmiek, adembeheersing, presentatie, talenkennis en de dispositie om de vocale vaardigheden verder te ontwikkelen  • criteria Instrumentaal spel: houding, adembeheersing, toonvorming, embouchure, intonatie, articulatie, dynamiek, frasering, ritmiek en de dispositie om de instrumentale vaardigheden verder te ontwikkelen.  Artistieke aanleg die blijkt uit:  • repertoire interpretatie  • expressiviteit in zang en instrumentaal spel  • toonvorming, dynamiek en timing  |
-| B Theater  | Technische en fysieke vaardigheid blijkend uit:  • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen, transformeren en samenspel  • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage  • klank- en tekstgevoeligheid, muzikaliteit  • originaliteit bij improvisatie en presentatie  |
+| B Popular Culture  | • De dispositie (aanleg, gave, talent) om de artistieke vaardigheden (instrumentele vaardigheden en/of beeldend vermogen en/of performance) verder te ontwikkelen  Artistieke aanleg die blijkt uit:  • expressiviteit in muzikaal spel, muzikale persoonlijkheid  • en/of gevoel voor kleur, vorm en materiaal (beeldend vermogen)  • oorspronkelijkheid en eigenzinnigheid  Vermogen tot samenwerken dat blijkt uit:  • persoonlijkheid, (werk)ervaring met werken met of voor publiek of in een team, toelichting op ingestuurd werk, gesprek of assessment.  • fascinatie voor het vakgebied: heeft basiskennis van muziek en/of vormgeving, en/of media en/of theater en een brede belangstelling voor actuele ontwikkelingen in de popcultuur en maatschappij.  • brengt artistieke visie en ideeën tot uitdrukking in een performance, muzikale en/of audiovisuele vorm  • oorspronkelijkheid, eigenzinnigheid, overtuigingskracht en reflectief vermogen  |
+| B Theater  | Technische en fysieke vaardigheid die blijkt uit:  • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen, transformeren en samenspel  • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage  • klank- en tekstgevoeligheid, muzikaliteit  • originaliteit bij improvisatie en presentatie  |
 | B Vormgeving  | Artistieke aanleg die blijkt uit:  • beeldend vermogen, werken vanuit waarneming en vanuit fantasie  • gevoel voor kleur, vorm en materiaal  • oorspronkelijkheid en eigenzinnigheid  |
 |  *Lerarenopleidingen *   | --- |
 | B Beeldende kunst en vormgeving, docent  | Artistieke aanleg die blijkt uit:  • beeldend vermogen, werken vanuit waarneming en vanuit fantasie  • gevoel voor kleur, vorm, materiaal  • oorspronkelijkheid en eigenzinnigheid  |
-| B Dans, docent  | Technische en fysieke vaardigheid blijkend uit:  • basis danstechnische vaardigheden en  • ontwikkelingsmogelijkheden;  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
-| B Muziek, docent  | Technische en fysieke vaardigheid blijkend uit:  • a prima vista spel of zang  • gehoor en vaardigheid in solfège  • het kunnen spelen of zingen van toonladders met verschillende articulaties  • het beheersen van een aangegeven niveau van repertoire  • vocaal spel (stemmiddelen, intonatie, adem-beheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel  (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure).  • de dispositie om de instrumentele vaardigheden verder te ontwikkelen  Artistieke aanleg die blijkt uit:  • repertoire interpretatie  • expressiviteit in muzikaal spel  • muzikale persoonlijkheid  • toonvorming, dynamiek en timing  |
-| B Theater, docent  | Technische en fysieke vaardigheid blijkend uit:  • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen, transformeren en samenspel  • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage  • klank- en tekstgevoeligheid, muzikaliteit  • originaliteit bij improvisatie  • presentatie  |
+| B Dans, docent  | Technische en fysieke vaardigheid die blijkt uit:  • basis danstechnische vaardigheden en  • ontwikkelingsmogelijkheden;  • fysieke mogelijkheden en aanleg  • natuurlijke bewegingscoördinatie  Artistieke aanleg die blijkt uit:  • zeggingskracht als danser  • creativiteit bij improvisatie  • originaliteit bij het creëren van bewegingsmateriaal  • stijlgevoel en presentatie  |
+| B Muziek, docent  | Technische en fysieke vaardigheid die blijkt uit:  • a prima vista spel of zang  • gehoor en vaardigheid in solfège  • het kunnen spelen of zingen van toonladders met verschillende articulaties  • het beheersen van een aangegeven niveau van repertoire  • vocaal spel (stemmiddelen, intonatie, adem-beheersing, presentatie, talenkennis en ritmiek) of instrumentaal spel  (houding, toonvorming, intonatie, adembeheersing, articulatie, dynamiek, frasering, ritmiek en embouchure).  • de dispositie om de instrumentele vaardigheden verder te ontwikkelen  Artistieke aanleg die blijkt uit:  • repertoire interpretatie  • expressiviteit in muzikaal spel  • muzikale persoonlijkheid  • toonvorming, dynamiek en timing  |
+| B Theater, docent  | Technische en fysieke vaardigheid die blijkt uit:  • dramatische technieken, onderverdeeld in ritme, klank, detail, articulatie, coördinatie, beweging, vermogen tot transformeren en schakelen  • vermogen tot concentratie, inleving, gevoelsuiting en observatie.  Artistieke aanleg die blijkt uit:  • creativiteit, inlevingsvermogen, transformeren en samenspel  • zelfacceptatie en authenticiteit, verbeelding en fantasie, verbeelde werkelijkheid en geloofwaardig personage  • klank- en tekstgevoeligheid, muzikaliteit  • originaliteit bij improvisatie  • presentatie  |
 
 ### Bijlage  E 
 
@@ -1444,8 +1397,6 @@ Lerarenopleidingen en opleidingen op het gebied van de kunst waarvoor aanvullend
 ### Bijlage  F  
 
 ####Bijzondere nadere vooropleidingseisen opleiding tot leraar basisonderwijs; vereiste kennisniveaus
-
-Treedt in werking per 01-09-2015 
 
 ### I  
 
