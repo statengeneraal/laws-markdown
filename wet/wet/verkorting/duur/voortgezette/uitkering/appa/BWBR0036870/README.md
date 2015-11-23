@@ -10,17 +10,17 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de duur van de voort
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Deze wet wordt aangehaald als: Wet verkorting duur voortgezette uitkering Appa. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 

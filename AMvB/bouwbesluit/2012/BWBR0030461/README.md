@@ -54,7 +54,11 @@ Hebben goedgevonden en verstaan:
 
 * *bezwijken:* * het overschrijden van een uiterste grenstoestand;  
 
+*bijna energieneutraal gebouw:* gebouw met een zeer hoge energieprestatie, waarbij de dicht bij nul liggende of zeer lage hoeveelheid energie die is vereist in zeer aanzienlijke mate wordt geleverd uit hernieuwbare bronnen die deels ter plaatse of dichtbij wordt geproduceerd; 
+
 * *bouwconstructie:* * onderdeel van een bouwwerk dat bestemd is om belasting te dragen;  
+
+*bouwschil:* de geïntegreerde onderdelen die de binnenruimte van een gebouw scheiden van de buitenwereld; 
 
 * *brandcompartiment:* * gedeelte van een of meer bouwwerken bestemd als maximaal uitbreidingsgebied van brand;  
 
@@ -135,6 +139,8 @@ Hebben goedgevonden en verstaan:
 * *nooddeur:* * deur die uitsluitend is bestemd om te vluchten;  
 
 * *NVN:* * door de Stichting Nederlands Normalisatie-instituut uitgegeven voornorm;  
+
+*onderdeel van een gebouw:* technisch bouwsysteem of een onderdeel van de bouwschil; 
 
 * *open erf:* * onbebouwd deel van een erf;  
 
@@ -284,6 +290,10 @@ b. voor een bouwwerk waarvan de hoofdtoegang niet direct aan de weg grenst de ho
 
 * *woonfunctie voor kamergewijze verhuur:* * niet-gemeenschappelijk deel van een woonfunctie waarin zich vijf of meer wooneenheden bevinden;  
 
+*woonfunctie voor particulier eigendom:* woonfunctie die wordt gebouwd in particulier opdrachtgeverschap als bedoeld in artikel 1.1.1 van het Besluit ruimtelijke ordening of die wordt bewoond door de eigenaar;  
+
+*woonfunctie voor studenten:* woonfunctie voor bewoners die zijn ingeschreven aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs of aan een universiteit of hogeschool als bedoeld in artikel 1.2, onderdelen a en b, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek; 
+
 * *woonfunctie voor zorg:* * woonfunctie waarbij aan de bewoners professionele zorg wordt verleend met een vanuit het zorgaanbod georganiseerde koppeling tussen wonen en zorg in een daarvoor bestemde en uitgeruste woonfunctie;  
 
 * *woongebouw:* * gebouw of gedeelte daarvan met uitsluitend woonfuncties of nevenfuncties daarvan, waarin meer dan een woonfunctie ligt die is aangewezen op een gemeenschappelijke verkeersroute;  
@@ -392,7 +402,8 @@ Het is verboden een bouwproduct in de handel te brengen waarvoor overeenkomstig 
 
 ####Verordening bouwproducten
 
-Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de implementatie van de verordening bouwproducten. 
+1.  Handelen in strijd met de verplichtingen die voortvloeien uit de verordening bouwproducten is verboden. 
+2. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de implementatie van de verordening bouwproducten. 
 
 ### Artikel  1.11  
 
@@ -416,8 +427,6 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven over de im
 ### Artikel  1.12a  
 
 ####Uitzonderingen woonfunctie voor particulier eigendom
-
-Treedt in werking per 01-07-2015 
 
 Op het bouwen van een woonfunctie voor particulier eigendom zijn de afdelingen 4.3, 4.4, 4.5 en 4.6, en onverminderd het bepaalde in artikel 9.2, 10e lid, artikel 6.10 niet van toepassing. Wat betreft de afdelingen 2.3, 2.4, 2.5, 2.6, 3.11, 4.1, 4.2 en 4.7 zijn de voorschriften voor een bestaand bouwwerk van toepassing. 
 
@@ -666,7 +675,7 @@ g. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisa
 
 h. indien bij het uitvoeren van de sloopwerkzaamheden steenachtig afval zal vrijkomen dat ter plaatse zal worden gebroken, de hoeveelheid, de naam en het adres van de eigenaar van het recyclinggranulaat.    
 7.  In afwijking van het zesde lid worden de gegevens, bedoeld in onderdeel b van dat lid, ten minste twee werkdagen voor de feitelijke aanvang van het uitvoeren van de sloopwerkzaamheden aan het bevoegd gezag verstrekt.   
-8.  Indien tijdens het slopen asbest wordt ontdekt dat niet is opgenomen in het asbestinventarisatierapport als bedoeld in het zesde lid, onder i, wordt het bevoegd gezag daarvan onmiddellijk in kennis gesteld.   
+8.  Indien tijdens het slopen asbest wordt ontdekt dat niet is opgenomen in het asbestinventarisatierapport als bedoeld in het zesde lid, onder g, wordt het bevoegd gezag daarvan onmiddellijk in kennis gesteld.   
 9.  Een sloopmelding kan betrekking hebben op meerdere bouwwerken op hetzelfde terrein of op met elkaar samenhangende terreinen. 
 
 ### Artikel  1.27  
@@ -749,11 +758,11 @@ e. indien op grond van het Asbestverwijderingsbesluit 2005 een asbestinventarisa
 1.  Een te bouwen bouwwerk is voldoende bestand tegen de daarop werkende krachten.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 2.1 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | fundamentele belastingscombinaties  | buitengewone belastingscombinaties  | bepalingsmethode  | verbouw  |--- |--- | artikel  | 2.2   | 2.3   | 2.4   | 2.5   |--- |--- | lid  | *  | 1  | 2  | 1  | 2  | 3  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  |
-| 7  | Logiesfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  |
-| Alle niet hierboven genoemde gebruiksfuncties  | *  | 1  | 2  | 1  | 2  | –  | *  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | fundamentele  belastingscombinaties  | buitengewone  belastingscombinaties  | bepalingsmethode  | verbouw  | tijdelijke bouw  | aardbevingen  |--- |--- | artikel  | 2.2   | 2.3   |--- | 2.4   |--- |--- | 2.5   | 2.5a   | 2.5b   |--- |--- | lid  | *  | 1  | 2  | 1  | 2  | 3  | *  | 1  | 2  | *  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  | *  | *  | *  |
+| 7  | Logiesfunctie  | *  | 1  | 2  | 1  | 2  | 3  | *  | *  | *  | *  |
+| Alle niet hierboven genoemde gebruiksfuncties  | *  | 1  | 2  | 1  | 2  | –  | *  | *  | *  | *  |
 
 ### Artikel  2.2  
 
@@ -798,16 +807,12 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 
 ####Tijdelijke bouw
 
-Treedt in werking per 01-07-2015 
-
 1.  Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 5 jaar als bedoeld in NEN-EN 1990 zijn de artikelen 2.2 en 2.4 van overeenkomstige toepassing.   
 2.  Op het bouwen van een tijdelijk bouwwerk met een ontwerplevensduur van 15 jaar als bedoeld in NEN-EN 1990 zijn de artikelen 2.2 tot en met 2.4 van overeenkomstige toepassing.  
 
 ### Artikel  2.5b  
 
 ####Aardbevingen
-
-Treedt in werking per 01-07-2015 
 
 In aanvulling op het bepaalde in de artikelen 2.2 tot en met 2.5a kunnen met betrekking tot de belastingen op bouwwerken door aardbevingen als gevolg van de gaswinning in de provincie Groningen bij ministeriële regeling nadere voorschriften worden gegeven. 
 
@@ -1199,7 +1204,7 @@ Op het bouwen van een tijdelijk bouwwerk is artikel 2.27 van toepassing.
 ####Voorziening bij hoogteverschil
 
 1.  Een hoogteverschil van meer dan 0,22 m tussen vloeren waarover een vluchtroute voert, of tussen een van die vloeren en het aansluitende terrein, wordt overbrugd door een vaste trap of een vaste hellingbaan.   
-2.  Voor zover de vluchtroute door een wegtunnelbuis voert, geldt in afwijking van het tweede lid een hoogteverschil van meer dan 0,3 m.  
+2.  Voor zover de vluchtroute door een wegtunnelbuis voert, geldt in afwijking van het eerste lid een hoogteverschil van meer dan 0,3 m.  
 
 ### Afdeling  2.5  
 
@@ -1537,31 +1542,31 @@ Een opstelplaats voor een open verbrandingstoestel ligt niet in een toiletruimte
 1.  Een te bouwen bouwwerk is zodanig dat brand en rook zich niet snel kunnen ontwikkelen.   
 2.  Voor zover voor een gebruiksfunctie in tabel 2.66 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 2.66 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  | bovenzijde  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | dakoppervlak  | constructieonderdeel  | verbouw  | tijdelijke bouw  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  |--- |--- | artikel  | 2.67  |--- | 2.68  | 2.69  | 2.70  | 2.71  | 2.72  | 2.73  | 2.74  | 2.67  | 2.68  | 2.69  |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | 1  | 2  | *  | 1  | 2  | *  | 1 en 2  | 1  | 1 en 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  | [brandklasse]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een woongebouw  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | b  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | c  | andere woonfunctie  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | –  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | b  | andere bijeenkomstfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 3  | Celfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | C  | B  | B  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | C<sub>fl</sub>   |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | lichte industriefunctie voor bedrijfsmatig houden van dieren  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | 2  | *  | B  | B  | B  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | b  | andere industriefunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 6  | Kantoorfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 7  | Logiesfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 8  | Onderwijsfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 9  | Sportfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 10  | Winkelfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | 1  | 2  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | tunnel of tunnelvormig bouwwerk voor verkeer  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | 2  | 1  | 2  | *  | 1  | –  | *  | B  | B  | B  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
-| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | 2  | 1  | 2  | *  | 1  | –  | *  | –  | –  | –  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | zijde grenzend aan de  | bovenzijde  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | binnenlucht  | buitenlucht  |--- |--- |--- |--- | binnenoppervlak  | buitenoppervlak  | beloopbaar vlak  | vrijgesteld  | dakoppervlak  | constructieonderdeel  | verbouw  | tijdelijke bouw  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  | extra beschermde vluchtroute  | beschermde vluchtroute  | overig  |--- |--- | artikel  | 2.67   |--- | 2.68   | 2.69   | 2.70   | 2.71   | 2.72   | 2.73   | 2.74   | 2.67   | 2.68   | 2.69   |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | 3  | 1  | 2  | *  | 1  | 2  | *  | 1 en 2  | 1  | 1 en 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [brandklasse]  | [brandklasse]  | [brandklasse]  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een woongebouw  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | b  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | c  | andere woonfunctie  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor kinderopvang voor kinderen jonger dan 4 jaar  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | b  | andere bijeenkomstfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 3  | Celfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | C  | B  | B  | D  | C<sub>fl</sub>   | C<sub>fl</sub>   | C<sub>fl</sub>   |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | lichte industriefunctie voor bedrijfsmatig houden van dieren  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | –  | –  | 1  | –  | *  | 1  | 2  | *  | B  | B  | B  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | b  | andere industriefunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 6  | Kantoorfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 7  | Logiesfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | B  | D  | C  | C  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 8  | Onderwijsfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 9  | Sportfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 10  | Winkelfunctie  | 1  | –  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | –  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 1  | 2  | –  | 1  | 2  | *  | 1  | –  | *  | B  | D  | D  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | tunnel of tunnelvormig bouwwerk voor verkeer  | 1  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | –  | 3  | 1  | 2  | *  | 1  | –  | *  | B  | B  | B  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
+| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | 1  | 2  | –  | 4  | 5  | 1  | 2  | –  | –  | 3  | 1  | 2  | *  | 1  | –  | *  | –  | –  | –  | C  | D  | D  | C<sub>fl</sub>   | D<sub>fl</sub>   | D<sub>fl</sub>   |
 
 ### Artikel  2.67  
 
@@ -1592,7 +1597,8 @@ Een opstelplaats voor een open verbrandingstoestel ligt niet in een toiletruimte
 ####Vrijgesteld
 
 1.  Op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte, waarvoor volgens de artikelen 2.67 tot en met 2.69 een eis geldt, is die eis niet van toepassing.   
-2.  Voor bouwwerken geen gebouw zijnde is op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen, waarvoor volgens de artikelen 2.67 tot en met 2.69 een eis geldt, die eis niet van toepassing.  
+2.  Onverminderd het eerste lid is op ten hoogste 10% van de totale oppervlakte van de constructieonderdelen van elke afzonderlijke ruimte waardoor geen beschermde vluchtroute voert, artikel 2.67 niet van toepassing.  
+3.  Voor bouwwerken geen gebouw zijnde is op ten hoogste 5% van de totale oppervlakte van de constructieonderdelen, waarvoor volgens de artikelen 2.67 tot en met 2.69 een eis geldt, die eis niet van toepassing.  
 
 ### Artikel  2.71  
 
@@ -2659,25 +2665,26 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woongebouw
 2.  Voor zover voor een gebruiksfunctie in tabel 3.15 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 3.15 geen voorschrift is aangewezen.  Tabel 3.15 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ander perceel  | verschillende gebruiksfuncties op hetzelfde perceel  | verblijfsruimten van dezelfde woonfunctie  | verbouw  | tijdelijke bouw  | ander perceel  | verschillende gebruiksfuncties op hetzelfde perceel  |--- |--- | artikel  | 3.16   | 3.17   | 3.17a   | 3.18   | 3.19   | 3.16  | 3.17  |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | *  | *  | 3  | 4  | 3  | 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dB]  | [dB]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| --- | b  | in een woongebouw  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | 6  | 7  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
-| --- | c  | andere woonfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 3  | Celfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 4  | Gezondheidszorgfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | lichte industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| --- | b  | andere industriefunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 7  | Logiesfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | ander perceel  | verschillende gebruiksfuncties op hetzelfde perceel  | verblijfsruimten van dezelfde woonfunctie  | verbouw  | tijdelijke bouw  | ander perceel  | verschillende gebruiksfuncties  op hetzelfde perceel  |--- |--- | artikel  | 3.16   | 3.17   | 3.17a   | 3.18   | 3.19   | 3.16   | 3.17   |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | 3  | *  | *  | 3  | 4  | 3  | 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [dB]  | [dB]  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |  *–*   |  *–*   |  *–*   |  *–*   |
+| --- | b  | in een woongebouw  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | 6  | 7  | –  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
+| --- | c  | voor studenten in een woongebouw  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | 6  | 7  | 8  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
+| --- | d  | andere woonfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | 1  | 2  | 3  | *  | *  | 54  | 59  | 54  | 59  |
+| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 3  | Celfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 4  | Gezondheidszorgfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a lichte industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |  *–*   |  *–*   |  *–*   |  *–*   |
+| --- | b andere industriefunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 7  | Logiesfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | –  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | –  | –  | –  | –  | –  | –  | *  | *  | 59  | 64  | 59  | 64  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  3.16  
 
@@ -2698,7 +2705,8 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woongebouw
 4.  Het volgens NEN 5077 bepaalde gewogen contact-geluidniveau voor de geluidsoverdracht van een besloten ruimte naar een niet in een verblijfsgebied gelegen besloten ruimte van een aangrenzende woonfunctie op hetzelfde perceel is niet groter dan de in tabel 3.15 aangegeven waarde.   
 5.  Het eerste tot en met vierde lid zijn niet van toepassing op de geluidsoverdracht van een nevenfunctie van een woonfunctie naar die woonfunctie.   
 6.  Het eerste tot en met vierde lid zijn niet van toepassing op de geluidsoverdracht van een gemeenschappelijke ruimte naar een aangrenzende gemeenschappelijke ruimte.   
-7.  Het tweede en vierde lid zijn niet van toepassing op de geluidsoverdracht van een besloten ruimte naar een gemeenschappelijk verkeersruimte of op de geluidsoverdracht van een gemeenschappelijke verkeersruimte naar een niet in een verblijfsgebied gelegen besloten ruimte.  
+7.  Het tweede en vierde lid zijn niet van toepassing op de geluidsoverdracht van een besloten ruimte naar een gemeenschappelijk verkeersruimte of op de geluidsoverdracht van een gemeenschappelijke verkeersruimte naar een niet in een verblijfsgebied gelegen besloten ruimte.   
+8.  Het eerste tot en met vierde lid zijn niet van toepassing op de geluidsoverdracht van een gemeenschappelijke verkeersruimte naar een aangrenzende woonfunctie. 
 
 ### Artikel  3.17a  
 
@@ -3558,30 +3566,31 @@ c. is de in rekening te brengen belemmeringshoek α, bedoeld in NEN 2057 voor el
 2.  Voor zover voor een gebruiksfunctie in tabel 4.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.1 geen voorschrift is aangewezen.  Tabel 4.1 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | afmetingen verblijfsgebied en verblijfsruimte  | verbouw  | afmetingen verblijfsgebied en verblijfsruimte  |--- |--- | artikel  | 4.2   | 4.3   | 4.4   | 4.3   |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 1  | 2  | 6  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m<sup>2</sup>]  | [m]  | [m]  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 5  | 1,8  | 2,2  |
-| --- | b  | andere woonfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 2  | Bijeenkomstfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 3  | Celfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 4  | 1,8  | 2,5  |
-| 4  | Gezondheidszorgfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 5  | Industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 6  | Kantoorfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | –  | 2  | 1  | 2  | –  | –  | 5  | 6  | *  | 4  | 1,5  | 2,6  |
-| --- | b  | andere logiesfunctie  | –  | 2  | 1  | 2  | –  | –  | 5  | 6  | *  | 4  | 1,5  | 2,1  |
-| 8  | Onderwijsfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 9  | Sportfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 10  | Winkelfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | 5  | 1,8  | 2,6  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | aanwezigheid  | afmetingen verblijfsgebied en verblijfsruimte  | verbouw  | aanwezigheid  | afmetingen verblijfsgebied en verblijfsruimte  |--- |--- | artikel  | 4.2   | 4.3   | 4.4   | 4.2   | 4.3   |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | *  | 1  | 1  | 2  | 6  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [m<sup>2</sup>]  | [m<sup>2</sup>]  | [m]  | [m]  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 18  | 5  | 1,8  | 2,2  |
+| --- | b  | voor studenten  | 1  | –  | 1  | 2  | 3  | 4  | –  | 6  | *  | 15  | 5  | 1,8  | 2,6  |
+| --- | c  | andere woonfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | –  | 6  | *  | 18  | 5  | 1,8  | 2,6  |
+| 2  | Bijeenkomstfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 3  | Celfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 4  | 1,8  | 2,5  |
+| 4  | Gezondheidszorgfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 5  | Industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 6  | Kantoorfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | –  | 2  | 1  | 2  | –  | –  | 5  | 6  | *  | –  | 4  | 1,5  | 2,6  |
+| --- | b  | andere logiesfunctie  | –  | 2  | 1  | 2  | –  | –  | 5  | 6  | *  | –  | 4  | 1,5  | 2,1  |
+| 8  | Onderwijsfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 9  | Sportfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 10  | Winkelfunctie  | –  | 2  | 1  | 2  | –  | –  | –  | 6  | *  | –  | 5  | 1,8  | 2,6  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  4.2  
 
 ####Aanwezigheid
 
-1.  Een woonfunctie heeft een vloeroppervlakte van ten minste 18 m<sup>2</sup> aan niet-gemeenschappelijk verblijfsgebied.   
+1.  Een woonfunctie heeft ten minste de in tabel 4.1 aangegeven vloeroppervlakte aan niet-gemeenschappelijk verblijfsgebied.   
 2.  Ten minste 55% van de gebruiksoppervlakte van een gebruiksfunctie is verblijfsgebied.  
 
 ### Artikel  4.3  
@@ -3836,29 +3845,29 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 4.21 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 4.21 geen voorschrift is aangewezen.  Tabel 4.21 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vrije doorgang  | vrije doorgang verkeersroute  | aanwezigheid toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  | bereikbaarheid toegankelijkheidssector  | hoogteverschillen  | afmetingen liftkooi  | verbouw  | vrije doorgang vrije doorgang verkeersroute  | toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  |--- |--- | artikel  | 4.22  | 4.23  | 4.24  | 4.25  | 4.26  | 4.27  | 4.28  | 4.29  | 4.22 en 4.23  | 4.24  | 4.25  |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 3  | 2  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m]  | [%]  | [n]  |
-| --- | a  | woonwagen  | 1  | 2  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2,1  | –  | –  |
-| --- | b  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | –  | –  | 1  | –  | –  | 4  | 5  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 2,3  | –  | –  |
-| --- | c  | andere woonfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 2,3  | –  | –  |
-| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | voor alcoholgebruik  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | 4  | 1  | –  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| 3  | Celfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | 2  | –  | 4  | 5  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | 10  |
-| 4  | Gezondheidszorgfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | 2  | 3  | –  | 5  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | 10  |
-| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | lichte industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| --- | b  | andere industriefunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| 6  | Kantoorfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | 2  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | 10  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | 4  | 5  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | 4  | 5  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,1  | 40  | –  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | 2  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 100  | 35  |
-| 9  | Sportfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| 10  | Winkelfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | vrije doorgang  | vrije doorgang verkeersroute  | aanwezigheid toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  | bereikbaarheid toegankelijkheidssector  | hoogteverschillen  | afmetingen liftkooi  | verbouw  | vrije doorgang vrije doorgang verkeersroute  | toegankelijkheidssector  | integraal toegankelijke toilet- en badruimte  |--- |--- | artikel  | 4.22   | 4.23   | 4.24   | 4.25   | 4.26   | 4.27   | 4.28   | 4.29   | 4.22  en 4.23   | 4.24   | 4.25   |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 1  | 3  | 4  | 2  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m]  | [%]  | --- | [n]  |
+| --- | a  | woonwagen  | 1  | 2  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 2,1  | –  | –  | –  |
+| --- | b  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | –  | –  | –  | –  | 1  | –  | –  | 4  | 5  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 2,3  | –  | –  | –  |
+| --- | c  | andere woonfunctie  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | *  | 2,3  | –  | –  | –  |
+| 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor alcoholgebruik  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | –  | 4  | –  | 6  | 1  | –  | –  | –  | –  | 1  | 2  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | 80  | –  |
+| --- | b  | andere bijeenkomstfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | –  | 4  | 5  | –  | 1  | –  | –  | –  | –  | 1  | 2  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | 80  | –  |
+| 3  | Celfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  | 10  |
+| 4  | Gezondheidszorgfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | –  | 4  | –  | –  | 1  | 2  | 3  | –  | 5  | 1  | 2  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | 80  | 10  |
+| 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | lichte industriefunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| --- | b  | andere industriefunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  | –  |
+| 6  | Kantoorfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | 2  | –  | –  | –  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  | 10  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | –  | 4  | –  | –  | 1  | –  | –  | 4  | 5  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | –  | –  |
+| --- | b  | andere logiesfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | –  | –  | 4  | 5  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,1  | 40  | –  | –  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | 2  | –  | –  | –  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | 100  | 35  |
+| 9  | Sportfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | 3  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | 40  | –  | –  |
+| 10  | Winkelfunctie  | 1  | 2  | 1  | –  | –  | –  | –  | 6  | –  | –  | –  | 4  | –  | –  | 1  | –  | –  | –  | –  | 1  | 2  | –  | –  | 1  | –  | –  | –  | –  | 1  | –  | –  | *  | 2,3  | –  | 60  | –  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  4.22  
 
@@ -3903,7 +3912,9 @@ a. de vloer van een verblijfsgebied in het woongebouw hoger ligt dan 12,5 m bov
 b. het woongebouw een gebruiksoppervlakte heeft van meer dan 3.500 m<sup>2</sup> die hoger ligt dan 1,5 m boven het meetniveau.     
 2.  In een woonfunctie voor zorg ligt ten minste een verblijfsgebied in een toegankelijkheidssector.   
 3.  Indien de gebruiksoppervlakte van een gebruiksfunctie, tezamen met de gebruiksoppervlakte van andere in hetzelfde gebouw gelegen gebruiksfuncties waarvoor dit voorschrift geldt, groter is dan 400 m<sup>2</sup>, ligt het in tabel 4.21 aangegeven deel van de vloeroppervlakte aan verblijfsgebied van de gebruiksfunctie in een toegankelijkheidssector.   
-4.  Een bijeenkomstfunctie voor alcoholgebruik met een gebruiksoppervlakte van meer dan 150 m<sup>2</sup> heeft een toegankelijkheidssector.  
+4.  Indien de gebruiksoppervlakte van een gebruiksfunctie, tezamen met de gebruiksoppervlakte van andere in hetzelfde gebouw gelegen gebruiksfuncties waarvoor dit voorschrift geldt, groter is dan 250 m<sup>2</sup> ligt het in tabel 4.21 aangegeven deel van de vloeroppervlakte aan verblijfsgebied van de gebruiksfunctie in een toegankelijkheidssector en ligt 5% van de logiesverblijven, op een geheel getal naar boven afgerond in een toegankelijkheidssector.   
+5.  Voor zover de in het vierde lid bedoelde gebruiksfunctie een bijeenkomstfunctie is voor het aanschouwen van sport, film, muziek of theater of een bijeenkomstfunctie die een nevenfunctie is van een kantoor- of industriefunctie, ligt 40% van de vloeroppervlakte aan verblijfsgebied in een toegankelijkheidssector.  
+6.  Een bijeenkomstfunctie voor alcoholgebruik met een gebruiksoppervlakte van meer dan 150 m<sup>2</sup> heeft een toegankelijkheidssector.  
 
 ### Artikel  4.25  
 
@@ -3920,8 +3931,9 @@ b. het woongebouw een gebruiksoppervlakte heeft van meer dan 3.500 m<sup>2</sup
 ####Bereikbaarheid toegankelijkheidssector
 
 1.  Een ruimte die in een toegankelijkheidssector ligt, is rechtstreeks bereikbaar vanaf het aansluitende terrein of langs een verkeersroute die uitsluitend door een toegankelijkheidssector voert.   
-2.  Een verkeersroute als bedoeld in het eerste lid, voert niet door een niet-gemeenschappelijke ruimte van een andere gebruiksfunctie.   
-3.  De toegang van een woonfunctie gelegen in een woongebouw met een gemeenschappelijke toegankelijkheidssector als bedoeld in artikel 4.24, eerste lid, grenst aan een gemeenschappelijke toegankelijkheidssector.  
+2.  Ten minste een toegang van een toegankelijkheidssector die rechtstreeks bereikbaar is vanaf het aansluitend terrein is de hoofdtoegang van het gebouw.  
+3.  Een verkeersroute als bedoeld in het eerste lid, voert niet door een niet-gemeenschappelijke ruimte van een andere gebruiksfunctie.   
+4.  De toegang van een woonfunctie gelegen in een woongebouw met een gemeenschappelijke toegankelijkheidssector als bedoeld in artikel 4.24, eerste lid, grenst aan een gemeenschappelijke toegankelijkheidssector.  
 
 ### Artikel  4.27  
 
@@ -3955,8 +3967,8 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 
 ####Aansturingsartikel
 
-1.  Een te bouwen woonfunctie heeft een bergruimte om fietsen beschermd tegen weer en wind te kunnen opbergen.   
-2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van de voorschriften in deze afdeling.  
+1.  Een te bouwen woonfunctie, anders dan een woonfunctie waarin door het Centraal Orgaan opvang asielzoekers opvang aan asielzoekers wordt geboden, heeft een afsluitbare bergruimte om fietsen of scootmobielen beschermd tegen weer en wind te kunnen opbergen.   
+2.  Voor zover voor een woonfunctie in deze afdeling voorschriften zijn aangewezen wordt voor die woonfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  
 
 ### Artikel  4.31  
 
@@ -3965,7 +3977,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 1.  Een woonfunctie heeft als nevenfunctie een niet-gemeenschappelijke afsluitbare bergruimte met een vloeroppervlakte van ten minste 5 m<sup>2</sup> bij een breedte van ten minste 1,8 m en een hoogte daarboven van ten minste 2,3 m.   
 2.  In afwijking van het eerste lid kan bij een woonfunctie met een gebruiksoppervlakte van niet meer dan 50 m<sup>2 </sup>de bergruimte gemeenschappelijk zijn indien de vloeroppervlakte van de bergruimte ten minste 1,5 m<sup>2</sup> per woonfunctie bedraagt.   
 3.  Een bergruimte als bedoeld in dit artikel is vanaf de openbare weg rechtstreeks bereikbaar via het aansluitende terrein of een gemeenschappelijke verkeersruimte.   
-4.  Het eerste tot en met derde lid zijn niet van toepassing op een woonfunctie waarin door het Centraal Orgaan opvang asielzoekers opvang aan asielzoekers wordt geboden. 
+4.  Het eerste tot en met derde lid zijn niet van toepassing op een woonfunctie voor studenten en een woonfunctie voor zorg. 
 
 ### Artikel  4.32  
 
@@ -3987,7 +3999,7 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 
 ####Aansturingsartikel
 
-1.  Een te bouwen woonfunctie heeft een rechtstreeks bereikbare buitenruimte.   
+1.  Een te bouwen woonfunctie, anders dan een woonfunctie voor studenten of een woonfunctie voor zorg, heeft een rechtstreeks bereikbare buitenruimte.   
 2.  Aan de in het eerste lid gestelde eis wordt voldaan door toepassing van de voorschriften in deze afdeling.  
 
 ### Artikel  4.35  
@@ -4022,7 +4034,9 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een woonfuncti
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | afmetingen  | verbouw  |--- |--- | artikel  | 4.38   | 4.39   | 4.40   |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | *  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | 2  | 3  | –  | 1  | 2  | *  |
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | voor zorg  | –  | 2  | 3  | –  | –  | –  | *  |
+| --- | b  | andere woonfunctie  | 1  | 2  | 3  | –  | 1  | 2  | *  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | voor alcoholgebruik  | –  | 2  | –  | 4  | –  | –  | *  |
 | --- | b  | andere bijeenkomstfunctie  | –  | 2  | –  | –  | –  | –  | *  |
@@ -4075,7 +4089,9 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 
 | gebruiksfunctie  | leden van toepassing  |--- |--- |--- | aanwezigheid  | afmetingen  |--- |--- | artikel  | 4.42   | 4.43   |--- |--- | lid  | 1  | 2  | 1  | 2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | –  | 1  | 2  |
+| 1  | Woonfunctie  | --- | --- | --- | --- |
+| --- | a  | voor zorg  | –  | –  | –  | –  |
+| --- | b  | andere woonfunctie  | 1  | –  | 1  | 2  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- |
 | --- | a  | voor alcoholgebruik  | –  | 2  | –  | –  |
 | --- | b  | andere bijeenkomstfunctie  | –  | –  | –  | –  |
@@ -4111,36 +4127,40 @@ Op het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk z
 2.  Voor zover voor een gebruiksfunctie in tabel 5.1 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.   
 3.  Het eerste lid is niet van toepassing op de gebruiksfuncties waarvoor in tabel 5.1 geen voorschrift is aangewezen.  Tabel 5.1 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energieprestatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energieprestatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  | 5.2  | 5.3  | 5.4  | 5.5  | 5.6  | 5.7  | 5.2  | 5.3  |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | 3  | *  | 1, 2 en 3  | 1 en 5  | 2  | 3 en 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [–]  |--- | [m<sup>2</sup>.K/W]  |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | 1  | –  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | *  | 1,3  | 2,5  | 2,5  | 2,5  |
-| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | *  | 0,4  | 4,5  | 6,0  | 3,5  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,1  | 4,5  | 6,0  | 3,5  |
-| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
-| --- | b  | andere celfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
-| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | met bedgebied  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1,8  | 4,5  | 6,0  | 3,5  |
-| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
-| 5  | Industriefunctie  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | –  | 4,5  | 6,0  | 3,5  |
-| 6  | Kantoorfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 1  | 4,5  | 6,0  | 3,5  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,4  | 4,5  | 6,0  | 3,5  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | –  | 3  | *  | 0,7  | 4,5  | 6,0  | 3,5  |
-| 9  | Sportfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 0,9  | 4,5  | 6,0  | 3,5  |
-| 10  | Winkelfunctie  | 1  | 2  | 3  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | –  | 3  | *  | 1,7  | 4,5  | 6,0  | 3,5  |
-| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
-| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarde  |--- |--- |--- | energieprestatiecoëfficiënt  | thermische isolatie  | luchtvolumestroom  | onverwarmde gebruiksfunctie  | verbouw  | tijdelijk bouwwerk  | energieprestatiecoëfficiënt  | thermische isolatie  |--- |--- | artikel  | 5.2  | 5.3  | 5.4  | 5.5  | 5.6  | 5.7  | 5.2  | 5.3  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | 3  | 4  | 5  | *  | 1, 2 en 3  | 1 en 5  | 2  | 3 en 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- | [-]  |--- | [m<sup>2</sup>.K/W]  |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | 1  | –  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | 4  | 5  | *  | 1,3  | 2,5  | 2,5  | 2,5  |
+| --- | b  | andere woonfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | 3  | 4  | 5  | *  | 0,4  | 4,5  | 6,0  | 3,5  |
+| 2  | Bijeenkomstfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | –  | 4  | 5  | *  | 1,1  | 4,5  | 6,0  | 3,5  |
+| 3  | Celfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een cellengebouw  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere celfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | met bedgebied  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 1,8  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere gezondheidszorgfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
+| 5  | Industriefunctie  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | –  | 4  | 5  | *  | –  | 4,5  | 6,0  | 3,5  |
+| 6  | Kantoorfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 0,8  | 4,5  | 6,0  | 3,5  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 1  | 4,5  | 6,0  | 3,5  |
+| --- | b  | andere logiesfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | –  | 4  | 5  | *  | 1,4  | 4,5  | 6,0  | 3,5  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | –  | 1  | 2  | –  | 4  | 5  | *  | 0,7  | 4,5  | 6,0  | 3,5  |
+| 9  | Sportfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | –  | 4  | 5  | *  | 0,9  | 4,5  | 6,0  | 3,5  |
+| 10  | Winkelfunctie  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 1  | 2  | *  | 1  | 2  | –  | 4  | 5  | *  | 1,7  | 4,5  | 6,0  | 3,5  |
+| 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
+| 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | --- | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  |
 
 ### Artikel  5.2  
 
 ####Energieprestatiecoëfficiënt
 
-1.  Een gebruiksfunctie heeft een volgens NEN 7120 bepaalde energieprestatiecoëfficiënt van ten hoogste de in tabel 5.1 aangegeven waarde.   
+1.  Een gebruiksfunctie heeft een volgens NEN 7120 bepaalde energieprestatiecoëfficiënt van ten hoogste de in tabel 5.1 aangegeven waarde. De in de tabel aangegeven waarde voor een gebruiksfunctie wordt tenminste om de vijf jaar getoetst, en zo mogelijk aangepast aan de technische ontwikkelingen.   
 2.  In afwijking van het eerste lid, heeft een gebouw of een gedeelte daarvan dat op niet meer dan een perceel ligt, met meerdere gebruiksfuncties waarvoor volgens het eerste lid een energieprestatiecoëfficiënt geldt, een totaal volgens NEN 7120 bepaald karakteristiek energiegebruik dat niet hoger is dan het totale volgens NEN 7120 bepaalde toelaatbare energiegebruik. Bij het bepalen van het toelaatbare energiegebruik wordt per gebruiksfunctie uitgegaan van de in tabel 5.1 aangegeven waarde.   
-3.  Indien bij toepassing van NEN 7120 gebruik wordt gemaakt van NVN 7125 dan is de waarde van de zonder NVN 7125 bepaalde energieprestatiecoëfficiënt ten hoogste 1,33 maal de in tabel 5.1 aangegeven waarde.  
+3.  Indien bij toepassing van NEN 7120 gebruik wordt gemaakt van NVN 7125 dan is de waarde van de zonder NVN 7125 bepaalde energieprestatiecoëfficiënt ten hoogste 1,33 maal de in tabel 5.1 aangegeven waarde.   
+4.  Indien bij een gebruiksfunctie gebruik kan worden gemaakt van een energie-infrastructuur op gebiedsniveau als bedoeld in NVN 7125, dan zal bij de bepaling van de energieprestatiecoëfficiënt de technische, functionele en economische haalbaarheid in overweging worden genomen. De resultaten van deze overwegingen worden gedocumenteerd en beschikbaar gehouden voor controle.   
+5.  Dit lid is nog niet in werking getreden.   
+6.  Dit lid is nog niet in werking getreden.   
+7.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het vierde tot en met zesde lid bepaalde. 
 
 ### Artikel  5.3  
 
@@ -4173,9 +4193,10 @@ Op een gebruiksfunctie die niet bestemd is om te worden verwarmd, of indien de v
 ####Verbouw
 
 1. Bij het gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de voorschriften van artikel 5.2 niet van toepassing en de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij wordt uitgegaan van het rechtens verkregen niveau voor zover dat niveau voor de warmteweerstand niet lager is dan 1,3 m<sup>2•</sup>K/W.  
-2.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
-3.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
-4.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de in het derde lid bedoelde ingrijpende renovatie. 
+2.  In afwijking van het eerste lid geldt bij het vernieuwen of vervangen van isolatielagen een warmteweerstand van ten minste 2,5m<sup>2</sup>.K/W voor een vloer, 1,3 m<sup>2</sup>.K/W voor een gevel en 2,0m<sup>2</sup>.K/W voor een dak, bepaald volgens NEN 1068 en bij het vernieuwen of vervangen van ramen, deuren en kozijnen een warmtedoorgangscoëfficiënt van ten hoogste 2,2W/m<sup>2</sup>.K, bepaald volgens NEN 1068. Indien het rechtens verkregen niveau een betere energieprestatie heeft, dan geldt het rechtens verkregen niveau.  
+3.  In afwijking van het eerste lid zijn op het geheel oprichten of geheel vernieuwen van een dakkapel of van een bijbehorend bouwwerk als bedoeld in bijlage II bij het Besluit omgevingsrecht de voorschriften van artikel 5.2 niet van toepassing, en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.  
+4.  In afwijking van het eerste lid zijn op een ingrijpende renovatie als bedoeld in artikel 2 van de herziene richtlijn energieprestatie gebouwen de voorschriften van artikel 5.2 niet van toepassing en zijn de voorschriften van de artikelen 5.3, eerste tot en met zevende lid, en 5.4 van overeenkomstige toepassing, waarbij in plaats van het in artikel 5.4 aangegeven niveau van eisen wordt uitgegaan van het rechtens verkregen niveau.   
+5.  Bij ministeriële regeling kunnen voorschriften worden gegeven over de in het vierde lid bedoelde ingrijpende renovatie. 
 
 ### Artikel  5.7  
 
@@ -4404,22 +4425,22 @@ b. de aansluitafstand groter is dan 40 m en de aansluitkosten niet hoger zijn d
 1.  Een bouwwerk heeft een zodanige voorziening voor de afvoer van huishoudelijk afvalwater of hemelwater dat het water zonder nadelige gevolgen voor de gezondheid kan worden afgevoerd.   
 2.  Voor zover voor een gebruiksfunctie in tabel 6.15 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 6.15 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | afvoer van huishoudelijk afvalwater  | afvoer van hemelwater  | aansluitleiding en buitenriolering  |--- |--- | artikel  | 6.16   | 6.17   | 6.18   |--- |--- | lid  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 3  | Celfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 4  | Gezondheidszorgfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 5  | Industriefunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  | 5  |
-| 6  | Kantoorfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a.  | in een logiesgebouw  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| --- | b.  | andere logiesfunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  | 5  |
-| 8  | Onderwijsfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 9  | Sportfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 10  | Winkelfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  | 5  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  | 5  |
-| 12  | Bouwwerk geen gebouw zijnde  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  | 5  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | afvoer van huishoudelijk afvalwater  | afvoer van hemelwater  | aansluitleiding en buitenriolering  |--- |--- | artikel  | 6.16   | 6.17   | 6.18   |--- |--- | lid  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 2  | Bijeenkomstfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 3  | Celfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 4  | Gezondheidszorgfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 5  | Industriefunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  |
+| 6  | Kantoorfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a.  | in een logiesgebouw  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| --- | b.  | andere logiesfunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  |
+| 8  | Onderwijsfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 9  | Sportfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 10  | Winkelfunctie  | 1  | 2  | 1  | 2  | 1  | 2  | 3  | 4  |
+| 11  | Overige gebruiksfunctie  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  |
+| 12  | Bouwwerk geen gebouw zijnde  | 1  | 2  | –  | –  | 1  | 2  | 3  | 4  |
 
 ### Artikel  6.16  
 
@@ -4456,22 +4477,7 @@ c. is waterdicht;
 d. heeft een voldoende inwendige middellijn, en  
 
 e. bevat geen beer- of rottingput.     
-4.  Het materiaal, de sterkte en de vorm van buizen en hulpstukken van een terreinleiding voldoet aan: 
-
-a. NEN 7002;  
-
-b. NEN 7003;  
-
-c. NEN 7013;  
-
-d. NEN-EN 1401-1;  
-
-e. NEN-EN 295-1;  
-
-f. NEN-EN 295-2, en  
-
-g. NEN-EN 295-3.     
-5.  Op aanwijzing van het bevoegd gezag wordt bepaald: 
+4.  Op aanwijzing van het bevoegd gezag wordt bepaald: 
 
 a. indien voor de afvoer van huishoudelijk afvalwater een openbaar vuilwaterriool of een systeem als bedoeld in artikel 10.33, tweede lid, van de Wet milieubeheer aanwezig is waarop aangesloten kan worden: op welke plaats, op welke hoogte en met welke inwendige middellijn de voor aansluiting van een afvoervoorziening als bedoeld in artikel 6.16 op dat riool of dat systeem noodzakelijke perceelaansluitleiding bij de gevel van het bouwwerk dan wel de grens van het erf of terrein wordt aangelegd;  
 
@@ -4608,7 +4614,7 @@ c. het aantal aan de enkele vluchtroute gelegen verblijfsruimten meer dan twee i
 
 ####Vluchtrouteaanduidingen
 
-1.  Een ruimte waardoor een verkeersroute voert en een ruimte voor meer dan 50 personen hebben een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838.   
+1.  Een ruimte waardoor een verkeersroute voert en een ruimte voor meer dan 50 personen hebben een vluchtrouteaanduiding die voldoet bij een te bouwen bouwwerk aan NEN 3011 of bij een bestaand bouwwerk aan NEN 6088, en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838.   
 2.  Een wegtunnel heeft een vluchtrouteaanduiding die voldoet aan NEN 6088 en aan de zichtbaarheidseisen, bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838. De vluchtrouteaanduiding is niet hoger dan 1,5 m boven de vloer aangebracht en de afstand tussen twee vluchtrouteaanduidingen is niet meer dan 25 meter, gemeten langs de tunnelwand.   
 3.  Een vluchtrouteaanduiding als bedoeld in het eerste of tweede lid is aangebracht op een duidelijk waarneembare plaats.   
 4.  Een vluchtrouteaanduiding als bedoeld in het eerste of tweede lid voldoet binnen 15 seconden na het uitvallen van de voorziening voor elektriciteit, gedurende een periode van ten minste 60 minuten, aan de zichtbaarheidseisen bedoeld in de artikelen 5.2 tot en met 5.6 van NEN-EN 1838.   
@@ -4660,10 +4666,10 @@ b. een lichte druk tegen een op circa 1 m boven de vloer over de volle breedte v
 1.  Een bouwwerk heeft zodanige voorzieningen voor de bestrijding van brand, dat brand binnen redelijke tijd kan worden bestreden.   
 2.  Voor zover voor een gebruiksfunctie in tabel 6.27 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften en de krachtens die bepalingen gegeven voorschriften.  Tabel 6.27 
 
-| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | brandslanghaspels  | droge blusleidingen  | bluswatervoorziening  | blustoestellen  | automatische brandblusinstallatie en rookbeheersingssysteem  | aanduiding blusmiddelen  | tijdelijke bouw  | brandslanghaspels  |--- |--- | artikel  | 6.28   | 6.29   | 6.30   | 6.31   | 6.32   | 6.33   | 6.34   | 6.28  |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 1  | 2  | *  | *  | 2  |
+| gebruiksfunctie  | leden van toepassing  | grenswaarden  |--- |--- |--- | brandslanghaspels  | droge blusleidingen  | bluswatervoorziening  | blustoestellen  | automatische brandblusinstallatie en rookbeheersingssysteem  | aanduiding blusmiddelen  | tijdelijke bouw  | brandslanghaspels  |--- |--- | artikel  | 6.28   | 6.29   | 6.30   | 6.31   | 6.32   | 6.33   | 6.34   | 6.28   |--- |--- | lid  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 1  | 2  | 3  | 4  | 1  | 2  | 3  | 4  | 1  | 2  | *  | *  | 2  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | [m<sup>2</sup>]  |
-| --- | a  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
+| --- | a  | voor zorg met een g.o. > 500 m<sup>2</sup>   | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
 | --- | b  | kamergewijze verhuur  | –  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 1  | 2  | *  | *  | –  |
 | --- | c  | andere woonfunctie  | –  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | –  | –  | –  | –  | 1  | 2  | –  | *  | –  |
 | 2  | Bijeenkomstfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4675,17 +4681,17 @@ b. een lichte druk tegen een op circa 1 m boven de vloer over de volle breedte v
 | --- | b  | ander gezondheidszorgfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 500  |
 | 5  | Industriefunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | lichte industriefunctie  | –  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
-| --- | b  | andere industriefunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 1000  |
+| --- | b  | andere industriefunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 1.000  |
 | 6  | Kantoorfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 500  |
 | 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | a  | in een logiesgebouw  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
-| --- | b  | andere logiesfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | –  | –  | –  | 4  | 1  | 2  | –  | *  | 500  |
+| --- | b  | andere logiesfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | –  | –  | –  | –  | 1  | 2  | –  | *  | 500  |
 | 8  | Onderwijsfunctie  | 1  | –  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
 | 9  | Sportfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 500  |
 | 10  | Winkelfunctie  | –  | 2  | 3  | 4  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | 500  |
 | 11  | Overige gebruiksfunctie  | –  | –  | –  | –  | 1  | 2  | –  | 4  | 5  | 6  | 7  | 1  | –  | 3  | 4  | 1  | –  | –  | 4  | 1  | 2  | *  | *  | –  |
 | 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | 3  | –  | 5  | 6  | 7  | –  | 2  | –  | 4  | –  | –  | 3  | 4  | 1  | 2  | *  | *  | –  |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | –  | –  | –  | –  | 3  | –  | 5  | 6  | 7  | –  | 2  | –  | 4  | –  | –  | 3  | 4  | 1  | 2  | *  | *  | –  |
 | --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | –  | 3  | 4  | –  | –  | –  | –  | 1  | 2  | *  | *  | –  |
 
 ### Artikel  6.28  
@@ -5181,7 +5187,7 @@ b. enig punt van de uitwendige scheidingsconstructie van een op het aangrenzend 
 
 ####Opslag in stookruimte
 
-In een ruimte met een of meer verbrandingstoestellen met een totale nominale belasting van meer dan 130 kW zijn geen brandbare goederen opgeslagen of opgesteld. 
+In een technische ruimte met een of meer verbrandingstoestellen met een totale nominale belasting van meer dan 130 kW zijn geen brandbare goederen opgeslagen of opgesteld. 
 
 ### Artikel  7.9  
 
@@ -5221,32 +5227,30 @@ b. bij brand een gevaarlijke situatie wordt veroorzaakt.
 1.  Het gebruik van een bouwwerk is zodanig dat bij brand veilig kan worden gevlucht.   
 2.  Voor zover voor een gebruiksfunctie in tabel 7.11 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 7.11 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | deuren in vluchtroutes  | opstelling zitplaatsen en verdere inrcihting  | gangpaden  | beperking van gevaar voor letsel  | restrisico veilig vluchten bij brand  |--- |--- | artikel  | 7.12  | 7.13  | 7.14  | 7.15  | 7.16  |--- |--- | lid  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | *  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonfunctie voor zorg  | 1  | 2  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
-| --- | b  | andere woonfunctie  | 1  | –  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
-| 2  | Bijeenkomstfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 3  | Celfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 4  | Gezondheidszorgfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 5  | Industriefunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 6  | Kantoorfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | in een logiesgebouw  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 1  | 2  | 3  | –  | 5  | *  |
-| --- | b  | andere logiesfunctie  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  |
-| 8  | Onderwijsfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 9  | Sportfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 10  | Winkelfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 11  | Overige gebruiksfunctie  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
-| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | 1  | –  | –  | –  | 5  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  |
-| --- | b  | ander bouwwerk geen gebouw zijnde  | 1  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | Hulp bij ontruiming bij brand  | deuren in vluchtroutes  | opstelling zitplaatsen en verdere inrcihting  | gangpaden  | beperking van gevaar voor letsel  | restrisico veilig vluchten bij brand  |--- |--- | artikel  | 7.11a   | 7.12   | 7.13   | 7.14   | 7.15   | 7.16   |--- |--- | lid  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | 4  | 5  | *  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonfunctie voor zorg  | 1  | 2  | 1  | 2  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
+| --- | b  | andere woonfunctie  | –  | –  | 1  | –  | 3  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | –  | *  |
+| 2  | Bijeenkomstfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 3  | Celfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 4  | Gezondheidszorgfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 5  | Industriefunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 6  | Kantoorfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 7  | Logiesfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | in een logiesgebouw  | 1  | –  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | 1  | 2  | 1  | 2  | 3  | –  | 5  | *  |
+| --- | b  | andere logiesfunctie  | 1  | –  | 1  | 2  | –  | 4  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  |
+| 8  | Onderwijsfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 9  | Sportfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 10  | Winkelfunctie  | 1  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 11  | Overige gebruiksfunctie  | –  | –  | 1  | 2  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
+| 12  | Bouwwerk geen gebouw zijnde  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | wegtunnel met een tunnellengte van meer dan 250 m  | –  | –  | 1  | –  | –  | –  | 5  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | –  | *  |
+| --- | b  | ander bouwwerk geen gebouw zijnde  | –  | –  | 1  | –  | –  | –  | –  | 1  | 2  | 3  | 4  | 5  | 6  | 1  | 2  | 1  | 2  | 3  | –  | –  | *  |
 
 ### Artikel  7.11a  
 
 ####Hulp bij ontruiming bij brand
-
-Treedt in werking per 01-07-2015 
 
 1.  In een gebruiksfunctie met een brandmeldinstallatie als bedoeld in artikel 6.20, in een bouwwerk met een vergunning voor brandveilig gebruik en in een bouwwerk waarvoor een gebruiksmelding als bedoeld in artikel 1.18 is gedaan zijn voldoende personen aangewezen om de ontruiming bij brand voldoende snel te laten verlopen.   
 2.  Het eerste lid is niet van toepassing op een woonfunctie voor zorg met zorg op afspraak of met zorg op afroep, als bedoeld in bijlage I.  
@@ -5324,12 +5328,13 @@ c. het redden van personen of dieren bij brand wordt belemmerd.
 1.  Het gebruik van een bouwwerk, open erf en terrein is zodanig dat hinder, gezondheidsrisico’s en andere veiligheidsrisico’s dan brandveiligheidsrisico’s voor personen in voldoende mate worden beperkt.   
 2.  Voor zover voor een gebruiksfunctie in tabel 7.17 voorschriften zijn aangewezen, wordt voor die gebruiksfunctie aan de in het eerste lid gestelde eis voldaan door toepassing van die voorschriften.  Tabel 7.17 
 
-| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | overbewoning  | asbestvezels en formaldehyde  | bouwvalligheid  | zindelijke staat  | restrisico  |--- |--- | artikel  | 7.18   | 7.19   | 7.20   | 7.21   | 7.22   |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | *  | *  | *  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | a  | woonwagen  | –  | 2  | 3  | 1  | 2  | *  | *  | *  |
-| --- | b  | andere woonfunctie  | 1  | –  | 3  | 1  | 2  | *  | *  | *  |
-| Alle hier niet boven genoemde gebruiksfuncties  | –  | –  | –  | 1  | 2  | *  | *  | *  |
+| gebruiksfunctie  | leden van toepassing  |--- |--- |--- | overbewoning  | asbestvezels en formaldehyde  | bouwvalligheid  | zindelijke staat  | restrisico  | kooldioxidemelder  |--- |--- | artikel  | 7.18   | 7.19   | 7.20   | 7.21   | 7.22   | 7.23   |--- |--- | lid  | 1  | 2  | 3  | 1  | 2  | *  | *  | *  | 1  | 2  |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 1  | Woonfunctie  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | a  | woonwagen  | –  | 2  | 3  | 1  | 2  | *  | *  | *  | –  | –  |
+| --- | b  | andere woonfunctie  | 1  | –  | 3  | 1  | 2  | *  | *  | *  | –  | –  |
+| 8  | Onderwijsfunctie  | –  | –  | –  | 1  | 2  | *  | *  | *  | 1  | 2  |
+| Alle hier niet boven genoemde gebruiksfuncties  | –  | –  | –  | 1  | 2  | *  | *  | *  | –  | –  |
 
 ### Artikel  7.18  
 
@@ -5375,8 +5380,6 @@ d. instortings-, omval- of ander gevaar wordt veroorzaakt.
 ### Artikel  7.23  
 
 ####Kooldioxidemeter
-
-Treedt in werking per 01-07-2015 
 
 1.  Een verblijfsruimte in een onderwijsfunctie voor basisonderwijs heeft een kooldioxidemeter.   
 2.  Bij ministeriële regeling kunnen voorschriften worden gegeven over het in het eerste lid bepaalde.  
@@ -5564,7 +5567,7 @@ I. W. Opstelten
 
 ### Bijlage  I  
 
-|--- |--- |--- |--- | Gebruiksoppervlakte  | Hoogste vloer van de gebruiksfunctie gemeten boven het meetniveau  | Omvang van de bewaking, volgens NEN 2535  | Doormelding volgens NEN 2535  | Inspectiecertificaat als bedoeld in artikel 6.20, zesde lid   | Groter dan [m<sup>2</sup>]  | Hoger dan [m]  |--- |--- |--- |
+|--- |--- |--- |--- | Gebruiksoppervlakte  | Hoogste vloer van de gebruiksfunctie gemeten boven het meetniveau  | Omvang van de bewaking, volgens NEN 2535  | Doormelding volgens NEN 2535  | certificaat als bedoeld in artikel 6.20, zesde lid   | Groter dan [m<sup>2</sup>]  | Hoger dan [m]  |--- |--- |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | 1  | Woonfunctie  | --- | --- | --- | --- | --- |
 | --- | a  | Woonfunctie voor zorg  | --- | --- | --- | --- | --- |
@@ -5583,12 +5586,12 @@ I. W. Opstelten
 | --- | c  | Andere bijeenkomstfunctie  | –  | 5  | Gedeeltelijk  | –  | ja  |
 | --- | --- | --- | --- | –  | 50  | Volledig  | –  | ja  |
 | --- | --- | --- | --- | 500  | –  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1000  | –  | Gedeeltelijk  | –  | ja  |
-| --- | --- | --- | --- | 5000  | –  | Volledig  | –  | ja  |
+| --- | --- | --- | --- | 1.000  | –  | Gedeeltelijk  | –  | ja  |
+| --- | --- | --- | --- | 5.000  | –  | Volledig  | –  | ja  |
 | 3  | Celfunctie  | –  | –  | Volledig  | ja  | ja  |
 | 4  | Gezondheidszorgfunctie  | --- | --- | --- | --- | --- |
 | --- | a  | gezondheidszorgfunctie met bedgebied  | –  | –  | Volledig  | ja  | ja  |
-| --- | b  | andere gezondheidszorgfunctie  | –  | 20  | Niet-automatisch  | ja  | –  |
+| --- | b  | andere gezondheidszorgfunctie  | –  | 20  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 50  | Gedeeltelijk  | ja  | ja  |
 | --- | --- | --- | --- | –  | 4,1  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | 250  | 1,5  | Niet-automatisch  | –  | –  |
@@ -5597,13 +5600,13 @@ I. W. Opstelten
 | --- | a  | lichte industriefunctie  | –  | –  | –  | –  | –  |
 | --- | b  | andere industriefunctie  | –  | 20  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | 750  | 4,1  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1500  | 1,5  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 2500  | –  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 1.500  | 1,5  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 2.500  | –  | Niet-automatisch  | –  | –  |
 | 6  | Kantoorfunctie  | –  | 20  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 50  | Gedeeltelijk  | –  | ja  |
 | --- | --- | --- | --- | 500  | 4,1  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | 750  | 1,5  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1500  | –  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 1.500  | –  | Niet-automatisch  | –  | –  |
 | 7  | Logiesfunctie  | --- | --- | --- | --- | --- |
 | --- | a  | logiesfunctie niet in een logiesgebouw  | –  | –  | –  | –  | –  |
 | --- | b  | logiesfunctie in een logiesgebouw met 24-uursbewaking  | 250  | –  | Volledig  | –  | ja  |
@@ -5616,23 +5619,23 @@ I. W. Opstelten
 | 9  | Sportfunctie  | –  | 4,1  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 50  | Gedeeltelijk  | –  | ja  |
 | --- | --- | --- | --- | 500  | 1,5  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1000  | –  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 1.000  | –  | Niet-automatisch  | –  | –  |
 | 10  | Winkelfunctie  | –  | 4,1  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 50  | Volledig  | –  | ja  |
 | --- | --- | --- | --- | 500  | 1,5  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1000  | –  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 5000  | 13  | Gedeeltelijk  | –  | ja  |
-| --- | --- | --- | --- | 10000  | –  | Gedeeltelijk  | –  | ja  |
-| --- | --- | --- | --- | 10000  | 13  | Volledig  | –  | ja  |
+| --- | --- | --- | --- | 1.000  | –  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 5.000  | 13  | Gedeeltelijk  | –  | ja  |
+| --- | --- | --- | --- | 10.000  | –  | Gedeeltelijk  | –  | ja  |
+| --- | --- | --- | --- | 10.000  | 13  | Volledig  | –  | ja  |
 | 11  | Overige gebruiksfunctie  | --- | --- | --- | --- | --- |
 | --- | a  | Besloten overige gebruiksfunctie voor het stallen van motorvoertuigen  | –  | 1,5  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 1000  | –  | Volledig  | –  | –  |
-| --- | --- | --- | --- | 2500  | –  | Volledig  | –  | ja  |
+| --- | --- | --- | --- | 1.000  | –  | Volledig  | –  | –  |
+| --- | --- | --- | --- | 2.500  | –  | Volledig  | –  | ja  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | b  | Besloten overige gebruiksfunctie voor het personenvervoer  | –  | 1,5  | Niet-automatisch  | –  | –  |
 | --- | --- | --- | --- | –  | 13  | Gedeeltelijk  | –  | –  |
-| --- | --- | --- | --- | 1000  | –  | Niet-automatisch  | –  | –  |
-| --- | --- | --- | --- | 2500  | –  | Gedeeltelijk  | –  | ja  |
+| --- | --- | --- | --- | 1.000  | –  | Niet-automatisch  | –  | –  |
+| --- | --- | --- | --- | 2.500  | –  | Gedeeltelijk  | –  | ja  |
 | --- | c  | Andere overige gebruiksfunctie  | –  | –  | –  | –  | –  |
 | 12  | Bouwwerk geen gebouw zijnde  | –  | –  | –  | –  | –  |
 

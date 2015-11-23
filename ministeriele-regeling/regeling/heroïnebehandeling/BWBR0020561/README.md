@@ -20,26 +20,26 @@ d. behandeleenheid: inrichting voor heroïnebehandeling.
 
 ### Artikel  2  
 
-1.   De Minister kan ten behoeve van de jaren 2013 en 2014 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:  
+1.  De Minister kan ten behoeve van het jaar 2015 aan de volgende gemeenten een specifieke uitkering van ten hoogste het bij de desbetreffende gemeente genoemde bedrag verstrekken voor de werkelijke kosten van het exploiteren van het bij de desbetreffende gemeente genoemde aantal behandeleenheden met in totaal ten hoogste het bij de desbetreffende gemeente genoemde aantal behandelplaatsen:  
 
-| Naam gemeente  | aantal behandel-eenheden  | maximum aantal behandel-plaatsen  | maximale uitkering 2013  | maximale uitkering 2014  |
-|:---|:---|:---|:---|:---|
-| Amsterdam  | 2  | 145  | € 2.470.000  | € 2.362.166  |
-| Apeldoorn  | 1  | 30  |  € 600.000  |  € 682.672  |
-| Arnhem  | 1  | 25  |  € 510.000  |  € 600.771  |
-| Den Haag  | 1  | 75  | € 1.420.000  | € 1.209.990  |
-| Deventer  | 1  | 25  |  € 510.000  |  € 600.771  |
-| Eindhoven  | 1  | 25  |  € 520.000  |  € 600.771  |
-| Enschede  | 1  | 30  |  € 600.000  |  € 682.672  |
-| Groningen  | 1  | 50  | € 1.060.000  |  € 952.387  |
-| Heerlen  | 1  | 35  |  € 765.000  |  € 756.157  |
-| 's-Hertogenbosch  | 1  | 20  |  € 425.000  |  € 508.976  |
-| Leeuwarden  | 1  | 25  |  € 520.000  |  € 600.771  |
-| Maastricht  | 1  | 25  |  € 510.000  |  € 600.771  |
-| Nijmegen  | 1  | 25  |  € 515.000  |  € 600.771  |
-| Rotterdam  | 2  | 140  | € 2.400.000  | € 2.260.688  |
-| Tilburg  | 1  | 20  |  € 425.000  |  € 508.976  |
-| Utrecht  | 1  | 45  |  € 940.000  |  € 889.853  |
+| naam gemeente  | aantal behandeleenheden  | maximum aantal behandelplaatsen  | maximale uitkering 2015  |
+|:---|:---|:---|:---|
+| Amsterdam  | 2  | 141  | € 2.358.827  |
+| Apeldoorn  | 1  | 24  | € 595.267  |
+| Arnhem  | 1  | 25  | € 610.095  |
+| Den Haag  | 1  | 75  | € 1.228.769  |
+| Deventer  | 1  | 22  | € 556.095  |
+| Eindhoven  | 1  | 20  | € 520.000  |
+| Enschede  | 1  | 28  | € 657.267  |
+| Groningen  | 1  | 50  | € 967.168  |
+| Heerlen  | 1  | 35  | € 767.893  |
+| ’s-Hertogenbosch  | 1  | 20  | € 520.000  |
+| Leeuwarden  | 1  | 30  | € 690.095  |
+| Maastricht  | 1  | 20  | € 520.000  |
+| Nijmegen  | 1  | 22  | € 556.095  |
+| Rotterdam  | 2  | 120  | € 2.095.774  |
+| Tilburg  | 1  | 20  | € 520.000  |
+| Utrecht  | 1  | 45  | € 903.664  |
 
 2.  Onder werkelijke kosten worden verstaan de exploitatiekosten, gebaseerd op bedrijfseconomische aanvaardbare principes, van een behandeleenheid met uitzondering van de huisvestingskosten.  
 
@@ -99,7 +99,7 @@ a. een overzicht per behandeleenheid van de bezetting van de behandelplaatsen in
 b. een overzicht per behandeleenheid van het aantal personen dat op de wachtlijst is geplaatst in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt;  
 
 c. een overzicht per behandeleenheid van het aantal personen dat is gescreend in het kalenderjaar voorafgaand aan het kalenderjaar ten behoeve waarvan de uitkering is verstrekt.  
-3. Het college van burgemeester en wethouders verstrekt aan de Minister voor 1 april 2014 de overzichten, bedoeld in het tweede lid, ook met betrekking tot de jaren 2011 en 2012.
+3. Vervallen.
 4. Het college van burgemeester en wethouders verstrekt de overzichten, bedoeld in het tweede en derde lid, conform een door de Minister vastgesteld model.
 
 ### Artikel  10  

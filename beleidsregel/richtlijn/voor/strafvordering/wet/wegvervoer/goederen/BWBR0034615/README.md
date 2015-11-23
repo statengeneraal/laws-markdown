@@ -4,21 +4,21 @@
 
 ####Beschrijving
 
-Deze richtlijn bevat het strafvorderingsbeleid van het OM inzake overtredingen bepaald bij of krachtens de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) (WWG), die in [artikel 1 van de Wet op de economische delicten](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (WED) als economisch delict zijn aangemerkt    
+Deze richtlijn bevat het strafvorderingsbeleid van het OM inzake overtredingen bepaald bij of krachtens de Wet wegvervoer goederen (WWG), die in artikel 1 van de Wet op de economische delicten (WED) als economisch delict zijn aangemerkt    
 
 ####Achtergrond
 
-Deze richtlijn is aangepast vanwege een wijziging van de [Wet wegvervoer goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) (WWG) per 1 juli 2013. De WWG is vanwege de implementatie van de EG verordeningen 1071/2009 en 1072/2009 in de Nederlandse wetgeving gewijzigd. Een gevolg van deze verordeningen is dat een Europees elektronisch sanctieregister ingericht moet worden waarin zogenaamde zeer ernstige of ernstige inbreuken op de communautaire wetgeving moeten worden vastgelegd<sup> 1 De zwaarste inbreuken zijn opgenomen in bijlage IV van Verordening EG 1071/2009. </sup>. Dit register staat bekend onder de naam ERRU -register (formele benaming European Register of Road Transport Undertakings). Voor Nederland is de Inspectie Leefomgeving en Transport (ILT) aangewezen om dit register te beheren. Opname in het register kan na overschrijding van een bepaald aantal strafpunten tot gevolg hebben dat een vervoersvergunning wordt ingetrokken of dat bij aanvraag van een vergunning geen vervoersvergunning wordt verstrekt omdat geen verklaring omtrent het gedrag wordt afgegeven vanwege het feit dat niet aan de betrouwbaarheidseisen wordt voldaan<sup> 2 Dit is in de Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) vastgelegd (Stcrt. 2013, 18645). </sup>.    
+Deze richtlijn is aangepast vanwege een wijziging van de Wet wegvervoer goederen (WWG) per 1 juli 2013. De WWG is vanwege de implementatie van de EG verordeningen 1071/2009 en 1072/2009 in de Nederlandse wetgeving gewijzigd. Een gevolg van deze verordeningen is dat een Europees elektronisch sanctieregister ingericht moet worden waarin zogenaamde zeer ernstige of ernstige inbreuken op de communautaire wetgeving moeten worden vastgelegd<sup> 1 De zwaarste inbreuken zijn opgenomen in bijlage IV van Verordening EG 1071/2009. </sup>. Dit register staat bekend onder de naam ERRU -register (formele benaming European Register of Road Transport Undertakings). Voor Nederland is de Inspectie Leefomgeving en Transport (ILT) aangewezen om dit register te beheren. Opname in het register kan na overschrijding van een bepaald aantal strafpunten tot gevolg hebben dat een vervoersvergunning wordt ingetrokken of dat bij aanvraag van een vergunning geen vervoersvergunning wordt verstrekt omdat geen verklaring omtrent het gedrag wordt afgegeven vanwege het feit dat niet aan de betrouwbaarheidseisen wordt voldaan<sup> 2 Dit is in de Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) vastgelegd (Stcrt. 2013, 18645). </sup>.    
 
 ####Vervolging
 
 Als de verdachte direct wordt gedagvaard eist de officier van justitie een geldboete zoals in deze richtlijn is vastgesteld. Indien tegen de bestrafte een strafbeschikking is uitgevaardigd<sup> 3 Op grond van art. 36, tweede lid, WED behoeft de verdachte die rechtspersoon is, in afwijking van artikel 257c, tweede lid, Sv, slechts onder bijstand van een raadsman te worden gehoord als de strafbeschikking betalingsverplichtingen uit hoofde van geldboete en schadevergoedingsmaatregel bevat welke afzonderlijk of gezamenlijk meer belopen dan € 10 000. </sup> en deze gaat in verzet tegen de strafbeschikkingen dan wordt hij gedagvaard. De officier van justitie eist dan in beginsel dezelfde geldboete als initieel bij strafbeschikking is opgelegd, tenzij de bestrafte geen inhoudelijke gronden aanvoert waarop zijn verzet is gebaseerd<sup> 4 Zie eveneens de Aanwijzing OM-afdoening. </sup>. Als de zaak ter terechtzitting is aangebracht na een geheel of gedeeltelijk mislukte executie, wordt in principe door de officier van justitie een zwaardere straf geëist. Daarbij moet rekening worden gehouden met de reeds (gedeeltelijk) ten uitvoer gelegde straf. 
 ###Voorlopige maatregel
 
-Indien er ernstige bezwaren zijn tegen de overtreder en onmiddellijk ingrijpen is vereist, kan de officier van justitie, zolang de behandeling van de zaak ter terechtzitting nog niet is aangevangen, op grond van [artikel 28 WED](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) een voorlopige maatregel opleggen.
+Indien er ernstige bezwaren zijn tegen de overtreder en onmiddellijk ingrijpen is vereist, kan de officier van justitie, zolang de behandeling van de zaak ter terechtzitting nog niet is aangevangen, op grond van artikel 28 WED een voorlopige maatregel opleggen.
 ###Recidive
 
-Van recidive is alleen sprake als de overtreding wordt begaan *binnen vijf jaar *na afdoening<sup> 5 Afdoening houdt in: een onherroepelijke strafbeschikking, een onherroepelijk vonnis óf een betaalde transactie. </sup> van de vorige overtreding van de [WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) (uitgezonderd de beladingsvoorschriften) die in de bijlage I opgenomen tarieflijst is vermeld.Bij overtredingen van de [WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) wordt in principe zonder beperking en ongeacht de mate van recidive een strafbeschikking inhoudende een geldboete uitgevaardigd of op zitting geëist. Als recidive wordt geconstateerd, geldt het, voor de in bijlage I opgenomen tarieflijst, volgende ophogingspercentage ten opzichte van het bij de overtreding behorende geldboete:  Tabel 1 Ophogingspercentage tarieflijst bijlage I 
+Van recidive is alleen sprake als de overtreding wordt begaan *binnen vijf jaar *na afdoening<sup> 5 Afdoening houdt in: een onherroepelijke strafbeschikking, een onherroepelijk vonnis óf een betaalde transactie. </sup> van de vorige overtreding van de WWG (uitgezonderd de beladingsvoorschriften) die in de bijlage I opgenomen tarieflijst is vermeld.Bij overtredingen van de WWG wordt in principe zonder beperking en ongeacht de mate van recidive een strafbeschikking inhoudende een geldboete uitgevaardigd of op zitting geëist. Als recidive wordt geconstateerd, geldt het, voor de in bijlage I opgenomen tarieflijst, volgende ophogingspercentage ten opzichte van het bij de overtreding behorende geldboete:  Tabel 1 Ophogingspercentage tarieflijst bijlage I 
 
 |--- | werknemers/chauffeurs  | ondernemers/zelfstandigen  |
 |:---|:---|:---|
@@ -55,49 +55,49 @@ Deze richtlijn voor strafvordering geldt voor alle strafbare feiten die zijn gep
 
 Als sprake is van meer strafbare feiten in één strafdossier, dan moeten de geldboetes uit deze tarieflijst per feit bij elkaar opgeteld worden. 
 
-####[Wet wegvervoer Goederen](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) (WWG)
+####Wet wegvervoer Goederen (WWG)
 
 | Artikel / Overtreding  | Geldboete in Euro  |--- | Bijzonderheden  |
 |:---|:---|:---|:---|
-|  [Artikel 2.2 lid 1 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.2 lid 1 WWG   | --- | --- | --- |
 | Het in Nederland verrichten van cabotagevervoer door een in andere lidstaat gevestigde vervoerder in strijd met daaromtrent bij of krachtens de marktverordening voor het wegvervoer bepaalde.  | 4300  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.2 lid 3 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.2 lid 3 WWG   | --- | --- | --- |
 | Het verrichten van beroepsvervoer in strijd met een krachtens het tweede lid art. 2.2. WWG vastgestelde verbod  | 4300  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.2 lid 5 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.2 lid 5 WWG   | --- | --- | --- |
 | Het verrichten van cabotagevervoer door een niet in een lidstaat gevestigde vervoerder  | 4300  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.3 lid 1 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
-| Het verrichten van grensoverschrijdend beroepsvervoer door een in Nederland gevestigde vervoerder op het grondgebied van andere staten dan lidstaten, zonder te beschikken over:  – een geldige CEMT-vergunning, of  – één of meer daartoe strekkende ritmachtigingen.  | 700  | --- | Maatregel [artikel 5.4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) mogelijk.  |
+|  Artikel 2.3 lid 1 WWG   | --- | --- | --- |
+| Het verrichten van grensoverschrijdend beroepsvervoer door een in Nederland gevestigde vervoerder op het grondgebied van andere staten dan lidstaten, zonder te beschikken over:  – een geldige CEMT-vergunning, of  – één of meer daartoe strekkende ritmachtigingen.  | 700  | --- | Maatregel artikel 5.4 WWG mogelijk.  |
 | --- | --- | --- | --- |
-|  [Artikel 2.3 lid 3 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
-| Het verrichten van grensoverschrijdend beroepsvervoer naar of vanuit Nederland door een vervoerder die niet gevestigd is in een lidstaat zonder te beschikken over:  – een daarvoor geldige CEMT-vergunning, of  – één of meer daarvoor geldende ritmachtigingen.  | 4300  | --- | Maatregel [artikel 5.4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) mogelijk.  € 1800 als aanvraag is ingediend en achteraf blijkt te zijn toegewezen.  |
+|  Artikel 2.3 lid 3 WWG   | --- | --- | --- |
+| Het verrichten van grensoverschrijdend beroepsvervoer naar of vanuit Nederland door een vervoerder die niet gevestigd is in een lidstaat zonder te beschikken over:  – een daarvoor geldige CEMT-vergunning, of  – één of meer daarvoor geldende ritmachtigingen.  | 4300  | --- | Maatregel artikel 5.4 WWG mogelijk.  € 1800 als aanvraag is ingediend en achteraf blijkt te zijn toegewezen.  |
 | --- | --- | --- | --- |
-|  [Artikel 2.3 lid 5 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.3 lid 5 WWG   | --- | --- | --- |
 | Het verrichten van grensoverschrijdend eigen vervoer door een in Nederland gevestigde vervoerder op het grondgebied van andere staten dan lidstaten, zonder te beschikken over een daarvoor geldige ritmachtiging.  | 700  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.3 lid 6 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.3 lid 6 WWG   | --- | --- | --- |
 | Het verrichten van eigen vervoer in Nederland door een vervoerder die niet gevestigd is in een lidstaat zonder te beschikken over één of meer daarvoor geldende ritmachtigingen.  | 4300  | --- | € 1800 als aanvraag is ingediend en achteraf blijkt te zijn toegewezen.  |
 | --- | --- | --- | --- |
-|  [Artikel 2.5 lid 1 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
-| Het door een in Nederland of andere lidstaat gevestigde vervoerder verrichten van beroepsvervoer zonder een geldige communautaire vergunning  | 4300  | --- | Maatregel [artikel 5.4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) mogelijk voor overtreding [art. 2.5 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md). € 1800 indien aanvraag is ingediend en achteraf blijkt te zijn toegewezen.  |
+|  Artikel 2.5 lid 1 WWG   | --- | --- | --- |
+| Het door een in Nederland of andere lidstaat gevestigde vervoerder verrichten van beroepsvervoer zonder een geldige communautaire vergunning  | 4300  | --- | Maatregel artikel 5.4 WWG mogelijk voor overtreding art. 2.5 WWG. € 1800 indien aanvraag is ingediend en achteraf blijkt te zijn toegewezen.  |
 | --- | --- | --- | --- |
-|  [Artikel 2.5 lid 2 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.5 lid 2 WWG   | --- | --- | --- |
 | Het door een in Nederland of andere lidstaat gevestigde vervoerder verrichten van beroepsvervoer zonder in de vrachtauto een eensluidend afschrift van de communautaire vergunning aanwezig te hebben.  | 700  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.5 lid 3 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.5 lid 3 WWG   | --- | --- | --- |
 | Het door een in Nederland gevestigde vervoerder verrichten van grensoverschrijdend beroeps- of cabbotagevervoer in strijd met het bij of krachten de marktverordening voor het wegvervoer bepaalde omtrent het bestuurdersattest, namelijk:  | --- | --- | --- |
 | – geen bestuurdersattest afgegeven;  | 4300  | --- | --- |
 | – geen bestuurdersattest in vrachtauto aanwezig.  | 700  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.5 lid 4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.5 lid 4 WWG   | --- | --- | --- |
 | Het door een in andere lidstaat gevestigde vervoerder naar of vanuit Nederland beroepsvervoer, dan wel binnen Nederland cabbotagevervoer verrichten in strijd met het bij of krachten de marktverordening voor het wegvervoer bepaalde omtrent het bestuurdersattest, namelijk  | --- | --- | --- |
 | – geen bestuurdersattest afgegeven;  | 4300  | --- | --- |
 | – geen bestuurdersattest in vrachtauto aanwezig.  | 700  | --- | --- |
 | --- | --- | --- | --- |
-| [Artikel 2.6 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) jo.  | --- | --- | --- |
-|  [artikel 18 lid 2 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   | --- | --- | --- |
+| Artikel 2.6 WWG jo.  | --- | --- | --- |
+|  artikel 18 lid 2 RWG   | --- | --- | --- |
 | – Het verrichten van beroepsvervoer of eigen vervoer met een vrachtauto in strijd met de APK-plicht  | 900  | --- | --- |
 | --- | --- | --- | --- |
 | – Het verrichten van beroepsvervoer of eigen vervoer met een vrachtauto terwijl de bestuurder niet in bezit is van een (geldig) rijbewijs of hem de bevoegdheid om een motorrijtuigen te besturen op enigerlei wijze is ontnomen.  | 2100  | --- | Er wordt slechts tot vervolging overgegaan indien uit het proces-verbaal blijkt dat de vervoerder kennis draagt van dit feit dan wel er geen vorm van toezicht was op de geldigheidsduur van het rijbewijs van bij de vervoerder werkzame bestuurders  |
@@ -106,36 +106,36 @@ Als sprake is van meer strafbare feiten in één strafdossier, dan moeten de gel
 | a. niet is voorzien van een snelheidsbegrenzer;  | 2100  | --- | --- |
 | b. voorzien is van een snelheidsbegrenzer die is gemanipuleerd.  | 2100  | --- | --- |
 | – Het verrichten van beroepsvervoer of eigen vervoer met een vrachtauto of samenstel van voertuigen waarbij een zodanig ernstig technisch gebrek is vastgesteld dat het voertuig of samenstel middels een vordering 160 lid 7 WVW 1994 vanwege onmiddellijk gevaar voor de verkeersveiligheid uit het verkeer is genomen.  | 2100  | --- | --- |
-| – [artikel 18 lid 2 en 3RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  | --- | --- | --- |
+| – artikel 18 lid 2 en 3RWG  | --- | --- | --- |
 | Het verrichten of doen verrichten van beroepsvervoer in strijd met de beladingsvoorschriften.  | Overbelading: *Zie bijlage 2*   | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.7 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
-| Het ter beschikking stellen aan een derde van een gewaarmerkte kopie van een communautaire vergunning voor het verrichten van beroepsvervoer.  | 4300  | --- | [Artikel 2.7 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) geldt zowel voor degene die een gewaar-merkte kopie ter beschikking stelt, als voor degene aan wie die kopie ter beschikking is gesteld.  |
+|  Artikel 2.7 WWG   | --- | --- | --- |
+| Het ter beschikking stellen aan een derde van een gewaarmerkte kopie van een communautaire vergunning voor het verrichten van beroepsvervoer.  | 4300  | --- | Artikel 2.7 WWG geldt zowel voor degene die een gewaar-merkte kopie ter beschikking stelt, als voor degene aan wie die kopie ter beschikking is gesteld.  |
 | --- | --- | --- | --- |
 | --- | --- | --- | Onder ‘een derde’ wordt verstaan een ander die niet voor rekening en risico van de vergunning-houder rijdt.  |
 | --- | --- | --- | --- |
-|  [Artikel 2.11 lid 1WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   | --- | --- | --- |
+|  Artikel 2.11 lid 1WWG   | --- | --- | --- |
 | Het verrichten van beroepsvervoer met gebruikmaking van bestuurders die niet in dienstbetrekking zijn  | 4300  | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 2.13 lid 1 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)   Het verrichten van beroepsvervoer als met   | 180  | --- | Dit verbod geldt niet voor binnenlands vervoer dat wordt verricht met een vrachtauto met een   |
-| betrekking tot dat vervoer geen vrachtbrief is opgemaakt.  | --- | --- | toegestaan laadvermogen van niet meer dan 500 kg, of krachtens [art. 15, lid 4 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) voor binnenlands vervoer van:  – levende dieren;  – inboedels;  – losgestorte goederen;  – postzendingen  – landbouwproducten van de teeltplaats naar de veiling en van dit vervoer gebezigde ledige verpakkingsmiddelen van de veiling naar de teeltplaats.  |
+|  Artikel 2.13 lid 1 WWG   Het verrichten van beroepsvervoer als met   | 180  | --- | Dit verbod geldt niet voor binnenlands vervoer dat wordt verricht met een vrachtauto met een   |
+| betrekking tot dat vervoer geen vrachtbrief is opgemaakt.  | --- | --- | toegestaan laadvermogen van niet meer dan 500 kg, of krachtens art. 15, lid 4 RWG voor binnenlands vervoer van:  – levende dieren;  – inboedels;  – losgestorte goederen;  – postzendingen  – landbouwproducten van de teeltplaats naar de veiling en van dit vervoer gebezigde ledige verpakkingsmiddelen van de veiling naar de teeltplaats.  |
 | --- | --- | --- | --- |
 |  *Regeling Wegvervoer Goederen (RWG)*   | --- | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 8 lid 1 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   Het door de houder van een CEMT-vergunning  | 500  | --- | Strafbaarstelling [art 8 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md): [art. 18 lid 1 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) jo. [art. 2.3 lid 4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) jo. [art. 1onder 4 WED](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).  |
+|  Artikel 8 lid 1 RWG   Het door de houder van een CEMT-vergunning  | 500  | --- | Strafbaarstelling art 8 RWG: art. 18 lid 1 RWG jo. art. 2.3 lid 4 WWG jo. art. 1onder 4 WED.  |
 |  niet bijhouden van het rittenboekje.  | --- | --- | --- |
 | --- | --- | --- | --- |
-| [ Artikel 8 lid 3 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   Het door de houder van een CEMT-vergunning  | 500 per rit  | --- | Idem.  |
+|  Artikel 8 lid 3 RWG   Het door de houder van een CEMT-vergunning  | 500 per rit  | --- | Idem.  |
 |  niet opmaken van een verslag van het verrichte vervoer.  | --- | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 8 lid 4 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   Het niet op chronologische volgorde opstel-  | 180  | --- | Idem.  |
+|  Artikel 8 lid 4 RWG   Het niet op chronologische volgorde opstel-  | 180  | --- | Idem.  |
 | len van de verslagen van het verrichte vervoer.  | --- | --- | --- |
 | --- | --- | --- | --- |
-|  [Artikel 8 lid 5 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   | --- | --- | Idem  |
+|  Artikel 8 lid 5 RWG   | --- | --- | Idem  |
 | Het niet tijdig verzenden van de verslagen door de houder van de C.E.M.T.-vergunning aan de NIWO.  | 180  | --- | Tijdig: Binnen twee weken na het verstrijken van de maand waarop de verslagen betrekking hebben.  |
 | --- | --- | --- | --- |
-|  [Artikel 10 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   | Houder:  | 700  | Strafbaarstelling [art 10 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md): [art. 18 lid 1 RWG](../../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)   |
-| Het door de vergunninghouder of door de bestuurder van een vrachtauto niet ervoor zorgdragen dat bij grensoverschrijdend beroepsvervoer een geldige CEMT-vergunning met bijbehorend rittenboekje onderscheidenlijk de ritmachtiging bij de vrachtauto aanwezig is.  | Bestuurder:  (per document)  | 360  | jo. [art. 2.3 lid 4 WWG](../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) jo. [art. 1onder 4 WED](../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md).  |
+|  Artikel 10 RWG   | Houder:  | 700  | Strafbaarstelling art 10 RWG: art. 18 lid 1 RWG   |
+| Het door de vergunninghouder of door de bestuurder van een vrachtauto niet ervoor zorgdragen dat bij grensoverschrijdend beroepsvervoer een geldige CEMT-vergunning met bijbehorend rittenboekje onderscheidenlijk de ritmachtiging bij de vrachtauto aanwezig is.  | Bestuurder:  (per document)  | 360  | jo. art. 2.3 lid 4 WWG jo. art. 1onder 4 WED.  |
 
 ### Bijlage  2  
 
@@ -155,7 +155,7 @@ Als het proces-verbaal melding maakt van verscheidene overtredingen ter zake ove
 
 a. de toegestane maximummassa met 20% of meer wordt overschreden bij voertuigen of samenstellen met een toegestane maximummassa van meer dan 12 ton;  
 
-b. de toegestane maximummassa met 25% of meer wordt overschreden bij voertuigen of samenstellen met een toegestane maximummassa van maximaal 12 ton.   In de [Aanwijzing WWG](../../../../../../../../beleidsregel/aanwijzing/wet/wegvervoer/goederen/BWBR0025780/README.md) zijn de opsporingsambtenaren geïnstrueerd om bij het opmaken van het proces-verbaal rekening te houden met het bovenvermelde. 
+b. de toegestane maximummassa met 25% of meer wordt overschreden bij voertuigen of samenstellen met een toegestane maximummassa van maximaal 12 ton.   In de Aanwijzing WWG zijn de opsporingsambtenaren geïnstrueerd om bij het opmaken van het proces-verbaal rekening te houden met het bovenvermelde. 
 
 ####Eis ter terechtzitting
 
@@ -209,11 +209,11 @@ In het geval van overtreding van de onderstaande voorschriften, geldt de procedu
 
 –  *Art. 5.18.17d en e lid 1 RV:* Overschrijding van de toegestane maximumlast onder as of asstel, vermeld op het Nederlandse kentekenbewijs van een motorrijtuig en/of aanhangwagen of in het kentekenregister.  
 
-–  *Art. 5.18.17d lid 2 en 3 en 5.18.17e lid 2 RV:* Overschrijding van de toegestane maximumlast onder as of asstel van een motorvoertuig en/of aanhangwagen van één of meer van de waarden vermeld in [artikel 5.18.17d lid 2 en 3](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [5.18.17e lid 2 RV](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) indien geen waarde in het Nederlandse kentekenbewijs of kentekenregister is opgenomen, of als het voertuig niet in Nederland is geregistreerd.  
+–  *Art. 5.18.17d lid 2 en 3 en 5.18.17e lid 2 RV:* Overschrijding van de toegestane maximumlast onder as of asstel van een motorvoertuig en/of aanhangwagen van één of meer van de waarden vermeld in artikel 5.18.17d lid 2 en 3 en 5.18.17e lid 2 RV indien geen waarde in het Nederlandse kentekenbewijs of kentekenregister is opgenomen, of als het voertuig niet in Nederland is geregistreerd.  
 
 –  *Art. 5.18.17g lid 1 RV:* Overschrijding van de toegestane maximum te trekken massa van de aanhangwagen, vermeld op het Nederlandse kentekenbewijs of de in het kentekenregister, of de som van de aslasten van de aanhangwagen bedraagt meer dan de vermelde toegestane maximum te trekken massa.  
 
-–  *Art. 5.18.17g lid 2 en 3 RV:* Het voertuig is niet in Nederland geregistreerd of het Nederlandse kentekenbewijs of het kentekenregister vermeldt niet de maximum te trekken massa en de getrokken massa of de som van de aslasten van de aanhangwagen meer bedraagt dan in één van de in [artikel 5.18.17 g lid 2 en 3 RV](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) vermelde waarden.  
+–  *Art. 5.18.17g lid 2 en 3 RV:* Het voertuig is niet in Nederland geregistreerd of het Nederlandse kentekenbewijs of het kentekenregister vermeldt niet de maximum te trekken massa en de getrokken massa of de som van de aslasten van de aanhangwagen meer bedraagt dan in één van de in artikel 5.18.17 g lid 2 en 3 RV vermelde waarden.  
 
 –  *Art. 5.18.25 lid 2 RV:* De last onder enige as van samenstellen van landbouw- of bosbouwtrekkers en één of meer aanhangwagens bedraagt in beladen toestand meer dan: 
 
@@ -221,7 +221,7 @@ a) 11.500 kg voor een aangedreven as;
 
 b) 10.000 kg voor een niet aangedreven as.    
 
-– [Art. 5.18.25 lid 3 RV](../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md):De last onder enige as van samenstellen van motorrijtuigen met beperkte snelheid en één of meer aanhangwagens bedraagt in beladen toestand meer dan 10.000 kg.  Tabel 4 Recidivebepaling overschrijding aslast(en) 
+– Art. 5.18.25 lid 3 RV:De last onder enige as van samenstellen van motorrijtuigen met beperkte snelheid en één of meer aanhangwagens bedraagt in beladen toestand meer dan 10.000 kg.  Tabel 4 Recidivebepaling overschrijding aslast(en) 
 
 | Categorie  | Overschrijding  | Geldboete in Euro first offenders  | Maatregel overladen  | Geldboete 1x recidive  | Geldboete 2x recidive  | Geldboete ≥3x recidive  |
 |:---|:---|:---|:---|:---|:---|:---|

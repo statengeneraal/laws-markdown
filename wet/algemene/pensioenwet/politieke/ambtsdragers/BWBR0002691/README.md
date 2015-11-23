@@ -2502,7 +2502,7 @@ c. voldoet aan de in artikel 132, tweede lid, bedoelde eisen ten aanzien van de 
 5.  De uitkering van een betrokkene ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de Wet aanpassing pensioenleeftijd Appa wordt voortgezet tot zijn pensioengerechtigde leeftijd indien zij is toegekend op grond van artikel 132, tweede lid.  
 
 ### Artikel  163cb  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  Een belanghebbende die op de datum van inwerkingtreding van de Wet verkorting duur voortgezette uitkering Appa, lid van gedeputeerde staten, wethouder of lid van het dagelijks bestuur van een waterschap is en in dit ambt wordt herbenoemd na de eerstvolgende verkiezingen voor provinciale staten, de raad of het algemeen bestuur van het waterschap na die datum, wordt bij aftreden een uitkering verstrekt overeenkomstig de regels zoals die golden op de dag voor die datum, indien hij tevens op de datum van zijn herbenoeming: 
 

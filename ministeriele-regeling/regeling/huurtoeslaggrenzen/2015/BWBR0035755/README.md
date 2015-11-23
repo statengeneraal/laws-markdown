@@ -9,15 +9,11 @@ Besluit:
 
 ####Wijziging van de Wet op de huurtoeslag en het Besluit op de huurtoeslag
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de huurtoeslag. 
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Besluit op de huurtoeslag. 
 
@@ -25,10 +21,7 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ####Vaststelling van bedragen en factoren ingevolge de Wet op de huurtoeslag
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 Het minimum-inkomensijkpunt, bedoeld in artikel 17, eerste lid, van de Wet op de huurtoeslag, is: 
 
@@ -41,7 +34,6 @@ c. voor een eenpersoonsouderenhuishouden: € 16.550;
 d. voor een meerpersoonsouderenhuishouden: € 22.150.   
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 De factoren, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag, zijn:  
 
@@ -56,20 +48,15 @@ De factoren, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag, zi
 
 ####Slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5  
-Treedt in werking per 01-01-2015 
 
 De Regeling huurtoeslaggrenzen 2014 wordt ingetrokken. 
 
 ### Artikel  6  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  7  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling huurtoeslaggrenzen 2015. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
