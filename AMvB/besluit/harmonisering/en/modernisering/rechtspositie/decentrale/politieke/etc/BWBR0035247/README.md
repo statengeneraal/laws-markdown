@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 12 mei 2014, nr. 2014-0000245127;
 
-Gelet op de [artikelen 44, tweede lid](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), en [66, tweede lid](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), [79](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [95, vierde lid, van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), de [artikelen 43, tweede lid](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), en [65, tweede lid](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), [77](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [93, vierde lid, van de Provinciewet](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en de [artikelen 32a, eerste lid](../../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md), en [44, eerste lid, van de Waterschapswet](../../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);
+Gelet op de artikelen 44, tweede lid, en 66, tweede lid, 79 en 95, vierde lid, van de Gemeentewet, de artikelen 43, tweede lid, en 65, tweede lid, 77 en 93, vierde lid, van de Provinciewet en de artikelen 32a, eerste lid, en 44, eerste lid, van de Waterschapswet en artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 18 juni 2014, no. W04.141/I);
 
@@ -42,7 +42,6 @@ Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 Wijzigt het Waterschapsbesluit. 
 
 ### Artikel  VIII  
-Treedt in werking per 15-10-2014 
 
 Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES. 
 

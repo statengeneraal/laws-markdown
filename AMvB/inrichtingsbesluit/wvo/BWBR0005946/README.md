@@ -369,7 +369,7 @@ d. de zienswijze van de leraar of leraren, belast met het betrokken onderwijs, w
 ####Aanvullende bepalingen eerste drie leerjaren vwo en havo
 
 1. Het onderwijsprogramma in de eerste drie leerjaren aan een school voor vwo en een school voor havo omvat tevens onderwijs in Franse taal en Duitse taal. 
-2. Het bevoegd gezag kan een leerling van een school als bedoeld in het eerste lid ontheffing verlenen van het volgen van onderwijs in Franse taal of Duitse taal, indien de leerling onderwijs volgt in Spaanse taal, Russische taal, Italiaanse taal, Arabische taal of Turkse taal. 
+2. Het bevoegd gezag kan een leerling van een school als bedoeld in het eerste lid ontheffing verlenen van het volgen van onderwijs in Franse taal of Duitse taal, indien de leerling onderwijs volgt in Spaanse taal, Russische taal, Italiaanse taal, Arabische taal, Turkse taal of, in het vwo, Chinese taal en cultuur. 
 3. Het bevoegd gezag kan een leerling van een school als bedoeld in het eerste lid ontheffing verlenen van het volgen van onderwijs in Franse taal of Duitse taal dan wel in beide talen, indien de leerling
 
 a.voor de eerste maal tot een school voor havo of een school voor vwo is toegelaten,
@@ -425,7 +425,7 @@ a.Nederlandse taal en literatuur: 480,
 
 b.Engelse taal en literatuur: 400,
 
-c.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, of Friese taal en cultuur ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt: 480,
+c.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, Chinese taal en cultuur of Friese taal en cultuur ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt: 480,
 
 d.maatschappijleer: 120,
 
@@ -499,7 +499,7 @@ d.een van de volgende profielkeuzevakken ter keuze van de leerling, voor zover h
 
 3°.maatschappijwetenschappen: 440;
 
-4°.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur of Friese taal en cultuur: 480. 
+4°.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, Chinese taal en cultuur of Friese taal en cultuur: 480. 
 6. Het profieldeel van het profiel cultuur en maatschappij in het gymnasium en atheneum omvat de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt in uren:
 
 a.wiskunde C: 480, met dien verstande dat de leerling het vak wiskunde C kan vervangen door wiskunde A of wiskunde B, voor zover het bevoegd gezag deze vakken als onderdeel van dit profiel aanbiedt,
@@ -512,7 +512,7 @@ c.een van de volgende culturele profielkeuzevakken ter keuze van de leerling, vo
 
 2°.filosofie: 480;
 
-3°.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, Friese taal en cultuur met een normatieve studielast van 480 uren, Latijnse taal en cultuur of Griekse taal en cultuur met een normatieve studielast van 760 uren,
+3°.Franse taal en literatuur, Duitse taal en literatuur, Spaanse taal en literatuur, Russische taal en literatuur, Italiaanse taal en literatuur, Arabische taal en literatuur, Turkse taal en literatuur, Chinese taal en cultuur, Friese taal en cultuur met een normatieve studielast van 480 uren, Latijnse taal en cultuur of Griekse taal en cultuur met een normatieve studielast van 760 uren,
 
 d.een van de volgende maatschappelijke profielkeuzevakken ter keuze van de leerling, voor zover het bevoegd gezag deze vakken aanbiedt:
 
@@ -539,9 +539,11 @@ b.de volgende vakken, met de daarbij vermelde normatieve studielast, uitgedrukt 
 
 3°.Italiaanse taal en literatuur (elementair): 480,
 
-4°.Arabische taal en literatuur (elementair): 480, en
+4°.Arabische taal en literatuur (elementair): 480,
 
-5°.Turkse taal en literatuur (elementair): 480,
+5°.Turkse taal en literatuur (elementair): 480, en
+
+6° Chinese taal en cultuur (elementair): 480, 
 
 c.de volgende vakken, met de daarbij vermelde normatieve studielast in uren:
 

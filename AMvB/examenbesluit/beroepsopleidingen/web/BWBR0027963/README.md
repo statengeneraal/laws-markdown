@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 16 maart 2010, nr. WJZ/196829 (4858), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 7.4.3a van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 3 van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);
+Gelet op artikel 7.4.3a van de Wet educatie en beroepsonderwijs en artikel 3 van de Wet College voor examens;
 
 De Raad van State gehoord (advies van 21 april 2010, nr. W05.10.0096/I);
 
@@ -22,47 +22,49 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*assistentopleiding:* assistentopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*entreeopleiding:* entreeopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel a, van de wet; 
 
-*basisberoepsopleiding:* basisberoepsopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*basisberoepsopleiding:* basisberoepsopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel b, van de wet; 
 
 *centraal examen:* centraal examen of examenonderdeel bestaande uit door het college vastgestelde toetsen die door of in opdracht van de instelling worden afgenomen overeenkomstig daarvoor bij of krachtens dit besluit gestelde eisen;  
 
-*college:* College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md);  
+*centraal examen ER voor het onderdeel rekenen:* centraal examen voor het onderdeel rekenen waarbij de opgaven zijn aangepast ten behoeve van deelnemers met ernstige rekenproblemen; 
 
-*deelnemer:* deelnemer en in voorkomende gevallen examendeelnemer als bedoeld in [artikel 8.1.1, eerste lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*college*: College voor toetsen en examens als bedoeld in artikel 2, eerste lid, van de Wet College voor toetsen en examens;  
 
-*examencommissie:* examencommissie als bedoeld in [artikel 7.4.5 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*deelnemer:* deelnemer en in voorkomende gevallen examendeelnemer als bedoeld in artikel 8.1.1, eerste lid, van de wet; 
+
+*examencommissie:* examencommissie als bedoeld in artikel 7.4.5 van de wet;  
 
 *examenonderdeel:* onderdeel van het examen van een beroepsopleiding;  
 
 *generieke examenonderdelen:* examenonderdelen die de examinering betreffen van de generieke kwalificatie-eisen; 
 
-*generieke kwalificatie-eisen:* eisen die deel uitmaken van alle kwalificaties op eenzelfde niveau, bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of van alle kwalificaties; 
+*generieke kwalificatie-eisen:* eisen die deel uitmaken van alle kwalificaties op eenzelfde niveau, bedoeld in artikel 7.2.2, derde lid, van de wet, of van alle kwalificaties; 
 
 *instellingsexamen:* examen of examenonderdeel bestaande uit toetsen die zijn vastgesteld en worden afgenomen door of in opdracht van de instelling;  
 
-*middenkaderopleiding:* middenkaderopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel d, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*middenkaderopleiding:* middenkaderopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel d, van de wet; 
 
 *onderdeel Engels:* onderdeel Engels waarvoor op grond van artikel 17a, vierde lid, van dit besluit generieke kwalificatie-eisen zijn vastgesteld; 
 
 *onderdeel loopbaan en burgerschap:* onderdeel loopbaan en burgerschap waarvoor op grond van artikel 17a, derde lid, van dit besluit generieke kwalificatie-eisen zijn vastgesteld; 
 
-*onderdeel Nederlandse taal:* onderdeel Nederlandse taal dat is vastgesteld overeenkomstig het referentieniveau Nederlandse taal, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md);  
+*onderdeel Nederlandse taal:* onderdeel Nederlandse taal dat is vastgesteld overeenkomstig het referentieniveau Nederlandse taal, bedoeld in artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen;  
 
-*onderdeel rekenen:* onderdeel rekenen dat is vastgesteld overeenkomstig het referentieniveau rekenen, bedoeld in [artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md);  
+*onderdeel rekenen:* onderdeel rekenen dat is vastgesteld overeenkomstig het referentieniveau rekenen, bedoeld in artikel 2, tweede lid, aanhef en onderdeel d, van de Wet referentieniveaus Nederlandse taal en rekenen;  
 
 *pilotexamen:* centraal examen dat bij wijze van proef wordt afgenomen in een periode voorafgaand aan de invoering van centrale examinering voor het betreffende examenonderdeel overeenkomstig daarvoor bij of krachtens artikel 19 gestelde eisen; 
 
-*specialistenopleiding:* specialistenopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel e, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*specialistenopleiding:* specialistenopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel e, van de wet; 
 
 *specifieke examenonderdelen:* examenonderdelen die de examinering betreffen van de specifieke kwalificatie-eisen die als kerntaken zijn opgenomen in het kwalificatiedossier van de beroepsopleiding waarin examen wordt gedaan; 
 
 *specifieke kwalificatie-eisen:* eisen die deel uitmaken van een bepaalde kwalificatie; 
 
-*vakopleiding:* vakopleiding, genoemd in [artikel 7.2.2, eerste lid, onderdeel c, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*vakopleiding:* vakopleiding, genoemd in artikel 7.2.2, eerste lid, onderdeel c, van de wet; 
 
-*wet:* [Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+*wet:* Wet educatie en beroepsonderwijs.   
 
 ### Hoofdstuk  II  
 
@@ -76,7 +78,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ####Reikwijdte
 
-Dit hoofdstuk is van toepassing op examens van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
+Dit hoofdstuk is van toepassing op examens van een beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, van de wet. 
 
 ### Artikel  3  
 
@@ -100,31 +102,31 @@ d. voor zover het betreft de middenkaderopleiding en de specialistenopleiding: E
 
 ####Niveau van examinering
 
-1.  Indien de examencommissie daarin toestemt, kan de deelnemer in plaats van het examen in het onderdeel Nederlandse taal of rekenen van de beroepsopleiding waarin hij examen doet, het examen in het betreffende onderdeel afleggen zoals is vastgesteld voor een beroepsopleiding van een hoger niveau als bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+1.  Indien de examencommissie daarin toestemt, kan de deelnemer in plaats van het examen in het onderdeel Nederlandse taal of rekenen van de beroepsopleiding waarin hij examen doet, het examen in het betreffende onderdeel afleggen zoals is vastgesteld voor een beroepsopleiding van een hoger niveau als bedoeld in artikel 7.2.2, derde lid, van de wet.   
 2.  Indien de deelnemer in het onderdeel Nederlandse taal of rekenen op een hoger niveau examen doet, wordt het cijfer dat is behaald voor dit onderdeel gebruikt bij het bepalen van de eindwaardering, bedoeld in artikel 15.  
 
 ### Artikel  3b  
 
-####Vrijstellingen examenonderdelen Nederlandse taal en rekenen
+####Vrijstellingen examenonderdelen Nederlandse taal, rekenen en Engels
 
-1.  De deelnemer is vrijgesteld van het examenonderdeel Nederlandse taal of rekenen indien de examencommissie heeft vastgesteld dat: 
+1.  De deelnemer is vrijgesteld van het examenonderdeel Nederlandse taal, rekenen of Engels indien de examencommissie heeft vastgesteld dat: 
 
-a. hij het betreffende examenonderdeel heeft afgelegd zoals is vastgesteld voor een beroepsopleiding van eenzelfde dan wel een hoger niveau als bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. hij het betreffende examenonderdeel heeft afgelegd zoals is vastgesteld voor een beroepsopleiding van eenzelfde dan wel een hoger niveau als bedoeld in artikel 7.2.2, derde lid, van de wet;  
 
 b. hij een eindwaardering voor het betreffende examenonderdeel van ten minste het cijfer 6 heeft behaald; en  
 
 c. er na het studiejaar waarin hij het betreffende examenonderdeel heeft afgelegd nog geen twee studiejaren zijn verstreken.     
-2.  De deelnemer is vrijgesteld van het examenonderdeel Nederlandse taal of rekenen indien de examencommissie heeft vastgesteld dat: 
+2.  De deelnemer is vrijgesteld van het examenonderdeel Nederlandse taal, rekenen of Engels indien de examencommissie heeft vastgesteld dat: 
 
-a. hij op grond van [artikel 29](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [30](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) of [60 van de Wet op het voortgezet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderwijs het eind- of staatsexamen in het vak Nederlandse taal en literatuur voor havo of vwo respectievelijk de rekentoets voor havo of vwo heeft afgelegd;  
+a. hij op grond van artikel 29, 30 of 60 van de Wet op het voortgezet onderwijs het eind- of staatsexamen in het vak Nederlandse taal en literatuur of in het vak Engelse taal en literatuur voor havo of vwo respectievelijk de rekentoets voor havo of vwo heeft afgelegd;  
 
-b. hij voor dit eind- of staatsexamen in het vak Nederlandse taal en literatuur respectievelijk deze rekentoets ten minste een eindcijfer 6 heeft behaald; en  
+b. hij voor dit eind- of staatsexamen in het vak Nederlandse taal en literatuur respectievelijk deze rekentoets ten minste een eindcijfer 6 heeft behaald respectievelijk voor dit eind- of staatsexamen in het vak Engelse taal en literatuur voor havo of vwo ten minste het eindcijfer 5 heeft behaald; en  
 
-c. er na het schooljaar waarin hij dit eind- of staatsexamen in het vak Nederlandse taal en literatuur respectievelijk deze rekentoets heeft afgelegd nog geen twee studiejaren zijn verstreken.     
-3.  Indien de examencommissie vrijstelling verleent voor het examenonderdeel Nederlandse taal of rekenen, telt de eindwaardering van het eerder afgelegde examenonderdeel of het eindcijfer van de eerder afgelegde rekentoets respectievelijk het eind- of staatsexamen in het vak Nederlandse taal en literatuur mee bij het bepalen van de uitslag.   
-4.  Het eerste lid is van overeenkomstige toepassing op het centraal examen van het onderdeel Nederlandse taal.   
-5.  Op een verzoek van de deelnemer bij de examencommissie tot vrijstelling van het instellingsexamen van het examenonderdeel Nederlandse taal beslist de examencommissie met inachtneming van de vereisten, genoemd in het eerste lid.   
-6.  Indien de examencommissie vrijstelling heeft verleend op grond van het vierde of vijfde lid, telt het cijfer voor het eerder afgelegde centraal examen respectievelijk instellingsexamen van het examenonderdeel Nederlandse taal mee bij het bepalen van de eindwaardering, bedoeld in artikel 15.  
+c. er na het schooljaar waarin hij dit eind- of staatsexamen in het vak Nederlandse taal en literatuur of in het vak Engelse taal en literatuur respectievelijk deze rekentoets heeft afgelegd nog geen twee studiejaren zijn verstreken.     
+3.  Indien de examencommissie vrijstelling verleent voor het examenonderdeel Nederlandse taal, rekenen of Engels, telt de eindwaardering van het eerder afgelegde examenonderdeel of het eindcijfer van de eerder afgelegde rekentoets respectievelijk het eind- of staatsexamen in het vak Nederlandse taal en literatuur of in het vak Engelse taal en literatuur mee bij het bepalen van de uitslag.   
+4.  Het eerste lid is van overeenkomstige toepassing op het centraal examen van het onderdeel Nederlandse taal en het centraal examen van het onderdeel Engels.   
+5.  Op een verzoek van de deelnemer bij de examencommissie tot vrijstelling van het instellingsexamen van het examenonderdeel Nederlandse taal of van het instellingsexamen van het examenonderdeel Engels beslist de examencommissie met inachtneming van de vereisten, genoemd in het eerste lid.   
+6.  Indien de examencommissie vrijstelling heeft verleend op grond van het vierde of vijfde lid, telt het cijfer voor het eerder afgelegde centraal examen respectievelijk instellingsexamen van het examenonderdeel Nederlandse taal of van het examenonderdeel Engels mee bij het bepalen van de eindwaardering, bedoeld in artikel 15.  
 
 ###Paragraaf 2 
 
@@ -140,7 +142,7 @@ Geheel centrale examinering vindt plaats voor het onderdeel rekenen van de basis
 
 ####Gedeeltelijk centrale examinering
 
-Gedeeltelijk centrale examinering vindt plaats voor het onderdeel Nederlandse taal van de basisberoepsopleiding, de vakopleiding, de middenkaderopleiding en de specialistenopleiding. 
+Gedeeltelijk centrale examinering vindt plaats voor het onderdeel Nederlandse taal van de basisberoepsopleiding, de vakopleiding, de middenkaderopleiding en de specialistenopleiding, en voor het onderdeel Engels van de middenkaderopleiding en de specialistenopleiding. 
 
 ### Artikel  6  
 
@@ -166,7 +168,9 @@ h. het geven van regels met betrekking tot de hulpmiddelen die gebruikt mogen wo
 
 i. het geven van regels voor een aangepaste wijze of vorm van examineren bij deelnemers met een handicap rekening houdend met de aard van de handicap;  
 
-j. het bij regeling vaststellen van een examenprotocol waarin de gang van zaken bij centrale examinering is vastgelegd, waaronder begrepen te nemen maatregelen bij onregelmatigheden begaan door deelnemers, het bewaren van het gemaakte examenwerk en de wijze waarop belanghebbenden kunnen kennisnemen van de beoordeling daarvan.     
+j. het bij regeling vaststellen van een examenprotocol waarin de gang van zaken bij centrale examinering is vastgelegd, waaronder begrepen te nemen maatregelen bij onregelmatigheden begaan door deelnemers, het bewaren van het gemaakte examenwerk en de wijze waarop belanghebbenden kunnen kennisnemen van de beoordeling daarvan;  
+
+k. het tot stand brengen van een centraal examen ER voor het onderdeel rekenen. Het college neemt daarbij in aanmerking het referentieniveau rekenen dat voor de desbetreffende soort beroepsopleiding is vastgesteld ingevolge artikel 3, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen, maar past de opgaven zodanig aan dat de opgaven beter geschikt zijn voor deelnemers met ernstige rekenproblemen.    
 2.  Voor zover toetsen bestaan uit open vragen geeft het college tevens regels voor de uitvoering van de correctie.   
 3.  Het college stelt de tijdvakken vast waarin centrale examinering kan plaatsvinden. De vaststelling geschiedt voor aanvang van elk studiejaar na instemming van Onze Minister.   
 4.  De regelingen, bedoeld in het eerste lid, onderdelen a, g, i en j, alsmede het tweede lid, treden slechts in werking na goedkeuring door Onze Minister. Onze Minister kan zijn goedkeuring onthouden wegens strijd met het recht of het algemeen belang.  
@@ -188,11 +192,13 @@ Onze Minister zorgt ervoor dat de instellingen tijdig beschikken over de opgaven
 
 ####Herkansing centraal examen
 
-1.  Indien de deelnemer voor een centraal examen een waardering lager dan het cijfer 6 heeft behaald, heeft hij recht op ten minste één herkansing voor dit centraal examen.   
-2.  Indien de deelnemer voor een centraal examen een waardering van ten minste het cijfer 6 heeft behaald, heeft hij recht op één herkansing voor dit centraal examen, tenzij hij eerder gebruik heeft gemaakt van het recht op herkansing, bedoeld in het eerste lid.   
-3.  De deelnemer wordt binnen de voor hem geldende studieduur voor de eerste maal in de gelegenheid gesteld de herkansing af te leggen, tenzij hij geen gebruik heeft gemaakt van de voor hem vastgestelde eerste gelegenheid tot het afleggen van het centraal examen.   
-4.  Nadat de deelnemer gebruik heeft gemaakt van een herkansingsmogelijkheid voor een centraal examen wordt het hoogste door de deelnemer behaalde cijfer voor dit centraal examen gebruikt bij het bepalen van de eindwaardering, bedoeld in artikel 15.   
-5.  Herkansing in een centraal examen vindt plaats in een volgend tijdvak.  
+1.  Indien de deelnemer voor een centraal examen een waardering lager dan het cijfer 6 heeft behaald, heeft hij recht op ten minste één herkansing voor dit centraal examen of indien hij ingevolge artikel 3a, eerste lid, zijn examen op een hoger niveau heeft afgelegd, heeft hij recht op herkansing op het niveau van de desbetreffende beroepsopleiding.   
+2.  Indien de deelnemer voor een centraal examen een waardering van ten minste het cijfer 6 heeft behaald, heeft hij recht op één herkansing voor dit centraal examen, tenzij hij eerder gebruik heeft gemaakt van het recht op herkansing, bedoeld in het eerste lid. De deelnemer kan daarbij op zijn verzoek het desbetreffende examenonderdeel op een hoger niveau afleggen dan vastgesteld voor zijn beroepsopleiding.   
+3.  Indien een centraal examen ER voor het onderdeel rekenen is afgelegd en de deelnemer daarvoor een eindwaardering van tenminste het cijfer 6 heeft behaald, kan hij de mogelijkheid tot herkansing, bedoeld in het tweede lid, ook gebruiken om het centraal examen voor het onderdeel rekenen af te leggen.  
+4.  De deelnemer wordt binnen de voor hem geldende studieduur voor de eerste maal in de gelegenheid gesteld de herkansing af te leggen, tenzij hij geen gebruik heeft gemaakt van de voor hem vastgestelde eerste gelegenheid tot het afleggen van het centraal examen.   
+5.  Nadat de deelnemer gebruik heeft gemaakt van een herkansingsmogelijkheid voor een centraal examen wordt het hoogste door de deelnemer behaalde cijfer voor dit centraal examen gebruikt bij het bepalen van de eindwaardering, bedoeld in artikel 15.   
+6.  Indien zowel het centraal examen als het centraal examen ER voor het onderdeel rekenen is afgelegd of het examenonderdeel Nederlandse taal of rekenen mede op een hoger niveau is afgelegd, en voor elk examenonderdeel ten minste het cijfer 6 is behaald, bepaalt de examencommissie in afwijking van het vijfde lid in overleg met de deelnemer welk cijfer wordt gebruikt voor het bepalen van de eindwaardering, bedoeld in artikel 15. Artikel 3a, tweede lid, is niet van toepassing.  
+7.  Herkansing in een centraal examen vindt plaats in een volgend tijdvak.  
 
 ### Artikel  9  
 
@@ -227,6 +233,32 @@ c. het door het college vastgestelde examenprotocol in acht wordt genomen.
 
 Indien door onvoorziene omstandigheden het centraal examen voor één of meer onderdelen van één of meer beroepsopleidingen niet op de voorgeschreven wijze kan worden afgenomen, beslist Onze Minister hoe in dat geval moet worden gehandeld. 
 
+### Artikel  12a  
+
+####Centraal examen en onvoldoende beheersing Nederlandse taal
+
+De examencommissie kan in verband met onvoldoende beheersing van de Nederlandse taal de duur van de desbetreffende toets van het centraal examen voor het onderdeel Nederlandse taal en voor het onderdeel rekenen met ten hoogste 30 minuten verlengen ten aanzien van een deelnemer die met inbegrip van het studiejaar waarin hij examen aflegt, ten hoogste zes jaren onderwijs in Nederland heeft gevolgd en voor wie het Nederlands niet de moedertaal is. 
+
+### Artikel  12b  
+
+####Aangepast examenonderdeel rekenen bij ernstige rekenproblemen
+
+1.  De examencommissie informeert een deelnemer tijdig voor de eerste gelegenheid over de mogelijkheid van het afleggen van het centraal examen ER voor het onderdeel rekenen, alsmede over de mogelijke gevolgen van het afleggen van een rekenexamen voor doorstroom naar het vervolgonderwijs of voor de arbeidsmarkt.   
+2.  Indien de examencommissie daarin toestemt, kan de deelnemer in plaats van het centraal examen voor het onderdeel rekenen van de beroepsopleiding waarin hij examen doet, het centraal examen ER voor het onderdeel rekenen van die beroepsopleiding afleggen.  
+
+### Artikel  12c  
+
+####Voorwaarden centraal examen ER voor het onderdeel rekenen
+
+1.  Op verzoek van een deelnemer verleent de examencommissie toestemming voor het afleggen van het centraal examen ER voor het onderdeel rekenen indien de deelnemer aantoonbaar ernstige problemen heeft met de beheersing van de vereiste rekenvaardigheden.   
+2.  Er is in ieder geval sprake van aantoonbare ernstige rekenproblemen indien de deelnemer: 
+
+a. zich heeft ingespannen de vereiste rekenvaardigheden te leren;  
+
+b. daarbij gebruik heeft gemaakt van de door de instelling geboden extra ondersteuning, en  
+
+c. hij desondanks aanhoudend onvoldoende resultaten laat zien.    
+
 ### Paragraaf  3  
 
 ####Instellingsexamen
@@ -235,7 +267,7 @@ Indien door onvoorziene omstandigheden het centraal examen voor één of meer on
 
 ####Gang van zaken instellingsexamen
 
-Het instellingsexamen vindt plaats overeenkomstig de door de examencommissie krachtens de [wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) vastgestelde regels. 
+Het instellingsexamen vindt plaats overeenkomstig de door de examencommissie krachtens de wet vastgestelde regels. 
 
 ### Artikel  14  
 
@@ -248,7 +280,7 @@ Bij gedeeltelijk centrale examinering van een examenonderdeel worden de waarderi
 ####Vrijstelling instellingsexamen
 
 1.  De deelnemer kan een verzoek tot vrijstelling van een instellingsexamen indienen bij de examencommissie. De examencommissie beslist hierop met inachtneming van de kwalificatie-eisen die zijn opgenomen in het kwalificatiedossier van de beroepsopleiding waarin examen wordt gedaan.   
-2.  Het eerste lid is niet van toepassing op het examenonderdeel Nederlandse taal.  
+2.  Het eerste lid is niet van toepassing op het examenonderdeel Nederlandse taal en het examenonderdeel Engels.  
 
 ### Paragraaf  4  
 
@@ -266,7 +298,7 @@ a. die in ieder geval de waarderingen «onvoldoende», «voldoende» en «goed»
 b. waarin tevens uitsluitend de waarderingen «zeer slecht», «slecht», «ruim onvoldoende», «ruim voldoende», «zeer goed» en «uitmuntend» kunnen worden opgenomen.     
 3.  Indien een examenonderdeel uitsluitend bestaat uit een centraal examen dan wel een instellingsexamen, is de waardering voor dat onderdeel tevens de eindwaardering voor dat onderdeel.   
 4.  Indien een examenonderdeel bestaat uit zowel een centraal examen als een instellingsexamen, bepaalt de examencommissie de eindwaardering voor dat onderdeel op het rekenkundig gemiddelde van het cijfer voor het instellingsexamen en het cijfer voor het centraal examen.   
-4.  In afwijking van het eerste lid wordt de eindwaardering voor het onderdeel loopbaan en burgerschap uitgedrukt in «niet voldaan» of «voldaan». 
+5.  In afwijking van het eerste lid wordt de eindwaardering voor het onderdeel loopbaan en burgerschap uitgedrukt in «niet voldaan» of «voldaan». 
 
 ### Artikel  16  
 
@@ -278,19 +310,19 @@ De examencommissie stelt de uitslag van het examen vast met inachtneming van art
 
 ####Uitslag
 
-1.  Onverminderd [artikel 7.4.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is het examen voor de assistentopleiding met goed gevolg afgelegd, indien: 
+1.  Onverminderd artikel 7.4.3 van de wet is het examen voor de entreeopleiding met goed gevolg afgelegd, indien: 
 
 a. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van artikel 14a vrijstelling is verkregen; en  
 
 b. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.     
-2.  Onverminderd [artikel 7.4.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg afgelegd, indien: 
+2.  Onverminderd artikel 7.4.3 van de wet is het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg afgelegd, indien: 
 
 a. voor één van de onderdelen Nederlandse taal en rekenen een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald;  
 
 b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 of ten minste «voldoende» is behaald, dan wel op grond van artikel 14a vrijstelling is verkregen; en  
 
 c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.     
-3.  Onverminderd [artikel 7.4.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg afgelegd, indien: 
+3.  Onverminderd artikel 7.4.3 van de wet is het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg afgelegd, indien: 
 
 a. voor één van de onderdelen Engels, Nederlandse taal en rekenen een eindwaardering van ten minste het cijfer 5 en voor de andere twee genoemde onderdelen ten minste het cijfer 6 is behaald;  
 
@@ -307,10 +339,10 @@ c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is 
 
 ####Generieke kwalificatie-eisen
 
-1.  Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor Nederlandse taal opgenomen overeenkomstig het desbetreffende referentieniveau, bedoeld in [artikel 2, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md).   
-2.  Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor rekenen opgenomen overeenkomstig het desbetreffende referentieniveau, bedoeld in [artikel 3, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen](../../../../../AMvB/besluit/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027879/README.md).   
+1.  Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor Nederlandse taal opgenomen overeenkomstig het desbetreffende referentieniveau, bedoeld in artikel 2, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen.   
+2.  Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor rekenen opgenomen overeenkomstig het desbetreffende referentieniveau, bedoeld in artikel 3, onderdelen h tot en met l, van het Besluit referentieniveaus Nederlandse taal en rekenen.   
 3.  Voor elke kwalificatie worden in het kwalificatiedossier generieke kwalificatie-eisen voor loopbaan en burgerschap opgenomen overeenkomstig bijlage 1 bij dit besluit.   
-4.  Voor elke kwalificatie voor het vierde niveau bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) worden in het kwalificatiedossier generieke kwalificatie-eisen voor Engels opgenomen overeenkomstig de volgende referentieniveaus zoals opgenomen in bijlage 2 bij dit besluit: 
+4.  Voor elke kwalificatie voor het vierde niveau bedoeld in artikel 7.2.2, derde lid, van de wet worden in het kwalificatiedossier generieke kwalificatie-eisen voor Engels opgenomen overeenkomstig de volgende referentieniveaus zoals opgenomen in bijlage 2 bij dit besluit: 
 
 a. lezen en luisteren: B1,  
 
@@ -330,47 +362,71 @@ In het toelichtende deel van het kwalificatiedossier wordt aangegeven hoe de spe
 
 ####Invoering centrale examinering en specifieke en generieke examenonderdelen
 
-1.  Centrale examinering als bedoeld in de artikelen 4 en 5 vindt voor de eerste maal plaats: 
+1.  Centrale examinering voor het onderdeel rekenen als bedoeld in artikel 4 vindt voor de eerste maal plaats: 
 
-a. in het studiejaar 2013–2014 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2010;  
+a. in het studiejaar 2015–2016 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2010;  
 
-b. in het studiejaar 2014–2015 bij de basisberoepsopleiding en de vakopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2012.     
-2.  Indien de resultaten van eerdere pilotexamens als bedoeld in artikel 19, dan wel onvoorziene omstandigheden daartoe aanleiding geven, kan bij koninklijk besluit een later studiejaar worden bepaald dat voor de onderdelen Nederlandse taal en rekenen verschillend kan worden vastgesteld.   
-3.  Voor de deelnemer die voor 1 augustus 2012 een aanvang heeft gemaakt met een basisberoepsopleiding of vakopleiding en deze opleiding nog niet heeft voltooid in het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, vindt centrale examinering voor de eerste maal plaats in het tweede studiejaar volgend op het studiejaar waarin de voor hem geldende studieduur is verstreken.   
-4.  Het examen van een beroepsopleiding wordt voor de eerste maal ingedeeld in specifieke en generieke examenonderdelen als bedoeld in artikel 3, in het studiejaar 2012–2013 bij beroepsopleidingen waarmee een aanvang wordt gemaakt op of na 1 augustus 2012.   
-5.  Op het examen van de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding waarmee een aanvang is gemaakt voor 1 augustus 2012 zijn de artikelen 3 en 17 van toepassing zoals deze artikelen luidden voor 1 augustus 2012 met dien verstande dat daarbij het bepaalde in artikel 19, vierde lid, in acht wordt genomen en in geval van centrale examinering van de basisberoepsopleiding en de vakopleiding voor de deelnemers, bedoeld in het derde lid, artikel 18a, eerste lid, aanhef en onderdeel a, van overeenkomstige toepassing is.   
-6.  De deelnemer is niet vrijgesteld van het examen in het examenonderdeel Nederlandse taal op grond van artikel 3b, tweede lid, indien bij het door de deelnemer afgelegde examen in het vak Nederlandse taal en literatuur, het op grond van [artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen](../../../../../wet/wet/referentieniveaus/nederlandse/taal/en/rekenen/BWBR0027679/README.md) vastgestelde referentieniveau voor Nederlandse taal voor havo of vwo niet in acht is genomen.  
+b. in het studiejaar 2016–2017 bij de basisberoepsopleiding en de vakopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2012.     
+2.  Centrale examinering voor het onderdeel Nederlandse taal als bedoeld in artikel 5 vindt voor de eerste maal plaats: 
+
+a. in het studiejaar 2014–2015 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2010;  
+
+b. in het studiejaar 2015–2016 bij de basisberoepsopleiding en de vakopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2012.     
+3.  Centrale examinering voor het onderdeel Engels als bedoeld in artikel 5 vindt voor de eerste maal plaats in het studiejaar 2017–2018 bij de middenkaderopleiding en de specialistenopleiding waarmee een aanvang is gemaakt op of na 1 augustus 2014.  
+4.  Indien de resultaten van eerdere pilotexamens als bedoeld in artikel 19, dan wel onvoorziene omstandigheden daartoe aanleiding geven, kan bij koninklijk besluit een later studiejaar worden bepaald dat voor de onderdelen Nederlandse taal, rekenen en Engels verschillend kan worden vastgesteld.   
+5.  Voor de deelnemer die voor 1 augustus 2012 een aanvang heeft gemaakt met een basisberoepsopleiding of vakopleiding en deze opleiding nog niet heeft voltooid in het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, vindt centrale examinering voor de eerste maal plaats in het tweede studiejaar volgend op het studiejaar waarin de voor hem geldende studieduur is verstreken.   
+6.  Het examen van een beroepsopleiding wordt voor de eerste maal ingedeeld in specifieke en generieke examenonderdelen als bedoeld in artikel 3, in het studiejaar 2012–2013 bij beroepsopleidingen waarmee een aanvang wordt gemaakt op of na 1 augustus 2012.   
+7.  Op het examen van de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding waarmee een aanvang is gemaakt voor 1 augustus 2012 zijn de artikelen 3 en 17 van toepassing zoals deze artikelen luidden voor 1 augustus 2012 met dien verstande dat daarbij het bepaalde in artikel 19, vierde lid, in acht wordt genomen en in geval van centrale examinering van de basisberoepsopleiding en de vakopleiding voor de deelnemers, bedoeld in het derde lid, artikel 18a, eerste lid, aanhef en onderdeel a, van overeenkomstige toepassing is.   
+8.  De deelnemer is niet vrijgesteld van het examen in het examenonderdeel Nederlandse taal op grond van artikel 3b, tweede lid, indien bij het door de deelnemer afgelegde examen in het vak Nederlandse taal en literatuur, het op grond van artikel 2, tweede lid, aanhef en onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen vastgestelde referentieniveau voor Nederlandse taal voor havo of vwo niet in acht is genomen.  
 
 ### Artikel  18a  
 
-####Overgangsbepaling uitslagregeling basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding
+####Overgangsbepaling uitslagregeling in verband met de invoering van centrale examinering van het onderdeel Nederlandse taal
 
-1.  In afwijking van artikel 17, tweede lid, en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), geldt in het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt en het daaropvolgende studiejaar dat het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg is afgelegd, indien: 
+1.  In afwijking van artikel 17, tweede lid, en onverminderd artikel 17, vierde lid, van dit besluit en artikel 7.4.3 van de wet, geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de basisberoepsopleiding en de vakopleiding met goed gevolg is afgelegd, indien: 
 
-a. voor zowel de onderdelen Nederlandse taal als rekenen een eindwaardering van ten minste het cijfer 5 is behaald;  
+a. voor het onderdeel Nederlandse taal een eindwaardering van ten minste het cijfer 5 is behaald;  
 
 b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van artikel 14a vrijstelling is verkregen; en  
 
 c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.     
-2.  In afwijking van artikel 17, derde lid, en onverminderd artikel 17, vierde lid, van dit besluit en [artikel 7.4.3 van de wet](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), geldt in het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt en het daaropvolgende studiejaar dat het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg is afgelegd, indien: 
+2.  In afwijking van artikel 17, derde lid, en onverminderd artikel 17, vierde lid, van dit besluit en artikel 7.4.3 van de wet, geldt in het studiejaar waarin centrale examinering voor het onderdeel Nederlandse taal voor de eerste maal plaatsvindt dat het examen voor de middenkaderopleiding en de specialistenopleiding met goed gevolg is afgelegd, indien: 
 
-a. voor twee van de onderdelen Engels, Nederlandse taal en rekenen een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald, dan wel op grond van artikel 14a vrijstelling is verkregen;  
+a. voor het onderdeel Nederlandse taal of het onderdeel Engels een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 is behaald, dan wel op grond van artikel 14a vrijstelling is verkregen;  
 
 b. voor alle specifieke examenonderdelen een eindwaardering van ten minste het cijfer 6 dan wel ten minste «voldoende» is behaald dan wel op grond van artikel 14a vrijstelling is verkregen; en  
 
 c. voor het onderdeel loopbaan en burgerschap een eindwaardering «voldaan» is behaald.    
 
+### Artikel  18b  
+
+####Assistentopleiding
+
+De bepalingen in dit besluit die van toepassing zijn op de entreeopleiding zijn tevens van toepassing op de assistentopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdeel a, van de wet zoals dat onderdeel luidde op 31 juli 2014. 
+
+### Artikel  18c  
+
+####Overgangsbepaling uitslagregeling in verband met de invoering van centrale examinering van het onderdeel rekenen
+
+1.  In afwijking van artikel 17, tweede lid, onderdeel a, dient voor het examenonderdeel Nederlandse taal een eindwaardering van ten minste het cijfer 5 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd in: 
+
+a. de basisberoepsopleiding,  
+
+b. de vakopleiding.     
+2.  In afwijking van artikel 17, derde lid, onderdeel a, dient in de middenkaderopleiding en in de specialistenopleiding voor één van de onderdelen Engels en Nederlandse taal een eindwaardering van ten minste het cijfer 5 en voor het andere genoemde onderdeel ten minste het cijfer 6 te zijn behaald, en het examenonderdeel rekenen te zijn afgelegd.   
+3.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.  
+
 ### Artikel  19  
 
 ####Pilot centrale examinering
 
-1.  In één of meer studiejaren gelegen voor het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, kan voor de onderdelen Nederlandse taal en rekenen bij wijze van proef geheel of gedeeltelijk centrale examinering plaatsvinden door middel van een pilotexamen. Het bevoegd gezag van een instelling beslist of bij die instelling pilotexamens plaatsvinden.   
-2.  Deelname aan een pilotexamen, niet zijnde een instellingsexamen, in het laatste studiejaar voorafgaande aan het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, levert voor de onderdelen Nederlandse taal of rekenen een vrijstelling van uitsluitend het centraal examen voor het betreffende onderdeel op indien: 
+1.  In één of meer studiejaren gelegen voor het studiejaar waarin krachtens artikel 18 centrale examinering voor de onderdelen Nederlandse taal, rekenen of Engels voor de eerste maal plaatsvindt, kan voor de onderdelen Nederlandse taal, rekenen en Engels bij wijze van proef geheel of gedeeltelijk centrale examinering plaatsvinden door middel van een pilotexamen. Het bevoegd gezag van een instelling beslist of bij die instelling pilotexamens plaatsvinden.   
+2.  Deelname aan een pilotexamen, niet zijnde een instellingsexamen, in het laatste studiejaar voorafgaande aan het studiejaar waarin centrale examinering voor de eerste maal plaatsvindt, levert voor de onderdelen Nederlandse taal, rekenen of Engels een vrijstelling van uitsluitend het centraal examen voor het betreffende onderdeel op indien: 
 
 a. dit overeenkomstig artikel 7a is afgenomen; en  
 
-b. voor dit pilotexamen ten minste het cijfer 6 is behaald.     
-3.  Bij vrijstelling voor de onderdelen Nederlandse taal of rekenen op grond van het tweede lid, telt de waardering voor het pilotexamen mee bij het bepalen van de eindwaardering, bedoeld in artikel 15.  
+b. voor zover het pilotexamen het onderdeel Nederlandse taal of Engels betreft, voor dit pilotexamen ten minste het cijfer 6 is behaald.     
+3.  Bij vrijstelling voor de onderdelen Nederlandse taal, rekenen of Engels op grond van het tweede lid, telt de waardering voor het pilotexamen mee bij het bepalen van de eindwaardering, bedoeld in artikel 15.  
 4.  Indien een pilotexamen of uitsluitend een instellingsexamen voor de onderdelen Nederlandse taal of rekenen van een beroepsopleiding is afgenomen voordat centrale examinering van die onderdelen voor de deelnemer voor de eerste maal plaatsvindt, heeft de waardering daarvan met een cijfer lager dan 6 dan wel met «onvoldoende» geen gevolgen voor het behalen van het diploma.   
 5.  Bij ministeriële regeling kunnen nadere regels worden vastgesteld omtrent pilotexamens.  
 

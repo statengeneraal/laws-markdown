@@ -487,8 +487,6 @@ b. indien het betreft het staatsexamen vmbo:
 
 ####Voorschriften judicium cum laude
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Een kandidaat is geslaagd voor het staatsexamen vwo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
 
 a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 

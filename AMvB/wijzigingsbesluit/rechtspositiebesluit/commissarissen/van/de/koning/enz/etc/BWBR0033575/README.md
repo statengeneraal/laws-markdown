@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 mei 2013, nr. 2013-0000282194, CZW;
 
-Gelet op de [artikelen 44, tweede lid](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), en [66, tweede lid, van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), de [artikelen 43, tweede lid](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), en [65, tweede lid, van de Provinciewet](../../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en de [artikelen 32a, eerste lid](../../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md), en [44, eerste lid, van de Waterschapswet](../../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);
+Gelet op de artikelen 44, tweede lid, en 66, tweede lid, van de Gemeentewet, de artikelen 43, tweede lid, en 65, tweede lid, van de Provinciewet en de artikelen 32a, eerste lid, en 44, eerste lid, van de Waterschapswet en artikel 193, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 31 mei 2013, no. W04.13.0142/I);
 
@@ -51,8 +51,8 @@ Voor de periode van 1 januari 2007 tot 1 januari 2013 compenseert de minister 
 
 ### Artikel  X  
 
-1.  Een uitkering op grond van een uitkeringsregeling op basis van [artikel 9 van het Rechtspositiebesluit raads- en commissieleden](../../../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) aan raadsleden, die uiterlijk aanvangt op de datum van aftreden van de leden van de raad in de oude samenstelling na de raadsverkiezingen van 2014, of een herindelingsverkiezing na publicatie van dit besluit maar vóór de raadsverkiezingen in 2014, wordt verstrekt tegen de voorwaarden van de verordening, zoals die gold op de dag voor de inwerkingtreding van dit besluit.   
-2.  Een uitkering op grond van een uitkeringsregeling op basis van [artikel 8 van het Rechtspositiebesluit staten- en commissieleden](../../../../../../../../../../AMvB/rechtspositiebesluit/raads-/en/commissieleden/BWBR0006536/README.md) aan leden van provinciale staten, die uiterlijk aanvangt op de datum van aftreden van de leden van de provinciale staten in de oude samenstelling na de provincialestatenverkiezingen van 2015, wordt verstrekt tegen de voorwaarden van de verordening, zoals die gold op de dag voor de inwerkingtreding van dit besluit.  
+1.  Een uitkering op grond van een uitkeringsregeling op basis van artikel 9 van het Rechtspositiebesluit raads- en commissieleden aan raadsleden, die uiterlijk aanvangt op de datum van aftreden van de leden van de raad in de oude samenstelling na de raadsverkiezingen van 2014, of een herindelingsverkiezing na publicatie van dit besluit maar vóór de raadsverkiezingen in 2014, wordt verstrekt tegen de voorwaarden van de verordening, zoals die gold op de dag voor de inwerkingtreding van dit besluit.   
+2.  Een uitkering op grond van een uitkeringsregeling op basis van artikel 8 van het Rechtspositiebesluit staten- en commissieleden aan leden van provinciale staten, die uiterlijk aanvangt op de datum van aftreden van de leden van de provinciale staten in de oude samenstelling na de provincialestatenverkiezingen van 2015, wordt verstrekt tegen de voorwaarden van de verordening, zoals die gold op de dag voor de inwerkingtreding van dit besluit.  
 
 ### Artikel  XI  
 

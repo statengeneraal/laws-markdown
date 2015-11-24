@@ -5,11 +5,11 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Gelet op:
 
-– [artikel IV, tweede lid, van de Wet van 27 april 2006 tot wijziging van de Wet op het voortgezet onderwijs ter aanpassing van de profielen in de tweede fase van het vwo en het havo](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/(aanpassing/profielen/tweede/etc/BWBR0019799/README.md), [artikel 9, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), en [artikel 10, vijfde lid, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md);
+– artikel IV, tweede lid, van de Wet van 27 april 2006 tot wijziging van de Wet op het voortgezet onderwijs ter aanpassing van de profielen in de tweede fase van het vwo en het havo, artikel 9, vierde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o., en artikel 10, vijfde lid, van het Besluit staatsexamens vwo-havo-mavo 2000;
 
-– [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);
+– artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.;
 
-– [artikel 7 van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md);
+– artikel 7 van het Besluit staatsexamens vwo-havo-mavo 2000;
 Besluit:    
 
 ### Artikel  1  
@@ -18,31 +18,31 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. WVO: [Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+a. WVO: Wet op het voortgezet onderwijs;  
 
-b. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7 van de WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. vwo: voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 van de WVO;  
 
-c. havo: hoger algemeen voortgezet onderwijs als bedoeld in [artikel 8 van de WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. havo: hoger algemeen voortgezet onderwijs als bedoeld in artikel 8 van de WVO;  
 
-d. opleiding vavo: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d. opleiding vavo: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs;  
 
-e. deelstaatsexamen: het examen, bedoeld in [artikel 1, onderdeel k, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md);  
+e. deelstaatsexamen: het examen, bedoeld in artikel 1, onderdeel k, van het Besluit staatsexamens vwo-havo-mavo 2000;  
 
-f. deeleindexamen: het deeleindexamen, bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
+f. deeleindexamen: het deeleindexamen, bedoeld in artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.;  
 
-g. kandidaat: een kandidaat als bedoeld in [artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 1, eerste lid, onderdeel v, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md).   
+g. kandidaat: een kandidaat als bedoeld in artikel 1, eerste lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. of artikel 1, eerste lid, onderdeel v, van het Besluit staatsexamens vwo-havo-mavo 2000.   
 
 ### Artikel  2  
 
 ####Vrijstelling vwo/havo nieuw naar oud
 
-De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens die voorschriften, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 1a en 1b van deze regeling. 
+De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens die voorschriften, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 1a en 1b van deze regeling. 
 
 ### Artikel  3  
 
 ####Vrijstelling vwo/havo oud naar nieuw
 
-De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de [WVO](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens de voorschriften zoals luidend vanaf 1 augustus 2007, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 2a en 2b van deze regeling. 
+De kandidaat die het eindexamen of deeleindexamen havo of vwo heeft afgelegd volgens de bij of krachtens de WVO gegeven voorschriften zoals luidend tot en met 31 juli 2007 en daarvoor is afgewezen of het eindexamen niet heeft afgerond, en die het deelstaatsexamen, onderscheidenlijk het deeleindexamen havo of vwo aan een opleiding vavo, wil afleggen volgens de voorschriften zoals luidend vanaf 1 augustus 2007, is daarbij vrijgesteld van het afleggen van examen in de vakken, genoemd in de bijlagen 2a en 2b van deze regeling. 
 
 ### Artikel  5  
 

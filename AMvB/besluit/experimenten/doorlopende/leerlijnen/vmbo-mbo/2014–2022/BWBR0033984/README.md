@@ -318,6 +318,17 @@ Het bevoegd gezag werkt mee aan de monitoring van de experimenten door Onze Mini
 
 Onze Minister zendt in 2021 aan de Staten Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk gericht op de doelstellingen, bedoeld in artikel 2, tweede lid. 
 
+### Artikel  16a  
+
+####Tijdelijke uitslagregeling vanwege overgangsperiode rekentoets
+
+1.  In afwijking van artikel 7, derde lid, onderdeel b, kan de kandidaat binnen de vakmanschaproute als bedoeld in artikel 2, eerste lid, onderdeel a, sub 1, zolang artikel 61 van het Eindexamenbesluit VO van toepassing is op zijn beroepsgerichte leerweg van het vmbo, zijn basisberoepsopleiding met goed gevolg afronden indien hij van het eindexamen vmbo: 
+
+a. voor de vakken Nederlandse taal en Engelse taal ten minste een eindcijfer 5 en een eindcijfer 6 heeft behaald, en  
+
+b. de rekentoets heeft afgelegd.     
+2.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.  
+
 ### Artikel  17  
 
 ####Inwerkingtreding

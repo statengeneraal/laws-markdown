@@ -715,6 +715,11 @@ Ten aanzien van degene die met de waarneming van het ambt van burgemeester is be
 1.  De raad kan regelen van welke beslissingen van de burgemeester aan de leden van de raad kennisgeving wordt gedaan. Daarbij kan de raad de gevallen bepalen waarin met terinzagelegging kan worden volstaan.    
 2.   De burgemeester laat de kennisgeving of terinzagelegging achterwege voor zover deze in strijd is met het openbaar belang.   
 
+### Artikel  81bis  
+Treedt in werking op een nader te bepalen tijdstip 
+
+De commissaris verricht de werkzaamheden, genoemd in de artikelen 61, 61a, 61b, 65, 69, 71, 72 en 78, volgens een door de regering gegeven ambtsinstructie. 
+
 ### Hoofdstuk  IVa  
 
 ####De rekenkamer

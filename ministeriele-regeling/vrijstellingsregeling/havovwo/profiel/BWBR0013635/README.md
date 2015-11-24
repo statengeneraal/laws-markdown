@@ -3,20 +3,20 @@
 ##Vrijstellingsregeling havo/vwo profiel
 
 De staatssecretaris van onderwijs, cultuur en wetenschappen, 
-Gelet op: [artikel 9, vijfde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [artikel 10, vijfde lid, van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md);
+Gelet op: artikel 9, vijfde lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. en artikel 10, vijfde lid, van het Besluit staatsexamens vwo-havo-mavo 2000;
 Besluit    
 
 ### Artikel  1  
 
 ####Vrijstelling havo (profiel) op grond van examen vwo (profiel)
 
-De kandidaat die het eindexamen h.a.v.o. (profiel) aflegt aan een instelling voor educatie en beroepsonderwijs (v.a.v.o.) of die het staatsexamen h.a.v.o. (profiel) aflegt en die met toepassing van [artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 10 van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) in aanmerking komt voor vrijstelling doordat hij reeds eerder examen v.w.o. (profiel) heeft afgelegd, wordt die vrijstelling verleend overeenkomstig de bijlage bij deze regeling. 
+De kandidaat die het eindexamen h.a.v.o. (profiel) aflegt aan een instelling voor educatie en beroepsonderwijs (v.a.v.o.) of die het staatsexamen h.a.v.o. (profiel) aflegt en die met toepassing van artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. of artikel 10 van het Besluit staatsexamens vwo-havo-mavo 2000 in aanmerking komt voor vrijstelling doordat hij reeds eerder examen v.w.o. (profiel) heeft afgelegd, wordt die vrijstelling verleend overeenkomstig de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
 ####Vrijstelling ckv 3 in andere gevallen
 
-De kandidaat die het eindexamen v.w.o. of h.a.v.o. (profiel) aflegt aan een instelling voor educatie en beroepsonderwijs (v.a.v.o.) of die het staatsexamen v.w.o. of h.a.v.o. (pro- fiel) aflegt en die met toepassing van [artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of [artikel 10 van het Besluit staatsexamens vwo-havo-mavo 2000](../../../../../AMvB/staatsexamenbesluit/vo/BWBR0011538/README.md) in aanmerking komt voor vrijstelling doordat hij reeds eerder het desbetreffende examen heeft afgelegd, wordt vrijstelling verleend voor culturele en kunstzinnige vorming 3 (beeldende vormgeving) of culturele en kunstzinnige vorming 3 (muziek) met overeenkomstige toepassing van de bijlage bij deze regeling. 
+De kandidaat die het eindexamen v.w.o. of h.a.v.o. (profiel) aflegt aan een instelling voor educatie en beroepsonderwijs (v.a.v.o.) of die het staatsexamen v.w.o. of h.a.v.o. (pro- fiel) aflegt en die met toepassing van artikel 9 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. of artikel 10 van het Besluit staatsexamens vwo-havo-mavo 2000 in aanmerking komt voor vrijstelling doordat hij reeds eerder het desbetreffende examen heeft afgelegd, wordt vrijstelling verleend voor culturele en kunstzinnige vorming 3 (beeldende vormgeving) of culturele en kunstzinnige vorming 3 (muziek) met overeenkomstige toepassing van de bijlage bij deze regeling. 
 
 ### Artikel  3  
 

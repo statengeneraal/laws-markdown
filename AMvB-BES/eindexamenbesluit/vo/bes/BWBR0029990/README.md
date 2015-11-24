@@ -697,6 +697,47 @@ b. indien het betreft het eindexamen vmbo:
 
 ### Artikel  39a  
 
+####Voorschriften judicium cum laude
+
+1.  Een kandidaat is geslaagd voor het eindexamen vwo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 37a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en    
+
+b. ten minste het eindcijfer 7 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 37a.     
+2.  Een kandidaat is geslaagd voor het eindexamen havo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken in het gemeenschappelijke deel van het profiel, het eindcijfer berekend op grond van artikel 37a, tweede lid, en de vakken van het profieldeel, en  
+
+2°. het vak uit het vrije deel waarvoor het hoogste eindcijfer is vastgesteld, en    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 37a.     
+3.  Een kandidaat is geslaagd voor het eindexamen vmbo theoretische leerweg of gemengde leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van de eindcijfers voor: 
+
+1°. de vakken Nederlandse taal, Engelse taal en maatschappijleer, en de vakken van het sectordeel, en  
+
+2°. het vak uit het vrije deel, waarvoor het hoogste eindcijfer is vastgesteld, en    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor het sectorwerkstuk en alle vakken die meetellen bij de uitslagbepaling op grond van artikel 37.     
+4.  Een kandidaat is geslaagd voor het eindexamen vmbo basisberoepsgerichte leerweg of kaderberoepsgerichte leerweg met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
+
+a. ten minste het gemiddelde eindcijfer 8,0, berekend op basis van: 
+
+1°. de eindcijfers voor de twee algemene vakken uit het sectordeel, en  
+
+2°. twee maal het eindcijfer voor het afdelingsvak, intrasectorale programma of intersectorale programma uit het vrije deel, en    
+
+b. ten minste het eindcijfer 6 of ten minste de kwalificatie «voldoende» voor alle vakken die meetellen bij de uitslagbepaling op grond van artikel 37.    
+
+### Artikel  39b  
+
 ####Atheneumdiploma aan een gymnasium
 
 De directeur van een scholengemeenschap of school voor vwo die gymnasium verzorgt, kan in plaats van een diploma gymnasium een diploma atheneum uitreiken aan een kandidaat indien: 
