@@ -80,9 +80,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  10  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De entiteiten van Kroatië, vermeld in bijlage VIII bij dit protocol, worden toegevoegd aan de relevante onderafdelingen van afdeling B van aanhangsel 1 van bijlage XII bij de overeenkomst.   
-2.  Kroatië is opgenomen op de lijst van goederen en materiaal aangekocht door ministeries van Defensie en agentschappen voor defensie- of beveiligingsactiviteiten in onderafdeling 1 van afdeling B van aanhangsel 1 van bijlage XII bij de overeenkomst.   
-3.  De in bijlage IX bij dit protocol vermelde publicaties van Kroatië worden toegevoegd aan aanhangsel 2 van bijlage XII bij de overeenkomst.  
+Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012. 
 
 ### AFDELING  V  
 

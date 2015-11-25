@@ -48,15 +48,13 @@ Regels voor het invullen van het diploma en de resultatenlijsten zoals in deze r
 
 a. een uniek watermerk;  
 
-b. een blinddruk;  
+b. UV-vezels;  
 
-c. UV-vezels;  
+c. een vloeiend kleurverloop;  
 
-d. een vloeiend kleurverloop;  
+d. een microtekst; en  
 
-e. een microtekst; en  
-
-f. een beschermlaag die verkleurt bij mechanische of chemische aantasting.     
+e. een beschermlaag die verkleurt bij mechanische of chemische aantasting.     
 2.  Met het waardepapier dat voldoet aan de veiligheidseisen in het eerste lid, als bedoeld in deze regeling wordt gelijkgesteld waardepapier dat rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig is vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en dat voldoet aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.  
 
 ### Artikel  6  
@@ -166,7 +164,7 @@ De benaming van alle specifieke examenonderdelen, te weten de kerntaken, zoals o
 
 ####Nederlandse taal en rekenen
 
-Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen. Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de artikelen 2 en 3 van het Besluit referentieniveaus Nederlandse taal en rekenen. 
+Voor Nederlandse taal dient, behalve de eindwaardering, ook het resultaat van het centraal examen en het instellingsexamen te worden vermeld. Het resultaat van het centraal examen en het instellingsexamen wordt uitgedrukt in een cijfer met één decimaal, conform artikel 14 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze cijfers hoeven niet in letters geschreven te worden. Daarnaast wordt voor Nederlandse taal en rekenen ook het referentieniveau waarin het examen is afgelegd op de resultatenlijst opgenomen. Het referentieniveau, dat op de resultatenlijst wordt vermeld, dient te zijn het referentieniveau waarop de examenkandidaat het examen heeft afgelegd. De referentieniveaus voor de onderdelen Nederlandse taal en rekenen zijn bepaald in de artikelen 2 en 3 van het Besluit referentieniveaus Nederlandse taal en rekenen. Indien het centraal examen ER voor het onderdeel rekenen is afgelegd, wordt dit vermeld op de resultatenlijst door bij ‘Referentieniveau’ in plaats van het referentieniveau 2F of 3F, ‘2ER’ of ‘3ER’ te vermelden. 
 
 ####Pilotfase Nederlandse taal en rekenen
 

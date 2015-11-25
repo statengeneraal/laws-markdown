@@ -14,7 +14,7 @@ Voor subsidieverlening op grond van artikel 5.1 van de Subsidieregeling Minister
 
 ### Artikel  2  
 
-Voor subsidieverlening in het kader van *Funding Leadership for Women 2016–2020 geldt* voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 een subsidieplafond van *€ 93.000.000,–*. 
+Voor subsidieverlening in het kader van *Funding Leadership for Women 2016–2020 geldt* voor de periode vanaf de inwerkingtreding van dit besluit tot en met 31 december 2020 een subsidieplafond van € 95.000.000,–. 
 
 ### Artikel  3  
 
@@ -243,7 +243,7 @@ E. Een begroting voor de gehele looptijd van het programma, inclusief een begrot
 
 ####Beschikbare middelen
 
-Het gereserveerde bedrag voor het totale fonds bedraagt € 93 M<sup> 40 Mogelijk wordt dit bedrag nog verhoogd dankzij de bijdragen van andere donoren. </sup>. Deze middelen zijn beschikbaar voor subsidiëring van activiteiten in de periode van 1 januari 2016 tot en met 31 december 2020. De subsidie per programma bedraagt minimaal € 5 miljoen en maximaal € 15 miljoen voor de gehele looptijd van 5 jaar. Net als in het MDG3-fonds en FLOW1 hanteert het fonds een programmatische aanpak waarbij de aanvrager of de penvoerder en zijn mede-indieners ‘grants’ kan/kunnen doorsluizen naar lokale organisaties in de verkiesbare ontvangende landen op basis van vooraf goedgekeurde jaarplannen. 
+Het gereserveerde bedrag voor het totale fonds bedraagt € 95.000.000,–<sup> 40 Mogelijk wordt dit bedrag nog verhoogd dankzij de bijdragen van andere donoren. </sup>. Deze middelen zijn beschikbaar voor subsidiëring van activiteiten in de periode van 1 januari 2016 tot en met 31 december 2020. De subsidie per programma bedraagt minimaal € 5 miljoen en maximaal € 15 miljoen voor de gehele looptijd van 5 jaar. Net als in het MDG3-fonds en FLOW1 hanteert het fonds een programmatische aanpak waarbij de aanvrager of de penvoerder en zijn mede-indieners ‘grants’ kan/kunnen doorsluizen naar lokale organisaties in de verkiesbare ontvangende landen op basis van vooraf goedgekeurde jaarplannen. 
 
 ### 5.6  
 

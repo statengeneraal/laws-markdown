@@ -62,6 +62,8 @@ In dit besluit wordt verstaan onder:
 
 *rekentoets:* rekentoets als bedoeld in artikel 60, zesde lid, van de wet; 
 
+*rekentoets ER:* rekentoets als bedoeld in artikel 23b, eerste lid; 
+
 *school:* een school voor vwo, een school voor havo of een school voor vmbo, tenzij anders blijkt;  
 
 *sector:* een sector als bedoeld in artikel 10, derde lid, van de wet;  
@@ -182,11 +184,9 @@ a. vrijgesteld van de rekentoets of van het examen in een vak in het vwo op gron
 
 b. vrijgesteld van de rekentoets of van het examen in een vak in het havo op grond van een examen vwo of havo, indien voor de overeenkomstige rekentoets of het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-b1. vrijgesteld van de rekentoets op grond van een examen beroepsonderwijs als bedoeld in artikel 1.1.1 van de Wet educatie en beroepsonderwijs, indien voor de overeenkomstige rekentoets een eindcijfer 6 of hoger is behaald; 
+c. vrijgesteld van de rekentoets of van het examen in een vak in de theoretische of gemengde leerweg van het vmbo op grond van een examen vwo, havo, vmbo theoretische leerweg of vmbo gemengde leerweg, indien voor de rekentoets of het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
-c. vrijgesteld van het examen in een vak in de theoretische of gemengde leerweg van het vmbo op grond van een examen vwo, havo, vmbo theoretische leerweg of vmbo gemengde leerweg, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
-
-d. vrijgesteld van het examen in een vak in de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vmbo op grond van een examen vwo, havo of vmbo, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
+d. vrijgesteld van de rekentoets of van het examen in een vak in de basisberoepsgerichte of kaderberoepsgerichte leerweg van het vmbo op grond van een examen vwo, havo of vmbo, indien voor de overeenkomstige rekentoets of het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
 e. vrijgesteld van het examen in een vak van het vwo, havo of vmbo op grond van het overeenkomstige examen, afgelegd in Curaçao, Sint Maarten, Aruba, Bonaire, Saba of Sint Eustatius, indien voor het overeenkomstige vak een eindcijfer 6 of hoger is behaald;  
 
@@ -196,8 +196,15 @@ g. vrijgesteld van het sectorwerkstuk, indien reeds eerder een sectorwerkstuk is
 2.  Het eerste lid is uitsluitend van toepassing indien na het jaar waarin het eindcijfer of de beoordeling is vastgesteld, nog geen 10 jaren zijn verstreken.   
 3.  In aanvulling op het eerste lid, onder a tot en met d, is de kandidaat vrijgesteld van het onderdeel literatuur van elke moderne taal, indien de kandidaat bij het eerder afgelegde examen, voor literatuur een cijfer 6 of hoger heeft behaald.   
 4.  In aanvulling op het eerste lid, onder a tot en met f, en derde lid, is de daar bedoelde kandidaat eveneens vrijgesteld indien het eindcijfer 5 of 4 is behaald, mits de kandidaat voldoet aan de voorwaarden van artikel 26 of artikel 26a om te slagen voor het staatsexamen.   
-5.  Bij ministeriële regeling worden nadere voorschriften gegeven voor de toepassing van het eerste lid.   
-6.  Artikel 52, negende lid, van het Eindexamenbesluit VO is van overeenkomstige toepassing. 
+5.  Een kandidaat is vrijgesteld van de rekentoets indien: 
+
+a. hij het examen in het onderdeel rekenen, bedoeld in artikel 1 van het Examen- en kwalificatiebesluit beroepsopleidingen WEB heeft afgelegd, ten minste gelijk aan het referentieniveau van de rekentoets van de school of leerweg waarin hij staatsexamen doet;  
+
+b. hij voor dit onderdeel rekenen ten minste een cijfer 6 heeft behaald; en  
+
+c. er na het studiejaar waarin hij dit onderdeel rekenen heeft afgelegd nog geen twee schooljaren zijn verstreken.    
+6.  Bij ministeriële regeling worden nadere voorschriften gegeven voor de toepassing van het eerste lid.   
+7.  Artikel 52, negende lid, van het Eindexamenbesluit VO is van overeenkomstige toepassing. 
 
 ### Artikel  11  
 
@@ -228,7 +235,7 @@ Een verzoek om ontheffing als bedoeld in artikel 11 wordt schriftelijk ingediend
 
 ####Examenreglement en programma van toetsing en afsluiting
 
-1.   Het examenreglement bevat in elk geval informatie over de maatregelen, bedoeld in artikel 6, en de toepassing daarvan, regels met betrekking tot de organisatie van het staatsexamen en deelstaatsexamen en de gang van zaken tijdens het staatsexamen en deelstaatsexamen, de herkansingsmogelijkheden van het centraal examen, de rekentoets en het college-examen.   
+1.   Het examenreglement bevat in elk geval informatie over de maatregelen, bedoeld in artikel 6, en de toepassing daarvan, regels met betrekking tot de organisatie van het staatsexamen en deelstaatsexamen en de gang van zaken tijdens het staatsexamen en deelstaatsexamen, de herkansingsmogelijkheden van het centraal examen en het college-examen.   
 2.  Het College voor examens stelt jaarlijks voor 1 oktober een programma van toetsing en afsluiting vast ten behoeve van het daaropvolgende kalenderjaar. Het programma vermeldt per vak in elk geval: 
 
 a. welke onderdelen van het examenprogramma worden getoetst,  
@@ -333,6 +340,19 @@ c. ook in het derde tijdvak verhinderd is, of wanneer hij het centraal examen in
 4.  Het College voor examens kan bij regeling bepalen dat het examen in de rekentoets niet onder toezicht van een of meer gecommitteerden staat.   
 5.  Met inachtneming van de artikelen 23, zevende lid, 24, zevende lid, en 25, zevende lid, van het Examenbesluit VO worden de beoordelingsnormen, bedoeld in artikel 2, tweede lid, onderdeel d, en lid 2a, van de Wet College voor examens bij de beoordeling van de rekentoets toegepast.  
 
+### Artikel  23b  
+
+####Rekentoets voor kandidaten met ernstige rekenproblemen
+
+1.  Er is een rekentoets ER waarbij de opgaven zijn aangepast voor kandidaten met ernstige rekenproblemen.   
+2.  Het College voor toetsen en examens informeert de kandidaat tijdig voor de eerste gelegenheid om de rekentoets af te leggen over de mogelijkheid van het afleggen van de rekentoets ER alsmede over de mogelijke gevolgen voor doorstroom naar het vervolgonderwijs of voor de arbeidsmarkt.   
+3.  Op verzoek van een kandidaat verleent het College voor toetsen en examens toestemming voor het afleggen van de rekentoets ER, indien de kandidaat aantoonbaar ernstige problemen heeft met de beheersing van de vereiste rekenvaardigheden.   
+4.  Er is in ieder geval sprake van aantoonbare ernstige rekenproblemen indien de kandidaat: 
+
+a. zich heeft ingespannen de vereiste rekenvaardigheden te leren, en  
+
+b. hij desondanks aanhoudend onvoldoende resultaten laat zien.    
+
 ### Hoofdstuk  IV  
 
 ####Uitslag, herkansing en diplomering
@@ -344,7 +364,9 @@ c. ook in het derde tijdvak verhinderd is, of wanneer hij het centraal examen in
 1.  Het eindcijfer voor alle vakken en rekentoets van het staatsexamen en deelstaatsexamen wordt uitgedrukt in een geheel cijfer uit de reeks van 1 tot en met 10.   
 2.  Het College voor examens bepaalt het eindcijfer voor een vak op het rekenkundig gemiddelde van het cijfer voor het college-examen en het cijfer voor het centraal examen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 3.  Indien in een vak alleen een college-examen wordt afgenomen, is het cijfer voor het college-examen tevens het eindcijfer.    
-4.  Bij de rekentoets of indien een vak alleen een centraal examen wordt afgenomen, wordt het cijfer voor de rekentoets, respectievelijk voor het centraal examen afgerond overeenkomstig het tweede lid en vormt als gevolg hiervan het eindcijfer. 
+4.  Indien voor een vak alleen een centraal examen wordt afgenomen, vormt het cijfer voor het centraal examen, afgerond overeenkomstig het tweede lid, het eindcijfer.  
+5.  Van de cijfers die zijn behaald bij de gelegenheden om de rekentoets af te leggen, bedoeld in artikel 27a, geldt het hoogst behaalde cijfer, afgerond overeenkomstig het tweede lid, als eindcijfer voor de rekentoets.   
+6.  In afwijking van het vijfde lid, bepaalt het College voor toetsen en examens in overleg met de kandidaat die gebruik heeft gemaakt van meerdere gelegenheden om de rekentoets af te leggen en gebruik heeft gemaakt van de rekentoets ER of van de mogelijkheid, bedoeld in artikel 27a, vijfde of zesde lid, welk cijfer voor de rekentoets, afgerond overeenkomstig het tweede lid, geldt als eindcijfer. 
 
 ### Artikel  25  
 
@@ -360,7 +382,7 @@ b. een of meer cijferlijsten als bedoeld in de artikelen 30 en 31, eerste lid;
 
 c. een of meer cijferlijsten van een school voor voortgezet onderwijs;  
 
-d. een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
+d. een resultatenlijst of een of meer cijferlijsten van instellingen voor educatie en beroepsonderwijs;  
 
 e. bewijzen van ontheffing als bedoeld in artikel 11, vierde lid;  
 
@@ -437,13 +459,21 @@ b. algemene natuurwetenschappen in het havo.
 1.  Onverminderd de artikelen 6 en 23 heeft de kandidaat die in enig jaar met toepassing van de artikelen 26 en 26a is afgewezen voor het staatsexamen, recht op herkansing in het derde tijdvak van dat jaar. Indien de kandidaat op grond van artikel 23, eerste lid onderdeel b, in de gelegenheid wordt gesteld in het derde tijdvak het centraal examen te voltooien, wordt het recht op herkansing uitgeoefend, overeenkomstig artikel 23, eerste lid, onderdeel c, op een door het College voor examens te bepalen tijdstip.   
 2.  Herkansing houdt in: 
 
-a. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het college-examen, in door het College voor examens vast te stellen onderdelen van het examenprogramma,  
+a. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het college-examen, in door het College voor examens vast te stellen onderdelen van het examenprogramma, en  
 
-b. het recht om tweemaal opnieuw aan de rekentoets waarin hij in dat jaar door het College voor examens is geëxamineerd, deel te nemen, en 
+b. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het centraal examen.     
+3.  Voorwaarde voor toepassing van het eerste lid is dat de kandidaat daardoor alsnog kan slagen voor het staatsexamen.  
 
-c. het recht om voor één door de kandidaat te kiezen vak waarin hij in dat jaar door het College voor examens is geëxamineerd, opnieuw deel te nemen aan het centraal examen.     
-3.  Voorwaarde voor toepassing van het eerste lid is dat de kandidaat daardoor alsnog kan slagen voor het staatsexamen.   
-4.  In afwijking van het eerste lid, heeft de kandidaat gedurende een kalenderjaar recht op twee herkansingen in de rekentoets. Artikel 51a, derde tot en met vijfde lid, van het Eindexamenbesluit VO is van overeenkomstige toepassing.  
+### Artikel  27a  
+
+####Aantal toetsmogelijkheden rekentoets
+
+1.  De kandidaat wordt binnen een kalenderjaar waarin hij deelstaatsexamen in de rekentoets doet eenmaal in de gelegenheid gesteld de rekentoets af te leggen.   
+2.  In afwijking van het eerste lid wordt een kandidaat die opgaat voor het volledig staatsexamen van een school of leerweg binnen een kalenderjaar driemaal in de gelegenheid gesteld de rekentoets af te leggen.   
+3.  Indien de kandidaat die opgaat voor het volledig staatsexamen in twee opeenvolgende kalenderjaren staatsexamen in de rekentoets doet, kan hij binnen deze periode viermaal gebruik maken van een gelegenheid om de rekentoets af te leggen.   
+4.  De kandidaat stelt het College voor toetsen en examens voor een door het college te bepalen dag en tijdstip er schriftelijk van in kennis dat hij gebruik wil maken van een gelegenheid, bedoeld in het eerste lid.   
+5.  Het College voor toetsen en examens kan ook bij de tweede of derde gelegenheid een kandidaat in de gelegenheid stellen gebruik te maken van de rekentoets ER of van de mogelijkheid tot het afleggen van de toets op een hoger niveau, bedoeld in artikel 8, eerste lid, van de Staatsexamenbesluit VO en de artikelen 13, tweede lid, 22, tweede lid, 23, zevende lid, 24, vijfde lid, of 25, vijfde lid, van het Eindexamenbesluit VO.   
+6.  Indien een kandidaat gebruik heeft gemaakt van de rekentoets ER of van de mogelijkheid tot het afleggen van de toets op een hoger niveau, bedoeld in artikel 8, eerste lid, van de Staatsexamenbesluit VO en de artikelen 13, tweede lid, 22, tweede lid, 23, zevende lid, 24, vijfde lid, of 25, vijfde lid, van het Eindexamenbesluit VO stelt het College voor toetsen en examens de kandidaat in de gelegenheid bij de tweede of derde gelegenheid de rekentoets af te leggen zoals deze op grond van artikel 2, vierde lid, onder b, en lid 2a, van de Wet College voor toetsen en examens is vastgesteld voor de schoolsoort of leerweg waarin hij staatsexamen doet.  
 
 ### Artikel  28  
 
@@ -515,13 +545,12 @@ b.indien het betreft het staatsexamen vmbo:
 3°.vakken of de rekentoets waarvoor de kandidaat bij het staatsexamen vmbo voor zover het betreft de theoretische leerweg of de gemengde leerweg is vrijgesteld op grond van een eerder afgelegd eindexamen of staatsexamen vmbo voor zover het betreft de kaderberoepsgerichte leerweg of de basisberoepsgerichte leerweg waarvan de rekentoets, deze vakken dan wel de overeenkomstige vakken, bedoeld in artikel 10, negende lid, of artikel 10d, negende lid, van de wet, deel uitmaakten, worden vermeld op de cijferlijst, met vermelding van het eerder behaalde cijfer;
 
 4°.andere vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, worden vermeld op de cijferlijst, zonder vermelding van een cijfer.   
-7.  Het College voor examens tekent de diploma's en cijferlijsten.  
+7.  Indien de rekentoets waarvoor het eindcijfer is vastgesteld een rekentoets ER betreft, wordt op de cijferlijst bij vermelding van de rekentoets de toevoeging «ER» geplaatst.  
+8.  Het College voor examens tekent de diploma's en cijferlijsten.  
 
 ### Artikel  30a  
 
 ####Voorschriften judicium cum laude
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een kandidaat is geslaagd voor het staatsexamen vwo met toekenning van het judicium cum laude indien zijn examen voldoet aan de volgende voorschriften: 
 
@@ -587,7 +616,8 @@ a. de rekentoets, het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of
 
 b. de rekentoets, het vak of de vakken, het onderwerp of de titel van het profielwerkstuk of het thema van het sectorwerkstuk, alsmede de beoordeling van het sectorwerkstuk, voor zover beoordeeld met «goed» of «voldoende».     
 3.  Onze Minister stelt het model van het certificaat en de cijferlijst voor het deelstaatsexamen vast.   
-4.  Het College voor examens tekent de certificaten en de cijferlijsten voor het deelstaatsexamen.  
+4.  Het College voor examens tekent de certificaten en de cijferlijsten voor het deelstaatsexamen.   
+5.  Indien de rekentoets waarvoor het eindcijfer is vastgesteld een rekentoets ER betreft, wordt op het certificaat bij vermelding van de rekentoets de toevoeging «ER» geplaatst. 
 
 ### Artikel  32  
 
@@ -627,43 +657,47 @@ b. enig ander vak waarbij het gebruik van de Nederlandse taal van overwegende be
 
 1.  Zo spoedig mogelijk na de vaststelling van de definitieve uitslag zendt het College voor examens aan Onze Minister en aan de inspectie een lijst die voor iedere kandidaat die niet is geslaagd voor het staatsexamen, vermeldt, voor zover van toepassing: 
 
-a. de rekentoets en de vakken waarin examen is afgelegd;  
+a. de vakken waarin examen is afgelegd;  
 
-b. de cijfers van het college-examen;  
+b. de rekentoets en het niveau waarop de rekentoets is afgelegd; 
 
-c. het vak of de vakken waarop het profielwerkstuk betrekking heeft;  
-
-d.  de beoordeling van het sectorwerkstuk, alsmede het thema van het sectorwerkstuk;  
-
-e. de cijfers van het centraal examen;  
-
-f. de eindcijfers;  
-
-g. de uitslag van het staatsexamen.     
-2.  Zo spoedig mogelijk na de vaststelling van de definitieve uitslag zendt het College voor examens aan Onze Minister en aan de inspectie een lijst die voor iedere kandidaat die is geslaagd voor het staatsexamen, vermeldt, voor zover van toepassing: 
-
-a. het profiel of de profielen waarop het examen betrekking heeft;   
-
-b. de rekentoets en de vakken die zijn vermeld op de cijferlijst;  
-
-c. de cijfers van het college-examen of in voorkomend geval van het schoolexamen;  
+c. de cijfers van het college-examen;  
 
 d. het vak of de vakken waarop het profielwerkstuk betrekking heeft;  
 
-e.  de beoordeling van het sectorwerkstuk, en het thema van het sectorwerkstuk;  
+e.  de beoordeling van het sectorwerkstuk, alsmede het thema van het sectorwerkstuk;  
 
 f. de cijfers van het centraal examen;  
 
 g. de eindcijfers;  
 
-h. de vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, met voor zover van toepassing de cijfers voor de desbetreffende vakken;  
+h. de uitslag van het staatsexamen.     
+2.  Zo spoedig mogelijk na de vaststelling van de definitieve uitslag zendt het College voor examens aan Onze Minister en aan de inspectie een lijst die voor iedere kandidaat die is geslaagd voor het staatsexamen, vermeldt, voor zover van toepassing: 
 
-i. de uitslag van het staatsexamen.     
+a. het profiel of de profielen waarop het examen betrekking heeft;   
+
+b. de vakken die zijn vermeld op de cijferlijst;  
+
+c. de rekentoets en het niveau waarop de rekentoets is afgelegd, en of gebruik is gemaakt van de rekentoets ER bij de rekentoets waarvoor een eindcijfer is vastgesteld; 
+
+d. de cijfers van het college-examen of in voorkomend geval van het schoolexamen;  
+
+e. het vak of de vakken waarop het profielwerkstuk betrekking heeft;  
+
+f.  de beoordeling van het sectorwerkstuk, en het thema van het sectorwerkstuk;  
+
+g. de cijfers van het centraal examen;  
+
+h. de eindcijfers;  
+
+i. de vakken waarvoor de kandidaat vrijstelling of ontheffing is verleend, met voor zover van toepassing de cijfers voor de desbetreffende vakken;  
+
+j. de uitslag van het staatsexamen.     
 3.  Zo spoedig mogelijk na de vaststelling van de eindcijfers van de kandidaten die deelstaatsexamen hebben afgelegd, stuurt het College voor examens aan Onze Minister en aan de inspectie een lijst die voor iedere kandidaat vermeldt, voor zover van toepassing: 
 
 a. de vakken die zijn vermeld op de cijferlijst;  
 
-b. de rekentoets; 
+b. de rekentoets en het niveau waarop de rekentoets is afgelegd, en of gebruik gemaakt is van de rekentoets ER bij de rekentoets waarvoor een eindcijfer is vastgesteld;  
 
 c. de cijfers van het college-examen;  
 
@@ -691,7 +725,67 @@ Het College voor examens kan bij of krachtens dit besluit vastgestelde voorschri
 
 ### Hoofdstuk  VI  
 
-####Wijziging andere besluiten
+####Overgangsbepalingen rekentoets en slotbepalingen
+
+### Artikel  43a  
+
+####Tijdelijke uitslagregeling vmbo rekentoets vanaf 2015–2016
+
+De kandidaat die staatsexamen vmbo heeft afgelegd in de: 
+
+a. basisberoepsgerichte leerweg,  
+
+b. kaderberoepsgerichte leerweg,  
+
+c. gemengde leerweg, of  
+
+d. theoretische leerweg,   dient in afwijking van artikel 26, eerste lid, onderdeel b, voor het vak Nederlandse taal als eindcijfer 5 of meer te hebben behaald en de rekentoets te hebben afgelegd. 
+
+### Artikel  43b  
+
+####Tijdelijk plaatsen cijfer rekentoets vmbo basisberoepgerichte leerweg op (voorlopige) cijferlijst vanaf schooljaar 2015–2016
+
+In afwijking van de artikelen 30, eerste lid, onderdelen b en d, tweede lid, onderdelen b, d en e, en zesde lid, en 31, eerste lid, onderdelen b en d, van het Staatsexamenbesluit VO wordt het eindcijfer voor de rekentoets in de basisberoepsgerichte leerweg van het vmbo geplaatst op een bijlage bij de cijferlijst. 
+
+### Artikel  43c  
+
+####Tijdelijke uitslagregeling havo rekentoets vanaf 2015–2016
+
+In afwijking van artikel 26a, eerste lid, onderdeel b, dient de kandidaat die het staatsexamen havo heeft afgelegd: 
+
+a. voor één van de vakken Nederlandse taal en literatuur, Engelse taal en literatuur, en voor zover van toepassing wiskunde A of wiskunde B, ten minste het eindcijfer 5 te hebben behaald en voor het andere vak dan wel de andere vakken, genoemd in dit onderdeel, ten minste het eindcijfer 6 of meer te hebben behaald; en  
+
+b. de rekentoets te hebben afgelegd.   
+
+### Artikel  43d  
+
+####Tijdelijke bepaling rekentoets en judicium cum laude
+
+In afwijking van artikel 30a, tweede of derde lid, wordt voor het judicium cum laude geen rekening gehouden met het behaalde eindcijfer voor de rekentoets, zolang de artikelen 43a of 43c van toepassing zijn op het staatsexamen in de betreffende leerweg van het vmbo onderscheidenlijk in het havo. 
+
+### Artikel  43e  
+
+####Tijdelijke uitslagregeling vwo rekentoets 2015–2016
+
+In afwijking van artikel 26a, eerste lid, onderdeel b, dient de kandidaat die in het schooljaar 2015–2016 het staatsexamen vwo heeft afgelegd: 
+
+a. voor één van de vakken Nederlandse taal en literatuur, Engelse taal en literatuur en voor zover van toepassing wiskunde A, wiskunde B of wiskunde C ten minste het eindcijfer 5 te hebben behaald en voor het andere vak dan wel de andere vakken, genoemd in dit onderdeel, ten minste het eindcijfer 6 of meer te hebben behaald; en  
+
+b. voor de rekentoets ten minste het eindcijfer 5 te hebben behaald.   
+
+### Artikel  43f  
+
+####Tijdelijk vangnet vwo rekentoets 2015–2016
+
+1.  Indien de resultaten van de rekentoets dan wel onvoorziene omstandigheden daartoe aanleiding geven, kan bij koninklijk besluit worden bepaald dat de overgangsperiode, bedoeld in artikel 43c, met een schooljaar wordt verlengd, met dien verstande dat in dat geval in het schooljaar 2015–2016 voor de rekentoets in plaats van het eindcijfer 5, ten minste het eindcijfer 4 moet zijn behaald en in het schooljaar 2016–2017 ten minste het eindcijfer 5.   
+2.  Bij de toepassing van het eerste lid kan onderscheid worden gemaakt naar de omstandigheid dat de rekentoets ER onderdeel uitmaakt van de uitslagregeling.   
+3.  Er is in elk geval sprake van een situatie als bedoeld in het eerste lid indien een voldoende representatief beeld bestaat van de landelijk behaalde eindcijfers voor de rekentoets in het vwo en daaruit naar voren komt dat als gevolg van deze rekentoets meer dan 5 procent van de kandidaten van het vwo geen diploma zou behalen.  
+
+### Artikel  43g  
+
+####Einde overgangsrecht
+
+De artikelen in dit hoofdstuk vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  44  
 

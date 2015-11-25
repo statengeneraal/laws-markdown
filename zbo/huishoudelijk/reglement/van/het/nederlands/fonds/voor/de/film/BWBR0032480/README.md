@@ -10,7 +10,7 @@ Ter uitwerking van de statuten d.d. 3 oktober 2009 van de Stichting Nederlands F
 
 In dit reglement wordt verstaan onder: 
 
-a.  *de wet:* De [Wet op het specifiek cultuurbeleid](../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;  
+a.  *de wet:* De Wet op het specifiek cultuurbeleid van 11 maart 1993, Stb, 1993, 193 in werking getreden 16 april 1993;  
 
 b.  *het Fonds:* Stichting Nederlands Fonds voor de Film;  
 
@@ -18,9 +18,9 @@ c.  *raad van toezicht:* de raad van toezicht als bedoeld in artikel 1 sub c van
 
 d.  *het bestuur:* het bestuur als bedoeld in artikel 1 sub a van de Statuten;  
 
-e.  *bezwaarcommissie:* een commissie als bedoeld in [artikel 7:13 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+e.  *bezwaarcommissie:* een commissie als bedoeld in artikel 7:13 van de Algemene wet bestuursrecht;  
 
-f.  *bezwaarschrift:* een bezwaarschrift als bedoeld in [artikel 6:5 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+f.  *bezwaarschrift:* een bezwaarschrift als bedoeld in artikel 6:5 van de Algemene wet bestuursrecht.   
 
 ### Artikel  2  
 
@@ -53,7 +53,7 @@ f. een bezwaarcommissie.
 3.7.  In geval van ontstentenis of belet van alle leden of van het enige lid van het bestuur berust het bestuur tijdelijk bij de raad van toezicht.   
 3.8.  Het bestuur onderhoudt de contacten met de Personeelsvertegenwoordiging.   
 3.9.  De raad van toezicht voert jaarlijks een functioneringsgesprek met de leden van het bestuur.   
-3.10.  In alle gevallen waarin de regelingen van het Fonds en het [Algemeen reglement](../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) niet voorzien, beslist het bestuur.   
+3.10.  In alle gevallen waarin de regelingen van het Fonds en het Algemeen reglement niet voorzien, beslist het bestuur.   
 3.11.  Bestuurders doen aan de raad van toezicht opgave van al hun nevenfuncties, waaronder bestuursfuncties, commissariaten en adviseurschappen.   
 3.12.  De functie van bestuurder is, behoudens ontheffing door de raad van toezicht, onverenigbaar met de functie van directeur dan wel bestuurder of het lidmaatschap van een raad van toezicht van instellingen in de filmwereld, met uitzondering van die functies die een bestuurder qualitate qua bekleedt.  
 
@@ -89,13 +89,13 @@ f. een bezwaarcommissie.
 
 – het bestuur te adviseren binnen hun specifieke aandachtsgebied en over het algehele beleid van het Fonds.     
 5.5.  Het subsidiebureau bestaande uit projectbegeleiders, productiebeheerders en een coördinator subsidiebureau ondersteunt de hoofden en filmconsulenten in de afhandeling van ingediende aanvragen en adviseert het bestuur over de productionele, financiële en zakelijke kwaliteit van aanvragen.   
-5.6.  De overige medewerkers van het Fonds ondersteunen en adviseren het bestuur in de bedrijfsvoering.  
+5.6.  De overige medewerkers van het Fonds ondersteunen en adviseren het bestuur in de bedrijfsvoering waarbij het bestuur één medewerker kan benoemen in de functie van adjunct-directeur bedrijfsvoering.  
 
 ### Artikel  6  
 
 ####Filmconsulenten
 
-6.1.  Filmconsulenten worden door het bestuur aangesteld als adviseur binnen een bepaald subsidieprogramma voor een periode van ten hoogste drie jaar, met de mogelijkheid tot een beperkte verlenging.   
+6.1.  Filmconsulenten worden door het bestuur aangesteld als adviseur binnen een bepaald subsidieprogramma voor een periode van ten hoogste vier jaar, met de mogelijkheid tot een beperkte verlenging.   
 6.2.  Filmconsulenten beschikken over brede kennis van en ruime praktijkervaring in de Nederlandse filmsector en hebben goed zicht op de ontwikkelingen in het nationale en internationale filmveld.   
 6.3.  Filmconsulenten hebben in ieder geval tot taak: 
 
@@ -142,7 +142,7 @@ d. Het Fonds maakt melding van de functies van adviseurs op de website.
 
 ####Beoordeling subsidieaanvragen
 
-9.1.  Het bestuur besluit over bij het Fonds ingediende aanvragen met inachtneming van het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het [Algemeen Reglement](../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) en de op dit Reglement gebaseerde Deelreglementen.   
+9.1.  Het bestuur besluit over bij het Fonds ingediende aanvragen met inachtneming van het bepaalde in de Algemene wet bestuursrecht, het Algemeen Reglement en de op dit Reglement gebaseerde Deelreglementen.   
 9.2.  Het bestuur stelt een werkwijze op aan de hand waarvan subsidieaanvragen worden beoordeeld.   
 9.3.  Het bestuur kan besluiten dat bij advisering het horen van een aanvrager onderdeel uitmaakt van de beoordelingsprocedure.   
 9.4.  Het bestuur toetst of het advies zorgvuldig tot stand is gekomen. Daarbij toetst zij het advies integraal aan de subsidiereglementen en de beleidskaders en financiële uitgangspunten.   
@@ -163,7 +163,7 @@ d. Het Fonds maakt melding van de functies van adviseurs op de website.
 10.2.  Het secretariaat van de bezwaarcommissie wordt verzorgd door een functionaris van het Fonds.   
 10.3.  De bezwaarcommissie bestaat uit minimaal drie en maximaal 6 leden. De voorzitter, de plaatsvervangend voorzitter en de overige leden van de bezwaarcommissie worden door het bestuur in functie benoemd.   
 10.4.  Leden van de bezwaarcommissie maken geen deel uit van en zijn niet werkzaam onder verantwoordelijkheid van het Fonds.   
-10.5.  Leden van de bezwaarcommissie worden benoemd voor ten hoogste twee jaar met de mogelijkheid tot herbenoeming van maximaal twee termijnen van ten hoogste twee jaar.   
+10.5.  Leden van de bezwaarcommissie worden benoemd voor ten hoogste twee jaar met de mogelijkheid tot herbenoeming van maximaal drie termijnen van ten hoogste twee jaar.   
 10.6.  De leden van de bezwaarcommissie genieten per vergadering een door het bestuur, met goedkeuring van de raad van toezicht, vast te stellen vacatiegeld en een vergoeding van de reis- en verblijfskosten.   
 10.7.  Leden van de bezwaarcommissie nemen niet deel aan de behandeling van een bezwaarschrift dat betrekking heeft op een aangelegenheid waarbij zij op enigerlei wijze direct of indirect persoonlijk zijn betrokken.   
 10.8.  Het bestuur van het Fonds neemt het besluit op een bezwaarschrift met inachtneming van het advies van de van de bezwaarcommissie.   
@@ -173,7 +173,7 @@ d. Het Fonds maakt melding van de functies van adviseurs op de website.
 
 ####Overgangsbepaling
 
-Artikel 3, zevende lid, tweede volzin, treedt in werking zodra de [Wet op het specifiek cultuurbeleid](../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) in die zin is gewijzigd dat de Minister van Onderwijs, Cultuur en Wetenschap niet meer het wettelijk recht heeft om de bestuurders van de stichting te benoemen, te schorsen en te ontslaan. 
+Artikel 3, zevende lid, tweede volzin, treedt in werking zodra de Wet op het specifiek cultuurbeleid in die zin is gewijzigd dat de Minister van Onderwijs, Cultuur en Wetenschap niet meer het wettelijk recht heeft om de bestuurders van de stichting te benoemen, te schorsen en te ontslaan. 
 
 ### Artikel  12  
 
@@ -181,6 +181,6 @@ Artikel 3, zevende lid, tweede volzin, treedt in werking zodra de [Wet op het sp
 
 1.  Dit reglement wordt aangehaald als: Huishoudelijk reglement van het Nederlands Fonds voor de Film.   
 2.  Dit Huishoudelijk reglement is vastgesteld door het bestuur met goedkeuring van de raad van toezicht op 24 oktober 2012 te Amsterdam.   
-3.  Dit Huishoudelijk reglement treedt in werking met ingang van 1 januari 2013.   
-4.  Het [Huishoudelijk reglement](../../../../../../../../../../../zbo/huishoudelijk/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0028866/README.md) zoals laatstelijk gewijzigd bij besluit van 21 april 2010 is per 1 januari 2013 ingetrokken.   
+3.  Dit Huishoudelijk reglement treedt in werking met ingang van 1 januari 2013.  
+4. Per 1 november 2015 zijn wijzigingen in het Reglement doorgevoerd met goedkeuring van de Raad van Toezicht op 14 oktober 2015.  
 5.  Dit reglement wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de internetsite van het Nederlands Fonds voor de Film (www.filmfonds.nl)  

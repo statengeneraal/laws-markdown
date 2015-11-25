@@ -3,9 +3,9 @@
 ##Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de Film
 
 De Stichting Nederlands Fonds voor de Film,  
-Gelet op het bepaalde in de [Algemene Wet Bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op het bepaalde in de Algemene Wet Bestuursrecht,
 
-Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),
+Gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid,
 
 Gelet op artikel 2 van het Algemeen Reglement,
 Besluit:     
@@ -49,7 +49,7 @@ In dit reglement wordt verstaan onder:
 ####– toepasselijkheid deelreglement –
 
 1.  Dit deelreglement is van toepassing op subsidies die het Fonds verstrekt voor filmactiviteiten in de categorieën filmfestival, (internationale) filmbijeenkomst, training, publicatie & onderzoek en bijzondere filmactiviteit.   
-2.  Het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md) is van toepassing naast en in aanvulling op dit deelreglement.  
+2.  Het Algemeen Reglement is van toepassing naast en in aanvulling op dit deelreglement.  
 
 ### Artikel  3  
 
@@ -108,10 +108,10 @@ b. na afloop van de filmactiviteit te rapporteren volgens de procedure die is op
 
 ####– weigerings- en intrekkingsgronden –
 
-1.  In aanvulling op [artikel 14 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md), wordt een aanvraag voor een subsidie afgewezen indien sprake is van een aanvraag voor dezelfde filmactiviteit ten behoeve waarvan het bestuur reeds eerder subsidie heeft verleend.   
-2.  In aanvulling op [artikel 22 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md) is het bestuur bevoegd de subsidie in te trekken wanneer de aanvrager na de subsidieverlening, maar vóór de vaststelling van de subsidie, niet in staat is geweest binnen de in artikel 9, sub a van dit Deelreglement, bedoelde termijn aan te tonen dat de in dat artikel bedoelde financiële dekking van de filmactiviteit definitief is toegezegd door de betreffende financiers en is vastgelegd in (een) overeenkomst(en).   
+1.  In aanvulling op artikel 14 van het Algemeen Reglement, wordt een aanvraag voor een subsidie afgewezen indien sprake is van een aanvraag voor dezelfde filmactiviteit ten behoeve waarvan het bestuur reeds eerder subsidie heeft verleend.   
+2.  In aanvulling op artikel 22 van het Algemeen Reglement is het bestuur bevoegd de subsidie in te trekken wanneer de aanvrager na de subsidieverlening, maar vóór de vaststelling van de subsidie, niet in staat is geweest binnen de in artikel 9, sub a van dit Deelreglement, bedoelde termijn aan te tonen dat de in dat artikel bedoelde financiële dekking van de filmactiviteit definitief is toegezegd door de betreffende financiers en is vastgelegd in (een) overeenkomst(en).   
 3.  In geval van een meerjarige activiteitensubsidie zoals bedoeld in artikel 3, tweede lid van dit Deelreglement, is het bestuur bevoegd de subsidie te weigeren of in te trekken als de aanvrager, in de aan de subsidiabele filmactiviteit voorafgaande twee jaar dan wel tijdens de uitvoering van de filmactiviteit, niet heeft voldaan aan een of meer aan de subsidie verbonden voorwaarden of verplichtingen, waaronder in elk geval ook vallen het juist en tijdig afronden van de gesubsidieerde activiteiten, het tijdig melden van relevante veranderingen in de uitvoering en het juist en tijdig verantwoorden van de activiteiten.   
-4.  Aanvragers die subsidie ontvangen in de periode 2013–2016 op grond van de [Regeling op het specifiek cultuurbeleid](../../../../../../../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md) komen niet in aanmerking voor een bijdrage op grond van dit reglement.  
+4.  Aanvragers die subsidie ontvangen in de periode 2013–2016 op grond van de Regeling op het specifiek cultuurbeleid komen niet in aanmerking voor een bijdrage op grond van dit reglement.  
 
 ####Bijzondere bepalingen ten aanzien van de categorieën
 
@@ -129,7 +129,7 @@ b. na afloop van de filmactiviteit te rapporteren volgens de procedure die is op
 a. het festival vindt plaats in Nederland;  
 
 b. de aanvrager werkt samen met private en publieke (lokale) partners die in belangrijke mate meefinancieren in de kosten van de filmactiviteit;     
-3.  In afwijking van [artikel 5 van het Algemeen reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md) wordt een aanvraag voor een filmfestival beoordeeld aan de volgende criteria; het filmfestival: 
+3.  In afwijking van artikel 5 van het Algemeen reglement wordt een aanvraag voor een filmfestival beoordeeld aan de volgende criteria; het filmfestival: 
 
 a. dient een primair cinematografisch belang en biedt bezoekers de gelegenheid inzicht te krijgen in, en kennis te nemen van, ontwikkelingen op cinematografisch gebied;  
 
@@ -196,7 +196,7 @@ C: Niet honoreren.
 
 ####– verantwoording –
 
-In aanvulling op [artikel 19 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md) is de subsidieontvanger verplicht om jaarlijks voor 1 april de verantwoording over de financiën en de resultaten over het jaar daarvoor aan het Fonds te doen toekomen. 
+In aanvulling op artikel 19 van het Algemeen Reglement is de subsidieontvanger verplicht om jaarlijks voor 1 april de verantwoording over de financiën en de resultaten over het jaar daarvoor aan het Fonds te doen toekomen. 
 
 ### Artikel  16  
 
@@ -204,9 +204,9 @@ In aanvulling op [artikel 19 van het Algemeen Reglement](../../../../../../../..
 
 Filmfestivals die reeds subsidie ontvangen of subsidie zal worden verleend in de periode 2013–2016 op basis van: 
 
-a. de [Regeling op het specifiek cultuurbeleid](../../../../../../../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md); en /of  
+a. de Regeling op het specifiek cultuurbeleid; en /of  
 
-b. een regeling voor een meerjarige activiteitensubsidie van een ander cultuurfonds opgericht krachtens [artikel 9 van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);   komen niet in aanmerking voor een projectsubsidie of meerjarige activiteitensubsidie in deze categorie. 
+b. een regeling voor een meerjarige activiteitensubsidie van een ander cultuurfonds opgericht krachtens artikel 9 van de Wet op het specifiek cultuurbeleid;   komen niet in aanmerking voor een projectsubsidie of meerjarige activiteitensubsidie in deze categorie. 
 
 ### 2  
 
@@ -293,7 +293,7 @@ De ontvanger van een subsidie voor een training dient – indien van toepassing 
 
 ####– weigeringsgronden –
 
-In aanvulling op [artikel 14 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0034455/README.md), wordt een aanvraag voor een subsidie afgewezen indien: 
+In aanvulling op artikel 14 van het Algemeen Reglement, wordt een aanvraag voor een subsidie afgewezen indien: 
 
 a. sprake is van een meerjarige opleiding; of  
 
@@ -347,7 +347,7 @@ Subsidie kan worden verleend voor de uitvoering van een innovatieve of promotion
 2.  Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
 3.  Dit reglement met toelichting is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 18 november 2013.   
 4.  Dit reglement met toelichting treedt in werking met ingang van 1 januari 2014.   
-5.  Het [Deelreglement Filmactiviteiten](../../../../../../../../../../../../zbo/deelreglement/filmactiviteiten/van/de/stichting/nederlands/fonds/voor/de/etc/BWBR0032475/README.md), geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
-6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het [Deelreglement Ontwikkeling](../../../../../../../../../../../../zbo/deelreglement/ontwikkeling/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032478/README.md) zoals dit gold tot 1 januari 2014 van toepassing.   
+5.  Het Deelreglement Filmactiviteiten, geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
+6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het Deelreglement Ontwikkeling zoals dit gold tot 1 januari 2014 van toepassing.   
 7.  Dit reglement wordt aangehaald als Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film.   
 8.  Dit reglement met toelichting wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Nederlands Filmfonds (www.filmfonds.nl).  
