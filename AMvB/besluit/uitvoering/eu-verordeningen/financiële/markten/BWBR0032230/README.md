@@ -284,6 +284,10 @@ Artikel 8, achtste lid en twaalfde lid, tweede alinea Artikel 10, negende en elf
 
 Artikelen 3, 5, eerste en tweede lid, 6, eerste tot en met vierde lid, 7, eerste tot en met derde en achtste tot en met tiende lid, 9, eerste lid, 16, eerste, derde en vierde lid, 18, eerste tot en met derde lid, 19, eerste, derde, vijfde, zesde en achtste lid, 20, vijfde lid, 23, eerste, derde, zesde en zevende lid, 26, eerste tot en met zevende lid, 27, eerste tot en met zevende lid, 28, eerste tot en met derde lid, vijfde en zesde lid, 29, eerste en tweede lid, 30, eerste tot en met vierde lid, 32, eerste en tweede lid, 33, eerste tot en met vierde lid, 34, eerste tot en met achtste lid, 35, 36, 37, eerste tot en met derde lid, 38, eerste tot en met zevende lid, 39, eerste tot en met derde lid en vijfde tot en met zevende lid, 40, 41, eerste tot en met derde lid, 42, 43, 44, 45, eerste tot en met zesde lid, 46, eerste tot en met vijfde lid, 47, eerste en tweede lid, 48, eerste tot en met negende lid, 49, eerste tot en met vierde lid, 50, 51, 52, eerste en tweede lid, 53, eerste tot en met derde lid, 54, eerste en zevende lid, 56, eerste lid, 57, vijfde lid, en 59, eerste tot en met vierde lid.
 
+####Verordening (EU) nr. 2015/63 (afwikkelingsfonds):
+
+Artikel 14, eerste tot en met zesde lid 
+
 ### Bijlage  2  
 
 ####Bestuurlijke boete
@@ -561,4 +565,10 @@ Artikelen 3, 5, eerste en tweede lid, 6, eerste tot en met vierde lid, 7, eerste
 ####*Verordening (EU) nr. 909/2014 (centrale effectenbewaarinstellingen):*
 
 *Boetecategorie 1:* artikelen 7, achtste lid, 9, eerste lid, 19, achtste lid, 26, vierde lid, 28, zesde lid, 29, eerste en tweede lid, 30, derde lid, 34, eerste tot en met achtste lid, 35, 38, zesde lid en 48, zevende lid.  *Boetecategorie 2:* artikelen 6, eerste tot en met vierde lid, 7, eerste, tweede, negende en tiende lid, onderdelen b en c, 19, vijfde lid, 20, vijfde lid, 23, derde, zesde en zevende lid, 26, eerste tot en met derde, en vijfde tot en met zevende lid, 27, eerste tot en met zevende lid, 28, eerste tot en met derde lid en vijfde lid, 30, eerste en tweede lid, 32, eerste en tweede lid, 33, eerste tot en met vierde lid, 36, 37, eerste tot en met derde lid, 38, zevende lid, 39, eerste tot en met derde lid en vijfde tot en met zevende lid, 40, 41, eerste tot en met derde lid, 42, 43, 44, 45, eerste tot en met zesde lid, 46, eerste tot en met vijfde lid, 47, eerste en tweede lid, 48, eerste, derde tot en met zesde lid, en achtste en negende lid, 49 eerste tot en met vierde lid, 50, 51, eerste en tweede lid, 52, eerste en tweede lid, 53, eerste tot en met derde lid, 54, zevende lid en 57, vijfde lid.  *Boetecategorie 3:* artikelen 3, 5, eerste en tweede lid, 7, derde lid, 16, eerste, derde en vierde lid, 18, eerste tot en met derde lid, 19, eerste, derde en zesde lid, 23, eerste lid, 30, vierde lid, 38, eerste tot en met vijfde lid, 48, tweede lid, 54, eerste lid, 56, eerste lid en 59, eerste tot en met vierde lid.
+
+####Verordening (EU) nr. 2015/63 (afwikkelingsfonds):
+
+| Artikel  | Boetecategorie  |
+|:---|:---|
+| 14, eerste tot en met zesde lid  | 1  |
 

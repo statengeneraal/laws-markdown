@@ -89,7 +89,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 a. hij aannemelijk heeft gemaakt dat het maligne mesothelioom is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;  
 
-b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 19.201,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
+b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte maligne mesothelioom van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 19.417,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
 
 c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;  
 
@@ -115,10 +115,10 @@ b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asb
 
 ####Beperking recht op voorschot
 
-1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 3 uitsluitend voor zover die betaling lager is dan € 19.201,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
+1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 3 uitsluitend voor zover die betaling lager is dan € 19.417,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
 2.  Geen recht op een voorschot bestaat indien de werknemer of diens nabestaanden reeds een: 
 
-a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.201,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
+a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.417,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
 
 b. voorschot of eenmalige uitkering op grond van de Regeling tegemoetkoming asbestslachtoffers hebben ontvangen; of  
 
@@ -128,8 +128,8 @@ c. tegemoetkoming op grond van de Regeling tegemoetkoming niet-loondienstgerelat
 
 ####Hoogte voorschot
 
-1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.201,–.   
-2.  Indien de werkgever of de productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 19.201,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 5, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.201,–.   
+1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.417,–.   
+2.  Indien de werkgever of de productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 19.417,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 5, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.417,–.   
 3.  Voor de toepassing van het tweede lid, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de Wet inkomstenbelasting 2001 en premies voor de volksverzekeringen op grond van de Wet financiering sociale verzekeringen in mindering zijn gebracht.  
 
 ### Artikel  7  
@@ -154,7 +154,7 @@ c. hij als gevolg hiervan de ziekte maligne mesothelioom heeft opgelopen.
 
 ####Beperkingen recht van huisgenoten op het voorschot
 
-Voor de huisgenoot bestaat geen recht op een voorschot indien aan de huisgenoot of diens nabestaanden reeds een voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.201,– of hoger door de werkgever of de productaansprakelijke is betaald. 
+Voor de huisgenoot bestaat geen recht op een voorschot indien aan de huisgenoot of diens nabestaanden reeds een voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.417,– of hoger door de werkgever of de productaansprakelijke is betaald. 
 
 ### Hoofdstuk  3  
 
@@ -168,7 +168,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 a. hij aannemelijk heeft gemaakt dat de asbestose is veroorzaakt door blootstelling aan asbest tijdens het verrichten van arbeid als werknemer;  
 
-b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte asbestose van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 19.201,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
+b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verrichten van die arbeid en het daardoor veroorzaakte asbestose van de werkgever of de productaansprakelijke heeft ontvangen, dan wel in verband daarmee een bedrag heeft ontvangen dat lager is dan € 19.417,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet;  
 
 c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;  
 
@@ -194,10 +194,10 @@ b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asb
 
 ####Beperking recht op voorschot
 
-1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte asbestose een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 10 uitsluitend voor zover die betaling lager is dan € 19.201,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
+1.  Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte asbestose een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van artikel 10 uitsluitend voor zover die betaling lager is dan € 19.417,– ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.   
 2.  Geen recht op een voorschot bestaat indien de werknemer of diens nabestaanden reeds een: 
 
-a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.201,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
+a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.417,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
 
 b. voorschot of eenmalige uitkering op grond van de Regeling tegemoetkoming asbestslachtoffers hebben ontvangen; of  
 
@@ -207,8 +207,8 @@ c. tegemoetkoming op grond van de Regeling tegemoetkoming niet-loondienstgerelat
 
 ####Hoogte voorschot
 
-1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.201,–.   
-2.  Indien de werkgever of productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte asbestose een bedrag heeft betaald dat lager is dan € 19.201,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 12, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.201,–.   
+1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.417,–.   
+2.  Indien de werkgever of productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte asbestose een bedrag heeft betaald dat lager is dan € 19.417,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 12, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.417,–.   
 3.  Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de Wet inkomstenbelasting 2001 en premies voor de volksverzekeringen op grond van de Wet financiering sociale verzekeringen in mindering zijn gebracht.  
 
 ### Hoofdstuk  4  

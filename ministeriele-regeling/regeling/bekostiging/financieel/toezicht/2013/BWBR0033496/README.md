@@ -7,6 +7,7 @@ Gelet op artikel 13, zesde lid, van de Wet bekostiging financieel toezicht;
 Besluiten:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 11-06-2015 
 
 In deze regeling wordt verstaan onder: 
 
@@ -15,6 +16,7 @@ a.  *geconsolideerde jaarrekening:* jaarrekening waarin de activa, passiva, bate
 b.  *toezichtcategorie:* toezichtcategorie als bedoeld in bijlage II van de Wet bekostiging financieel toezicht.   
 
 ### Artikel  2  
+Materieel uitgewerkt per 11-06-2015 
 
 Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in artikel 13, zesde lid, van de Wet bekostiging financieel toezicht, voor de toezichtcategorieën behorend bij het onderdeel ‘Toezichthouder: Autoriteit Financiële Markten’ als volgt vastgesteld:  
 
@@ -151,10 +153,12 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in art
 | --- | --- | >€ 3 miljard BPIN  | € 1,10 per € miljoen BPIN  |
 
 ### Artikel  3  
+Materieel uitgewerkt per 11-06-2015 
 
 Twee of meer aanbieders van beleggingsobjecten waaraan een vergunning is verleend als bedoeld in artikel 2:55 van de Wet op het financieel toezicht en die gedurende het gehele jaar, in steeds dezelfde samenstelling, gezamenlijk aanbiedingen doen aan consumenten, of deze aanbiedingen aan consumenten gezamenlijk beheren, worden voor de toepassing van artikel 2 aangemerkt als één persoon. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 11-06-2015 
 
 Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in artikel 13, zesde lid, van de Wet bekostiging financieel toezicht, voor de toezichtcategorieën behorende bij het onderdeel ‘Toezichthouder: de Nederlandsche Bank’ als volgt vastgelegd:  
 
@@ -239,10 +243,12 @@ Voor het kalenderjaar 2013 worden de bandbreedtes en de tarieven, bedoeld in art
 | --- | --- | >0 verzekerden  | € 0,3515 per verzekerde  |
 
 ### Artikel  5  
+Materieel uitgewerkt per 11-06-2015 
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 11-06-2015 
 
 Deze regeling wordt aangehaald als: Regeling bekostiging financieel toezicht 2013. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  

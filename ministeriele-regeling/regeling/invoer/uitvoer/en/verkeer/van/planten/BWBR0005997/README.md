@@ -181,6 +181,10 @@ e. voorzien zijn van een etiket in een officiële taal van de Europese Unie met 
 
 Artikel 12, eerste lid, is van overeenkomstige toepassing op snijbloemen van Orchidaceae van oorsprong uit Thailand, met dien verstande dat het onderzoek, bedoeld in onderdeel d, mede omvat het onderzoek of de zending vergezeld gaat van een fytosanitair certificaat dat voldoet aan de bijzondere eisen van beschikking 98/109/EG van de Commissie van de Europese Gemeenschappen van 2 februari 1998 tot machtiging van de lidstaten om ten aanzien van Thailand tijdelijk spoedmaatregelen te nemen tegen de verspreiding van Thrips palmi Karny. 
 
+### Artikel  12c  
+
+Het binnenbrengen in de Europese Unie van planten, met uitzondering van zaden, van Capsicum L., Lagenaria Ser., Luffa Mill., Momordica L. en Solanum L., met uitzondering van S. lycopersicu L., van oorsprong uit Ghana, is verboden. 
+
 ### Artikel 12d  
 
 1.  Het binnenbrengen en het vervoer in de Europese Unie van met het pepinomozïekvirus besmette zaden van tomaten is verboden.   
@@ -309,27 +313,6 @@ b.  *houten verpakkingsmateriaal:* houten verpakkingsmateriaal als bedoeld in ar
 3.  Inspecties als bedoeld in het tweede lid, worden uitgevoerd op de plaats van binnenkomst of op de plaats van bestemming die door de douaneautoriteiten en door de minister is erkend overeenkomstig richtlijn nr. 2004/103/EG.   
 4.  Luchthavenautoriteiten, havenautoriteiten, importeurs of exploitanten kunnen door de minister worden verplicht om een op handen zijnde aankomst van een zending als bedoeld in het tweede lid, vooraf te melden bij het douanekantoor van de plaats van binnenkomst of bij de officiële instantie van de plaats van binnenkomst zodra zij hiervan op de hoogte zijn.   
 5.  Indien het houten verpakkingsmateriaal van een zending als bedoeld in het tweede lid, besmet is met een schadelijk organisme, genoemd in Bijlage I, deel A, van richtlijn 2000/29/EG of niet voldoet aan de eisen, bedoeld in Bijlage IV, deel A, Rubriek I, onder 2 en 8, van richtlijn 2000/29/EG, wordt een maatregel als bedoeld in artikel 13 quater, zevende lid, van richtlijn 2000/29/EG toegepast.  
-
-### Artikel  12p  
-
-1.  Voor de toepassing van dit artikel wordt verstaan onder: 
-
-a.  *uitvoeringsbesluit 2013/413/EU:* Uitvoeringsbesluit 2013/413/EU van de Commissie van 30 juli 2013 tot machtiging van de lidstaten om voor andere dan voor opplant bestemde aardappelen uit de regio’s Akkar en Bekaa in Libanon af te wijken van sommige bepalingen van Richtlijn 2000/29/EG van de Raad (PbEU 2013, L 205);  
-
-b.  *schadelijk organisme:* Clavibacter michiganensis ssp. sepedonicus (Spieckermann en Kotthoff) Davis et al.     
-2.  Knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon mogen slechts in de Europese Unie worden binnengebracht indien zij: 
-
-a. voldoen aan de voorschriften van de bijlage bij uitvoeringsbesluit 2013/413/EU;  
-
-b. voorzien zijn van een fytosanitair certificaat dat voldoet aan de eisen, genoemd in artikel 2 van uitvoeringsbesluit 2013/413/EU;  
-
-c. worden binnengebracht in Eemshaven, Harlingen, Beverwijk, Amsterdam, Rotterdam en Vlissingen;  
-
-d. geïnspecteerd zijn op de aanwezigheid van het schadelijke organisme overeenkomstig artikel 4 van uitvoeringsbesluit 2013/413/EU en geen tekenen van aanwezigheid van dat schadelijke organisme zijn gevonden;  
-
-e. voorzien zijn van een etiket dat voldoet aan de eisen, genoemd in artikel 6 van uitvoeringsbesluit 2013/413/EU.     
-3.  Een importeur brengt overeenkomstig artikel 8 van uitvoeringsbesluit 2013/413/EU de verantwoordelijke officiële instantie van de plaats van binnenkomst voldoende van te voren op de hoogte van zijn intentie om knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon binnen te brengen.   
-4.  De afvalstoffen die overblijven na het verpakken en verwerken in de Europese Unie van knollen van Solanum tuberosum L., andere dan bestemd voor opplant, uit de regio’s Akkar en Bekaa in Libanon worden zo verwijderd dat het schadelijke organisme zich niet in de Europese Unie kan vestigen of verspreiden.  
 
 ### Artikel  12q  
 
@@ -463,7 +446,7 @@ De Regeling invoer, uitvoer en vervoer van planten wordt ingetrokken.
 1.  Deze regeling treedt in werking met ingang van 1 juni 1993.   
 2.  Artikel 12o vervalt met ingang van 1 april 2017.   
 3.  Artikel 12m vervalt met ingang van 1 april 2016.   
-4.  Vervallen. 
+4.  Artikel 12c vervalt met ingang van 1 januari 2017.  
 5.  Artikel 12p vervalt met ingang van 1 november 2015.  
 6.  Met ingang van 1 december 2016 vervallen artikel 12f, derde en zesde lid, onder vernummering van artikel 12f, vierde tot en met vijfde lid, tot derde tot en met vierde lid en artikel 12f, zevende tot en met elfde lid, tot vijfde tot en met negende lid. 
 7. Artikel 12q vervalt met ingang van 1 januari 2016. 

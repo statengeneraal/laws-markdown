@@ -28,7 +28,9 @@ e. het Europees Stelsel van Centrale Banken: het Europees Stelsel van Centrale B
 
 f. de statuten van het Europees Stelsel van Centrale Banken: de statuten van het Europees Stelsel van Centrale Banken en van de Europese Centrale Bank, bedoeld in artikel 129, tweede lid, van het Verdrag;  
 
-g. verordening valsemunterij: verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG 2001, L 181).    
+g. verordening valsemunterij: verordening (EG) nr. 1338/2001 van de Raad van de Europese Unie van 28 juni 2001 tot vaststelling van maatregelen die noodzakelijk zijn voor de bescherming van de euro tegen valsemunterij (PbEG 2001, L 181); 
+
+h. verordening gemeenschappelijk afwikkelingsmechanisme: verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225).    
 2.  De Bank vormt een integrerend onderdeel van het Europees Stelsel van Centrale Banken met betrekking tot de taken en plichten die het Verdrag aan dat Stelsel opdraagt.   
 
 ###Hoofdstuk II 
@@ -72,9 +74,15 @@ b. het bevorderen van de goede werking van het betalingsverkeer;
 
 c. het bevorderen van de stabiliteit van het financiële stelsel;  
 
-d. het verzamelen van statistische gegevens en het vervaardigen van statistieken op de voet van de daarvoor geldende wettelijke regelingen.     
+d. het verzamelen van statistische gegevens en het vervaardigen van statistieken op de voet van de daarvoor geldende wettelijke regelingen;  
+
+e. het uitoefenen van afwikkelingstaken met betrekking tot banken en beleggingsondernemingen op voet van de daarvoor geldende wettelijke regelingen.    
 2.  De Bank kan de in het eerste lid genoemde taken mede uitvoeren in de openbare lichamen Bonaire, Sint Eustatius en Saba, op de voet van de daarvoor geldende wettelijke regelingen.  
 3.  De Bank kan, na toestemming bij koninklijk besluit, in het algemeen belang zowel in het Europese deel van Nederland als in de openbare lichamen Bonaire, Sint Eustatius en Saba andere taken uitvoeren dan de in deze wet genoemde.   
+
+### Artikel  4a  
+
+De Bank neemt bij de uitoefening van haar taak, bedoeld in artikel 4, eerste lid, onderdeel e, tot uitgangspunt dat een beroep op de publieke middelen wordt vermeden. Indien met het oog op de afwikkelingsdoelstellingen, bedoeld in artikel 14 van de verordening gemeenschappelijk afwikkelingsmechanisme, een beroep op buitengewone openbare financiële steun onvermijdelijk is, wordt dat beroep beperkt tot hetgeen noodzakelijk is ter verwezenlijking van die doelstellingen. 
 
 ### §  2  
 
@@ -192,9 +200,15 @@ Bepalingen van boek 2 van het Burgerlijk Wetboek die bij toepassing op de Bank s
 
 ### Artikel  12a  
 
-1.  Bij of krachtens de statuten kan worden bepaald dat taken van de directie die voortvloeien uit artikel 4, eerste lid, worden toebedeeld aan één of meer directeuren en dat zij hieromtrent rechtsgeldig namens de Bank kunnen besluiten. Bepaling krachtens de statuten als bedoeld in de eerste volzin geschiedt schriftelijk.   
+1.  Bij of krachtens de statuten kan worden bepaald dat taken van de directie die voortvloeien uit artikel 4, eerste lid, onderdeel a, worden toebedeeld aan één of meer directeuren en dat zij hieromtrent rechtsgeldig namens de Bank kunnen besluiten. Bepaling krachtens de statuten als bedoeld in de eerste volzin geschiedt schriftelijk.   
 2.  De directeur of directeuren aan wie de taken, bedoeld in het eerste lid, zijn toebedeeld, kunnen door de directie worden gemachtigd tot uitoefening van de bevoegdheden die nodig zijn voor het vervullen van deze taken, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.   
 3.  Onverminderd het bepaalde in de artikelen 4:81 en 10:6 van de Algemene wet bestuursrecht omvat de machtiging, bedoeld in het tweede lid, tevens de bevoegdheid om beleid te bepalen ten aanzien van de taken, bedoeld in het tweede lid, tenzij dit in een mandaatbesluit is uitgesloten.  
+
+### Artikel  12b  
+
+1.  Eén van de directeuren is belast met de uitvoering van de taak, bedoeld in artikel 4, eerste lid, onderdeel e. Deze directeur is niet tevens belast met de uitoefening van de taken, bedoeld in de artikelen 3 en 4, eerste lid, onderdeel a, voor zover het betreft het toezicht op banken, en onderdeel c.   
+2.  Ter zake van besluitvorming in de directie waarbij de taak, bedoeld in artikel 4, eerste lid, onderdeel e, wordt uitgeoefend, worden aan de directeur, bedoeld in het eerste lid, evenveel stemmen toegekend als aan de overige leden van de directie tezamen. Bij staking van de stemmen, beslist de stem van de directeur, bedoeld in het eerste lid.   
+3.  Het tweede lid is niet van toepassing op besluitvorming waarbij toepassing wordt gegeven aan de artikelen 3A:9 tot en met 3A:11 van de Wet op het financieel toezicht en aan de artikelen 8 tot en met 11 van de verordening gemeenschappelijk afwikkelingsmechanisme.  
 
 ### Artikel  13  
 

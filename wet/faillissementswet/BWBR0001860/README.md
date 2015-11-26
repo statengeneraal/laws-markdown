@@ -1544,6 +1544,12 @@ k.  deposito-overeenkomst: de overeenkomst op grond waarvan een depositohouder e
 
 l.  overnemer: degene die deposito-overeenkomsten, activa of passiva anders dan uit hoofde van deposito-overeenkomsten overneemt, degene die bereid is zulks te doen en degene die onderzoekt of hij daartoe bereid is; 
 
+m.  *in aanmerking komend deposito:* deposito dat valt onder de werking van het depositogarantiestelsel, bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht;  
+
+n.  *kleine, middelgrote en micro-ondernemingen:* kleine, middelgrote en mirco-ondernemingen als met betrekking tot het criterium jaaromzet gedefinieerd in de aanbeveling van de Europese Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-ondernemingen, (PbEU 2003, L 124/16);  
+
+o.  *verordening gemeenschappelijk afwikkelingsmechanisme:* verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 tot vaststelling van eenvormige regels en een eenvormige procedure voor de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen in het kader van een gemeenschappelijk afwikkelingsmechanisme en een gemeenschappelijk bankenafwikkelingsfonds en tot wijziging van Verordening (EU) nr. 1093/2010 van het Europees parlement en de Raad (PbEU 2014, L 225); 
+
 m.  verordening bankentoezicht: verordening (EU) Nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287).  
 2.  Voor de toepassing van deze afdeling is een bank gevestigd in:
 
@@ -1563,8 +1569,8 @@ b. een in een staat die geen lidstaat is gevestigde kredietinstelling die haar b
 
 ### Artikel  212ha  
 
-1.  Ingeval De Nederlandsche Bank N.V. oordeelt dat er ten aanzien van een bank die een vergunning als bedoeld in artikel 2:11 van de Wet op het financieel toezicht heeft tekenen van een gevaarlijke ontwikkeling zijn met betrekking tot het eigen vermogen, de solvabiliteit of de liquiditeit en redelijkerwijs is te voorzien dat die ontwikkeling niet voldoende of niet tijdig ten goede zal keren, kan zij de rechtbank Amsterdam verzoeken ten aanzien van die bank het faillissement uit te spreken.   
-2.  Een ander dan De Nederlandsche Bank N.V. of een in een noodregeling benoemde bewindvoerder kan niet het faillissement van een bank die een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
+1.  De Nederlandsche Bank kan de rechtbank Amsterdam verzoeken ten aanzien van een bank of een beleggingsonderneming als bedoeld in artikel 3A:2, onderdeel b, van de Wet op het financieel toezicht het faillissement uit te spreken indien is voldaan aan de voorwaarden bedoeld in artikel 18, eerste lid, onderdelen a en b, van de verordening gemeenschappelijk afwikkelingsmechanisme.   
+2.  Een ander dan De Nederlandsche Bank N.V. kan niet het faillissement van een bank die een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft aanvragen.   
 3.  Een bank die een door de Europese Centrale Bank of De Nederlandsche Bank N.V. verleende vergunning heeft kan aangifte doen van haar eigen faillissement. In dat geval stelt de rechtbank de Europese Centrale Bank of De Nederlandsche Bank N.V., al naar gelang de bevoegdheidsverdeling op grond van de artikelen 4 en 6 van de verordening bankentoezicht, in staat te worden gehoord alvorens te beslissen op de aangifte.  
 
 ### Artikel  212hb  
@@ -1585,16 +1591,8 @@ De rechtbank behandelt het verzoek van De Nederlandsche Bank N.V. tot het uitspr
 
 ### Artikel  212hf  
 
-1.  De bank kan, na in de gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen: 
-
-a. beslissingen als bedoeld in artikel 3:159d, tweede lid van de Wet op het financieel toezicht;  
-
-b. beslissingen als bedoeld in artikel 3:159f, eerste lid, van die wet;  
-
-c. beslissingen als bedoeld in de artikelen 1:75 en 1:76 van die wet die zijn genomen nadat De Nederlandsche Bank N.V. een mededeling als bedoeld in artikel 3:159d, eerste lid, van die wet heeft gedaan;  
-
-d. het oordeel van De Nederlandsche Bank N.V. dat zich een situatie als bedoeld in artikel 212ha, eerste lid, voordoet.     
-2.  Ingeval een bank zich heeft verweerd tegen een beslissing of oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot die beslissing of dat oordeel heeft kunnen komen.  
+1.  De bank onderscheidenlijk de beleggingsonderneming kan, na in gelegenheid te zijn gesteld te worden gehoord, zich verweren tegen het oordeel van de Nederlandsche Bank N.V. dat is voldaan aan de voorwaarden bedoeld in artikel 212ha, eerste lid.   
+2.  Ingeval een bank zich heeft verweerd tegen een oordeel als bedoeld in het eerste lid, verklaart de rechtbank dat verweer uitsluitend dan gegrond indien De Nederlandsche Bank N.V. in redelijkheid niet tot dat oordeel heeft kunnen komen.  
 
 ### Artikel  212hg  
 
@@ -1742,6 +1740,15 @@ Na de inkennisstelling, bedoeld in artikel 212c, stelt De Nederlandsche Bank N.V
 
 In afwijking van artikel 52, tweede lid, bevrijdt voldoening na de bekendmaking van de faillietverklaring van een bank die geen natuurlijk persoon is tegenover de boedel indien degene die haar deed, bewijst dat hij niet bekend was met de faillietverklaring.
 
+### Artikel  212ra  
+
+1.  De volgende vorderingen worden verhaald op de boedel na de vorderingen, genoemd in artikel 288 van Boek 3 van het Burgerlijk Wetboek en voor de vorderingen van concurrente schuldeisers, in de volgende volgorde: 
+
+a. vorderingen ter zake van gegarandeerde deposito’s en vorderingen van de Nederlandsche Bank die op grond van artikel 3:261, vierde lid, van de Wet op het financieel toezicht in de rechten van de depositohouder ter zake van een vordering op de betalingsonmachtige kredietinstelling is getreden;  
+
+b. vorderingen ter zake van het gedeelte van in aanmerking komende deposito’s dat groter is dan het bedrag van de vergoeding dat krachtens artikel 3:259, derde lid, onderdeel b, van de Wet op het financieel toezicht is vastgesteld, welke deposito’s worden aangehouden door natuurlijke personen en door micro-, kleine en middelgrote ondernemingen, alsmede van deposito’s, aangehouden door natuurlijke personen en door micro-, kleine en middelgrote ondernemingen die in aanmerking komende deposito’s zouden zijn indien zij niet waren aangehouden in buiten de Europese Unie gelegen bijkantoren van banken met zetel in de Europese Unie.     
+2.  Zowel binnen onderdeel a als binnen onderdeel b van het eerste lid hebben de vorderingen onderling een gelijke rang.  
+
 ###§ 2 
 
 ####Bepalingen van internationaal privaatrecht
@@ -1861,6 +1868,14 @@ Indien het faillissement is uitgesproken van een bank die niet is gevestigd in e
 ###Artikel 212nn 
 
 De curator kan in de verslagen, bedoeld in artikel 73a, geen gegevens of inlichtingen opnemen die betrekking hebben op derden die betrokken zijn of zijn geweest bij pogingen de bank in staat te stellen zijn bedrijf voort te zetten.
+
+###Afdeling 11AB 
+
+####Van het faillissement van een beleggingsonderneming als bedoeld in artikel 3a:2, onderdeel b, van de Wet op het financieel toezicht
+
+### Artikel  212oo  
+
+De artikelen 212h, eerste lid, 212ha tot en met 212hq, 212i, 212j, en 212l tot en met 212nn zijn van overeenkomstige toepassing op beleggingsondernemingen, bedoeld in artikel 3A:2, onderdeel b, van de Wet op het financieel toezicht, met dien verstande dat in artikel 212ha voor «artikel 2:11» wordt gelezen: 2:96. 
 
 ###Afdeling 11B 
 

@@ -1320,7 +1320,9 @@ d. indien aandelen van de vennootschap of met medewerking van de vennootschap ui
 ### Artikel  115  
 
 1. Behoudens het bepaalde bij de tweede zin van het eerste lid van artikel 111 van dit Boek, geschiedt de oproeping niet later dan op de vijftiende dag vóór die der vergadering. Was die termijn korter of heeft de oproeping niet plaats gehad, dan kunnen geen wettige besluiten worden genomen, tenzij met algemene stemmen in een vergadering, waarin het gehele geplaatste kapitaal vertegenwoordigd is.   
-2.  Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geschiedt de oproeping niet later dan op de tweeënveertigste dag vóór die der vergadering. 
+2.  Indien aandelen van de vennootschap of met medewerking van de vennootschap uitgegeven certificaten daarvan zijn toegelaten tot de handel op een gereglementeerde markt als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, geschiedt de oproeping niet later dan op de tweeënveertigste dag vóór die der vergadering.  
+3.  De statuten kunnen in afwijking van lid 2 bepalen dat de oproeping voor een vergadering voor een besluit tot uitgifte van aandelen niet later dan de tiende dag vóór die der vergadering geschiedt, indien voldaan is aan de voorwaarden om maatregelen op te leggen op grond van artikel 1:75a van de Wet op het financieel toezicht en de uitgifte van aandelen noodzakelijk is om te voorkomen dat aan de voorwaarden voor afwikkeling, bedoeld in artikel 3A:18, eerste lid, van die wet wordt voldaan.   
+4.  Voor een besluit van de algemene vergadering tot wijziging van de statuten voor de toepassing van het derde lid, is een meerderheid van ten minste twee derden der uitgebrachte stemmen vereist. 
 
 ### Artikel  116  
 

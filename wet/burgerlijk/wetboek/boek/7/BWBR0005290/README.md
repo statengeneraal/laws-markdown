@@ -4278,7 +4278,13 @@ e. de ten aanzien van de werknemers overwogen maatregelen.
 
 ### Artikel  666  
 
-1.  De artikelen 662 tot en met 665, en artikel 670, lid 8, zijn niet van toepassing op de overgang van een onderneming indien de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort alsmede, indien de werkgever een bank in de zin van artikel 1:1 van de Wet op het financieel toezicht of een verzekeraar in de zin van dat artikel is, ten aanzien van de werkgever de noodregeling, bedoeld in afdeling 3.5.5 van die wet is uitgesproken, de rechtbank een machtiging als bedoeld in artikel 3:163, eerste lid, aanhef en onderdeel b heeft verleend, of indien de rechtbank een machtiging als bedoeld in artikel 3:163m, eerste lid, aanhef en onderdeel c, van die wet heeft verleend en de bewindvoerders overgaan tot liquidatie.    
+1.  De artikelen 662 tot en met 665 en 670 lid 8 zijn niet van toepassing op de overgang van een onderneming indien:
+
+a. de werkgever in staat van faillissement is verklaard en de onderneming tot de boedel behoort;  
+
+b. de werkgever een entiteit is als bedoeld in artikel 3A:2 van de Wet op het financieel toezicht en ten aanzien van die werkgever het instrument van overgang van de onderneming, het instrument van de overbruggingsinstelling of het instrument van afsplitsing van activa, bedoeld in artikel 3A:28, 3A:37 onderscheidenlijk 3A:41 van de Wet op het financieel toezicht wordt toegepast; of  
+
+c. de werkgever een bank of verzekeraar is in de zin van artikel 1:1 van de Wet op het financieel toezicht, en ten aanzien van die werkgever de noodregeling, bedoeld in afdeling 3.5.5 van die wet is uitgesproken, de rechtbank een machtiging als bedoeld in artikel 3:163, eerste lid, aanhef en onderdeel b, heeft verleend, of indien de rechtbank een machtiging als bedoeld in artikel 3:163m, eerste lid, aanhef en onderdeel c, van die wet heeft verleend en de bewindvoerders overgaan tot liquidatie.     
 2.  Deze afdeling is niet van toepassing op zeeschepen.  
 
 ### Afdeling  9  

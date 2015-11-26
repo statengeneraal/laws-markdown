@@ -160,9 +160,9 @@ c. uit het laatstelijk voor de vervolging door hem uitgeoefende beroep of bedrij
 6.   Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.    
 7.   De in de vorige leden bedoelde grondslag wordt bepaald op:  
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2015: € 2.067,64 en   
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2015: € 2.075,91 en   
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2015: € 4.292,41.      
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2015: € 4.309,58.      
 8.   Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, als bedoeld in het tweede lid, moet worden verstaan.   
 
 ### Artikel  9  
@@ -185,9 +185,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;   
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2015: € 2.804,91;   
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2015: € 2.816,13;   
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2015: € 2.609,95.      
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2015: € 2.620,39.      
 2. 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt.   
 

@@ -20,9 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. groep banken of groep financiële ondernemingen: twee of meer banken onderscheidenlijk financiële ondernemingen die met elkaar zijn verbonden in een formele of feitelijke zeggenschapsstructuur;  
+a.  * gedelegeerde verordening bijdragen afwikkelingsfonds:* gedelegeerde verordening (EU) 2015/63 van de Commissie van 21 oktober 2014 tot aanvulling van Richtlijn 2014/59/EU van het Europees Parlement en de Raad van wat de vooraf te betalen bijdragen aan afwikkelingsfinancieringsregelingen betreft (PbEU 2015, L 11); 
 
-b. wet: Wet op het financieel toezicht.   
+b. groep banken of groep financiële ondernemingen: twee of meer banken onderscheidenlijk financiële ondernemingen die met elkaar zijn verbonden in een formele of feitelijke zeggenschapsstructuur;  
+
+c. wet: Wet op het financieel toezicht.   
 
 ### Hoofdstuk  2  
 
@@ -142,6 +144,119 @@ b. indien het een levensverzekeraar betreft met zetel in een staat die geen lids
 1.  De Nederlandsche Bank stelt, gehoord de vertrouwenscommissie, een vergoedingsplan voor de opvang vast.   
 2.  Onverminderd de bevoegdheden die in Boek 2 van het Burgerlijk Wetboek worden toegekend aan de organen van de opvanginstelling, vindt de uitkering van dividend en de teruggave van kapitaal aan de aandeelhouders van de opvanginstelling, alsmede de rentevergoeding voor en de terugbetaling van de aan de opvanginstelling verstrekte achtergestelde lening plaats volgens het vergoedingsplan.   
 3.  De Nederlandsche Bank kan, indien dringende omstandigheden dit vergen en gehoord de vertrouwenscommissie, het vergoedingsplan wijzigen.  
+
+### Hoofdstuk  5a  
+
+####Afwikkeling
+
+### §  5.1  
+
+####Overbruggingsinstellingen en entiteiten voor activa- en passivabeheer
+
+### Artikel  7a  
+
+Voor de toepassing van deze paragraaf: 
+
+a. wordt een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer aangemerkt als een overbruggingsinstelling in de zin van afdeling 3.5.4a van de wet, voor zover belast met de taken, bedoeld in artikel 7b, tweede lid, onderdeel b, 7c, tweede lid, onderdeel a, of 7d, tweede lid, onderdeel a;  
+
+b. wordt een overbruggingsstichting of overbruggingsonderneming aangemerkt als een overbruggingsinstelling in de zin van paragraaf 3A.2.5.2 van de wet, voor zover belast met de taken, bedoeld in artikel 7b, tweede lid, onderdeel c, of 7c, tweede lid, onderdeel b.   
+
+### Artikel  7b  
+
+1.  De Nederlandsche Bank is belast met het oprichten van overbruggingsstichtingen.   
+2.  Een overbruggingsstichting heeft tot taak om: 
+
+a. aandelen in een of meer overbruggingsondernemingen of entiteiten voor activa- en passivabeheer te houden;  
+
+b. tijdelijk aandelen in een verzekeraar te houden die ingevolge een overdrachtsplan als bedoeld in artikel 3:159c van de wet aan haar worden overgedragen; of  
+
+c. tijdelijk eigendomsinstrumenten te houden die zijn uitgegeven door of met medewerking van een entiteit in afwikkeling en die ingevolge een besluit op grond van artikel 3A:36 van de wet op haar overgaan.     
+3.  De statuten van een overbruggingsstichting zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taken, bedoeld in het tweede lid, onderdeel a of b, zich niet daartegen verzetten, indien de overbruggingsstichting met deze taken is belast.   
+4.  Wijziging van de statuten van een overbruggingsstichting behoeft de goedkeuring van de Nederlandsche Bank.  
+
+### Artikel  7c  
+
+1.  De Nederlandsche Bank is belast met het oprichten, of het door een overbruggingsstichting doen oprichten, van overbruggingsondernemingen.   
+2.  Een overbruggingsonderneming heeft tot taak om tijdelijk activa of passiva te houden die: 
+
+a. ingevolge een overdrachtsplan als bedoeld in artikel 3:159c van de wet van een verzekeraar aan haar worden overgedragen, en het daaraan verbonden bedrijf uit te oefenen; of  
+
+b. ingevolge een besluit op grond van artikel 3A:36 van de wet van een entiteit in afwikkeling op haar overgaan, en het daaraan verbonden bedrijf uit te oefenen.     
+3.  De statuten van een overbruggingsonderneming zijn in overeenstemming met de artikelen 40 en 41 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, onderdeel a, zich niet daartegen verzet, indien de overbruggingsstichting met deze taak is belast.   
+4.  Indien een overbruggingsstichting een overbruggingsonderneming opricht, behoeft de vaststelling en wijziging van de statuten van de overbruggingsonderneming de goedkeuring van de Nederlandsche Bank.   
+5.  Indien de Nederlandsche Bank een overbruggingsonderneming opricht, draagt zij de aandelen in de overbruggingsonderneming onverwijld over aan een overbruggingsstichting.  
+
+### Artikel  7d  
+
+1.  De Nederlandsche Bank is belast met het oprichten, of het door een overbruggingsstichting doen oprichten, van een of meer entiteiten voor activa- en passivabeheer.   
+2.  Een entiteit voor activa- en passivabeheer heeft tot taak om de activa en passiva te beheren die: 
+
+a. ingevolge een overdrachtsplan als bedoeld in artikel 3:159c van de wet van een verzekeraar aan haar worden overgedragen; of  
+
+b. ingevolge een besluit op grond van artikel 3A:41 van de wet van een entiteit in afwikkeling of overbruggingsinstelling op haar overgaan.     
+3.  De statuten van een entiteit voor activa- en passivabeheer zijn in overeenstemming met artikel 42 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor zover de taak, bedoeld in het tweede lid, onderdeel a, zich niet daartegen verzet, indien zij met deze taak is belast.   
+4.  Artikel 7c, vierde en vijfde lid, is van overeenkomstige toepassing op een entiteit voor activa- en passivabeheer.  
+
+### Artikel  7e  
+
+1.  Verkoop door een overbruggingsstichting, overbruggingsonderneming of entiteit voor activa- en passivabeheer van door deze gehouden aandelen, andere eigendomsinstrumenten, of activa of passiva, vindt niet plaats dan op aanwijzing of met goedkeuring van de Nederlandsche Bank.   
+2.  Bij een verkoop door een overbruggingsstichting of overbruggingsonderneming worden de vereisten, bedoeld in artikel 41, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen in acht genomen, voor zover dat zich niet verzet tegen het doel waarmee de overbruggingsstichting of overbruggingsonderneming aandelen in een verzekeraar, onderscheidenlijk van een verzekeraar overgedragen activa of passiva, houdt, indien zij met deze taak is belast.  
+
+### Artikel  7f  
+
+1.  De Nederlandsche Bank beëindigt het functioneren van een overbruggingonderneming waaraan of waarop activa of passiva zijn overgedragen onderscheidenlijk overgegaan, of doet een dergelijke overbruggingsonderneming door een overbruggingsstichting beëindigen indien: 
+
+a. alle of vrijwel alle activa en passiva zijn verkocht aan derden; of  
+
+b. de activa volledig zijn vereffend en de passiva volledig zijn voldaan.     
+2.  Een overbruggingsonderneming verkoopt haar activa en passiva uiterlijk twee jaar nadat voor het laatst activa of passiva ingevolge de toepassing van het instrument van de overbruggingsinstelling aan haar zijn overgedragen, onderscheidenlijk op haar zijn overgegaan, indien binnen die termijn geen van de situaties, bedoeld in het eerste lid, zich heeft voorgedaan.   
+3.  De Nederlandsche Bank kan de termijn, bedoeld in het tweede lid, telkens met ten hoogste een jaar verlengen, indien dit: 
+
+a. bevorderlijk is voor het bereiken van de situatie waarin alle of vrijwel alle activa en passiva zijn verkocht aan derden of de activa volledig zijn vereffend en de passiva volledig zijn voldaan;  
+
+b. nodig is om de continuïteit van essentiële bankdiensten of financiële diensten te verzekeren; of  
+
+c. nodig is om het doel te verwezenlijken waartoe de overbruggingsonderneming van een verzekeraar overgedragen activa of passiva houdt.    
+
+### §  5.2  
+
+####Het afwikkelingsfonds
+
+### Artikel  7g  
+
+1.  Op de leden van het bestuur van het afwikkelingsfonds, bedoeld in artikel 3A:68, eerste lid, van de wet, is artikel 14, vierde lid, van de Kaderwet zelfstandige bestuursorganen van overeenkomstige toepassing.   
+2.  Op de taakuitoefening van het afwikkelingsfonds zijn de artikelen 20, 23, eerste en tweede lid, en 41, eerste lid, van de Kaderwet zelfstandige bestuurorganen van overeenkomstige toepassing, met dien verstande dat voor «Onze Minister» wordt gelezen: de Nederlandsche Bank. De Nederlandsche Bank stelt Onze Minister onverwijld in kennis van door haar getroffen voorzieningen als bedoeld in artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen.   
+3.  Het afwikkelingsfonds legt verantwoording af over haar taakuitoefening overeenkomstig de artikelen 18, eerste lid, met uitzondering van de laatste volzin, 26, 34, eerste lid, en 35, eerste lid, van de Kaderwet zelfstandige bestuursorganen, met dien verstande dat voor «Onze Minister» wordt gelezen: de Nederlandsche Bank.  
+
+### Artikel  7h  
+
+1.  De Nederlandsche Bank heft de periodieke bijdragen, bedoeld in artikel 3A:71, eerste lid, van de wet, tot 1 januari 2025, onverminderd het vierde lid.   
+2.  Op het vaststellen van de hoogten van de periodieke bijdragen van beleggingsondernemingen als bedoeld in artikel 3A:71, eerste lid, onderdeel a, van de wet, is artikel 20, vijfde lid, van de gedelegeerde verordening bijdragen afwikkelingsfonds van toepassing.   
+3.  Op het vaststellen van de hoogten van de periodieke bijdragen van banken en beleggingsondernemingen als bedoeld in artikel 3A:71, eerste lid, onderdeel b, onderscheidenlijk onderdeel c, van de wet, zijn de artikelen 10 tot en met 14 en 17 van de gedelegeerde verordening bijdragen afwikkelingsfonds van overeenkomstige toepassing, met dien verstande dat: 
+
+a. uitsluitend de vermogenspositie en activiteiten van het in Nederland gelegen bijkantoor in aanmerking worden genomen;  
+
+b. indien de totale waarde aan passiva, minus eigen vermogen en gegarandeerde deposito’s, bedoeld in artikel 10 van de verordening, groter is dan 300.000.000 euro, de periodieke bijdrage 75.000 euro per jaar bedraagt, vermeerderd met: 
+
+1°.  25.000 euro voor elke 100.000.000 euro waarmee het bedrag van 300.000.000 euro wordt overschreden; en  
+
+2°.  35.000 euro voor elke 100.000.000 euro waarmee het bedrag van 1.000.000.000 euro wordt overschreden.       
+4.  Indien financiële middelen van het afwikkelingsfonds zijn aangewend, heft de Nederlandsche Bank, onverminderd de heffingen ingevolge het eerste lid, periodieke bijdragen totdat een bedrag ter grootte van het bedrag aan aangewende middelen is geheven.   
+5.  Het bedrag waarvoor een overeenkomst, bedoeld in artikel 3A:74, tweede lid, van de wet is aangegaan, telt voor de toepassing van het eerste en derde lid mee voor de berekening van de hoogte van de in het afwikkelingsfonds aanwezige middelen.  
+
+### Artikel  7i  
+
+1.  De hoogte van een buitengewone bijdrage als bedoeld in artikel 3A:72, eerste lid, van de wet bedraagt per jaar ten hoogste drie maal de voorafgaande periodieke bijdrage van de bank of beleggingsonderneming, geheven op grond van artikel 3A:71 van de wet.   
+2.  De Nederlandsche Bank kan de betaling van de buitengewone bijdrage voor ten hoogste zes maanden geheel of gedeeltelijk opschorten indien de betaling daarvan de liquiditeit of de solvabiliteit van de betrokken bank of beleggingsonderneming zou bedreigen. Op verzoek van de onderneming kan de termijn worden verlengd.  
+
+### §  5.3  
+
+####Overige bepalingen
+
+### Artikel  7j  
+
+1.  Een entiteit in afwikkeling als bedoeld in artikel 3A:2 van de wet of de Nederlandsche Bank kan, indien noodzakelijk voor een effectieve afwikkeling, voor de identificatie van houders van kernkapitaalinstrumenten of eigendomsinstrumenten of van schuldeisers persoonsgegevens verwerken en maakt gebruik van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, indien zij daarover beschikt.   
+2.  Een verzekeraar ten aanzien waarvan de noodregeling of het faillissement is uitgesproken kan, indien noodzakelijk om een overdracht van rechten en verplichtingen krachtens verzekering mogelijk te maken, voor de identificatie van polishouders persoonsgegevens verwerken en maakt gebruik van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, indien zij daarover beschikt.  
 
 ### Hoofdstuk  6  
 

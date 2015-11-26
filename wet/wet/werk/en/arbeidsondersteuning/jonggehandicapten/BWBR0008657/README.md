@@ -1980,7 +1980,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de jonggehandicapte, die re
 ####Tegemoetkoming jonggehandicapten
 
 1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer of recht heeft op arbeidsondersteuning, heeft recht op een tegemoetkoming.   
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 211,00.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 211,–.   
 3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
 5.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   

@@ -172,9 +172,9 @@ a. beslissingen in bezwaar- en beroepsprocedures, met uitzondering van de beslis
 
 b. de in artikel 4, vierde lid, genoemde aangelegenheden, met uitzondering van het nemen van besluiten als bedoeld in de onderdelen f en g;  
 
-c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 500.000,–;  
+c. de voorlopige buiteninvorderingstelling van vorderingen op derden alsmede de definitieve buiteninvorderingstelling van vorderingen op derden voor zover het gaat om vorderingen van ten hoogste € 1.000.000,–;  
 
-d. de kwijtschelding van vorderingen op derden van ten hoogste € 500.000,–.     
+d. de kwijtschelding van vorderingen op derden van ten hoogste € 1.000.000,–.     
 3.  De secretaris-generaal is bevoegd tot uitoefening van alle bevoegdheden die zijn verleend aan onder hem ressorterende functionarissen, met dien verstande dat hij gehouden is om door de inspecteur-generaal Sociale Zaken en Werkgelegenheid aangeboden inspectiebevindingen, jaarplannen, meerjarenplannen en jaarverslagen met betrekking tot inspectietaken van de Inspectie SZW ongewijzigd door te sturen naar de desbetreffende bewindspersoon of -personen. Op het jaarplan en het jaarverslag voor de gehele Inspectie SZW is artikel 38 van de Wet structuur uitvoeringsorganisatie werk en inkomen van toepassing.   
 4.  De secretaris-generaal kan departementale projectorganisaties instellen en projectdirecteuren benoemen die leiding geven aan deze projectorganisaties.  
 
@@ -472,8 +472,8 @@ f. de Nationale ombudsman; en
 g. een extern advies- of overlegorgaan;   worden vastgesteld en ondertekend door een bewindspersoon.   
 2.  Ministeriële regelingen houdende algemeen verbindende voorschriften worden vastgesteld en ondertekend door een bewindspersoon. Indien bij of krachtens de wet waarbij de bevoegdheid tot het vaststellen van een ministeriële regeling wordt verleend in de mogelijkheid van mandaatverlening is voorzien, kan een ministeriële regeling namens de bewindspersoon worden vastgesteld en ondertekend door hetzij de functionaris die daartoe bij of krachtens die wetsbepaling is aangewezen, hetzij de functionaris die daarvoor op grond van deze regeling in aanmerking komt.   
 3.  Besluiten inzake het verlenen van goedkeuring aan, het schorsen of het vernietigen van dan wel het onthouden van goedkeuring aan besluiten van een ander bestuursorgaan worden genomen en ondertekend door een bewindspersoon.   
-4.  Besluiten inzake de definitieve buiteninvorderingstelling van vorderingen op derden van meer dan € 500.000,– worden genomen en ondertekend door een bewindspersoon.   
-5.  Besluiten inzake kwijtschelding van vorderingen op derden van meer dan € 500.000,– worden genomen en ondertekend door een bewindspersoon.   
+4.  Besluiten inzake de definitieve buiteninvorderingstelling van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.   
+5.  Besluiten inzake kwijtschelding van vorderingen op derden van meer dan € 1.000.000,– worden genomen en ondertekend door een bewindspersoon.   
 6.  Besluiten tot instelling van een externe of interdepartementale commissie of een adviescollege in de zin van de Kaderwet adviescolleges en de benoeming van de leden van deze organen dan wel de inschakeling van externe personen die op verzoek van een bewindspersoon op persoonlijke titel en op individuele basis een bepaalde taak verrichten, worden genomen en ondertekend door een bewindspersoon.  
 
 ### Artikel  17  
@@ -525,7 +525,7 @@ b.  het aanstellen en benoemen alsmede de ontslagverlening van functionarissen d
 
 c. het op grond van artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 toekennen van periodieke toeslagen voor zover het gaat om toeslagen om redenen van werving en behoud;  
 
-d. de voorlopige buiteninvorderingstelling van vorderingen op derden van meer dan € 500.000,–;  
+d. de voorlopige buiteninvorderingstelling van vorderingen op derden van meer dan € 1.000.000,–;  
 
 e. de formatie van organisatieonderdelen;  
 

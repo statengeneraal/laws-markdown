@@ -81,9 +81,13 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 1:59, tweede lid  | 3  |
 | 1:67, eerste lid  | 3  |
 | 1:74, eerste lid  | 2  |
+| 1:74, eerste lid, voor zover het inlichtingen betreft voor het opstellen en uitvoeren van een afwikkelingsplan  | 3  |
+| 1:74, eerste lid, voor overige inlichtingen  | 2  |
 | 1:75, eerste lid, voor zover het betreft de niet-naleving van een met betrekking tot artikel 4:24a, eerste of tweede lid, gegeven aanwijzing  | 3  |
+| 1:75a  | 2  |
 | 1:76, zesde lid, aanhef en onderdeel a  | 2  |
 | 1:77, eerste lid  | 3  |
+| 1:89  | 2  |
 | 1:113  | 3  |
 | 1:114, eerste en tweede lid  | 3  |
 | 1:116  | 3  |
@@ -277,13 +281,17 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 3:54, derde lid  | 3  |
 | 3:55, tweede lid  | 3  |
 | 3:57, eerste, tweede, vijfde en zevende lid  | 3  |
+| 3:57, vijfde lid  | 3  |
 | 3:59, tweede lid  | 3  |
 | 3:62, tweede lid  | 3  |
 | 3:62a, derde lid  |2 |
+| 3:62a, derde lid  | 3  |
 | 3:62a, derde en vierde lid  | 2  |
+| 3:62a, vierde lid  | 2  |
 | 3:62a, vijfde lid  | 3  |
 | 3:62b, eerste en tweede lid  |3 |
 | 3:63, eerste en tweede lid  | 3  |
+| 3:63, derde lid  | 3  |
 | 3:66  |2 |
 | 3:67, eerste lid  | 3  |
 | 3:67, tweede en derde lid  | 2  |
@@ -387,6 +395,25 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 3:298, vijfde lid  | 3  |
 | 3:299, eerste lid  | 3  |
 | 3:299, eerste en tweede lid  | 2  |
+| 3:301, eerste lid  | 2  |
+| 3:302, eerste lid  | 2  |
+| 3:303, eerste en tweede lid  | 1  |
+| 3:304  | 1  |
+| 3:305, eerste, tweede en vierde lid  | 3  |
+| --- | --- |
+|Deel Bijzondere maatregelen en voorzieningen betreffende financiële ondernemingen | --- |
+| 3A:13, eerste en derde lid  | 2  |
+| 3A:14, eerste lid  | 3  |
+| 3A:15, eerste lid  | 3  |
+| 3A:16, eerste lid  | 3  |
+| 3A:22, eerste en tweede lid  | 2  |
+| 3A:26, vierde lid  | 2  |
+| 3A:36  | --- |
+| 3A:42, tweede lid  | 2  |
+| 3A:45, eerste en tweede lid  | 2  |
+| 3A:47, eerste tot en met derde lid  | 2  |
+| 3A:48, derde, vijfde en zesde lid  | 2  |
+| 3A:71, tweede lid  | 3  |
 | --- | --- |
 |  Deel Gedragstoezicht financiële ondernemingen   | --- |
 | 4:3, eerste lid  | 3  |
@@ -689,13 +716,19 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 23, eerste tot en met vijfde lid  | 3  |
 |  23a  |2  |
 |  23b, eerste en tweede lid  |2  |
-|  23c, eerste lid  |2  |
-|  23d  |2  |
-|  23f, eerste tot en met derde lid  |2  |
-| 24  | 2  |
+| 23d, eerste tot en met derde lid  | 3  |
+| 23e, eerste en tweede lid  | 3  |
+| 23f, eerste lid  | 3  |
+| 23f, tweede lid  | 2  |
+| 23g, derde lid  | 3  |
+| 23h  | 3  |
+| 23i  | 2  |
+| 23j, eerste tot en met derde lid  | 2  |
+|24 |2 |
 | 24a, eerste en tweede lid  | 2  |
 | 24b, eerste tot en met vijfde lid  | 2  |
 | 25  | 2  |
+| 25a, eerste lid  | 2  |
 | 26, eerste tot en met vijfde lid  | 2  |
 |26.0 |2 |
 |26.1, eerste en tweede lid  |2  |

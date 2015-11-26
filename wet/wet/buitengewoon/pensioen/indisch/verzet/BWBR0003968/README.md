@@ -121,7 +121,7 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken, indien naar 
 7.   Indien de deelnemer aan het verzet ten tijde van het tot uiting komen van de invaliditeit, als bedoeld in artikel 6, eerste lid, niet was aangewezen op inkomen uit arbeid in beroep of bedrijf dan wel de leeftijd heeft of had bereikt waarop gelijksoortige valide personen in de regel hun werkzaamheden beëindigen dan wel indien die invaliditeit niet heeft geleid tot beëindiging of vermindering van zijn werkzaamheden in beroep of bedrijf, wordt de pensioengrondslag vastgesteld op het bedrag genoemd in het achtste lid, onder a.   
 8.   De pensioengrondslag bedraagt per 1 januari 1983 op jaarbasis:  
 
-a. tenminste € 22.416,78per 1 januari 2015: € 24.814,54, en ten hoogste   
+a. tenminste € 22.416,78per 1 juli 2015: € 24 913,80, en ten hoogste   
 
 b.  
 
@@ -135,7 +135,7 @@ b.
 | 5  % van de volgende  | € 30.382,47  |
 | van het overeenkomstig de voorgaande leden vastgestelde jaarinkomen.  |
 
-per 1 januari 2015 achtereenvolgens: € 51.764,35; € 31.967,01; € 16.822,95; € 17.076,02; € 16.869,18; € 33.632,27.  
+per 1 juli 2015 achtereenvolgens: € 51.971,41; € 32.094,88; € 16.890,24; € 17.144,32; € 16.936,66; € 33.766,80.  
 
 ### §  4  
 

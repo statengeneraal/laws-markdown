@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 juli 2011, nr. C/2011/12042, houdende de inrichting van de organisatie van de directie Communicatie alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Communicatie (Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2011)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid, aanhef en onderdeel k](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/secretaris-generaal/2009/BWBR0024991/README.md);
+Gelet op de artikelen 3, eerste lid, aanhef en onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -53,7 +53,7 @@ f. het zorgdragen voor de administratieve en financiële voorbereiding van het f
 
 g. het zorgdragen voor de binnen de eigen afdeling vastgelegde mandaten;  
 
-h. het behandelen van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen.   
+h. het behandelen van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen.   
 
 ### Artikel  4  
 
@@ -198,7 +198,7 @@ De hoofden van de afdelingen kunnen, na voorafgaande schriftelijke toestemming v
 
 ### Artikel  12  
 
-Het [Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directie/communicatie/2009/BWBR0026506/README.md) wordt ingetrokken. 
+Het Organisatie-, mandaat en volmachtbesluit directie Communicatie 2009 wordt ingetrokken. 
 
 ### Artikel  13  
 

@@ -374,14 +374,59 @@ c. hebben voldoende toegang tot informatie betreffende de risicosituatie van de 
 
 ### Artikel 23c 
 
-1.  Een bank, beleggingsonderneming in de zin van de verordening kapitaalvereisten of clearinginstelling als bedoeld in artikel 23, eerste lid, beschikt over een plan dat voorziet in een duurzaam herstel van de financiële positie van de onderneming na een aanzienlijke verslechtering van de financiële positie.   
-2.  Het plan, bedoeld in het eerste lid, wordt afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de bank of beleggingsonderneming. 
+1.  Een clearinginstelling als bedoeld in artikel 23, eerste lid, beschikt over een plan dat voorziet in een duurzaam herstel van de financiële positie van de onderneming na een aanzienlijke verslechtering van de financiële positie.   
+2.  Het plan, bedoeld in het eerste lid, wordt afgestemd op de aard, de omvang, het risicoprofiel en de complexiteit van de werkzaamheden van de clearinginstelling.  
+3.   De Nederlandsche Bank kan nadere regels stellen met betrekking tot het eerste en tweede lid. 
 
-### Artikel 23d 
+### Artikel  23d  
+
+1.  Een bank of beleggingsonderneming als bedoeld in artikel 3A:2 van de wet die geen deel uitmaakt van een groep als bedoeld in artikel 3A:1 van de wet, beschikt over een herstelplan dat door de Nederlandsche Bank is goedgekeurd en dat voorziet in maatregelen die de onderneming in staat stellen haar financiële positie na een aanzienlijke verslechtering ervan te herstellen.   
+2.  Het herstelplan voldoet aan de eisen ingevolge de artikelen 5, derde tot en met zesde en tiende lid, en 9, eerste lid, eerste alinea, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.   
+3.  Het herstelplan wordt ten minste eenmaal per jaar herzien en voorts wanneer zich een wezenlijke verandering in de organisatie of bedrijfsvoering van de onderneming voordoet die noodzaakt tot aanpassing van het plan.   
+4.  De Nederlandsche Bank kan toestaan dat het bepaalde in het tweede of derde lid op vereenvoudigde wijze wordt toegepast.   
+5.  De Nederlandsche Bank kan, indien zij de consoliderende toezichthouder is, bedoeld in artikel 4, eerste lid, van de verordening kapitaalvereisten, besluiten dat een bank of beleggingsonderneming als bedoeld in artikel 3A:2 van de wet die deel uitmaakt van een groep als bedoeld in artikel 3A:1 van de wet, beschikt over een eigen herstelplan overeenkomstig het eerste en tweede lid.   
+6.  De Nederlandse Bank kan nadere regels stellen met betrekking tot het tweede tot en met vierde lid.  
+
+### Artikel  23e  
+
+1.  Een EU-moederonderneming met zetel in Nederland van een groep als bedoeld in artikel 3A:1 van de wet beschikt over een herstelplan dat door de consoliderende toezichthouder, bedoeld in artikel 4, eerste lid, van de verordening kapitaalvereisten, is goedgekeurd en dat voorziet in maatregelen met betrekking tot de EU-moederonderneming of haar dochterondernemingen, die de groep in staat stellen haar financiële positie na een aanzienlijke verslechtering ervan te herstellen.   
+2.  Het groepsherstelplan voldoet aan de eisen ingevolge de artikelen 5, derde tot en met zesde en tiende lid, 7, vierde tot en met zesde lid, en 9, eerste lid, eerste alinea, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.   
+3.  Artikel 23d, derde en vierde lid, is van overeenkomstige toepassing.   
+4.  Een groepsherstelplan dat is goedgekeurd door de consoliderende toezichthouder in een andere lidstaat, is op entiteiten van een groep met zetel in Nederland van toepassing, tenzij de Nederlandsche Bank overeenkomstig artikel 8, vierde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen besluit dat deze entiteiten moeten beschikken over een eigen herstelplan, waarop artikel 23d van overeenkomstige toepassing is.   
+5.  De Nederlandsche Bank kan nadere regels stellen met betrekking tot het tweede en derde lid.  
+
+### Artikel  23f  
+
+1.  De inrichting van de bedrijfsvoering van een onderneming of entiteit als bedoeld in de artikelen 23d, eerste of vijfde lid, of 23e, eerste of vierde lid, is in overeenstemming met het herstelplan en waarborgt dat het herstelplan zonder wezenlijke belemmeringen ten uitvoer kan worden gelegd, in ieder geval met betrekking tot: 
+
+a. het risicoprofiel van de onderneming;  
+
+b. de mogelijkheden tot tijdige herkapitalisatie;  
+
+c. de strategie en structuur van de onderneming;  
+
+d. de financieringsstrategie, teneinde de weerbaarheid van de kernbedrijfsonderdelen en kritieke functies te waarborgen; en  
+
+e. de governancestructuur.     
+2.  De bedrijfsvoering voorziet in een periodieke evaluatie van de indicatoren, bedoeld in artikel 9, eerste lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen, voor het uitvoeren van in het herstelplan opgenomen maatregelen.   
+3.  De Nederlandsche Bank kan nadere regels stellen met betrekking tot het eerste en tweede lid.  
+
+### Artikel  23g  
+
+1.  De Nederlandsche Bank beoordeelt een herstelplan of groepsherstelplan dat haar goedkeuring behoeft binnen zes maanden na de voorlegging ervan, overeenkomstig artikel 6, tweede en derde lid, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.   
+2.  De beoordeling van een groepsherstelplan geschiedt overeenkomstig de afstemmingsprocedure van artikel 8 van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen.   
+3.  Indien het herstelplan wezenlijke tekortkomingen vertoont of indien er wezenlijke belemmeringen zijn voor de tenuitvoerlegging van het herstelplan, wordt goedkeuring aan het plan onthouden. Binnen twee maanden legt de indiener van het herstelplan opnieuw een herstelplan ter goedkeuring voor, waarbij de bij de afwijzing geconstateerde tekortkomingen of belemmeringen zijn weggenomen.   
+4.  De Nederlandsche Bank kan nadere regels stellen met betrekking tot het eerste en derde lid.  
+
+### Artikel  23h  
+
+Indien een onderneming, entiteit of groep als bedoeld in de artikelen 23d, eerste of vijfde lid, of 23e, eerste of vierde lid, uitvoering geeft aan maatregelen die zijn opgenomen in het herstelplan of deze maatregelen achterwege laat in afwijking van de uitkomsten van de indicatoren, bedoeld in artikel 23f, tweede lid, doet de onderneming, de entiteit of de EU-moederonderneming van de groep daarvan onverwijld mededeling aan de Nederlandsche Bank. 
+
+### Artikel 23i 
 
 Een bank of een beleggingsonderneming in de zin van de verordening kapitaalvereisten als bedoeld in artikel 23, eerste lid, beschikt over passende procedures die haar werknemers in staat stellen om door hen geconstateerde mogelijke of feitelijke overtredingen van de verordening kapitaalvereisten of het bij of krachtens het Deel Prudentieel toezicht financiële ondernemingen van de wet bepaalde intern te melden. Deze procedures voldoen aan de vereisten in artikel 71, tweede lid, onderdelen b, c en d, en derde lid, van de richtlijn kapitaalvereisten.
 
-### Artikel  23f  
+### Artikel  23j  
 
 1.  De beheerder van een icbe vermeldt in het beleid, bedoeld in artikel 23, eerste lid: 
 
@@ -448,6 +493,14 @@ b. regelmatig verslag uit over de actuele omvang van het risico dat elke door de
 ### Artikel  25  
 
 Indien een beleggingsonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, bank, verzekeraar of bijkantoor als bedoeld in artikel 23, eerste lid, gebruik maakt van intern ontwikkelde modellen, beoordeelt deze die modellen en de gehanteerde veronderstellingen en variabelen op systematische wijze op validiteit, onder meer door voorspellingen van het model te vergelijken met de werkelijke uitkomsten. 
+
+### Artikel  25a  
+
+De Nederlandsche Bank kan een entiteit als bedoeld in artikel 3A:2 van de wet verplichten gedetailleerde gegevens bij te houden over financiële contracten als bedoeld in artikel 2, eerste lid, onderdeel 100, van de richtlijn herstel en afwikkeling van banken en beleggingsondernemingen waarbij zij partij is, indien dit nodig is met het oog op: 
+
+a. het opstellen of het uitvoeren van een herstelplan als bedoeld in de artikelen 23d of 23e; of  
+
+b. de toepassing van hoofdstuk 3A.2 van de wet of de verordening gemeenschappelijk afwikkelingsmechanisme.   
 
 ### Artikel  26  
 
@@ -2153,7 +2206,7 @@ b. de toets, bedoeld in artikel 121, tweede lid, met inachtneming van de artikel
 
 Een entiteit voor risico-acceptatie of verzekeraar als bedoeld in artikel 130, tweede lid, maakt de staten, bedoeld in dat lid, onderdeel a, vergezeld van de verklaring, bedoeld in artikel 3:73 van de wet, jaarlijks binnen een termijn van zes maanden openbaar, voor zover het gaat om staten omvattende: 
 
-a. de jaarrekening, het jaarverslag en de overige gegevens en wat betreft indeling en inhoud in de vorm waarin deze zijn opgemaakt ingevolge Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekening standaarden;  
+a. de jaarrekening, het bestuursverslag en de overige gegevens en wat betreft indeling en inhoud in de vorm waarin deze zijn opgemaakt ingevolge Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekening standaarden;  
 
 b. indien van toepassing: informatie over de winstdeling ten gunste van polishouders per productgroep; en  
 

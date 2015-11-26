@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank
+##Overeenkomst tot oprichting van de Afrikaanse Ontwikkelingsbank, gedaan te Khartoem op 4 augustus 1963, zoals gewijzigd bij Resolutie 05-79 aangenomen door de Raad van Bestuur op 17 mei 1979
 
 ####Agreement Establishing the African Development Bank
 

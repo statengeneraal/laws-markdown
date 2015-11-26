@@ -17,7 +17,7 @@ a.  *Autoriteit Financiële Markten:* Stichting Autoriteit Financiële Markten;
 
 b.  *de Nederlandsche Bank:* De Nederlandsche Bank N.V.;  
 
-c.  *de toezichthouder:* Autoriteit Financiële Markten of de Nederlandsche Bank, ieder voor zover betrokken bij het toezicht ingevolge: 
+c.  *de toezichthouder:* Autoriteit Financiële Markten of de Nederlandsche Bank, ieder voor zover betrokken bij de uitvoering van taken ingevolge: 
 
 1° de Invoerings- en aanpassingswet Pensioenwet;  
 
@@ -79,13 +79,13 @@ f.  *overige kosten:* het totaalbedrag aan kosten van de toezichthouder verminde
 
 g.  *personen:* natuurlijke personen, rechtspersonen of vennootschappen, waaronder personenvennootschappen, of daarmee vergelijkbare lichamen of samenwerkingsverbanden;  
 
-h.  *toezicht:* de betrokkenheid van de toezichthouder bij de wetten en bindende besluiten, bedoeld in onderdeel c, alsmede de betrokkenheid van de toezichthouder bij de totstandkoming van nieuwe wetten en bindende besluiten aangaande het toezicht op de financiële markten;  
+h.  *toezicht:* de betrokkenheid van de toezichthouder bij de wetten en bindende besluiten, bedoeld in onderdeel c, alsmede de betrokkenheid van de toezichthouder bij de totstandkoming van nieuwe wetten en bindende besluiten die verband houden met de uitvoering van taken als toezichthouder;  
 
 i.  *mkb-onderneming:* kleine en middelgrote onderneming als bedoeld in artikel 5:1, onderdeel f, van de Wet op het financieel toezicht.  
 
 ### Artikel  1a  
 
-Tot de betrokkenheid van de Nederlandsche Bank bij het toezicht ingevolge de in artikel 1, onderdeel c, genoemde wetten en de in dat onderdeel bedoelde EU-rechtshandelingen, wordt voor de toepassing van deze wet niet gerekend: 
+Tot de betrokkenheid van de Nederlandsche Bank bij de uitvoering van taken ingevolge de in artikel 1, onderdeel c, genoemde wetten en de in dat onderdeel bedoelde EU-rechtshandelingen, wordt voor de toepassing van deze wet niet gerekend: 
 
 a. het toezicht door de Nederlandsche Bank ten aanzien van afwikkelondernemingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
@@ -99,11 +99,13 @@ b. de uitvoering en handhaving, bedoeld in artikel 1:24, derde lid, van de Wet o
 
 1.  De toezichthouder zendt de begroting, bedoeld in artikel 26 van de Kaderwet zelfstandige bestuursorganen, jaarlijks voor 1 december aan Onze Ministers.   
 2.  In de begroting neemt de toezichthouder een overzicht op waaruit de berekeningswijze van de overige kosten blijkt.   
-3.  In het overzicht, bedoeld in het tweede lid, maakt de Nederlandsche Bank onderscheid tussen: 
+3.  In het overzicht, bedoeld in het tweede lid, maakt de Nederlandsche Bank onderscheid tussen:
 
-a. de overige kosten voor het toezicht op personen die behoren tot de in bijlage II, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorieën, en  
+a. de overige kosten voor het toezicht op personen die behoren tot de in bijlage II, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorieën, met uitzondering van de kosten, bedoeld in onderdeel c;  
 
-b. de overige kosten voor het toezicht op personen die behoren tot de in bijlage III opgenomen toezichtcategorie.     
+b. de overige kosten voor het toezicht op personen die behoren tot de in bijlage III, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorie, met uitzondering van de kosten, bedoeld in onderdeel c;  
+
+c. de overige kosten die verband houden met het voorbereiden van de afwikkeling van kredietinstellingen en beleggingsondernemingen in de zin van verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 betreffende de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen (PbEU 2014, L 225) en het Deel Bijzondere maatregelen financiële ondernemingen van de Wet op het financieel toezicht.     
 4.  De hoogte van de begroting, bedoeld in het eerste lid, is niet hoger dan de totale kosten van het toezicht zoals die blijken uit de laatst goedgekeurde begroting van de toezichthouder exclusief de kosten die verband houden met de betrokkenheid van de toezichthouder bij de uitvoering van verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287) met daarbij opgeteld: 
 
 a. de kosten die verband houden met de betrokkenheid van de toezichthouder bij de uitvoering van verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287);  
@@ -141,11 +143,7 @@ Bij ministeriële regeling van Onze Ministers gezamenlijk kunnen regels worden g
 1.  De jaarrekening, bedoeld in artikel 5, eerste lid, en de verantwoording, bedoeld in artikel 5, tweede lid, bevatten een opgave van het over het desbetreffende jaar gerealiseerde exploitatiesaldo, welk saldo overeenkomt met het verschil tussen de gerealiseerde baten en lasten.   
 2.  Tot de in een jaar gerealiseerde baten worden mede gerekend de in dat jaar verkregen opbrengsten uit verbeurde dwangsommen of opgelegde bestuurlijke boetes, met dien verstande dat, indien de beschikking waarbij de last onder dwangsom of de bestuurlijke boete is opgelegd nog niet onherroepelijk is, de uit een verbeurde dwangsom of opgelegde bestuurlijke boete verkregen opbrengsten worden gerekend tot de gerealiseerde baten in het jaar waarin die beschikking onherroepelijk wordt.   
 3.  Voor zover de tot de gerealiseerde baten in een jaar te rekenen opbrengsten uit dwangsommen of bestuurlijke boetes het bedrag van € 2.500.000 te boven gaan, komen die opbrengsten toe aan de Staat. De toezichthouder draagt het aan de Staat verschuldigde bedrag af, zodra het besluit tot vaststelling van de desbetreffende jaarrekening overeenkomstig artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen is goedgekeurd.   
-4.  De door de toezichthouder verkregen opbrengsten uit dwangsommen of bestuurlijke boetes worden, voor zover zij ingevolge het tweede lid tot de in het desbetreffende jaar gerealiseerde baten worden gerekend en na aftrek van de ingevolge het derde lid aan de Staat toekomende opbrengsten, aan de in bijlage II en III opgenomen toezichtcategorieën van die toezichthouder toegerekend waarbij de toerekening aan de toezichtcategorieën van de Nederlandsche Bank geschiedt naar rato van de voor het jaar van toerekening begrote overige kosten voor: 
-
-a. het toezicht op de personen die behoren tot de in bijlage II, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorieën, en  
-
-b. het toezicht op de personen die behoren tot de in bijlage III, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorie.     
+4.  De door de toezichthouder verkregen opbrengsten uit dwangsommen of bestuurlijke boetes worden, voor zover zij ingevolge het tweede lid tot de in het desbetreffende jaar gerealiseerde baten worden gerekend en na aftrek van de ingevolge het derde lid aan de Staat toekomende opbrengsten, aan de in bijlage II, III en IV opgenomen toezichtcategorieën van die toezichthouder toegerekend waarbij de toerekening aan de toezichtcategorieën van de Nederlandsche Bank geschiedt naar rato van de voor dat jaar naar die bijlagen te herleiden verkregen opbrengsten uit dwangsommen of bestuurlijke boetes.   
 5.  In de opgave, bedoeld in het eerste lid, wordt vastgelegd: 
 
 a. het deel van het exploitatiesaldo dat is voortgekomen uit de betrokkenheid van de toezichthouder bij het toezicht ingevolge de wetten bedoeld in artikel 1, onderdeel c, onder 6° en 15°, en  
@@ -153,11 +151,13 @@ a. het deel van het exploitatiesaldo dat is voortgekomen uit de betrokkenheid va
 b. het deel van de opbrengsten verkregen uit dwangsommen of opgelegde bestuurlijke boetes, bedoeld in het derde lid, dat het bedrag van € 2.500.000 te boven gaat.     
 6.  De Nederlandsche Bank legt in de opgave, bedoeld in het eerste lid, tevens vast: 
 
-a. het deel van het exploitatiesaldo dat is voortgekomen uit het toezicht op de personen die behoren tot de in bijlage II, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorieën;  
+a. het deel van het exploitatiesaldo dat is voortgekomen uit het toezicht op de personen die behoren tot de in bijlage II, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorieën met uitzondering van het exploitatiesaldo, bedoeld in de onderdelen c en d;  
 
-b. het deel van het exploitatiesaldo dat is voortgekomen uit het toezicht op de personen die behoren tot de in bijlage III opgenomen toezichtcategorie;  
+b. het deel van het exploitatiesaldo dat is voortgekomen uit het toezicht op de personen die behoren tot de in bijlage III, onderdeel «Toezichthouder: De Nederlandsche Bank», opgenomen toezichtcategorie met uitzondering van het exploitatiesaldo, bedoeld in de onderdelen c en d;  
 
-c. het deel van het exploitatiesaldo dat is voortgekomen uit de door de Nederlandsche Bank gemaakte kosten ten behoeve van de beoordeling, bedoeld in artikel 33, vierde lid, van verordening (EU) nr. 1024/2013 van de Raad van 15 oktober 2013 waarbij aan de Europese Centrale Bank specifieke taken worden opgedragen betreffende het beleid inzake het prudentieel toezicht op kredietinstellingen (PbEU 2013, L 287).   
+c. het deel van het exploitatiesaldo dat is voortgekomen uit het voorbereiden van de afwikkeling van kredietinstellingen en beleggingsondernemingen in de zin van verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 betreffende de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen (PbEU 2014, L 225) en het Deel Bijzondere maatregelen financiële ondernemingen van de Wet op het financieel toezicht;  
+
+d. het deel van het exploitatiesaldo dat verband houdt met het afwikkelen van kredietinstellingen en beleggingsondernemingen in de zin van de verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 betreffende de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen (PbEU 2014, L 225) en het Deel Bijzondere maatregelen financiële ondernemingen van de Wet op het financieel toezicht.   
 
 ### Artikel  8  
 
@@ -176,7 +176,7 @@ c. het deel van het exploitatiesaldo dat is voortgekomen uit de door de Nederlan
 
 a. personen die bij hem een aanvraag of melding hebben gedaan als gevolg waarvan de toezichthouder overgaat tot het verrichten van een eenmalige toezichthandeling zoals vastgelegd in bijlage I;  
 
-b. personen die behoren tot een der categorieën, genoemd in bijlage II of III.     
+b. personen die behoren tot een van de toezichtcategorieën, genoemd in bijlage II, III of IV.     
 2.  Tot de in rekening te brengen kosten, bedoeld in het eerste lid, behoren mede de kosten die de toezichthouder maakt ter voorbereiding op een taak voordat deze aan hem werd opgedragen en de kosten die aan de toezichthouder zijn doorberekend.  
 
 ### Artikel  12  
@@ -188,7 +188,7 @@ b. personen die behoren tot een der categorieën, genoemd in bijlage II of III.
 
 ### Artikel  13  
 
-1.  De toezichthouder brengt jaarlijks een bedrag in rekening aan de personen die behoren tot een van de in bijlage II of III opgenomen toezichtcategorieën.   
+1.  De toezichthouder brengt jaarlijks een bedrag in rekening aan de personen die behoren tot de in bijlage II, III en IV opgenomen toezichtcategorieën.   
 2.  De kosten die aan de in bijlage II, onderdeel «Toezichthouder: Autoriteit Financiële Markten» opgenomen toezichtcategorieën worden doorberekend, zijn gelijk aan de som van: 
 
 a. het totaal van de overige kosten zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Autoriteit Financiële Markten, en  
@@ -200,40 +200,34 @@ b. het exploitatiesaldo, bedoeld in artikel 7, eerste lid, over het jaar dat voo
 2°. de aan de Staat toekomende opbrengsten, bedoeld in artikel 7, vijfde lid, onderdeel b.       
 3.  De kosten die aan de in bijlage II, onderdeel «Toezichthouder: de Nederlandsche Bank» opgenomen toezichtcategorieën, worden doorberekend, zijn in enig jaar gelijk aan de som van: 
 
-a. het totaal van de overige kosten, bedoeld in artikel 2, derde lid, onderdeel a, zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Nederlandsche Bank, en  
+a. het totaal van de overige kosten bedoeld in artikel 2, derde lid, onderdeel a, zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Nederlandsche Bank, verminderd met  
 
-b. het exploitatiesaldo, bedoeld in artikel 7, eerste lid, over het jaar dat voorafgaat aan het jaar waarop de in onderdeel a bedoelde begroting betrekking heeft, verminderd met: 
+b. het deel van de opbrengsten uit dwangsommen of bestuurlijke boetes dat overeenkomstig artikel 7, vierde lid, is toegerekend aan de in bijlage II opgenomen toezichtcategorie, en verminderd of verhoogd met  
 
-1°. het deel van de opbrengsten uit dwangsommen of bestuurlijke boetes dat overeenkomstig artikel 7, vierde lid, is toegerekend aan de in bijlage III opgenomen toezichtcategorie;  
+c. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel a.     
+4.  De kosten die aan de in bijlage III, onderdeel «Toezichthouder: de Nederlandsche Bank» opgenomen toezichtcategorieën, worden doorberekend, zijn in enig jaar gelijk aan de som van: 
 
-2°. het deel van het exploitatiesaldo, bedoeld in artikel 7, vijfde lid, onderdeel a;  
+a. het totaal van de overige kosten bedoeld in artikel 2, derde lid, onderdeel b, zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Nederlandsche Bank, verminderd met  
 
-3°. de aan de Staat toekomende opbrengsten, bedoeld in artikel 7, vijfde lid, onderdeel b;  
+b. het deel van de opbrengsten uit dwangsommen of bestuurlijke boetes dat overeenkomstig artikel 7, vierde lid, is toegerekend aan de in bijlage III opgenomen toezichtcategorie, en verminderd of verhoogd met  
 
-4°. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel b;  
+c. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel b.     
+5.  De kosten die aan de in bijlage IV, onderdeel «Toezichthouder: de Nederlandsche Bank» opgenomen toezichtcategorieën, worden doorberekend, zijn in enig jaar gelijk aan de som van: 
 
-5°. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel c.       
-4.  De kosten die aan de in bijlage III, onderdeel «Toezichthouder: de Nederlandsche Bank» opgenomen toezichtcategorieën, worden doorberekend, zijn gelijk aan de som van: 
+a. het totaal van de overige kosten, bedoeld in artikel 2, derde lid, onderdeel c, zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Nederlandsche Bank, verminderd met  
 
-a. het totaal van de overige kosten bedoeld in artikel 2, derde lid, onderdeel b, zoals opgenomen in de voor het desbetreffende jaar vastgestelde en goedgekeurde begroting van de Nederlandsche Bank, en  
+b. het deel van de opbrengsten uit dwangsommen of bestuurlijke boetes dat overeenkomstig artikel 7, vierde lid, is toegerekend aan de in bijlage IV opgenomen toezichtcategorie, en verminderd of verhoogd met  
 
-b. het exploitatiesaldo, bedoeld in artikel 7, eerste lid, over het jaar dat voorafgaat aan het jaar waarop de in onderdeel a bedoelde begroting betrekking heeft, verminderd met: 
-
-1°. het deel van de opbrengsten uit dwangsommen of bestuurlijke boetes dat overeenkomstig artikel 7, vierde lid, is toegerekend aan de in bijlage II opgenomen toezichtcategorie;  
-
-2°. het deel van het exploitatiesaldo, bedoeld in artikel 7, vijfde lid, onderdeel a;  
-
-3°. de aan de Staat toekomende opbrengsten, bedoeld in artikel 7, vijfde lid, onderdeel b;  
-
-4°. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel a.       
-5.  De kosten, bedoeld in het tweede tot en met vierde lid, worden aan de hand van de procentuele aandelen, zoals vastgesteld in bijlage II en III, toegerekend aan de toezichtcategorieën, bedoeld in het eerste lid.   
-6.  De hoogte van een jaarlijks in rekening te brengen bedrag, bedoeld in het eerste lid, wordt bepaald aan de hand van de maatstaven zoals vastgelegd in bijlage II en III.   
-7.  Uiterlijk per 1 juni van ieder jaar worden, op voorstel van de toezichthouder, bij ministeriële regeling van Onze Ministers gezamenlijk, voor iedere te onderscheiden toezichtcategorie de bandbreedtes en tarieven vastgesteld. Bij de vaststelling van de bandbreedtes en de tarieven wordt rekening gehouden met het bedrag dat op grond van het tweede tot en met vierde lid is toegerekend aan de desbetreffende categorie.   
-8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.  
+c. het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel c.     
+6.  Het deel van het exploitatiesaldo, bedoeld in artikel 7, zesde lid, onderdeel d, brengt de toezichthouder in rekening op een of meer van de wijzen die zijn vastgelegd in artikel 22, zesde lid, van verordening (EU) nr. 806/2014 van het Europees parlement en de Raad van 15 juli 2014 betreffende de afwikkeling van kredietinstellingen en bepaalde beleggingsondernemingen (PbEU 2014, L 225).  
+7.  De kosten, bedoeld in het tweede tot en met vijfde lid, worden aan de hand van de procentuele aandelen, zoals vastgesteld in bijlage II, III en IV, toegerekend aan de toezichtcategorieën, bedoeld in het eerste lid.   
+8.  De hoogte van een jaarlijks in rekening te brengen bedrag, bedoeld in het eerste lid, wordt bepaald aan de hand van de maatstaven zoals vastgelegd in bijlage II, III en IV.   
+9.  Uiterlijk per 1 juni van ieder jaar worden, op voorstel van de toezichthouder, bij ministeriële regeling van Onze Ministers gezamenlijk, voor iedere te onderscheiden toezichtcategorie de bandbreedtes en tarieven vastgesteld. Bij de vaststelling van de bandbreedtes en de tarieven wordt rekening gehouden met het bedrag dat op grond van het tweede tot en met het vijfde en zevende lid is toegerekend aan de desbetreffende categorie.   
+10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.  
 
 ### Artikel  14  
 
-1.  Het in artikel 13, eerste lid, bedoelde bedrag is evenredig met de overeenkomstig het tweede tot en met het vijfde lid te bepalen periode dat de betrokkene in het desbetreffende jaar deel uitmaakt van een van de in bijlage II of III opgenomen toezichtcategorieën.   
+1.  Het in artikel 13, eerste lid, bedoelde bedrag is evenredig met de overeenkomstig het tweede tot en met het vijfde lid te bepalen periode dat de betrokkene in het desbetreffende jaar deel uitmaakt van een van de in bijlage II, III of IV opgenomen toezichtcategorieën.   
 2.  Met uitzondering van de toezichtcategorieën «Effectenuitgevende instellingen: markt» en «Effectenuitgevende instellingen: verslaggeving» is de periode, bedoeld in het eerste lid, gelijk aan de tijdsduur dat die persoon over een door de toezichthouder afgegeven vergunning of verklaring van ondertoezichtstelling beschikt dan wel dat die persoon op grond van een wettelijke verplichting bij de toezichthouder is geregistreerd.   
 3.  Voor een persoon die behoort tot de in bijlage II opgenomen toezichtcategorie «Effectenuitgevende instellingen: markt» is de periode, bedoeld in het eerste lid, gelijk aan de tijdsduur waarin zijn effecten zijn toegelaten tot de handel op een gereglementeerde markt, bedoeld in artikel 1:1 van de Wet op het financieel toezicht, of op een met een gereglementeerde markt vergelijkbaar systeem uit een staat die geen lidstaat is als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.   
 4.  Voor een persoon die op enig moment in een jaar behoort tot de in bijlage II opgenomen toezichtcategorie «Effectenuitgevende instellingen: verslaggeving» is de periode, bedoeld in het eerste lid, gelijk aan een heel kalenderjaar.   
@@ -246,11 +240,12 @@ b. hij in dat jaar op grond van artikel 5:25m, tweede lid, van de Wet op het fin
 ### Artikel  15  
 
 1.  Indien de toezichthouder een ingevolge artikel 13 in rekening te brengen bedrag vanwege een fusie als bedoeld in artikel 309 van Boek 2 van het Burgerlijk Wetboek van een persoon niet langer in rekening kan brengen aan die persoon, brengt de toezichthouder het bedrag in rekening bij de persoon die bij die fusie het vermogen van eerstgenoemde persoon heeft verkregen.   
-2.  Het eerste lid is van overeenkomstige toepassing op een persoon die in het kader van collectieve waardeoverdracht als bedoeld in artikel 83, 84, of 90 van de Pensioenwet of artikel 91, 92, of 98 van de Wet verplichte beroepspensioenregeling vermogen heeft overgedragen aan een andere persoon.  
+2.  Het eerste lid is van overeenkomstige toepassing op een persoon die in het kader van collectieve waardeoverdracht als bedoeld in artikel 83, 84, of 90 van de Pensioenwet of artikel 91, 92, of 98 van de Wet verplichte beroepspensioenregeling vermogen heeft overgedragen aan een andere persoon.   
+3.  Indien een persoon als bedoeld in bijlage IV in afwikkeling wordt geplaatst en in dat kader vermogen overgaat, zal de toezichthouder een ingevolge artikel 13 oorspronkelijk in rekening te brengen dan wel gebracht bedrag bij die persoon naar rato van de omvang van het vermogen dat is overgegaan, en rekening houdend met het tijdstip per wanneer de overgang van het vermogen heeft plaatsgevonden, verrekenen met de persoon die dat vermogen heeft verkregen. 
 
 ### Artikel  16  
 
-1.  De toezichthouder kan aan de betrokken financiële onderneming een bedrag in rekening brengen ter vergoeding van de kosten die hij maakt voor de toepassing van artikel 1:76 van de Wet op het financieel toezicht.   
+1.  De toezichthouder kan aan de betrokken financiële onderneming een bedrag in rekening brengen ter vergoeding van de kosten die hij maakt voor de toepassing van de artikelen 1:76 en 1:76a van de Wet op het financieel toezicht.   
 2.  De hoogte van het bedrag, bedoeld in het eerste lid, wordt per geval vastgesteld door de toezichthouder en wordt op een zodanige wijze gespecificeerd dat daaruit blijkt dat het is gebaseerd op de voor het toezicht op de desbetreffende financiële onderneming werkelijk gemaakte kosten.  
 
 ### Artikel  17  
@@ -563,3 +558,14 @@ Toezichthouder: de Nederlandsche Bank
 |:---|:---|:---|:---|:---|
 | Banken  | 100%  | a. Banken waaraan een vergunning is verleend als bedoeld in artikel 2:11 van de Wft.  b. Banken waaraan een vergunning is verleend als bedoeld in artikel 2:20 van de Wft.  c. Ondernemingen waaraan een vergunning is verleend als bedoeld in artikel 3:4, eerste lid, van de Wft en die het in de onderdelen a of b van dat lid bedoelde bedrijf uitoefenen.  d. Financiële instellingen die beschikken over een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110, eerste lid, van de Wft.  e. Banken met zetel in Nederland die zijn opgenomen in een openbaar register als bedoeld in artikel 124b, eerste lid, van het Besluit prudentiële regels Wft.  | artikel 2:11 Wft  artikel 2:20 Wft  artikel 3:4, eerste lid, Wft  artikel 3:110, eerste lid, Wft  artikel 124b, eerste lid, van het Besluit prudentiële regels Wft  |  *Minimum omvang toetsingsvermogen:*   Minimum omvang toetsingsvermogen berekend conform de regels die op grond van artikel 3:57 Wft worden bepaald.  |
 
+### Bijlage  IV  
+
+####Behorend bij de artikelen 11  en 13  
+
+Toezichthouder: de Nederlandsche Bank  
+
+| Toezicht-categorie  | Procentueel aandeel  | Personen  | Wetsverwijzing  | Maatstaf  |
+|:---|:---|:---|:---|:---|
+| Banken en beleggingsondernemingen  | 100%  |  a. Banken waaraan een vergunning is verleend als bedoeld in artikel 2:11 Wft.  b. Beleggingsondernemingen als bedoeld in artikel 3A:2 Wft, waaraan een vergunning is verleend als bedoeld in artikel 2:96 Wft.  | Artikel 2:11 Wft  Artikel 2:96 Wft juncto artikel 3A:2 Wft  |  *Total assets:*   Het totaal van activa op de balans zoals door banken en beleggingsondernemingen gerapporteerd aan de Nederlandsche Bank<sup>1</sup>   |
+
+<sup>1</sup> Het betreft de rapportages op grond van de Regeling staten financiële ondernemingen Wft 2011 of de Verordening (EU) nr. 575/2013 van het Europees parlement en de Raad van 26 juni 2013 betreffende prudentiële vereisten voor kredietinstellingen en beleggingsondernemingen en tot wijziging van Verordening (EU) nr. 648/2012 (CRR).

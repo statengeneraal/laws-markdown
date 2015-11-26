@@ -227,78 +227,78 @@ M. Bussemaker
 
 ####Netwerken palliatieve zorg
 
-Bedragen in hele euro's 
+Bedragen in hele euro’s 
 
-| Netwerk  | Organisatie  | Gemeenten in de netwerkregio  | 2013  | 2014 en volgende jaren  |
+| Netwerk  | Organisatie  | Gemeenten in de netwerkregio  | 2014  | 2015 en volgende jaren  |
 |:---|:---|:---|:---|:---|
-| Almere  | Stichting Regionale Ondersteuningsstructuur Almere  | Almere  | 37.281  | 37.970  |
-| Amstelland & Meerlanden  | Stichting Bureau VBZ  | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn  | 58.158  | 59.233  |
-| Amsterdam-Diemen  | Stichting Netwerk Palliatieve Zorg Amsterdam-Diemen  | Amsterdam, Diemen  | 158.003  | 160.923  |
-| Arnhem  | Stichting Transmuraal Netwerk Palliatieve Zorg regio Arnhem  | Arnhem, Doesburg (voor ½), Lingewaard, Overbetuwe, Renkum (voor ½), Rheden en Rozendaal (Gld.)  | 61.235  | 62.367  |
-| De Liemers  | Stichting Transmuraal Netwerk Palliatieve Zorg regio Arnhem  | Duiven, Montferland (voor ½), Rijnwaarden, Westervoort en Zevenaar  | 20.939  | 21.326  |
-| Delft Westland Oostland  | Stichting Pieter van Foreest Zorginstellingen  | Delft, Lansingerland, Pijnacker-Nootdorp, Westland, Midden-Delfland (voor ¾)  | 61.427  | 62.562  |
-| Drechtzorg  | Stichting Het Spectrum  | Alblasserdam, Dordrecht, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Nieuw-Lekkerland, Papendrecht, Ridderkerk, Sliedrecht, Zwijndrecht  | 68.707  | 69.977  |
-| Drenthe / Assen  | Stichting Icare  | Aa en Hunze, Assen, Noordenveld en Tynaarlo  | 31.553  | 32.136  |
-| Drenthe / Emmen  | Stichting Icare  | Borger-Odoorn, Coevorden en Emmen  | 35.272  | 35.924  |
-| Drenthe / Hoogeveen  | Stichting Icare  | De Wolden (voor 2/3), Hoogeveen en Midden-Drenthe  | 21.361  | 21.756  |
-| Drenthe / Meppel-Steenwijkerland  | Stichting Icare  | De Wolden (voor 1/3), Meppel, Steenwijkerland en Westerveld  | 20.889  | 21.275  |
-| Eemland  | Stichting Beweging 3.0  | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg  | 61.120  | 62.249  |
-| Enschede-Haaksbergen en Noordoost Twente  | Stichting Livio  | Dinkelland, Enschede, Haaksbergen, Losser en Oldenzaal  | 53.326  | 54.311  |
-| Friesland Noordoost  | FAB Dienstverlening B.V.  | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3)  | 16.799  | 17.109  |
-| Friesland Noordwest  | FAB Dienstverlening B.V.  | Boarnsterhim, Franekeradeel, Harlingen, het Bildt,Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland  | 41.109  | 41.869  |
-| Friesland Zuid  | FAB Dienstverlening B.V.  | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf  | 18.240  | 18.577  |
-| Friesland Zuidoost  | FAB Dienstverlening B.V.  | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3)  | 30.843  | 31.413  |
-| Friesland Zuidwest  | FAB Dienstverlening B.V.  | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel  | 25.345  | 25.813  |
-| Gelderse Vallei  | Stichting Icare  | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen  | 61.392  | 62.527  |
-| Goeree Overflakkee en omliggende eilanden  | Stichting palliatieve zorg te Dirksland  | Dirksland, Goedereede, Middelharnis en Oostflakkee  | 12.248  | 12.474  |
-| Gooi en Vechtstreek  | Stichting SIG/m.i.v. 1 juli 2013 Stichting Hospice Gooi en Vechtstreek  | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren  | 49.857  | 50.778  |
-| Gorinchem  | Stichting Het Spectrum  | Giessenlanden, Gorinchem, Graafstroom, Leerdam, Liesveld, Lingewaal (voor ½) en Zederik  | 22.232  | 22.643  |
-| Groningen Centraal  | FAB Dienstverlening B.V.  | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn  | 62.166  | 63.315  |
-| Groningen Noord  | FAB Dienstverlening B.V.  | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½)  | 24.340  | 24.790  |
-| Groningen Oost  | FAB Dienstverlening B.V.  | Bellingwedde, Menterwolde, Pekela (voor ½), Reiderland, Scheemda, Veendam (voor ½) en Winschoten  | 16.974  | 17.288  |
-| Groningen Zuid  | FAB Dienstverlening B.V.  | Pekela (voor ½), Veendam (voor ½), Stadskanaal en Vlagtwedde  | 14.720  | 14.992  |
-| Haaglanden  | Stichting Transmurale Zorg Den Haag en omstreken  | Den Haag, Leischendam-Voorburg, Rijswijk, Wassenaar en Zoetermeer  | 151.958  | 154.766  |
-| Hardenberg en omgeving  | Stichting Saxenburg Groep  m.i.v. 2014: Stichting Regionaal Zorgnetwerk Zwolle en omgeving  | Hardenberg, Ommen  | 15.540  | 15.827  |
-| ’s Hertogenbosch / Bommelerwaard  | Stichting Kwaliteit en Integratie  | Boxtel, Haaren (voor ½), s-Hertogenbosch, Heusden (voor ½) Maasdriel, Schijndel, Sint-Michielsgestel, Vught en Zaltbommel  | 65.890  | 67.108  |
-| Heuvelland  | Stichting Groenekruis Domicura  | Eijsden, Gulpen-Wittem, Maastricht, Margraten, Meerssen, Vaals en Valkenburg aan de Geul  | 42.436  | 43.220  |
-| Hoekse Waard  | Stichting palliatieve zorg te Dirksland  | Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen  | 17.645  | 17.971  |
-| IJssel-Vecht  | Stichting Regionaal Zorgnetwerk Zwolle en omgeving  | Dalfsen (voor ½), Hattem, Kampen, Olst – Wijhe (voor 4/9), Raalte (voor 1/3), Staphorst, Zwartewaterland en Zwolle  | 50.866  | 51.806  |
-| Kop van Noord-Holland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer en Zijpe  | 34.156  | 34.787  |
-| Land van Cuyk & Noord Limburg  | Stichting Pantein  | Bergen (L.) (voor ½), Boxmeer, Cuijk, Gennep, Grave (voor ½), Mill en Sint Hubert, Mook en Middelaar (voor ½) en Sint Anthonis  | 22.629  | 23.047  |
-| Midden-Brabant  | Stichting Zorgnetwerk Midden-Brabant  | Dongen (voor ½), Gilze en Rijen, Goirle, Haaren (voor 1/2), Heusden (voor 1/2) Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg en Waalwijk  | 82.254  | 83.774  |
-| Midden- en Noord Zeeland  | Stichting Zorgstroom  | Borsele, Goes, Kapelle, Noord-Beveland, Middelburg Reimerswaal en Schouwen-Duiveland, Veere en Vlissingen  | 51.049  | 51.992  |
-| Midden- en Zuid-Kennemerland  | Stichting Bureau VBZ  | Bennebroek, Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen en Zandvoort  | 83.694  | 85.241  |
-| Midden-Holland  | Stichting Transmuraal Netwerk Midden-Holland  | Bergambacht, Bodegraven, Boskoop, Gouda, Krimpen aan den IJssel (voor ½), Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkapelle  | 55.397  | 56.421  |
-| Midden-Twente  | Stichting Carint Reggeland Groep  | Borne, Hengelo (O) en Hof van Twente  | 28.249  | 28.771  |
-| Nieuwe Waterweg Noord  | Stichting Argos Zorggroep  | Maassluis, Midden-Delfland (voor ¼), Schiedam en Vlaardingen  | 37.621  | 38.316  |
-| Noord- en Oost-Flevoland  | MCC Flevoland  | Dronten, Lelystad, Noordoostpolder, Urk en Zeewolde (voor 1/2)  | 37.843  | 38.542  |
-| Noord-Kennemerland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Alkmaar, Bergen (NH.), Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk en Schermer  | 48.415  | 49.310  |
-| Noord-Limburg  | Stichting Viecuri, Medisch Centrum voor Noord-Limburg  | Arcen en Velden, Beesel, Bergen (L.) (voor ½), Helden, Horst aan de Maas, Kessel, Maasbree, Meerlo-Wanssum, Meijel, Sevenum, Venlo en Venray  | 50.906  | 51.847  |
-| Noordwest Utrecht  | Stichting Zuwe Zorg  | Abcoude, Breukelen, De Ronde Venen, Loenen, Maarssen, Montfoort, Oudewater en Woerden (voor 2/3)  | 33.153  | 33.766  |
-| Noordwest Veluwe  | Stichting Palliatieve Zorg Veluwe  | Elburg, Ermelo, Harderwijk, Nijkerk (voor ½) Nunspeet, Oldebroek, Putten en Zeewolde (voor ½)  | 39.629  | 40.361  |
-| Noordwest Twente  | Stichting Meulenbeltzorg  m.i.v. 2014 Ziekenhuisgroep Twente  | Almelo, Hellendoorn, Rijssen-Holten (voor ¾), Tubbergen, Twenterand en Wierden  | 43.933  | 44.745  |
-| Oost-Achterhoek  | Stichting Ziekenhuisvoorzieningen Achterhoek-Oost  | Aalten (voor ½), Berkelland, Oost Gelre, Oude IJsselstreek (voor ½) en Winterswijk  | 28.464  | 28.990  |
-| Oost-Veluwe  | Stichting Zorggroep Apeldoorn en omstreken  | Apeldoorn, Epe, Heerde en Voorst (voor ½)  | 44.988  | 45.819  |
-| Oostelijk Zuid-Limburg  | Stichting Cicero Zorggroep  | Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Simpelveld en Voerendaal  | 52.786  | 53.761  |
-| Oss – Uden – Veghel  | Stichting Kwaliteit en Integratie  | Bernheze, Boekel, Grave (voor ½), Landerd, Lith, Maasdonk, Oss, Sint-Oedenrode, Uden en Veghel  | 51.322  | 52.270  |
-| Rivierengebied  | Stichting Zorgcentra Rivierenland  | Buren, Culemborg, Geldermalsen, Lingewaal (voor 1/2), Neder-Betuwe, Neerijnen, Tiel en West Maas en Waal (voor ½)  | 34.819  | 35.462  |
-| Roermond  | Zorggroep Noord- en Midden-Limburg  | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond  | 33.607  | 34.228  |
-| Roosendaal – Bergen op Zoom – Tholen  | Ziekenhuis Lievensberg  | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen  | 54.520  | 55.528  |
-| Rotterdam  | Stichting Christelijke Zorggroep Rijnmond  | Albrandswaard, Barendrecht, Capelle aan den IJssel, Krimpen aan den IJssel (voor ½) en Rotterdam  | 150.137  | 152.912  |
-| Salland  | Stichting Carinova Leiboomgroep  | Dalfsen (voor ½), Deventer, Olst – Wijhe (voor 5/9), Raalte (voor 2/3) en Rijssen-Holten (voor ¼)  | 31.637  | 32.222  |
-| Stadsgewest Breda  | Amphia Ziekenhuis Breda/Oosterhout  | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert  | 92.942  | 94.660  |
-| Utrecht Stad  | Stichting Axioncontinu Groep  | Utrecht  | 59.428  | 60.526  |
-| Utrecht-Zuid  | Stichting Zuwe Zorg  | Houten, IJsselstein, Lopik, Nieuwegein en Vianen  | 35.981  | 36.646  |
-| Voorne-Putten Rozenburg  | Stichting palliatieve zorg te Dirksland  | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne  | 34.806  | 35.450  |
-| Weert  | Stichting Land van Horne & Zorgketen Land van Weert  | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert  | 16.753  | 17.063  |
-| West-Achterhoek  | Stichting Slingeland Ziekenhuis  | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½)  | 27.256  | 27.760  |
-| West-Friesland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½)  | 41.875  | 42.649  |
-| Westelijke Mijnstreek  | Orbis Medisch en Zorg-concern  | Beek, Schinnen, Sittard-Geleen en Stein  | 31.474  | 32.056  |
-| Zaanstreek Waterland  | Stichting Zorg Ondersteuning Noord Holland Noord  | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½)  | 64.299  | 65.487  |
-| Zeeuws Vlaanderen  | Stichting ZorgSaam Zeeuws-Vlaanderen  | Hulst, Sluis en Terneuzen  | 22.174  | 22.584  |
-| Zuid-Gelderland  | Stichting ZZG Zorggroep  | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen  | 63.404  | 64.576  |
-| Zuid-Holland Noord  | Stichting Marente  | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude  | 106.582  | 108.552  |
-| Zuidoost Brabant  | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg  | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre  | 147.951  | 150.685  |
-| Zuidoost Utrecht  | Stichting Axioncontinu Groep  | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist  | 37.449  | 38.141  |
-| Zutphen  | Stichting Sensire De Berkel  | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2)  | 27.066  | 27.566  |
+| Almere  | Stichting Regionale Ondersteuningsstructuur Almere  | Almere  | 37.970  | 38.486  |
+| Amstelland & Meerlanden  | Stichting Bureau VBZ  | Aalsmeer, Amstelveen, Haarlemmermeer, Ouder-Amstel, Uithoorn  | 59.233  | 60.037  |
+| Amsterdam-Diemen  | Stichting Netwerk Palliatieve Zorg Amsterdam-Diemen  | Amsterdam, Diemen  | 160.923  | 163.108  |
+| Arnhem  | Stichting Transmuraal Netwerk Palliatieve Zorg regio Arnhem  | Arnhem, Doesburg (voor ½), Lingewaard, Overbetuwe, Renkum (voor ½), Rheden en Rozendaal (Gld.)  | 62.367  | 63.214  |
+| De Liemers  | Stichting Transmuraal Netwerk Palliatieve Zorg regio Arnhem  | Duiven, Montferland (voor ½), Rijnwaarden, Westervoort en Zevenaar  | 21.326  | 21.616  |
+| Delft Westland Oostland  | Stichting Pieter van Foreest Zorginstellingen  | Delft, Lansingerland, Pijnacker-Nootdorp, Westland, Midden-Delfland (voor ¾)  | 62.562  | 63.412  |
+| Drechtzorg  | Stichting Het Spectrum  | Alblasserdam, Dordrecht, Hardinxveld-Giessendam, Hendrik-Ido-Ambacht, Nieuw-Lekkerland, Papendrecht, Ridderkerk, Sliedrecht, Zwijndrecht  | 69.977  | 70.927  |
+| Drenthe / Assen  | Stichting Icare  | Aa en Hunze, Assen, Noordenveld en Tynaarlo  | 32.136  | 32.572  |
+| Drenthe / Emmen  | Stichting Icare  | Borger-Odoorn, Coevorden en Emmen  | 35.924  | 36.412  |
+| Drenthe / Hoogeveen  | Stichting Icare  | De Wolden (voor 2/3), Hoogeveen en Midden-Drenthe  | 21.756  | 22.051  |
+| Drenthe / Meppel-Steenwijkerland  | Stichting Icare  | De Wolden (voor 1/3), Meppel, Steenwijkerland en Westerveld  | 21.275  | 21.564  |
+| Eemland  | Stichting Beweging 3.0  | Amersfoort, Baarn, Barneveld (voor ¼), Bunschoten, Eemnes, Leusden, Nijkerk (voor ½), Soest en Woudenberg  | 62.249  | 63.094  |
+| Enschede-Haaksbergen en Noordoost Twente  | Stichting Livio  | Dinkelland, Enschede, Haaksbergen, Losser en Oldenzaal  | 54.311  | 55.049  |
+| Friesland Noordoost  | FAB Dienstverlening B.V.  | Ameland, Dantumadeel, Dongeradeel, Ferwerderadiel, Kollumerland c.a., Schiermonnikoog en Tytsjerksteradiel (voor 1/3)  | 17.109  | 17.341  |
+| Friesland Noordwest  | FAB Dienstverlening B.V.  | Boarnsterhim, Franekeradeel, Harlingen, het Bildt, Leeuwarden, Leeuwarderadeel, Menaldumadeel, Terschelling, Tytsjerksteradiel (voor 1/3) en Vlieland  | 41.869  | 42.438  |
+| Friesland Zuid  | FAB Dienstverlening B.V.  | Heerenveen, Lemsterland (voor ½), Skarsterlân (voor ½), Weststellingwerf  | 18.577  | 18.829  |
+| Friesland Zuidoost  | FAB Dienstverlening B.V.  | Achtkarspelen, Ooststellingwerf, Opsterland, Smallingerland, Tytsjerksteradiel (voor 1/3)  | 31.413  | 31.840  |
+| Friesland Zuidwest  | FAB Dienstverlening B.V.  | Bolsward, Gaasterlân-Sleat, Lemsterland (voor ½), Littenseradiel, Nijefurd, Skarsterlân (voor ½), Sneek, Wûnseradiel en Wymbritseradiel  | 25.813  | 26.164  |
+| Gelderse Vallei  | Stichting Icare  | Barneveld (voor ¾), Ede, Renswoude, Renkum (voor ½), Rhenen, Scherpenzeel, Utrechtse Heuvelrug (voor 1/7), Veenendaal en Wageningen  | 62.527  | 63.376  |
+| Goeree Overflakkee en omliggende eilanden  | Stichting palliatieve zorg te Dirksland  | Dirksland, Goedereede, Middelharnis en Oostflakkee  | 12.474  | 12.643  |
+| Gooi en Vechtstreek  | Stichting Hospice Gooi en Vechtstreek  | Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp, Wijdemeren  | 50.778  | 51.468  |
+| Gorinchem  | Stichting Het Spectrum  | Giessenlanden, Gorinchem, Graafstroom, Leerdam, Liesveld, Lingewaal (voor ½) en Zederik  | 22.643  | 22.951  |
+| Groningen Centraal  | FAB Dienstverlening B.V.  | Groningen, Grootegast, Haren, Hoogezand-Sappemeer, Leek, Marum, Winsum (voor ½), Zuidhorn  | 63.315  | 64.175  |
+| Groningen Noord  | FAB Dienstverlening B.V.  | Appingedam, Bedum, De Marne, Delfzijl, Eemsmond, Loppersum, Slochteren, Ten Boer en Winsum (voor ½)  | 24.790  | 25.127  |
+| Groningen Oost  | FAB Dienstverlening B.V.  | Bellingwedde, Menterwolde, Pekela (voor ½), Reiderland, Scheemda, Veendam (voor ½) en Winschoten  | 17.288  | 17.523  |
+| Groningen Zuid  | FAB Dienstverlening B.V.  | Pekela (voor ½), Veendam (voor ½), Stadskanaal en Vlagtwedde  | 14.992  | 15.195  |
+| Haaglanden  | Stichting Transmurale Zorg Den Haag en omstreken  | Den Haag, Leischendam-Voorburg, Rijswijk, Wassenaar en Zoetermeer  | 154.766  | 156.868  |
+| Hardenberg en omgeving  | Stichting Regionaal Zorgnetwerk Zwolle en omgeving  | Hardenberg, Ommen  | 15.827  | 16.042  |
+| ’s Hertogenbosch/ Bommelerwaard  | Stichting Kwaliteit en Integratie  | Boxtel, Haaren (voor ½), s-Hertogenbosch, Heusden (voor ½) Maasdriel, Schijndel, Sint-Michielsgestel, Vught en Zaltbommel  | 67.108  | 68.019  |
+| Heuvelland  | Stichting Envida  | Eijsden, Gulpen-Wittem, Maastricht, Margraten, Meerssen, Vaals en Valkenburg aan de Geul  | 43.220  | 43.807  |
+| Hoekse Waard  | Stichting palliatieve zorg te Dirksland  | Binnenmaas, Cromstrijen, Korendijk, Oud-Beijerland en Strijen  | 17.971  | 18.215  |
+| IJssel-Vecht  | Stichting Regionaal Zorgnetwerk Zwolle en omgeving  | Dalfsen (voor ½), Hattem, Kampen, Olst – Wijhe (voor 4/9), Raalte (voor 1/3), Staphorst, Zwartewaterland en Zwolle  | 51.806  | 52.509  |
+| Kop van Noord-Holland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Anna Paulowna, Den Helder, Harenkarspel, Niedorp, Schagen, Texel, Wieringen, Wieringermeer en Zijpe  | 34.787  | 35.259  |
+| Land van Cuyk & Noord Limburg  | Stichting Pantein  | Bergen (L.) (voor ½), Boxmeer, Cuijk, Gennep, Grave (voor ½), Mill en Sint Hubert, Mook en Middelaar (voor ½) en Sint Anthonis  | 23.047  | 23.360  |
+| Midden-Brabant  | Stichting Zorgnetwerk Midden-Brabant  | Dongen (voor ½), Gilze en Rijen, Goirle, Haaren (voor 1/2), Heusden (voor 1/2) Hilvarenbeek, Loon op Zand, Oisterwijk, Tilburg en Waalwijk  | 83.774  | 84.912  |
+| Midden- en Noord Zeeland  | Stichting Zorgstroom  | Borsele, Goes, Kapelle, Noord-Beveland, Middelburg Reimerswaal en Schouwen-Duiveland, Veere en Vlissingen  | 51.992  | 52.698  |
+| Midden- en Zuid-Kennemerland  | Stichting Bureau VBZ  | Bennebroek, Beverwijk, Bloemendaal, Castricum, Haarlem, Haarlemmerliede c.a., Heemskerk, Heemstede, Uitgeest, Velsen en Zandvoort  | 85.241  | 86.399  |
+| Midden-Holland  | Stichting Transmuraal Netwerk Midden-Holland  | Bergambacht, Bodegraven, Boskoop, Gouda, Krimpen aan den IJssel (voor ½), Moordrecht, Nederlek, Nieuwerkerk aan den IJssel, Ouderkerk, Reeuwijk, Schoonhoven, Vlist, Waddinxveen, Woerden (voor 1/3) en Zevenhuizen-Moerkapelle  | 56.421  | 57.187  |
+| Midden-Twente  | Stichting Carint Reggeland Groep  | Borne, Hengelo (O) en Hof van Twente  | 28.771  | 29.162  |
+| Nieuwe Waterweg Noord  | Stichting Argos Zorggroep  | Maassluis, Midden-Delfland (voor ¼), Schiedam en Vlaardingen  | 38.316  | 38.836  |
+| Noord- en Oost-Flevoland  | Stichting Medisch Coordinatie Centrum Flevoland  | Dronten, Lelystad, Noordoostpolder, Urk en Zeewolde (voor 1/2)  | 38.542  | 39.065  |
+| Noord-Kennemerland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Alkmaar, Bergen (NH.), Graft-De Rijp, Heerhugowaard, Heiloo, Langedijk en Schermer  | 49.310  | 49.980  |
+| Noord-Limburg  | Stichting Viecuri, Medisch Centrum voor Noord-Limburg  | Arcen en Velden, Beesel, Bergen (L.) (voor ½), Helden, Horst aan de Maas, Kessel, Maasbree, Meerlo-Wanssum, Meijel, Sevenum, Venlo en Venray  | 51.847  | 52.551  |
+| Noordwest Utrecht  | Zuwe Zorg B.V.  | Abcoude, Breukelen, De Ronde Venen, Loenen, Maarssen, Montfoort, Oudewater en Woerden (voor 2/3)  | 33.766  | 34.225  |
+| Noordwest Veluwe  | Stichting Palliatieve Zorg Veluwe  | Elburg, Ermelo, Harderwijk, Nijkerk (voor ½) Nunspeet, Oldebroek, Putten en Zeewolde (voor ½)  | 40.361  | 40.909  |
+| Noordwest Twente  | Ziekenhuisgroep Twente  | Almelo, Hellendoorn, Rijssen-Holten (voor ¾), Tubbergen, Twenterand en Wierden  | 44.745  | 45.353  |
+| Oost-Achterhoek  | Stichting Ziekenhuisvoorzieningen Achterhoek-Oost  | Aalten (voor ½), Berkelland, Oost Gelre, Oude IJsselstreek (voor ½) en Winterswijk  | 28.990  | 29.384  |
+| Oost-Veluwe  | Stichting Zorggroep Apeldoorn en omstreken. M.i.v. 2015: Stichting Gelre ziekenhuizen  | Apeldoorn, Epe, Heerde en Voorst (voor ½)  | 45.819  | 46.441  |
+| Oostelijk Zuid-Limburg  | Stichting Cicero Zorggroep  | Brunssum, Heerlen, Kerkrade, Landgraaf, Nuth, Onderbanken, Simpelveld en Voerendaal  | 53.761  | 54.491  |
+| Oss – Uden – Veghel  | Stichting Kwaliteit en Integratie  | Bernheze, Boekel, Grave (voor ½), Landerd, Lith, Maasdonk, Oss, Sint-Oedenrode, Uden en Veghel  | 52.270  | 52.980  |
+| Rivierengebied  | Stichting Zorgcentra Rivierenland  | Buren, Culemborg, Geldermalsen, Lingewaal (voor 1/2), Neder-Betuwe, Neerijnen, Tiel en West Maas en Waal (voor ½)  | 35.462  | 35.944  |
+| Roermond  | Stichting Zorggroep Noord- en Midden-Limburg  | Echt-Susteren, Leudal (voor 4/5), Maasgouw, Roerdalen en Roermond  | 34.228  | 34.693  |
+| Roosendaal – Bergen op Zoom – Tholen  | Stichting Lievensberg Ziekenhuis  | Bergen op Zoom, Halderberge, Roosendaal, Rucphen, Steenbergen, Woensdrecht en Tholen  | 55.528  | 56.282  |
+| Rotterdam  | Stichting Lelie Zorggroep wonen zorg en welzijn  | Albrandswaard, Barendrecht, Capelle aan den IJssel, Krimpen aan den IJssel (voor ½) en Rotterdam  | 152.912  | 154.989  |
+| Salland  | Stichting Carinova Groep  | Dalfsen (voor ½), Deventer, Olst – Wijhe (voor 5/9), Raalte (voor 2/3) en Rijssen-Holten (voor ¼)  | 32.222  | 32.660  |
+| Stadsgewest Breda  | Stichting Amphia  | Aalburg, Alpen-Chaam, Baarle-Nassau, Breda, Dongen (voor ½), Drimmelen, Etten-Leur, Geertruidenberg, Moerdijk, Oosterhout Werkendam, Woudrichem en Zundert  | 94.660  | 95.945  |
+| Utrecht Stad  | Stichting Axioncontinu Groep  | Utrecht  | 60.526  | 61.348  |
+| Utrecht-Zuid  | Zuwe Zorg B.V.  | Houten, IJsselstein, Lopik, Nieuwegein en Vianen  | 36.646  | 37.144  |
+| Voorne-Putten Rozenburg  | Stichting palliatieve zorg te Dirksland  | Bernisse, Brielle, Hellevoetsluis, Rozenburg, Spijkenisse en Westvoorne  | 35.450  | 35.932  |
+| Weert  | Stichting voor Verpleeg-, Verzorgings- en Woonfaciliteiten  Land van Horne  | Cranendonck (voor ½), Leudal (voor 1/5), Nederweert en Weert  | 17.063  | 17.295  |
+| West-Achterhoek  | Stichting Slingeland Ziekenhuis  | Aalten (voor ½), Bronckhorst (voor ½), Doesburg (voor ½), Doetinchem, Montferland (voor ½) en Oude IJsselstreek (voor ½)  | 27.760  | 28.137  |
+| West-Friesland  | Stichting Zorg Ondersteuning Noord-Holland Noord  | Andijk, Drechterland, Enkhuizen, Hoorn, Koggenland, Medemblik, Opmeer, Stede Broec, Wervershoof en Zeevang (voor ½)  | 42.649  | 43.228  |
+| Westelijke Mijnstreek  | Orbis Medisch en Zorg-concern  | Beek, Schinnen, Sittard-Geleen en Stein  | 32.056  | 32.491  |
+| Zaanstreek Waterland  | Stichting Zorg Ondersteuning Noord Holland Noord  | Beemster, Edam-Volendam, Landsmeer, Oostzaan, Purmerend, Waterland, Wormerland, Zaanstad en Zeevang (voor ½)  | 65.487  | 66.376  |
+| Zeeuws Vlaanderen  | Stichting ZorgSaam Zeeuws-Vlaanderen  | Hulst, Sluis en Terneuzen  | 22.584  | 22.891  |
+| Zuid-Gelderland  | Stichting ZZG Zorggroep  | Beuningen, Druten, Groesbeek, Heumen, Millingen aan de Rijn, Mook en Middelaar (voor ½) Nijmegen, Ubbergen, West Maas en Waal (voor ½) en Wijchen  | 64.576  | 65.453  |
+| Zuid-Holland Noord  | Stichting Marente  | Alkemade, Alphen aan den Rijn, Hillegom, Jacobswoude, Katwijk, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Rijnwoude, Teylingen, Voorschoten en Zoeterwoude  | 108.552  | 110.026  |
+| Zuidoost Brabant  | Stichting Kwaliteit en Ontwikkeling Huisartsenzorg  | Asten, Bergeijk, Best, Bladel, Cranendonck (voor ½), Deurne, Eersel, Eindhoven, Geldrop-Mierlo, Gemert-Bakel, Heeze-Leende, Helmond, Laarbeek, Nuenen c.a., Oirschot, Reusel-De Mierden, Someren, Son en Breugel, Valkenswaard, Veldhoven en Waalre  | 150.685  | 152.731  |
+| Zuidoost Utrecht  | Stichting Axioncontinu Groep  | Bunnik, De Bilt, Utrechtse Heuvelrug (voor 6/7), Wijk bij Duurstede en Zeist  | 38.141  | 38.659  |
+| Zutphen  | Stichting Sensire  | Bronckhorst (voor 1/2), Brummen, Lochem, Zutphen, Voorst (voor 1/2)  | 27.566  | 27.940  |
 
