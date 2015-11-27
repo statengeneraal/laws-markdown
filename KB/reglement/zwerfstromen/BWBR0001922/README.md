@@ -57,13 +57,13 @@ Het spanningsverschil tusschen twee willekeurig gekozen punten van de spoorstave
 
 Overtreding van enige bepaling van de artikelen 1 tot en met 7 is een strafbaar feit als bedoeld in artikel 4, eerste lid, van de wet van 1 november 1924 (*Stb.* 498) houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in de bodem door zwerfstromen, afkomstig van de spoorstaven van elektrische spoor- en tramwegen;  
 
-a. indien zij door bestuurders van een spoor- of tramwegdienst wordt gepleegd, of een spoorweg, als bedoeld bij [artikel 6 der Locaalspoor- en Tramwegwet](../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), betreft;  
+a. indien zij door bestuurders van een spoor- of tramwegdienst wordt gepleegd, of een spoorweg, als bedoeld bij artikel 6 der Locaalspoor- en Tramwegwet, betreft;  
 
 b. indien zij door beambten of bedienden van een spoor- of tramwegdienst wordt gepleegd.   
 
 ### Artikel  9  
 
-Met de opsporing van de overtredingen van dit reglement zijn belast de ambtenaren, bedoeld in [artikel 10 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md).  
+Met de opsporing van de overtredingen van dit reglement zijn belast de ambtenaren, bedoeld in artikel 10 van de Spoorwegwet.  
 
 ### Artikel  10  
 

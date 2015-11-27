@@ -8,7 +8,23 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: a. Minister: Minister van Economische Zaken;b. verordening 967/2006: Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);c. Raad: Raad van de Europese Unie;d. verordening: Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);e. Commissie: Commissie van de Europese Gemeenschappen;f. suiker: de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;g.verordening 1360/2013: Verordening (EU) nr. 1360/2013 van de Raad van 2 december 2013 tot vaststelling van de bedragen van de productieheffingen in de sector suiker voor de verkoopseizoenen 2001/2002, 2002/2003, 2003/2004, 2004/2005 en 2005/2006, de coëfficiënt voor de berekening van de aanvullende heffing voor de verkoopseizoenen 2001/2002 en 2004/2005 en de bedragen die de suikerfabrikanten aan de suikerbietenverkopers moeten betalen vanwege het verschil tussen de maximumheffing en de te innen heffing voor de verkoopseizoenen 2002/2003, 2003/2004 en 2005/2006.  
+In deze regeling wordt verstaan onder: 
+
+a.*Minister:* Minister van Economische Zaken;
+
+b.*verordening 967/2006:* Verordening (EG) nr. 967/2006 van de Commissie van 29 juni 2006 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 318/2006 met betrekking tot de productie buiten het quotum in de sector suiker (PbEU 2006, L 176);
+
+c.*Raad:* Raad van de Europese Unie;
+
+d. *verordening:* Verordening (EU) nr. 1308/2013 van het Europese Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347); 
+
+e.*Commissie:* Commissie van de Europese Gemeenschappen;
+
+f.*suiker:* de producten, bedoeld in artikel 1, eerste lid, onderdeel b, van de verordening;
+
+g.*verordening 1360/2013:* Verordening (EU) nr. 1360/2013 van de Raad van 2 december 2013 tot vaststelling van de bedragen van de productieheffingen in de sector suiker voor de verkoopseizoenen 2001/2002, 2002/2003, 2003/2004, 2004/2005 en 2005/2006, de coëfficiënt voor de berekening van de aanvullende heffing voor de verkoopseizoenen 2001/2002 en 2004/2005 en de bedragen die de suikerfabrikanten aan de suikerbietenverkopers moeten betalen vanwege het verschil tussen de maximumheffing en de te innen heffing voor de verkoopseizoenen 2002/2003, 2003/2004 en 2005/2006;
+
+h. *verordening 1370/2013:* Verordening (EU) nr. 1370/2013 van de Raad van 16 december 2013 houdende maatregelen tot vaststelling van steun en restituties in het kader van de gemeenschappelijke ordening van de markten voor landbouwproducten (PbEU 2013, L 346).  
 
 ### §  1  
 
@@ -52,22 +68,12 @@ h. drie leden door organisaties van werknemers.
 
 ### §  2  
 
-####Interventie, erkenning en prijsinformatie
-
-### Artikel  3  
-
-1.  De Minister verricht ten titel van interventie de aankopen van suiker met inachtneming van het hetgeen dienaangaande in de verordening en de uitvoeringsregelingen is bepaald.   
-2.  De Minister erkent de natuurlijke of rechtspersoon die als gespecialiseerde suikerhandelaar uit hoofde van de uitvoeringsregelingen gerechtigd is tot het doen van een aanbieding tot interventie.   
-3.  De Minister erkent, met inachtneming van de in het eerste lid bedoelde regelingen, de opslagplaatsen waarbij uitsluitend de overneming tot interventie plaatsvindt, alsmede de in die regelingen bedoelde deskundige die genomen monsters analyseert en het laboratorium waar het derde monster wordt bewaard dan wel waar het onderzoek van dit monster geschiedt.   
-
-### Artikel  4  
-
-De Minister verricht de aankopen tegen de gegarandeerde prijs van preferentiële suiker in de zin van de verordening met inachtneming van hetgeen dienaangaande in de verordening en de uitvoeringsregelingen is bepaald.  
+####Erkenning en prijsinformatie
 
 ### Artikel  5  
 
 1.  De Minister verleent op verzoek een erkenning aan producenten van suiker, isoglucose of aan de verwerkers van deze producten tot de producten, bedoeld in de bijlage van verordening 967/2006.   
-2.  De erkende ondernemingen verstrekken aan de Minister maandelijks de in de artikelen 9, 57, tweede lid en 63, tweede lid, van de verordening bedoelde gegevens die betrekking hebben op de voorafgaande maand.  
+2.  De erkende ondernemingen verstrekken aan de Minister maandelijks de in de artikelen 126, 137, tweede lid, en 141, tweede lid van de verordening bedoelde gegevens die betrekking hebben op de voorgaande maand.  
 
 ### Artikel  5a  
 
@@ -80,7 +86,7 @@ Een erkende suikeronderneming die over een productiequotum beschikt en een erken
 ### Artikel  5b  
 
 1.  Voor 14 april van elk jaar deelt een producent van suiker de hoeveelheid suiker mee die hij boven zijn productiequotum heeft geproduceerd in het lopende verkoopseizoen aan de Minister.   
-2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening.  
+2.  Voor elk verkoopseizoen is een fabrikant een overschotheffing verschuldigd, door de Minister te bepalen over de geproduceerde hoeveelheden, bedoeld in de verordening en artikel 11 van verordening 1370/2013.  
 
 ### Artikel  5c  
 
@@ -90,13 +96,9 @@ De Minister vordert een productieheffing in over het quotum, voor het betrokken 
 
 De Minister vordert bij de producent een door de Europese Commissie vast te stellen heffing in over het extra quotum dat voor het betrokken verkoopseizoen wordt toegekend bij of krachtens de verordening. 
 
-### Artikel  5e  
-
-De minister kan op grond van de artikelen 1 en 2 van verordening 1360/2013 een teruggaaf verlenen aan een suikerfabrikant, suikerbietenteler of aan een producent van suiker, isoglucose of inulinestroop. 
-
 ### Artikel  7  
 
-De Minister stelt de quota, bedoeld in artikel 7 van de verordening vast. Deze beschikking wordt gepubliceerd in de Staatscourant.  
+De Minister stelt de quota, bedoeld in artikel 134 van de verordening vast. Deze beschikking wordt gepubliceerd in de Staatscourant.  
 
 ### Artikel  8  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 15 november 2012, nr. 322808;
 
-Gelet op de [Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de [Beroepswet](../../../../../../wet/beroepswet/BWBR0002170/README.md), het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), de [Boeken 1](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [4 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), de [Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het [Besluit machtiging tot vestigen schuldverplichtingen ten laste van Rijk](../../../../../../KB/besluit/machtiging/tot/vestigen/schuldverplichtingen/ten/laste/van/rijk/BWBR0002016/README.md), de [Wet installaties Noordzee](../../../../../../wet/wet/installaties/noordzee/BWBR0002467/README.md), de [Wet van 2 december 1982, Stb. 679, houdende bepalingen ter uitvoering van het Europees Verdrag inzake de rechtspositie van migrerende werknemers, alsmede met betrekking tot de arbeidsvoorwaarden van buitenlandse werknemers](../../../../../../wet/uitvoeringswet/europees/verdrag/inzake/rechtspositie/migrerende/werknemers/BWBR0003546/README.md), de [Wet op de Accountants-Administratieconsulenten](../../../../../../wet/wet/op/de/accountants-administratieconsulenten/BWBR0002856/README.md), de [Wet op de Registeraccountants](../../../../../../wet/wet/op/de/registeraccountants/BWBR0002374/README.md), de [Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](../../../../../../wet/wet/toetsing/levensbeëindiging/op/verzoek/en/hulp/bij/zelfdoding/BWBR0012410/README.md), de [Locaalspoor- en Tramwegwet](../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md) en de [Landbouwkwaliteitswet](../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md);
+Gelet op de Wet op de rechterlijke organisatie, de Beroepswet, het Wetboek van Strafvordering, de Boeken 1 en 4 van het Burgerlijk Wetboek, de Vreemdelingenwet 2000, de Visserijwet 1963, de Wet op het financieel toezicht, het Besluit machtiging tot vestigen schuldverplichtingen ten laste van Rijk, de Wet installaties Noordzee, de Wet van 2 december 1982, Stb. 679, houdende bepalingen ter uitvoering van het Europees Verdrag inzake de rechtspositie van migrerende werknemers, alsmede met betrekking tot de arbeidsvoorwaarden van buitenlandse werknemers, de Wet op de Accountants-Administratieconsulenten, de Wet op de Registeraccountants, de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding, de Locaalspoor- en Tramwegwet, het Wetboek van Strafrecht, de Beginselenwet verpleging ter beschikking gestelden en de Landbouwkwaliteitswet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 28 november 2012, nr. W03.12.0468-II);
 
@@ -47,7 +47,7 @@ Wijzigt het Besluit prudentiële regels Wft.
 
 ### Artikel  IX  
 
-Het [Besluit tijdelijke aanwijzing bevoegde rechtbanken](../../../../../../AMvB/besluit/tijdelijke/aanwijzing/bevoegde/rechtbanken/BWBR0030170/README.md) wordt ingetrokken. 
+Het Besluit tijdelijke aanwijzing bevoegde rechtbanken wordt ingetrokken. 
 
 ### Artikel  X  
 
@@ -99,7 +99,7 @@ Wijzigt het Uitvoeringsbesluit pacht.
 
 ### Artikel  XXII  
 
-In afwijking van [artikel 3, tweede lid, van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) maken de leden van een commissie als bedoeld in artikel 3 van dat besluit, die op de dag voorafgaand aan de inwerkingtreding van dit besluit deel uitmaken van de hieronder in de linkerkolom genoemde commissie, van rechtswege deel uit van de daarbij in de rechterkolom genoemde commissie. Voor hen vangt geen nieuwe termijn als bedoeld in artikel 3, tweede lid, van het Besluit College van afgevaardigden aan.  
+In afwijking van artikel 3, tweede lid, van het Besluit College van afgevaardigden maken de leden van een commissie als bedoeld in artikel 3 van dat besluit, die op de dag voorafgaand aan de inwerkingtreding van dit besluit deel uitmaken van de hieronder in de linkerkolom genoemde commissie, van rechtswege deel uit van de daarbij in de rechterkolom genoemde commissie. Voor hen vangt geen nieuwe termijn als bedoeld in artikel 3, tweede lid, van het Besluit College van afgevaardigden aan.  
 
 | --- | --- |
 |:---|:---|
@@ -111,7 +111,7 @@ In afwijking van [artikel 3, tweede lid, van het Besluit College van afgevaardig
 
 ### Artikel  XXIII  
 
-De Commissies bedoeld in [artikel 3 van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) wijzen onder degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem of het ressort Leeuwarden, onderscheidenlijk het ressort ’s-Gravenhage, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College, bedoeld in [artikel 90 van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), de leden aan die namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem-Leeuwarden, onderscheidenlijk het ressort Den Haag, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College. Voor hen vangt geen nieuwe termijn als bedoeld in [artikel 2, vijfde lid, van het Besluit College van afgevaardigden](../../../../../../AMvB/besluit/college/van/afgevaardigden/BWBR0013128/README.md) aan. 
+De Commissies bedoeld in artikel 3 van het Besluit College van afgevaardigden wijzen onder degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem of het ressort Leeuwarden, onderscheidenlijk het ressort ’s-Gravenhage, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College, bedoeld in artikel 90 van de Wet op de rechterlijke organisatie, de leden aan die namens het ressort Amsterdam, onderscheidenlijk het ressort Arnhem-Leeuwarden, onderscheidenlijk het ressort Den Haag, onderscheidenlijk het ressort ’s-Hertogenbosch deel uitmaken van het College. Voor hen vangt geen nieuwe termijn als bedoeld in artikel 2, vijfde lid, van het Besluit College van afgevaardigden aan. 
 
 ### Artikel  XXIV  
 

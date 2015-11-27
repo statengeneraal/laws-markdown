@@ -37,9 +37,9 @@ In deze regeling wordt verstaan onder:
 
 *suikerbietenschieter:* suikerbieten die al in het eerste jaar tot de vorming van zaad zijn overgegaan;  
 
-*toegelaten:* overeenkomstig paragraaf 3.3 van het Besluit genetisch gemodificeerde organismen milieubeheer of verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L 268) toegelaten voor de handel;  
+*toegelaten:* overeenkomstig hoofdstuk 4 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 of Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders (Pb EU 2003, L268) toegelaten voor de handel;  
 
-*vergund:* overeenkomstig paragraaf 3.2 van het Besluit genetisch gemodificeerde organismen milieubeheer vergund;  
+*vergund:* overeenkomstig hoofdstuk 3 van het Besluit genetisch gemodificeerde organismen milieubeheer 2013 vergund;  
 
 *wilde haver:* plant van de soort *Avena fatua*.   
 

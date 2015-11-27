@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 23 april 1981, nr. A-1/V 23387, Directoraat-Generaal van het Verkeer;
 
-Gelet op [artikel 27 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) en [artikel 4*a* van de Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md);
+Gelet op artikel 27 van de Spoorwegwet en artikel 4*a* van de Locaalspoor- en Tramwegwet;
 
 De Raad van State gehoord (advies van 16 juni 1981, nr. 810610/15);
 
@@ -30,11 +30,11 @@ In dit reglement wordt verstaan onder:
 
 a. Minister: Onze Minister van Infrastructuur en Milieu;  
 
-b. ambtenaren belast met het toezicht: de ambtenaren, bedoeld in [artikel 10 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md);   
+b. ambtenaren belast met het toezicht: de ambtenaren, bedoeld in artikel 10 van de Spoorwegwet;   
 
-c. spoorweg: spoorwegdienst als bedoeld in de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md), al dan niet onder beheer van een publiekrechtelijk lichaam;  
+c. spoorweg: spoorwegdienst als bedoeld in de Spoorwegwet, al dan niet onder beheer van een publiekrechtelijk lichaam;  
 
-d. directie: bestuurders van een spoorwegdienst als bedoeld in [artikel 9 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md);  
+d. directie: bestuurders van een spoorwegdienst als bedoeld in artikel 9 van de Spoorwegwet;  
 
 e. personeel: hoofdbeambten, beambten en bedienden van een spoorweg;  
 
@@ -82,13 +82,13 @@ y. ATO: systeem van automatische treinbesturing waarbij alle handelingen van de 
 
 ####Toepasselijkheid van dit reglement
 
-Dit reglement is van toepassing op de ingevolge [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) door de Minister als stadsspoorweg aangewezen spoorwegen. 
+Dit reglement is van toepassing op de ingevolge artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet door de Minister als stadsspoorweg aangewezen spoorwegen. 
 
 ### Artikel  4  
 
 ####Directie van een spoorweg onder beheer van een publiekrechtelijk lichaam
 
-Ten aanzien van spoorwegen onder beheer van een publiekrechtelijk lichaam worden voor de naleving van dit besluit als bestuurders, bedoeld in [artikel 9 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md), aangemerkt zij die door dit publiekrechtelijk lichaam aan het hoofd van de spoorweg zijn gesteld. 
+Ten aanzien van spoorwegen onder beheer van een publiekrechtelijk lichaam worden voor de naleving van dit besluit als bestuurders, bedoeld in artikel 9 van de Spoorwegwet, aangemerkt zij die door dit publiekrechtelijk lichaam aan het hoofd van de spoorweg zijn gesteld. 
 
 ### Artikel  5  
 
@@ -219,7 +219,7 @@ Gelijkvloerse kruisingen met openbare of niet-openbare wegen of paden zijn niet 
 
 ####Gebruik van overwegen door wegverkeer
 
-Op door de Minister krachtens het bepaalde in artikel 17 toegestane gelijkvloerse kruisingen in niet voor het openbaar verkeer openstaande wegen zijn de bepalingen van [artikel 24 van het Reglement Dienst Hoofd- en Lokaalspoorwegen](../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) van overeenkomstige toepassing. 
+Op door de Minister krachtens het bepaalde in artikel 17 toegestane gelijkvloerse kruisingen in niet voor het openbaar verkeer openstaande wegen zijn de bepalingen van artikel 24 van het Reglement Dienst Hoofd- en Lokaalspoorwegen van overeenkomstige toepassing. 
 
 ### Artikel  19  
 
@@ -248,13 +248,13 @@ a. wissels in hoofdsporen;
 b. kruisingen op gelijke hoogte van hoofdsporen of van een hoofdspoor met een ander spoor.     
 2.   Het in het eerste lid bedoelde sein kan achterwege blijven als een systeem van ATB of ATO het berijden van het wissel of de kruising slechts toelaat wanneer dit veilig kan geschieden. De plaats waar de trein of het rangeerdeel moet stoppen als het wissel of de kruising niet veilig kan worden bereden, is dan door een vast sein aangeduid, behoudens door de Minister te verlenen ontheffing.   
 3.   Aansluitingen van een hoofd- en lokaalspoorweg of tramweg aan een hoofdspoor van een stadsspoorweg zijn beveiligd door een daarvoor geplaatst bedienbaar vast sein dat "stop" kan tonen.   
-4.   De Minister bepaalt, in voorkomend geval in afwijking van [artikel 12 van het Tramwegreglement](../../../KB/tramwegreglement/BWBR0001898/README.md), op welke wijze de beveiliging geschiedt van een kruising op gelijke hoogte van een stadsspoorweg met een voor openbaar vervoer opengestelde andere spoorweg. De directie bepaalt dit ten aanzien van een kruising op gelijke hoogte met een niet voor openbaar vervoer opengestelde spoorweg.  
+4.   De Minister bepaalt, in voorkomend geval in afwijking van artikel 12 van het Tramwegreglement, op welke wijze de beveiliging geschiedt van een kruising op gelijke hoogte van een stadsspoorweg met een voor openbaar vervoer opengestelde andere spoorweg. De directie bepaalt dit ten aanzien van een kruising op gelijke hoogte met een niet voor openbaar vervoer opengestelde spoorweg.  
 
 ### Artikel  22  
 
 ####Beschrijving en plaats van de seinen
 
-1.  De beschrijving van de beelden, getoond door de in deze afdeling bedoelde seinen, alsmede de akoestische seinen, de betekenis van vorengenoemde seinen en, voor zover daartoe aanleiding bestaat, voorschriften voor het gebruik mede in verband met de weersomstandigheden, worden opgenomen in een afzonderlijke afdeling van het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement, genaamd: Seinreglement.   
+1.  De beschrijving van de beelden, getoond door de in deze afdeling bedoelde seinen, alsmede de akoestische seinen, de betekenis van vorengenoemde seinen en, voor zover daartoe aanleiding bestaat, voorschriften voor het gebruik mede in verband met de weersomstandigheden, worden opgenomen in een afzonderlijke afdeling van het in artikel 6 van de Spoorwegwet bedoelde dienstreglement, genaamd: Seinreglement.   
 2.   De plaats van de in deze afdeling bedoelde vaste seinen en, voor zover bedienbaar, de bedieningswijze ervan worden omschreven in voorschriften, die aan de Minister worden toegezonden.  
 
 ### Artikel  23  
@@ -368,7 +368,7 @@ b. eigen gewicht;
 
 c. totale gewicht bij maximaal toelaatbare belasting;  
 
-d. remgewicht, indien het voertuig met in dienst zijnde rem mag rijden op andere spoorwegen waarop de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) of de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) van toepassing is.   
+d. remgewicht, indien het voertuig met in dienst zijnde rem mag rijden op andere spoorwegen waarop de Spoorwegwet of de Locaalspoor- en Tramwegwet van toepassing is.   
 
 ### Artikel  35  
 
@@ -403,7 +403,7 @@ A. voor al het rollend materieel:
 
 4. gewicht van het voertuig in dienstvaardige toestand en de grootste asdruk;  
 
-5. remgewicht, indien het voertuig met in dienst gestelde rem mag rijden op andere spoorwegen waarop de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) of de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) van toepassing is;  
+5. remgewicht, indien het voertuig met in dienst gestelde rem mag rijden op andere spoorwegen waarop de Spoorwegwet of de Locaalspoor- en Tramwegwet van toepassing is;  
 
 6. constructief toegestane snelheid;    
 
@@ -533,7 +533,7 @@ b. geleidende verbindingen tussen de aarde en alle delen van het krachtvoertuig,
 
 ####Dienst op andere spoorwegen
 
-De Minister kan, de directie gehoord, nadere voorschriften geven omtrent de technische inrichting van krachtvoertuigen met het oog op het dienst doen op andere spoorwegen waarop de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) of de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) van toepassing is. 
+De Minister kan, de directie gehoord, nadere voorschriften geven omtrent de technische inrichting van krachtvoertuigen met het oog op het dienst doen op andere spoorwegen waarop de Spoorwegwet of de Locaalspoor- en Tramwegwet van toepassing is. 
 
 ### Artikel  45  
 
@@ -620,15 +620,15 @@ a. treinen die niet voor reizigers zijn opengesteld;
 
 b. treinen naar of van spooraansluitingen;  
 
-c. bedrijfsstoringen.   De wijze waarop de treinen dan mogen worden vervoerd, wordt geregeld in een afzonderlijke afdeling van het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement.   
+c. bedrijfsstoringen.   De wijze waarop de treinen dan mogen worden vervoerd, wordt geregeld in een afzonderlijke afdeling van het in artikel 6 van de Spoorwegwet bedoelde dienstreglement.   
 6.   Voor het rijden met andere dan de in artikel 43, zesde en zevende lid, bedoelde krachtvoertuigen geeft de directie bijzondere voorschriften.   
 7.   Niet medewerkende, onbemande krachtvoertuigen blijven bij de bepaling van het aantal krachtvoertuigen buiten beschouwing.  
 
 ### Artikel  51  
 
-####Samenstelling van treinen, afwijking van [artikel 26 Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md); treinseinen
+####Samenstelling van treinen, afwijking van artikel 26 Spoorwegwet; treinseinen
 
-1.  In afwijking van het in [artikel 26 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bepaalde stelt de directie het aantal voertuigen vast van de treinen opengesteld voor reizigers anders dan personeel, met dien verstande dat deze treinen zijn samengesteld uit zoveel voertuigen, dat het voor reizigers toegankelijke gedeelte niet langer is dan het kortste perron waar de trein stopt.   
+1.  In afwijking van het in artikel 26 van de Spoorwegwet bepaalde stelt de directie het aantal voertuigen vast van de treinen opengesteld voor reizigers anders dan personeel, met dien verstande dat deze treinen zijn samengesteld uit zoveel voertuigen, dat het voor reizigers toegankelijke gedeelte niet langer is dan het kortste perron waar de trein stopt.   
 2.   De directie bepaalt de maximumlengte van andere dan de in het eerste lid bedoelde treinen.   
 3.   Een trein voert front- en sluitseinen als omschreven in het Seinreglement, bedoeld in artikel 22.  
 
@@ -643,7 +643,7 @@ a. de remmen kunnen door de metrobestuurder of machinist alsmede automatisch in 
 b. zodra de doorgaande leiding wordt verbroken, treden tenminste de remmen van het treindeel achter de plaats van verbreking in werking.     
 2.   De constructie van het doorgaande zelfwerkende remsysteem en de inrichting om het te bedienen worden vastgesteld door de directie.   
 3.   Onverminderd het elders in dit artikel bepaalde mogen in een trein ten hoogste zoveel voertuigen zonder bediend remtoestel worden vervoerd, dat een afgebroken treindeel tot stilstand komt binnen de krachtens het vijfde en zesde lid daarvoor geldende remweg.   
-4.   In het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement wordt het minimumgewicht van voertuigen zonder bediend remtoestel bepaald. Tevens kunnen bepalingen worden opgenomen waarbij wordt afgeweken van het bepaalde in het eerste en derde lid.   
+4.   In het in artikel 6 van de Spoorwegwet bedoelde dienstreglement wordt het minimumgewicht van voertuigen zonder bediend remtoestel bepaald. Tevens kunnen bepalingen worden opgenomen waarbij wordt afgeweken van het bepaalde in het eerste en derde lid.   
 5.   Treinen worden zodanig beremd, dat zij op een vlakke baan tot stilstand kunnen worden gebracht binnen de hierna genoemde afstanden:   
 
 | op grond van baan en beveiliging ter plaatse hoogste toegelaten snelheid in km/h  | afstand   | niet meer dan 30  |  40 m   |
@@ -652,7 +652,7 @@ b. zodra de doorgaande leiding wordt verbroken, treden tenminste de remmen van h
 | meer dan 50, doch niet meer dan 70  | 220 m   |
 | meer dan 70, doch niet meer dan 90  | 400 m  |
 
-In het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement wordt bepaald hoe te handelen bij uitval van een deel van de remkracht.   
+In het in artikel 6 van de Spoorwegwet bedoelde dienstreglement wordt bepaald hoe te handelen bij uitval van een deel van de remkracht.   
 6.   De directie bepaalt in hoeverre de in het vijfde lid vermelde remwegen op dalende hellingen mogen worden verlengd en hoe het promillage van een helling wordt berekend.  
 
 ### Artikel  53  
@@ -664,19 +664,19 @@ In het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/RE
 a. 90 km/h voor treinen bestaande uit treinstellen;  
 
 b. 60 km/h voor andere treinen indien zij door een metrobestuurder of machinist aan het hoofd van de trein worden bediend.     
-2.   De toegelaten snelheid, ingeval de trein wordt bediend door een metrobestuurder of machinist die zich niet aan het hoofd van de trein bevindt, wordt geregeld in het dienstreglement, bedoeld in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md).   
+2.   De toegelaten snelheid, ingeval de trein wordt bediend door een metrobestuurder of machinist die zich niet aan het hoofd van de trein bevindt, wordt geregeld in het dienstreglement, bedoeld in artikel 6 van de Spoorwegwet.   
 3.   Bij proefritten is ten hoogste een snelheid van 120 km/h toegelaten.   
 4.   Behalve bij proefritten is de snelheid zodanig dat voldaan wordt aan het in artikel 52, vijfde lid, bepaalde. Zij mag voorts, behoudens in de in het vijfde lid voorziene gevallen, bij het doorrijden van bogen, waaronder begrepen wisselbogen, niet meer bedragen dan voortvloeit uit onderstaande formule, waarbij is uitgegaan van een grootste zijwaartse versnelling van 0,56 m/sec2:   ![13662](http://wetten.overheid.nl/Illustration/13662)
 waarin wordt voorgesteld door v: de toegelaten snelheid in km/h, r: de boogstraal in m. De Minister kan in door hem te bepalen gevallen grotere zijwaartse versnellingen toestaan.   
 5.   De directie kan voor het doorrijden van bogen als bedoeld in het vierde lid hogere snelheden toestaan, indien aan het materieel en/of de baan bijzondere voorzieningen zijn aangebracht.   
-6.   In of krachtens het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement wordt bepaald of, en in welke mate, de snelheid moet worden verminderd waar zulks voor de veiligheid van het verkeer nodig mocht zijn.  
+6.   In of krachtens het in artikel 6 van de Spoorwegwet bedoelde dienstreglement wordt bepaald of, en in welke mate, de snelheid moet worden verminderd waar zulks voor de veiligheid van het verkeer nodig mocht zijn.  
 
 ### Artikel  54  
 
 ####Nazien van de treinen
 
 1.  Elke trein wordt nagezien, voordat hij naar de eerste bestemming van de dag vertrekt.   
-2.   In het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement wordt bepaald, welke onderdelen bij de in het eerste lid bedoelde controle worden nagezien en welk personeel hiervoor verantwoordelijk is, alsmede hoe gehandeld wordt na een onderbreking van de dienst of na een wijziging in de samenstelling van de trein.  
+2.   In het in artikel 6 van de Spoorwegwet bedoelde dienstreglement wordt bepaald, welke onderdelen bij de in het eerste lid bedoelde controle worden nagezien en welk personeel hiervoor verantwoordelijk is, alsmede hoe gehandeld wordt na een onderbreking van de dienst of na een wijziging in de samenstelling van de trein.  
 
 ### Artikel  55  
 
@@ -700,7 +700,7 @@ b. voor treinen die
 
 - in verband met werkzaamheden aan de spoorweg het rechts liggende spoor niet kunnen berijden, of  
 
-- betrokken zijn bij ongevallen of onregelmatigheden in de treinenloop,     een en ander onder inachtneming van de in of krachtens het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstregelement voor te schrijven maatregelen.  
+- betrokken zijn bij ongevallen of onregelmatigheden in de treinenloop,     een en ander onder inachtneming van de in of krachtens het in artikel 6 van de Spoorwegwet bedoelde dienstregelement voor te schrijven maatregelen.  
 
 ### Artikel  57  
 
@@ -717,13 +717,13 @@ b. op dit spoorgedeelte geen trein uit tegengestelde richting gelijktijdig wordt
 a. door middel van zelfwerkend blokstelsel, waarbij het desbetreffende seinbeeld alleen kan worden getoond, indien het te berijden spoorgedeelte vrij is en tevens is uitgesloten, dat een sein gelijktijdig een trein uit tegengestelde richting toelaat;  
 
 b. door middel van een systeem van in te stellen rijwegen die slechts kunnen worden ingesteld, als is voldaan aan de in het eerste lid vermelde voorwaarden.     
-4.   In het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement is aangegeven in welke gevallen en hoe in afwijking van het bepaalde in het eerste lid onder *a* treinbewegingen plaatshebben.  
+4.   In het in artikel 6 van de Spoorwegwet bedoelde dienstreglement is aangegeven in welke gevallen en hoe in afwijking van het bepaalde in het eerste lid onder *a* treinbewegingen plaatshebben.  
 
 ### Artikel  58  
 
-####Vaststelling van de dienstregeling, afwijking van [artikel 26 Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) 
+####Vaststelling van de dienstregeling, afwijking van artikel 26 Spoorwegwet 
 
-1.  De dienstregeling van de op vaste tijden rijdende treinen wordt, in afwijking van het bepaalde in [artikel 26 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md), door de directie vastgesteld.   
+1.  De dienstregeling van de op vaste tijden rijdende treinen wordt, in afwijking van het bepaalde in artikel 26 van de Spoorwegwet, door de directie vastgesteld.   
 2.   Indien en voorzover de Minister daartoe de wens te kennen heeft gegeven, wordt hem de dienstregeling van de in het eerste lid bedoelde, dan wel van andere treinen toegezonden.  
 
 ### Artikel  59  
@@ -770,7 +770,7 @@ c. krachtvoertuigen door onbevoegden worden bediend.
 
 ####Bijzondere voertuigen
 
-Voorschriften betreffende bijzondere voertuigen worden opgenomen in het dienstreglement, bedoeld in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md). 
+Voorschriften betreffende bijzondere voertuigen worden opgenomen in het dienstreglement, bedoeld in artikel 6 van de Spoorwegwet. 
 
 ### Hoofdstuk  V  
 
@@ -780,7 +780,7 @@ Voorschriften betreffende bijzondere voertuigen worden opgenomen in het dienstre
 
 ####Maatregelen in verband met ongevallen en andere onregelmatigheden
 
-1.  In het dienstreglement, bedoeld in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md), worden voorschriften opgenomen betreffende de te nemen maatregelen, indien:  
+1.  In het dienstreglement, bedoeld in artikel 6 van de Spoorwegwet, worden voorschriften opgenomen betreffende de te nemen maatregelen, indien:  
 
 a. een trein ten gevolge van een onregelmatigheid tot stilstand is gekomen en zijn rit niet kan vervolgen;  
 
@@ -862,7 +862,7 @@ c. voldoende bewijzen heeft gegeven van praktische en theoretische bekwaamheid d
 
 ####Bepalingen tot bevordering van de zorgvuldige uitoefening van de dienst
 
-1.  De directie draagt zorg dat het personeel, voor zover zijn dienst dit vordert, de beschikking heeft over de nodige gedeelten van dit reglement en van het in [artikel 6 van de Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement, alsmede de nodige gegevens betreffende de dienstregeling.   
+1.  De directie draagt zorg dat het personeel, voor zover zijn dienst dit vordert, de beschikking heeft over de nodige gedeelten van dit reglement en van het in artikel 6 van de Spoorwegwet bedoelde dienstreglement, alsmede de nodige gegevens betreffende de dienstregeling.   
 2.   Noch aan het personeel dat dienst doet op belangrijke posten die dienen voor de verzekering van het veilig verkeer op de spoorweg, noch aan metrobestuurders en machinisten gedurende de rit van de treinen waarop zij dienst doen, wordt iets opgedragen of toegestaan waardoor hun aandacht zou kunnen worden afgeleid. Indien de directie aan het personeel aanwijzingen geeft ter voorkoming dat de aandacht van de opgedragen werkzaamheden wordt afgeleid is dat personeel verplicht deze aanwijzingen op te volgen.  
 
 ### Artikel  72  
@@ -883,7 +883,7 @@ c. het personeel tewerkgesteld op posten ten dienste van de veiligheid van de tr
 ####Wijze van beëdiging
 
 1.  De eed (belofte) wordt afgelegd ten overstaan van een kantonrechter van de rechtbank.   
-2.   Ieder legt de eed (belofte) als volgt af. Ik zweer (beloof), dat ik alle plichten die mij door of krachtens de [Spoorwegwet](../../../wet/spoorwegwet/BWBR0001848/README.md) en door of krachtens de [Locaalspoor- en Tramwegwet](../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) zijn of zullen worden opgelegd, eerlijk en naar behoren zal vervullen. Zo waarlijk helpe mij God almachtig (Dat beloof ik).  
+2.   Ieder legt de eed (belofte) als volgt af. Ik zweer (beloof), dat ik alle plichten die mij door of krachtens de Spoorwegwet en door of krachtens de Locaalspoor- en Tramwegwet zijn of zullen worden opgelegd, eerlijk en naar behoren zal vervullen. Zo waarlijk helpe mij God almachtig (Dat beloof ik).  
 
 ### Artikel  74  
 

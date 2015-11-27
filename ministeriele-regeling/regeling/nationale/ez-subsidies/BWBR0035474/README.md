@@ -5372,7 +5372,7 @@ b. bijdragen van de Europese Commissie op grond van:
 
 5°.  Richtlijn 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (Pb EG 2003/L275),  
 
-6°.  Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening),  
+6° Verordening (EG) nr. 1234 /2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening) en Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347),  
 
 7°. Het Europees Fonds voor Regionale Ontwikkeling,  
 

@@ -434,7 +434,7 @@ Het in artikel 26, vierde lid, van Verordening 2799/1999 bedoelde bericht wordt 
 
 ### Artikel  55  
 
-1.  Aan degenen die mageremelkpoeder of ondermelk verwerken of doen verwerken tot mengvoeder dan wel magere melkpoeder voor veevoederdoeleinden denatureren of doen denatureren verleent de minister op aanvraag op grond van artikel 99 van Verordening 1234/2007 ter zake van die denaturatie of verwerking steun indien is gebleken dat is voldaan aan de voorwaarden die dienaangaande in Verordening 2799/1999 zijn gesteld.   
+1.  Aan degenen die mageremelkpoeder of ondermelk verwerken of doen verwerken tot mengvoeder dan wel magere melkpoeder voor veevoederdoeleinden denatureren of doen denatureren verleent de minister op aanvraag ter zake van die denaturatie of verwerking steun indien is gebleken dat is voldaan aan de voorwaarden die dienaangaande in Verordening 2799/1999 zijn gesteld.   
 2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij de minister.  
 
 ### Artikel  56  

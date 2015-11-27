@@ -23,6 +23,8 @@ risicogetal: een volgens een door de Gezondheidsraad opgestelde methode vastgest
 
 ultra low volume-formulering: een gewasbeschermingsmiddel in hooggeconcentreerde vorm, bestemd om in fijne druppelvorm te worden verspoten;
 
+verordening 284/2013: Verordening (EU) nr. 284/2013 van de Commissie van 1 maart 2013 tot vaststelling van de gegevensvereisten voor gewasbeschermingsmiddelen overeenkomstig Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad betreffende het op de markt brengen van gewasbeschermingsmiddelen (Pb EU 2013, L 93); 
+
 wet: Wet gewasbeschermingsmiddelen en biociden;
 
 ### Hoofdstuk  2  
@@ -131,7 +133,7 @@ Vervallen per 01-01-2010
 
 1.  Proeven en analysen als bedoeld in artikel 29, derde lid, van verordening (EG) 1107/2009, zijn erkend indien zij zijn uitgevoerd door een erkende instantie.   
 2.  De Minister van Economische Zaken kan op aanvraag een instantie waar proeven of analysen als bedoeld in artikel 29, derde lid, van verordening (EG) 1107/2009 worden uitgevoerd, erkennen.   
-3.  De beoordeling van de aanvraag vindt plaats aan de hand van de eisen, bedoeld in uitvoeringsverordening 545/2011, inleiding, onderdeel 2.2.  
+3.  De beoordeling van een aanvraag vindt plaats aan de hand van de eisen, bedoeld in punten 3.2 tot en met 3.4.2. van punt 3 Goede Laboratoriumpraktijken (GLP), van de inleiding van de bijlage bij verordening 284/2013.  
 
 ### Artikel  4.3  
 
@@ -188,7 +190,7 @@ Als vergoeding van de kosten voor de behandeling van een aanvraag tot erkenning 
 
 1.  Een instantie, die proeven en experimenten wil doen overeenkomstig artikel 4.6, eerste lid, wordt voor dat doel erkend indien in voldoende mate is gebleken dat aan de volgende voorwaarden zal worden voldaan: 
 
-a. de instantie voldoet aan de voorwaarden van uitvoeringsverordening 545/2011, inleiding, onderdeel 2.2 of zij is erkend overeenkomstig artikel 4.1, tweede lid;  
+a. de instantie voldoet aan de eisen bedoeld in punten 3.2 tot en met 3.4.2. van punt 3 Goede Laboratoriumpraktijken (GLP), van de inleiding van de bijlage bij verordening 284/2013 of zij is erkend overeenkomstig artikel 4.1, tweede lid;  
 
 b. de instantie treft bij de uitvoering van proeven en experimenten de noodzakelijke voorzorgsmaatregelen, die mogelijk schadelijke gevolgen voor de gezondheid van mens en dier, voor het milieu of voor andere gewassen voorkomen;  
 
@@ -306,7 +308,7 @@ a. een certificaat gewasbescherming C of een diploma dat mede dat certificaat om
 b. een certificaat gewasbescherming C als bedoeld artikel 1, onderdeel c, van de Regeling certificaten groen beroepsonderwijs, of een diploma dat mede dat certificaat omvat en dat voldoet aan de op grond van artikelen 7.2.4 en 7.2.6 van de Wet educatie en beroepsonderwijs vastgestelde kwalificaties en beroepsvereisten.     
 6.  Het bewijs van vakbekwaamheid Mollen- en Woelrattenbestrijding wordt verstrekt aan de persoon die beschikt over een certificaat gewasbescherming MW of een diploma dat mede dat certificaat omvat, dat voldoet aan de op grond van de artikelen 7.2.4.en 7.2.6. van de Wet educatie en beroepsonderwijs vastgestelde kwalificaties en beroepsvereisten.   
 7.  Het bewijs van vakbekwaamheid op basis van een Veiligheidsinstructie Gewasbescherming, bedoeld in artikel 6.3a, wordt verstrekt aan de persoon die een instructie op de werkplek heeft gevolgd als bedoeld in artikel 17, eerste lid, onderdeel c, van het besluit, welke instructie is erkend door Bureau Erkenningen van de AOC-raad.   
-8.  Een bewijs van vakbekwaamheid als bedoeld in het derde tot en met vijfde lid, wordt ambtshalve verlengd indien voldoende nascholingsbijeenkomsten zijn bijgewoond, die zijn erkend door Bureau Erkenningen van de AOC-raad, of opnieuw met goed gevolg een examen is afgelegd dat recht geeft op een certificaat als bedoeld in het derde tot en met vijfde lid.  
+8.  Een bewijs van vakbekwaamheid als bedoeld in het derde tot en met zesde lid, wordt ambtshalve verlengd indien voldoende nascholingsbijeenkomsten zijn bijgewoond, die zijn erkend door Bureau Erkenningen van de AOC-raad, of opnieuw met goed gevolg een examen is afgelegd dat recht geeft op een certificaat als bedoeld in het derde tot en met zesde lid.  
 
 ### Artikel  6.3a  
 
@@ -336,7 +338,7 @@ j. insmeren van stammen met middelen op basis van kwartszand voor wildafweer in 
 
 k. het vullen van bewaarbakken voor na de oogst van snijbloemen met een gebruiksklare oplossing naoogst toedienen van houdbaarheidsmiddelen aan bewaarbakken met snijbloemen m.u.v. middelen met gevaarsymbool Xn schadelijk, voor zover de oplossing is bereid door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;  
 
-l. het poten van aardappels met een trekker en aardappelpootmachine waarbij via poederdoseerapparatuur middel(en) op basis van pencycuron worden toegediend tegen Rhizoctonia, voor zover de poederdoseerapparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;  
+l. het poten van aardappels met een trekker en aardappelpootmachine waarbij via poederdoseerapparatuur middel(en) op basis van pencycuron of flutolanil worden toegediend tegen Rhizoctonia, voor zover de poederdoseerapparatuur is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid;  
 
 m. het bedienen van een machine voor fytodrip in uitgangsmateriaal, voor zover de machine is gevuld door een andere persoon die beschikt over een bewijs van vakbekwaamheid Uitvoeren of Bedrijfsvoeren gewasbescherming als bedoeld in artikel 6.3, derde en vierde lid.    
 2.  Bureau Erkenningen van de AOC-raad erkent een instructie, bedoeld in artikel 17, eerste lid, onderdeel c, van het besluit, indien zij ten minste voorlichting geeft over: 
@@ -499,9 +501,9 @@ f. de afschriften van overeenkomsten als bedoeld in artikel 7.1, eerste lid.
 
 ### Artikel  8.1  
 
-####Vrijstelling gewasbeschermingsplan
+####Vrijstelling gewasbeschermingsmonitor
 
-Degene die de biologische productiemethode als bedoeld in artikel 2 van het Landbouwkwaliteitsbesluit 2007 toepast, is vrijgesteld van de verplichting over een gewasbeschermingsplan als bedoeld in artikel 26, eerste lid, van het besluit te beschikken. 
+Degene die de biologische productiemethode als bedoeld in artikel 2 van het Landbouwkwaliteitsbesluit 2007 toepast, is vrijgesteld van de verplichting over een gewasbeschermingsmonitor als bedoeld in artikel 26, eerste lid, van het besluit te beschikken. 
 
 ### §  2  
 
@@ -548,9 +550,9 @@ e. het voorgenomen moment van toepassing,
 
 f. een op een kaart die voldoet aan de door de Minister van Economische Zaken gestelde eisen, op schaal weergegeven aanduiding van het te behandelen perceel of perceelsgedeelte, het te behandelen areaal in m<sup>2</sup> en voor zover van toepassing: 
 
-– een verklaring van het Hoofdproductschap akkerbouw dat knolcyperus (Cyperus esculentus L.) op het perceel is aangetoond,  
+– een verklaring van de Minister van Economische Zaken dat knolcyperus (Cyperus esculentus L.) op het perceel is aangetoond,  
 
-– een verklaring van de directeur van de Minister van Economische Zaken dat het stengelaaltje (Ditylenchus dipsaci (Kühn) Filipjev) op het perceel is aangetoond, of  
+– een verklaring van de Minister van Economische Zaken dat het stengelaaltje (Ditylenchus dipsaci (Kühn) Filipjev) op het perceel is aangetoond, of  
 
 – de datum van een besluit als bedoeld in artikel 32, derde lid, onderdelen a tot en met c, van het besluit.       
 3.  De Minister van Economische Zaken geeft binnen twee weken na de melding een ontvangstbewijs af.   
@@ -610,7 +612,16 @@ b. indien geen advies aan het College voor de toelating van gewasbeschermingsmid
 ####Keuring van gewasbeschermingsapparatuur
 
 1.  Een keuringsbewijs als bedoeld in artikel 32b van het Besluit gewasbeschermingsmiddelen en biociden heeft een geldigheid van drie jaren na de datum van afgifte.   
-2.  In afwijking van het eerste lid heeft een keuringsbewijs voor laagvolume spuitapparatuur een geldigheid van zes jaren na de datum van afgifte.  
+2.  In afwijking van het eerste lid heeft een keuringsbewijs voor laagvolume spuitapparatuur een geldigheid van zes jaren na de datum van afgifte.   
+3.  Apparatuur wordt uiterlijk iedere drie jaar gekeurd en voor het eerst uiterlijk: 
+
+a. op 31 december 2015 voor apparatuur van het bouwjaar 1996 tot en met 2000;  
+
+b. op 14 december 2016 voor apparatuur van het bouwjaar 2001 tot en met 2013;  
+
+c. drie jaar na de aankoopdatum voor apparatuur met een bouwjaar na 2013.     
+4.  In afwijking van de drie jaar bedoeld in het derde lid wordt laagvolume spuitapparatuur uiterlijk iedere zes jaar gekeurd.   
+5.  Op handapparatuur voor de toepassing van gewasbeschermingsmiddelen en rugspuiten is de keuring als bedoeld in artikel 32b van het Besluit gewasbeschermingsmiddelen en biociden niet van toepassing. 
 
 ### Hoofdstuk  9  
 
@@ -1233,8 +1244,8 @@ Naam en toelatingsnummer gebruikte middel: ….. , N Naam, adres en telefoonnumm
 | 29.  | 74, 2<sup>e</sup> lid, wet en artikelen 7.1, 7.3a, b en c Rgb  | Geen administratie voeren of een ondeugdelijke administratie voeren in de in artikel 74, tweede lid bedoelde situatie  | 500  | 250  | Nvt  |
 | 30.  | 74, 2<sup>e</sup> lid, wet en 7.3d, 2<sup>e</sup> lid, Rgb  | Zonder papieren niet-toegelaten middelen vervoeren  | 500  | nvt  | nvt  |
 | 31.  | 75, 1<sup>e</sup> lid, onderdeel c, wet en 7.3d, 1e lid, Rgb  | Niet in Nederland toegelaten middelen niet apart opslaan van toegelaten middelen  | 500  | 250  | nvt  |
-| 32.  | 78, 2<sup>e</sup> lid, wet en 26, 1<sup>e</sup> lid Bgb  | Geen deugdelijk gewasbeschermingsplan hebben  | nvt  | 500  | nvt  |
-| 33.  | 78, 2<sup>e</sup> lid, wet, en 27, 1<sup>e</sup> lid, Bgb  | Gewasbeschermingsplan is niet op eerste verzoek te tonen  | nvt  | 50  | nvt  |
+| 32.  | 78, 2<sup>e</sup> lid, wet en 26, 1<sup>e</sup> lid Bgb  | Geen deugdelijke gewasbeschermingsmonitor bijhouden en afronden na de teelt  | nvt  | 500  | nvt  |
+| 33.  | 78, 2<sup>e</sup> lid, wet, en 27, 1<sup>e</sup> lid, Bgb  | Gewasbeschermingsmonitor is niet op eerste verzoek te tonen  | nvt  | 50  | nvt  |
 | 34.  | 79 wet  | Overtreding van een bij of krachtens amvb gesteld voorschrift over de uitvoering van goede praktijken bij het toepassen van een gewasbeschermingsmiddel  | nvt  | 500  | nvt  |
 | 35.  | 80,1<sup>e</sup> lid, wet en 27a Bgb  | Nabij oppervlaktewater of beschermingszones prioritair gevaarlijke stoffen gebruiken  | nvt  | 1.000  | 500  |
 | 36.  | 80,1<sup>e</sup> lid, wet en 27b Bgb  | Gewasbeschermingsmiddelen niet minimaal gebruiken op of langs verhardingen of nabij oppervlaktewater of grondwater of waar kans op afspoeling bestaat  | nvt  | 1.000  | 500  |
@@ -1294,6 +1305,7 @@ Naam en toelatingsnummer gebruikte middel: ….. , N Naam, adres en telefoonnumm
 | 85  | 87, zesde lid, van de wet  | In strijd met een gegeven aanwijzing of bevel handelen of nalaten.  | 2.000  | 2.000  | 1.500  | 1.500  | 1.000  | 250  |
 | 86  | 115 van de wet  | Overtreding van een voorschrift van een algemeen verbindend verklaarde overeenkomst.  | 2.000  | 2.000  | 1.500  | 1.500  | 1.000  | 250  |
 | 87  | 118 van de wet  | Overtreding van een vanwege communautaire wetgeving of besluiten gesteld voorschrift, voor zover niet reeds voorzien in de hierboven genoemde gevallen.  | 1.500  | 1.500  | 1.000  | 1.000  | 500  | 250  |
+| 88  | 75, eerste lid, van de wet en 25c van het besluit  | Biociden niet uitsluitend leveren aan de in de toelating aangegeven gebruikers of hun personeel  | 1.000  | 1.000  | nvt  | nvt  | nvt  | nvt  |
 
 ### Bijlage XIV 
 

@@ -19,11 +19,6 @@ b.*wegen* alle openbare wegen met al hetgeen daartoe behoort, met uitzondering v
 
 c.*concessionaris* hij, die voorzien is van eene concessie, als bedoeld bij letter *a*.
 
-### Artikel  1a  
-Treedt in werking per 01-12-2015 
-
-Deze wet is niet van toepassing op lokale spoorwegen, aangewezen van de krachtens artikel 2, eerste lid, van de Wet lokaal spoor. 
-
 ### Artikel  2  
 
 1.  Gedeputeerde Staten beschikken op verzoeken om vergunning tot aanleg en instandhouding of tot instandhouding van een spoorweg op wegen in hunne provincie.   

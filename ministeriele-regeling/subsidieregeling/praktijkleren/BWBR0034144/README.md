@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 oktober 2013, nr. WJZ/560472 (10352), houdende regels voor subsidieverstrekking ter stimulering van praktijkleren en het verrichten van onderzoek (Subsidieregeling praktijkleren)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 2.7 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de [artikelen 4](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [10 van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op artikel 2.7 van de Wet educatie en beroepsonderwijs en de artikelen 4 en 10 van de Wet overige OCW-subsidies;
 Besluit:     
 ### §  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *beroepsopleiding:* beroepsopleiding als bedoeld in [artikel 7.1.2, tweede lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a.  *beroepsopleiding:* beroepsopleiding als bedoeld in artikel 7.1.2, tweede lid, van de WEB;  
 
 b.  *deelnemer:* natuurlijke persoon die een beroepsopleiding volgt;  
 
@@ -23,43 +23,43 @@ c.  *gerealiseerde praktijkleerplaats:* het aantal weken dat tijdens de praktijk
 
 d.  *gerealiseerde werkleerplaats:* het aantal maanden in een studiejaar dat een promovendus zijn onderzoek verricht of een technologisch ontwerper in opleiding staat ingeschreven bij een universiteit voor zijn opleiding, gedeeld door twaalf en vermenigvuldigd met de totale arbeidsduur van de promovendus of technologisch ontwerper in opleiding in uren per week tot ten hoogste 36 uur gedeeld door 36;  
 
-e.  *KNAW:* Koninklijke Nederlandse Akademie voor Wetenschappen, bedoeld in [artikel 1.5, eerste lid, van de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+e.  *KNAW:* Koninklijke Nederlandse Akademie voor Wetenschappen, bedoeld in artikel 1.5, eerste lid, van de WHW;  
 
-f.  *leerling:* leerling als bedoeld in de [WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+f.  *leerling:* leerling als bedoeld in de WVO;  
 
 g.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-h.  *NWO:* Nederlandse organisatie voor wetenschappelijk onderzoek, bedoeld in [artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](../../../../wet/wet/op/de/nederlandse/organisatie/voor/wetenschappelijk/onderzoek/BWBR0004191/README.md);  
+h.  *NWO:* Nederlandse organisatie voor wetenschappelijk onderzoek, bedoeld in artikel 2 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek;  
 
-i.  *praktijkleerovereenkomst:* overeenkomst als bedoeld in [artikel 7.2.8 van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [artikel 7.7, vijfde lid, van de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of [artikel 10b3 van de WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+i.  *praktijkleerovereenkomst:* overeenkomst als bedoeld in artikel 7.2.8 van de WEB, artikel 7.7, vijfde lid, van de WHW of artikel 10b3 van de WVO;  
 
 j.  *praktijkleerplaats:* tijdsduur gedurende welk een bedrijf of organisatie onderricht in de praktijk van het beroep voor een leerling, deelnemer of student verzorgt op grond van een praktijkleerovereenkomst;  
 
-k.  *promovendus:* natuurlijke persoon die een onderzoek verricht gericht op promotie als bedoeld in [artikel 7.18 WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+k.  *promovendus:* natuurlijke persoon die een onderzoek verricht gericht op promotie als bedoeld in artikel 7.18 WHW;  
 
-l.  *student:* natuurlijke persoon die een opleiding volgt in het hoger beroepsonderwijs als bedoeld in de [WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+l.  *student:* natuurlijke persoon die een opleiding volgt in het hoger beroepsonderwijs als bedoeld in de WHW;  
 
 m.  *studiejaar:* tijdvak dat aanvangt op 1 augustus van een kalenderjaar en eindigt op 31 juli van het daaropvolgende kalenderjaar voor zover het een beroepsopleiding of het voortgezet onderwijs betreft of tijdvak dat aanvangt op 1 september van een kalenderjaar en eindigt op 31 augustus van het daaropvolgende kalenderjaar voor zover het een opleiding in het hoger beroepsonderwijs of een promovendus of technologisch ontwerper in opleiding betreft;  
 
 n.  *technologisch ontwerper in opleiding:* natuurlijk persoon die staat ingeschreven bij een universiteit voor de opleiding gericht op de titel PDEng;  
 
-o.  *universiteit:* bekostigde universiteit als bedoeld in de onderdelen a en b, van de [bijlage bij de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+o.  *universiteit:* bekostigde universiteit als bedoeld in de onderdelen a en b, van de bijlage bij de WHW;  
 
-p.  *WEB:* [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+p.  *WEB:* Wet educatie en beroepsonderwijs;  
 
 q.  *werkgever:* bedrijf of organisatie die de praktijkleerplaats of werkleerplaats verzorgt en omschreven als bedoeld in artikel 4, tweede lid, 6, tweede lid, 8, tweede lid, onderscheidenlijk 10, tweede lid;  
 
 r.  *werkleerplaats:* tijdsduur gedurende welke een promovendus aan een universiteit of instituut van de KNAW of NWO zijn onderzoek verricht of welke een technologisch ontwerper in opleiding zijn opleiding volgt;  
 
-s.  *WHW:* [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+s.  *WHW:* Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-t.  *WVO:* [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+t.  *WVO:* Wet op het voortgezet onderwijs.   
 
 ### Artikel  2  
 
-####Toepassing [Regeling OCW-subsidies](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md)
+####Toepassing Regeling OCW-subsidies
 
-De [artikelen 4](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) en [6a](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) en [hoofdstuk 4 van de Regeling OCW-subsidies](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) zijn niet van toepassing op subsidieverstrekking op grond van deze regeling. 
+De artikelen 4 en 6a en hoofdstuk 4 van de Regeling OCW-subsidies zijn niet van toepassing op subsidieverstrekking op grond van deze regeling. 
 
 ### Artikel  3  
 
@@ -72,8 +72,9 @@ De [artikelen 4](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR00
 
 ####Subsidie voor praktijkleerplaatsen in het mbo
 
-1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een deelnemer in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder b, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
-2.  Onder werkgever wordt in dit artikel verstaan het bedrijf dat of de organisatie die het onderricht in de praktijk van het beroep voor de deelnemer verzorgt.  
+1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een deelnemer in het kader van een beroepsopleiding voor zover het betreft de beroepsbegeleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, van de WEB.   
+2.  Onder werkgever wordt in dit artikel verstaan het bedrijf dat of de organisatie die het onderricht in de praktijk van het beroep voor de deelnemer verzorgt.   
+3.  Voor de toepassing van het Besluit experiment beroepsopleiding gecombineerde leerwegen bol-bbl wordt onder beroepsbegeleidende leerweg, bedoeld in het eerste lid, verstaan studiejaar bbl. 
 
 ### Artikel  5  
 
@@ -81,9 +82,9 @@ De [artikelen 4](../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR00
 
 Subsidie op grond van artikel 4 wordt slechts verstrekt voor zover: 
 
-a. de deelnemer gedurende het desbetreffende studiejaar of een deel daarvan een beroepsopleiding heeft gevolgd die gericht is op het behalen van een kwalificatie die is opgenomen in het Centraal register beroepsonderwijs, bedoeld in [artikel 6.4.1 van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. de deelnemer gedurende het desbetreffende studiejaar of een deel daarvan een beroepsopleiding heeft gevolgd die gericht is op het behalen van een kwalificatie die is opgenomen in het Centraal register beroepsonderwijs, bedoeld in artikel 6.4.1 van de WEB;  
 
-b. het onderwijsprogramma van de beroepsopleiding, bedoeld onder a, aan de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming voldoet als bedoeld in [artikel 7.2.7, vierde lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. het onderwijsprogramma van de beroepsopleiding, bedoeld onder a, aan de eisen met betrekking tot voldoende begeleide onderwijsuren en uren beroepspraktijkvorming voldoet als bedoeld in artikel 7.2.7, vierde lid, van de WEB;  
 
 c. de verzorging van het onderricht in de praktijk van het beroep voor de deelnemer door de werkgever plaats heeft gevonden op grond van en overeenkomstig een praktijkleerovereenkomst;  
 
@@ -95,7 +96,7 @@ e. de werkgever beschikt over een administratie waaruit de begeleiding van de de
 
 ####Subsidie voor praktijkleerplaatsen in het hbo
 
-1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een student in het kader van een duale opleiding in het hoger beroepsonderwijs als bedoeld in [artikel 7.7, tweede lid, van de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) of een deeltijdse opleiding in het hoger beroepsonderwijs waarbij de beroepsuitoefening een verplicht onderdeel vormt van de opleiding.   
+1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een student in het kader van een duale opleiding in het hoger beroepsonderwijs als bedoeld in artikel 7.7, tweede lid, van de WHW of een deeltijdse opleiding in het hoger beroepsonderwijs waarbij de beroepsuitoefening een verplicht onderdeel vormt van de opleiding.   
 2.  Onder werkgever wordt in dit artikel verstaan een in Nederland gevestigd bedrijf dat of organisatie die het onderricht in de beroepsuitoefening voor de student verzorgt.  
 
 ### Artikel  7  
@@ -104,7 +105,7 @@ e. de werkgever beschikt over een administratie waaruit de begeleiding van de de
 
 Subsidie op grond van artikel 6 wordt slechts verstrekt voor zover: 
 
-a. de student gedurende het desbetreffende studiejaar een opleiding in het hoger beroepsonderwijs heeft gevolgd waarvoor op grond van [artikel 5a.9 van de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) accreditatie is verleend en de opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in [artikel 6.13 van die wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), en de code van de opleiding is opgenomen in de onderdelen techniek of landbouw en natuurlijke omgeving;  
+a. de student gedurende het desbetreffende studiejaar een opleiding in het hoger beroepsonderwijs heeft gevolgd waarvoor op grond van artikel 5a.9 van de WHW accreditatie is verleend en de opleiding is opgenomen in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13 van die wet, en de code van de opleiding is opgenomen in de onderdelen techniek of landbouw en natuurlijke omgeving;  
 
 b. de verzorging van het onderricht in de praktijk van het beroep voor de student door de werkgever plaats heeft gevonden op grond van en overeenkomstig een praktijkleerovereenkomst;  
 
@@ -117,7 +118,7 @@ d. de werkgever beschikt over een administratie waaruit de begeleiding van de st
 ####Subsidie voor werkleerplaatsen voor promovendi en technologisch ontwerpers in opleiding
 
 1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde werkleerplaats voor een promovendus of technologisch ontwerper in opleiding.   
-2.  Onder werkgever wordt in dit artikel verstaan een privaatrechtelijke rechtspersoon, met uitzondering van de bijzondere universiteiten of de daaraan verbonden academische ziekenhuizen genoemd in de [bijlage bij de WHW](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) en de privaatrechtelijke onderzoeksorganisaties.  
+2.  Onder werkgever wordt in dit artikel verstaan een privaatrechtelijke rechtspersoon, met uitzondering van de bijzondere universiteiten of de daaraan verbonden academische ziekenhuizen genoemd in de bijlage bij de WHW en de privaatrechtelijke onderzoeksorganisaties.  
 
 ### Artikel  9  
 
@@ -159,8 +160,8 @@ b. de naam en het adres van de werkgever, de universiteit en de technologisch on
 
 ####Subsidie voor praktijkleerplaatsen in het vmbo
 
-1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een leerling in het kader van een leer-werktraject in het voortgezet onderwijs als bedoeld in [artikel 10b1 van de WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
-2.  Onder werkgever wordt in dit artikel verstaan het bedrijf dat of de organisatie die de begeleiding van de leerling verzorgt als bedoeld in [artikel 10b4 van de WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+1.  De minister kan subsidie verstrekken aan een werkgever voor een gerealiseerde praktijkleerplaats voor een leerling in het kader van een leer-werktraject in het voortgezet onderwijs als bedoeld in artikel 10b1 van de WVO.   
+2.  Onder werkgever wordt in dit artikel verstaan het bedrijf dat of de organisatie die de begeleiding van de leerling verzorgt als bedoeld in artikel 10b4 van de WVO.  
 
 ### Artikel  11  
 
@@ -168,9 +169,9 @@ b. de naam en het adres van de werkgever, de universiteit en de technologisch on
 
 Subsidie op grond van artikel 10 wordt slechts verstrekt voor zover: 
 
-a. de leerling een basisberoepsgerichte leerweg in het voortgezet onderwijs volgt die is ingericht als leer-werktraject als bedoeld in [artikel 10b1 van de WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en dat specifiek is gericht op het behalen van een startkwalificatie op het niveau van de basisberoepsopleiding, bedoeld in [artikel 7.2.2, eerste lid, onder b, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. de leerling een basisberoepsgerichte leerweg in het voortgezet onderwijs volgt die is ingericht als leer-werktraject als bedoeld in artikel 10b1 van de WVO en dat specifiek is gericht op het behalen van een startkwalificatie op het niveau van de basisberoepsopleiding, bedoeld in artikel 7.2.2, eerste lid, onder b, van de WEB;  
 
-b. het praktijkgedeelte van het leer-werktraject voldoet aan het aantal klokuren, bedoeld in [artikel 10b1, eerste lid, van de WVO](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. het praktijkgedeelte van het leer-werktraject voldoet aan het aantal klokuren, bedoeld in artikel 10b1, eerste lid, van de WVO;  
 
 c. de verzorging van het onderricht in de praktijk van het beroep voor de leerling door de werkgever plaats heeft gevonden op grond van en overeenkomstig een praktijkleerovereenkomst;  
 
@@ -227,9 +228,9 @@ Een werkgever als bedoeld in artikel 4, 6, 8 of 10 kan een aanvraag voor subsidi
 
 ####Aanvraagtermijn
 
-1.  Een aanvraag voor subsidie wordt ingediend voor 17:00 uur op 15 september na het studiejaar waarvoor subsidie wordt gevraagd. Aanvragen die later worden ontvangen worden niet in behandeling genomen.   
+1.  Een aanvraag voor subsidie wordt ingediend uiterlijk om 17:00 uur op 15 september na het studiejaar waarvoor subsidie wordt gevraagd. Aanvragen die later worden ontvangen worden afgewezen.   
 2.  In geval het indienen van een aanvraag op of kort voor de sluitingsdatum van een aanvraagronde langere tijd niet mogelijk is door een calamiteit aan de kant van het elektronisch loket, bedoeld in artikel 18, kan de minister met inachtneming van een redelijke termijn een nieuw tijdstip voor uiterste indiening van een aanvraag bepalen.   
-3.  Indien een aanvraag onvolledig is en de aanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld zijn aanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de aanvullende informatie is ontvangen.  
+3.  Indien een aanvraag onvolledig is en de aanvrager op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld zijn aanvraag aan te vullen, geldt als datum van ontvangst de datum waarop de aanvullende informatie is ontvangen.  
 
 ### Artikel  18  
 
@@ -252,7 +253,7 @@ Een subsidieaanvraag wordt elektronisch ingediend via de website www.agentschapn
 
 ####Weigeringsgronden
 
-Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de subsidieverstrekking geweigerd voor zover door verstrekking van de subsidie: 
+Onverminderd artikel 4:35 van de Algemene wet bestuursrecht wordt de subsidieverstrekking geweigerd voor zover door verstrekking van de subsidie: 
 
 a. aan de werkgever voor de deelnemer of student voor meer volledige gerealiseerde praktijkleerplaatsen subsidie zou worden verstrekt dan de duur van de opleiding van de deelnemer of student in studiejaren;  
 
@@ -316,9 +317,9 @@ Een aanvraag voor een verklaring wordt in ieder geval geweigerd indien de buiten
 
 ### Artikel  27  
 
-####Mandaatverlening directeur generaal Uitvoering Ministerie EZ
+####Mandaatverlening Algemeen directeur Rijksdienst voor Ondernemend Nederland Ministerie EZ
 
-Aan de directeur generaal Uitvoering van het Ministerie van Economische Zaken wordt mandaat verleend tot: 
+Aan de Algemeen directeur Rijksdienst voor Ondernemend Nederland van het Ministerie van Economische Zaken wordt mandaat verleend tot: 
 
 a. het nemen van besluiten namens de minister op grond van deze regeling, met uitzondering van paragraaf 4; en  
 
@@ -347,7 +348,7 @@ Onverminderd het toezicht door de Inspectie van het onderwijs worden de ambtenar
 1.  Voor de aanvragen in 2014 wordt in afwijking van artikel 1 onder studiejaar verstaan: tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 juli van dat jaar voor zover het een beroepsopleiding of het voortgezet onderwijs betreft of tijdvak dat aanvangt op 1 januari 2014 en eindigt op 31 augustus van dat jaar voor zover het een opleiding in het hoger beroepsonderwijs of een promovendus of technologisch ontwerper in opleiding betreft.   
 2.  Voor de aanvragen in 2014 wordt in afwijking van artikel 1 onder gerealiseerde praktijkleerplaats verstaan: het aantal weken dat tijdens de praktijkleerplaats daadwerkelijk onderricht in de praktijk van het beroep plaats vindt tot ten hoogste 23 weken per studiejaar gedeeld door 23 voor zover het een beroepsopleiding of het voortgezet onderwijs betreft, onderscheidenlijk tot ten hoogste 28 weken gedeeld door 28 voor zover het een opleiding in het hoger beroepsonderwijs betreft.   
 3.  Voor de aanvragen in 2014 wordt in afwijking van artikel 1 onder gerealiseerde werkleerplaats verstaan: het aantal maanden in een studiejaar dat een promovendus zijn onderzoek verricht of een technologisch ontwerper in opleiding staat ingeschreven bij een universiteit voor zijn opleiding, gedeeld door acht en vermenigvuldigd met de totale arbeidsduur van de promovendus of technologisch ontwerper in opleiding in uren per week tot ten hoogste 36 uur gedeeld door 36.   
-4.  Voor de aanvragen in 2014 wordt in artikel 5, onderdeel b, in plaats van [artikel 7.2.7, vierde lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) gelezen: [artikel 12.4a.2, eerste lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+4.  Voor de aanvragen in 2014 wordt in artikel 5, onderdeel b, in plaats van artikel 7.2.7, vierde lid, van de WEB gelezen: artikel 12.4a.2, eerste lid, van de WEB.  
 
 ### Artikel  31  
 
@@ -359,7 +360,7 @@ Onverminderd het toezicht door de Inspectie van het onderwijs worden de ambtenar
 4.  In afwijking van artikel 15 wordt per praktijkleerplaats die de volledige eerste dertien weken van het studiejaar omvat € 1.000 subsidie verstrekt. Bij een lager aantal weken begeleiding wordt het bedrag naar verhouding verlaagd.   
 5.  Bij de berekening van het subsidiebedrag per gerealiseerde praktijkleerplaats, bedoeld in artikel 15, voor het studiejaar 2014 wordt het totaal beschikbare budget, bedoeld in artikel 14, eerste lid, onder a, niet verlaagd met de op grond van dit artikel verstrekte middelen.   
 6.  Na de berekening van het subsidiebedrag per gerealiseerde praktijkleerplaats voor het studiejaar 2014 wordt de te verstrekken subsidie aan een opleidingsbedrijf verlaagd met het subsidiebedrag dat het opleidingsbedrijf op grond van dit artikel heeft ontvangen.   
-7.  Onder opleidingsbedrijf wordt in dit artikel verstaan: rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk die opgericht is met als doel het opleiden van vakbekwaam personeel voor bedrijven in de sectoren die vallen onder de opleidingsdomeinen, bedoeld in [artikel 2, eerste lid, onder a tot en met h, van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).  
+7.  Onder opleidingsbedrijf wordt in dit artikel verstaan: rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk die opgericht is met als doel het opleiden van vakbekwaam personeel voor bedrijven in de sectoren die vallen onder de opleidingsdomeinen, bedoeld in artikel 2, eerste lid, onder a tot en met h, van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012.  
 
 ### Artikel  32  
 
@@ -369,7 +370,7 @@ Artikel 5, onderdeel b, en artikel 30, vierde lid, zijn niet van toepassing op p
 
 ### Artikel  33  
 
-####Intrekken [Uitvoeringsregeling afdrachtvermindering onderwijs](../../../../ministeriele-regeling/uitvoeringsregeling/afdrachtvermindering/onderwijs/BWBR0031374/README.md)
+####Intrekken Uitvoeringsregeling afdrachtvermindering onderwijs
 
 Deze regeling wordt ingetrokken, maar de bepalingen over het indienen van een aanvraag voor een verklaring van een vergelijkbare buitenlandse opleiding zijn inhoudelijk overgenomen in paragraaf 4 van onderhavige regeling. 
 

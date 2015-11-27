@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 16 september 1976, nr. A-1/V 27470, Directoraat-Generaal van het Verkeer; 
 
-Gelet op de [artikelen 27](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [33 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md), op [artikel 4 van de Lokaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) en op artikel II van de Overgangsbepalingen van de wet van 13 juli 1907 (*Stb.* 193); 
+Gelet op de artikelen 27 en 33 van de Spoorwegwet, op artikel 4 van de Lokaalspoor- en Tramwegwet en op artikel II van de Overgangsbepalingen van de wet van 13 juli 1907 (*Stb.* 193); 
 
 De Raad van State gehoord (advies van 20 oktober 1976, nr. 27); 
 
@@ -30,11 +30,11 @@ In dit reglement wordt verstaan onder:
 
 a. de Minister: Onze Minister van Verkeer en Waterstaat;   
 
-b. ambtenaren belast met het toezicht: de ambtenaren, bedoeld in [artikel 10 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md);   
+b. ambtenaren belast met het toezicht: de ambtenaren, bedoeld in artikel 10 van de Spoorwegwet;   
 
-c. Directie: bestuurders van een spoorwegdienst als bedoeld in [artikel 9 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md);  
+c. Directie: bestuurders van een spoorwegdienst als bedoeld in artikel 9 van de Spoorwegwet;  
 
-d. personeel: hoofdbeambten, beambten en bedienden van een spoorwegdienst, als bedoeld in de [Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md);   
+d. personeel: hoofdbeambten, beambten en bedienden van een spoorwegdienst, als bedoeld in de Spoorwegwet;   
 
 e. chef van de trein: hij, die het bevel over een trein voert;   
 
@@ -78,13 +78,13 @@ x. overpad: overweg gelegen in een vrijliggend fietspad of voetpad;
 
 ij. nacht: de tijd tussen een half uur na zonsondergang en een half uur voor zonsopgang;  
 
-z. goedgekeurde hogesnelheidstrein: rollend materieel dat een subsysteem vormt als bedoeld in [hoofdstuk IIIA van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en waarvoor machtiging als bedoeld in [artikel 7 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) is verleend of dat met toestemming van de bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, in gebruik is genomen;  
+z. goedgekeurde hogesnelheidstrein: rollend materieel dat een subsysteem vormt als bedoeld in hoofdstuk IIIA van de Spoorwegwet en waarvoor machtiging als bedoeld in artikel 7 van de Spoorwegwet is verleend of dat met toestemming van de bevoegde autoriteiten van een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, in gebruik is genomen;  
 
-aa. hogesnelheidsinfrastructuur: infrastructuur die een subsysteem vormt als bedoeld in [hoofdstuk IIIA van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md);  
+aa. hogesnelheidsinfrastructuur: infrastructuur die een subsysteem vormt als bedoeld in hoofdstuk IIIA van de Spoorwegwet;  
 
-ab. RandstadRail: de ingevolge [artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) aangewezen locaalspoorweg Den Haag Centraal – Den Haag Laan van NOI – Zoetermeer, met de zijtak Leidschendam – Rotterdam;
+ab. RandstadRail: de ingevolge artikel 1, eerste lid, van de Locaalspoor- en Tramwegwet aangewezen locaalspoorweg Den Haag Centraal – Den Haag Laan van NOI – Zoetermeer, met de zijtak Leidschendam – Rotterdam;
 
-ac. plusregio: regio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md). 
+ac. plusregio: regio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen. 
 
 ### Artikel  3  
 
@@ -102,7 +102,7 @@ c. de spoorwegen, waarop geen ander vervoer plaats heeft dan personenvervoer bin
 
 ####Benaming hoofdspoorwegen en lokaalspoorwegen 
 
-De spoorwegen, waarop dit reglement van toepassing is en die niet ingevolge [artikel 1 van de Lokaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) als lokaalspoorwegen worden beschouwd of daarmede zijn gelijkgesteld, worden in dit reglement aangeduid als hoofdspoorwegen.  
+De spoorwegen, waarop dit reglement van toepassing is en die niet ingevolge artikel 1 van de Lokaalspoor- en Tramwegwet als lokaalspoorwegen worden beschouwd of daarmede zijn gelijkgesteld, worden in dit reglement aangeduid als hoofdspoorwegen.  
 
 ### Artikel  5  
 
@@ -121,7 +121,7 @@ De over de volle breedte van een bladzijde gedrukte bepalingen van dit reglement
 
 ####Ontheffingen en afwijkingen voor hoofd- en lokaalspoorwegen 
 
-1.  Voor spoorwegen of gedeelten daarvan die op openbare wegen zijn aangelegd, zijn de [artikelen 34](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [35 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) niet van toepassing.    
+1.  Voor spoorwegen of gedeelten daarvan die op openbare wegen zijn aangelegd, zijn de artikelen 34 en 35 van de Spoorwegwet niet van toepassing.    
 2.   Voor spoorwegen, uitsluitend bestemd voor het vervoer van goederen, kan de Minister ontheffen verlenen of afwijkingen toestaan van bepalingen van dit reglement.    
 3.   Voor spoorwegen, waar de hoogste toegelaten snelheid niet meer dan 40 km/h bedraagt, kan de Minister ontheffing verlenen of afwijkingen toestaan van de bepalingen van dit reglement.   
 
@@ -252,15 +252,15 @@ f. droge sloten, dammen of wallen tot afscheiding van bouwland, of bos-, duin- e
 
 1.  Overwegen kunnen worden beveiligd door:  
 
-a. verkeerslichten als bedoeld in [artikel 71 van het RVV 1990](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);   
+a. verkeerslichten als bedoeld in artikel 71 van het RVV 1990;   
 
-b. verkeerslichten als bedoeld in [artikel 71 van het RVV 1990](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) in combinatie met halve overwegbomen of sluitbomen;   
+b. verkeerslichten als bedoeld in artikel 71 van het RVV 1990 in combinatie met halve overwegbomen of sluitbomen;   
 
-c. verkeerslichten als bedoeld in de [artikelen 68](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [69](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) dan wel [74, van het RVV 1990](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), op overwegen waar de hoogste snelheid van het spoorwegverkeer niet meer dan 40 km/h bedraagt;   
+c. verkeerslichten als bedoeld in de artikelen 68, 69 dan wel 74, van het RVV 1990, op overwegen waar de hoogste snelheid van het spoorwegverkeer niet meer dan 40 km/h bedraagt;   
 
 d. hekken die zodanig zijn ingericht, dat zij niet naar de zijde van de spoorweg opengaan;   
 
-e. personeel dat een stopteken toont als bedoeld in [artikel 82, vierde lid, van het RVV 1990](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).      
+e. personeel dat een stopteken toont als bedoeld in artikel 82, vierde lid, van het RVV 1990.      
 2.   Bij overwegen en overgangen leidende naar spoorweggedeelten op de openbare weg kunnen met betrekking tot treinen, rangeerdelen en bijzondere voertuigen de volgende veiligheidsmaatregelen worden toegepast:  
 
 a. het geven van geluidssignalen;   
@@ -300,7 +300,7 @@ c. het tot stilstand brengen.
 
 ####Verkeerstekens bij overwegen 
 
-1.  Behoudens op baanvakken die niet regelmatig worden bereden, draagt de Directie zorg voor de plaatsing van Andreaskruisen volgens model J12 of J13 van [bijlage 1, behorende bij het RVV 1990](../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), met uitzondering van overwegen in niet voor het openbaar verkeer openstaande wegen die zijn voorzien van hekken als bedoeld in artikel 20, eerste lid, onderdeel *d* .    
+1.  Behoudens op baanvakken die niet regelmatig worden bereden, draagt de Directie zorg voor de plaatsing van Andreaskruisen volgens model J12 of J13 van bijlage 1, behorende bij het RVV 1990, met uitzondering van overwegen in niet voor het openbaar verkeer openstaande wegen die zijn voorzien van hekken als bedoeld in artikel 20, eerste lid, onderdeel *d* .    
 2.   De Minister kan voorschrijven, dat vóór een voor het openbaar verkeer openstaande overweg waarschuwingsborden worden geplaatst, en wel bij een overweg met sluitbomen of halve-overwegbomen een bord volgens model J10 en bij een andere overweg een bord volgens model J11 van bijlage I, behorende bij het Reglement verkeersregels en verkeerstekens 1990.    
 3.   De Minister kan tevens voorschrijven, dat vóór een voor het openbaar verkeer openstaande overweg, buiten de bebouwde kom gelegen in een weg met belangrijk verkeer, bakens volgens het bij ministeriële regeling vastgestelde model worden geplaatst.    
 4.   De Minister kan voorschrijven dat bij door hem aan te wijzen overwegen borden volgens model B7 van bijlage I, behorende bij het Reglement verkeersregels en verkeerstekens 1990 worden geplaatst alsmede zonodig stopstrepen worden aangebracht ten einde aan te geven dat het wegverkeer moet stoppen alvorens deze overwegen te passeren.   
@@ -345,13 +345,13 @@ d.   beweegbare bruggen  beveiligd door een daarvoor geplaatst bedienbaar of aut
 3.   De Directie kan ontheffing verlenen van het bepaalde in het eerste lid.    
 4.   De posten waar seinen, geplaatst ingevolge het bepaalde in het eerste lid, worden bediend, moeten zijn voorzien van toestellen waarmee een spreekverbinding tot stand kan worden gebracht met de naastliggende bewaakte posten waar een sein wordt bediend waarmee treinbewegingen kunnen worden toegelaten naar de eerstgenoemde posten.    
 5.   De Directie kan ontheffing verlenen van het bepaalde in het vierde lid.    
-6.   De Minister bepaalt, in voorkomend geval in afwijking van [artikel 12 van het Tramwegreglement](../../../../../../../KB/tramwegreglement/BWBR0001898/README.md), op welke wijze een kruising op gelijke hoogte met een spoor van een voor openbaar vervoer van personen opengestelde spoorweg, waarop dit reglement niet van toepassing is, beveiligd wordt; de Directie bepaalt dit ten aanzien van een kruising op gelijke hoogte met een niet voor openbaar vervoer van personen opengestelde spoorweg.   
+6.   De Minister bepaalt, in voorkomend geval in afwijking van artikel 12 van het Tramwegreglement, op welke wijze een kruising op gelijke hoogte met een spoor van een voor openbaar vervoer van personen opengestelde spoorweg, waarop dit reglement niet van toepassing is, beveiligd wordt; de Directie bepaalt dit ten aanzien van een kruising op gelijke hoogte met een niet voor openbaar vervoer van personen opengestelde spoorweg.   
 
 ### Artikel  27  
 
 ####Beschrijving en plaats van de seinen 
 
-1.  De beschrijving van de beelden, getoond door de in dit reglement bedoelde seinen, hun betekenis en voorzover daartoe aanleiding bestaat, voorschriften voor het gebruik mede in verband met de weersomstandigheden, worden opgenomen in een afzonderlijke afdeling van het in [artikel 6 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement, genaamd "Seinreglement".    
+1.  De beschrijving van de beelden, getoond door de in dit reglement bedoelde seinen, hun betekenis en voorzover daartoe aanleiding bestaat, voorschriften voor het gebruik mede in verband met de weersomstandigheden, worden opgenomen in een afzonderlijke afdeling van het in artikel 6 van de Spoorwegwet bedoelde dienstreglement, genaamd "Seinreglement".    
 2.   De plaats van de in deze afdeling bedoelde vaste seinen en, voorzover bedienbaar, de bedieningswijze worden omschreven in voorschriften, die aan de Minister worden toegezonden.   
 
 ### Artikel  28  
@@ -384,7 +384,7 @@ De Directie wijst de seinhuizen en de brugposten aan, waar de wachter aan nadere
 
 ####Automatische treinbeïnvloeding 
 
-1.  Baanvakken waarvoor een hoogste toegelaten snelheid van meer dan 100 km/h geldt, moeten zijn uitgerust met de apparatuur van een systeem van automatische treinbeïnvloeding dat ten minste voldoet aan door de Minister te stellen voorwaarden. De apparatuur van een systeem van automatische treinbeïnvloeding die is bestemd of mede is bestemd voor beïnvloeding van goedgekeurde hogesnelheidstreinen op hogesnelheidsinfrastructuur is in overeenstemming met de krachtens [hoofdstuk IIIA van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) toepasselijke voorschriften.   
+1.  Baanvakken waarvoor een hoogste toegelaten snelheid van meer dan 100 km/h geldt, moeten zijn uitgerust met de apparatuur van een systeem van automatische treinbeïnvloeding dat ten minste voldoet aan door de Minister te stellen voorwaarden. De apparatuur van een systeem van automatische treinbeïnvloeding die is bestemd of mede is bestemd voor beïnvloeding van goedgekeurde hogesnelheidstreinen op hogesnelheidsinfrastructuur is in overeenstemming met de krachtens hoofdstuk IIIA van de Spoorwegwet toepasselijke voorschriften.   
 2.   De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.    
 3.   De Minister kan voorschrijven, dat ook andere dan de in het eerste lid bedoelde baanvakken met de daar genoemde apparatuur worden uitgerust.   
 
@@ -646,7 +646,7 @@ c. de rijtuigen en het voor vervoer van personen bestemde gedeelte van de treins
 
 ####Goedgekeurde hogesnelheidstreinen
 
-1.  Goedgekeurde hogesnelheidstreinen zijn met inachtneming van [artikel 32f, derde lid, van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) hier te lande voor gebruik op hogesnelheidsinfrastructuur toegelaten en mogen worden gebruikt.    
+1.  Goedgekeurde hogesnelheidstreinen zijn met inachtneming van artikel 32f, derde lid, van de Spoorwegwet hier te lande voor gebruik op hogesnelheidsinfrastructuur toegelaten en mogen worden gebruikt.    
 2.  De artikelen 43 tot en met 46, 48, 49 en 50 zijn ten aanzien van goedgekeurde hoge-snelheidstreinen niet van toepassing.   
 3.  Voor gebruik van hogesnelheidsinfrastructuur door ander rollend materieel dan goedgekeurde hoge snelheidstreinen kunnen bij ministeriële regeling voorschriften die gelden voor goedgekeurde hogesnelheidstreinen, geheel of gedeeltelijk van toepassing worden verklaard.  
 
@@ -682,7 +682,7 @@ b. treinen naar of van spooraansluitingen;
 
 c. bijzondere treinen die niet ten dienste van het vervoer van reizigers zijn ingelegd;   
 
-d. bedrijfsstoringen.    De wijze waarop de treinen dan mogen worden vervoerd, wordt geregeld in een afzonderlijke afdeling van het in [artikel 6 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) bedoelde dienstreglement, genaamd "Trein- en Rangeerdienstreglement".    
+d. bedrijfsstoringen.    De wijze waarop de treinen dan mogen worden vervoerd, wordt geregeld in een afzonderlijke afdeling van het in artikel 6 van de Spoorwegwet bedoelde dienstreglement, genaamd "Trein- en Rangeerdienstreglement".    
 7.   Voor het rijden met andere dan de in artikel 33, vierde en vijfde lid, bedoelde krachtvoertuigen geeft de Directie bijzondere voorschriften.    
 8.   Niet medewerkende, onbemande krachtvoertuigen blijven bij de bepaling van het aantal krachtvoertuigen buiten beschouwing.   
 
@@ -1026,7 +1026,7 @@ c. voldoende bewijzen heeft gegeven van praktische en theoretische bekwaamheid d
 
 ####Bepalingen tot bevordering van de zorgvuldige uitoefening van de dienst 
 
-1.  De Directie draagt zorg, dat het personeel, voor zover de zorgvuldige uitoefening van zijn dienst dit vordert, te zijner beschikking heeft de nodige gedeelten van dit reglement, van het [ARV](../../../../../../../AMvB/algemeen/reglement/vervoer/BWBR0002548/README.md) en van het reglement, bedoeld in [artikel 6 van de Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md), alsmede de nodige gedeelten van de tijdtafel van de dienstregeling of een overzicht van de treinenloop ter plaatse waar het dienst doet.    
+1.  De Directie draagt zorg, dat het personeel, voor zover de zorgvuldige uitoefening van zijn dienst dit vordert, te zijner beschikking heeft de nodige gedeelten van dit reglement, van het ARV en van het reglement, bedoeld in artikel 6 van de Spoorwegwet, alsmede de nodige gedeelten van de tijdtafel van de dienstregeling of een overzicht van de treinenloop ter plaatse waar het dienst doet.    
 2.   Aan het personeel dat dienst doet op belangrijke posten die dienen voor de verzekering van het veilig verkeer op de spoorweg, noch aan machinisten gedurende de loop van de treinen waarop zij dienst doen, mag iets worden opgedragen of toegestaan waardoor hun aandacht zou kunnen worden afgeleid.   
 
 ### Artikel  77  

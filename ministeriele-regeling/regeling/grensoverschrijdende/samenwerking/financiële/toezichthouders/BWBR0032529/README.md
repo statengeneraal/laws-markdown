@@ -22,10 +22,13 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1a  
 
-De Nederlandsche Bank neemt bij de uitvoering van haar taak op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen in acht.  Tabel 1. Taakuitoefening Nederlandsche Bank 
+De Nederlandsche Bank neemt bij de uitvoering van haar taak op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen in acht.  Tabel 1a. Taakuitoefening Nederlandsche Bank 
 
 |--- | Relevante richtlijnbepalingen:  | Korte omschrijving:  |
 |:---|:---|:---|
+| *Banken*  | *Richtlijn depositogarantiestelsels:*  |
+| --- | art. 4, tiende en elfde lid  | Uitvoering periodieke stresstests depositogarantiestelsel en bescherming daarbij gebruikte informatie  |
+| --- | art. 19, tweede lid  | Informatievoorziening aan depositohouders over niet langer door het depositogarantiestelsel gegarandeerde deposito’s  |
 |  *Banken en beleggingsondernemingen*   |  *Richtlijn kapitaalvereisten*   |
 | art. 71, eerste en tweede lid  | Melding van inbreuken  |
 | art. 77, eerste tot en met derde lid  | Bevorderen van gebruik interne ratingbenadering  |
@@ -39,16 +42,67 @@ De Nederlandsche Bank neemt bij de uitvoering van haar taak op grond van de wet 
 | art. 137, tweede lid  | Bekendmaking contracyclische bufferpercentage  |
 | art. 143, eerste en tweede lid  | Openbaarmaking algemene informatie door toezichthouders  |
 | art. 144  | Openbaarmaking specifieke informatie door toezichthouders  |
+| *Richtlijn herstel en afwikkeling van banken en beleggingsondernemingen:*  |
+| art. 3, vierde lid  | Algemene samenwerkingsverplichting ten behoeve van afwikkeling  |
+| art. 3, zevende lid  | Rekening houden met mogelijke gevolgen van besluiten in andere lidstaten waar de entiteit actief is  |
+| art. 6, vierde lid  | Raadpleging van afwikkelingsautoriteit over herstelplan  |
+| art. 11, tweede lid  | Informatieverstrekking ten behoeve van het opstellen en uitvoeren van afwikkelingsplannen  |
+| art. 14, eerste en tweede lid  | Toezending (groeps)afwikkelingsplannen aan toezichthouders  |
+| art. 17, zevende lid  | Raadpleging toezichthouder bij en rekening houden met gevolgen van vaststelling alternatieve maatregel voor wegnemen wezenlijke belemmeringen voor afwikkelbaarheid  |
+| art. 22  | Toesturen goedgekeurde overeenkomsten voor financiële steun binnen de groep  |
+| art. 27, tweede lid  | Kennisgeving van bevoegdheid tot nemen van vroegtijdige interventiemaatregel vanwege bepaalde overtreding of een snel verslechterende financiële toestand  |
+| art. 34, eerste, tweede, vijfde en zesde lid  | In acht nemen algemene beginselen met betrekking tot afwikkeling  |
+| art. 45, vijftiende lid | Overleg met toezichthouder over vereisten aan en verificatie van MREL en besluitvorming in overeenstemming met procedures voor opstellen en bijhouden van afwikkelingsplannen  |
+| art. 47, derde lid  | Bij bail-in en AFOMKI rekening houden met waardering, het bedrag dat moet worden afgeschreven of omgezet en de raming van het totaalbedrag aan bail-in  |
+| art. 51  | Opstellen en uitvoeren bedrijfssaneringsplan bij bail-in met het oog op herkapitalisatie.  |
+| art. 54, tweede lid  | Beoordeling of het passend is dat de instelling procedurele belemmeringen voor bail-in wegneemt en indien het afwikkelingsplan in bail-in voorziet, of bail-in daadwerkelijk kan worden toegepast  |
+| art. 59, achtste en negende lid  | Kennisgevings- en raadplegingsvereisten bij vaststelling omtrent levensvatbaarheid instelling  |
+| art. 62, eerste tot en met zevende lid  | Procedure voor vaststelling levensvatbaarheid instelling  |
+| art. 62, negende lid  | Uitvoering besluit tot afschrijven of omzetten kapitaalinstrumenten  |
+| art. 67, tweede lid  | Niet overgaan tot overdracht, omzetting of andere maatregel m.b.t. activa in derde landen bij uiterste twijfelachtigheid over mogelijkheid tot uitvoering daarvan  |
+| art. 69, vijfde lid  | Rekening houden met gevolgen financiële markten bij opschorting verplichtingen instelling in afwikkeling  |
+| art. 70, derde lid  | Beperkingen uitoefening zekerheidsrechten consistent opleggen aan groepsentiteiten in afwikkeling  |
+| art. 70, vierde lid  | Rekening houden met gevolgen financiële markten bij opleggen beperkingen uitoefening zekerheidsrechten  |
+| art. 71, zesde lid  | Rekening houden met gevolgen financiële markten bij tijdelijke opschorting van beëindigingsrechten  |
+| art. 81, derde en vierde lid  | Vertrouwelijke kennisgeving dat instelling faalt of waarschijnlijk zal falen en dat dit redelijkerwijs niet zal worden voorkomen met particuliere maatregelen  |
+| art. 82, tweede lid  | Vereisten aan besluit tot nemen van afwikkelingsmaatregel  |
+| art. 83  | Procedurele vereisten na nemen afwikkelingsmaatregelen  |
+| art. 84, vijfde lid, onderdeel c  | Uitwisselen informatie nationale toezichthouders en autoriteiten  |
+| art. 87  | In acht nemen beginselen besluitvorming groepsafwikkeling  |
+| art. 91, tweede lid  | Beoordeling waarschijnlijke invloed afwikkelingsmaatregelen op de groep en haar entiteiten in andere lidstaten  |
+| art. 112, derde lid  | Bekendmaking informatie over opgelegde sancties op website  |
 |  *Financiële conglomeraten*   |  *Richtlijn financiële conglomeraten*   |
 | art. 3, negende lid  | Beoordelen ontheffingen en evaluatie indicatoren en risicobeoordelingen fico’s  |
 | art. 11, vierde lid, tweede alinea  | Opstellen coördinatieregeling en deelname aan college  |
 
+### Artikel  1b  
+
+De Autoriteit Financiële Markten neemt bij de uitvoering van haar taak op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen in acht.  Tabel 1b. Taakuitoefening Autoriteit Financiële Markten 
+
+|--- | Relevante richtlijnbepalingen:  | Korte omschrijving:  |
+|:---|:---|:---|
+|  *Banken en belegggingsondernemingen*   |  *Richtlijn herstel en afwikkeling van banken en beleggingsondernemingen:*   |
+| art. 3, vierde lid  | Algemene samenwerkingsverplichting ten behoeve van afwikkeling  |
+| art. 3, zevende lid  | Rekening houden met mogelijke gevolgen van besluiten in andere lidstaten waar de entiteit actief is  |
+| art. 6, vierde lid  | Toetsing herstelplan door de afwikkelingsautoriteit  |
+| art. 11, tweede lid  | Informatie ten behoeve van het opstellen en uitvoeren van afwikkelingsplannen  |
+| art. 27, tweede lid  | Kennisgeving van bevoegdheid tot nemen van vroegtijdige interventiemaatregel vanwege bepaalde overtreding of een snel verslechterende financiële toestand  |
+| art. 59, achtste en negende lid  | Kennisgevings- en raadplegingsvereisten bij vaststelling omtrent levensvatbaarheid instelling  |
+| art. 81, derde en vierde lid  | Vertrouwelijke kennisgeving dat instelling faalt of waarschijnlijk zal falen en dat dit redelijkerwijs niet zal worden voorkomen met particuliere maatregelen  |
+| art. 87  | In acht nemen beginselen besluitvorming groepsafwikkeling  |
+| art. 112, derde lid  | Bekendmaking informatie over opgelegde sancties op website  |
+
 ### Artikel  2  
 
-De Nederlandsche Bank en de Autoriteit Financiële Markten nemen bij de uitvoering van hun taken op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen betreffende samenwerking en informatieverstrekking in acht.  Tabel 2. Grensoverschrijdende samenwerking en informatieverstrekking toezichthouders 
+De Nederlandsche Bank en de Autoriteit Financiële Markten nemen bij de uitvoering van hun taken op grond van de wet de in onderstaande tabel genoemde richtlijnbepalingen betreffende samenwerking en informatieverstrekking in acht.  Tabel 2. Grensoverschrijdende samenwerking en informatieverstrekking 
 
 |    | Relevante richtlijnbepalingen:  | Korte omschrijving:  |
 |:---|:---|:---|
+| *Banken*  | *Richtlijn depositogarantiestelsels:*  |
+| art. 10, tiende lid  | Informatie aan EBA inzake onder het Nederlandse depositogarantiestelsel aangehouden gegarandeerde deposito’s en de financiële middelen in het depositogarantiefonds  |
+| art. 14, tweede lid  | Verplichtingen in het kader van samenwerking met andere depositogarantiestelsels  |
+| art. 14, vierde lid  | Informatie-uitwisseling inzake depositogarantiestelsels  |
+| art. 17, eerste lid  | Informatie aan EBA in het kader van vergunningverlening over het depositogarantiestelsel dat op een bank van toepassing is  |
 |  *Banken en beleggingsondernemingen*   |  *Richtlijn kapitaalvereisten*   |
 | art. 20, eerste, derde en vijfde lid  | Informatie inzake governance, verlening en intrekking van een vergunning (banken)  |
 | --- | art. 37  | Informatie inzake weigeren van opening bijkantoor en van wijziging werkzaamheden (banken)  |
@@ -65,6 +119,31 @@ De Nederlandsche Bank en de Autoriteit Financiële Markten nemen bij de uitvoeri
 | --- | art. 120, derde lid  | Informatie over de toepassing van bepalingen van deze richtlijn op een gemengde financiële holding  |
 | --- | art. 131, zevende lid  | Informatie over systeemrelevantiebuffers  |
 | --- | art. 133, elfde tot en met veertiende lid  | Informatie-uitwisseling en vaststelling inzake systeemrisicobufferpercentage  |
+| --- | --- | --- |
+| --- | *Richtlijn herstel en afwikkeling van banken en beleggingsondernemingen:*  |
+| --- | art. 4, zevende lid  | Informatie aan EBA inzake toepassing regels over herstel- en afwikkelingsplannen  |
+| --- | art. 7, derde lid  | Informatie inzake groepsherstelplannen  |
+| --- | art. 11, tweede lid  | Informatie ten behoeve van het opstellen en uitvoeren van afwikkelingsplannen  |
+| --- | art. 14, eerste en tweede lid  | Toesturen (groeps)afwikkelingsplannen  |
+| --- | art. 22  | Toesturen goedgekeurde overeenkomsten voor financiële steun binnen de groep  |
+| --- | art. 25, derde lid  | Kennisgeving goedkeuren, verbieden of beperken financiële steun  |
+| --- | art. 25, vierde lid  | Bezwaren voorleggen aan EBA inzake verbieden of beperken financiële steun  |
+| --- | art. 25, zesde lid, tweede volzin  | Kennisgeving verlenen financiële steun  |
+| --- | art. 25, zevende lid  | Verzoek aan consoliderende toezichthouder tot herbeoordeling groepsafwikkelingsplan of herzien herstelplan  |
+| --- | art. 30, eerste tot en met vijfde en zevende lid  | Coördinatie vroegtijdige-interventiemaatregelen en aanstelling van een tijdelijk bewindvoerder ten aanzien van groepen  |
+| --- | art. 35, zevende lid  | Overwegen aanstellen één bijzondere bestuurder voor een groep  |
+| --- | art. 44, twaalfde lid  | Kennisgeving Europese Commissie over uitsluiten van bepaalde passiva van bail-in  |
+| --- | art. 45, zestiende lid  | Kennisgeving aan EBA van MREL-vereisten voor alle entiteiten  |
+| --- | art. 59, achtste en negende lid  | Kennisgevings- en raadplegingsvereisten bij vaststelling omtrent levensvatbaarheid instelling  |
+| --- | art. 62, eerste en achtste lid  | Kennisgeving overweging vaststelling en gezamenlijke besluitvorming omtrent levensvatbaarheid instelling  |
+| --- | art. 81, derde en vierde lid  | Vertrouwelijke kennisgeving dat instelling faalt of waarschijnlijk zal falen en dat dit redelijkerwijs niet zal worden voorkomen met particuliere maatregelen  |
+| --- | art. 83, eerste tot en met derde lid  | Procedurele vereisten na nemen afwikkelingsmaatregelen  |
+| --- | art. 87  | In acht nemen beginselen besluitvorming groepsafwikkeling  |
+| --- | art. 88, eerste tot en met derde, vijfde en zesde lid  | Oprichting van, deelname aan en voorzitten van afwikkelingscolleges  |
+| --- | art. 89  | Oprichting en functioneren van Europese afwikkelingscolleges  |
+| --- | art. 91, eerste, zevende en negende tot en met dertiende lid  | Besluitvorming en procedures bij groepsafwikkeling waarbij een dochteronderneming van de groep is betrokken  |
+| --- | art. 92, met uitzondering van het vierde lid  | Besluitvorming en procedures bij groepsafwikkeling  |
+| --- | art. 113, eerste lid  | Kennisgeving aan EBA van opgelegde sancties als bedoeld in artikel 111 van de richtlijn alsmede de status van eventueel ingestelde beroepen en resultaat daarvan  |
 | --- | --- | --- |
 |  *Beleggingsinstellingen*   |  *Richtlijn beheerders van alternatieve beleggingsinstellingen:*   |
 | art. 24, vijfde lid  | Informatie inzake beheersing systeemrisico’s  |
@@ -196,11 +275,11 @@ De in artikel 19, eerste lid, van verordening 1093/2010, onderscheidenlijk artik
 
 ### Artikel  4  
 
-Een wijziging van de in de artikelen 1a, 2 en 3 genoemde richtlijnbepalingen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uiterlijk uitvoering moet zijn gegeven. 
+Een wijziging van de in de artikelen 1a, 1b, 2 en 3 genoemde richtlijnbepalingen gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uiterlijk uitvoering moet zijn gegeven. 
 
 ### Artikel  5  
 
-Deze regeling berust mede op de artikelen 1:24, vierde lid, 1:51e en 1:65, zesde lid, van de wet. 
+Deze regeling berust mede op de artikelen 1:24, vierde lid, 1:25, vierde lid, 1:51e en 1:65, zesde lid, van de wet. 
 
 ### Artikel  6  
 

@@ -16,15 +16,17 @@ In deze regeling wordt verstaan onder:
 
 a.  *wet:* Wet educatie en beroepsonderwijs;  
 
-b.  *inschrijvingsgegevens:* de gegevens van een bij de instelling ingeschreven deelnemer, als genoemd in artikel 2.3.6a, tweede lid, en in artikel 2.5.5a, tweede lid, van de wet;  
+b.  *inschrijvingsgegevens:* de gegevens van een bij de instelling ingeschreven deelnemer, als genoemd in artikel 2.3.6a, tweede lid, onderdeel a tot en met e, en h tot en met m, en in artikel 2.5.5a, tweede lid, onderdeel a tot en met f, i tot en met p, van de wet;  
 
-c.  *instelling:* een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in artikel 12.3.8, een hogeschool als bedoeld in artikel 12.3.9, een instelling als bedoeld in artikel 1.4.1 en een instelling als bedoeld in artikel 1.4a.1 van de wet;  
+c. examengegevens: de gegevens van een bij de instelling ingeschreven deelnemer, genoemd in artikel 2.3.6a, tweede lid, onderdeel f en g, en in artikel 2.5.5a, tweede lid, onderdeel h, van de wet; 
 
-d.  *eerste teldatum:* de datum van 1 oktober van enig jaar;  
+d.  *instelling:* een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in artikel 12.3.8, een hogeschool als bedoeld in artikel 12.3.9, een instelling als bedoeld in artikel 1.4.1 en een instelling als bedoeld in artikel 1.4a.1 van de wet;  
 
-e.  *tweede teldatum:* de datum van 1 februari van het jaar volgende op de eerste teldatum;  
+e.  *eerste teldatum:* de datum van 1 oktober van enig jaar;  
 
-f.*Minister:* Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie. 
+f.  *tweede teldatum:* de datum van 1 februari van het jaar volgende op de eerste teldatum;  
+
+g.*Minister:* Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken, Landbouw en Innovatie. 
 
 ###Artikel 1a 
 
@@ -34,28 +36,37 @@ Deze regeling berust op de artikelen 1.4.1, zevende lid, 1.4a.1, negende lid, 2.
 
 ### Artikel  2  
 
-####Specificatie van inschrijvingsgegevens
+####Specificatie van inschrijvings- en examengegevens
 
-De instelling verstrekt de inschrijvingsgegevens overeenkomstig de nadere specificatie zoals opgenomen in de bijlage bij deze regeling. 
+De instelling verstrekt de inschrijvings- en examengegevens overeenkomstig de nadere specificatie zoals opgenomen in de bijlage bij deze regeling. 
+
+### Artikel  2a  
+
+####Inschrijvings- en examengegevens overige educatie
+
+Het bevoegd gezag van een instelling, als bedoeld in artikel 1.4a.1, van de wet die voor een opleiding educatie als bedoeld in artikel 7.3.1, eerste lid, onderdeel b tot en met f, van de wet diploma-erkenning heeft als bedoeld in artikel 1.4a.1, eerste lid, van de wet hoeft voor die opleiding educatie de inschrijvings- en examengegevens bedoeld in artikel 2.3.6a, tweede lid, van de wet, voor zover dat lid van overeenkomstige toepassing is verklaard in artikel 1.4a.1, achtste lid, onderdeel a, van de wet niet langer te verstrekken. 
 
 ### Artikel  3  
 
 ####Wijze van verstrekking
 
-1.  Het bevoegd gezag verstrekt de inschrijvingsgegevens van een bij de instelling ingeschreven deelnemer tezamen met het persoonsgebonden nummer op elektronische wijze aan de Minister.   
-2.  Indien het bevoegd gezag door de Minister niet in staat wordt geacht de inschrijvingsgegevens langs elektronische weg te verstrekken, bepaalt de Minister in overleg met het bevoegd gezag op welke wijze de verstrekking kan plaatsvinden.  
+1.  Het bevoegd gezag verstrekt de inschrijvings- en examengegevens van een bij de instelling ingeschreven deelnemer tezamen met het persoonsgebonden nummer op elektronische wijze aan de Minister.   
+2.  Indien het bevoegd gezag door de Minister niet in staat wordt geacht de inschrijvings- en examengegevens langs elektronische weg te verstrekken, bepaalt de Minister in overleg met het bevoegd gezag op welke wijze de verstrekking kan plaatsvinden.   
+3.  In afwijking van het eerste lid, verstrekt het bevoegd gezag de gegevens, op grond van artikel 2.5.5a, van de wet, betreffende deelnemers van de experimenten doorlopende leerlijnen vmbo-mbo als bedoeld in het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014–2022 en de gecombineerde leerweg bol-bbl, als bedoeld in het Besluit experiment beroepsopleiding gecombineerde leerweg bol-bbl, op de wijze bedoeld in Bijlage behorende bij artikel 2, onderdeel E, aan de Minister. 
 
 ### Artikel  4  
 
 ####Tijdstip van verstrekking
 
-Het bevoegd gezag verstrekt nieuwe inschrijvingsgegevens en mutaties in de bestaande inschrijvingsgegevens zo spoedig mogelijk, doch uiterlijk binnen zeven dagen nadat de inschrijvingsgegevens zijn ontvangen of de mutatie is ontstaan, aan de Minister. 
+1. Het bevoegd gezag verstrekt nieuwe inschrijvingsgegevens en mutaties in de bestaande inschrijvingsgegevens zo spoedig mogelijk, doch uiterlijk binnen zeven dagen nadat de inschrijvingsgegevens zijn ontvangen of de mutatie is ontstaan, aan de Minister.  
+2.  Het bevoegd gezag verstrekt examengegevens en mutaties in de bestaande examengegevens, als bedoeld in artikel 2.5.5a, tweede lid, onderdeel h, van de wet, zo spoedig mogelijk, doch uiterlijk binnen zeven dagen nadat het diploma is behaald of de deelnemer is uitgeschreven.   
+3.  Het bevoegd gezag verstrekt nieuwe examengegevens en mutaties in de bestaande examengegevens, als bedoeld in artikel 2.3.6a, tweede lid, onderdeel f en g, van de wet, overeenkomstig hetgeen is bepaald in artikel 6 van de Regeling gegevenslevering onderwijsnummer VO. 
 
 ### Artikel  5  
 
-####Terugmelding inschrijvingsgegevens
+####Terugmelding inschrijvings- en examengegevens
 
-De Minister meldt binnen twee weken na verstrekking van de inschrijvingsgegevens door het bevoegd gezag, inschrijvingsgegevens, getoetst op juistheid en volledigheid als bedoeld in de artikelen 2.3.6b en 2.5.5b van de wet, aan het bevoegd gezag terug. 
+De Minister meldt binnen twee weken na verstrekking van de inschrijvings- en examengegevens door het bevoegd gezag, inschrijvingsgegevens, getoetst op juistheid en volledigheid als bedoeld in de artikelen 2.3.6b en 2.5.5b van de wet, aan het bevoegd gezag terug. 
 
 ### Artikel  6  
 
@@ -111,15 +122,15 @@ J.M. van Bijsterveldt-Vliegenthart
 
 ### Bijlage 
 
-####behorende bij artikel
+####behorende bij artikel 2 
 
 ####Nadere specificaties van de gegevens, bedoeld in de artikelen 2.3.6a, tweede lid, en 2.5.5a, tweede lid, van de WEB
 
 De bijlage bestaat uit de volgende onderdelen: 
 
-A. De specificatie van de instellingsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder h, en artikel 2.5.5a, tweede lid, onder j, van de WEB). Deze specificatie geldt zowel voor deelnemers aan beroepsopleidingen als deelnemers educatie.  
+A. De specificatie van de instellingsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder h, en artikel 2.5.5a, tweede lid, onder j, van de WEB). Deze specificatie geldt zowel voor deelnemers aan beroepsopleidingen als deelnemers aan opleidingen voortgezet algemeen volwassenenonderwijs (vavo).  
 
-B. De specificatie van de persoonsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder a, en 2.5.5a, tweede lid, onder a, van de WEB). Deze specificatie geldt eveneens zowel voor deelnemers beroepsonderwijs als deelnemers educatie.  
+B. De specificatie van de persoonsgegevens (de gegevens bedoeld in artikel 2.3.6a, tweede lid, onder a, en 2.5.5a, tweede lid, onder a, van de WEB). Deze specificatie geldt eveneens zowel voor deelnemers beroepsonderwijs als deelnemers aan opleidingen voortgezet algemeen volwassenenonderwijs (vavo).  
 
 C. De specificatie van de inschrijvings- en examengegevens van deelnemers aan opleidingen beroepsonderwijs (de gegevens bedoeld in artikel 2.5.5a, tweede lid, onder b tot en met i en l tot en met o, van de WEB).  
 
@@ -201,10 +212,16 @@ In deze bijlage wordt tevens in de kolom *Mutatiestop* aangegeven welke gegevens
 | Datum ingang indicatie bekostiging inschrijving  | De datum vanaf wanneer de indicatie bekostiging inschrijving geldt.  | Datum  | 8  | M  |
 | Indicatie bekostiging diploma  | De indicatie waarmee de instelling aangeeft of een behaald diploma voor bekostiging in aanmerking komt.  | Alfanumeriek  | 1  | M  |
 | Reden uitstroom  | De code van de reden van uitstroom van de deelnemer.  | Alfanumeriek  | 2  |M |
-| Waardering instellingsexamen Nederlands  | De waardering voor het instellingsexamen van het generieke examenonderdeel Nederlandse taal  | Numeriek  | 2  |M |
-| Waardering centraal examen Nederlands  | De waardering voor het centraal examen van het generieke examenonderdeel  Nederlandse taal  | Numeriek  | 2  |M |
-| Eindwaardering Nederlands  | De eindwaardering van het generieke examenonderdeel Nederlandse taal  | Numeriek  | 2  |M |
-| Eindwaardering rekenen  | De eindwaardering van het generieke examenonderdeel rekenen  | Numeriek  | 2  |M |
+| Waardering instellingsexamen Nederlandse taal 2F  | Het resultaat van het instellingsexamen voor Nederlandse taal 2F  | N  | 3  | --- |
+| Waardering instellingsexamen Nederlandse taal 3F  | Het resultaat van het instellingsexamen voor Nederlandse taal 3F  | N  | 3  | --- |
+| Waardering centraal examen Nederlandse taal 2F  | Het resultaat dat voor het centraal examen is behaald  | N  | 3  | --- |
+| Waardering centraal examen Nederlandse taal 3F  | Het resultaat dat voor het centraal examen is behaald  | N  | 3  | --- |
+| Eindwaardering Nederlandse taal 2F  | Het eindresultaat voor Nederlandse taal 2F  | N  | 2  | --- |
+| Eindwaardering Nederlandse taal 3F  | Het eindresultaat voor Nederlandse taal 3F  | N  | 2  | --- |
+| Eindwaardering rekenen 2ER  | Het eindresultaat voor rekenen 2ER  | N  | 2  | --- |
+| Eindwaardering rekenen 2F  | Het eindresultaat voor rekenen 2F  | N  | 2  | --- |
+| Eindwaardering rekenen 3ER  | Het eindresultaat voor rekenen 3ER  | N  | 2  | --- |
+| Eindwaardering rekenen 3F  | Het eindresultaat voor rekenen 3F  | N  | 2  | --- |
 | Eindwaardering Engels mbo-4  | De eindwaardering van het generieke examenonderdeel Engels, voor zover het een mbo-4 opleiding betreft  | Numeriek  | 2  |M |
 
 ####Toelichting bij de gegevens
@@ -305,7 +322,7 @@ De verstrekking van dit gegeven is verplicht bij een inschrijving voor een oplei
 
 | --- | --- |
 |:---|:---|
-| 1  | mbo niveau 1 (assistentopleiding)  |
+| 1   | mbo niveau 1 (entree- of assistentopleiding)  |
 | 2  | mbo niveau 2 (basisberoepsopleiding)  |
 | 3  | mbo niveau 3 (vakopleiding)  |
 | 4  | mbo niveau 4 (middenkaderopleiding, specialistenopleiding)  |
@@ -389,45 +406,11 @@ Mogelijke waarden en de bijbehorende betekenis zijn:
 
 07 Onbekend  
 
-08 Geen uitval   
+08 Geen uitval  
+
+09 Niet voldaan aan betalingsverplichting  
 
 ### D  
-
-####Specificatie Inschrijvings- en resultaatgegevens Educatie, niet zijnde voortgezet algemeen volwassenenonderwijs
-
-| Gegeven  | Definitie  | Formaat  | Lengte  |
-|:---|:---|:---|:---|
-| Inschrijvingsvolgnummer  | Een door het aanleverpunt aan de inschrijving toegekend volgnummer ten behoeve van registratie in BRON.  | Alfanumeriek  | 3  |
-| Gevolgde opleiding  | De aanduiding van de opleiding waarvoor de deelnemer zich heeft ingeschreven, zoals vastgelegd in de onderwijsovereenkomst.  | Alfanumeriek  | 5  |
-| Datum inschrijving  | De datum waarop de onderwijsovereenkomst dan wel de examenovereenkomst van de deelnemer van kracht wordt of werd, zoals vermeld in de onderwijsovereenkomst dan wel de examenovereenkomst.  | Datum  | 8  |
-| Geplande datum uitschrijving  | De laatste datum waarop de inschrijving actief zal zijn of gepland was actief te zijn, zoals vermeld in de onderwijsovereenkomst dan wel de examenovereenkomst.  | Datum  | 8  |
-| Werkelijke datum uitschrijving  | De laatste datum waarop de inschrijving daadwerkelijk actief was.  | Datum  | 8  |
-| Hoogste vooropleiding  | De aanduiding van de hoogst genoten opleiding door de deelnemer bij aanvang van de opleiding in relatie tot de te volgen opleiding.  | Alfanumeriek  | 2  |
-| Behaalde opleiding  | De aanduiding van de opleiding die de deelnemer met succes heeft voltooid, zoals blijkt uit een bewijsstuk  | Alfanumeriek  | 5  |
-| Datum opleiding voltooid  | De datum waarop de deelnemer de opleiding met succes heeft voltooid.  | Datum  | 8  |
-| Vak  | De identificatie van het educatievak, zoals vastgelegd in de onderwijsovereenkomst.  | Alfanumeriek  | 3  |
-| Vakvolgnummer  | Een door de instelling aan het vak toegekend volgnummer, ten behoeve van registratie in BRON.  | Numeriek  | 2  |
-| Datum vak voltooid  | De datum waarop de deelnemer het vak met goed gevolg heeft voltooid, zoals blijkt uit een bewijsstuk.  | Datum  | 8  |
-| NT2-vaardigheid  | De aanduiding van de vaardigheid behorend bij het vak NT2, waar de deelnemer zich voor heeft ingeschreven, zoals vermeld in de onderwijsovereenkomst  | Alfanumeriek  | 2  |
-| Startniveau  | De aanduiding van het niveau van de deelnemer voor de NT2- vaardigheid bij het begin van de inschrijving  | Alfanumeriek  | 1  |
-| Behaald niveau  | De aanduiding van het door de deelnemer bereikte niveau voor de NT2-vaardigheid bij het beeindigen van de inschrijving.  | Alfanumeriek  | 1  |
-| Contacturen per week  | Het gemiddelde aantal klokuren onderwijs per week waaruit het onderwijsprogramma bestaat dat het bevoegd gezag voor de deelnemer in instellingstijd heeft ingericht  | Numeriek  | 2  |
-
-####Toelichting bij gegevens
-
-*Gevolgde opleiding:*  De code die de opleiding aangeeft volgens de opleidingentabel Educatie, welke beschikbaar zal worden gesteld door de DUO. Deze tabel staat in het Programma van Eisen op de internetsite www.ocwduo.nl. Hij wordt jaarlijks gepubliceerd in de ‘Regeling elementcodetabel voortgezet onderwijs (vo), opleidingentabel volwasseneneducatie en vakcodetabel vo en volwasseneneducatie schooljaar *j1-j2*", waarin *j1-j2* staat voor het komende schooljaar. Deze regeling zal verder worden aangeduid met de naam *Regeling codes*.  *Hoogste vooropleiding:*  Als referentietabel dient de departementale vooropleidingentabel te worden gehanteerd. Deze tabel staat in het Programma van Eisen op voornoemde internetsite.  *Behaalde opleiding:*  De code die de behaalde opleiding aangeeft volgens een tabel, welke beschikbaar zal worden gesteld door de DUO. (Dezelfde tabel als voor gevolgde opleiding.)  *Vak*  De vakcode volgens een vakkentabel die beschikbaar wordt gesteld door de DUO. Deze tabel staat in het Programma van Eisen op voornoemde internetsite. Hij wordt bovendien jaarlijks gepubliceerd in voornoemde *Regeling codes*.  *Datum vak voltooid:*  Dit gegeven dient alleen te worden verstrekt indien er sprake is van het behalen van een certificaat dat aangeeft dat het vak is voltooid conform een landelijk vastgestelde norm.  *NT2-vaardigheid*  Deze code geeft de vaardigheid aan die onderdeel is het vak NT-2. Mogelijke waarden en de bijbehorende betekenis zijn  
-
-| --- | --- |
-|:---|:---|
-| 01  | spreken  |
-| 02  | luisteren  |
-| 03  | lezen  |
-| 04  | schrijven  |
-| 05  | gesprekken  |
-
-*Behaald en startniveau:*  De aanduiding van het door de deelnemer bereikte niveau voor de NT2 – vaardigheid bij respectievelijk het beëindigen van de inschrijving en de inschrijving. Deze kan de waarden 0–6 aannemen. 
-
-### E  
 
 ####Specificatie Inschrijvings- en examengegevens voortgezet algemeen volwassenenonderwijs
 
@@ -537,4 +520,19 @@ Mogelijke waarden en de bijbehorende betekenis zijn:
 |:---|:---|:---|
 | Mogelijke waarden:  | J  | Ja  |
 | --- | N  | Nee  |
+
+###E 
+
+De specificatie van de inschrijvingsgegevens van deelnemers aan opleidingen beroepsonderwijs betreffende de experimenten doorlopende leerlijnen vmbo-mbo en gecombineerde leerweg bol-bbl.
+
+| --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| Deelname doorlopende leerlijnen vmbo-mbo  | Neemt de deelnemer deel aan een experiment met een doorlopende leerlijn in de vakmanschaproute of beroepsroute/ technologieroute?  | J/N  | 1  | --- |
+| Deelname gecombineerde leerweg bol-bbl  | Neemt de deelnemer deel aan een experiment met een beroepsopleiding in de gecombineerde leerweg bol-bbl?  | J/N  | 1  | --- |
+
+*Toelichting bij de gegevens*Het gaat in dit onderdeel om de volgende experimenten: 
+
+* doorlopende leerlijnen vmbo-mbo, als bedoeld in het Besluit experimenten doorlopende leerlijnen vmbo-mbo 2014–2022; en  
+
+* gecombineerde leerweg bol-bbl, als bedoeld in het Besluit experiment beroepsopleiding gecombineerde leerwegen bol-bbl.   Bovengenoemde gegevens over de experimenten worden door de instellingen geleverd aan BRON op grond van artikel 2.5.5a van de wet. De wijze van levering van voornoemde gegevens is anders dan de reguliere wijze (via elektronische weg), nl. via lijsten. Instellingen leveren lijsten aan waarop de deelnemers aan deze experimenten vermeld staan. Aan DUO wordt dit gegevens uitsluitend geleverd als er wordt deelgenomen aan één van bovengenoemde experimenten.
 

@@ -13,9 +13,9 @@ Preamble The States Parties to this Protocol, Declaring that effective action to
 
 ####Relation with the United Nations Convention against Transnational Organized Crime
 
-1.   This Protocol supplements the [United Nations Convention against Transnational Organized Crime](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md). It shall be interpreted together with the Convention.   
-2.   The provisions of the [Convention](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) shall apply, mutatis mutandis, to this Protocol unless otherwise provided herein.   
-3.   The offences established in accordance with article 5 of this Protocol shall be regarded as offences established in accordance with the [Convention](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md).  
+1.   This Protocol supplements the United Nations Convention against Transnational Organized Crime. It shall be interpreted together with the Convention.   
+2.   The provisions of the Convention shall apply, mutatis mutandis, to this Protocol unless otherwise provided herein.   
+3.   The offences established in accordance with article 5 of this Protocol shall be regarded as offences established in accordance with the Convention.  
 
 ### Article  2  
 
@@ -148,7 +148,7 @@ c) The means and methods used by organized criminal groups for the purpose of tr
 3.   Where appropriate, and without prejudice to applicable international conventions, such measures shall include establishing the obligation of commercial carriers, including any transportation company or the owner or operator of any means of transport, to ascertain that all passengers are in possession of the travel documents required for entry into the receiving State.   
 4.   Each State Party shall take the necessary measures, in accordance with its domestic law, to provide for sanctions in cases of violation of the obligation set forth in paragraph 3 of this article.   
 5.   Each State Party shall consider taking measures that permit, in accordance with its domestic law, the denial of entry or revocation of visas of persons implicated in the commission of offences established in accordance with this Protocol.   
-6.   Without prejudice to [article 27 of the Convention](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md), States Parties shall consider strengthening cooperation among border control agencies by, inter alia, establishing and maintaining direct channels of communication.  
+6.   Without prejudice to article 27 of the Convention, States Parties shall consider strengthening cooperation among border control agencies by, inter alia, establishing and maintaining direct channels of communication.  
 
 ### Article  12  
 
@@ -174,7 +174,7 @@ At the request of another State Party, a State Party shall, in accordance with i
 
 ####Saving clause
 
-1.   Nothing in this Protocol shall affect the rights, obligations and responsibilities of States and individuals under international law, including international humanitarian law and international human rights law and, in particular, where applicable, the [1951 Convention](../../../../../../../../../../../../../verdrag/vluchtelingenverdrag/BWBV0001002/README.md) and the 1967 Protocol relating to the Status of Refugees and the principle of non-refoulement as contained therein.   
+1.   Nothing in this Protocol shall affect the rights, obligations and responsibilities of States and individuals under international law, including international humanitarian law and international human rights law and, in particular, where applicable, the 1951 Convention and the 1967 Protocol relating to the Status of Refugees and the principle of non-refoulement as contained therein.   
 2.   The measures set forth in this Protocol shall be interpreted and applied in a way that is not discriminatory to persons on the ground that they are victims of trafficking in persons. The interpretation and application of those measures shall be consistent with internationally recognized principles of non-discrimination.  
 
 ### Article  15  
@@ -199,14 +199,14 @@ At the request of another State Party, a State Party shall, in accordance with i
 
 ####Entry into force
 
-1.   This Protocol shall enter into force on the ninetieth day after the date of deposit of the fortieth instrument of ratification, acceptance, approval or accession, except that it shall not enter into force before the entry into force of the [Convention](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md). For the purpose of this paragraph, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.   
+1.   This Protocol shall enter into force on the ninetieth day after the date of deposit of the fortieth instrument of ratification, acceptance, approval or accession, except that it shall not enter into force before the entry into force of the Convention. For the purpose of this paragraph, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization.   
 2.   For each State or regional economic integration organization ratifying, accepting, approving or acceding to this Protocol after the deposit of the fortieth instrument of such action, this Protocol shall enter into force on the thirtieth day after the date of deposit by such State or organization of the relevant instrument or on the date this Protocol enters into force pursuant to paragraph 1 of this article, whichever is the later.  
 
 ### Article  18  
 
 ####Amendment
 
-1.   After the expiry of five years from the entry into force of this Protocol, a State Party to the Protocol may propose an amendment and file it with the Secretary-General of the United Nations, who shall thereupon communicate the proposed amendment to the States Parties and to the Conference of the Parties to the [Convention](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) for the purpose of considering and deciding on the proposal. The States Parties to this Protocol meeting at the Conference of the Parties shall make every effort to achieve consensus on each amendment. If all efforts at consensus have been exhausted and no agreement has been reached, the amendment shall, as a last resort, require for its adoption a two-thirds majority vote of the States Parties to this Protocol present and voting at the meeting of the Conference of the Parties.   
+1.   After the expiry of five years from the entry into force of this Protocol, a State Party to the Protocol may propose an amendment and file it with the Secretary-General of the United Nations, who shall thereupon communicate the proposed amendment to the States Parties and to the Conference of the Parties to the Convention for the purpose of considering and deciding on the proposal. The States Parties to this Protocol meeting at the Conference of the Parties shall make every effort to achieve consensus on each amendment. If all efforts at consensus have been exhausted and no agreement has been reached, the amendment shall, as a last resort, require for its adoption a two-thirds majority vote of the States Parties to this Protocol present and voting at the meeting of the Conference of the Parties.   
 2.   Regional economic integration organizations, in matters within their competence, shall exercise their right to vote under this article with a number of votes equal to the number of their member States that are Parties to this Protocol. Such organizations shall not exercise their right to vote if their member States exercise theirs and vice versa.   
 3.   An amendment adopted in accordance with paragraph 1 of this article is subject to ratification, acceptance or approval by States Parties.   
 4.   An amendment adopted in accordance with paragraph 1 of this article shall enter into force in respect of a State Party ninety days after the date of the deposit with the Secretary-General of the United Nations of an instrument of ratification, acceptance or approval of such amendment.   
@@ -239,9 +239,9 @@ Preambule De Staten die partij zijn bij dit Protocol,  Verklarend dat doeltreffe
 
 ####Verhouding met het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad
 
-1.   Dit Protocol vult het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) aan. Het dient tezamen met het Verdrag te worden uitgelegd.   
-2.   De bepalingen van het [Verdrag](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) zijn van overeenkomstige toepassing op dit Protocol, tenzij hierin anders wordt bepaald.   
-3.   De overeenkomstig artikel 5 van dit Protocol strafbaar gestelde feiten worden beschouwd als overeenkomstig het [Verdrag](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) strafbaar gestelde feiten.   
+1.   Dit Protocol vult het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad aan. Het dient tezamen met het Verdrag te worden uitgelegd.   
+2.   De bepalingen van het Verdrag zijn van overeenkomstige toepassing op dit Protocol, tenzij hierin anders wordt bepaald.   
+3.   De overeenkomstig artikel 5 van dit Protocol strafbaar gestelde feiten worden beschouwd als overeenkomstig het Verdrag strafbaar gestelde feiten.   
 
 ### Artikel  2  
 
@@ -374,7 +374,7 @@ c. de door criminele organisaties gebruikte middelen en methoden ten behoeve van
 3.   Indien van toepassing en onverminderd toepasselijke verdragen omvatten dergelijke maatregelen het vaststellen van de verplichting van commerciële vervoerders, met inbegrip van elk transportbedrijf of elke eigenaar of exploitant van een transportmiddel, om te verifiëren of alle passagiers in het bezit zijn van de voor de toegang tot de ontvangende Staat benodigde reisdocumenten.   
 4.   Elke Staat die partij is, neemt de nodige maatregelen, in overeenstemming met zijn nationale recht, om te voorzien in sancties in gevallen van schending van de in het derde lid van dit artikel bedoelde verplichting.   
 5.   Elke Staat die partij is, overweegt maatregelen te nemen die, in overeenstemming met zijn nationale recht, het weigeren van de toegang of het intrekken van visa van personen die betrokken zijn bij het plegen van de overeenkomstig dit Protocol strafbaar gestelde feiten, mogelijk maken.   
-6.   Onverminderd [artikel 27 van het Verdrag](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) overwegen de Staten die partij zijn de samenwerking tussen instellingen voor grenscontroles te versterken, onder andere door het creëren en onderhouden van rechtstreekse communicatiekanalen.  
+6.   Onverminderd artikel 27 van het Verdrag overwegen de Staten die partij zijn de samenwerking tussen instellingen voor grenscontroles te versterken, onder andere door het creëren en onderhouden van rechtstreekse communicatiekanalen.  
 
 ### Artikel  12  
 
@@ -400,7 +400,7 @@ Op verzoek van een andere Staat die partij is, verifieert een Staat die partij i
 
 ####Vrijwaringsclausule
 
-1.   Geen enkele bepaling van dit Protocol tast de rechten, verplichtingen en verantwoordelijkheden van Staten en personen uit hoofde van het internationale recht aan, met inbegrip van het internationale humanitaire recht en het internationale recht inzake mensenrechten en, in het bijzonder, waar toepasselijk, uit hoofde van het [Verdrag van 1951](../../../../../../../../../../../../../verdrag/vluchtelingenverdrag/BWBV0001002/README.md) en het Protocol van 1967 betreffende de status van vluchtelingen en het daarin vervatte grondbeginsel van „non-refoulement".   
+1.   Geen enkele bepaling van dit Protocol tast de rechten, verplichtingen en verantwoordelijkheden van Staten en personen uit hoofde van het internationale recht aan, met inbegrip van het internationale humanitaire recht en het internationale recht inzake mensenrechten en, in het bijzonder, waar toepasselijk, uit hoofde van het Verdrag van 1951 en het Protocol van 1967 betreffende de status van vluchtelingen en het daarin vervatte grondbeginsel van „non-refoulement".   
 2.   De in dit Protocol bedoelde maatregelen worden uitgelegd en toegepast op een wijze die niet discriminerend is voor personen op grond van het feit dat zij het slachtoffer zijn van mensenhandel. De uitleg en toepassing van die maatregelen dient in overeenstemming te zijn met de internationaal erkende beginselen van non-discriminatie.  
 
 ### Artikel  15  
@@ -425,14 +425,14 @@ Op verzoek van een andere Staat die partij is, verifieert een Staat die partij i
 
 ####Inwerkingtreding
 
-1.   Dit Protocol treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, met dien verstande dat het niet vóór de inwerkingtreding van het [Verdrag](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md) in werking treedt. Voor de toepassing van dit lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van deze organisatie reeds nedergelegde akten.   
+1.   Dit Protocol treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, met dien verstande dat het niet vóór de inwerkingtreding van het Verdrag in werking treedt. Voor de toepassing van dit lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van deze organisatie reeds nedergelegde akten.   
 2.   Voor elke Staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de desbetreffende veertigste akte treedt dit Protocol in werking dertig dagen na de datum van nederlegging door een dergelijke Staat of organisatie van de desbetreffende akte of op de datum waarop dit Protocol in werking treedt ingevolge het eerste lid van dit artikel, naar gelang van welke datum het laatst valt.  
 
 ### Artikel  18  
 
 ####Wijziging
 
-1.   Na het verstrijken van een termijn van vijf jaar na de inwerkingtreding van dit Protocol kan een Staat die partij is bij het Protocol een wijziging voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties, die de voorgestelde wijziging vervolgens toezendt aan de Staten die partij zijn en aan de Conferentie van de Partijen bij het [Verdrag](../../../../../../../../../../../../../verdrag/verdrag/van/de/verenigde/naties/tegen/grensoverschrijdende/georganiseerde/etc/BWBV0001668/README.md), teneinde het voorstel te bestuderen en erover te beslissen. De Staten die partij zijn bij dit Protocol die bijeenkomen tijdens de Conferentie van de Partijen stellen alles in het werk om consensus te bereiken over iedere wijziging. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een tweederde meerderheid van de Staten die partij zijn bij dit Protocol, die aanwezig zijn en hun stem uitbrengen tijdens de Conferentie van de Partijen.   
+1.   Na het verstrijken van een termijn van vijf jaar na de inwerkingtreding van dit Protocol kan een Staat die partij is bij het Protocol een wijziging voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties, die de voorgestelde wijziging vervolgens toezendt aan de Staten die partij zijn en aan de Conferentie van de Partijen bij het Verdrag, teneinde het voorstel te bestuderen en erover te beslissen. De Staten die partij zijn bij dit Protocol die bijeenkomen tijdens de Conferentie van de Partijen stellen alles in het werk om consensus te bereiken over iedere wijziging. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een tweederde meerderheid van de Staten die partij zijn bij dit Protocol, die aanwezig zijn en hun stem uitbrengen tijdens de Conferentie van de Partijen.   
 2.   Regionale organisaties voor economische integratie oefenen ter zake van binnen hun bevoegdheid vallende aangelegenheden hun stemrecht ingevolge dit artikel uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn bij dit Protocol. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen en vice versa.    
 3.   Een wijziging aangenomen overeenkomstig het eerste lid van dit artikel dient te worden bekrachtigd, aanvaard of goedgekeurd door de Staten die partij zijn.   
 4.   Een wijziging aangenomen overeenkomstig het eerste lid van dit artikel wordt ten aanzien van een Staat die partij is van kracht negentig dagen na de datum van de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring van die wijziging bij de Secretaris-Generaal van de Verenigde Naties.   

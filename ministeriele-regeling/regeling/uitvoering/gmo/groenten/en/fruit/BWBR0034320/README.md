@@ -358,8 +358,8 @@ f. dat de in onderdeel e bedoelde verantwoording daadwerkelijk wordt afgelegd.
 
 ### Artikel  21  
 
-1.  Artikel 155 van verordening 1308/2013 is van toepassing op de activiteiten van de producentenorganisatie die bijdragen aan het realiseren van de doelstellingen van de producentenorganisatie, bedoeld in artikel 122, onderdeel c, en 125 ter, eerste lid, onderdeel a, van verordening 1234/2007.   
-2.  Wanneer een producentenorganisatie de in het eerste lid bedoelde activiteiten uitbesteed toont de producentenorganisatie op grond van artikel 155 van verordening 1308/2013 door middel van door het bestuur en de algemene vergadering geaccordeerde schriftelijke bewijsstukken aan: 
+1.  Artikel 155 van verordening 1308/2013 is van toepassing op de activiteiten van de producentenorganisatie die bijdragen aan het realiseren van de doelstellingen van de producentenorganisatie, bedoeld in de artikelen 152 en 154 van verordening 1308/2013.   
+2.  Wanneer een producentenorganisatie de in het eerste lid bedoelde activiteiten heeft uitbesteed toont de producentenorganisatie op grond van artikel 155 van verordening 1308/2013 door middel van door het bestuur en de algemene vergadering geaccordeerde schriftelijke bewijsstukken aan: 
 
 a. welke activiteiten worden uitbesteed;  
 
@@ -1786,7 +1786,7 @@ b. oogstkarren met een geïntegreerde weegunit bestemd voor het sorteren en afwe
 ### Artikel  125  
 
 1.  Uitgaven van de producentenorganisatie in voorzieningen voor vogel- en wildafweer in vollegrondsteelt, waaronder een wildnet, zijn uitsluitend subsidiabel voor zover de wilddruk door de producentenorganisatie aannemelijk is gemaakt.   
-2.  Onder de in het eerste lid bedoelde uitgaven zijn geweven kunststof doeken, in afwijking van artikel 103 quinquies, eerste lid, verordening 1234/2007, voor 50% van de investering subsidiabel.   
+2.  Onder de in het eerste lid bedoelde uitgaven zijn geweven kunststof doeken, in afwijking van artikel 34, eerste lid, van verordening 1308/2013, voor 50% van de investering subsidiabel.   
 3.  Een vliesdoek voor wildbescherming is niet subsidiabel.  
 
 ### Artikel  126  

@@ -16,10 +16,10 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -44,7 +44,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 *wet:* Spoorwegwet.   
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De artikelen 1 tot en met 4, 69, 76, eerste lid, 77, 80, 86 tot en met 91 en 97 van de wet, en de artikelen 1 tot en met 19, 26 en 27 van dit besluit, zijn niet van toepassing op bijzondere spoorwegen: 
 
@@ -58,10 +58,10 @@ b. die zijn aan te merken als een attractie of speeltoestel als bedoeld in het W
 
 ####Veilig gebruik van bijzondere spoorwegen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De spoorwegbeheerder draagt er zorg voor dat de bijzondere spoorweg veilig kan worden gebruikt. Deze zorg omvat onder meer de zorg voor het onderhoud van de bijzondere spoorweginfrastructuur, de toegang tot de bijzondere spoorweg en de treindienstleiding, en houdt in ieder geval in dat hij: 
 
@@ -72,7 +72,7 @@ b. passende maatregelen neemt en passende voorzieningen treft om deze risico’s
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de beschrijving en documentatie, bedoeld in het tweede lid.  
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De vervoerder draagt zorg voor het veilig gebruik van de bijzondere spoorweg en voor de veiligheid van de personen die hij vervoert en die in- of uit de trein stappen. Deze zorg houdt in ieder geval in dat hij: 
 
@@ -87,7 +87,7 @@ b. passende maatregelen neemt en passende voorzieningen treft om deze risico’s
 7.  De vervoerder is verplicht de aanwijzingen, bedoeld in het zesde lid, op te volgen.  
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De treindienstleider, bedoeld in artikel 2 van het Besluit spoorwegpersoneel 2011, oefent een veiligheidsfunctie uit.   
 2.  Een veiligheidsfunctie wordt slechts uitgeoefend door een persoon die de leeftijd van achttien jaar heeft bereikt.   
@@ -99,7 +99,7 @@ a. indien gehandeld wordt in strijd met de voorschriften of beperkingen, bedoeld
 b. bij gewijzigde omstandigheden.    
 
 ### Artikel  6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De spoorwegbeheerder regelt het spoorverkeer door seinen, indien hij dit noodzakelijk acht om de veiligheid van het spoorverkeer te borgen.   
 2.  In elk geval wordt het spoorverkeer geregeld door seinen: 
@@ -110,7 +110,7 @@ b. bij beweegbare bruggen.
 3.  De treinbestuurder die gebruik maakt van een bijzondere spoorweg of daarvan gebruik gaat maken neemt de voor hem bestemde seinen in acht.  
 
 ### Artikel  7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Treinen zijn ’s nachts, bij mistig weer en bij slecht zicht voldoende zichtbaar door, gelet op de rijrichting, te zijn voorzien van ten minste een wit of geel stralend licht aan de voorzijde en een rood stralend licht aan de achterzijde van het voertuig waarvan de bewegende kracht uitgaat.   
 2.  In afwijking van het eerste lid is een trein ’s nachts, bij mistig weer of slecht zicht tijdens het rangeren voorzien van ten minste een wit, geel of rood stralend licht aan de voorzijde, gelet op de rijrichting.   
@@ -123,7 +123,7 @@ b. wanneer bij de nadering van een spoorwegovergang een geluidssignaal gegeven w
 5.  Onder rangeren wordt in dit artikel verstaan het splitsen of opnieuw samenvoegen van treinen, dan wel in een bepaalde volgorde op een spoor of naar andere sporen manoeuvreren.  
 
 ### Artikel  8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De maximumsnelheid op bijzondere spoorwegen is 30 kilometer per uur.   
 2.  Onze Minister kan voor een bijzondere spoorweg of een gedeelte daarvan, op aanvraag van de spoorwegbeheerder, ontheffing verlenen van het bepaalde in het eerste lid door een hogere toegestane maximumsnelheid te bepalen, indien dit de veiligheid van het spoorverkeer niet nadelig beïnvloedt. Indien de bijzondere spoorweg kruist of samenloopt met een voor het openbaar verkeer openstaande weg wordt de wegbeheerder gehoord. De ontheffing kan onder beperkingen worden gegeven. Aan de ontheffing kunnen voorschriften in het belang van de veiligheid worden verbonden.   
@@ -136,7 +136,7 @@ b. bij gewijzigde omstandigheden.
 5.  Het is verboden om met een hogere snelheid over een bijzondere spoorweg te rijden dan de in het eerste, tweede of derde lid bedoelde toegestane maximumsnelheid, of te handelen in strijd met de beperkingen en voorschriften, bedoeld in het tweede lid.  
 
 ### Artikel  9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Onverminderd artikel 8 is het verboden gebruik te maken van een bijzondere spoorweg met een snelheid die niet in overeenstemming is met het remvermogen van de trein, of met de eigenschappen van de bijzondere spoorweginfrastructuur. 
 
@@ -144,10 +144,10 @@ Onverminderd artikel 8 is het verboden gebruik te maken van een bijzondere spoor
 
 ####Bescherming van bijzondere spoorwegen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Het is verboden om: 
 
@@ -159,7 +159,7 @@ c. dieren te drijven of te laten lopen dan wel zich te bevinden op of langs dele
 2.  Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in artikel 3, vervoer als bedoeld in artikel 4, of toezicht als bedoeld in de wet.  
 
 ### Artikel  11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Het is verboden binnen een bij ministeriële regeling te bepalen afstand van een bijzondere spoorweg op, in, naast, boven of onder de bijzondere spoorweg leidingen, werken, andere inrichtingen of beplantingen aan te brengen, te doen aanbrengen, of te hebben, te graven, bouwwerken op te richten, dan wel daarmee verband houdende werkzaamheden uit te voeren of te doen uitvoeren.   
 2.  Het eerste lid is niet van toepassing voor zover de handelingen worden verricht ten behoeve van de rechtmatige uitoefening van beheerstaken als bedoeld in artikel 3, vervoer als bedoeld in artikel 4, of toezicht als bedoeld in de wet.   
@@ -171,22 +171,22 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Spoorwegovergangen en bruggen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Spoorwegovergangen gelegen in voor het openbaar verkeer openstaande wegen worden door de spoorwegbeheerder voorzien van aan iedere rechterzijde van de weg geplaatste Andreaskruisen volgens model J12 of J13 van bijlage 1 van het RVV 1990.   
 2.  Het eerste lid geldt niet voor spoorwegovergangen waarover minder dan eenmaal per week een trein rijdt.  
 
 ### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De spoorwegbeheerder kan, Onze Minister gehoord, een overweg als bedoeld in artikel 1 van het RVV 1990, beveiligen.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze van beveiliging, bedoeld in het eerste lid.  
 
 ### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Daar waar een bijzondere spoorweg samenloopt met voor het openbaar verkeer openstaande weg, is de treinbestuurder van een trein verplicht: 
 
@@ -200,7 +200,7 @@ d. aan de weggebruikers de voor het rijden van de trein en voor de veiligheid va
 2.  De stoptekens en aanwijzingen, bedoeld in het eerste lid, onderdeel d, mogen ook worden gegeven door een begeleider van een trein.  
 
 ### Artikel  15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Bij spoorwegovergangen waar bijzondere spoorwegen met niet voor het openbaar verkeer openstaande wegen kruisen, verlenen weggebruikers voorrang aan treinen. De gehele spoorwegovergang wordt daarbij vrij gelaten.   
 2.  Het is weggebruikers verboden een spoorwegovergang als bedoeld in het eerste lid op te gaan indien: 
@@ -211,7 +211,7 @@ b. door de treinbestuurder of de begeleider van de trein een stopteken als bedoe
 3.  Artikel 14, eerste lid, onderdeel d, en tweede lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Op een beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoertuigen, gelegen in een bijzondere spoorweg, zijn de artikelen van 25 en 26 van het Besluit hoofdspoorweginfrastructuur van overeenkomstige toepassing. 
 
@@ -219,22 +219,22 @@ Op een beweegbare brug die uitsluitend bestemd is voor het gebruik door spoorvoe
 
 ####Handhaving en overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  De spoorwegbeheerder doet onverwijld melding aan Onze Minister van incidenten en ongevallen waardoor de veiligheid van het spoorverkeer of van de daarbij betrokken personen in gevaar is gebracht of in gevaar gebracht had kunnen worden, waaronder in elk geval de incidenten en ongevallen die resulteren in een dodelijke afloop, blijvend letsel of een ziekenhuisopname.   
 2.  Bij de melding worden in elk geval de aard en omvang van het incident of het ongeval vermeld.   
 3.  De melding wordt niet gedaan indien er reeds een melding over het incident of ongeval is gedaan overeenkomstig een andere wet en het incident of ongeval heeft plaatsgevonden binnen een niet voor het publiek vrij toegankelijk terrein van een bedrijf.  
 
 ### Artikel  18  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Overtreding van het gestelde in de artikelen 3, 4, 6, tweede en derde lid, 7, derde lid, 8, vijfde lid, 11, eerste en vijfde lid, of 14, eerste lid, is een overtreding waarvoor een bestuurlijke boete kan worden opgelegd als bedoeld in artikel 77, eerste lid, van de wet. 
 
 ### Artikel  19  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Overtreding van het gestelde in de artikelen 10, eerste lid, onderdeel c, of 15 vormt een strafbaar feit in de zin van artikel 87, eerste lid, van de wet.   
 2.  Overtreding van het gestelde in artikel 10, eerste lid, onderdelen a of b, vormt een strafbaar feit in de zin van artikel 87, tweede lid, van de wet.  
@@ -273,16 +273,16 @@ Wijzigt het Vrijstellingenbesluit Winkeltijdenwet.
 
 ####Overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  26  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 1.  Beschikkingen op grond van de artikelen 4, eerste of tweede lid, van het Reglement op de raccordementen, artikel 54, eerste lid, van het Reglement dienst hoofd- en lokaalspoorwegen, dan wel concessies afgegeven op grond van artikel 2 van de Locaalspoor- en tramwegwet voor zover deze op een toegestane snelheid van meer dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van artikel 8 van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 8, tweede lid.   
 2.  Beschikkingen afgegeven op grond van een artikel 4, tweede lid, van het Reglement op de raccordementen, voor zover deze op een maximaal toegestane snelheid van minder dan 30 kilometer per uur zien en geldend op het tijdstip van inwerkingtreding van artikel 8 van dit besluit, worden geacht beschikkingen te zijn, afgegeven op grond van artikel 8, derde lid.  
 
 ### Artikel  27  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 Ontheffingen en vergunningen afgegeven op grond van de artikelen 14, derde lid, van het Tramwegreglement of artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen, geldend op het tijdstip van inwerkingtreding van artikel 11 van dit besluit, worden geacht ontheffingen te zijn, afgegeven op grond van artikel 11, vierde lid. 
 

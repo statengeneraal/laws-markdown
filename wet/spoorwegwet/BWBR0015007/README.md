@@ -1171,14 +1171,14 @@ b. de instanties, belast met de toetsing, bedoeld in artikel 8, zesde lid, artik
 
 ### §  9  
 
-####Bepalingen inzake bijzondere en lokale spoorwegen
+####Bepalingen inzake bijzondere spoorwegen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
 ### Artikel  94  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-Bij algemene maatregel van bestuur kunnen met het oog op het veilig gebruik van bijzondere en lokale spoorwegen, ten aanzien van die spoorwegen regels worden gesteld over: 
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met het oog op het veilig gebruik van bijzondere spoorwegen, waaronder in ieder geval regels over: 
 
 a. technische eigenschappen van de spoorweginfrastructuur;  
 
@@ -1188,16 +1188,20 @@ c. seingeving;
 
 d. opening van spoorwegbruggen;  
 
-e. technische eigenschappen alsmede goedkeuring en toelating tot het verkeer van spoorvoertuigen;  
+e. technische eigenschappen, alsmede goedkeuring en toelating tot het verkeer van spoorvoertuigen;  
 
-f. verkeersgedrag en voorwaarden waaronder het gebruik van spoorwegen is toegestaan;  
+f. verkeersgedrag;  
 
-g. rijvaardigheid en rijbevoegdheid.   
+g. voorwaarden waaronder het gebruik van bijzondere spoorwegen is toegestaan; en  
+
+h. rijvaardigheid en rijbevoegdheid.      
+2.  Bij algemene maatregel van bestuur kunnen categorieën van bijzondere spoorwegen worden onderscheiden.   
+3.  In afwijking van artikel 2, zijn de artikelen 1 tot en met 4, 69, 76, eerste lid, 77, 80, 86 tot en met 91, en 97 niet van toepassing op een categorie als bedoeld in het tweede lid, voor zover dit bij algemene maatregel van bestuur is bepaald. 
 
 ### Artikel  95  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-12-2015 
 
-De rechthebbende ten aanzien van een bijzondere of lokale spoorweg die onder de werking van de richtlijnen 91/440/EEG, 95/18/EG of 2001/14/EG valt, verleent aan spoorwegondernemingen recht op toegang of gebruik overeenkomstig de in die richtlijnen opgenomen voorschriften en overigens tegen eerlijke, redelijke en niet-discriminerende voorwaarden. Artikel 26 is van overeenkomstige toepassing. De vergunning, bedoeld in artikel 2, onderdeel b, van richtlijn 95/18/EG, wordt verleend door Onze Minister met overeenkomstige toepassing van hoofdstuk 3, paragraaf 2. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2015/9.De rechthebbende ten aanzien van een bijzondere of lokale spoorweg die onder de werking van de richtlijnen 91/440/EEG, 95/18/EG of 2001/14/EG valt, verleent aan spoorwegondernemingen recht op toegang of gebruik overeenkomstig de in die richtlijnen opgenomen voorschriften en overigens tegen eerlijke, redelijke en niet-discriminerende voorwaarden. Artikel 26 is van overeenkomstige toepassing. De vergunning, bedoeld in artikel 2, onderdeel b, van richtlijn 95/18/EG, wordt verleend door Onze Minister met overeenkomstige toepassing van hoofdstuk 3, paragraaf 2. 
 
 ### §  10  
 

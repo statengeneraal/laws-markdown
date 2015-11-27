@@ -7,7 +7,7 @@ Gelet op artikel 42 van Verordening (EU) nr. 1234/2007 houdende een gemeenschapp
 
 Verordening (EU) nr. 1249/2008 van de Commissie van 10 december 2008 tot vaststelling van de uitvoeringsbepalingen voor de communautaire indelingsschema’s voor runder-, varkens- en schapenkarkassen en voor de mededeling van de prijzen daarvan (PbEU 2008, L 337);
 
-de [artikelen 13, eerste lid, onder b](../../../../../wet/landbouwwet/BWBR0002252/README.md), [17](../../../../../wet/landbouwwet/BWBR0002252/README.md), [19, eerste lid](../../../../../wet/landbouwwet/BWBR0002252/README.md), [20, eerste lid](../../../../../wet/landbouwwet/BWBR0002252/README.md), [22, eerste lid](../../../../../wet/landbouwwet/BWBR0002252/README.md), [22a, eerste lid](../../../../../wet/landbouwwet/BWBR0002252/README.md), [26](../../../../../wet/landbouwwet/BWBR0002252/README.md) en [27, van de Landbouwwet](../../../../../wet/landbouwwet/BWBR0002252/README.md);
+de artikelen 13, eerste lid, onder b, 17, 19, eerste lid, 20, eerste lid, 22, eerste lid, 22a, eerste lid, 26 en 27, van de Landbouwwet;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,25 +17,25 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*merk:* merk als bedoeld in de [artikelen 1, onderdeel w](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), en [8, eerste tot en met vierde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+*merk:* merk als bedoeld in de artikelen 1, onderdeel w, en 8, eerste tot en met vierde lid, van de Regeling identificatie en registratie van dieren;  
 
 *minister*: Minister van Economische Zaken;
 
 *NMi:* Nederlands Meetinstituut N.V.;  
 
-*NVWA:* Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Economische Zaken;  
-
 *overligger:* slachtrund of slachtvarken dat niet is geslacht op de dag van aanvoer bij het slachthuis;  
 
 *slachthuis:* inrichting als bedoeld in artikel 4 van Verordening (EG) nr. 853/2004, van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU 2004, L 139);  
 
-*UBN:* uniek bedrijfsnummer als bedoeld in [artikel 1, onder ee, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+*UBN:* uniek bedrijfsnummer als bedoeld in artikel 1, onder ee, van de Regeling identificatie en registratie van dieren;  
 
 *Verordening 854/2004:* Verordening (EU) nr. 854/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke voorschriften voor de organisatie van de officiële controles van voor menselijke consumptie bestemde producten van dierlijke oorsprong (PBEU 2004, L 139);  
 
 *Verordening 1234/2007:* Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);  
 
 *Verordening 1249/2008:* Verordening (EG) nr. 1249/2008 van de Commissie van 10 december 2008 tot vaststelling van de uitvoeringsbepalingen voor de communautaire indelingsschema's voor runder-, varkens- en schapenkarkassen en voor de mededeling van de prijzen daarvan (PbEU 2008, L 337);  
+
+*Verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347); 
 
 *wachtdag:* dag waarop een slachtrund of slachtvarken is aan te merken als een overligger.   
 
@@ -45,7 +45,7 @@ Het is verboden in strijd te handelen met artikel 42 van Verordening 1234/2007 e
 
 ### Artikel  1:3  
 
-Een be- of verwerker betaalt de kosten die de minster maakt ter uitvoering van de op grond van deze regeling verrichte werkzaamheden. De minister kan de hoogte van deze kosten vaststellen. 
+Een be- of verwerker betaalt de kosten die de minister maakt ter uitvoering van de op grond van deze regeling verrichte werkzaamheden. De minister kan de hoogte van deze kosten vaststellen. 
 
 ### Hoofdstuk  2  
 
@@ -118,7 +118,7 @@ Een be- of verwerker administreert per leverancier de dag en het tijdstip van de
 
 ### Artikel  2:6  
 
-Een be- of verwerker kan een termijn als bedoeld in Artikel 2:5 verlengen indien hij dit tevoren met de leverancier is overeengekomen en hij dit zo spoedig mogelijk bij de NVWA heeft gemeld. 
+Een be- of verwerker kan een termijn als bedoeld in Artikel 2:5 verlengen indien hij dit tevoren met de leverancier is overeengekomen en hij dit zo spoedig mogelijk bij de minister heeft gemeld. 
 
 ### Artikel  2:7  
 
@@ -177,12 +177,11 @@ u. de longhaas.
 ### Artikel  2:9  
 
 1.  Indien bij de weging de twee karkashelften van eenzelfde slachtrund in één keer worden gewogen, is het door de afdrukinrichting afgedrukte gewicht bepalend.   
-2.  Indien bij de weging de twee karkashelften van eenzelfde slachtrund afzonderlijk worden gewogen, telt de be- of verwerker deze beide gewichten bij elkaar op tot één gewogen gewicht. Daarna kan de be- of verwerker het gewogen gewicht afronden.   
-3.  Een be- of verwerker beschikt ten behoeve van herweging door de minister over een voorziening om een karkas na de weging en voor de koeling uit te railen. De minister kan een karkas voor herweging aanwijzen. Van het aangewezen karkas mag tot na de herweging niets worden afgesneden.  
+2.  Indien bij de weging de twee karkashelften van eenzelfde slachtrund afzonderlijk worden gewogen, telt de be- of verwerker deze beide gewichten bij elkaar op tot één gewogen gewicht. Daarna kan de be- of verwerker het gewogen gewicht afronden.  
 
 ### Artikel  2:10  
 
-1.  Een be- of verwerker weegt met een krachtens de [Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) goedgekeurd automatisch weegwerktuig uit de nauwkeurigheidsklasse III, bedoeld in Richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004, L 153).   
+1.  Een be- of verwerker weegt met een krachtens de Metrologiewet goedgekeurd automatisch weegwerktuig uit de nauwkeurigheidsklasse III, bedoeld in Richtlijn 2004/22/EG van het Europees Parlement en de Raad van 31 maart 2004 betreffende meetinstrumenten (PbEU 2004, L 153).   
 2.  Een automatisch bediende afdrukinrichting drukt per individuele weging het tijdstip in minuten en uren, de datum van de weging, het merk en het volgnummer af.   
 3.  Een weegwerktuig geeft met de haken tezamen in ledige toestand de nulstand aan. De gebruikte haken hebben allemaal hetzelfde gewicht.  
 
@@ -196,7 +195,7 @@ u. de longhaas.
 1.  Een be- of verwerker laat ten minste éénmaal per drie jaar het weegwerktuig controleren door het NMi of een daardoor erkende instantie.   
 2.  Een be- of verwerker laat ten minste éénmaal per drie jaar de toetsgewichten controleren door een hiertoe geaccrediteerde instantie.   
 3.  Indien er tijdens een controle als bedoeld in het eerste of tweede lid onregelmatigheden worden geconstateerd ten aanzien van het weegwerktuig of de toetsgewichten, dan herstelt een be- of verwerker deze onverwijld.   
-4.  Een be- of verwerker stelt de NVWA onverwijld in het bezit van een afschrift van een kalibratierapport van een instantie als bedoeld in het eerste of tweede lid, waaruit volgt dat geen onregelmatigheden zijn geconstateerd, of dat eventueel geconstateerde onregelmatigheden zijn hersteld.  
+4.  Een be- of verwerker stelt de minister onverwijld in het bezit van een afschrift van een kalibratierapport van een instantie als bedoeld in het eerste of tweede lid, waaruit volgt dat geen onregelmatigheden zijn geconstateerd, of dat eventueel geconstateerde onregelmatigheden zijn hersteld.  
 
 ### §  4  
 
@@ -292,7 +291,7 @@ e. indien van toepassing, het afkeurgewicht.
 ### Artikel  2:19  
 
 1.  Een be- of verwerker meldt de tijd van een geplande slachting tijdig aan de minister.   
-2.  Een be- of verwerker stelt een geschikte kantoorruimte ter beschikking aan de NVWA.   
+2.  Een be- of verwerker stelt een geschikte kantoorruimte ter beschikking aan de minister.   
 3.  Een be- of verwerker zorgt voor zodanige arbeidsomstandigheden dat de minister zijn werkzaamheden goed kan verrichten.  
 
 ### Artikel  2:20  
@@ -457,9 +456,9 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 *be- of verwerker:* be- of verwerker van vlees die varkens slacht of doet slachten en vervolgens weegt;  
 
-*classificatie:* indelen van een geslacht varken in een klasse als bedoeld in punt II, onder B, bijlage V, van Verordening 1234/2007 met behulp van classificatieapparatuur en indien van toepassing in type op grond van een visuele beoordeling;  
+*classificatie:* indelen van een geslacht varken in een klasse als bedoeld in punt II, onder B, bijlage IV, van Verordening 1308/2013 met behulp van classificatieapparatuur en indien van toepassing in type op grond van een visuele beoordeling;  
 
-*classificatiegegevens:* gegevens omtrent het mager vleespercentage, de klasse,bedoeld in punt II, onder B, bijlage V, van Verordening 1234/2007 en indien van toepassing het type;  
+*classificatiegegevens:* gegevens omtrent het mager vleespercentage, de klasse,bedoeld in punt II, onder B, bijlage IV, van Verordening 1308/2013 en indien van toepassing het type;  
 
 *eigen code:* code op het slachtmerk dat dient ter afrekening van het desbetreffende slachtvarken;  
 
@@ -473,7 +472,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 *slachtgegevens:* in het kader van de classificatie van slachtvarkens aan de minister ter beschikking gestelde gegevens betreffende de classificatie, weging en identificatie van slachtvarkens;  
 
-*slachtmerk:* onderscheidingsteken als bedoeld in [artikel 8, vierde lid, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+*slachtmerk:* onderscheidingsteken als bedoeld in artikel 8, vierde lid, van de Regeling identificatie en registratie van dieren;  
 
 *slachtvarken:* voor onmiddellijke slachting bestemd dier, behorende tot de familie der Suidae;  
 
@@ -485,7 +484,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 *Uitvoeringsbesluit:* Uitvoeringsbesluit van de Commissie van 20 mei 2011 tot toelating van methoden voor de indeling van geslachte varkens in Nederland (2011/303/EU) (PbEU 2011, L 136);  
 
-*vervoersdocument:* document als bedoeld in [artikel 30 van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);  
+*vervoersdocument:* document als bedoeld in artikel 30 van de Regeling identificatie en registratie van dieren;  
 
 *varkenshouder:* ondernemer die een onderneming drijft waarin slachtvarkens worden gehouden;  
 
@@ -507,7 +506,7 @@ De minister kan in uitzonderlijke gevallen vrijstelling of op aanvraag ontheffin
 
 1.  Een be- of verwerker die jaarlijks ten minste 10.000 slachtvarkens slacht of doet slachten draagt er zorg voor dat ten aanzien van deze varkens classificatie plaatsvindt.   
 2.  Een be- of verwerker hoeft geen zorg te dragen voor de classificatie van zware slachtvarkens.   
-3.  Het eerste lid is niet van toepassing op varkens die worden geslacht bij wijze van noodmaatregel op grond van de [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) of de [Wet dieren](../../../../../wet/wet/dieren/BWBR0030250/README.md).  
+3.  Het eerste lid is niet van toepassing op varkens die worden geslacht bij wijze van noodmaatregel op grond van de Gezondheids- en welzijnswet voor dieren of de Wet dieren.  
 
 ### §  2  
 
@@ -602,12 +601,12 @@ c. een weging zodanig te doen geschieden dat daardoor de vaststelling van het ge
 
 ### Artikel  3:11  
 
-1.  Bij een weging wordt gebruik gemaakt van een krachtens de [Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) goedgekeurd weegwerktuig uit de klasse III.   
+1.  Bij een weging wordt gebruik gemaakt van een krachtens de Metrologiewet goedgekeurd weegwerktuig uit de klasse III.   
 2.  De automatisch bediende afdrukinrichting drukt per individuele weging het tijdstip in minuten en uren, de datum van de weging en het individuele merk of het volgnummer af. Het weegwerktuig geeft met de spreiders tezamen in ledige toestand de nulstand aan.   
 3.  De gebruikte spreiders zijn van hetzelfde gewicht.   
 4.  Ten minste éénmaal per drie jaar wordt het weegwerktuig door het NMI of door een door het NMI erkend bedrijf op zijn correcte werking gecontroleerd.   
 5.  Als tijdens een controle van het weegwerktuig een afwijking geconstateerd wordt, draagt een be- of verwerker zorg voor reparatie van het weegwerktuig.   
-6.  Een be- of verwerker overhandigt onverwijld een afschrift van het kalibratierapport aan de NVWA.  
+6.  Een be- of verwerker overhandigt onverwijld een afschrift van het kalibratierapport aan de minister.  
 
 ### Artikel  3:12  
 
@@ -631,7 +630,7 @@ b. ten minste 140 kilo aan toetsgewichten.
 2.  De toetsgewichten hebben ingeslagen identificatienummers.   
 3.  Tenminste eenmaal per drie jaar controleert een hiertoe geaccrediteerde instantie de toetsgewichten.   
 4.  Indien er tijdens een controle als bedoeld in het derde lid een afwijking wordt geconstateerd, draagt een be- of verwerker er onverwijld zorg voor dat de toetsgewichten op het juiste gewicht worden gebracht.   
-5.  Een be- of verwerker verstrekt onverwijld een afschrift van het kalibratierapport aan de NVWA.  
+5.  Een be- of verwerker verstrekt onverwijld een afschrift van het kalibratierapport aan de minister.  
 
 ### §  4  
 
@@ -752,7 +751,7 @@ Een be- of verwerker draagt er zorg voor dat de slachtingen ook ongehinderd door
 
 ### Artikel  3:24  
 
-1.  Een be- of verwerker draagt er zorg voor dat de minister een classificatiemerk op een geclassificeerd karkas van een slachtvarken kan aanbrengen, waarbij de vastgestelde klasse of het vastgestelde mager vleespercentage, bedoeld in punt II, onder B, bijlage V, van Verordening 1234/2007 weergegeven wordt.   
+1.  Een be- of verwerker draagt er zorg voor dat de minister een classificatiemerk op een geclassificeerd karkas van een slachtvarken kan aanbrengen, waarbij de vastgestelde klasse of het vastgestelde mager vleespercentage, bedoeld in punt II, onder B, bijlage IV, van Verordening 1308/2013 weergegeven wordt.   
 2.  Een be- of verwerker kan tevens een type op een karkas van de geclassificeerde varkens aanbrengen, dat bestaat uit een hoofdletter met een weergave van de mate van bespierdheid overeenkomstig het volgende indelingsschema:  
 
 | Type  | Mate van bespierdheid  |
@@ -763,7 +762,7 @@ Een be- of verwerker draagt er zorg voor dat de slachtingen ook ongehinderd door
 | C  | vrij dunne bespiering  |
 
 3.  Een be- of verwerker die gebruik maakt van het tweede lid, doet dit voor de hele te onderscheiden partij karkassen van de geclassificeerde varkens.   
-4.  Een be- of verwerker draagt er zorg voor dat de aanduidingen betreffende de klasse, of het aandeel mager vlees, bedoeld in punt II, onderdeel B, bijlage V, van Verordening 1234/2007 en indien van toepassing het type, op het karkas van het geclassificeerde slachtvarken correct zijn.  
+4.  Een be- of verwerker draagt er zorg voor dat de aanduidingen betreffende de klasse, of het aandeel mager vlees, bedoeld in punt II, onder B, bijlage IV, van Verordening 1308/2013 en indien van toepassing het type, op het karkas van het geclassificeerde slachtvarken correct zijn.  
 
 ### Artikel  3:25  
 
@@ -834,19 +833,19 @@ c. indien van toepassing, het type, bedoeld in Artikel 3:24, tweede lid.
 
 ### Artikel  4:1  
 
-Door het Productschap voor Vee en Vlees verleende registraties, vrijstellingen of ontheffingen op grond van: 
+Door het Productschap Vee en Vlees verleende registraties, vrijstellingen of ontheffingen op grond van: 
 
-a. de [Verordening prijswaarneming runderen](../../../../../pbo/verordening/prijswaarneming/runderen/(pvv)/2011/BWBR0031110/README.md) (PVV) 2011;  
+a. de Verordening prijswaarneming runderen (PVV) 2011;  
 
-b. de [Verordening classificatie slachtvarkens](../../../../../pbo/verordening/classificatie/slachtvarkens/(pvv)/2011/BWBR0031480/README.md) (PVV) 2011;  
+b. de Verordening classificatie slachtvarkens (PVV) 2011;  
 
-c. de [Verordening slachting en weging slachtvarkens](../../../../../pbo/verordening/slachting/en/weging/slachtvarkens/(pvv)/2011/BWBR0031488/README.md) (PVV) 2011, en  
+c. de Verordening slachting en weging slachtvarkens (PVV) 2011, en  
 
-d. de [Verordening slachting, weging en classificatie slachtrunderen](../../../../../pbo/verordening/slachting/weging/en/classificatie/slachtrunderen/(pvv)/2011/BWBR0031141/README.md) (PVV) 2011, gelden als door de minister verleende registraties, vrijstellingen of ontheffingen op grond van deze regeling.   
+d. de Verordening slachting, weging en classificatie slachtrunderen (PVV) 2011, gelden als door de minister verleende registraties, vrijstellingen of ontheffingen op grond van deze regeling.   
 
 ### Artikel  4:2  
 
-Archiefbescheiden van het Productschap voor Vee en Vlees betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats. 
+Archiefbescheiden van het Productschap Vee en Vlees betreffende zaken die op basis van deze regeling worden behartigd door de minister, worden overgedragen aan de minister, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  4:3  
 

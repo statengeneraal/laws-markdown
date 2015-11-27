@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 7 juli 1987, no. WBJ/V724276, Directoraat-Generaal van het Verkeer;
 
-Gelet op de [artikelen 27 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md) (*Stb.* 1875, 67) 4*a*, derde en vierde lid, 5, vijfde lid en 6, tweede lid van de [Locaalspoor- en Tramwegwet](../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (*Stb.* 1918, 99);
+Gelet op de artikelen 27 van de Spoorwegwet (*Stb.* 1875, 67) 4*a*, derde en vierde lid, 5, vijfde lid en 6, tweede lid van de Locaalspoor- en Tramwegwet (*Stb.* 1918, 99);
 
 De Raad van State gehoord (advies van 9 december 1987, no. W09.87.0308);
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
 
-b. brug: een brug over water, gelegen in een spoorweg waarop voorschriften, gegeven bij of krachtens de [Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md) of de [Locaalspoor- en Tramwegwet](../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) van toepassing zijn, en die uitsluitend of in hoofdzaak voor het verkeer over die spoorweg dient, met inbegrip van de voor dat verkeer noodzakelijke installaties en van de bij die brug behorende beschermingswerken;  
+b. brug: een brug over water, gelegen in een spoorweg waarop voorschriften, gegeven bij of krachtens de Spoorwegwet of de Locaalspoor- en Tramwegwet van toepassing zijn, en die uitsluitend of in hoofdzaak voor het verkeer over die spoorweg dient, met inbegrip van de voor dat verkeer noodzakelijke installaties en van de bij die brug behorende beschermingswerken;  
 
 c. vaartuig: elk voorwerp, hoe ook genaamd en van welke aard ook, bestemd of in staat tot verplaatsing te water, waarbij voor de toepassing van dit reglement een samenstel van vaartuigen als sleep, als duwstel of anderszins met een vaartuig gelijk wordt gesteld:  
 
@@ -31,7 +31,7 @@ f. des daags: de tijd tussen zonsopgang en zonsondergang;
 
 g. des nachts: de tijd tussen zonsondergang en zonsopgang.     
 2.   Indien een brug uit één of meer vaste overspanningen en één of meer beweegbare gedeelten bestaat, wordt voor de toepassing van dit besluit onder een beweegbare brug mede verstaan elk beweegbaar gedeelte van die brug.   
-3.   Ten aanzien van spoorwegen onder beheer van een publiekrechtelijk lichaam worden voor de naleving van dit besluit als bestuurders, bedoeld in [artikel 9 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0001848/README.md), aangemerkt zij, die door dit publiekrechtelijk lichaam aan het hoofd van de spoorweg zijn gesteld.  
+3.   Ten aanzien van spoorwegen onder beheer van een publiekrechtelijk lichaam worden voor de naleving van dit besluit als bestuurders, bedoeld in artikel 9 van de Spoorwegwet, aangemerkt zij, die door dit publiekrechtelijk lichaam aan het hoofd van de spoorweg zijn gesteld.  
 
 ### Artikel  2  
 

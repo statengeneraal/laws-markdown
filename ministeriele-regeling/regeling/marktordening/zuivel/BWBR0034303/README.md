@@ -27,7 +27,9 @@ In deze regeling wordt verstaan onder:
 
 *Verordening 1234/2007:* Verordening (EU) nr. 1234/2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (‘integrale-GMO-verordening’) (PbEU 2007, L 299);  
 
-*Verordening 657/2008:* Verordening (EG) nr. 657/2008 van de Commissie van 10 juli 2008 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1234/2007 van de Raad ten aanzien van de toekenning van communautaire steun voor de verstrekking van melk en bepaalde zuivelproducten aan leerlingen in onderwijsinstellingen.   
+*Verordening 657/2008:* Verordening (EG) nr. 657/2008 van de Commissie van 10 juli 2008 houdende bepalingen voor de uitvoering van Verordening (EG) nr. 1234/2007 van de Raad ten aanzien van de toekenning van communautaire steun voor de verstrekking van melk en bepaalde zuivelproducten aan leerlingen in onderwijsinstellingen;  
+
+*Verordening 1308/2013:* Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347).  
 
 ### Hoofdstuk  2  
 
@@ -44,7 +46,7 @@ Vervallen per 15-10-2014
 1.  De minister is de bevoegde autoriteit, bedoeld in Verordening 657/2008.   
 2.  De NVWA is de bevoegde controleautoriteit, bedoeld in Verordening 657/2008.   
 3.  Overeenkomstig de artikelen 6 tot met 9 van Verordening 657/2008 kan de minister op verzoek een erkenning verlenen aan een onderwijsinstelling of een leverancier als bedoeld in artikel 6 van die verordening.   
-4.  Met inachtneming van artikel 102 van Verordening 1234/2007 en Verordening 657/2008 kent de minister steun toe aan een erkende onderwijsinstelling of een leverancier over de hoeveelheden zuivelproducten, genoemd in de categorieën I en II van de lijst van producten opgenomen in bijlage I van Verordening 657/2008, bestemd voor leerlingen van een onderwijsinstelling.  
+4.  Met inachtneming van artikel 26 van Verordening 1308/2013 en Verordening 657/2008 kent de minister steun toe aan een erkende onderwijsinstelling of een leverancier over de hoeveelheden zuivelproducten, genoemd in de categorieën I en II van de lijst van producten opgenomen in bijlage I van Verordening 657/2008, bestemd voor leerlingen van een onderwijsinstelling.  
 
 ### Artikel  3:2  
 

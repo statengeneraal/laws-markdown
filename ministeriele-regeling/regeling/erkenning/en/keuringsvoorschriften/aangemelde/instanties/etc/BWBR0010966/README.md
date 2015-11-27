@@ -3,7 +3,7 @@
 ##Regeling houdende procedure, criteria en tarieven voor erkenning van aan te melden instanties en voorschriften voor uitvoering door aangemelde instanties van werkzaamheden krachtens richtlijn 96/48/EG 
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op richtlijn nr. 96/48/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de interoperabiliteit van het transeuropees hoge-snelheidsspoorwegsysteem (PbEG L 235), [artikel 32d, zevende en achtste lid, van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [artikel 8 van het Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem](../../../../../../../../../AMvB/besluit/interoperabiliteit/transeuropees/hoge-snelheidsspoorwegsysteem/BWBR0010978/README.md);
+Gelet op richtlijn nr. 96/48/EG van de Raad van de Europese Unie van 23 juli 1996 betreffende de interoperabiliteit van het transeuropees hoge-snelheidsspoorwegsysteem (PbEG L 235), artikel 32d, zevende en achtste lid, van de Spoorwegwet en artikel 8 van het Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem;
 Besluit:      
 ### § 1  
 
@@ -29,7 +29,7 @@ c.  opgave van beschikbare specifieke deskundigheden met kopieën van relevante 
 
 d.  een beschrijving van de taken waarvoor de erkenning wordt aangevraagd;  
 
-e.  overzicht van niet als aangemelde instantie uitgevoerde of uit te voeren werk-zaamheden ten aanzien van onderwerpen waarop hoofdstuk IIIA van de [Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) betrekking heeft;  
+e.  overzicht van niet als aangemelde instantie uitgevoerde of uit te voeren werk-zaamheden ten aanzien van onderwerpen waarop hoofdstuk IIIA van de Spoorwegwet betrekking heeft;  
 
 f.  afschriften van polissen van tegen wettelijke aansprakelijkheid afgesloten verzekeringen;  
 
@@ -65,7 +65,7 @@ m.  afschriften van bedrijfsinterne procedures, handboeken en voorschriften met 
 
 ### Artikel  5  
 
-De aan te melden instantie is een in Nederland gevestigde onderneming als bedoeld in artikel 3, eerste lid, dan wel een rechtspersoon als bedoeld in [artikel 4, eerste lid, van de Handelsregisterwet 1996](../../../../../../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md).  
+De aan te melden instantie is een in Nederland gevestigde onderneming als bedoeld in artikel 3, eerste lid, dan wel een rechtspersoon als bedoeld in artikel 4, eerste lid, van de Handelsregisterwet 1996.  
 
 ### Artikel  6  
 
@@ -84,7 +84,7 @@ De aan te melden instantie is een in Nederland gevestigde onderneming als bedoel
 
 ### Artikel  8  
 
-1.  De aan te melden instantie is in staat ten minste de beoordeling en waardering in het kader van onderzoek of EG-keuring als bedoeld in artikel 3, eerste lid, onderscheidenlijk 4, [derde lid](../../../../../../../../../AMvB/besluit/interoperabiliteit/transeuropees/hoge-snelheidsspoorwegsysteem/BWBR0010978/README.md), van het [Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem](../../../../../../../../../AMvB/besluit/interoperabiliteit/transeuropees/hoge-snelheidsspoorwegsysteem/BWBR0010978/README.md) uit te voeren in of vanuit één of meer vestigingen in Nederland.   
+1.  De aan te melden instantie is in staat ten minste de beoordeling en waardering in het kader van onderzoek of EG-keuring als bedoeld in artikel 3, eerste lid, onderscheidenlijk 4, derde lid, van het Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem uit te voeren in of vanuit één of meer vestigingen in Nederland.   
 2.  De aan te melden instantie besteedt de beoordeling en waardering niet uit.   
 
 ### § 4  
@@ -95,7 +95,7 @@ De aan te melden instantie is een in Nederland gevestigde onderneming als bedoel
 
 Bij uitbesteding van werkzaamheden draagt de aangemelde instantie er zorg voor, dat: 
 
-a.  dat degene aan wie uitbesteed wordt de krachtens hoofdstuk IIIA van de [Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) geldende regels in acht neemt;  
+a.  dat degene aan wie uitbesteed wordt de krachtens hoofdstuk IIIA van de Spoorwegwet geldende regels in acht neemt;  
 
 b.  dat degene aan wie uitbesteed wordt geen van de werkzaamheden verder uitbesteedt;  
 
@@ -142,9 +142,9 @@ c.  ontvangen bezwaar- en beroepschriften;
 
 d.  besluiten op bezwaarschriften en door de instantie opgestelde verweerschriften als bedoeld in artikel 8.42, eerste lid, van de Algemene wet bestuursrecht;  
 
-e.  verzoekschriften en schriftelijke toelichtingen als bedoeld in artikel 12, tweede lid, respectievelijk 18, [eerste lid](../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), van de [Wet Nationale ombudsman](../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+e.  verzoekschriften en schriftelijke toelichtingen als bedoeld in artikel 12, tweede lid, respectievelijk 18, eerste lid, van de Wet Nationale ombudsman;  
 
-f.  schriftelijke verzoeken om informatie en schriftelijke beslissingen daarop als bedoeld in artikel 3, eerste lid, respectievelijk 5, [eerste lid](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).     
+f.  schriftelijke verzoeken om informatie en schriftelijke beslissingen daarop als bedoeld in artikel 3, eerste lid, respectievelijk 5, eerste lid, van de Wet openbaarheid van bestuur.     
 2.  De aangemelde instantie doet binnen een maand mededeling aan de minister van wijzigingen in gegevens die vermeld waren in de aanvraag of wijziging van omstandigheden die uitdrukkelijk meegewogen zijn bij de erkenning.   
 
 ### Artikel  15  
@@ -157,7 +157,7 @@ De bepalingen van NEN-EN 45004, onder 15, 45011, onder 7 en 45012, onder 2.4 wor
 
 ### Artikel  16  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem](../../../../../../../../../AMvB/besluit/interoperabiliteit/transeuropees/hoge-snelheidsspoorwegsysteem/BWBR0010978/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het Besluit interoperabiliteit transeuropees hoge-snelheidsspoorwegsysteem in werking treedt.  
 
 ### Artikel  17  
 

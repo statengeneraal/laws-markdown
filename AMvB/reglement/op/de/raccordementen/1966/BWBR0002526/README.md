@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 25 november 1965, nr. A-2/032940, Directoraat-Generaal van het Verkeer;
 
-Gelet op [artikel 6, tweede lid, der Locaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md));
+Gelet op artikel 6, tweede lid, der Locaalspoor- en Tramwegwet);
 
 De Raad van State gehoord (advies van 22 december 1965, nr. 60);
 
@@ -17,9 +17,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. Minister: Onze Minister, belast met de uitvoering van de [Locaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md);  
+a. Minister: Onze Minister, belast met de uitvoering van de Locaalspoor- en Tramwegwet;  
 
-b. raccordement: spoorweg, welke niet voor het openbaar vervoer van personen of van goederen is opengesteld en welke aansluit aan een spoorweg, bedoeld in de [Spoorwegwet](../../../../../../../wet/spoorwegwet/BWBR0001848/README.md), aan een lokaalspoorweg of aan een tramweg;  
+b. raccordement: spoorweg, welke niet voor het openbaar vervoer van personen of van goederen is opengesteld en welke aansluit aan een spoorweg, bedoeld in de Spoorwegwet, aan een lokaalspoorweg of aan een tramweg;  
 
 c. bestuurders: bestuurders van de onderneming die de dienst op het raccordement verzorgt;  
 
@@ -90,7 +90,7 @@ d. aan weggebruikers de voor het rijden van de raccordementstrein en voor de vei
 ### Artikel  8  
 
 1.  Bestuurders kunnen, met toestemming van Onze Minister, bij overwegen Andreaskruisen volgens model J12 of J13 van bijlage 1, behorende bij het RVV 1990, of hekken plaatsen. Onze Minister kan aan de toestemming het voorschrift verbinden, dat de overweg wordt beveiligd.   
-2.   Op overwegen waar op grond van het bepaalde in het eerste lid Andreaskruisen of hekken zijn geplaatst, is het bepaalde in de [artikelen 20](../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), [21](../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), [22](../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) en [23, tweede tot en met vierde lid, van het Reglement Dienst Hoofd- en Lokaalspoorwegen](../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) van overeenkomstige toepassing.  
+2.   Op overwegen waar op grond van het bepaalde in het eerste lid Andreaskruisen of hekken zijn geplaatst, is het bepaalde in de artikelen 20, 21, 22 en 23, tweede tot en met vierde lid, van het Reglement Dienst Hoofd- en Lokaalspoorwegen van overeenkomstige toepassing.  
 
 ### Artikel  9  
 
@@ -111,7 +111,7 @@ b. de niet onder *a* begrepen ongevallen, waarbij personen zijn gewond of gedood
 ### Artikel  11  
 
 1.  De raccordementsbeambten worden door de bestuurders aangewezen. De aanwijzing behoeft de instemming van Onze Minister; deze kan de instemming ook achteraf verlenen. Raccordementsbeambten kunnen worden beëdigd.   
-2.  De eed (belofte) wordt afgelegd ten overstaan van een kantonrechter van een rechtbank en luidt als volgt: "Ik zweer (beloof), dat ik alle plichten, welke mij door of krachtens de [Locaalspoor- en Tramwegwet](../../../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) zijn of zullen worden opgelegd, eerlijk en vlijtig zal vervullen. Zo waarlijk helpe mij God Almachtig (Dat beloof ik)".  
+2.  De eed (belofte) wordt afgelegd ten overstaan van een kantonrechter van een rechtbank en luidt als volgt: "Ik zweer (beloof), dat ik alle plichten, welke mij door of krachtens de Locaalspoor- en Tramwegwet zijn of zullen worden opgelegd, eerlijk en vlijtig zal vervullen. Zo waarlijk helpe mij God Almachtig (Dat beloof ik)".  
 
 ### Artikel  12  
 

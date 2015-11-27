@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14 september 2007, nr. TRCJZ/2007/2968, houdende regels inzake de kwaliteit van landbouwproducten (Landbouwkwaliteitsregeling 2007)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op [artikel 10 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md);
+Gelet op de Europese verordeningen en richtlijnen met betrekking tot het in de handel brengen van verschillende landbouwproducten, alsmede gelet op artikel 10 van het Landbouwkwaliteitsbesluit 2007;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -14,6 +14,8 @@ Besluit:
 In deze regeling wordt verstaan onder: 
 
 *de Minister:* de Minister van Economische Zaken; 
+
+*verordening (EG) 1580/2007:* Verordening (EG) nr. 1580/2007 van de Commissie van 21 december 2007 tot vaststelling van bepalingen voor de uitvoering van de Verordeningen (EG) nr. 2200/96, (EG) nr. 2201/96 en (EG) nr. 1182/2007 van de Raad in de sector groenten en fruit (PbEU 2007, L 350); 
 
 *verordening (EG) 889/2008:* verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft (PbEU L 250); 
 
@@ -45,7 +47,7 @@ Indien de Stichting Skal constateert dat de bepalingen van verordening (EG) 834/
 
 ### Artikel  9  
 
-Marktdeelnemers die groenten en fruit in de handel brengen als bedoeld in artikel 9, eerste lid, van verordening (EG) 1580/2007 verstrekken overeenkomstig het vierde en vijfde lid van dit artikel gegevens aan de Stichting KCB ten behoeve van het beheer van de gegevensbank door deze Stichting. 
+Marktdeelnemers als bedoeld in artikel 10, tweede lid, van verordening (EU) 543/2011 verstrekken de in het vijfde en zesde lid van dat artikel bedoelde gegevens aan de Stichting KCB ten behoeve van de gegevensbank, bedoeld in het eerste lid van dat artikel, die wordt beheerd door deze Stichting. 
 
 ### Artikel  10  
 
@@ -53,28 +55,27 @@ Marktdeelnemers die bananen in de handel brengen, die op grond van artikel 7, ee
 
 ### Artikel  11  
 
-De Minister is de coördinerende autoriteit, bedoeld in artikel 8 van verordening (EG) 1580/2007. 
+De Minister is de coördinerende autoriteit, bedoeld in artikel 9, eerste lid, onderdeel a, van verordening (EU) 543/2011. 
 
 ### Artikel  12  
 
 De Stichting KCB is belast met: 
 
-a. het verlenen van de in artikel 11, eerste lid, van verordening (EG) 1580/2007 bedoelde toestemming;  
+a. het verlenen van de in artikel 12, eerste lid, van verordening (EU) 543/2011 bedoelde toestemming;  
 
-b. de vaststelling van het minimumaandeel, bedoeld in artikel 10, tweede lid, onderdeel b, van verordening (EG) 1580/2007;  
+b. de vaststelling van het minimum percentage, bedoeld in artikel 11, tweede lid, onderdeel b, van verordening (EU) 543/2011;  
 
 c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, bedoeld in artikel 7, eerste lid, van verordening (EG) 2898/95. 
 
 ### Artikel  13  
 
-1.  De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 10 en 20 en bijlage VI van verordening (EG) 1580/2007 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.   
-2.  De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van verordening (EG) 2898/95.   
-3.  De keuring en controle van krenten en rozijnen door de Stichting KCB geschiedt overeenkomstig artikel 2 van verordening (EG) 1666/99.  
+1.  De controle van groenten en fruit door de Stichting KCB geschiedt overeenkomstig de artikelen 11 en 17 en bijlage V van verordening (EU) 543/2011 en artikel 113 bis, vierde lid en de krachtens artikel 194 van verordening (EG) 1234/2007 vastgestelde voorschriften bij de normcontroles op de interne markt.   
+2.  De keuring en controle van bananen door de Stichting KCB geschiedt overeenkomstig de artikelen 2 tot en met 7 van verordening (EG) 2898/95.  
 
 ### Artikel  14  
 
-1.  Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EG) 1580/2007 en de bij of krachtens verordening (EG) 1234/2007 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 20, derde lid, van verordening (EG) 1580/2007.   
-2.  Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 20, derde lid, van verordening (EG) 1580/2007.   
+1.  Indien door de Stichting KCB bij een normcontrole wordt vastgesteld dat een partij groenten of fruit, die zich in het vrije verkeer binnen de Europese Unie bevindt, niet voldoet aan de in de verordening (EU) 543/2011 en de bij of krachtens verordening (EU) 1308/2013 gestelde eisen, wordt een verklaring van niet-conformiteit opgesteld als bedoeld in artikel 17, derde lid, van verordening (EU) 543/2011.   
+2.  Een partij groenten of fruit, waarvoor de Stichting KCB een verklaring van niet-conformiteit heeft afgegeven, mag niet worden vervoerd, verplaatst, verhandeld of vernietigd zonder toestemming van de Stichting KCB overeenkomstig artikel 17, derde lid, van verordening (EU) 543/2011.   
 3.  Voor de toestemming, bedoeld in het tweede lid kan als voorwaarde worden gesteld dat aan door de Stichting KCB gestelde eisen wordt voldaan.  
 
 ### Hoofdstuk  3  
@@ -136,7 +137,7 @@ b. een bewijs van inschrijving in het handelsregister, dat door de bevoegde inst
 
 ### Artikel  26  
 
-Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) worden aangewezen: 
+Als personen belast met het toezicht op de naleving als bedoeld in artikel 15, eerste lid, van de Landbouwkwaliteitswet worden aangewezen: 
 
 a. de keurmeesters van de Stichting BKD;  
 
@@ -156,8 +157,8 @@ In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon
 
 ### Artikel  26b  
 
-1.  Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.   
-2.  De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) of [artikel 10 van het Landbouwkwaliteitsbesluit zuivelproducten](../../../../AMvB/landbouwkwaliteitsbesluit/zuivelproducten/BWBR0009770/README.md) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van: 
+1.  Een controle-instelling kan de tarieven, bedoeld in artikel 11, eerste lid, van de Landbouwkwaliteitswet, in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.   
+2.  De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007 of de artikelen 2.10 en 2.11 van het Besluit dierlijke producten is belast. De tarieven kunnen in rekening worden gebracht in de vorm van: 
 
 a. een retributie op basis van de activiteiten die worden verricht door of in opdracht van de controle-instelling ten behoeve van het toezicht of de keuring bij de desbetreffende marktdeelnemer, of  
 
@@ -183,7 +184,7 @@ b. een heffing op basis van het verrichten van activiteiten door marktdeelnemers
 
 ### Artikel  26c  
 
-Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), bekend op haar website. 
+Een controle-instelling maakt de tarieven, bedoeld in artikel 11, eerste lid, van de wet, bekend op haar website. 
 
 ### Artikel  27  
 
@@ -193,27 +194,27 @@ De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductscha
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Landbouwkwaliteitsregeling aanwijzing groenten en fruit](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/aanwijzing/groenten/en/fruit/BWBR0003129/README.md);  
+a. Landbouwkwaliteitsregeling aanwijzing groenten en fruit;  
 
-b. [Landbouwkwaliteitsregeling biologische productiemethode 1996](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/biologische/productiemethode/1996/BWBR0008176/README.md);  
+b. Landbouwkwaliteitsregeling biologische productiemethode 1996;  
 
-c. [Landbouwkwaliteitsregeling controle groenten en fruit 1993](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/controle/groenten/en/fruit/1993/BWBR0005914/README.md)  
+c. Landbouwkwaliteitsregeling controle groenten en fruit 1993  
 
-d. [Landbouwkwaliteitsregeling delegatie bevoegdheden eieren](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/delegatie/bevoegdheden/eieren/BWBR0014118/README.md);  
+d. Landbouwkwaliteitsregeling delegatie bevoegdheden eieren;  
 
-e. [Landbouwkwaliteitsregeling etikettering rundvlees](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/etikettering/rundvlees/BWBR0008931/README.md);  
+e. Landbouwkwaliteitsregeling etikettering rundvlees;  
 
-f. [Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/geografische/aanduidingen/oorsprongsbenamingen/etc/BWBR0006397/README.md);  
+f. Landbouwkwaliteitsregeling geografische aanduidingen, oorsprongsbenamingen en specificiteitscertificeringen;  
 
-g. [Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit](../../../../ministeriele-regeling/landbouwkwaliteitsbeschikking/vrijstellingen/ontheffingen/en/nadere/etc/BWBR0003128/README.md);  
+g. Landbouwkwaliteitsbeschikking vrijstellingen, ontheffingen en nadere voorschriften groenten en fruit;  
 
-h. [Landbouwkwaliteitsregeling zuigelingenvoeding 1994](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/zuigelingenvoeding/1994/BWBR0006750/README.md);  
+h. Landbouwkwaliteitsregeling zuigelingenvoeding 1994;  
 
-i. [Vrijstellingsregeling grootverpakkingen zuigelingenvoeding](../../../../ministeriele-regeling/vrijstellingsregeling/grootverpakkingen/zuigelingenvoeding/BWBR0008155/README.md);  
+i. Vrijstellingsregeling grootverpakkingen zuigelingenvoeding;  
 
-j. [Besluit aanwijzing toezichthouders Landbouwkwaliteitswet](../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/landbouwkwaliteitswet/BWBR0013679/README.md);  
+j. Besluit aanwijzing toezichthouders Landbouwkwaliteitswet;  
 
-k. De [Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen](../../../../ministeriele-regeling/regelen/inzake/het/rijkstoezicht/op/de/controle-instellingen/BWBR0003121/README.md) (Stcrt. 1977, 159).   
+k. De Regeling van de Minister van Landbouw en Visserij van 15 augustus 1977 inzake het rijkstoezicht op de controle-instellingen (Stcrt. 1977, 159).   
 
 ### Artikel  29  
 
@@ -221,7 +222,7 @@ Deze regeling wordt aangehaald als: Landbouwkwaliteitsregeling 2007.
 
 ### Artikel  30  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop het Landbouwkwaliteitsbesluit 2007 in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
