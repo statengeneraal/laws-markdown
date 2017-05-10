@@ -83,7 +83,7 @@ There are three sources I have used for populating this repository:
 
 1. The [official API from the Dutch government](https://data.overheid.nl/data/dataset/basis-wetten-bestand), which produces information about laws as they are today.
 2. The [MetaLex document server](http://doc.metalex.eu/), which has been tracking Dutch law and converting it to MetaLex since 2010
-3. A [CouchDB database](https://couchdb.apache.org/) I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex document server has some bugs. Source code for the service is [here](https://github.com/statengeneraal/tools-scripts).  
+3. A database I have set up to mirror information produced by the government database, and keep track of historical information since May 26 2014. I have made this database because the MetaLex document server has some bugs. Source code for the service is [here](https://github.com/statengeneraal/tools-scripts).  
 
 I have taken the XML files in these databases and converted them to the simple markup language [Markdown](http://daringfireball.net/projects/markdown/). A considerable amount of code determines the order of modifying / deleting documents. If a document is not valid anymore, it is deleted from the repository.
 
