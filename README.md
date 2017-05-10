@@ -1,3 +1,6 @@
+## ⚠ This repository is no longer mantained
+Dutch government has changed (and greatly improved) its open data service and completely overshadows this repo. It serves now only as an artifact of history.
+
 Dutch laws in GitHub
 ====================
 
