@@ -1,4 +1,4 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+Voor de toepassing van deze rijkswet.<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
 ##Rijkswet van 19 december 1984, houdende vaststelling van nieuwe, algemene bepalingen omtrent het Nederlanderschap ter vervanging van de Wet van 12 december 1892, Stb. 268 op het Nederlanderschap en het ingezetenschap
 
@@ -31,7 +31,7 @@ f. staatloze: een persoon die door geen enkele staat, krachtens diens wetgeving,
 g. toelating: instemming door het bevoegd gezag met het bestendig verblijf van de vreemdeling in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 h. hoofdverblijf: de plaats waar een persoon zijn feitelijke woonstede heeft.     
-2.  Behoudens voor de toepassing van artikel 15A, onder a, van deze rijkswet wordt mede verstaan onder: 
+2. Voor de toepassing van deze rijkswet. wordt mede verstaan onder: 
 
 a.echtgenoot: de partner in een in Nederland geregistreerd partnerschap alsmede de partner in een buiten Nederland geregistreerd partnerschap dat op grond van de artikelen 2 en 3 van de Wet conflictenrecht geregistreerd partnerschap wordt erkend, en
 
@@ -128,7 +128,7 @@ d. de minderjarige vreemdeling die krachtens Nederlandse rechterlijke beslissing
 
 e. de meerderjarige vreemdeling die sedert het bereiken van de leeftijd van vier jaar toelating en hoofdverblijf heeft in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-f. de meerderjarige vreemdeling die te eniger tijd het Nederlanderschap of de staat van Nederlands onderdaan-niet-Nederlander heeft bezeten en in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba tenminste één jaar toelating voor onbepaalde tijd en hoofdverblijf heeft tenzij hij het Nederlanderschap heeft verloren op grond van artikel 15, eerste lid, onder d of f;  
+f. de meerderjarige vreemdeling die te eniger tijd het Nederlanderschap of de staat van Nederlands onderdaan-niet-Nederlander heeft bezeten en in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba tenminste één jaar toelating voor onbepaalde tijd en hoofdverblijf heeft;  
 
 g. de vreemdeling die gedurende tenminste drie jaren de echtgenoot is van een Nederlander en gedurende een onafgebroken periode van tenminste vijftien jaren toelating en hoofdverblijf heeft in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
@@ -154,24 +154,7 @@ o. het in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de o
 6.  Indien een persoon op wie de verklaring betrekking heeft, geen geslachtsnaam of voornaam heeft of indien de juiste spelling daarvan niet vaststaat, wordt deze in overleg met hem vastgesteld en in de bevestiging vermeld; zijn naam wordt daarin zonodig in de in het Koninkrijk gebruikelijke lettertekens overgebracht.   
 7.  Voor de toepassing van het eerste lid, aanhef en onder a en b, wordt geboorte aan boord van een in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba te boek gesteld zeeschip of luchtvaartuig gelijk gesteld met geboorte in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba.   
 8.  Het minderjarige niet-Nederlandse kind van de vader, moeder of adoptiefouder als bedoeld in artikel 11, achtste lid, die een verklaring tot verkrijging van het Nederlanderschap aflegt, deelt in die verkrijging indien het in de verklaring tot dat doel is vermeld en het, behoudens in de gevallen waarin de verklaring wordt afgelegd op grond van het eerste lid, onder c of d, sedert het tijdstip van het afleggen van de verklaring toelating en hoofdverblijf heeft in het Europese deel van Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba. Kinderen van een kind dat in de verkrijging deelt, delen onder dezelfde voorwaarden in die verkrijging. Een kind dat ten tijde van het afleggen van de bereidverklaring de leeftijd van zestien jaar heeft bereikt, deelt slechts in de verkrijging indien het daarmee uitdrukkelijk instemt, de in het tweede lid bedoelde bereidverklaring, alsmede de verklaring zelf aflegt en jegens hem geen vermoedens bestaan als in het vierde lid bedoeld. Het besluit tot bevestiging wordt niet bekend gemaakt dan nadat de verklaring van verbondenheid daadwerkelijk is afgelegd.   
-9.  Aan de vreemdeling die te eniger tijd het Nederlanderschap door optie heeft verkregen, staat van de in het eerste lid genoemde mogelijkheden tot herkrijging van het Nederlanderschap door optie alleen die, bedoeld onder f., open.  
-
-### Artikel  6a  
-
-1.  De in artikel 6, tweede lid, bedoelde bevestiging wordt geweigerd indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, een andere nationaliteit bezit en niet het mogelijke heeft gedaan om die nationaliteit te verliezen dan wel niet bereid is het mogelijke te zullen doen om, na de totstandkoming van de bevestiging, die nationaliteit te verliezen, tenzij dit redelijkerwijs niet kan worden verlangd.   
-2.  Het eerste lid is niet van toepassing op 
-
-a. de vreemdeling die onderdaan is van een Staat die Partij is bij het op 2 februari 1993 te Straatsburg tot stand gekomen Tweede Protocol tot wijziging van het Verdrag betreffende de beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1994, 265);  
-
-b. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten is geboren en daar ten tijde van de verklaring tot verkrijging van het Nederlanderschap zijn hoofdverblijf heeft;  
-
-c. de vreemdeling die gehuwd is met een Nederlander;  
-
-d. de vreemdeling die in Nederland, Aruba, Curaçao of Sint Maarten erkend is als vluchteling.     
-3.  De autoriteit, bedoeld in artikel 6, derde lid, beoordeelt of de vreemdeling heeft voldaan aan het vereiste, genoemd in het eerste lid, of dat de vreemdeling een beroep toekomt op een van de uitzonderingen, genoemd in het tweede lid. Indien dit het geval is en ook aan de overige vereisten is voldaan, bevestigt zij schriftelijk de verkrijging van het Nederlanderschap.   
-4.  De autoriteit vraagt advies aan Onze Minister indien de vreemdeling stelt dat afstand van zijn andere nationaliteit redelijkerwijs niet kan worden verlangd. De autoriteit deelt de vreemdeling mee dat Onze Minister om advies is verzocht en binnen welke termijn op de optie zal worden besloten.   
-5.  De autoriteit besluit na de ontvangst van het advies van Onze Minister schriftelijk op de verkrijging van het Nederlanderschap.   
-6.  De beslistermijn als bedoeld in artikel 6, vierde lid, wordt met vier weken verlengd, indien de autoriteit Onze Minister verzoekt om advies, bedoeld in het vierde lid.  
+9.  Aan de vreemdeling die te eniger tijd het Nederlanderschap door optie heeft verkregen, staat van de in het eerste lid genoemde mogelijkheden tot herkrijging van het Nederlanderschap door optie alleen die, bedoeld onder f., open.   
 
 ### Hoofdstuk  4  
 
@@ -207,25 +190,14 @@ e. die verklaart bereid te zijn bij de verkrijging van het Nederlanderschap een 
 
 a. op grond van het gedrag van de verzoeker ernstige vermoedens bestaan dat hij gevaar oplevert voor de openbare orde, de goede zeden, of de veiligheid van het Koninkrijk;  
 
-b. de verzoeker die een andere nationaliteit bezit, niet het mogelijke heeft gedaan om die nationaliteit te verliezen dan wel niet bereid is het mogelijke te zullen doen om, na de totstandkoming van de naturalisatie, die nationaliteit te verliezen, tenzij dit redelijkerwijs niet kan worden verlangd;  
-
-c. de verzoeker op wie een van de uitzonderingen van artikel 8, tweede lid, van toepassing is, zijn hoofdverblijf heeft in het land waarvan hij onderdaan is.     
+b. de verzoeker op wie een van de uitzonderingen van artikel 8, tweede lid, van toepassing is, zijn hoofdverblijf heeft in het land waarvan hij onderdaan is.     
 2.  Indien de verzoeker het Nederlanderschap heeft verloren ingevolge artikel 16, eerste lid, kan het verzoek op de grond bedoeld in het eerste lid, onder a, alleen worden afgewezen, indien hij binnen een periode van tien jaren voorafgaande aan het verzoek veroordeeld is wegens een strafbaar feit tegen de veiligheid van het Koninkrijk of is veroordeeld tot een gevangenisstraf van tenminste vijf jaren wegens een ander strafbaar feit.   
-3.  Het eerste lid, aanhef en onder b, is niet van toepassing op 
-
-a. de verzoeker die onderdaan is van een Staat die Partij is bij het op 2 februari 1993 te Straatsburg tot stand gekomen Tweede Protocol tot wijziging van het Verdrag betreffende de beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1994, 265);  
-
-b. de verzoeker die in Nederland, Aruba, Curaçao of Sint Maarten is geboren en daar ten tijde van het verzoek zijn hoofdverblijf heeft;  
-
-c. de verzoeker die gehuwd is met een Nederlander;   
-
-d. de verzoeker die in Nederland, de Nederlandse Antillen of Aruba erkend is als vluchteling.     
-4.  Op het verzoek wordt beslist binnen één jaar na de betaling van het verschuldigde recht, bedoeld in artikel 13 of na de beslissing tot algehele ontheffing van die betaling, dan wel na de ontvangst van de gevraagde aanvulling van het verzoek, noodzakelijk voor de beoordeling daarvan. De beslissing kan ten hoogste tweemaal zes maanden worden aangehouden.   
-5.  Beslissingen tot afwijzing of aanhouding van verzoeken tot verlening van het Nederlanderschap kunnen door Onze Minister worden genomen.  
+3.  Op het verzoek wordt beslist binnen één jaar na de betaling van het verschuldigde recht, bedoeld in artikel 13 of na de beslissing tot algehele ontheffing van die betaling, dan wel na de ontvangst van de gevraagde aanvulling van het verzoek, noodzakelijk voor de beoordeling daarvan. De beslissing kan ten hoogste tweemaal zes maanden worden aangehouden.   
+4.  Beslissingen tot afwijzing of aanhouding van verzoeken tot verlening van het Nederlanderschap kunnen door Onze Minister worden genomen.  
 
 ###Artikel 10 
 
-Wij kunnen, de Raad van State van het Koninkrijk gehoord, in bijzondere gevallen het Nederlanderschap verlenen met afwijking van artikel 8, eerste lid, aanhef en onder a, c en d, artikel 9, eerste lid, aanhef en onder c, en de termijn genoemd in artikel 11, derde, vierde en vijfde lid.
+Wij kunnen, de Raad van State van het Koninkrijk gehoord, in bijzondere gevallen het Nederlanderschap verlenen met afwijking van artikel 8, eerste lid, aanhef en onder a, c en d, artikel 9, eerste lid, aanhef en onder b, en de termijn genoemd in artikel 11, derde, vierde en vijfde lid.
 
 ### Artikel  11  
 
@@ -277,36 +249,15 @@ d. een misdrijf omschreven in de artikelen 6, 7 en 8 van het op 17 juli 1998 te
 
 ### Artikel  15  
 
-1.  Het Nederlanderschap gaat voor een meerderjarige verloren: 
+Het Nederlanderschap gaat voor een meerderjarige verloren: 
 
-a. door het vrijwillig verkrijgen van een andere nationaliteit;  
+a. door het afleggen van een verklaring van afstand;  
 
-b. door het afleggen van een verklaring van afstand;  
-
-c. indien hij tevens een vreemde nationaliteit bezit en tijdens zijn meerderjarigheid gedurende een ononderbroken periode van tien jaar in het bezit van beide nationaliteiten zijn hoofdverblijf heeft buiten Nederland, Aruba, Curaçao en Sint Maarten, en buiten de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is, anders dan in een dienstverband met Nederland, Aruba, Curaçao of Sint Maarten dan wel met een internationaal orgaan waarin het Koninkrijk is vertegenwoordigd, of als echtgenoot van of als ongehuwde in een duurzame relatie samenlevend met een persoon in een zodanig dienstverband;  
-
-d. door intrekking door Onze Minister van het besluit waarbij het Nederlanderschap is verleend, welke kan plaatsvinden, indien de betrokkene heeft nagelaten na de totstandkoming van zijn naturalisatie al het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen;  
-
-e. indien hij zich vrijwillig in vreemde krijgsdienst begeeft van een staat die betrokken is bij gevechtshandelingen tegen het Koninkrijk dan wel tegen een bondgenootschap waarvan het Koninkrijk lid is;  
-
-f. door intrekking door Onze Minister van het besluit waarbij de verkrijging van het Nederlanderschap is bevestigd, welke kan plaatsvinden, indien de vreemdeling als bedoeld in artikel 6, eerste lid, onder e, heeft nagelaten na de verkrijging van het Nederlanderschap het mogelijke te doen om zijn oorspronkelijke nationaliteit te verliezen.    
-2.  Het eerste lid, aanhef en onder a, is niet van toepassing op de verkrijger 
-
-a. die in het land van die andere nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft;  
-
-b. die voor het bereiken van de meerderjarige leeftijd gedurende een onafgebroken periode van tenminste vijf jaren in het land van die andere nationaliteit zijn hoofdverblijf heeft gehad; of  
-
-c. die gehuwd is met een persoon die die andere nationaliteit bezit.     
-3.  De periode bedoeld in het eerste lid, onder c, wordt geacht niet te zijn onderbroken indien de betrokkene gedurende een periode korter dan één jaar zijn hoofdverblijf in Nederland, Aruba, Curaçao of Sint Maarten heeft, dan wel in de gebieden waarop het Verdrag betreffende de Europese Unie van toepassing is.   
-4.  De periode, bedoeld in het eerste lid, onder c, wordt gestuit door de verstrekking van een verklaring omtrent het bezit van het Nederlanderschap dan wel van een reisdocument of Nederlandse identiteitskaart in de zin van de Paspoortwet. Vanaf de dag der verstrekking begint een nieuwe periode van tien jaren te lopen.  
+b. indien hij zich vrijwillig in vreemde krijgsdienst begeeft van een staat die betrokken is bij gevechtshandelingen tegen het Koninkrijk dan wel tegen een bondgenootschap waarvan het Koninkrijk lid is.
 
 ### Artikel  15A  
 
-Voorts gaat het Nederlanderschap voor een meerderjarige verloren: 
-
-a. indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is echter niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265) en de betrokkene behoort tot een van de categorieën, genoemd in artikel 15, tweede lid;  
-
-b. indien hij ingevolge de op 25 november 1975 te Paramaribo gesloten Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (Trb. 1975, nr. 132) de Surinaamse nationaliteit verkrijgt.   
+Voorts gaat het Nederlanderschap voor een meerderjarige verloren indien hij ingevolge de op 25 november 1975 te Paramaribo gesloten Toescheidingsovereenkomst inzake nationaliteiten tussen het Koninkrijk der Nederlanden en de Republiek Suriname (Trb. 1975, nr. 132) de Surinaamse nationaliteit verkrijgt.  
 
 ### Artikel  16  
 
@@ -314,13 +265,8 @@ b. indien hij ingevolge de op 25 november 1975 te Paramaribo gesloten Toescheidi
 
 a. door gerechtelijke vaststelling van het ouderschap, erkenning, wettiging of adoptie door een vreemdeling, indien hij diens nationaliteit daardoor verkrijgt, of deze reeds bezit;  
 
-b. door het afleggen van een verklaring van afstand, indien hij de nationaliteit bezit van zijn vader, moeder of adoptiefouder als bedoeld in artikel 11, achtste lid;  
-
-c. indien zijn vader of moeder vrijwillig een andere nationaliteit verkrijgt en hij in deze verkrijging deelt of deze nationaliteit reeds bezit;  
-
-d. indien zijn vader of moeder het Nederlanderschap verliest ingevolge artikel 15, eerste lid, onder b, c of d, of ingevolge artikel 15A;  
-
-e. indien hij zelfstandig dezelfde nationaliteit verkrijgt als zijn vader of moeder.   Voor de toepassing van de onderdelen c, d en e wordt onder vader of moeder mede verstaan de adoptiefouder aan wie de minderjarige het Nederlanderschap ontleent, en de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent. De in onderdeel b bedoelde verklaring van afstand heeft geen rechtsgevolg dan nadat de minderjarige die de leeftijd van twaalf jaar heeft bereikt en, op diens verzoek, de ouder die geen wettelijk vertegenwoordiger is, daarover zijn gehoord. Geen afstand is mogelijk indien het kind en die ouder daartegen bedenkingen hebben. De minderjarige die de leeftijd van zestien jaar heeft bereikt, legt de verklaring van afstand zelfstandig af en kan daarin niet worden vertegenwoordigd.   
+b. door het afleggen van een verklaring van afstand, indien hij de nationaliteit bezit van zijn vader, moeder of adoptiefouder als bedoeld in artikel 11, achtste lid.
+  
 2.  Het verlies van het Nederlanderschap, bedoeld in het eerste lid treedt niet in: 
 
 a. indien en zolang een ouder het Nederlanderschap bezit;  
@@ -331,15 +277,9 @@ c. indien een ouder als Nederlander is overleden vóór het tijdstip waarop krac
 
 d. indien de minderjarige voldoet aan artikel 3, derde lid, of artikel 2, onder a, van de wet van 12 december 1892 op het Nederlanderschap en het ingezetenschap (Stb.268), behoudens in het geval bedoeld in het eerste lid onder b;  
 
-e. indien de minderjarige in het land van de door hem verkregen nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft, behoudens in het geval bedoeld in het eerste lid onder b;  
+e. indien de minderjarige in het land van de door hem verkregen nationaliteit is geboren en daar ten tijde van de verkrijging zijn hoofdverblijf heeft, behoudens in het geval bedoeld in het eerste lid onder b; of
 
-f. indien de minderjarige gedurende een onafgebroken periode van tenminste vijf jaren in het land van de door hem verkregen nationaliteit zijn hoofdverblijf heeft of gehad heeft, behoudens in het geval bedoeld in het eerste lid onder b; of  
-
-g. indien in het geval in het eerste lid, onder e, bedoeld een ouder op het tijdstip van de verkrijging Nederlander is.    Voor de toepassing van de onderdelen a, b, c en g wordt onder een ouder mede verstaan de adoptiefouder als bedoeld in artikel 11, achtste lid, en de persoon die mede het gezamenlijk gezag over de minderjarige uitoefent en aan wie hij het Nederlanderschap ontleent. 
-
-### Artikel  16A  
-
-Voorts gaat het Nederlanderschap voor een minderjarige verloren indien hij ten gevolge van een uitdrukkelijke wilsverklaring door naturalisatie, optie of herstel daarin de nationaliteit verkrijgt van een Staat die Partij is bij het op 6 mei 1963 te Straatsburg gesloten Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit (Trb. 1964, nr. 4) en dit Verdrag dat verlies meebrengt. Het voorgaande is niet van toepassing indien die Staat tevens Partij is bij het Tweede Protocol tot wijziging van dat Verdrag (Trb. 1994, nr. 265), en de betrokkene behoort tot een van de categorieën, genoemd in artikel 16, tweede lid, onder e, f en g.  
+f. indien de minderjarige gedurende een onafgebroken periode van tenminste vijf jaren in het land van de door hem verkregen nationaliteit zijn hoofdverblijf heeft of gehad heeft, behoudens in het geval bedoeld in het eerste lid onder b.
 
 ### Hoofdstuk  6  
 
@@ -383,7 +323,7 @@ b. de bevestigingen, bedoeld in het derde lid van artikel 6 en in artikel 28;
 
 c. de verlening van het Nederlanderschap;  
 
-d. de intrekkingen, bedoeld in het eerste lid van artikel 14, en artikel 15, eerste lid, onder d.     
+d. de intrekkingen, bedoeld in het eerste lid van artikel 14.     
 2.  Onze Ministers van Justitie van Aruba, van Curaçao en van Sint Maarten houden een openbaar register van de in het eerste lid bedoelde akten welke betrekking hebben op personen die in hun land woonachtig zijn.  
 
 ### Hoofdstuk  8  
