@@ -90,7 +90,7 @@ I have taken the XML files in these databases and converted them to the simple m
 
 Contact
 ------------
-Inquiries go to m.f.a.trompper@uva.nl.
+Inquiries go to cacfd3a@duck.com.
 
 This repository is maintained by the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group of the University of Amsterdam which operates at the intersection of artificial intelligence and law. It is also connected to [Open State](http://openstate.eu/), an organization that promotes open data. 
 
